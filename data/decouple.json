@@ -1,0 +1,242 @@
+{
+  "word": "解耦",
+  "phonetics": {
+    "british": "/diːˈkʌpl/",
+    "american": "/diːˈkʌpəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To separate or disconnect two systems, processes, or elements so that they function independently and are no longer interdependent.",
+      "chineseTranslation": "使分开或断开两个系统、过程或元素，使它们能独立运作",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of separating or disconnecting elements to achieve independence.",
+      "chineseTranslation": "解耦的过程或行为",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decouple from",
+      "meaning": "从...解耦",
+      "example": "The company decided to decouple its operations from the volatile market.",
+      "exampleTranslation": "公司决定将其运营从波动的市场中解耦。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fully decouple",
+      "meaning": "完全解耦",
+      "example": "Engineers aim to fully decouple the software modules for better scalability.",
+      "exampleTranslation": "工程师们旨在完全解耦软件模块以提高可扩展性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In software engineering, it's essential to decouple components to enhance system flexibility.",
+      "translation": "在软件工程中，解耦组件对于提高系统灵活性至关重要。",
+      "source": "Technical article (e.g., from IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Economists argue that developing countries must decouple economic growth from carbon emissions.",
+      "translation": "经济学家认为，发展中国家必须使经济增长与碳排放脱钩。",
+      "source": "News article (e.g., from The Economist)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The policy aims to decouple public health from political influences.",
+      "translation": "该政策旨在使公共卫生与政治影响脱钩。",
+      "source": "Academic paper (e.g., from social science journals)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "apart or away from",
+        "language": "Latin"
+      },
+      {
+        "root": "couple",
+        "meaning": "to join or link together",
+        "language": "Old French (from Latin 'copula')"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的机械工程术语，指火车车厢的连接和断开（coupling and uncoupling），逐渐扩展到抽象领域如经济学和技术中，表示系统或变量的独立化过程；从具体物理操作演变为现代的模块化和去依赖设计。",
+    "firstKnownUse": "1850s",
+    "relatedWords": [
+      "couple",
+      "uncouple",
+      "decoupling"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象两个链接的齿轮分开；通过重复性练习在真实语境中应用词汇，以强化长时记忆；为中文母语学习者，关联到类似概念如'分离'，并使用间隔重复法复习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "disconnect",
+        "similarity": "0.8",
+        "context": "技术或系统语境中，强调物理或逻辑分离"
+      },
+      {
+        "word": "separate",
+        "similarity": "0.7",
+        "context": "一般或抽象语境中，用于非技术领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "couple",
+        "context": "连接或整合语境中，表示使事物相关联"
+      },
+      {
+        "word": "integrate",
+        "context": "系统整合语境中，表示合并为整体"
+      }
+    ],
+    "hypernyms": [
+      "separate"
+    ],
+    "hyponyms": [
+      "unlink",
+      "detach"
+    ],
+    "collocations": [
+      {
+        "pattern": "decouple [noun] from [noun]",
+        "examples": [
+          "decouple the economy from fossil fuels"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "fully decouple",
+        "examples": [
+          "fully decouple systems for independence"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征模块化和独立性，尤其在全球化背景下，体现为经济脱钩或软件设计的灵活性；在中国文化中，可能与'分而治之'的哲学理念相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更侧重于技术应用，如软件和经济领域",
+        "usage": "在美国英语中，常用于商业和技术讨论中，以强调创新和独立"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "表达更正式，常见于学术语境",
+        "usage": "在英国英语中，可能与历史工业革命相关联，用于工程和政策分析"
+      }
+    ],
+    "historicalContext": "与工业革命相关的机械工程背景相连，在20世纪扩展到经济学（如凯恩斯理论中的脱钩概念），反映了社会从依赖到独立的发展趋势。",
+    "modernUsage": "在社交媒体和科技新闻中流行，例如讨论气候变化或数字化转型时使用，体现跨文化交流的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个火车车厢从轨道上断开，变成独立运行的模块。",
+      "keyElements": [
+        "火车车厢",
+        "连接链",
+        "独立模块"
+      ],
+      "emotionalConnection": "联想到获得自由或摆脱束缚的感觉，触发个人经历如工作独立"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "De-couple: 'De' 像 '分开'，'couple' 像 '配对'，所以整体意思是 '分开配对'。",
+        "explanation": "通过词根分解和视觉联想，利用认知科学中的语义网络来增强记忆保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/diːˈkʌpl/' 听起来像 'dee-cup-el'，联想到 '拿走杯子' (de-couple)，象征移除连接。",
+        "explanation": "结合声音和图像以创建多模态记忆路径，提高对中文母语者的可访问性"
+      }
+    ],
+    "wordAssociations": [
+      "disconnect",
+      "separate",
+      "isolate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "decoupled",
+      "pastParticiple": "decoupled",
+      "presentParticiple": "decoupling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "decouple [object] from [object]",
+        "description": "表示从特定事物中解耦另一个事物，常用于及物动词结构",
+        "examples": [
+          "We must decouple innovation from traditional constraints."
+        ]
+      },
+      {
+        "pattern": "to be decoupled",
+        "description": "被动语态结构，用于强调结果",
+        "examples": [
+          "The processes are decoupled for efficiency."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'couple' as antonym without context",
+        "correction": "Use in appropriate technical contexts",
+        "explanation": "学习者常忽略语境，导致误用；通过练习区分同源词可避免"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'decoupled' for past",
+        "explanation": "中文母语者可能受母语影响而忽略英语动词变化；结合句法练习强化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 10-20 occurrences per million words)",
+    "domains": [
+      "Technology",
+      "Economics",
+      "Engineering"
+    ],
+    "tags": [
+      "Technical",
+      "Abstract",
+      "Modern"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

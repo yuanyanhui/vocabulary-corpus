@@ -1,0 +1,265 @@
+{
+  "word": "polymorphic",
+  "phonetics": {
+    "british": "/ˌpɒlɪˈmɔːfɪk/",
+    "american": "/ˌpɑːlɪˈmɔːrfɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Exhibiting or relating to polymorphism, especially in biology, where an organism or species has different forms or stages.",
+      "chineseTranslation": "多形的；多态的（尤其在生物学中，指生物体或物种具有不同形式或阶段）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, referring to the ability of different classes to be treated as instances of the same class through inheritance.",
+      "chineseTranslation": "多态的（在计算机科学中，指不同类通过继承被视为同一类的实例）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having or occurring in many different forms, as in mineralogy or chemistry.",
+      "chineseTranslation": "多形态的（在矿物学或化学中，指具有多种不同形式）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "polymorphic virus",
+      "meaning": "多态病毒（一种能改变自身代码以逃避检测的恶意软件）",
+      "example": "A polymorphic virus can evade antivirus software by constantly altering its code.",
+      "exampleTranslation": "多态病毒可以通过不断改变其代码来逃避杀毒软件的检测。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "polymorphic function",
+      "meaning": "多态函数（在编程中，能处理不同类型参数的函数）",
+      "example": "In object-oriented programming, a polymorphic function allows for greater flexibility in code design.",
+      "exampleTranslation": "在面向对象的编程中，多态函数允许代码设计具有更大的灵活性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "polymorphic behavior",
+      "meaning": "多态行为（指系统或实体根据情境表现出不同形式的行为）",
+      "example": "The polymorphic behavior of certain animals helps them adapt to changing environments.",
+      "exampleTranslation": "某些动物的多态行为有助于它们适应不断变化的环境。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The polymorphic nature of quartz allows it to form in various crystal structures.",
+      "translation": "石英的多态性质使其能够形成各种晶体结构。",
+      "source": "Scientific literature (e.g., geology texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Java, polymorphic methods enable developers to write more reusable code.",
+      "translation": "在Java中，多态方法使开发人员能够编写更可重用的代码。",
+      "source": "Programming tutorials (e.g., from online tech resources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Some species exhibit polymorphic traits that vary based on environmental factors.",
+      "translation": "某些物种表现出根据环境因素变化的多态特征。",
+      "source": "Biology articles (e.g., from academic journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The artist's work displays a polymorphic style, blending elements from multiple cultures.",
+      "translation": "这位艺术家的作品展示出多态风格，融合了多种文化元素。",
+      "source": "Art criticism (e.g., modern reviews)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "poly",
+        "meaning": "many",
+        "language": "Greek"
+      },
+      {
+        "root": "morphe",
+        "meaning": "form or shape",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语的 'poly'（多）和 'morphe'（形式），通过拉丁语和法语传入英语，最早用于19世纪的生物学和地质学中描述物种或物质的多形式现象，后来扩展到计算机科学，反映了科学术语的演变。",
+    "firstKnownUse": "1830s",
+    "relatedWords": [
+      "polymorphism",
+      "morphology",
+      "polymorph"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (由于包含元音和辅音组合如 /ˌpɒlɪˈmɔːfɪk/，对中文母语者可能挑战音节划分)",
+    "spellingDifficulty": "7 (词长且包含不常见的字母组合如 'ph'，易误写为 'polymorfic')",
+    "meaningComplexity": "8 (语义依赖特定领域，需理解上下文才能准确把握)",
+    "usageComplexity": "7 (常用于技术语境，需要结合专业知识)",
+    "learningTips": [
+      "使用分块记忆法，将词汇分解为 'poly-' 和 '-morphic'，结合认知科学中的间隔重复；建议通过视觉图表联想不同形式的物体，如变形虫，以增强记忆迁移。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multiform",
+        "similarity": "0.8",
+        "context": "适用于描述多种形式的技术或生物语境中"
+      },
+      {
+        "word": "versatile",
+        "similarity": "0.6",
+        "context": "在非技术语境中，用于表示适应性强"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monomorphic",
+        "context": "在生物学中，用于对比单一形式的结构"
+      },
+      {
+        "word": "uniform",
+        "context": "在一般语境中，表示一致或单一的特征"
+      }
+    ],
+    "hypernyms": [
+      "adaptive",
+      "variable"
+    ],
+    "hyponyms": [
+      "genetic polymorphism"
+    ],
+    "collocations": [
+      {
+        "pattern": "polymorphic [noun]",
+        "examples": [
+          "polymorphic virus",
+          "polymorphic code"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] polymorphic",
+        "examples": [
+          "highly polymorphic",
+          "genetically polymorphic"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征创新和适应性，尤其在生物学和计算机科学中代表进化理论的隐含语义，在跨文化语境中，中国学习者可将其与中医的 '变易' 概念关联以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域如软件开发",
+        "usage": "在美国英语中，常见于编程讨论，以强调代码的灵活性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向生物学语境",
+        "usage": "在英国英语中，更多用于学术论文中描述物种多样性"
+      }
+    ],
+    "historicalContext": "与19世纪达尔文进化论相关，在现代文化中与科技革命（如人工智能）关联，体现了西方科学传统的动态性。",
+    "modernUsage": "在社交媒体和在线论坛中，常用于讨论AI和生物技术趋势，例如Reddit上的编程社区。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个变形机器人（像变形金刚）在不同环境中变换形状。",
+      "keyElements": [
+        "机器人",
+        "变换",
+        "环境"
+      ],
+      "emotionalConnection": "联结个人对科幻电影的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly = many, Morphic = morph (change shape), so 'many shapes' like a chameleon.",
+        "explanation": "通过视觉联想强化词汇记忆，利用认知科学中的双编码理论，将图像与词汇结合。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-O-L-Y-Morphic: Poly for 'many', Morphic for 'forms'.",
+        "explanation": "使用首字母缩写法促进记忆分块，基于工作记忆模型。"
+      }
+    ],
+    "wordAssociations": [
+      "chameleon",
+      "adapt",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more polymorphic",
+      "superlative": "most polymorphic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + polymorphic",
+        "description": "用于描述主语的特性",
+        "examples": [
+          "The crystal is polymorphic."
+        ]
+      },
+      {
+        "pattern": "Polymorphic + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A polymorphic function exists in the program."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using as a noun",
+        "correction": "Use as an adjective only",
+        "explanation": "常见错误是将它误用为名词；正确时需后接名词，如 'polymorphic trait' 而非 'a polymorphic'"
+      },
+      {
+        "mistake": "Confusing with 'polymorphous'",
+        "correction": "Distinguish based on context",
+        "explanation": "中文学习者常混淆类似词；通过语境区分以避免语义错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "Science",
+      "Technology",
+      "Biology"
+    ],
+    "tags": [
+      "Technical",
+      "Scientific",
+      "Adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

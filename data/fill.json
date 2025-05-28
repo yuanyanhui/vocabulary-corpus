@@ -1,0 +1,255 @@
+{
+  "word": "fill",
+  "phonetics": {
+    "british": "/fɪl/",
+    "american": "/fɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make full or complete by adding material or substance; to occupy the whole capacity of something.",
+      "chineseTranslation": "填充；装满",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To supply or provide something that is lacking or needed.",
+      "chineseTranslation": "满足；提供",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Material used to fill a space or container.",
+      "chineseTranslation": "填充物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fill in",
+      "meaning": "填写；补充",
+      "example": "Please fill in the blanks on the form.",
+      "exampleTranslation": "请填写表格上的空白处。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fill out",
+      "meaning": "填写完整；长胖",
+      "example": "You need to fill out this application form for the job.",
+      "exampleTranslation": "你需要为这份工作填写完整的申请表格。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fill up",
+      "meaning": "加满；填满",
+      "example": "Let's fill up the car with gas before we leave.",
+      "exampleTranslation": "在我们离开前，把车加油加满。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She carefully filled the vase with fresh flowers.",
+      "translation": "她小心地把花瓶装满了新鲜的花朵。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The company needs to fill the position with a qualified candidate as soon as possible.",
+      "translation": "公司需要尽快用合格的候选人填充这个职位。",
+      "source": "Business news (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In construction, workers use concrete to fill the gaps in the foundation.",
+      "translation": "在建筑中，工人们用混凝土填充地基的缝隙。",
+      "source": "Technical literature (e.g., engineering texts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "fyllan",
+        "meaning": "to make full",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "从古英语 fyllan 演变而来，该词源自原始日耳曼语 *fulljaną，意为使充满或完成。在中古英语时期，该词扩展到抽象意义，如满足需求。随着英语的标准化，该词在现代英语中保持了其核心含义，但也发展出习语形式，如 fill in。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "fulfill",
+      "full",
+      "refill"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 4,
+    "usageComplexity": 5,
+    "learningTips": [
+      "结合认知科学，通过视觉想象法联想'fill'与'充满容器'的场景，以强化空间记忆；对于中国母语学习者，建议将'fill'与类似汉字'填'进行语义映射，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "stuff",
+        "similarity": 0.7,
+        "context": "在非正式场合，用于描述填充物体"
+      },
+      {
+        "word": "occupy",
+        "similarity": 0.6,
+        "context": "在正式语境中，用于表示占据空间"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "empty",
+        "context": "当讨论容器变空时，例如在日常家务语境"
+      },
+      {
+        "word": "drain",
+        "context": "在技术或工程语境中，表示移除内容"
+      }
+    ],
+    "hypernyms": [
+      "occupy"
+    ],
+    "hyponyms": [
+      "top up",
+      "refill"
+    ],
+    "collocations": [
+      {
+        "pattern": "fill with",
+        "examples": [
+          "fill with water",
+          "fill with excitement"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "fill in for",
+        "examples": [
+          "fill in for a colleague"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征满足或完成，常隐含在日常生活和商业语境中，例如'fill a void'表示填补空缺，反映西方文化对效率和丰盈的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "Fill up the tank",
+        "usage": "在美国英语中，更常用于加油站语境，强调即时性和实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "Fill the tank up",
+        "usage": "在英国英语中，结构可能稍有调整，但含义相同，常用于日常对话"
+      }
+    ],
+    "historicalContext": "与工业革命相关的填充技术在英语中强化了该词的用法，例如在19世纪的文学作品中（如狄更斯的著作），'fill'常与社会阶层和资源分配相关联。",
+    "modernUsage": "在现代社交媒体和数字语境下，'fill'用于在线表单或内容创建，如社交平台上的'fill out your profile'，反映了全球化的信息时代趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个空瓶子被水慢慢倒满的过程。",
+      "keyElements": [
+        "瓶子",
+        "水",
+        "充满"
+      ],
+      "emotionalConnection": "联结个人经验，如吃饱后的满足感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Fill 听起来像 'feel'，所以联想 'feel full' 表示感到饱满。",
+        "explanation": "通过声音联觉和语义关联，帮助中国学习者建立听觉-视觉记忆路径"
+      },
+      {
+        "type": "visualization",
+        "content": "画一个填充前的空容器和填充后的满容器。",
+        "explanation": "利用认知科学中的双编码理论，结合图像和文字增强长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "full",
+      "complete",
+      "stuff",
+      "occupy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "filled",
+      "pastParticiple": "filled",
+      "presentParticiple": "filling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object + with + content",
+        "description": "主语 + 动词 + 宾语 + 以 + 内容，主语执行填充动作。",
+        "examples": [
+          "I fill the bottle with water."
+        ]
+      },
+      {
+        "pattern": "Verb + in/out",
+        "description": "动词 + 介词短语，常用于习语结构。",
+        "examples": [
+          "Please fill in the form."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Fill the form (omitting 'in')",
+        "correction": "Fill in the form",
+        "explanation": "英语中 'fill in' 是固定习语；中国学习者可能受母语影响忽略介词。"
+      },
+      {
+        "mistake": "Fill up the information",
+        "correction": "Fill in the information",
+        "explanation": "在表格语境中，应使用 'fill in' 而非 'fill up'，以避免混淆区域变体。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in the top 1000 words in COCA corpus)",
+    "domains": [
+      "Daily life",
+      "Business",
+      "Technology"
+    ],
+    "tags": [
+      "Action verb",
+      "Common",
+      "Idiomatic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

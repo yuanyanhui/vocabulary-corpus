@@ -1,0 +1,226 @@
+{
+  "word": "immunoprecipitation",
+  "phonetics": {
+    "british": "/ˌɪm.juː.nəʊˌprɪ.sɪ.pɪˈteɪ.ʃən/",
+    "american": "/ˌɪm.juː.noʊˌprɪ.sɪ.pɪˈteɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A laboratory technique used in molecular biology to isolate and purify a specific protein from a sample by using an antibody that binds to the protein, causing it to precipitate out of solution.",
+      "chineseTranslation": "免疫沉淀法",
+      "level": "academic",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "immunoprecipitation assay",
+      "meaning": "免疫沉淀测定",
+      "example": "The immunoprecipitation assay was performed to detect protein interactions.",
+      "exampleTranslation": "进行了免疫沉淀测定来检测蛋白质互动。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "chromatin immunoprecipitation",
+      "meaning": "染色质免疫沉淀",
+      "example": "Chromatin immunoprecipitation is a powerful tool for studying gene regulation.",
+      "exampleTranslation": "染色质免疫沉淀是一种强大的工具，用于研究基因调控。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers used immunoprecipitation to identify the binding partners of the receptor protein.",
+      "translation": "研究人员使用免疫沉淀法来识别受体蛋白的结合伙伴。",
+      "source": "Scientific journal (e.g., Nature Biotechnology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the lab, immunoprecipitation helped confirm the presence of the antigen in the sample.",
+      "translation": "在实验室中，免疫沉淀法帮助确认了样本中抗原的存在。",
+      "source": "Academic textbook (e.g., Molecular Biology of the Cell)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The protocol for immunoprecipitation involves adding the antibody to the cell lysate and then centrifuging the mixture.",
+      "translation": "免疫沉淀法的协议包括向细胞裂解液中添加抗体，然后离心混合物。",
+      "source": "Online educational resource (e.g., protocols.io)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语",
+    "rootWords": [
+      {
+        "root": "immuno-",
+        "meaning": "与免疫相关的",
+        "language": "源自拉丁语 immunis（意为免除或免疫）"
+      },
+      {
+        "root": "precipitation",
+        "meaning": "沉淀过程",
+        "language": "源自拉丁语 praecipitatio（意为急剧落下或沉淀）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中期生物化学领域的技术发展，结合了immuno-前缀（从拉丁语immunis演变而来，表示免疫）和precipitation（从拉丁语praecipitare演变，表示使沉淀）。随着分子生物学的发展，该术语从一般沉淀法扩展到特异性蛋白分离方法。",
+    "firstKnownUse": "约1950年",
+    "relatedWords": [
+      "immunoassay",
+      "precipitate",
+      "antibody"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将词汇分解为immuno-和precipitation部分，并通过视觉图像联想蛋白质沉淀过程；利用间隔重复系统（如Anki）强化记忆，以提升长期保留效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "IP assay",
+        "similarity": "0.9",
+        "context": "在实验室和技术语境中，常用于简化表达免疫沉淀测定"
+      },
+      {
+        "word": "co-immunoprecipitation",
+        "similarity": "0.8",
+        "context": "在分子生物学语境中，用于研究蛋白质复合物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "solubilization",
+        "context": "在生化实验语境中，表示使物质溶解而非沉淀"
+      }
+    ],
+    "hypernyms": [
+      "biochemical technique",
+      "protein purification method"
+    ],
+    "hyponyms": [
+      "chromatin immunoprecipitation",
+      "RNA immunoprecipitation"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + verb (e.g., perform immunoprecipitation)",
+        "examples": [
+          "We perform immunoprecipitation on the sample."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + noun (e.g., standard immunoprecipitation)",
+        "examples": [
+          "This standard immunoprecipitation protocol is reliable."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征现代生物医学技术的进步，体现了跨文化合作（如欧美研究机构间的共享），但在非科学语境中可能缺乏直接文化象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于学术和工业语境",
+        "usage": "在美国英语中，常见于生物技术公司和大学实验室的报告"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更强调理论基础",
+        "usage": "在英国英语中，常在科学出版物中出现，以支持全球生物学研究"
+      }
+    ],
+    "historicalContext": "与20世纪生物学革命相关，如分子生物学的兴起，该技术在二战后疫苗和抗体研究中发展。",
+    "modernUsage": "在社交媒体和在线论坛中，常用于科学传播，如Twitter上的研究分享或YouTube教程，反映了全球科学社区的数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景：一个科学家使用磁珠和抗体从混浊溶液中'钓起'蛋白质，如同用鱼钩从湖中拉起鱼。",
+      "keyElements": [
+        "实验室",
+        "抗体",
+        "沉淀"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年钓鱼的兴奋，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Immuno-precipitation: 像免疫系统'抓住'入侵者，然后让它们'下沉'沉淀。",
+        "explanation": "通过比喻免疫系统的防御机制，帮助学习者建立视觉和概念联想"
+      },
+      {
+        "type": "缩略",
+        "content": "IP = Immune Pull (免疫拉取)",
+        "explanation": "简化词汇为易记缩写，并与'拉取'动作关联，提升认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "antibody",
+      "protein",
+      "laboratory",
+      "assay"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "immunoprecipitations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object (e.g., Scientists use immunoprecipitation)",
+        "description": "该名词常作为动词的宾语或主语，用于描述实验过程。",
+        "examples": [
+          "Immunoprecipitation is essential in proteomics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'immunofluorescence'",
+        "correction": "Use 'immunoprecipitation' for protein isolation techniques",
+        "explanation": "两者虽相关，但前者涉及沉淀，后者涉及荧光，因此需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "immunoprecipitations",
+        "explanation": "作为可数名词，需正确添加-s以表示复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 500,000 in COCA corpus",
+    "domains": [
+      "生物学",
+      "医学",
+      "科技"
+    ],
+    "tags": [
+      "科学术语",
+      "实验室方法",
+      "分子生物学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster Online",
+      "BNC"
+    ]
+  }
+}

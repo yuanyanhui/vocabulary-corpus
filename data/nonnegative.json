@@ -1,0 +1,232 @@
+{
+  "word": "nonnegative",
+  "phonetics": {
+    "british": "/ˌnɒnˈnɛɡətɪv/",
+    "american": "/ˌnɑːnˈnɛɡətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Greater than or equal to zero; not negative.",
+      "chineseTranslation": "非负的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nonnegative number",
+      "meaning": "非负数",
+      "example": "In mathematics, a nonnegative number is either positive or zero.",
+      "exampleTranslation": "在数学中，非负数要么是正数要么是零。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nonnegative integer",
+      "meaning": "非负整数",
+      "example": "The program only accepts nonnegative integers as input.",
+      "exampleTranslation": "该程序只接受非负整数作为输入。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist ensured that all values in the dataset were nonnegative.",
+      "translation": "科学家确保数据集中的所有值都是非负的。",
+      "source": "Scientific article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In linear algebra, matrices with nonnegative entries are common in optimization problems.",
+      "translation": "在线性代数中，具有非负条目的矩阵在优化问题中很常见。",
+      "source": "Academic textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The function will return a nonnegative result if the input is valid.",
+      "translation": "如果输入有效，该函数将返回一个非负结果。",
+      "source": "Technical documentation",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "non",
+        "meaning": "Not",
+        "language": "English"
+      },
+      {
+        "root": "negative",
+        "meaning": "Less than zero",
+        "language": "Latin (from negativus, meaning denying or negative)"
+      }
+    ],
+    "historicalDevelopment": "源自英语的前缀 'non-'（意为不）和 'negative'（源自拉丁语 negativus，用于表示否定或小于零）。该词在20世纪早期随着数学和科学的发展而形成，用于精确描述数值属性，从最初的数学上下文中扩展到更广泛的技术领域。",
+    "firstKnownUse": "Early 20th century",
+    "relatedWords": [
+      "nonpositive",
+      "positive",
+      "negate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过与数学概念（如数轴）关联来记忆，提高认知连接；",
+      "使用重复练习结合视觉辅助工具，如绘图软件模拟非负数场景，以强化长期记忆；",
+      "根据认知科学原理，避免孤立学习，结合个人经验如日常计数来建立情感联结"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "non-negative",
+        "similarity": "1.0",
+        "context": "在数学和科学语境中，用于描述大于或等于零的数值"
+      },
+      {
+        "word": "positive or zero",
+        "similarity": "0.8",
+        "context": "在非正式解释中，强调其包括零的特性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "negative",
+        "context": "在数学语境中，表示小于零的数值"
+      }
+    ],
+    "hypernyms": [
+      "positive"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "nonnegative [noun]",
+        "examples": [
+          "nonnegative integer",
+          "nonnegative value"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] nonnegative",
+        "examples": [
+          "strictly nonnegative"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术领域中作为中性术语使用，没有特定文化象征，主要反映现代理性主义和量化思维的文化。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常见于技术写作中",
+        "usage": "在美国英语中，常用于计算机科学和工程语境，以强调精确性"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔与 'non-negative' 分词形式互换",
+        "usage": "在英国英语中，可能在学术出版物中更正式使用"
+      }
+    ],
+    "historicalContext": "与19世纪末数学革命相关，如实数理论的发展，在工业革命后的西方文化中推广，用于科学进步和社会量化。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于数据分析和AI讨论，但跨文化使用时需注意翻译准确性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数轴，从零点向右延伸，只有右侧部分（包括零）被高亮。",
+      "keyElements": [
+        "数轴",
+        "零点",
+        "右侧延伸"
+      ],
+      "emotionalConnection": "联想到积极的日常生活经历，如计数金钱，从零开始积累财富"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Nonnegative: 'Non' 像 'not' negative, 想象一个不带负号的数字。",
+        "explanation": "通过词根分解建立视觉联想，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌnɒnˈnɛɡətɪv/ 像 'none negative'，联想到 'none' 的空无感加上 'negative' 的否定。",
+        "explanation": "利用声音与含义的联结，增强记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "positive",
+      "zero",
+      "greater than or equal to"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词直接修饰名词，常用于技术描述",
+        "examples": [
+          "a nonnegative value"
+        ]
+      },
+      {
+        "pattern": "In [prepositional phrase]",
+        "description": "出现在介词短语中，表示条件或范围",
+        "examples": [
+          "values that are nonnegative"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using as two words: 'non negative'",
+        "correction": "Use as one word: 'nonnegative'",
+        "explanation": "作为复合形容词，应写成一个词，以符合英语技术术语规范"
+      },
+      {
+        "mistake": "Confusing with 'nonpositive'",
+        "correction": "Distinguish: 'nonnegative' means ≥0, 'nonpositive' means ≤0",
+        "explanation": "错误源于语义相似性，需通过上下文区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Computing",
+      "Engineering"
+    ],
+    "tags": [
+      "Adjective",
+      "Technical",
+      "Mathematics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

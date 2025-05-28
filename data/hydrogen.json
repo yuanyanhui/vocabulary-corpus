@@ -1,0 +1,260 @@
+{
+  "word": "hydrogen",
+  "phonetics": {
+    "british": "/ˈhaɪdrədʒən/",
+    "american": "/ˈhaɪdrədʒən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chemical element with the symbol H and atomic number 1, the lightest and most abundant element in the universe, which is a colorless, odorless, tasteless gas that forms compounds with most elements.",
+      "chineseTranslation": "氢（一种化学元素，符号为H，原子序数为1，是宇宙中最轻且最丰富的元素，无色、无味的气体，可与大多数元素形成化合物）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fuel source used in various applications, such as hydrogen fuel cells, which produce electricity through a chemical reaction with oxygen.",
+      "chineseTranslation": "氢（作为燃料的来源，用于如氢燃料电池等应用，通过与氧气的化学反应产生电能）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hydrogen bomb",
+      "meaning": "氢弹（一种核武器，利用氢的核聚变反应产生巨大破坏力）",
+      "example": "The hydrogen bomb was tested in the Pacific Ocean in the 1950s.",
+      "exampleTranslation": "氢弹在20世纪50年代在太平洋进行了测试。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hydrogen fuel cell",
+      "meaning": "氢燃料电池（一种将氢气转化为电能的装置，常用于环保能源）",
+      "example": "Modern cars are increasingly using hydrogen fuel cells to reduce emissions.",
+      "exampleTranslation": "现代汽车越来越多地使用氢燃料电池来减少排放。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hydrogen peroxide",
+      "meaning": "过氧化氢（一种化学物质，常用于消毒或漂白）",
+      "example": "Hydrogen peroxide is commonly used as a disinfectant for wounds.",
+      "exampleTranslation": "过氧化氢通常用作伤口消毒剂。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hydrogen is the primary component of the sun and stars.",
+      "translation": "氢是太阳和恒星的主要成分。",
+      "source": "Scientific literature, such as astronomy texts from NASA",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Scientists are researching ways to produce hydrogen from water using solar energy.",
+      "translation": "科学家们正在研究利用太阳能从水中生产氢的方法。",
+      "source": "News articles from sources like BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The explosion was caused by a leak of hydrogen gas in the laboratory.",
+      "translation": "爆炸是由实验室中氢气泄漏引起的。",
+      "source": "Fictional literature, e.g., adapted from safety reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the future, hydrogen might power vehicles more efficiently than fossil fuels.",
+      "translation": "在未来，氢可能比化石燃料更有效地为车辆提供动力。",
+      "source": "Technical reports from environmental organizations",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "hydro",
+        "meaning": "water",
+        "language": "Greek"
+      },
+      {
+        "root": "gen",
+        "meaning": "producing",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'hydro'（水）和 '-gen'（产生），因为氢最初被认为是通过水的分解产生的。1796年，法国化学家安东尼·拉瓦锡首次使用 'hydrogen' 来描述这种元素，强调其在水分子中的关键作用。从19世纪开始，该词在化学领域广泛使用，并扩展到能源和物理学。",
+    "firstKnownUse": "1796",
+    "relatedWords": [
+      "hydride",
+      "hydrocarbon",
+      "deuterium"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象氢气球飘浮在空中以强化记忆；使用间隔重复法复习，结合个人经验如观看科普视频来加深理解；对于初级学习者，建议从基本科学事实入手，避免抽象概念的 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "H",
+        "similarity": "0.8",
+        "context": "在化学符号或简略语境中使用，常用于科学和技术领域"
+      },
+      {
+        "word": "protium",
+        "similarity": "0.7",
+        "context": "指氢的同位素，在高级化学讨论中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "helium",
+        "context": "作为惰性气体，与氢的反应性形成对比，主要在物理和化学语境中"
+      },
+      {
+        "word": "oxygen",
+        "context": "氢的常见反应物，在燃烧或化学反应语境中形成反义关系"
+      }
+    ],
+    "hypernyms": [
+      "element",
+      "gas"
+    ],
+    "hyponyms": [
+      "deuterium",
+      "tritium"
+    ],
+    "collocations": [
+      {
+        "pattern": "hydrogen + noun (e.g., hydrogen atom)",
+        "examples": [
+          "hydrogen atom",
+          "hydrogen molecule"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + hydrogen (e.g., liquid hydrogen)",
+        "examples": [
+          "liquid hydrogen",
+          "gaseous hydrogen"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "氢在现代文化中象征清洁能源和可持续发展，常与环境保护运动相关；在西方文化中，它代表科学进步，但也隐含核武器（如氢弹）的负面隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更侧重于能源应用，如 'hydrogen economy'",
+        "usage": "在美国英语中，常用于政策和商业语境，强调氢在绿色技术中的作用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似，但更注重历史科学语境，如达尔文时代的化学发现",
+        "usage": "在英国英语中，可能会在教育和历史讨论中使用，以突出其在工业革命后的发展"
+      }
+    ],
+    "historicalContext": "氢与18世纪化学革命相关，拉瓦锡的发现推动了现代元素理论；在20世纪，它与核物理学和二战氢弹发展有关，影响了全球地缘政治。",
+    "modernUsage": "在社交媒体和新闻中，氢常与气候变化辩论相关，如在Twitter或环保论坛中讨论氢能源的未来趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的氢气球在蓝天中飘浮，象征其轻盈和丰盛。",
+      "keyElements": [
+        "气球",
+        "蓝天",
+        "分子结构"
+      ],
+      "emotionalConnection": "联结到个人童年经历，如放飞气球的快乐，以增强积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hydrogen sounds like 'high dragon' – imagine a dragon flying high in the sky, representing its lightness.",
+        "explanation": "通过声音联想和视觉化，强化词汇与图像的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "H for Hydrogen and High – both start with H, linking to its high abundance in the universe.",
+        "explanation": "利用首字母缩略法，结合语义关联，促进长期记忆存储"
+      }
+    ],
+    "wordAssociations": [
+      "water",
+      "energy",
+      "sun"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hydrogens (though rarely used, as it's an uncountable noun in most contexts)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + hydrogen",
+        "description": "作为主语或宾语使用在简单句中",
+        "examples": [
+          "Hydrogen powers the stars."
+        ]
+      },
+      {
+        "pattern": "Adjective + hydrogen + in + context",
+        "description": "修饰语用于描述其状态或应用",
+        "examples": [
+          "Liquid hydrogen is used in rocketry."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing hydrogen with helium",
+        "correction": "Use hydrogen for the element with atomic number 1",
+        "explanation": "氢和氦在发音和拼写上相似，学习者需通过语境区分，如氢更易燃烧"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Avoid pluralizing as it's often uncountable",
+        "explanation": "在英语中，元素名称如hydrogen通常不加s，除非指特定类型"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in the top 5000 words in corpora like COCA)",
+    "domains": [
+      "science",
+      "technology",
+      "energy",
+      "environment"
+    ],
+    "tags": [
+      "chemistry",
+      "elements",
+      "fuels",
+      "physics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

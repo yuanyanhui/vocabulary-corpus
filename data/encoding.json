@@ -1,0 +1,246 @@
+{
+  "word": "encoding",
+  "phonetics": {
+    "british": "/ɪnˈkəʊdɪŋ/",
+    "american": "/ɪnˈkoʊdɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of converting information or data into a specific code or format, often for the purpose of transmission, storage, or security.",
+      "chineseTranslation": "编码过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert information into a code or to express something in a coded form.",
+      "chineseTranslation": "编码（动作）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data encoding",
+      "meaning": "数据编码",
+      "example": "Data encoding is essential for secure online transactions.",
+      "exampleTranslation": "数据编码对于安全的在线交易至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "character encoding",
+      "meaning": "字符编码",
+      "example": "UTF-8 is a common character encoding used in web development.",
+      "exampleTranslation": "UTF-8 是一种在网页开发中常用的字符编码。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Proper encoding of the video file ensured it played smoothly on all devices.",
+      "translation": "适当的视频文件编码确保了它在所有设备上顺畅播放。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cryptography, encoding messages helps protect sensitive information.",
+      "translation": "在密码学中，编码消息有助于保护敏感信息。",
+      "source": "Academic text (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The software uses advanced encoding to compress large files without losing quality.",
+      "translation": "该软件使用高级编码来压缩大文件而不丢失质量。",
+      "source": "News article (e.g., from online tech sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "code",
+        "meaning": "A system of signals or symbols",
+        "language": "Latin (from 'codex', meaning 'book of laws')"
+      },
+      {
+        "root": "en-",
+        "meaning": "To put into or make",
+        "language": "Old French (from Latin 'in-')"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'codex'，意为书籍或法规汇编，演变为英语 'code'，表示编码系统。17世纪时，'encode' 出现，指将信息转化为代码形式，随着计算机和通信技术的兴起，'encoding' 在20世纪中期成为技术术语，用于数据处理和信息安全。",
+    "firstKnownUse": "Circa 17th century",
+    "relatedWords": [
+      "encode",
+      "decoder",
+      "cipher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word involves common vowel sounds but requires attention to the stressed syllable)",
+    "spellingDifficulty": "5 (out of 10, straightforward but includes silent 'e' and common prefixes)",
+    "meaningComplexity": "6 (out of 10, multiple contexts like computing and linguistics make it abstract for intermediates)",
+    "usageComplexity": "7 (out of 10, often used in technical contexts requiring specific collocations)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个锁链（代表编码的安全性），并通过间隔重复法（如Spaced Repetition System）强化记忆；针对中文母语学习者，比较英语 'encoding' 与中文 '编码' 的相似性，以建立双语映射。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ciphering",
+        "similarity": "0.8",
+        "context": "适用于加密和安全语境中"
+      },
+      {
+        "word": "encryption",
+        "similarity": "0.9",
+        "context": "主要在数据保护和计算机科学领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decoding",
+        "context": "适用于解码过程，与编码相反，常在信息接收语境中"
+      },
+      {
+        "word": "decryption",
+        "context": "在加密领域，表示逆向操作"
+      }
+    ],
+    "hypernyms": [
+      "conversion",
+      "process"
+    ],
+    "hyponyms": [
+      "ASCII encoding",
+      "Base64 encoding"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + encoding (e.g., data encoding)",
+        "examples": [
+          "video encoding",
+          "text encoding"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb form + object (e.g., encoding data)",
+        "examples": [
+          "They are encoding the message now."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征信息安全和全球通信的隐含语义，体现了后工业社会对隐私和数据保护的重视。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在科技和商业语境中",
+        "usage": "在美国英语中，常与软件开发相关联，如在硅谷文化中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "略微正式化，使用频率与美国相似但更侧重学术语境",
+        "usage": "在英国英语中，可能与历史密码学（如恩igma机）相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和二战时期的密码破译（如图灵的工作）有关，反映了西方文化中创新与安全的主题。",
+    "modernUsage": "在社交媒体和数字平台上流行，例如TikTok或Twitter上的内容编码，体现了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个神秘的锁箱，里面存放着加密的信息钥匙。",
+      "keyElements": [
+        "锁箱",
+        "钥匙",
+        "代码符号"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用密码保护手机，触发安全感和好奇心。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Encoding 像 'en-code-ing'，想象把东西放进代码盒子。",
+        "explanation": "通过视觉联想加强记忆，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪnˈkoʊdɪŋ/ 听起来像 'in code ring'，想象一个戒指上刻着代码。",
+        "explanation": "利用声音与图像的联结，促进长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "encrypt",
+      "data",
+      "secure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "encodings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "encoding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + encoding",
+        "description": "作为名词时，常用于描述过程，例如 'The encoding process is complex.'",
+        "examples": [
+          "We use encoding in our system."
+        ]
+      },
+      {
+        "pattern": "Verb form in progressive tense",
+        "description": "作为动词时，用于进行时态",
+        "examples": [
+          "They are encoding the files."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'encoding' with 'encrypting'",
+        "correction": "Use 'encoding' for general conversion and 'encrypting' for security-specific processes.",
+        "explanation": "中文学习者常混淆二者，因为两者在语义上重叠，但前者更宽泛。"
+      },
+      {
+        "mistake": "Incorrect pronunciation of the vowel sound",
+        "correction": "Pronounce as /ɪnˈkoʊdɪŋ/ in American English.",
+        "explanation": "由于母语影响，易误读元音，需练习音标。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus, especially in technology domains)",
+    "domains": [
+      "科技",
+      "计算机",
+      "通信",
+      "教育"
+    ],
+    "tags": [
+      "技术术语",
+      "数据处理",
+      "信息安全"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

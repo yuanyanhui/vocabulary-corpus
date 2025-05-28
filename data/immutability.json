@@ -1,0 +1,260 @@
+{
+  "word": "immutability",
+  "phonetics": {
+    "british": "/ɪˌmjuːtəˈbɪlɪti/",
+    "american": "/ɪˌmjuːtəˈbɪləti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of not being subject to change or alteration.",
+      "chineseTranslation": "不可变性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the property of an object or data structure that cannot be modified after creation.",
+      "chineseTranslation": "在计算机科学中，指对象或数据结构创建后无法修改的属性",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Philosophical concept referring to permanence or eternal unchanging nature.",
+      "chineseTranslation": "哲学概念，指永久不变或永恒的本质",
+      "level": "academic",
+      "frequency": "low",
+      "register": "formal/academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "principle of immutability",
+      "meaning": "不变性原则",
+      "example": "The principle of immutability ensures data integrity in blockchain systems.",
+      "exampleTranslation": "不变性原则确保了区块链系统中的数据完整性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "immutability in programming",
+      "meaning": "编程中的不可变性",
+      "example": "Functional programming languages emphasize immutability in programming to avoid side effects.",
+      "exampleTranslation": "函数式编程语言强调编程中的不可变性，以避免副作用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "eternal immutability",
+      "meaning": "永恒的不变性",
+      "example": "Philosophers debate the eternal immutability of divine beings.",
+      "exampleTranslation": "哲学家们辩论神圣存在物的永恒不变性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In software development, immutability helps prevent bugs caused by unexpected changes to variables.",
+      "translation": "在软件开发中，不可变性有助于防止变量意外更改引起的错误。",
+      "source": "Technical documentation, such as from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The immutability of ancient laws reflects the cultural values of stability and tradition.",
+      "translation": "古代法律的不变性反映了稳定和传统的文化价值观。",
+      "source": "Literary or historical texts, e.g., from BNC",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Advocates of immutability in data storage argue it enhances security in cloud computing.",
+      "translation": "数据存储中的不变性倡导者认为它增强了云计算的安全性。",
+      "source": "News articles, e.g., from online tech sources",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "im-",
+        "meaning": "not",
+        "language": "Latin"
+      },
+      {
+        "root": "mutabilis",
+        "meaning": "changeable",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'immutabilis'，意为'不可改变的'。该词通过古法语演变为中古英语，并在17世纪标准化为现代英语形式，主要用于哲学和科学语境中，从抽象概念扩展到具体技术应用。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "mutable",
+      "immovable",
+      "unchangeable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学建议：使用分块记忆法，将 'im-' 与 'impossible' 联想，以强化否定前缀；通过视觉化编程场景（如不变的数据块）建立情感连接，增强长期记忆；针对中文母语学习者，比较 '不变' 与 'immutability' 的语义差异，避免直译错误。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unchangeability",
+        "similarity": "0.9",
+        "context": "适用于技术或哲学语境中强调永久性的情况"
+      },
+      {
+        "word": "permanence",
+        "similarity": "0.8",
+        "context": "在文化或历史语境中描述持久不变的属性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mutability",
+        "context": "适用于描述易变或可修改的语境，如在编程中变量的改变"
+      },
+      {
+        "word": "changeability",
+        "context": "在哲学讨论中对比动态变化与静态状态"
+      }
+    ],
+    "hypernyms": [
+      "property",
+      "quality"
+    ],
+    "hyponyms": [
+      "data immutability",
+      "philosophical immutability"
+    ],
+    "collocations": [
+      {
+        "pattern": "immutability of [noun]",
+        "examples": [
+          "immutability of data",
+          "immutability of laws"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] immutability",
+        "examples": [
+          "eternal immutability"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征稳定与永恒，常与古希腊哲学（如柏拉图的理念论）相关联；在现代数字文化中，代表数据安全和可靠性，体现技术领域的核心价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，强调在软件工程中的实际应用，以突出创新与稳定性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于学术或哲学讨论",
+        "usage": "在英国英语中，可能与历史文学关联，如莎士比亚作品中隐含的永恒主题"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，反映了人类对不变真理的追求；在文学中，如狄更斯的作品中，隐喻社会变革。",
+    "modernUsage": "在社交媒体和科技平台上流行，特别是在编程社区如GitHub的讨论中，体现快速变化的数字时代对不变性的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个被冰封的宝箱，里面是数据或概念，无法被触碰或改变。",
+      "keyElements": [
+        "冰封宝箱",
+        "不变的数据块",
+        "永恒的符号"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时玩耍的固定玩具，触发安全感和稳定感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'immutability' 联想为 'I'm mute ability'，意为'我的能力是静默不变的'",
+        "explanation": "通过声音联想强化否定前缀，结合认知科学中的双编码理论，提高记忆保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "IM-MUTE-ABILITY",
+        "explanation": "分解词根为'I am mute in ability'，帮助中文学习者通过视觉分解掌握结构"
+      }
+    ],
+    "wordAssociations": [
+      "unchanging",
+      "fixed",
+      "permanent"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "immutabilities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + immutability",
+        "description": "作为主语或宾语出现，常用于描述抽象概念",
+        "examples": [
+          "Immutability ensures reliability."
+        ]
+      },
+      {
+        "pattern": "The immutability of [noun]",
+        "description": "用在定语结构中强调特定事物的属性",
+        "examples": [
+          "The immutability of the laws is debated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'mutability'",
+        "correction": "Use 'immutability' for unchangeable states",
+        "explanation": "中文学习者常混淆正反义词，导致语义错误；建议通过对比练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'immutabilities' for plural forms",
+        "explanation": "作为可数名词，需注意在学术语境中的复数使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "philosophy",
+      "science"
+    ],
+    "tags": [
+      "abstract concept",
+      "computing term",
+      "philosophical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC",
+      "Merriam-Webster"
+    ]
+  }
+}

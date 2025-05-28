@@ -1,0 +1,270 @@
+{
+  "word": "configuration",
+  "phonetics": {
+    "british": "/kənˌfɪɡ.əˈreɪ.ʃən/",
+    "american": "/kənˌfɪɡ.jəˈreɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The arrangement of elements in a particular form, shape, or structure.",
+      "chineseTranslation": "配置；结构；排列",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The way in which a computer system or software is set up.",
+      "chineseTranslation": "系统配置；软件设置",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A specific arrangement or combination of components in a device or system.",
+      "chineseTranslation": "组合形式；设备布局",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "system configuration",
+      "meaning": "系统配置或设置",
+      "example": "You need to check the system configuration before running the program.",
+      "exampleTranslation": "你需要在运行程序前检查系统配置。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "network configuration",
+      "meaning": "网络配置",
+      "example": "The network configuration was updated to improve security.",
+      "exampleTranslation": "网络配置已被更新以提升安全性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hardware configuration",
+      "meaning": "硬件配置",
+      "example": "This laptop's hardware configuration includes a high-speed processor.",
+      "exampleTranslation": "这台笔记本的硬件配置包括一个高速处理器。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The configuration of the molecules determines the material's properties.",
+      "translation": "分子的配置决定了材料的特性。",
+      "source": "Scientific literature (e.g., chemistry textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, configuration files are essential for customization.",
+      "translation": "在软件开发中，配置文件对于自定义设置至关重要。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The room's configuration was changed to accommodate more guests.",
+      "translation": "房间的布局被改变以容纳更多客人。",
+      "source": "General news articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "configurare",
+        "meaning": "to shape or form",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "figura",
+        "meaning": "shape or form",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'configurare'，意为 '一起塑造'。在中世纪拉丁语中演变为 'configuratio'，用于描述几何或结构排列。17世纪传入英语，最初用于哲学和科学语境，逐渐扩展到现代技术领域，如计算机和工程。",
+    "firstKnownUse": "约 1550 年",
+    "relatedWords": [
+      "configure",
+      "figuration",
+      "conform"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'configuration' 与日常技术场景关联，例如想象计算机设置过程；通过重复暴露（spaced repetition）强化词汇在上下文中出现的模式，以提升 intermediate 水平学习者的长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "setup",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如软件安装"
+      },
+      {
+        "word": "arrangement",
+        "similarity": "0.7",
+        "context": "适用于一般结构或布局描述"
+      },
+      {
+        "word": "structure",
+        "similarity": "0.6",
+        "context": "适用于物理或抽象组织的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disarray",
+        "context": "在混乱与有序对比的语境中"
+      },
+      {
+        "word": "disorganization",
+        "context": "适用于缺乏结构的管理或系统语境"
+      }
+    ],
+    "hypernyms": [
+      "arrangement",
+      "setup"
+    ],
+    "hyponyms": [
+      "software configuration",
+      "hardware configuration"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + configuration (e.g., system configuration)",
+        "examples": [
+          "system configuration",
+          "network configuration"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Configuration of + Noun (e.g., configuration of settings)",
+        "examples": [
+          "configuration of settings"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术进步和效率，常用于科技和工程领域，隐含语义强调秩序与优化；在中文文化中，与 '配置' 类似，体现了对系统化管理的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在信息技术语境",
+        "usage": "在美国英语中，常与软件或硬件相关联，如 'device configuration' 在日常科技讨论中流行"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式或学术用法",
+        "usage": "在英国英语中，可能强调结构方面的精确性，如在工程设计中"
+      }
+    ],
+    "historicalContext": "与工业革命和现代计算机发展相关，19世纪起在科学文献中出现，反映了西方对机械化和系统化的追求；在中文语境下，受西方影响，于20世纪引入。",
+    "modernUsage": "在社交媒体和数字平台上流行，例如 TikTok 或 Twitter 上讨论 'app configuration'，体现全球数字文化的融合趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个齿轮系统，其中 'con-' 代表连接在一起的齿轮，'figuration' 像是一个形状被塑造成完美的排列。",
+      "keyElements": [
+        "齿轮连接",
+        "形状排列",
+        "系统优化"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆调整手机设置时的满足感，以触发积极情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'configuration' 联想为 'con-figure-action'，即 '一起塑造行动'",
+        "explanation": "通过视觉联想帮助 intermediate 学习者建立词汇与实际场景的认知连接"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'Config' 作为缩写，联想到 'Computer Organization and Figure'",
+        "explanation": "利用认知科学中的关键词提取法，简化词汇以便快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "setup",
+      "arrange",
+      "structure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "configurations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Configuration",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The configuration works well."
+        ]
+      },
+      {
+        "pattern": "Configuration of + Noun",
+        "description": "表示特定对象的配置",
+        "examples": [
+          "Configuration of the system is complete."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'confirmation'",
+        "correction": "Use 'configuration' for arrangements and 'confirmation' for verification",
+        "explanation": "由于发音相似，intermediate 学习者易混淆；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'configurations' for plural",
+        "explanation": "英文名词规则中，直接加 -s，但中文母语者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "高频，COCA 语料库中排名前 5000",
+    "domains": [
+      "科技",
+      "工程",
+      "商业"
+    ],
+    "tags": [
+      "技术术语",
+      "结构",
+      "设置"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC",
+      "Merriam-Webster"
+    ]
+  }
+}

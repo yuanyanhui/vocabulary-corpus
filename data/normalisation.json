@@ -1,0 +1,262 @@
+{
+  "word": "normalisation",
+  "phonetics": {
+    "british": "/ˌnɔːməlaɪˈzeɪʃən/",
+    "american": "/ˌnɔːrmələˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of making something conform to a standard or norm, often involving adjustment to achieve uniformity or regularity.",
+      "chineseTranslation": "标准化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics or data processing, the act of scaling data to a common range, such as between 0 and 1, to facilitate comparison.",
+      "chineseTranslation": "归一化",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The establishment of norms or standards in social, political, or cultural contexts to promote equality or consistency.",
+      "chineseTranslation": "规范过程",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data normalisation",
+      "meaning": "数据标准化",
+      "example": "Data normalisation is essential for machine learning algorithms to perform accurately.",
+      "exampleTranslation": "数据标准化对于机器学习算法的准确性能至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "social normalisation",
+      "meaning": "社会规范过程",
+      "example": "Social normalisation of remote work has accelerated due to the pandemic.",
+      "exampleTranslation": "由于大流行病，远程工作的社会规范过程已加速。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "policy normalisation",
+      "meaning": "政策标准化",
+      "example": "The central bank announced policy normalisation to control inflation.",
+      "exampleTranslation": "中央银行宣布政策标准化以控制通货膨胀。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The normalisation of trade relations between the two countries led to increased economic growth.",
+      "translation": "两国之间贸易关系的标准化导致了经济增长。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, normalisation helps in reducing data redundancy and improving database efficiency.",
+      "translation": "在计算中，标准化有助于减少数据冗余并提高数据库效率。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Cultural normalisation of gender equality is a gradual process that requires ongoing education.",
+      "translation": "文化中性别平等的标准化是一个渐进的过程，需要持续的教育。",
+      "source": "Academic text (e.g., from social science literature)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "normal",
+        "meaning": "Conforming to a standard or rule",
+        "language": "Latin (from 'normalis', meaning 'made according to a carpenter's square')"
+      },
+      {
+        "root": "isation",
+        "meaning": "The process of making or becoming",
+        "language": "French (suffix derived from Latin '-atio')"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的法国科学语境，起初用于描述测量和标准化的过程；随后在20世纪扩展到统计学、心理学和社会科学中，现代意义强调统一性和调整，以适应全球标准化运动，如ISO标准。",
+    "firstKnownUse": "1842 (in French contexts, later adopted into English)",
+    "relatedWords": [
+      "normalize",
+      "normalcy",
+      "normative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学中的分块学习法，将词汇分解为词根 'normal' 和后缀 '-isation'，并与日常标准化情景（如数据处理）关联，以增强记忆保留；",
+      "结合视觉想象，将词汇与方格或平衡秤的图像联系，触发空间记忆网络；",
+      "通过重复暴露于真实语料中（如COCA数据库），促进神经元强化，避免混淆英式和美式拼写"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "standardization",
+        "similarity": "0.9",
+        "context": "在技术或商业语境中，常用于描述过程的统一化"
+      },
+      {
+        "word": "regularization",
+        "similarity": "0.8",
+        "context": "在数学或统计语境中，强调参数调整以防止过拟合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "diversification",
+        "context": "在商业或文化语境中，表示增加多样性而非统一化"
+      },
+      {
+        "word": "anomalization",
+        "context": "在科学语境中，表示制造异常或非标准状态"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "adjustment"
+    ],
+    "hyponyms": [
+      "data normalization",
+      "social normalization"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + normalisation (e.g., data/policy normalisation)",
+        "examples": [
+          "Data normalisation ensures consistency."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "The normalisation of + noun (e.g., the normalisation of relations)",
+        "examples": [
+          "The normalisation of diplomatic ties took years."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征现代社会中追求统一性和效率的趋势，但在不同文化中可能隐含负面含义，如抑制多样性；在西方文化中，常与全球化相关联。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用 'normalisation' 作为标准拼写",
+        "usage": "在正式和学术语境中更常见，强调历史标准化实践"
+      },
+      {
+        "region": "美国",
+        "variation": "首选 'normalization' 拼写",
+        "usage": "在科技和商业语境中更流行，反映了实用主义文化"
+      }
+    ],
+    "historicalContext": "与工业革命和标准化运动相关联，例如亨利·福特的装配线生产；在中国文化中，类似于 '标准化' 的概念在古代礼制中已有体现，如孔子的中庸之道。",
+    "modernUsage": "在社交媒体和数字时代，词语用于讨论心理健康（如新常态的建立）或AI伦理，体现跨文化传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤在调整不同物体的重量，使它们达到平衡状态。",
+      "keyElements": [
+        "天平秤",
+        "平衡",
+        "标准线"
+      ],
+      "emotionalConnection": "联结个人经历，如调整生活习惯以适应新环境，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Normalisation 像 'normal eyes' 在扫描并调整事物",
+        "explanation": "通过视觉联想将 'normal' 与眼睛联系，强调观察和修正的过程"
+      },
+      {
+        "type": "缩略",
+        "content": "N-O-R-M: New Order for Regular Management",
+        "explanation": "使用首字母缩写创建故事，帮助构建叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "standard",
+      "uniform",
+      "adjust",
+      "balance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "normalisations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + normalisation",
+        "description": "主语 + 动词 + 该名词结构，常用于描述过程",
+        "examples": [
+          "The process involves normalisation."
+        ]
+      },
+      {
+        "pattern": "The normalisation of + noun",
+        "description": "表示某种事物的标准化过程",
+        "examples": [
+          "The normalisation of trade policies is underway."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'normalization' spelling",
+        "correction": "Use 'normalisation' in British English contexts",
+        "explanation": "错误源于美式英语的影响；建议检查语域以选择正确拼写"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use 'normalize' as the verb form",
+        "explanation": "该词是名词；动词形式为 'to normalize'，以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "technology",
+      "science",
+      "business",
+      "social sciences"
+    ],
+    "tags": [
+      "technical term",
+      "process",
+      "adjustment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

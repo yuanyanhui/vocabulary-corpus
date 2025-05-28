@@ -1,0 +1,250 @@
+{
+  "word": "anonymize",
+  "phonetics": {
+    "british": "/əˈnɒn.ɪ.maɪz/",
+    "american": "/əˈnɑː.nə.maɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or change personal information from data, documents, or other materials so that individuals cannot be identified.",
+      "chineseTranslation": "使匿名化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To process information in a way that protects privacy by eliminating identifying details.",
+      "chineseTranslation": "匿名处理",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "anonymize data",
+      "meaning": "对数据进行匿名化处理",
+      "example": "Companies must anonymize data before sharing it with third parties.",
+      "exampleTranslation": "公司必须在与第三方共享数据前对其进行匿名化处理。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "anonymize user information",
+      "meaning": "对用户个人信息进行匿名化",
+      "example": "The app promises to anonymize user information to enhance privacy.",
+      "exampleTranslation": "该应用承诺对用户个人信息进行匿名化以增强隐私保护。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers anonymize patient records to comply with data protection laws.",
+      "translation": "研究人员对患者记录进行匿名化以遵守数据保护法。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media platforms often anonymize posts to prevent harassment.",
+      "translation": "社交媒体平台经常对帖子进行匿名化以防止骚扰。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cybersecurity, experts anonymize IP addresses to track threats without invading privacy.",
+      "translation": "在网络安全领域，专家对IP地址进行匿名化以追踪威胁而不侵犯隐私。",
+      "source": "Technical report (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Greek",
+    "rootWords": [
+      {
+        "root": "anonym",
+        "meaning": "without name",
+        "language": "Greek (from 'an-' meaning without + 'onoma' meaning name)"
+      },
+      {
+        "root": "-ize",
+        "meaning": "to make or cause to become",
+        "language": "Greek/Latin (from Greek '-izein')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪晚期，随着计算机和数据隐私概念的兴起。从希腊词根'anōnumos'演变而来，先形成'anonymous'，然后通过添加后缀'-ize'成为动词形式，用于表示将事物匿名化过程。",
+    "firstKnownUse": "Late 20th century (approximately 1980s, as per OED records)",
+    "relatedWords": [
+      "anonymous",
+      "anonymity",
+      "anonymise (British variant)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'anonymize'与'privacy'或'数据保护'关联；通过重复暴露（spaced repetition）在真实语境中练习；为中国学习者，建议与中文'匿名'进行双语映射以增强语义记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "anonymise",
+        "similarity": "0.95",
+        "context": "主要在英国英语中适用，主要用于正式或技术语境下的数据处理"
+      },
+      {
+        "word": "mask",
+        "similarity": "0.70",
+        "context": "在非正式语境中适用，用于隐藏信息但不完全匿名化"
+      },
+      {
+        "word": "obscure",
+        "similarity": "0.65",
+        "context": "适用于文学或非技术语境，强调模糊化而非完全匿名"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "identify",
+        "context": "在法律或安全语境中适用，用于揭示个人信息"
+      },
+      {
+        "word": "reveal",
+        "context": "在媒体或社交语境中适用，用于公开隐藏的信息"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "protect"
+    ],
+    "hyponyms": [
+      "data anonymization",
+      "identity masking"
+    ],
+    "collocations": [
+      {
+        "pattern": "anonymize + noun (e.g., data, information)",
+        "examples": [
+          "anonymize personal data",
+          "anonymize user logs"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + anonymize (e.g., must anonymize)",
+        "examples": [
+          "We must anonymize the records"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数字时代象征隐私保护和数据伦理，特别是在西方文化中，与GDPR等法规相关，隐含对个人权利的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用'anonymize'，强调技术应用",
+        "usage": "在美国英语中，常见于科技和商业语境，如硅谷公司政策"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更常用'anonymise'（拼写变体）",
+        "usage": "在英国英语中，常见于学术和法律语境，受欧盟法规影响"
+      }
+    ],
+    "historicalContext": "与20世纪后期的信息革命和隐私权运动相关，例如1970s的计算机隐私辩论，到现代的社交媒体时代。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于讨论数据泄露和AI伦理，体现跨文化对隐私的全球共识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个面具覆盖着个人信息的数据文件，代表隐藏身份。",
+      "keyElements": [
+        "面具",
+        "数据文件",
+        "隐私符号"
+      ],
+      "emotionalConnection": "联结个人经验，如使用社交app时的隐私担忧，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Anonymize sounds like 'a non-name', so think of removing names from data.",
+        "explanation": "通过声音联想（sound association）将词与概念连接，增强认知加工"
+      },
+      {
+        "type": "缩略",
+        "content": "A-N-O-N: A for anonymous, N for no name.",
+        "explanation": "使用缩略形式结合视觉记忆，帮助中国学习者快速回想"
+      }
+    ],
+    "wordAssociations": [
+      "anonymous",
+      "privacy",
+      "data",
+      "mask"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "anonymized",
+      "pastParticiple": "anonymized",
+      "presentParticiple": "anonymizing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + anonymize + object",
+        "description": "典型主谓宾结构，用于表示动作对象",
+        "examples": [
+          "The system anonymizes user data."
+        ]
+      },
+      {
+        "pattern": "Modal verb + anonymize",
+        "description": "使用情态动词表示必要性或可能",
+        "examples": [
+          "You should anonymize sensitive information."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'anonymity'",
+        "correction": "Use 'anonymize' as a verb, not a noun.",
+        "explanation": "学习者常混淆动词和名词形式；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'anonymized' in narratives.",
+        "explanation": "中国学习者可能受母语影响遗漏过去式；使用时间线记忆辅助"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "law",
+      "business"
+    ],
+    "tags": [
+      "data privacy",
+      "security",
+      "digital ethics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

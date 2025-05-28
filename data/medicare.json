@@ -1,0 +1,253 @@
+{
+  "word": "medicare",
+  "phonetics": {
+    "british": "/ˈmɛdɪkɛə/",
+    "american": "/ˈmɛdɪˌkɛr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A national health insurance program in the United States, administered by the federal government, primarily for people aged 65 and older, as well as certain younger people with disabilities.",
+      "chineseTranslation": "医疗保险（美国的联邦健康保险计划，主要针对65岁及以上老人和某些残疾人群）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "The specific U.S. government program established in 1965 under the Social Security Act, providing hospital insurance and medical insurance.",
+      "chineseTranslation": "医疗保险计划（1965年根据社会保障法案在美国建立的特定政府程序）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enroll in Medicare",
+      "meaning": "报名参加医疗保险计划",
+      "example": "Many seniors enroll in Medicare to cover their healthcare costs.",
+      "exampleTranslation": "许多老年人报名参加医疗保险来覆盖他们的医疗费用。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Medicare benefits",
+      "meaning": "医疗保险的福利",
+      "example": "The new policy expanded Medicare benefits for low-income families.",
+      "exampleTranslation": "新政策扩展了针对低收入家庭的医疗保险福利。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Medicare Part D",
+      "meaning": "医疗保险D部分（处方药覆盖）",
+      "example": "She relies on Medicare Part D for her prescription medications.",
+      "exampleTranslation": "她依赖医疗保险D部分来获得处方药物。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After turning 65, my grandfather finally qualified for Medicare and could afford his doctor visits.",
+      "translation": "在我祖父65岁后，他终于符合医疗保险资格，能够负担他的医生就诊费用。",
+      "source": "Personal narrative, commonly found in health policy discussions (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The debate over expanding Medicare has been a hot topic in recent U.S. elections.",
+      "translation": "关于扩展医疗保险的辩论一直是最近美国选举的热门话题。",
+      "source": "News article, such as from The New York Times",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In rural areas, accessing Medicare services can be challenging due to limited healthcare facilities.",
+      "translation": "在农村地区，由于医疗设施有限，获取医疗保险服务可能很困难。",
+      "source": "Academic paper on public health (e.g., from PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "medi-",
+        "meaning": "From 'medical', relating to medicine or healing",
+        "language": "Latin (from medicus, meaning physician)"
+      },
+      {
+        "root": "care",
+        "meaning": "Provision of what is necessary for the health, welfare, maintenance, and protection of someone or something",
+        "language": "Old English (from caru, meaning sorrow or anxiety)"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪中叶的英语合成词，由'medical'和'care'结合而成，反映了社会对医疗保障的需求。起初用于泛指医疗护理系统，于1965年作为美国联邦计划正式命名，随着社会保障体系的演变，该词从一般医疗概念发展为特定政策术语。",
+    "firstKnownUse": "1965",
+    "relatedWords": [
+      "Medicaid",
+      "healthcare",
+      "social security"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人医疗经历关联，如想象家庭成员申请保险的过程，以增强记忆；通过重复暴露于真实语境（如新闻），促进海马体参与的长期记忆形成；建议中级学习者使用间隔重复系统来复习相关政策术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "health insurance",
+        "similarity": "0.8",
+        "context": "适用于一般医疗覆盖语境中，例如在美国以外的国家"
+      },
+      {
+        "word": "national health service",
+        "similarity": "0.6",
+        "context": "在比较国际医疗系统时使用，例如与英国的NHS对比"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "private insurance",
+        "context": "在讨论公共 vs. 私人医疗系统时，例如美国医疗辩论中"
+      },
+      {
+        "word": "uninsured",
+        "context": "强调无保险状态，与医疗保险的覆盖形成对比"
+      }
+    ],
+    "hypernyms": [
+      "health program",
+      "social welfare system"
+    ],
+    "hyponyms": [
+      "Medicare Part A",
+      "Medicare Part B"
+    ],
+    "collocations": [
+      {
+        "pattern": "Medicare + noun (e.g., benefits, enrollment)",
+        "examples": [
+          "Medicare benefits",
+          "Medicare enrollment"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + Medicare (e.g., qualify for, expand)",
+        "examples": [
+          "qualify for Medicare",
+          "expand Medicare"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中象征社会保障和老龄化支持，隐含语义涉及国家责任与个人自由的辩论，常与美国梦和福利国家概念相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "标准用法，无显著变体",
+        "usage": "主要在美国联邦层面使用，强调公共医疗"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似概念但使用'NHS'（National Health Service）",
+        "usage": "在跨文化比较中，Medicare被视为美国的独特模式，与英国的免费医疗系统形成对比"
+      }
+    ],
+    "historicalContext": "与20世纪60年代美国民权运动和社会改革相关，源自1965年林登·约翰逊总统签署的社会保障法案，反映了战后福利国家的发展。",
+    "modernUsage": "在社交媒体和政治辩论中流行，例如Twitter上的#MedicareForAll运动，推动全民医疗保险的议题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一位65岁老人拿着医疗卡在医院排队，这场景代表了Medicare的实际应用。",
+      "keyElements": [
+        "老人",
+        "医疗卡",
+        "医院"
+      ],
+      "emotionalConnection": "联结学习者个人或家人的医疗经历，触发安全感和责任感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Medicare sounds like 'medicine care' – think of it as 'medicine + care' for the elderly.",
+        "explanation": "通过声音联想将词汇分解为熟悉的部分，利用认知联想原理来强化记忆路径"
+      },
+      {
+        "type": "视觉化",
+        "content": "Picture a red, white, and blue shield (like the Medicare logo) protecting a family.",
+        "explanation": "使用视觉意象与颜色编码，基于双编码理论，促进视觉和语义记忆的整合"
+      }
+    ],
+    "wordAssociations": [
+      "healthcare",
+      "insurance",
+      "seniors",
+      "government aid"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the Medicare program')",
+        "description": "作为专有名词，通常用在描述性短语中",
+        "examples": [
+          "The Medicare system provides essential coverage."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'under Medicare')",
+        "description": "表示在该计划下的情况",
+        "examples": [
+          "Patients are treated under Medicare guidelines."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing Medicare with Medicaid",
+        "correction": "Use Medicare for federal program for seniors; Medicaid for state-federal program for low-income individuals",
+        "explanation": "这两个术语虽然相关，但目标群体不同，错误可能源于相似性"
+      },
+      {
+        "mistake": "Capitalization errors (e.g., writing as 'medicare')",
+        "correction": "Always capitalize as 'Medicare' when referring to the specific U.S. program",
+        "explanation": "作为专有名词，需要大写以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in COCA corpus for American English)",
+    "domains": [
+      "healthcare",
+      "politics",
+      "social welfare"
+    ],
+    "tags": [
+      "medical",
+      "insurance",
+      "government policy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

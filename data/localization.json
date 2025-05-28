@@ -1,0 +1,260 @@
+{
+  "word": "localization",
+  "phonetics": {
+    "british": "/ˌləʊkəlaɪˈzeɪʃən/",
+    "american": "/ˌloʊkəlaɪˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of adapting a product, service, or content to a specific local market, culture, or language, often involving changes in language, design, or functionality.",
+      "chineseTranslation": "本地化",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and technology, the adaptation of software or applications to meet the linguistic and cultural preferences of users in a particular region.",
+      "chineseTranslation": "本地化（尤其在计算机和科技领域）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The broader concept of making something suitable for a local context, such as in business strategy or cultural studies.",
+      "chineseTranslation": "本地化（更广泛的商业或文化适应）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software localization",
+      "meaning": "软件本地化",
+      "example": "The software localization process includes translating interfaces and adjusting for regional date formats.",
+      "exampleTranslation": "软件本地化过程包括翻译界面并调整为区域日期格式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cultural localization",
+      "meaning": "文化本地化",
+      "example": "Cultural localization of marketing campaigns ensures they resonate with local audiences.",
+      "exampleTranslation": "营销活动的文化本地化确保它们与本地受众产生共鸣。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "website localization",
+      "meaning": "网站本地化",
+      "example": "Website localization involves not just translation but also adapting images to local tastes.",
+      "exampleTranslation": "网站本地化不仅仅涉及翻译，还包括调整图像以适应本地偏好。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Global companies often prioritize localization to penetrate new markets effectively.",
+      "translation": "全球公司经常优先考虑本地化以有效进入新市场。",
+      "source": "Business news articles (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The app's localization for the Chinese market included simplified Chinese and payment integration with local services.",
+      "translation": "该应用的针对中国市场的本地化包括简体中文和与本地服务的支付整合。",
+      "source": "Technology reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In anthropology, localization refers to the adaptation of global ideas to local cultural contexts.",
+      "translation": "在人类学中，本地化指的是全球理念向本地文化语境的适应。",
+      "source": "Academic texts (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "locus",
+        "meaning": "place",
+        "language": "Latin"
+      },
+      {
+        "root": "localize",
+        "meaning": "to make local",
+        "language": "English (derived from French)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'locus'（意为地方），经由古法语演变为英语 'local'，19世纪发展为 'localize' 动词，最终演变为 'localization' 名词，用于描述适应地方环境的进程。在工业革命期间，该词开始在商业和科技语境中流行，反映了全球化与本地化的张力。",
+    "firstKnownUse": "1839",
+    "relatedWords": [
+      "localize",
+      "locality",
+      "localism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'localization' 与日常生活中的适应经历关联，例如想象将手机应用调整为中文界面；使用重复间隔法（spaced repetition）复习相关短语，以加强长时记忆；通过视觉辅助如思维导图连接语义网络，促进深度加工。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "adaptation",
+        "similarity": "0.8",
+        "context": "适用于商业和技术语境中产品调整的场景"
+      },
+      {
+        "word": "customization",
+        "similarity": "0.7",
+        "context": "强调个性化调整，尤其在软件开发中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "globalization",
+        "context": "在讨论全球统一标准与本地适应时使用"
+      },
+      {
+        "word": "standardization",
+        "context": "当强调统一化而非本地化时出现"
+      }
+    ],
+    "hypernyms": [
+      "adaptation",
+      "process"
+    ],
+    "hyponyms": [
+      "software localization",
+      "cultural adaptation"
+    ],
+    "collocations": [
+      {
+        "pattern": "localization of [noun]",
+        "examples": [
+          "localization of products",
+          "localization of content"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] localization",
+        "examples": [
+          "cultural localization",
+          "global localization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征着全球化和本土化之间的平衡，在多元文化社会中隐含尊重地方习俗和语言的意义，例如在中国市场，本地化常涉及合乎当地文化规范的调整，以避免文化冲突。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更侧重于技术性和商业应用",
+        "usage": "在美国英语中，常用于软件行业，强调效率和市场渗透"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更注重文化和历史语境",
+        "usage": "在英国英语中，常与历史遗产相关联，如本地化旅游内容"
+      }
+    ],
+    "historicalContext": "与19世纪殖民主义和全球化浪潮相关，在现代则联结于后殖民主义理论和数字时代跨文化交流。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于讨论内容创作者如何适应不同区域的偏好，例如TikTok在全球的本地化策略。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个全球产品如智能手机被调整为本地版本：屏幕显示中文菜单，图标融入中国传统文化元素。",
+      "keyElements": [
+        "智能手机",
+        "中文菜单",
+        "文化元素"
+      ],
+      "emotionalConnection": "联结个人出国经历，例如适应新环境的兴奋感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'localization' 联想为 'local + ization'，想象 'local' 的地方与 'ization' 的变化过程。",
+        "explanation": "通过词根分解增强词汇记忆，利用认知联想原则连接新词与已知知识"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌloʊkəlaɪˈzeɪʃən/ 听起来像 'low-key localization'，联想为低调的本地调整。",
+        "explanation": "使用声音相似性创建趣味记忆钩子，促进海马体参与"
+      }
+    ],
+    "wordAssociations": [
+      "adapt",
+      "customize",
+      "region"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "localizations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + localization + of + [object]",
+        "description": "典型结构用于描述对象的本地化过程",
+        "examples": [
+          "The localization of the app"
+        ]
+      },
+      {
+        "pattern": "In sentences: Subject + verb + localization",
+        "description": "常用于陈述句中表示动作或过程",
+        "examples": [
+          "Companies perform localization to succeed globally"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'localisation' (British spelling)",
+        "correction": "Use 'localization' in American English contexts",
+        "explanation": "由于英式和美式拼写的差异，学习者需根据语域选择正确形式"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use 'localize' as the verb form",
+        "explanation": "该词为名词，常见错误是将之直接用作动词，而应使用相关动词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "business",
+      "cultural studies"
+    ],
+    "tags": [
+      "globalization",
+      "adaptation",
+      "international"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

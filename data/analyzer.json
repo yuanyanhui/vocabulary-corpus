@@ -1,0 +1,256 @@
+{
+  "word": "analyzer",
+  "phonetics": {
+    "british": "/ˈænəlaɪzə/",
+    "american": "/ˈænəˌlaɪzər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, instrument, or system used to examine or break down something into its constituent parts, often for scientific or technical purposes.",
+      "chineseTranslation": "分析器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or software program that performs analysis, such as in data processing or research.",
+      "chineseTranslation": "分析者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a tool or component that parses and interprets data or code.",
+      "chineseTranslation": "解析器",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spectrum analyzer",
+      "meaning": "光谱分析仪，用于分析信号的频率成分",
+      "example": "The engineer used a spectrum analyzer to identify the frequency components in the audio signal.",
+      "exampleTranslation": "工程师使用光谱分析仪来识别音频信号中的频率成分。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data analyzer",
+      "meaning": "数据分析工具，用于处理和解释数据集",
+      "example": "The data analyzer helped the team detect patterns in customer behavior.",
+      "exampleTranslation": "数据分析工具帮助团队检测客户行为的模式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "lexical analyzer",
+      "meaning": "词法分析器，在编程中用于扫描源代码",
+      "example": "A lexical analyzer is the first stage in compiling a program.",
+      "exampleTranslation": "词法分析器是编译程序的第一阶段。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The laboratory technician relied on the chemical analyzer to test the sample's purity.",
+      "translation": "实验室技术员依赖化学分析器来测试样本的纯度。",
+      "source": "Scientific literature (e.g., from academic journals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, an analyzer can quickly identify bugs in the code.",
+      "translation": "在软件开发中，分析器可以快速识别代码中的错误。",
+      "source": "Technical documentation (e.g., from programming forums)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She works as a business analyzer, evaluating market trends for her company.",
+      "translation": "她作为业务分析者，为公司评估市场趋势。",
+      "source": "Business news (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（源自古法语和希腊语）",
+    "rootWords": [
+      {
+        "root": "analyze",
+        "meaning": "To break down into components for examination",
+        "language": "英语（源自古法语 'analyser'，再源自希腊语 'analyein') "
+      },
+      {
+        "root": "-er",
+        "meaning": "A suffix indicating a person or thing that performs an action",
+        "language": "英语（源自古英语和拉丁语）"
+      }
+    ],
+    "historicalDevelopment": "该词源自17世纪的英语，起初是'analyze'的动词形式结合后缀'-er'，从古法语'analyser'演变而来，后者又源自希腊语'analyein'（意思是分解）。在工业革命期间，该词扩展到技术领域，指代机械设备。",
+    "firstKnownUse": "约17世纪中叶",
+    "relatedWords": [
+      "analyser (British English variant)",
+      "analysis",
+      "analytical"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学建议，将词汇与视觉图像关联，例如想象一个机器在分解数据；使用间隔重复法（spaced repetition）来强化记忆；对于中文母语学习者，结合同源词如'分析'来建立跨语言联系，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "examiner",
+        "similarity": "0.7",
+        "context": "在正式的检查或评估语境中适用"
+      },
+      {
+        "word": "parser",
+        "similarity": "0.8",
+        "context": "在技术或计算语境中，用于数据处理"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "synthesizer",
+        "context": "与构建或整合相反的语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "device"
+    ],
+    "hyponyms": [
+      "spectrometer",
+      "logic analyzer"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + analyzer (e.g., chemical analyzer)",
+        "examples": [
+          "gas analyzer",
+          "network analyzer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Analyzer + verb (e.g., analyzer detects)",
+        "examples": [
+          "The analyzer processes data quickly."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和科学理性，常与创新和效率相关联；在中文文化中，类似概念强调实用性，如在工程或商业领域的工具。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术产品命名，如软件工具",
+        "usage": "在美国英语中，常见于商业和科技语境"
+      },
+      {
+        "region": "英国",
+        "variation": "可能使用'analyser'拼写",
+        "usage": "在英国英语中，偏向正式或学术语境"
+      }
+    ],
+    "historicalContext": "该词与工业革命和现代科学发展相关联，例如在19世纪的英国和美国，用于描述新兴的机械设备；在文学中，如H.G. Wells的作品中，象征科技对社会的冲击。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于AI和数据分析工具的讨论中，如在Twitter或LinkedIn上"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高科技实验室，里面有一个闪烁的机器正在分解数据流，如同侦探破解密码。",
+      "keyElements": [
+        "机器",
+        "数据流",
+        "侦探"
+      ],
+      "emotionalConnection": "联结到个人好奇心或职业兴趣，例如回想使用智能手机分析应用的经历，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Analyzer sounds like 'analyze her' – think of a device that 'analyzes her' data.",
+        "explanation": "通过声音联想将词汇与故事连接，基于认知联想原理强化记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "A-N-A-L-Y-Z-E-R: A tool that Analyzes Nearly All Yielding Zesty Results.",
+        "explanation": "使用首字母缩略词创建生动故事，符合认知科学中的叙事记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "analyze",
+      "device",
+      "examine",
+      "tool"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "analyzers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + analyzer",
+        "description": "主语+动词+分析器结构，常用于描述工具的使用",
+        "examples": [
+          "The analyzer detects errors."
+        ]
+      },
+      {
+        "pattern": "Analyzer + of + noun",
+        "description": "分析器+介词+名词结构，表示特定类型的分析",
+        "examples": [
+          "Analyzer of data patterns."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'analyser' in British English",
+        "correction": "Use 'analyzer' in American English contexts",
+        "explanation": "拼写差异源于区域变体，可能导致非母语学习者混淆"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "It is a noun; use 'analyze' for the verb form",
+        "explanation": "词性错误常见于初级学习者，需强调名词用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "商业"
+    ],
+    "tags": [
+      "技术术语",
+      "工具",
+      "分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "word": "enter",
+  "phonetics": {
+    "british": "/ˈɛntər/",
+    "american": "/ˈɛntər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to come or go into a place",
+      "chineseTranslation": "进入",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to become a member of or participant in something",
+      "chineseTranslation": "参加或加入",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to input data into a computer or system",
+      "chineseTranslation": "输入",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a key on a computer keyboard used to execute a command",
+      "chineseTranslation": "回车键",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enter into",
+      "meaning": "参与或签订",
+      "example": "They decided to enter into a partnership agreement.",
+      "exampleTranslation": "他们决定签订合伙协议。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "enter a competition",
+      "meaning": "参加比赛",
+      "example": "She plans to enter a competition next month.",
+      "exampleTranslation": "她计划下个月参加比赛。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "enter data",
+      "meaning": "输入数据",
+      "example": "Please enter data into the spreadsheet.",
+      "exampleTranslation": "请将数据输入到电子表格中。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Please enter the building through the main door.",
+      "translation": "请通过正门进入大楼。",
+      "source": "Daily conversation (informal context)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The company will enter new markets in Asia next year.",
+      "translation": "公司将在明年进入亚洲的新市场。",
+      "source": "Business news (formal context)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You need to enter your password to access the system.",
+      "translation": "你需要输入密码来访问系统。",
+      "source": "Technical manual (technical context)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "intra",
+        "meaning": "inside",
+        "language": "Latin"
+      },
+      {
+        "root": "enter",
+        "meaning": "to go in",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'intrare'，意为 '进入内部'，经由古法语 'entrer' 演变为现代英语，最初用于描述物理进入，逐渐扩展到抽象参与或输入概念。",
+    "firstKnownUse": "约 13 世纪",
+    "relatedWords": [
+      "entrance",
+      "entry",
+      "intrude"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，如将 'enter' 联想为进入门的动作，以加强空间记忆；重复练习不同语境以提升语义整合；结合个人经验，例如回想输入密码的场景，以增强情绪触发点。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "access",
+        "similarity": "0.7",
+        "context": "在技术语境中，用于表示进入系统"
+      },
+      {
+        "word": "join",
+        "similarity": "0.8",
+        "context": "在社交或组织语境中，用于表示参加"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exit",
+        "context": "在物理移动语境中，表示离开"
+      },
+      {
+        "word": "leave",
+        "context": "在参与语境中，表示退出"
+      }
+    ],
+    "hypernyms": [
+      "move",
+      "input"
+    ],
+    "hyponyms": [
+      "log in",
+      "enroll"
+    ],
+    "collocations": [
+      {
+        "pattern": "enter + noun (e.g., enter a room)",
+        "examples": [
+          "Enter the code here."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "enter into + noun (e.g., enter into an agreement)",
+        "examples": [
+          "Enter into negotiations."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中无特定象征意义，但常用于现代科技语境中，象征数字时代的互动。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如 'enter key'",
+        "usage": "在日常对话中频繁出现，尤其在数字设备操作中"
+      },
+      {
+        "region": "英国",
+        "variation": "类似美国，但可能更偏向正式语境",
+        "usage": "在正式场合如商业协议中使用"
+      }
+    ],
+    "historicalContext": "与工业革命和现代计算机发展相关，反映了从物理进入到虚拟进入的演变。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于表示加入讨论或输入信息。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人推开一扇门进入房间，同时手指按下键盘上的回车键。",
+      "keyElements": [
+        "门、钥匙、键盘"
+      ],
+      "emotionalConnection": "联结个人第一次使用电脑登录的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Enter 像 'enter a door'，代表进入。",
+        "explanation": "通过视觉联想词根 'intra' (内部)，帮助建立空间认知路径。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Enter 听起来像 'in-ter'，联想到 'in' (里面) 和 'ter' (转动门)。",
+        "explanation": "利用声音相似性增强听觉记忆，根据认知科学的多感官学习原则。"
+      }
+    ],
+    "wordAssociations": [
+      "entrance",
+      "input",
+      "join"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "entered",
+      "pastParticiple": "entered",
+      "presentParticiple": "entering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + enter + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作。",
+        "examples": [
+          "I enter the room."
+        ]
+      },
+      {
+        "pattern": "Enter + preposition + noun",
+        "description": "动词 + 介词 + 名词结构，用于扩展语义。",
+        "examples": [
+          "Enter into a contract."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'enter' with 'entry'",
+        "correction": "Use 'enter' as a verb and 'entry' as a noun",
+        "explanation": "作为动词时表示动作，而名词时表示入口；初级学习者常混淆词性。"
+      },
+      {
+        "mistake": "Incorrect preposition use",
+        "correction": "Use 'enter into' for agreements, not 'enter in'",
+        "explanation": "特定搭配错误可能源于母语干扰，如中文的固定表达。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Daily life"
+    ],
+    "tags": [
+      "Action verb",
+      "Computing",
+      "Participation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

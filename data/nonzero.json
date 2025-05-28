@@ -1,0 +1,221 @@
+{
+  "word": "nonzero",
+  "phonetics": {
+    "british": "/nɒnˈzɪərəʊ/",
+    "american": "/nɑːnˈzoʊroʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not equal to zero; having a value other than zero.",
+      "chineseTranslation": "非零的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nonzero value",
+      "meaning": "非零的值",
+      "example": "The function returns a nonzero value if the operation is successful.",
+      "exampleTranslation": "如果操作成功，该函数返回一个非零的值。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nonzero probability",
+      "meaning": "非零的概率",
+      "example": "There is a nonzero probability that the event will occur.",
+      "exampleTranslation": "这个事件发生的概率是非零的。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In linear algebra, a nonzero vector is essential for defining basis elements.",
+      "translation": "在线性代数中，非零向量是定义基向量的必需元素。",
+      "source": "Academic text (mathematics textbook)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scientist confirmed that the measurement showed a nonzero result, indicating an error.",
+      "translation": "科学家确认测量结果是非零的，这表明存在错误。",
+      "source": "Scientific article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Even a nonzero chance of success motivated the team to continue their efforts.",
+      "translation": "即使只有非零的成功机会，团队也继续努力。",
+      "source": "Informal narrative (business context)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "non-",
+        "meaning": "Not",
+        "language": "Latin"
+      },
+      {
+        "root": "zero",
+        "meaning": "Nothing or cipher",
+        "language": "Italian (from Arabic 'sifr')"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语前缀 'non-' 表示 '不'，结合意大利语 'zero'（源自阿拉伯语 'sifr'，意思是零），在19世纪的英语中演变为现代形式，用于数学和科学语境，以描述非零数值。该词的组合反映了英语吸收拉丁和阿拉伯数字系统的影响。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "non",
+      "zero",
+      "nonzero matrix",
+      "positive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过结合认知科学，将 'nonzero' 与数字线上的非零点可视化联想，利用间隔重复法复习，以强化记忆；建议初级学习者从数学情境开始，建立具体语义连接，避免抽象概念的认知负担。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "positive",
+        "similarity": "0.7",
+        "context": "适用于数学或科学语境中表示大于零的值，但 'nonzero' 也可包括负值"
+      },
+      {
+        "word": "non-null",
+        "similarity": "0.8",
+        "context": "在编程语境中，表示非空或非零的状态"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "zero",
+        "context": "适用于数值比较语境，例如数学方程中"
+      }
+    ],
+    "hypernyms": [
+      "adjective describing quantities"
+    ],
+    "hyponyms": [
+      "positive nonzero",
+      "negative nonzero"
+    ],
+    "collocations": [
+      {
+        "pattern": "nonzero + noun (e.g., value, probability)",
+        "examples": [
+          "nonzero value",
+          "nonzero entry"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中主要作为技术术语，与数学和科学革命相关，象征理性与精确性，无显著隐含语义，但反映了现代社会对量化分析的依赖。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在科技和商业语境",
+        "usage": "在日常科技讨论中频繁出现，如软件开发"
+      },
+      {
+        "region": "英国",
+        "variation": "与美国类似，但可能在学术写作中更正式",
+        "usage": "常用于教育和研究领域"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期阿拉伯数字传入欧洲的背景相关，在工业革命后成为科学术语，体现西方文化对精确测量的重视。",
+    "modernUsage": "在社交媒体和数字时代，常见于科技讨论和在线教育，但在中国语境中可能需翻译为 '非零' 以适应本地表达趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字线，'nonzero' 代表线上的所有点除零点外。",
+      "keyElements": [
+        "数字线",
+        "非零点",
+        "排除零"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆数学考试中避免零分的压力，以增强记忆动机。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Nonzero = Not + Zero, 像 'not zero' 的缩写。",
+        "explanation": "通过简单联想词根，帮助学习者快速回忆语义，基于认知科学中的语义网络理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'non-zero'，联想 'none are zero' 的短语。",
+        "explanation": "利用声音相似性创建记忆钩子，促进听觉和视觉记忆整合。"
+      }
+    ],
+    "wordAssociations": [
+      "number",
+      "value",
+      "math",
+      "positive"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "null (as it is not typically graded)",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词置于名词前，修饰名词。",
+        "examples": [
+          "a nonzero number"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'none zero' instead of 'nonzero'",
+        "correction": "'nonzero'",
+        "explanation": " 'None' 是代词，而 'non-' 是前缀；错误源于词形混淆，需注意英语构词法。"
+      },
+      {
+        "mistake": "Confusing with 'non zero' (two words)",
+        "correction": "'nonzero' (one word)",
+        "explanation": "在现代英语中，它是一个合成词，避免空格以符合标准书写。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "computing",
+      "technology"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

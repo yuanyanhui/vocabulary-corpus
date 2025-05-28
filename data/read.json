@@ -1,0 +1,273 @@
+{
+  "word": "read",
+  "phonetics": {
+    "british": "/riːd/ (for base form; past tense: /rɛd/)",
+    "american": "/riːd/ (for base form; past tense: /rɛd/)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to look at and comprehend the meaning of written or printed words or symbols.",
+      "chineseTranslation": "阅读",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to utter aloud or render in speech the words of (something written or printed).",
+      "chineseTranslation": "朗读",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an act or period of reading something.",
+      "chineseTranslation": "阅读行为或时期",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "having knowledge gained by reading (usually in combination).",
+      "chineseTranslation": "通过阅读获得的知识（通常用于合成词）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "read aloud",
+      "meaning": "大声朗读",
+      "example": "She asked the children to read aloud from the storybook.",
+      "exampleTranslation": "她要求孩子们大声朗读故事书。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "read between the lines",
+      "meaning": "从字里行间推断隐含意思",
+      "example": "To understand the email, you have to read between the lines.",
+      "exampleTranslation": "要理解这封邮件，你必须从字里行间推断。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "read up on",
+      "meaning": "深入研究或阅读某主题",
+      "example": "I need to read up on the history of ancient Rome before the trip.",
+      "exampleTranslation": "在旅行前，我需要深入研究古罗马历史。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I read a fascinating novel last night.",
+      "translation": "我昨晚读了一本引人入胜的小说。",
+      "source": "Modern literature (e.g., from contemporary fiction corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The professor asked the students to read the article critically.",
+      "translation": "教授要求学生们批判性地阅读这篇文章。",
+      "source": "Academic texts (e.g., from JSTOR or academic corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the quiet library, she could read without any distractions.",
+      "translation": "在安静的图书馆里，她可以不受干扰地阅读。",
+      "source": "News and everyday contexts (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He learned to read music at an early age.",
+      "translation": "他很小就学会了阅读乐谱。",
+      "source": "Cultural and artistic contexts (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "rǣdan",
+        "meaning": "to advise, counsel, guess, interpret",
+        "language": "Old English"
+      },
+      {
+        "root": "possibly from Proto-Germanic *rēdaną",
+        "meaning": "to arrange, advise",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 rǣdan，最初意为建议或解释，逐渐演变为现代英语中表示阅读或理解书面文字的含义。这一演变反映了从口头咨询到书面理解的文化转变，在中古英语时期开始与书籍和文字相关联。",
+    "firstKnownUse": "约 9 世纪，在盎格鲁-撒克逊时代",
+    "relatedWords": [
+      "rede (archaic form meaning advice)",
+      "ready (related through Proto-Germanic roots)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "CEFR B1-B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法记忆不规则动词形式；通过视觉联想将 'read' 与书籍图像关联，以增强海马体记忆路径；为中文母语学习者，练习区分 'read' 的不同发音以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "peruse",
+        "similarity": "0.8",
+        "context": "在正式语境中用于仔细阅读文件"
+      },
+      {
+        "word": "scan",
+        "similarity": "0.6",
+        "context": "在非正式语境中用于快速浏览文本"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在学习语境中，表示不注意或忽略信息"
+      },
+      {
+        "word": "write",
+        "context": "在创作语境中，表示从生产内容到消费内容的对立"
+      }
+    ],
+    "hypernyms": [
+      "comprehend",
+      "interpret"
+    ],
+    "hyponyms": [
+      "skim",
+      "study"
+    ],
+    "collocations": [
+      {
+        "pattern": "read + noun (e.g., read a book)",
+        "examples": [
+          "read a book",
+          "read the news"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "read + adverb (e.g., read carefully)",
+        "examples": [
+          "read carefully",
+          "read quickly"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'read' 象征着知识获取和教育，通常与个人成长或启蒙相关；在中文文化中，可联想到 '阅读' 的传统，如古籍研读，但英语用法更强调日常实践。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于文学和历史语境",
+        "usage": "在英国英语中，常用于描述经典文学阅读，如 'read Shakespeare'"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于实用和数字媒体",
+        "usage": "在美国英语中，常用于现代语境，如 'read online articles'"
+      }
+    ],
+    "historicalContext": "与印刷术的发明和启蒙运动相关，'read' 在文艺复兴时期成为普及教育的关键；在文学作品中，如莎士比亚的作品中，体现了从口头到书面的文化转变。",
+    "modernUsage": "在社交媒体时代，'read' 常用于数字语境，如 'read tweets' 或 'read e-books'，反映了全球化和技术的影响。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个安静的图书馆场景，一个人手持书籍，眼睛跟随文字。",
+      "keyElements": [
+        "书籍",
+        "眼睛",
+        "理解"
+      ],
+      "emotionalConnection": "联结个人童年阅读经历的喜悦，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'read' 联想为 'reed' (芦苇)，想象芦苇在风中摇曳，像翻页书籍。",
+        "explanation": "通过视觉联想帮助记忆发音和含义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /riːd/ 像 'reed'，联想到河流中的芦苇，表示 '阅读' 像河流般流动知识。",
+        "explanation": "利用声音与图像的联觉提升海马体记忆"
+      }
+    ],
+    "wordAssociations": [
+      "book",
+      "study",
+      "learn"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "read (/rɛd/)",
+      "pastParticiple": "read (/rɛd/)",
+      "presentParticiple": "reading",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + read + object",
+        "description": "主语 + 动词 + 宾语结构，常用于简单陈述",
+        "examples": [
+          "She reads books every day."
+        ]
+      },
+      {
+        "pattern": "read + adverbial phrase",
+        "description": "动词 + 副词短语结构，用于添加方式或时间",
+        "examples": [
+          "He read quickly through the report."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing past and present pronunciation",
+        "correction": "Use /riːd/ for present and /rɛd/ for past",
+        "explanation": "中文母语学习者常混淆发音差异，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure irregular forms are used properly",
+        "explanation": "由于 'read' 不规则，需通过练习避免错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 100 in COCA and BNC corpora)",
+    "domains": [
+      "education",
+      "literature",
+      "daily communication"
+    ],
+    "tags": [
+      "verb",
+      "cognition",
+      "learning"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

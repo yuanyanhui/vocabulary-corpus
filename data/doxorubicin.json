@@ -1,0 +1,233 @@
+{
+  "word": "doxorubicin",
+  "phonetics": {
+    "british": "/ˌdɒksəˈruːbɪsɪn/",
+    "american": "/ˌdɑːksoʊˈruːbɪsɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an anthracycline antibiotic used as a chemotherapy agent to treat various types of cancer, such as leukemia, breast cancer, and sarcomas, by interfering with DNA replication in cancer cells",
+      "chineseTranslation": "一种蒽环类抗生素，用于治疗多种癌症（如白血病、乳腺癌和肉瘤）的化疗药物，通过干扰癌细胞的DNA复制作用",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "doxorubicin therapy",
+      "meaning": "多柔比星疗法",
+      "example": "The oncologist recommended doxorubicin therapy for the advanced stage of the disease.",
+      "exampleTranslation": "肿瘤学家推荐多柔比星疗法治疗疾病的晚期阶段。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "doxorubicin administration",
+      "meaning": "多柔比星的给药",
+      "example": "Intravenous doxorubicin administration requires careful monitoring for side effects.",
+      "exampleTranslation": "静脉注射多柔比星给药需要仔细监测副作用。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Doxorubicin has been a cornerstone in cancer treatment regimens since the 1970s.",
+      "translation": "多柔比星自20世纪70年代以来一直是癌症治疗方案的基石。",
+      "source": "Medical literature (e.g., from PubMed databases)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Patients receiving doxorubicin should be screened for cardiac toxicity.",
+      "translation": "接受多柔比星治疗的患者应筛查心脏毒性。",
+      "source": "Clinical guidelines (e.g., American Cancer Society)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In combination with other drugs, doxorubicin improves survival rates in certain leukemias.",
+      "translation": "与其他药物联合使用，多柔比星可提高某些白血病的存活率。",
+      "source": "Oncology research articles",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Modern English, derived from chemical nomenclature",
+    "rootWords": [
+      {
+        "root": "doxo-",
+        "meaning": "likely derived from the chemical precursor or structure related to daunorubicin",
+        "language": "English (influenced by Latin and Greek roots in pharmacology)"
+      },
+      {
+        "root": "-rubicin",
+        "meaning": "referring to the rubin or red pigment in the compound, from Latin 'rubor' meaning red",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term evolved from the synthesis of anthracycline antibiotics in the mid-20th century; it was developed from daunorubicin in the 1960s by researchers at Farmitalia, with 'doxo-' possibly indicating a modification for enhanced efficacy, leading to its modern use in oncology",
+    "firstKnownUse": "1969",
+    "relatedWords": [
+      "daunorubicin",
+      "epirubicin",
+      "idarubicin"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 7,
+    "spellingDifficulty": 8,
+    "meaningComplexity": 9,
+    "usageComplexity": 8,
+    "learningTips": [
+      "将词汇与真实医疗情境结合，利用认知科学中的双编码理论（如视觉和语义联想），例如想象药物分子结构与红色警报的画面；",
+      "通过间隔重复系统（Spaced Repetition Systems）强化记忆，避免混淆类似药物名称；",
+      "联系个人经验，如观看癌症治疗纪录片，以建立情感连接增强长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "Adriamycin",
+        "similarity": 1,
+        "context": "在药物品牌名称和临床语境中，常用于北美地区的医疗文件"
+      },
+      {
+        "word": "hydroxydaunorubicin",
+        "similarity": 0.9,
+        "context": "在科学和药理学语境中，指其化学变体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "none directly applicable",
+        "context": "作为专有药物术语，没有直接反义词，但可与'non-chemotherapeutic agents'相对，在治疗选项的语境中"
+      }
+    ],
+    "hypernyms": [
+      "chemotherapy agent",
+      "anthracycline antibiotic"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "doxorubicin + treatment/regimen",
+        "examples": [
+          "doxorubicin treatment",
+          "doxorubicin regimen"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "administer + doxorubicin",
+        "examples": [
+          "administer doxorubicin intravenously"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征癌症治疗的科技进步，隐含了现代医学对生命延续的希望，但也反映了化疗的副作用和社会对癌症的恐惧",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "常作为品牌名'Adriamycin'使用",
+        "usage": "在美国医疗实践中更常见，以标准化协议形式出现"
+      },
+      {
+        "region": "United Kingdom and Europe",
+        "variation": "统一使用通用名'doxorubicin'",
+        "usage": "在欧洲的临床试验和指南中更强调其科学术语，以突出国际标准"
+      }
+    ],
+    "historicalContext": "与20世纪60年代的抗癌药物开发浪潮相关，体现了冷战时期科学竞赛下的医学创新，在文学如Susan Sontag的《疾病隐喻》中被讨论为癌症社会隐喻",
+    "modernUsage": "在社交媒体如Twitter和健康论坛中，经常出现在患者分享和抗癌故事中，反映了全球化的医疗信息传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红色的分子结构在实验室中旋转，代表药物的抗癌作用",
+      "keyElements": [
+        "红色分子",
+        "实验室场景",
+        "癌症细胞被破坏"
+      ],
+      "emotionalConnection": "联想到个人或家人的健康经历，激发对科学希望的情绪，以增强记忆的持久性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Doxorubicin 听起来像 'doc's rubrics'，将 'doc' 联想为医生，'rubrics' 为规则，从而与医疗指南关联",
+        "explanation": "利用声音联觉原理，通过将词汇分解为熟悉的部分，建立认知连接，便于中级学习者快速回忆"
+      },
+      {
+        "type": "缩略",
+        "content": "DOX = Destroyer Of eXtreme cells",
+        "explanation": "通过简短的缩写和故事创建，结合叙事记忆技巧，帮助学习者将抽象概念转化为生动图像"
+      }
+    ],
+    "wordAssociations": [
+      "chemotherapy",
+      "cancer",
+      "antibiotic",
+      "oncology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "as a subject in a sentence",
+        "description": "用作句子主语，描述其功能或应用",
+        "examples": [
+          "Doxorubicin targets rapidly dividing cells."
+        ]
+      },
+      {
+        "pattern": "in prepositional phrases",
+        "description": "出现在介词短语中，表示使用方式",
+        "examples": [
+          "Treatment with doxorubicin began last week."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing doxorubicin with similar drugs like daunorubicin",
+        "correction": "Use specific names based on context (e.g., doxorubicin for breast cancer)",
+        "explanation": "由于名称相似，初级学习者易混淆；通过上下文线索区分，以避免医疗错误"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /dɒks-ə-rub-i-sin/ instead of /ˌdɒksəˈruːbɪsɪn/",
+        "correction": "Practice with IPA and audio resources",
+        "explanation": "发音错误可能导致沟通问题；在英语学习中，强调音节重音"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., COCA rank: below 50,000), but high in specialized medical corpora (e.g., PubMed frequency: top 1% in oncology)",
+    "domains": [
+      "Medicine",
+      "Pharmacology",
+      "Oncology"
+    ],
+    "tags": [
+      "Medical Terminology",
+      "Cancer Treatment",
+      "Chemotherapy"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Merriam-Webster Dictionary",
+      "Corpus of Contemporary American English (COCA)",
+      "PubMed Medical Database"
+    ]
+  }
+}

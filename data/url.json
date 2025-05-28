@@ -1,0 +1,233 @@
+{
+  "word": "url",
+  "phonetics": {
+    "british": "/ˌjuː.ɑːrˈɛl/",
+    "american": "/ˌjuː.ɑrˈɛl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A string of characters that identifies a resource on the internet, such as a webpage or file, typically consisting of a protocol, domain name, and path.",
+      "chineseTranslation": "统一资源定位符",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enter a URL",
+      "meaning": "输入一个URL",
+      "example": "Please enter a URL in the address bar.",
+      "exampleTranslation": "请在地址栏中输入一个URL。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "type the URL",
+      "meaning": "键入URL",
+      "example": "Type the URL into the search box to access the website.",
+      "exampleTranslation": "在搜索框中键入URL以访问网站。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "share a URL",
+      "meaning": "分享URL",
+      "example": "You can share a URL via email or social media.",
+      "exampleTranslation": "您可以通过电子邮件或社交媒体分享URL。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The URL for the company's homepage is www.example.com.",
+      "translation": "该公司主页的URL是www.example.com。",
+      "source": "Business communication (e.g., from corporate emails)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Make sure to copy the correct URL before clicking.",
+      "translation": "在点击前确保复制正确的URL。",
+      "source": "Daily internet usage (e.g., from online tutorials)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In academic research, a reliable URL can lead to peer-reviewed articles.",
+      "translation": "在学术研究中，一个可靠的URL可以通往同行评议的文章。",
+      "source": "Scholarly writing (e.g., from JSTOR or academic corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (as an acronym)",
+    "rootWords": [
+      {
+        "root": "Uniform Resource Locator",
+        "meaning": "A locator for uniform resources",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term 'URL' emerged in the early 1990s as part of the development of the World Wide Web by Tim Berners-Lee. It evolved from earlier concepts in computer networking, where resources needed standardized addressing. From its initial use in hypertext protocols, it has become a fundamental element in digital communication, adapting to new technologies like HTTPS.",
+    "firstKnownUse": "1990s (first documented in web standards by the W3C)",
+    "relatedWords": [
+      "URI (Uniform Resource Identifier)",
+      "URN (Uniform Resource Name)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，将URL与视觉图像（如浏览器地址栏）关联，以强化 episodic memory；对于中文母语学习者，建议通过重复性练习（如输入URL）来构建 procedural memory，并避免混淆与类似缩写如IP地址的差异。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "web address",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于指代互联网资源，常用于日常对话"
+      },
+      {
+        "word": "link",
+        "similarity": "0.7",
+        "context": "在社交媒体或非技术语境中，表示可点击的URL"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dead link",
+        "context": "当URL无效或无法访问时，常用于技术问题讨论"
+      }
+    ],
+    "hypernyms": [
+      "internet protocol"
+    ],
+    "hyponyms": [
+      "HTTP URL",
+      "HTTPS URL"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + URL",
+        "examples": [
+          "enter a URL",
+          "copy a URL"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "URL + noun",
+        "examples": [
+          "URL structure",
+          "URL shortening"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "URL在数字文化中象征着全球信息访问的便利性，体现了互联网时代的连通性和信息民主化，但在某些文化中（如隐私意识强的地区），它可能隐含数据安全风险。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More emphasis on '.com' domains",
+        "usage": "在美国英语中，URL常与商业网站相关联，常用于营销语境"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Preference for '.co.uk' and formal addressing",
+        "usage": "在英国英语中，URL的使用更注重正式性和数据保护法规，如GDPR"
+      }
+    ],
+    "historicalContext": "URL与万维网的发明紧密相关，反映了20世纪90年代的科技革命和社会变革，推动了全球化的文化交流和信息传播。",
+    "modernUsage": "在现代社交媒体和移动应用中，URL被广泛缩短（如bit.ly链接），体现了即时沟通的趋势，并促进了跨文化互动。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个浏览器窗口，地址栏中显示一个URL，如一条通往宝藏的地图线。",
+      "keyElements": [
+        "浏览器地址栏",
+        "网络图标",
+        "链接符号"
+      ],
+      "emotionalConnection": "联结到个人上网经历的兴奋感，以触发情感记忆，如第一次访问favorite网站"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "URL = 'You Are Linking'",
+        "explanation": "通过声音联想将URL与'you are linking'连接，强化语音记忆，并帮助中文母语者避免发音错误。"
+      },
+      {
+        "type": "缩略",
+        "content": "U-R-L: Uniform-Resource-Locator",
+        "explanation": "分解为缩写形式，利用分块编码策略来提升工作记忆的效率。"
+      }
+    ],
+    "wordAssociations": [
+      "address",
+      "link",
+      "website"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "URLs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + URL",
+        "description": "作为宾语出现，常用于描述动作",
+        "examples": [
+          "I entered the URL."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with URL",
+        "description": "用介词短语表示位置或来源",
+        "examples": [
+          "Navigate to the URL provided."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing URL with URI",
+        "correction": "Use URL for locators and URI for identifiers",
+        "explanation": "中文学习者常混淆二者，因为两者在技术语境中相似，但URL更具体于定位。"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always write as 'URL' in uppercase",
+        "explanation": "作为首字母缩写，需大写以符合英语缩写规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1% in COCA corpus for digital terms)",
+    "domains": [
+      "technology",
+      "internet",
+      "business"
+    ],
+    "tags": [
+      "digital",
+      "web",
+      "communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "W3C standards"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "word": "irreducible",
+  "phonetics": {
+    "british": "/ˌɪrɪˈdjuːsəbl/",
+    "american": "/ˌɪrɪˈduːsəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not able to be reduced, simplified, or brought to a smaller or simpler form; incapable of being divided into simpler elements.",
+      "chineseTranslation": "不可简化的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In mathematics, a polynomial or fraction that cannot be factored into polynomials of lower degree over a given field.",
+      "chineseTranslation": "不可约的",
+      "level": "academic",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "irreducible fraction",
+      "meaning": "不可约分数",
+      "example": "In algebra, an irreducible fraction is one where the numerator and denominator have no common factors other than 1.",
+      "exampleTranslation": "在代数中，不可约分数是指分子和分母除了1外没有共同因数。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "irreducible representation",
+      "meaning": "不可约表示",
+      "example": "Group theory deals with irreducible representations, which cannot be decomposed into simpler ones.",
+      "exampleTranslation": "群论处理不可约表示，这些表示无法分解成更简单的形式。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of an irreducible element is fundamental in ring theory.",
+      "translation": "不可约元素的概念在环论中至关重要。",
+      "source": "Academic text (e.g., from mathematics textbooks like those referenced in OED)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "This problem is irreducible to a single cause; multiple factors are involved.",
+      "translation": "这个问题无法归结为单一原因；涉及多个因素。",
+      "source": "News article (e.g., from BBC or The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In philosophy, some truths are considered irreducible and must be accepted as basic.",
+      "translation": "在哲学中，有些真理被视为不可简化的，必须作为基础接受。",
+      "source": "Literary work (e.g., influenced by Wittgenstein's philosophy)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "reducere",
+        "meaning": "to lead back or bring back",
+        "language": "Latin"
+      },
+      {
+        "root": "in-",
+        "meaning": "not or without",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'irreducibilis' 演变而来，该词由 'in-' (不) 和 'reducere' (减少或带领回来) 组成。在中世纪拉丁语中，用于数学和逻辑语境，17世纪传入英语，指代无法简化的概念。在现代英语中，尤其在科学和哲学领域，扩展到更广泛的抽象含义。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "reduce",
+      "reducible",
+      "irreduction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires advanced understanding in technical contexts)",
+    "pronunciationDifficulty": "6 (1-10 scale; the vowel sounds and stress may challenge intermediate learners due to variations in British and American accents)",
+    "spellingDifficulty": "7 (complex due to the prefix 'ir-' and the root, which might lead to confusion with similar words like 'irreversible')",
+    "meaningComplexity": "8 (abstract and context-dependent, often requiring knowledge of fields like mathematics or philosophy)",
+    "usageComplexity": "7 (typically used in formal or academic settings, with specific collocations that demand precise syntactic awareness)",
+    "learningTips": [
+      "结合认知科学原理，将词汇与视觉化图表关联，例如用树状图表示'不可简化的'概念，以增强空间记忆；使用间隔重复系统复习，针对母语为中文的学习者，将其与类似汉字词汇（如'简化'的反义）进行对比联想，以减少认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unalterable",
+        "similarity": "0.7",
+        "context": "在哲学或法律语境中，表示无法改变的特性"
+      },
+      {
+        "word": "indivisible",
+        "similarity": "0.8",
+        "context": "在数学语境中，表示无法分割的元素"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reducible",
+        "context": "在科学语境中，表示可以简化的概念"
+      },
+      {
+        "word": "divisible",
+        "context": "在数学语境中，表示可以分解的元素"
+      }
+    ],
+    "hypernyms": [
+      "inflexible",
+      "fundamental"
+    ],
+    "hyponyms": [
+      "prime number (in mathematics)"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., irreducible complexity)",
+        "examples": [
+          "The irreducible complexity of biological systems baffles scientists."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + irreducible + to",
+        "examples": [
+          "This issue is irreducible to economic factors alone."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征理性主义和科学精确性，常用于讨论哲学辩论或科学理论的不可简化性，例如达尔文进化论中的'不可约复杂性'，隐含对简化论的批判。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向学术和哲学语境，使用较正式",
+        "usage": "在英国英语中，常见于高等教育和科学出版物中"
+      },
+      {
+        "region": "美国",
+        "variation": "在技术语境中更常见，如计算机科学",
+        "usage": "在美国英语中，可能与流行科学结合，如在科普书籍中解释"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代科学革命相关，例如牛顿的物理学中隐含不可简化的基本原理；在文学中，如康德哲学，强调某些知识的不可约性。",
+    "modernUsage": "在社交媒体和在线论坛中，用于讨论复杂问题，如气候变化的不可简化因素，反映当代对多学科整合的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个坚固的锁链环节，无法被进一步拆分，代表'不可简化的'概念。",
+      "keyElements": [
+        "锁链",
+        "不可拆分的环节",
+        "坚固结构"
+      ],
+      "emotionalConnection": "联结到个人经历，如解决一个复杂难题后意识到其核心部分无法简化，触发成就感或挫败感以加深记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'ir-' 视为 'iron' (铁的，不可弯曲的) 和 'reducible' 结合",
+        "explanation": "通过声音和视觉联想，将词汇与铁链的刚硬性关联，基于认知科学中的双编码理论，提升记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-R for 'Iron Rock' – unbreakable",
+        "explanation": "使用缩略形式创建简易口诀，结合情感触发以强化神经路径。"
+      }
+    ],
+    "wordAssociations": [
+      "simplify",
+      "complex",
+      "essential"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more irreducible",
+      "superlative": "most irreducible"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + irreducible + to + object",
+        "description": "用于表示某事无法归结为其他事物",
+        "examples": [
+          "The problem is irreducible to a simple solution."
+        ]
+      },
+      {
+        "pattern": "Adjective modifying noun",
+        "description": "直接修饰名词，表示其不可简化的特性",
+        "examples": [
+          "An irreducible fraction in mathematics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'irreversible'",
+        "correction": "Use 'irreducible' for simplification issues",
+        "explanation": "两者虽相似，但'irreversible' 指不可逆转，而'irreducible' 指不可简化；母语为中文的学习者可能混淆音似词汇。"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with appropriate nouns like 'fraction' or 'complexity'",
+        "explanation": "错误搭配可能导致语义偏差，建议通过语料库练习纠正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "science",
+      "mathematics",
+      "philosophy",
+      "academic"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

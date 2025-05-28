@@ -1,0 +1,210 @@
+{
+  "word": "ls",
+  "phonetics": {
+    "british": "/ɛl ɛs/",
+    "american": "/ɛl ɛs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "An abbreviation commonly used in computing as a command in Unix-like operating systems to list files and directories.",
+      "chineseTranslation": "（在计算机中，用于列出文件和目录的命令）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In some contexts, may refer to a typographical error or shorthand, but primarily recognized in technical fields.",
+      "chineseTranslation": "（可能指打字错误或简写，但主要在技术领域使用）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ls command",
+      "meaning": "列出文件和目录的命令",
+      "example": "Type 'ls' in the terminal to see the files.",
+      "exampleTranslation": "在终端中输入 'ls' 来查看文件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ls -l",
+      "meaning": "带有详细列表选项的命令",
+      "example": "Use 'ls -l' for a long listing format.",
+      "exampleTranslation": "使用 'ls -l' 来获取详细列表格式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Open the terminal and run 'ls' to display the contents of the current directory.",
+      "translation": "打开终端并运行 'ls' 来显示当前目录的内容。",
+      "source": "Technical documentation (e.g., Linux man pages)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "If you mistype 'is' as 'ls', it might not work in your script.",
+      "translation": "如果你把 'is' 打错了成 'ls'，它可能在你的脚本中不起作用。",
+      "source": "Programming forums (e.g., Stack Overflow)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In some informal chats, 'ls' could be a typo for 'is', as in 'ls that true?'",
+      "translation": "在一些非正式聊天中，'ls' 可能是 'is' 的打字错误，比如 'ls that true?'。",
+      "source": "Social media contexts",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English (computing slang)",
+    "rootWords": [
+      {
+        "root": "ls",
+        "meaning": "List",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term 'ls' originated in the early days of Unix operating systems in the 1970s as a command derived from 'list'. It evolved from earlier file management systems and has remained consistent in modern computing environments, reflecting the need for efficient directory navigation.",
+    "firstKnownUse": "1971 (in the original Unix system)",
+    "relatedWords": [
+      "dir (Windows equivalent)",
+      "list (general English verb)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (out of 10, as it is a simple abbreviation with straightforward phonetic components)",
+    "spellingDifficulty": "2 (out of 10, short and easy to remember in technical contexts)",
+    "meaningComplexity": "4 (out of 10, primarily contextual in computing, but can be confusing as a potential typo)",
+    "usageComplexity": "5 (out of 10, requires understanding of technical environments)",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆技术术语；将 'ls' 与实际终端操作相结合，形成肌肉记忆；通过视觉联想，如想象一个文件夹列表，来强化语境关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "list",
+        "similarity": "0.7",
+        "context": "在计算机命令中，用于显示文件列表"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hide",
+        "context": "在计算机中，表示隐藏文件或目录"
+      }
+    ],
+    "hypernyms": [
+      "command"
+    ],
+    "hyponyms": [
+      "ls -a",
+      "ls -l"
+    ],
+    "collocations": [
+      {
+        "pattern": "ls [options]",
+        "examples": [
+          "ls -l",
+          "ls /home"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在技术文化中，'ls' 象征着效率和命令行操作的简洁性，常与开源社区和编程文化相关联，体现了对简易工具的偏好。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "Standard usage in Unix-based systems",
+        "usage": "普遍用于编程和IT专业人士中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but may appear in educational contexts for computer science",
+        "usage": "在学术和专业环境中一致"
+      }
+    ],
+    "historicalContext": "与1970s的Unix发展相关，反映了计算机革命中的创新；文学上少见，但在技术历史书籍中频繁出现。",
+    "modernUsage": "在社交媒体和在线论坛中，'ls' 常用于代码分享或技术讨论，体现了数字时代的语言简化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电脑终端屏幕，显示一列文件夹图标。",
+      "keyElements": [
+        "文件夹",
+        "列表",
+        "终端"
+      ],
+      "emotionalConnection": "联想到第一次使用命令行时的兴奋感，触发个人学习经历的回忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'LS' 代表 'List Stuff'",
+        "explanation": "通过简单缩写联想帮助记忆其功能，结合视觉想象加强认知。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'els'，联想 'else' 的声音以避免混淆。",
+        "explanation": "利用声音相似性区分常见错误，提高记忆准确性。"
+      }
+    ],
+    "wordAssociations": [
+      "list",
+      "directory",
+      "command"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Command structure",
+        "description": "在命令行中作为独立命令使用",
+        "examples": [
+          "ls",
+          "ls -l"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'is'",
+        "correction": "Use 'ls' only in computing contexts",
+        "explanation": "由于拼写相似，初学者可能误用；需区分语境。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (based on COCA and technical corpora, approximately 0.01% in computing texts)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Programming"
+    ],
+    "tags": [
+      "Abbreviation",
+      "Command",
+      "Technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED for etymology",
+      "COCA for frequency",
+      "BNC for usage patterns"
+    ]
+  }
+}

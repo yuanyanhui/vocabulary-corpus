@@ -1,0 +1,239 @@
+{
+  "word": "bot",
+  "phonetics": {
+    "british": "/bɒt/",
+    "american": "/bɑt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A software application that performs automated tasks, often mimicking human behavior, such as a chatbot or web crawler.",
+      "chineseTranslation": "机器人程序",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An abbreviation for 'robot', referring to a machine or device that can carry out tasks automatically.",
+      "chineseTranslation": "机器人（缩写）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chatbot",
+      "meaning": "聊天机器人",
+      "example": "The company developed a chatbot to handle customer inquiries.",
+      "exampleTranslation": "公司开发了一个聊天机器人来处理客户咨询。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bot farm",
+      "meaning": "机器人农场，指大量自动化账户的集合，常用于社交媒体",
+      "example": "Social media platforms are cracking down on bot farms that spread misinformation.",
+      "exampleTranslation": "社交媒体平台正在打击传播虚假信息的机器人农场。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This bot can automate repetitive tasks like scheduling meetings.",
+      "translation": "这个机器人程序可以自动化重复任务，比如安排会议。",
+      "source": "Technical documentation (e.g., from software engineering contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In online gaming, a bot might play against human players to test strategies.",
+      "translation": "在在线游戏中，机器人可能会与人类玩家对战来测试策略。",
+      "source": "Gaming forums (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The social media bot posted updates every hour without human intervention.",
+      "translation": "社交媒体机器人每小时自动发布更新，而不需要人为干预。",
+      "source": "News articles (e.g., from BBC or CNN)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English (from Czech via English)",
+    "rootWords": [
+      {
+        "root": "robot",
+        "meaning": "Forced labor or worker",
+        "language": "Czech"
+      }
+    ],
+    "historicalDevelopment": "源自捷克语 'robota'，意为强制劳动，首次由卡雷尔·恰佩克在1920年的戏剧《R.U.R.》中用于描述人工机器。20世纪中叶，'bot' 作为 'robot' 的缩写在英语中流行，用于指代自动化程序，从工业语境扩展到数字技术和社交媒体。",
+    "firstKnownUse": "1921 (in the play R.U.R. by Karel Čapek)",
+    "relatedWords": [
+      "robot",
+      "automaton",
+      "android"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，只需注意元音差异，如 /ɒ/ vs. /ɑ/)",
+    "spellingDifficulty": "2 (拼写短小，易记)",
+    "meaningComplexity": "5 (语义涉及技术概念，但基础含义直观)",
+    "usageComplexity": "4 (常见于数字语境，但需理解上下文)",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法：将 'bot' 想象为一个忙碌的机器人手臂，将其与个人经验如使用聊天应用连接，以增强记忆痕迹；重复暴露法可通过每日APP互动加深理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "automaton",
+        "similarity": "0.8",
+        "context": "适用于技术或文学语境中，表示自动化设备"
+      },
+      {
+        "word": "script",
+        "similarity": "0.6",
+        "context": "在编程语境中，指自动化脚本，与 'bot' 的功能类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "human operator",
+        "context": "在需要人为干预的场景中，与自动化相对"
+      },
+      {
+        "word": "manual process",
+        "context": "强调非自动化的任务"
+      }
+    ],
+    "hypernyms": [
+      "software",
+      "program"
+    ],
+    "hyponyms": [
+      "chatbot",
+      "web bot",
+      "trading bot"
+    ],
+    "collocations": [
+      {
+        "pattern": "bot + verb (e.g., bot runs)",
+        "examples": [
+          "The bot runs continuously in the background."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + bot (e.g., intelligent bot)",
+        "examples": [
+          "An intelligent bot can learn from user interactions."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，'bot' 象征自动化和AI的兴起，常隐含效率与潜在风险的双重含义，如社交媒体上的假新闻传播。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和社交媒体语境",
+        "usage": "在硅谷文化中，'bot' 常指创新工具，但也与隐私问题相关"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，强调历史文学联系，如科幻小说"
+      }
+    ],
+    "historicalContext": "与20世纪初的工业革命和科幻文学相关，如恰佩克的作品反映了对机械化的社会担忧。",
+    "modernUsage": "在社交媒体和AI领域流行，例如Twitter上的bots用于营销，但需注意跨文化伦理问题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个小型机器人（bot）在电脑屏幕上运行，忙碌地处理任务。",
+      "keyElements": [
+        "机器人形象",
+        "屏幕互动",
+        "自动化动作"
+      ],
+      "emotionalConnection": "联结到个人使用手机App的经验，触发好奇和实用感，以增强长期记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'bot' 联想为 'bottle' 的变形，想象一个会动的瓶子机器人。",
+        "explanation": "通过声音联想强化发音记忆，基于认知科学的空间想象原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "B-O-T: Busy Operating Tool",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者构建语义网络。"
+      }
+    ],
+    "wordAssociations": [
+      "robot",
+      "automation",
+      "AI"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bots",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Bot",
+        "description": "名词作为主语或宾语的结构",
+        "examples": [
+          "The bot processes data quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + Bot",
+        "description": "用于描述类型的结构",
+        "examples": [
+          "An advanced bot handles complex tasks."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bot' with 'bought'",
+        "correction": "Use 'bot' for software, 'bought' for past tense of buy",
+        "explanation": "发音相似可能导致混淆，建议通过上下文区分。"
+      },
+      {
+        "mistake": "Overgeneralizing as only robots",
+        "correction": "Recognize 'bot' in digital contexts",
+        "explanation": "初学者可能局限于物理机器人概念，需扩展到软件应用。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in COCA corpus for tech domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "social media"
+    ],
+    "tags": [
+      "AI",
+      "automation",
+      "digital tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

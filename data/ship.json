@@ -1,0 +1,250 @@
+{
+  "word": "ship",
+  "phonetics": {
+    "british": "/ʃɪp/",
+    "american": "/ʃɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large boat or vessel used for traveling on water, especially for carrying people, goods, or cargo over long distances.",
+      "chineseTranslation": "船，船舶",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send or transport goods or people, often by sea or other means, to a destination.",
+      "chineseTranslation": "运送，发送",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abandon ship",
+      "meaning": "放弃船只，常用于比喻紧急情况下放弃计划或项目",
+      "example": "In the face of bankruptcy, the CEO decided to abandon ship.",
+      "exampleTranslation": "面对破产，首席执行官决定放弃船只（比喻放弃项目）。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ship out",
+      "meaning": "运送货物或人员离开，常指军事或物流情境",
+      "example": "The troops will ship out to the conflict zone next week.",
+      "exampleTranslation": "部队将于下周运送至冲突地区。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "jump ship",
+      "meaning": "从一艘船跳到另一艘船，比喻从一个工作或团队转到另一个",
+      "example": "Many employees jumped ship to the competitor for better pay.",
+      "exampleTranslation": "许多员工跳槽到竞争对手那里以获得更好的薪水。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The massive ship sailed across the Atlantic Ocean, carrying thousands of containers.",
+      "translation": "这艘巨大的船航行横跨大西洋，运载着数千个集装箱。",
+      "source": "Maritime news article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We need to ship the order to the customer by Friday to meet the deadline.",
+      "translation": "我们需要在周五前将订单运送给客户，以满足截止期限。",
+      "source": "Business email correspondence (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In historical contexts, ships played a crucial role in exploration and trade.",
+      "translation": "在历史语境中，船只在探索和贸易中扮演了关键角色。",
+      "source": "Academic text (e.g., from historical literature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "scip",
+        "meaning": "A vessel for navigation",
+        "language": "Old English (from Proto-Germanic *skipą)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'scip'，其根源可追溯到原始日耳曼语 *skipą，可能与原始印欧语 *skei-（意为切割或劈开，暗示船体的建造）相关。从中世纪开始，该词演变为现代英语 'ship'，扩展到包括军事和商业用途，早先主要指水上交通工具。",
+    "firstKnownUse": "约公元 8 世纪，在盎格鲁-撒克逊文献中首次出现",
+    "relatedWords": [
+      "skipper",
+      "skiff",
+      "schooner"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统（Spaced Repetition System）来强化词汇记忆，因为认知科学表明，定期复习能提升长期保留；将 'ship' 与个人经历（如观看电影中的船场景）关联，以构建情节记忆；"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "vessel",
+        "similarity": "0.8",
+        "context": "适用于正式语境中描述大型水上交通工具，例如在航海或法律文件中"
+      },
+      {
+        "word": "boat",
+        "similarity": "0.7",
+        "context": "适用于更一般的日常语境，但 'ship' 通常指更大规模的船只"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sink",
+        "context": "在比喻语境中，指船只的下沉或失败的情况，如商业中的项目失败"
+      },
+      {
+        "word": "dock",
+        "context": "表示船只停泊，与 'ship' 的移动概念相对"
+      }
+    ],
+    "hypernyms": [
+      "vehicle",
+      "transport"
+    ],
+    "hyponyms": [
+      "freighter",
+      "cruiser",
+      "liner"
+    ],
+    "collocations": [
+      {
+        "pattern": "ship + preposition + location",
+        "examples": [
+          "ship to Europe",
+          "ship from China"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + ship",
+        "examples": [
+          "sail a ship",
+          "build a ship"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'ship' 象征着探险、贸易和移民，如哥伦布的航海之旅代表了新世界的发现；在东方文化中，可能与古代丝绸之路的海上贸易相关，隐含着连接与冒险的主题。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调历史和海军语境",
+        "usage": "在英国英语中，常用于描述皇家海军的遗产，例如 'His Majesty's Ship'"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重商业和现代物流",
+        "usage": "在美国英语中，常与电商相关，如 'ship an order on Amazon'"
+      }
+    ],
+    "historicalContext": "该词与英国的帝国扩张和工业革命相关，在文学作品如莎士比亚的戏剧中出现，反映了殖民主义和社会变革；在中国文化中，与郑和下西洋等历史事件关联。",
+    "modernUsage": "在社交媒体和电商平台上流行，用于比喻快速交付或数字内容传输，如 'ship a product' 在 TikTok 或 Twitter 上表示快速发布"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一艘巨大的船在波涛汹涌的大海上航行，船体像一把巨大的钥匙打开新世界的大门。",
+      "keyElements": [
+        "大海",
+        "航行",
+        "货物"
+      ],
+      "emotionalConnection": "联结到个人旅行经历或观看电影《泰坦尼克号》的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'ship' 联想成 'sheep on a ship'（绵羊在船上），因为发音相似。",
+        "explanation": "通过声音联觉帮助记忆，认知科学表明，这种方法能增强语音和语义间的连接"
+      },
+      {
+        "type": "缩略",
+        "content": "S-H-I-P: Send Huge Items Precisely",
+        "explanation": "为动词形式创建缩略语，以简化记忆过程，并结合视觉想象"
+      }
+    ],
+    "wordAssociations": [
+      "boat",
+      "sail",
+      "cargo",
+      "voyage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ships",
+      "pastTense": "shipped",
+      "pastParticiple": "shipped",
+      "presentParticiple": "shipping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述行动",
+        "examples": [
+          "We ship goods daily."
+        ]
+      },
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "名词短语作为主语，用于静态描述",
+        "examples": [
+          "The ship arrived at dawn."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'ship' with 'sheep'",
+        "correction": "Use 'ship' for vessels and 'sheep' for animals",
+        "explanation": "发音相似可能导致混淆；通过发音练习区分元音"
+      },
+      {
+        "mistake": "Incorrect verb tense",
+        "correction": "Ensure proper use of 'shipped' for past actions",
+        "explanation": "初级学习者常忽略规则动词的过去式；参考认知语言学中的模式识别"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 2000 words in general English corpora (e.g., COCA rank: 1567)",
+    "domains": [
+      "maritime",
+      "commerce",
+      "transport",
+      "history"
+    ],
+    "tags": [
+      "transportation",
+      "noun-verb",
+      "common"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

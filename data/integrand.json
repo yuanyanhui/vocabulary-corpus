@@ -1,0 +1,231 @@
+{
+  "word": "integrand",
+  "phonetics": {
+    "british": "/ˈɪntɪɡrænd/",
+    "american": "/ˈɪntəˌɡrænd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, the function or expression that is subjected to integration in a definite or indefinite integral.",
+      "chineseTranslation": "被积函数",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the integrand of the integral",
+      "meaning": "积分中的被积函数",
+      "example": "In the integral ∫f(x) dx, f(x) is the integrand of the integral.",
+      "exampleTranslation": "在积分 ∫f(x) dx 中，f(x) 是积分的被积函数。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "complex integrand",
+      "meaning": "复杂的被积函数",
+      "example": "The complex integrand requires advanced techniques for evaluation.",
+      "exampleTranslation": "这个复杂的被积函数需要高级技巧来求值。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "To solve the problem, we first identify the integrand in the given equation.",
+      "translation": "为了解决问题，我们首先识别给定方程中的被积函数。",
+      "source": "Academic textbook (e.g., Calculus by Stewart)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The integrand in this physics model represents the energy density function.",
+      "translation": "在这个物理模型中，被积函数代表能量密度函数。",
+      "source": "Scientific article (e.g., from JSTOR)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers often deal with integrands that involve trigonometric functions.",
+      "translation": "工程师们经常处理涉及三角函数的被积函数。",
+      "source": "Engineering journal (e.g., IEEE publications)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "integrandus",
+        "meaning": "that which is to be integrated",
+        "language": "Latin"
+      },
+      {
+        "root": "integrare",
+        "meaning": "to make whole or complete",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'integrare'，意为使完整或整合。17世纪时，随着微积分的兴起，该词演变为现代数学术语，指在积分过程中被操作的函数。在历史语境中，它反映了数学从古典几何向分析学的转变。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "integral",
+      "integrate",
+      "integration"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块法，将 'integrand' 与 'integral' 联系起来记忆；通过视觉化微积分图表，建立空间联想；结合个人经验，如将函数视为待处理的 '部分'，以增强长期记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "integrable function",
+        "similarity": "0.8",
+        "context": "适用于数学计算语境中，指可被积分的函数"
+      },
+      {
+        "word": "function to be integrated",
+        "similarity": "0.9",
+        "context": "在教学或解释性语境中，用于描述积分操作的对象"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "integrator",
+        "context": "在数学语境中，指进行积分的操作或工具，与 'integrand' 作为被操作对象相对"
+      }
+    ],
+    "hypernyms": [
+      "function"
+    ],
+    "hyponyms": [
+      "polynomial integrand",
+      "trigonometric integrand"
+    ],
+    "collocations": [
+      {
+        "pattern": "integrand + of + integral",
+        "examples": [
+          "the integrand of the definite integral"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "complex + integrand",
+        "examples": [
+          "a complex integrand in quantum mechanics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征数学抽象思维的精髓，常与牛顿和莱布尼茨的微积分发明相关联，隐含着理性主义和精确性的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和应用科学语境",
+        "usage": "在美国英语中，'integrand' 经常出现在STEM教育中，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向理论数学讨论",
+        "usage": "在英国英语中，常见于学术讲座或纯数学文本"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，特别是在微积分发展的背景下，该词体现了从古典数学向现代分析学的转变，并影响了工业革命中的技术创新。",
+    "modernUsage": "在现代社交媒体和在线教育平台（如Khan Academy）中，该词用于科普视频，但主要限于专业社区，而非日常对话。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个积木场景，其中 'integrand' 是一个待组装的积木块，而整个积木塔代表积分过程。",
+      "keyElements": [
+        "积木块",
+        "组装过程",
+        "数学图形"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如解决数学难题时的成就感，以强化正面情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Integrand 听起来像 'integer and'，联想为 '整数和函数' 的结合。",
+        "explanation": "通过声音联想帮助记忆其数学含义，基于认知科学中的声音-视觉关联原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-T-E-G-R-A-N-D: I need to get ready and integrate.",
+        "explanation": "使用首字母缩略词创建故事，增强叙事记忆以改善保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "integral",
+      "function",
+      "calculus",
+      "sum"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "integrands",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + integrand",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "The integrand determines the area under the curve."
+        ]
+      },
+      {
+        "pattern": "Integrand + of + noun phrase",
+        "description": "用于指定所属关系",
+        "examples": [
+          "The integrand of the equation is complex."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing integrand with integral",
+        "correction": "Use 'integrand' for the function being integrated and 'integral' for the result or process.",
+        "explanation": "这常由于语义相似性导致的混淆，建议通过语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'integrands' for plural forms.",
+        "explanation": "英语名词规则简单，但非母语者可能遗忘添加 -s。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 50,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering"
+    ],
+    "tags": [
+      "mathematics",
+      "calculus",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "word": "date",
+  "phonetics": {
+    "british": "/deɪt/",
+    "american": "/deɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A specific day of the month, often including the year",
+      "chineseTranslation": "日期",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A social or romantic meeting arranged in advance",
+      "chineseTranslation": "约会",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sweet, edible fruit with a single seed, from the date palm tree",
+      "chineseTranslation": "椰枣（水果）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To go out with someone romantically or socially",
+      "chineseTranslation": "约会",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mark or assign a date to something",
+      "chineseTranslation": "标注日期",
+      "level": "basic",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go on a date",
+      "meaning": "进行一次约会",
+      "example": "They decided to go on a date to a new restaurant.",
+      "exampleTranslation": "他们决定去一家新餐厅约会。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "expiration date",
+      "meaning": "到期日期",
+      "example": "Check the expiration date on the milk before buying it.",
+      "exampleTranslation": "在购买牛奶前检查其到期日期。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "date someone",
+      "meaning": "与某人约会",
+      "example": "He's been dating her for six months now.",
+      "exampleTranslation": "他已经和她约会六个月了。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The date of the meeting has been changed to next Friday.",
+      "translation": "会议的日期已改为下周五。",
+      "source": "Business email (formal context)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "They had a great date at the cinema last night.",
+      "translation": "他们昨晚在电影院度过了一个美好的约会。",
+      "source": "Informal conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The ancient manuscript was dated back to the 14th century.",
+      "translation": "这本古手稿可以追溯到14世纪。",
+      "source": "Historical text",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "I love eating dates as a healthy snack.",
+      "translation": "我喜欢把椰枣当作健康零食吃。",
+      "source": "Daily life dialogue",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "data",
+        "meaning": "给定的东西",
+        "language": "拉丁语"
+      },
+      {
+        "root": "dactylus",
+        "meaning": "指状物（指水果）",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "源自中世纪英语，从古法语 'date' 演变而来；其中表示日期的含义源自拉丁语 'data'，意为 '给定的日子'，而表示水果的含义则源自拉丁语 'dactylus'，通过古法语传播到英语；随着时间推移，该词在现代英语中发展出浪漫约会的含义，特别是在17世纪的文学作品中。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "data",
+      "datum",
+      "dating"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先掌握基本含义如 '日期'，然后通过重复暴露于不同语境中强化多义性；利用视觉联想将 'date' 与日历图像关联，以增强海马体记忆路径；对于中文母语学习者，注意避免将 'date' 与 '日期' 的直接对应混淆多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "appointment",
+        "similarity": "0.7",
+        "context": "在正式场合用于表示预定会议，如商业环境中"
+      },
+      {
+        "word": "rendezvous",
+        "similarity": "0.8",
+        "context": "在浪漫或非正式场合表示约会"
+      },
+      {
+        "word": "fruit",
+        "similarity": "0.4",
+        "context": "具体指椰枣时，用于食品语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cancel",
+        "context": "在约会或日期语境中，表示取消预定"
+      },
+      {
+        "word": "postpone",
+        "context": "用于推迟日期"
+      }
+    ],
+    "hypernyms": [
+      "event",
+      "food"
+    ],
+    "hyponyms": [
+      "birthday",
+      "anniversary",
+      "palm fruit"
+    ],
+    "collocations": [
+      {
+        "pattern": "date + noun (e.g., date night)",
+        "examples": [
+          "They planned a date night every Friday."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + date (e.g., set a date)",
+        "examples": [
+          "We need to set a date for the wedding."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'date' 常象征浪漫关系或社交互动，隐含个人自由和关系发展的隐喻；在中文文化中，可能与传统媒妁之言形成对比，强调现代个体的选择。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更强调非正式的浪漫约会",
+        "usage": "在日常对话中频繁使用，如 'blind date' 表示相亲"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，强调日历日期",
+        "usage": "在正式场合如文件标注中使用"
+      }
+    ],
+    "historicalContext": "在19世纪维多利亚时代，'date' 开始用于浪漫语境，反映工业革命后社交规范的演变；在文学作品如简·奥斯汀的小说中，体现了英国社会背景下的约会文化。",
+    "modernUsage": "在社交媒体如 Tinder 上的流行，代表当代数字约会趋势；跨文化中，中文学习者需注意其在西方流行文化中的正面情感联想。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个日历页面上标记的红心符号，旁边有一颗椰枣水果和一对情侣在散步。",
+      "keyElements": [
+        "日历",
+        "红心",
+        "水果",
+        "情侣"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆自己的第一次约会，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'date' 联想为 'day + ate'，意为 '日子被吃掉'，代表时间的流逝。",
+        "explanation": "通过声音联想帮助记忆多义性，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D-A-T-E: Day, Appointment, Treat, Event",
+        "explanation": "使用首字母缩写分解含义，促进工作记忆的组织"
+      }
+    ],
+    "wordAssociations": [
+      "calendar",
+      "romance",
+      "fruit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dates",
+      "pastTense": "dated",
+      "pastParticiple": "dated",
+      "presentParticiple": "dating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + date",
+        "description": "主语加动词加 'date' 的结构，常用于约会语境",
+        "examples": [
+          "She dates him regularly."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with date",
+        "description": "名词短语中包含 'date'，如表示具体时间",
+        "examples": [
+          "The date is set for July 15th."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'date' interchangeably with 'data'",
+        "correction": "Use 'date' for time and 'data' for information",
+        "explanation": "虽然同源，但语义不同；中文学习者易混淆发音"
+      },
+      {
+        "mistake": "Incorrect verb tense",
+        "correction": "Ensure proper tense, e.g., 'dated' for past",
+        "explanation": "中级学习者常忽略时态一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "文化"
+    ],
+    "tags": [
+      "时间",
+      "社交",
+      "食物"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

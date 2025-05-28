@@ -1,0 +1,232 @@
+{
+  "word": "polytope",
+  "phonetics": {
+    "british": "/ˈpɒlɪtəʊp/",
+    "american": "/ˈpɑːlɪtoʊp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A geometric figure with flat sides (facets) that exists in n-dimensional space, generalizing the concepts of polygons in two dimensions and polyhedra in three dimensions.",
+      "chineseTranslation": "多面体",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convex polytope",
+      "meaning": "凸多面体",
+      "example": "In computational geometry, a convex polytope is often used to model feasible regions in optimization problems.",
+      "exampleTranslation": "在计算几何中，凸多面体常用于建模优化问题中的可行区域。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bounded polytope",
+      "meaning": "有界的多面体",
+      "example": "A bounded polytope can be represented as the convex hull of a finite set of points.",
+      "exampleTranslation": "一个有界多面体可以表示为有限点集的凸包。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A polytope in four dimensions is known as a polychoron, which extends the idea of a cube or tetrahedron.",
+      "translation": "四维中的多面体被称为多色体，它扩展了立方体或四面体的概念。",
+      "source": "Mathematical literature, such as texts on geometry",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers use polytopes to solve complex problems in linear programming and game theory.",
+      "translation": "研究人员使用多面体来解决线性规划和博弈理论中的复杂问题。",
+      "source": "Academic papers from journals like the Journal of Combinatorial Theory",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday discussions of higher mathematics, a polytope might be described as a multi-faceted shape without boundaries.",
+      "translation": "在高等数学的日常讨论中，多面体可能被描述为一个没有边界的多面形状。",
+      "source": "Educational resources, such as online lectures",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "poly-",
+        "meaning": "许多",
+        "language": "希腊语"
+      },
+      {
+        "root": "tope",
+        "meaning": "来自 'topos'，意为地方或位置",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪早期数学发展，作为二维多边形和三维多面体的推广形式。最初由H.S.M. Coxeter等数学家在拓扑和几何领域推广，用于描述更高维度的几何对象，随着计算机科学和优化理论的兴起，其意义逐步扩展到实际应用。",
+    "firstKnownUse": "约1920年",
+    "relatedWords": [
+      "polygon",
+      "polyhedron",
+      "polychoron"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用视觉想象将 'polytope' 联想为三维立方体的扩展，利用重复曝光法在数学上下文中练习；通过分块学习，先掌握基础几何术语再逐步增加维度概念，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "polychoron",
+        "similarity": "0.8",
+        "context": "适用于四维以上几何形状的讨论中，常在数学和计算机图形学领域"
+      },
+      {
+        "word": "convex body",
+        "similarity": "0.6",
+        "context": "在优化和线性规划中，用于描述相似的几何结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-polytope",
+        "context": "泛指非多面体的几何形状，如曲线或无限扩展的结构，在数学建模中"
+      }
+    ],
+    "hypernyms": [
+      "geometric shape"
+    ],
+    "hyponyms": [
+      "tetrahedron",
+      "cube",
+      "dodecahedron"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., convex polytope)",
+        "examples": [
+          "a regular polytope",
+          "an unbounded polytope"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + preposition + polytope (e.g., polytope in n-dimensions)",
+        "examples": [
+          "polytope in three dimensions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方数学文化中，该词象征着抽象思维和维度扩展的创新，但缺乏广泛的隐含语义；在东方文化如中国，可能与古籍中的几何概念（如《九章算术》）有间接关联，但主要局限于学术语境。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于计算机科学和AI领域",
+        "usage": "在美国英语中，常在技术会议和学术出版物中出现，以强调实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向纯数学理论讨论",
+        "usage": "在英国英语中，可能在历史悠久的数学社团中被用来连接古典几何学"
+      }
+    ],
+    "historicalContext": "与19世纪的欧几里得几何和20世纪的拓扑学发展相关，在工业革命后的科学进步中扮演角色；例如，在二战期间的运筹学中用于军事策略。",
+    "modernUsage": "在社交媒体和在线教育平台上，'polytope' 常出现在数据科学讨论中，如机器学习算法的解释，但使用频率较低。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个立方体逐步扩展到更高维度，如从二维正方形到三维立方体，再到四维多色体。",
+      "keyElements": [
+        "立方体",
+        "维度扩展",
+        "多面结构"
+      ],
+      "emotionalConnection": "联结个人对拼图或3D建模的兴趣，触发好奇心以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Polytope 像 'poly' (许多) + 'tope' (地形)，想象许多地形组合成复杂形状。",
+        "explanation": "通过空间联想帮助记忆词根，减少抽象概念的认知障碍"
+      },
+      {
+        "type": "缩略",
+        "content": "P-O-L-Y-T-O-P-E: Polyhedrons Of Limitless Yonder To Other Planes, Exploring.",
+        "explanation": "使用首字母缩略词创建故事，结合情感触发点促进长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "polygon",
+      "polyhedron",
+      "dimension"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polytopes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + polytope",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "The polytope represents a complex structure."
+        ]
+      },
+      {
+        "pattern": "Adjective + polytope",
+        "description": "用于描述特定类型的多面体",
+        "examples": [
+          "A convex polytope is easier to compute."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polyp'",
+        "correction": "Use 'polytope' for geometric shapes",
+        "explanation": "二者发音相似，但 'polyp' 指生物学中的息肉；学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'polytopes' instead of 'polytope's'",
+        "explanation": "作为可数名词，复数形式简单添加 -s，但中文学习者常受母语影响遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "computer science",
+      "geometry"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "scientific"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "word": "hack",
+  "phonetics": {
+    "british": "/hæk/",
+    "american": "/hæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To cut or chop something with heavy, rough blows.",
+      "chineseTranslation": "砍伐或粗暴地切",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gain unauthorized access to computer systems or data.",
+      "chineseTranslation": "非法入侵计算机系统",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who is skilled in computer programming and gains unauthorized access to systems.",
+      "chineseTranslation": "黑客",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A clever or ingenious solution to a problem, especially in everyday life or technology.",
+      "chineseTranslation": "实用技巧或小窍门",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "colloquial"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A writer who produces low-quality work, often for quick payment.",
+      "chineseTranslation": "低劣的作家或文字工作者",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "life hack",
+      "meaning": "生活中的实用技巧",
+      "example": "This life hack shows how to organize your closet efficiently.",
+      "exampleTranslation": "这个生活小窍门展示了如何高效整理衣柜。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hack into",
+      "meaning": "非法入侵系统",
+      "example": "The cybercriminals tried to hack into the company's database.",
+      "exampleTranslation": "网络罪犯试图入侵公司的数据库。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "growth hack",
+      "meaning": "快速增长的营销技巧",
+      "example": "Social media influencers often use growth hacks to increase their followers.",
+      "exampleTranslation": "社交媒体影响者经常使用快速增长技巧来增加粉丝。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The programmer decided to hack the system to fix the bug.",
+      "translation": "程序员决定入侵系统来修复漏洞。",
+      "source": "Technology article from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used a simple life hack to peel garlic without getting her hands smelly.",
+      "translation": "她使用了一个简单的生活小窍门来剥大蒜而不让手有气味。",
+      "source": "Blog post in everyday context",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the 19th century, 'hack' referred to a horse-drawn carriage for hire.",
+      "translation": "在19世纪，'hack' 指的是供租用的马车。",
+      "source": "Historical text from OED",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The journalist was accused of being a hack for his sensationalist reporting.",
+      "translation": "这位记者因其耸人听闻的报道被指责为低劣的文字工作者。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "haccian",
+        "meaning": "to cut or hack",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'haccian' 演变为中古英语 'hakken'，最初指物理切割行为；17世纪开始扩展到比喻意义，如粗糙的工作；20世纪中期在计算机领域发展为 'hacking'，指创新或非法访问。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "hacker",
+      "hackney"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统（如Anki）来记忆多义词；结合视觉联想，如将 'hack' 与一把斧头或电脑键盘的图像关联，以强化认知路径；对于中国学习者，注意区分与中文 '黑客' 的对应，避免词汇干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "crack",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于非法访问系统"
+      },
+      {
+        "word": "trick",
+        "similarity": "0.7",
+        "context": "在生活技巧语境中，用于简单解决方案"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "secure",
+        "context": "在技术语境中，指保护系统免受入侵"
+      },
+      {
+        "word": "complicate",
+        "context": "在生活技巧语境中，指使事情更复杂"
+      }
+    ],
+    "hypernyms": [
+      "action",
+      "technique"
+    ],
+    "hyponyms": [
+      "ethical hacking",
+      "growth hacking"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + into",
+        "examples": [
+          "hack into a system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + hack",
+        "examples": [
+          "life hack",
+          "security hack"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，'hack' 象征创新和颠覆，但也隐含负面道德含义，如隐私侵犯；在西方文化中，常与硅谷创业精神相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More associated with tech innovation",
+        "usage": "在美国，常用于积极语境，如 'hacker culture' 在科技社区中推广"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, with historical ties to 'hackney cab'",
+        "usage": "在英国，更常用于传统意义，如出租车服务"
+      }
+    ],
+    "historicalContext": "源自工业革命时期的劳动用语，扩展到20世纪的计算机革命；与文学如George Orwell的作品中对媒体的批评相关。",
+    "modernUsage": "在社交媒体如Twitter和TikTok上，'hack' 常用于分享快速技巧，但需注意跨文化敏感性，以避免将它与犯罪联想。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拿着斧头的人在电脑前砍击键盘，象征物理切割与数字入侵的结合。",
+      "keyElements": [
+        "斧头",
+        "键盘",
+        "入侵图标"
+      ],
+      "emotionalConnection": "联结到个人经历，如解决日常问题时的成就感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hack like a hatchet: cutting through problems.",
+        "explanation": "通过将 'hack' 联想成 'hatchet' (斧头)，帮助记忆其原始切割含义，并扩展到数字语境"
+      },
+      {
+        "type": "缩略",
+        "content": "H-A-C-K: Help Access Clever Knowledge.",
+        "explanation": "使用首字母缩写来记忆多义性，结合认知科学中的分块技术"
+      }
+    ],
+    "wordAssociations": [
+      "hacker",
+      "shortcut",
+      "infiltrate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "hacked",
+      "pastParticiple": "hacked",
+      "presentParticiple": "hacking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "He hacks the system."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词的短语结构",
+        "examples": [
+          "This is a useful hack."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'hack' with 'hacker' in usage",
+        "correction": "Use 'hack' as a verb or general noun",
+        "explanation": "中国学习者常混淆词性，导致句法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Adapt to register",
+        "explanation": "在正式写作中，避免在非技术语境中使用，以符合语域要求"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Daily Life",
+      "Computing"
+    ],
+    "tags": [
+      "Informal",
+      "Technical",
+      "Innovation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

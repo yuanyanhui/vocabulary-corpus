@@ -1,0 +1,273 @@
+{
+  "word": "strings",
+  "phonetics": {
+    "british": "/strɪŋz/",
+    "american": "/strɪŋz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thin piece of cord, twine, fiber, or similar material used for tying, binding, or fastening.",
+      "chineseTranslation": "细绳或线，用来绑扎或固定",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a sequence of characters treated as a single unit.",
+      "chineseTranslation": "在计算机中，一串字符被视为一个整体",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The cords on a musical instrument that vibrate to produce sound, such as on a guitar or violin.",
+      "chineseTranslation": "乐器上的弦，如吉他或小提琴的弦",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fit or provide with strings, or to thread something on a string.",
+      "chineseTranslation": "用线穿起来或安装弦",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pull strings",
+      "meaning": "暗中运用影响力或关系",
+      "example": "He managed to pull strings to get the job.",
+      "exampleTranslation": "他设法运用关系得到了这份工作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "strings attached",
+      "meaning": "附加条件",
+      "example": "The offer came with strings attached.",
+      "exampleTranslation": "这个提议有附加条件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "heart strings",
+      "meaning": "情感或深层感情",
+      "example": "Her story tugged at my heart strings.",
+      "exampleTranslation": "她的故事触动了我的心弦。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The marionette danced on strings controlled by the puppeteer.",
+      "translation": "木偶在傀儡师控制的细线上跳舞。",
+      "source": "Literature, such as in children's stories",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, strings are essential for handling text data.",
+      "translation": "在编程中，字符串是处理文本数据的基本元素。",
+      "source": "Technical documentation, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She carefully tuned the strings of her violin before the concert.",
+      "translation": "她在音乐会前仔细调整小提琴的弦。",
+      "source": "Modern media, e.g., news articles on music",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Don't forget to string the lights around the Christmas tree.",
+      "translation": "别忘了把灯串挂在圣诞树上。",
+      "source": "Colloquial usage, e.g., from BNC corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "streng",
+        "meaning": "A cord or rope",
+        "language": "Old English"
+      },
+      {
+        "root": "strangaz",
+        "meaning": "Tight or strong",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "从古英语的 'streng' 演变而来，源自原始日耳曼语，最初指紧绷的绳索或线条。在中古英语时期扩展到乐器弦和抽象含义，如在现代英语中用于计算机字符串，反映了语言适应技术演进的过程。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "stringent",
+      "strung",
+      "strand"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过认知科学原理，如重复间隔学习，将 'strings' 与视觉图像（如吉他弦）关联，以增强记忆；对于中文母语学习者，建议比较类似词汇如 '线' 或 '字符串'，以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cords",
+        "similarity": "0.8",
+        "context": "在物理物体语境中，用于指细绳"
+      },
+      {
+        "word": "sequences",
+        "similarity": "0.7",
+        "context": "在计算机语境中，用于指字符序列"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unstrung",
+        "context": "乐器语境中，指没有弦的或松弛的"
+      },
+      {
+        "word": "disconnected",
+        "context": "抽象语境中，指不连续的序列"
+      }
+    ],
+    "hypernyms": [
+      "cords",
+      "sequences"
+    ],
+    "hyponyms": [
+      "bowstring",
+      "guitar string"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + strings",
+        "examples": [
+          "play strings",
+          "tie strings"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "strings + noun",
+        "examples": [
+          "strings attached",
+          "heart strings"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'strings' 常象征控制或情感联系，如 'pull strings' 表示权力操纵，在音乐中代表表达。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'strings' 在科技领域频率较高，体现了数字时代的影响"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向传统含义，如乐器弦",
+        "usage": "在英国英语中，常与古典音乐关联，源自历史文学"
+      }
+    ],
+    "historicalContext": "与工业革命和音乐传统相关，如在维多利亚时代文学中出现，象征社会束缚；在中国文化中，可与 '线' 概念类比，但缺乏相同象征性。",
+    "modernUsage": "在社交媒体上，常用于比喻关系或技术术语，如 TikTok 上的音乐视频"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一根吉他的弦在振动，连接到计算机屏幕上的字符序列。",
+      "keyElements": [
+        "吉他弦",
+        "计算机代码"
+      ],
+      "emotionalConnection": "联结到个人经历，如弹奏乐器或编写代码的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Strings sound like 'string beans' – long and connected, like a sequence.",
+        "explanation": "通过视觉联想将 'strings' 与蔬菜的线性形状关联，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-R-I-N-G-S: Straight Threads Running In Neat Grouped Sequences.",
+        "explanation": "使用首字母缩写创建故事，增强叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "rope",
+      "code",
+      "music"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "strings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "stringing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "用作名词时，常出现在主语或宾语位置",
+        "examples": [
+          "The strings broke."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "用作动词时，需后接宾语",
+        "examples": [
+          "String the beads together."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'string' as singular",
+        "correction": "Use 'strings' for plural forms",
+        "explanation": "中文学习者常忽略复数形式，需注意上下文"
+      },
+      {
+        "mistake": "Misusing in technical contexts",
+        "correction": "Ensure correct domain-specific meaning",
+        "explanation": "避免将乐器弦误用为计算机字符串"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Music",
+      "Daily life"
+    ],
+    "tags": [
+      "Computing",
+      "Musical terms",
+      "Physical objects"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

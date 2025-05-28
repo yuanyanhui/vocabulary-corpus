@@ -1,0 +1,282 @@
+{
+  "word": "note",
+  "phonetics": {
+    "british": "/nəʊt/",
+    "american": "/noʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a brief record of facts, topics, or thoughts, written down as an aid to memory",
+      "chineseTranslation": "笔记；便条",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short informal letter or message",
+      "chineseTranslation": "短笺；通知",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a single tone of definite pitch made by a musical instrument or the human voice",
+      "chineseTranslation": "音符；音调",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to notice or observe something and record or mention it",
+      "chineseTranslation": "注意；记录",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to write down something as a record or reminder",
+      "chineseTranslation": "写下；注明",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take note",
+      "meaning": "注意或记录某事",
+      "example": "You should take note of the important dates in the meeting.",
+      "exampleTranslation": "你应该注意会议中的重要日期。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "note of thanks",
+      "meaning": "感谢的短笺或表达",
+      "example": "She sent a note of thanks to her colleagues after the project.",
+      "exampleTranslation": "项目结束后，她给同事们发了一张感谢短笺。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "make a note",
+      "meaning": "做记录或备忘",
+      "example": "Make a note of the password so you don't forget it.",
+      "exampleTranslation": "记下密码，这样你就不会忘记。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I always take notes during lectures to help me remember the key points.",
+      "translation": "我总是在讲座中做笔记来帮助记住关键点。",
+      "source": "Academic text (e.g., from university lecture notes)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The musician played a beautiful note on the piano.",
+      "translation": "那位音乐家在钢琴上弹奏了一个优美的音符。",
+      "source": "Literature (e.g., from a novel about music)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Please note that the event has been rescheduled to next week.",
+      "translation": "请注意，活动已重新安排到下周。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He left a quick note on the fridge before leaving for work.",
+      "translation": "他临走前在冰箱上留了一张快速便条。",
+      "source": "Daily conversation (e.g., from everyday dialogue)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "nota",
+        "meaning": "mark or sign",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'nota'，意为标记或符号。在中世纪拉丁语中演变为表示书面记录或音乐音调的含义，进入中古英语后扩展到现代英语的多种用法，包括笔记和注意行为。",
+    "firstKnownUse": "约1200年",
+    "relatedWords": [
+      "notation",
+      "notify",
+      "annotate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 基于简单辅音和元音组合，对中文母语者相对容易)",
+    "spellingDifficulty": "4 (1-10, 拼写规则直观，但需注意元音变化)",
+    "meaningComplexity": "5 (1-10, 多义词需区分语境，但基础含义清晰)",
+    "usageComplexity": "4 (1-10, 常见搭配简单，但需练习语境切换)",
+    "learningTips": [
+      "使用间隔重复法复习多义词；结合视觉联想，如将 'note' 想象为纸张上的标记，以强化记忆路径；根据认知科学，创建个人语境故事，例如将 'note' 与日常生活笔记联系起来以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "memo",
+        "similarity": "0.8",
+        "context": "适用于正式或商业语境中记录简短信息"
+      },
+      {
+        "word": "remark",
+        "similarity": "0.7",
+        "context": "适用于口头注意或评论的语境"
+      },
+      {
+        "word": "record",
+        "similarity": "0.6",
+        "context": "适用于书面或正式记录的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在需要注意 vs. 忽视的语境中"
+      },
+      {
+        "word": "forget",
+        "context": "在记录 vs. 遗忘的语境中"
+      }
+    ],
+    "hypernyms": [
+      "document",
+      "sound"
+    ],
+    "hyponyms": [
+      "post-it",
+      "musical note"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + note (e.g., take note)",
+        "examples": [
+          "Take a note",
+          "Make a note"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "note + of (e.g., note of thanks)",
+        "examples": [
+          "A note of appreciation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'note' 象征记录和注意行为，常隐含在教育和音乐领域中代表知识传承或情感表达，例如圣诞卡片中的感谢便条。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用在正式场合，如会议记录",
+        "usage": "在英国英语中，常与学术或行政语境结合"
+      },
+      {
+        "region": "美国",
+        "variation": "更随意，常用于日常便条或数字笔记",
+        "usage": "在美国英语中，常见于科技应用如手机备忘录"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的教育传统相关，'note' 在莎士比亚作品中出现，体现记录思想的文化价值；在现代，关联社交媒体如Twitter的短消息。",
+    "modernUsage": "在当代数字时代，'note' 常用于手机应用或电子邮件，反映即时沟通趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个笔记本上写满标记的场景，代表记录信息",
+      "keyElements": [
+        "笔记本",
+        "笔迹",
+        "音乐符号"
+      ],
+      "emotionalConnection": "联结个人经历，如学生时代的课堂笔记，以触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'note' 联想为 'nose' 的声音相似，想象鼻子闻到重要事情的味道",
+        "explanation": "通过声音联觉增强记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "N-O-T-E: Notice, Observe, Take, Explain",
+        "explanation": "使用首字母缩略法分解词义，促进结构化记忆"
+      }
+    ],
+    "wordAssociations": [
+      "memo",
+      "jot",
+      "reminder"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "notes",
+      "pastTense": "noted",
+      "pastParticiple": "noted",
+      "presentParticiple": "noting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + note + object",
+        "description": "主语 + 动词 + note + 宾语结构，常用于记录行为",
+        "examples": [
+          "I note the details in my diary."
+        ]
+      },
+      {
+        "pattern": "Take note of + noun",
+        "description": "注意某事物的结构",
+        "examples": [
+          "Take note of the changes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'note' with 'not'",
+        "correction": "Use 'note' for recording and 'not' for negation",
+        "explanation": "中文母语者常混淆发音，需通过发音练习区分"
+      },
+      {
+        "mistake": "Overusing in formal contexts",
+        "correction": "Choose synonyms based on register",
+        "explanation": "在正式语境中，避免重复使用以保持语言多样性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Business",
+      "Music",
+      "Daily communication"
+    ],
+    "tags": [
+      "Writing",
+      "Observation",
+      "Music terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

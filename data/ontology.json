@@ -1,0 +1,241 @@
+{
+  "word": "ontology",
+  "phonetics": {
+    "british": "/ɒnˈtɒlədʒi/",
+    "american": "/ɑːnˈtɑːlədʒi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In philosophy, the branch of metaphysics that deals with the nature of being, existence, and reality.",
+      "chineseTranslation": "本体论，指研究存在、本质和现实性的形而上学分支。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer science and information technology, a formal specification of a conceptualization, often used to represent knowledge as a set of concepts and their relationships within a domain.",
+      "chineseTranslation": "在计算机科学中，指知识的正式表示形式，用于定义领域内的概念及其关系。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ontology of mind",
+      "meaning": "心智本体论",
+      "example": "The ontology of mind explores how mental states relate to physical processes.",
+      "exampleTranslation": "心智本体论探讨了心理状态与物理过程之间的关系。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "web ontology language",
+      "meaning": "网络本体语言",
+      "example": "Web ontology language (OWL) is used to create ontologies for the Semantic Web.",
+      "exampleTranslation": "网络本体语言（OWL）用于为语义网创建本体。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Aristotle's work laid the foundation for modern ontology in philosophy.",
+      "translation": "亚里士多德的作品为现代哲学中的本体论奠定了基础。",
+      "source": "Philosophical literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In artificial intelligence, an ontology helps organize data for machine learning algorithms.",
+      "translation": "在人工智能中，本体论有助于为机器学习算法组织数据。",
+      "source": "Technical articles from sources like IEEE",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The debate on the ontology of social structures continues in contemporary sociology.",
+      "translation": "关于社会结构本体论的辩论在当代社会学中持续进行。",
+      "source": "Academic journals",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "ont-",
+        "meaning": "being or existing",
+        "language": "Greek (from 'ontos', meaning 'being')"
+      },
+      {
+        "root": "-logy",
+        "meaning": "study or science",
+        "language": "Greek (from 'logos', meaning 'word, reason, or study')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于古希腊哲学，特别是亚里士多德的作品中，指对存在本质的研究。17世纪在欧洲哲学中正式使用，演变为形而上学分支。随着20世纪计算机科学的发展，该词扩展到知识表示领域，用于描述概念间的关系。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "epistemology",
+      "metaphysics",
+      "taxonomy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分层学习法：先通过视觉化图表理解哲学含义，再联系实际应用如AI中的知识图谱；利用间隔重复强化记忆，避免混淆类似词汇如'epistemology'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "metaphysics",
+        "similarity": "0.7",
+        "context": "在哲学语境中，适用于讨论存在和现实的抽象概念"
+      },
+      {
+        "word": "taxonomy",
+        "similarity": "0.6",
+        "context": "在计算机科学语境中，适用于分类和结构化知识的场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "epistemology",
+        "context": "本体论关注存在，而认识论关注知识获取，因此在哲学讨论中互为对比"
+      }
+    ],
+    "hypernyms": [
+      "philosophy",
+      "knowledge representation"
+    ],
+    "hyponyms": [
+      "descriptive ontology",
+      "formal ontology"
+    ],
+    "collocations": [
+      {
+        "pattern": "ontology of [domain]",
+        "examples": [
+          "ontology of art",
+          "ontology of biology"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] ontology",
+        "examples": [
+          "social ontology",
+          "cognitive ontology"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征着对存在和知识的深层探究，尤其在古希腊哲学中体现理性传统；在东方文化如中国哲学中，类似概念见于'道'或'气'的讨论，但表达方式不同。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向哲学语境，使用频率较高在学术圈",
+        "usage": "在英国英语中，常与历史哲学关联，如在牛津大学课程中使用"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重技术语境，如在硅谷的AI应用",
+        "usage": "在美国英语中，常见于计算机科学和商业语境中"
+      }
+    ],
+    "historicalContext": "与古希腊哲学家如柏拉图和亚里士多德的作品关联，并在文艺复兴和启蒙运动中发展；现代语境下，与互联网和AI革命相关。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于讨论AI伦理或元宇宙概念，反映数字时代对知识结构化的需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的知识网络图，中心是一个希腊神殿，代表存在（ont-），周围是分支连接各种概念。",
+      "keyElements": [
+        "希腊神殿",
+        "知识网络",
+        "概念连接"
+      ],
+      "emotionalConnection": "联结个人对未知世界的探索好奇心，例如回想第一次阅读哲学书籍时的兴奋"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'ontology' as 'onto-logic' – studying what's 'on to' reality.",
+        "explanation": "通过词根联想，将'ont-'与'onto'（在...之上）联系，增强记忆路径"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'ahn-TAH-luh-jee'，联想到一个古老的图书馆探索旅程。",
+        "explanation": "利用声音与视觉联觉，触发情感记忆以加深保留"
+      }
+    ],
+    "wordAssociations": [
+      "being",
+      "existence",
+      "knowledge graph"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ontologies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] of [domain]",
+        "description": "该结构用于指定本体论的特定领域",
+        "examples": [
+          "The ontology of language structures human communication."
+        ]
+      },
+      {
+        "pattern": "[Subject] uses an ontology to [verb]",
+        "description": "用于描述本体论的应用场景",
+        "examples": [
+          "Scientists use an ontology to classify species."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'epistemology'",
+        "correction": "Use 'ontology' for being and 'epistemology' for knowledge.",
+        "explanation": "二者虽相关但不同，前者关注存在，后者关注知道"
+      },
+      {
+        "mistake": "Mispronouncing as /ɒnˈtɑːlədʒi/",
+        "correction": "Correct to /ɒnˈtɒlədʒi/ for British English.",
+        "explanation": "错误的元音发音可能导致语境混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "philosophy",
+      "computer science",
+      "artificial intelligence"
+    ],
+    "tags": [
+      "metaphysics",
+      "knowledge representation",
+      "semantics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "word": "recommend",
+  "phonetics": {
+    "british": "/ˌrɛkəˈmɛnd/",
+    "american": "/ˌrɛkəˈmɛnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to suggest something as suitable or desirable for a particular purpose or person",
+      "chineseTranslation": "推荐；建议",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to advise or counsel someone to do something",
+      "chineseTranslation": "劝告；推介",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a suggestion or proposal for a course of action",
+      "chineseTranslation": "推荐；建议（较少用作名词）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "recommend to",
+      "meaning": "推荐给某人",
+      "example": "I recommend this book to all my friends.",
+      "exampleTranslation": "我把这本书推荐给我的所有朋友。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "recommend for",
+      "meaning": "推荐用于某事",
+      "example": "This software is highly recommended for graphic design.",
+      "exampleTranslation": "这个软件高度推荐用于图形设计。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "recommend against",
+      "meaning": "不推荐；劝阻",
+      "example": "Doctors recommend against smoking during pregnancy.",
+      "exampleTranslation": "医生不推荐在怀孕期间吸烟。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I strongly recommend trying the new Italian restaurant downtown.",
+      "translation": "我强烈推荐尝试市中心的这家新意大利餐厅。",
+      "source": "Informal conversation (e.g., from everyday dialogue corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The committee recommends increasing the budget for education.",
+      "translation": "委员会建议增加教育的预算。",
+      "source": "Formal report (e.g., from BNC, British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Based on customer reviews, we recommend this model for everyday use.",
+      "translation": "基于客户评论，我们推荐这个型号用于日常使用。",
+      "source": "Commercial advertising (e.g., from online product reviews in COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      },
+      {
+        "root": "commendare",
+        "meaning": "to entrust or commit",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "From Latin 'recommendare', meaning 'to commit or entrust to someone', evolving through Old French 'recommander' in the 14th century to Middle English, where it gained the modern sense of suggesting or advising by the 15th century.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "commend",
+      "mandate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用重复曝光法（spaced repetition）记忆词汇在不同语境中的用法；将'recommend'与个人经历关联，如回忆一次推荐产品的场景，以增强情感记忆；"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "suggest",
+        "similarity": "0.8",
+        "context": "在非正式建议语境中，例如日常对话"
+      },
+      {
+        "word": "advise",
+        "similarity": "0.7",
+        "context": "在正式或专业建议语境中，例如医疗咨询"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discourage",
+        "context": "在劝阻或不推荐的语境中，例如健康警告"
+      },
+      {
+        "word": "dissuade",
+        "context": "在说服避免某事的语境中，例如职业指导"
+      }
+    ],
+    "hypernyms": [
+      "advise"
+    ],
+    "hyponyms": [
+      "endorse",
+      "prescribe"
+    ],
+    "collocations": [
+      {
+        "pattern": "recommend + noun",
+        "examples": [
+          "recommend a book",
+          "recommend a course"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "recommend + gerund",
+        "examples": [
+          "recommend trying",
+          "recommend visiting"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征信任和专业意见，常用于社交推荐（如书籍或餐厅），体现西方文化的个体主义和意见自由",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于礼貌表达，如 'I would recommend'",
+        "usage": "在英国英语中，常用于正式场合以保持谦逊"
+      },
+      {
+        "region": "United States",
+        "variation": "更直接，如 'I recommend'",
+        "usage": "在美国英语中，常用于商业和日常对话中，强调实用性"
+      }
+    ],
+    "historicalContext": "源自拉丁文化的影响，通过文艺复兴时期传入英语，关联到启蒙运动的理性建议传统；在现代，文学作品如莎士比亚的戏剧中出现类似表达",
+    "modernUsage": "在社交媒体如Twitter或LinkedIn上流行，用于影响者营销，反映数字时代的信息传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个朋友在推荐一本好书给你，两人坐在咖啡店，书本上有个大拇指向上标志",
+      "keyElements": [
+        "拇指向上",
+        "书籍",
+        "朋友聊天"
+      ],
+      "emotionalConnection": "联结到个人经历，如曾被朋友推荐的书籍带来的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re-commend sounds like 're-command', meaning giving a command again",
+        "explanation": "通过声音联想帮助记忆词汇的建议含义，基于认知语言学的听觉编码原则"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-C: Recommend-Enjoy-Choose",
+        "explanation": "用缩略词与积极行动关联，增强记忆通过视觉和运动记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "suggest",
+      "endorse",
+      "advise"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "recommended",
+      "pastParticiple": "recommended",
+      "presentParticiple": "recommending",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + recommend + object + infinitive",
+        "description": "主语推荐对象做某事",
+        "examples": [
+          "I recommend you try it."
+        ]
+      },
+      {
+        "pattern": "Recommend + gerund",
+        "description": "推荐进行某活动",
+        "examples": [
+          "We recommend visiting the museum."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'recommend' without an object",
+        "correction": "Always include an object or clause",
+        "explanation": "错误源于词汇搭配规则的忽略；正确用法需指定推荐的内容"
+      },
+      {
+        "mistake": "Confusing with 'recommendation'",
+        "correction": "Use 'recommend' as verb, 'recommendation' as noun",
+        "explanation": "部分学习者混淆词性，导致句法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 1000 in general corpora (e.g., COCA rank: 542)",
+    "domains": [
+      "business",
+      "education",
+      "health",
+      "daily life"
+    ],
+    "tags": [
+      "advice",
+      "suggestion",
+      "positive recommendation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

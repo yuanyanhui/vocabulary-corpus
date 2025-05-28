@@ -1,0 +1,235 @@
+{
+  "word": "ischemic",
+  "phonetics": {
+    "british": "/ɪˈskiːmɪk/",
+    "american": "/ɪˈskɛmɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a restriction in blood supply to tissues, causing a shortage of oxygen and nutrients, which may lead to tissue damage.",
+      "chineseTranslation": "缺血性的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ischemic stroke",
+      "meaning": "缺血性中风",
+      "example": "The patient suffered an ischemic stroke due to a blood clot in the artery.",
+      "exampleTranslation": "患者由于动脉中血栓导致缺血性中风。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ischemic heart disease",
+      "meaning": "缺血性心脏病",
+      "example": "Ischemic heart disease is a leading cause of death worldwide.",
+      "exampleTranslation": "缺血性心脏病是全球主要死亡原因之一。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor diagnosed the patient with ischemic damage in the brain tissue.",
+      "translation": "医生诊断患者脑组织有缺血性损伤。",
+      "source": "Medical journal (e.g., from The New England Journal of Medicine)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Ischemic conditions can often be prevented through lifestyle changes like exercise and diet.",
+      "translation": "缺血性状况通常可以通过运动和饮食改变来预防。",
+      "source": "Health education materials (e.g., from WHO reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In severe cases, ischemic events require immediate surgical intervention.",
+      "translation": "在严重情况下，缺血性事件需要立即进行手术干预。",
+      "source": "Scientific literature (e.g., from PubMed articles)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "ischēm-",
+        "meaning": "to keep back or hold in",
+        "language": "Greek"
+      },
+      {
+        "root": "-ia",
+        "meaning": "condition or state",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'ischēmiā'，意为血液停止流动或保持在原位。该词通过拉丁语传入英语，早先用于描述医学现象，从19世纪开始在解剖学和病理学中广泛应用，逐渐演变为现代医学术语。",
+    "firstKnownUse": "1866",
+    "relatedWords": [
+      "ischemia",
+      "ischemic heart disease",
+      "ischemia-reperfusion"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用间隔重复法（spaced repetition）来记忆词根，例如将 'ischēm-' 与 'hold back' 关联；结合视觉化技巧，如想象血管中血流被阻塞的场景，以增强认知连接；针对初级学习者，建议从常见医学语境入手，避免抽象概念的直接记忆，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hypoxic",
+        "similarity": "0.7",
+        "context": "适用于缺氧相关语境，如组织缺氧情况"
+      },
+      {
+        "word": "anoxic",
+        "similarity": "0.6",
+        "context": "适用于完全缺氧的医学语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hyperemic",
+        "context": "适用于血流过多或充血的医学语境"
+      },
+      {
+        "word": "normoxic",
+        "context": "适用于正常氧供应的生理语境"
+      }
+    ],
+    "hypernyms": [
+      "vascular"
+    ],
+    "hyponyms": [
+      "cerebral ischemic",
+      "myocardial ischemic"
+    ],
+    "collocations": [
+      {
+        "pattern": "ischemic + noun (e.g., stroke, attack)",
+        "examples": [
+          "ischemic stroke",
+          "ischemic attack"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + ischemic (e.g., acute ischemic)",
+        "examples": [
+          "acute ischemic event"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征现代医疗诊断的精确性，常与心血管疾病预防和治疗相关联；在跨文化语境中，中国医学传统可能更倾向于使用 '血瘀' 等术语，但 'ischemic' 在全球标准化医疗中日益普及。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在流行病学和公共健康讨论中",
+        "usage": "在美国英语中，常见于临床报告和健康教育材料"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式地用于学术出版物",
+        "usage": "在英国英语中，常与欧洲医学指南结合使用"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命后的医学进步相关联，例如在法国和德国的早期研究中出现；在中国文化中，与传统中医的 '气血理论' 有潜在关联，但现代使用受西方影响。",
+    "modernUsage": "在社交媒体和在线健康论坛中，常见于COVID-19相关讨论中，如 'ischemic complications from long COVID'，反映了全球医疗传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条河流（代表血管）被堤坝（代表血栓）阻断，导致下游区域干涸（代表组织缺血）。",
+      "keyElements": [
+        "河流",
+        "堤坝",
+        "干涸区域"
+      ],
+      "emotionalConnection": "联结个人经历，如回想一次身体疲劳或运动后缺氧感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Ischemic sounds like 'ice in the stream' – ice blocks the stream, just like blood is blocked.",
+        "explanation": "通过声音联想帮助记忆词根，结合视觉意象增强长期保留"
+      },
+      {
+        "type": "缩略",
+        "content": "I-S-C-H-E-M-I-C: 'I See Clots Hindering Every Major Artery'",
+        "explanation": "使用首字母缩略法创建故事，基于认知心理学中的叙事编码原则"
+      }
+    ],
+    "wordAssociations": [
+      "blockage",
+      "oxygen",
+      "heart attack"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more ischemic",
+      "superlative": "most ischemic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，描述特定医学状态",
+        "examples": [
+          "an ischemic event occurred"
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，表示原因或结果",
+        "examples": [
+          "due to ischemic conditions"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'anemic' (which relates to blood deficiency)",
+        "correction": "Use 'ischemic' for blood flow restriction specifically",
+        "explanation": "二者虽均涉及血液问题，但语义不同；学习者需区分词根以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /aɪˈskɛmɪk/",
+        "correction": "Pronounce as /ɪˈskɛmɪk/",
+        "explanation": "发音错误可能源于相近词汇的影响，建议通过音频练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "医学",
+      "健康",
+      "科学"
+    ],
+    "tags": [
+      "医疗术语",
+      "生理学",
+      "病理学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Medical Dictionary"
+    ]
+  }
+}

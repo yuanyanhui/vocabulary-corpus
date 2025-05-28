@@ -1,0 +1,231 @@
+{
+  "word": "hypointensity",
+  "phonetics": {
+    "british": "/ˌhaɪpəʊɪnˈtɛnsɪti/",
+    "american": "/ˌhaɪpoʊɪnˈtɛnsəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An area or region in medical imaging, especially MRI, that appears darker than surrounding tissues due to lower signal intensity.",
+      "chineseTranslation": "低信号强度",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hypointense lesions",
+      "meaning": "低信号强度的病变",
+      "example": "The MRI revealed several hypointense lesions in the brain.",
+      "exampleTranslation": "MRI 显示大脑中有几个低信号强度的病变。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "focal hypointensity",
+      "meaning": "局灶性低信号强度",
+      "example": "Focal hypointensity was observed in the liver on the T2-weighted image.",
+      "exampleTranslation": "在 T2 加权图像上，肝脏观察到局灶性低信号强度。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The radiologist noted a hypointensity in the patient's spinal cord, indicating possible inflammation.",
+      "translation": "放射科医生注意到患者脊髓中有低信号强度，表明可能存在炎症。",
+      "source": "Medical journal (e.g., from Radiology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the MRI scan, the hypointensity of the tumor suggested it was benign.",
+      "translation": "在 MRI 扫描中，肿瘤的低信号强度表明它是良性的。",
+      "source": "Clinical case study",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Hypointensity on T1-weighted images can often be associated with calcification or hemorrhage.",
+      "translation": "T1 加权图像上的低信号强度通常与钙化或出血有关。",
+      "source": "Textbook of radiology",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "hypo-",
+        "meaning": "under or below",
+        "language": "Greek"
+      },
+      {
+        "root": "intensity",
+        "meaning": "strength or force",
+        "language": "Latin (from intensitas)"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek prefix 'hypo-' meaning 'under', combined with 'intensity' from Latin 'intensitas', evolving in medical contexts during the 20th century with the advent of MRI technology to describe areas of reduced signal in imaging.",
+    "firstKnownUse": "Mid-20th century (circa 1970s, with the development of MRI)",
+    "relatedWords": [
+      "hyperintensity",
+      "isointensity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的分块学习法（chunking），将词汇与 MRI 图像的视觉记忆关联起来；",
+      "通过重复暴露于专业语境中增强长时记忆；",
+      "结合双编码理论，使用图像和文字并行记忆，例如想象黑暗区域代表 'hypo-' 的 '低' 状态"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "low signal",
+        "similarity": "0.8",
+        "context": "在医学成像中，用于描述相同现象的非正式表达"
+      },
+      {
+        "word": "signal void",
+        "similarity": "0.7",
+        "context": "在放射学语境中，表示完全缺乏信号"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hyperintensity",
+        "context": "在 MRI 中，表示信号强度较高的区域，与低信号强度相反"
+      }
+    ],
+    "hypernyms": [
+      "signal abnormality"
+    ],
+    "hyponyms": [
+      "T1 hypointensity",
+      "T2 hypointensity"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., focal hypointensity)",
+        "examples": [
+          "Focal hypointensity in the brain"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "prepositional phrase (e.g., hypointensity on MRI)",
+        "examples": [
+          "Hypointensity on T2-weighted images"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征先进诊断技术的发展，常隐含早期发现疾病的科学重要性；在跨文化语境中，中国医学教育中也广泛使用，但需注意其在英语为母语的临床报告中的主导地位。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English medical literature with emphasis on quantitative imaging.",
+        "usage": "在美国，词汇常出现在临床指南和研究中，以精确描述影像学发现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage, but sometimes integrated with British English terminology in radiology texts.",
+        "usage": "在英国，词汇用于 NHS 相关文件，但可能与欧洲标准相结合"
+      }
+    ],
+    "historicalContext": "与 20 世纪后期的医学成像革命相关，特别是在冷战时期的技术进步中兴起，体现了科学全球化的影响。",
+    "modernUsage": "在社交媒体和在线健康论坛中，词汇用于患者讨论，但需专业指导，以避免误解流行"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个黑暗的阴影区域在明亮的 MRI 图像中，就如地牢中的 'hypo-' 地下室。",
+      "keyElements": [
+        "黑暗阴影",
+        "MRI 图像",
+        "地下室比喻"
+      ],
+      "emotionalConnection": "联结个人医疗经历或对健康的关注，触发保护本能以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hypo- 像 'hidden' 的隐藏，intensity 像 'light strength'，所以 hypointensity 是 'hidden low light'.",
+        "explanation": "通过视觉联想将词汇与隐藏的黑暗区域连接，运用认知科学中的双编码以提升保留率"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/haɪpoʊɪn/' 听起来像 'high po in'，联想 'high pressure on intensity' 变低。",
+        "explanation": "利用声音与概念的联觉，帮助初级学习者通过听觉线索记忆语义"
+      }
+    ],
+    "wordAssociations": [
+      "MRI",
+      "dark spot",
+      "lesion"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hypointensities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a hypointensity in the image')",
+        "description": "作为名词用于描述位置或特征",
+        "examples": [
+          "The hypointensity was clearly visible."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'hypointensity on the scan')",
+        "description": "与介词结合表示具体语境",
+        "examples": [
+          "Hypointensity on the MRI indicated disease."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'hyperintensity'",
+        "correction": "Use 'hypointensity' for low signal areas",
+        "explanation": "二者是反义词，常因相似拼写导致混淆，需要通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "hypointensities",
+        "explanation": "添加 '-es' 形成复数，但初学者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank in COCA corpus: infrequent, primarily in medical domains)",
+    "domains": [
+      "医学",
+      "放射学",
+      "科技"
+    ],
+    "tags": [
+      "医疗术语",
+      "影像学",
+      "诊断"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Medical Dictionary"
+    ]
+  }
+}

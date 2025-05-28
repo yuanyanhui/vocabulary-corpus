@@ -1,0 +1,270 @@
+{
+  "word": "load",
+  "phonetics": {
+    "british": "/ləʊd/",
+    "american": "/loʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A heavy or bulky object or quantity of something that is being carried, supported, or dealt with.",
+      "chineseTranslation": "负载；货物",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An amount of work, responsibility, or hardship that one has to bear.",
+      "chineseTranslation": "负担；重担",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put a load or burden on or into something, such as a vehicle or a device.",
+      "chineseTranslation": "装载；加载",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fill something to capacity or beyond, often in a computing context, such as loading data into memory.",
+      "chineseTranslation": "填充；加载（数据）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "load up",
+      "meaning": "裝載或填充起來",
+      "example": "We need to load up the van before the trip.",
+      "exampleTranslation": "我們需要在旅行前裝載貨車。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "heavy load",
+      "meaning": "沉重的負擔或貨物",
+      "example": "Carrying a heavy load can strain your back.",
+      "exampleTranslation": "攜帶沉重負擔可能會損傷你的背部。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "load bearing",
+      "meaning": "承載重量的",
+      "example": "The load-bearing walls must be reinforced for safety.",
+      "exampleTranslation": "承載牆必須加固以確保安全。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The truck was struggling under the weight of its load.",
+      "translation": "卡車在貨物的重量下掙扎著。",
+      "source": "Modern English corpus, e.g., COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She has a heavy load of responsibilities at work.",
+      "translation": "她在工作中負擔著沉重的責任。",
+      "source": "News articles, e.g., from BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Please load the software onto the computer before starting.",
+      "translation": "請在啟動前將軟件加載到電腦上。",
+      "source": "Technical manuals, e.g., from online tech forums",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The ship will load cargo at the dock tomorrow.",
+      "translation": "船隻明天將在碼頭裝載貨物。",
+      "source": "Literary works, e.g., inspired by maritime literature",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "lād",
+        "meaning": "way, course, or that which is carried",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英語 'lād'，最初指路徑或旅程，逐漸演變為現代意義上的負載或裝載，通過中英語時期吸收了更多實物和抽象負擔的含義，受日耳曼語系影響。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "lading",
+      "lade"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "結合重複曝光和語境學習，建議使用Spaced Repetition System (SRS) 來強化記憶；將詞彙與日常生活負擔的視覺化場景聯繫，以提升認知加工效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "burden",
+        "similarity": "0.8",
+        "context": "適用於抽象負擔的語境，如情感或工作壓力"
+      },
+      {
+        "word": "cargo",
+        "similarity": "0.7",
+        "context": "適用於運輸或物流的具體語境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unload",
+        "context": "卸載或減輕負擔的語境"
+      },
+      {
+        "word": "relieve",
+        "context": "緩解壓力的語境"
+      }
+    ],
+    "hypernyms": [
+      "weight",
+      "burden"
+    ],
+    "hyponyms": [
+      "payload",
+      "workload"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + load (e.g., heavy load)",
+        "examples": [
+          "a heavy load",
+          "an emotional load"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + load (e.g., to load data)",
+        "examples": [
+          "to load a truck",
+          "to load software"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在英語文化中常隱含工業化和現代生活的象征意義，例如在美國文化中，'load' 可能與拓荒精神相關，代表負擔與成就的平衡。",
+    "regionalVariations": [
+      {
+        "region": "英國",
+        "variation": "更傾向於正式或歷史語境使用，如運輸業",
+        "usage": "在英國英語中，常見於海運或傳統勞動描述"
+      },
+      {
+        "region": "美國",
+        "variation": "更常見於日常和技術語境，如計算機加载",
+        "usage": "在美國英語中，與科技和汽車文化緊密結合"
+      }
+    ],
+    "historicalContext": "與工業革命相關，'load' 在文學如狄更斯作品中象徵社會階層的負擔；在現代，與全球化貿易和數字化相關。",
+    "modernUsage": "在社交媒體如Twitter上，常用於表達心理負擔的趨勢，體現當代生活壓力。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個卡車在山路上載著沉重箱子，象徵負擔的重量。",
+      "keyElements": [
+        "卡車",
+        "箱子",
+        "山路"
+      ],
+      "emotionalConnection": "聯繫個人經歷，如搬家時的疲憊感，以強化情感記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'load' as 'low + ad' meaning something low and added weight.",
+        "explanation": "通過簡單的語音聯想來加深記憶，基於認知科學的圖像化原則。"
+      },
+      {
+        "type": "缩略",
+        "content": "L-O-A-D: Load On A Device.",
+        "explanation": "使用首字母縮寫來建立結構化記憶路徑。"
+      }
+    ],
+    "wordAssociations": [
+      "burden",
+      "weight",
+      "cargo"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "loads",
+      "pastTense": "loaded",
+      "pastParticiple": "loaded",
+      "presentParticiple": "loading",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object (e.g., He loads the truck)",
+        "description": "主語 + 動詞 + 賓語結構，常見於行動描述",
+        "examples": [
+          "He loads the cargo every morning."
+        ]
+      },
+      {
+        "pattern": "Noun Phrase + load (e.g., a heavy load of work)",
+        "description": "名詞短語 + load，強調量或類型",
+        "examples": [
+          "She carries a load of responsibilities."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'load' as an adjective",
+        "correction": "Use 'loaded' as an adjective",
+        "explanation": " 'Load' 是名詞或動詞，不能直接用作形容詞；正確形式如 'a loaded gun'。"
+      },
+      {
+        "mistake": "Confusing with 'loud'",
+        "correction": "Distinguish pronunciation and spelling",
+        "explanation": "發音相似，但 'load' 與 'loud' 意義不同，需注意語境區分。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "商業",
+      "運輸",
+      "日常生活"
+    ],
+    "tags": [
+      "運輸",
+      "負擔",
+      "計算機",
+      "抽象概念"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "word": "artifact",
+  "phonetics": {
+    "british": "/ˈɑːtɪfækt/",
+    "american": "/ˈɑrtəˌfækt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An object made by a human being, typically one of cultural or historical interest, such as in archaeology.",
+      "chineseTranslation": "人工制品，尤其指具有文化或历史意义的物品，如考古文物。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or technology, a byproduct or file produced during a process, such as in software development.",
+      "chineseTranslation": "在计算机或技术领域，指过程产生的副产品或文件，如软件开发中的生成物。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An unintended alteration or distortion in data, images, or signals, as in medical imaging or signal processing.",
+      "chineseTranslation": "在数据、图像或信号处理中，指意外的改变或失真。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ancient artifact",
+      "meaning": "古代人工制品",
+      "example": "The museum displays an ancient artifact from the Bronze Age.",
+      "exampleTranslation": "博物馆展出青铜时代的一件古代人工制品。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "cultural artifact",
+      "meaning": "文化人工制品",
+      "example": "This pottery is considered a cultural artifact of indigenous communities.",
+      "exampleTranslation": "这种陶器被视为土著社区的文化人工制品。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "software artifact",
+      "meaning": "软件生成物",
+      "example": "The development team reviewed the software artifact before deployment.",
+      "exampleTranslation": "开发团队在部署前审查了软件生成物。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Archaeologists unearthed an artifact that dates back to 2000 BC.",
+      "translation": "考古学家出土了一件可追溯到公元前2000年的人工制品。",
+      "source": "Historical text from archaeological reports (e.g., based on sources like the British Museum archives)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In digital photography, an artifact can appear as a blurry spot due to compression.",
+      "translation": "在数字摄影中，人工制品可能表现为压缩导致的模糊斑点。",
+      "source": "Technical article from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The artifact was carefully preserved to maintain its historical significance.",
+      "translation": "这件人工制品被仔细保存，以维护其历史意义。",
+      "source": "Literature from novels like those in the BNC corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ars",
+        "meaning": "art, skill, or craft",
+        "language": "Latin"
+      },
+      {
+        "root": "facere",
+        "meaning": "to make or do",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'arte factum'，意为 '通过技艺制作的东西'。在中世纪拉丁语中演变为 'artifactum'，并于16世纪传入英语，指手工制作的物体。后来扩展到现代语境，如技术领域的副产品。这一演变反映了从手工工艺到数字生产的文化转变。",
+    "firstKnownUse": "1580s",
+    "relatedWords": [
+      "artefact (British spelling variant)",
+      "relic",
+      "antiquity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "根据认知科学，利用分块学习法（chunking）将 'artifact' 与具体视觉图像关联，如想象考古现场；结合重复暴露（spaced repetition）来记忆其多重语义，避免混淆；对于中文母语学习者，强调词根联想以增强长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "relic",
+        "similarity": "0.8",
+        "context": "适用于历史或考古语境中，指具有古董价值的物体"
+      },
+      {
+        "word": "antique",
+        "similarity": "0.7",
+        "context": "适用于收藏或文化语境中，指老式或有价值的物品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "natural object",
+        "context": "适用于区分人工与自然语境中，如在科学讨论中"
+      },
+      {
+        "word": "raw material",
+        "context": "适用于技术语境中，指未经加工的物质"
+      }
+    ],
+    "hypernyms": [
+      "object",
+      "item"
+    ],
+    "hyponyms": [
+      "fossil",
+      "tool",
+      "statue"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + artifact",
+        "examples": [
+          "ancient artifact",
+          "valuable artifact"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "artifact + preposition + noun",
+        "examples": [
+          "artifact from the past",
+          "artifact in the museum"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征人类文明的遗迹，常用于考古和博物馆语境中，隐含对历史和遗产的尊重；在跨文化语境下，可能与中文的 '文物' 类似，但强调人为创造而非自然形成。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "常用 'artefact' 拼写",
+        "usage": "在正式学术语境中更常见，反映英国英语的拼写偏好"
+      },
+      {
+        "region": "美国",
+        "variation": "使用 'artifact' 拼写",
+        "usage": "在技术和技术语境中更流行，如软件工程"
+      }
+    ],
+    "historicalContext": "与工业革命和考古学兴起相关，在19世纪的欧洲文学和社会讨论中频繁出现，例如狄更斯的小说中暗示了对工业时代人工制品的反思。",
+    "modernUsage": "在社交媒体和数字平台上，常用于讨论文化遗产或技术问题，如TikTok上的考古视频或GitHub上的软件生成物。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个考古学家在沙漠中发现一个古老的陶罐，周围有沙子和历史书籍。",
+      "keyElements": [
+        "陶罐",
+        "考古现场",
+        "历史书籍"
+      ],
+      "emotionalConnection": "联结个人对探险的兴奋感，或回想中国博物馆的文物经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Artifact = Art + Fact（艺术加事实）",
+        "explanation": "通过词根联想，将 'art' 视为艺术创作，'fact' 视为真实物体，帮助构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音如 'art-i-fact'，联想到艺术家在工厂中创作",
+        "explanation": "利用认知科学的多模态记忆，结合声音和视觉以提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "relic",
+      "museum",
+      "technology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "artifacts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Artifact",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The artifact was discovered yesterday."
+        ]
+      },
+      {
+        "pattern": "Adjective + Artifact + Prepositional Phrase",
+        "description": "用于描述语境的结构",
+        "examples": [
+          "An ancient artifact from Egypt lies in the exhibit."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'artefact' spelling",
+        "correction": "Use 'artifact' in American English contexts",
+        "explanation": "由于区域变体，中文学习者可能混淆拼写；建议检查语境以避免错误"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Distinguish between archaeological and technical uses",
+        "explanation": "中级学习者常将不同语义混淆；通过语境练习可改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "archaeology",
+      "technology",
+      "culture"
+    ],
+    "tags": [
+      "noun",
+      "historical",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

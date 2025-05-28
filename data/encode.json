@@ -1,0 +1,244 @@
+{
+  "word": "encode",
+  "phonetics": {
+    "british": "/ɪnˈkəʊd/",
+    "american": "/ɪnˈkoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert information or data into a code to facilitate transmission, storage, or security.",
+      "chineseTranslation": "编码",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In biology, to specify the genetic code for a particular protein or trait.",
+      "chineseTranslation": "编码（遗传信息）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical/academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "encode data",
+      "meaning": "编码数据",
+      "example": "Software engineers often encode data to protect it from unauthorized access.",
+      "exampleTranslation": "软件工程师经常编码数据以防止未经授权的访问。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "encode a message",
+      "meaning": "编码消息",
+      "example": "During the war, spies would encode messages to send secret information.",
+      "exampleTranslation": "在战争期间，间谍会编码消息来发送秘密信息。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The algorithm is designed to encode sensitive information for secure online transactions.",
+      "translation": "该算法旨在为安全的在线交易编码敏感信息。",
+      "source": "Technical documentation (e.g., from computing corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In genetics, DNA sequences encode the instructions for building proteins in the body.",
+      "translation": "在遗传学中，DNA序列编码构建身体蛋白质的指令。",
+      "source": "Scientific literature (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "You can encode your password using this simple tool to enhance security.",
+      "translation": "你可以使用这个简单工具编码你的密码来增强安全性。",
+      "source": "Informal tech blog",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "en-",
+        "meaning": "in or into",
+        "language": "Old French (from Latin)"
+      },
+      {
+        "root": "code",
+        "meaning": "system of symbols or rules",
+        "language": "Latin (from 'codex', meaning a book or set of laws)"
+      }
+    ],
+    "historicalDevelopment": "The term evolved in the 19th century from telegraphy and early cryptography, where 'encode' referred to converting messages into code for transmission. By the mid-20th century, it expanded to computing and genetics, reflecting technological advancements.",
+    "firstKnownUse": "1850s",
+    "relatedWords": [
+      "code",
+      "decode",
+      "encrypt",
+      "recoding"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用间隔重复法结合实际技术场景；将词汇与个人经验关联，如回忆使用密码保护文件的经历，以增强认知联系；根据认知科学，创建视觉记忆图来区分类似词汇如 'encode' 和 'decode'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "encrypt",
+        "similarity": "0.8",
+        "context": "在安全和数据保护语境中适用，常用于加密通信"
+      },
+      {
+        "word": "cipher",
+        "similarity": "0.7",
+        "context": "在密码学语境中，强调隐藏信息"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decode",
+        "context": "在信息解密或翻译语境中适用，通常用于逆转编码过程"
+      },
+      {
+        "word": "decrypt",
+        "context": "在安全语境中，针对加密内容"
+      }
+    ],
+    "hypernyms": [
+      "convert",
+      "transform"
+    ],
+    "hyponyms": [
+      "base64 encode",
+      "URL encode"
+    ],
+    "collocations": [
+      {
+        "pattern": "encode + noun (e.g., data, message)",
+        "examples": [
+          "encode data",
+          "encode a message"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be encoded in + context",
+        "examples": [
+          "be encoded in DNA"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征数据安全和信息隐私，体现了现代社会对技术隐私的强调，在西方文化中常与加密技术（如互联网安全）相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和日常数字工具",
+        "usage": "在美国英语中，'encode' 在编程和AI领域频繁出现，强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在历史语境中联想到早期密码学",
+        "usage": "在英国英语中，常与文学或历史事件（如二战加密）相关"
+      }
+    ],
+    "historicalContext": "与20世纪的密码学和二战时期的Enigma机器相关，反映了文化中情报和秘密通信的主题。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论数据保护和AI生成内容，如在Twitter或Reddit上的科技讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象将信息锁进一个保险箱的场景，代表保护数据。",
+      "keyElements": [
+        "锁、箱子、信息符号"
+      ],
+      "emotionalConnection": "联结到个人经验，如保护手机密码，触发安全感和责任感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "En-code: 把东西放进代码里，像放入信封。",
+        "explanation": "通过视觉联想增强记忆，基于认知科学中的双编码理论，将词汇与图像结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'in code'，想象潜入代码的世界。",
+        "explanation": "利用声音相似性创建记忆钩子，促进海马体中的长期记忆存储"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "lock",
+      "data",
+      "encrypt"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "encoded",
+      "pastParticiple": "encoded",
+      "presentParticiple": "encoding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + encode + object",
+        "description": "主语 + 编码 + 宾语的结构，常用于主动句",
+        "examples": [
+          "The system encodes the data."
+        ]
+      },
+      {
+        "pattern": "Passive voice: be encoded by",
+        "description": "被动语态结构，用于强调结果",
+        "examples": [
+          "The message is encoded by the algorithm."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'encode' with 'code'",
+        "correction": "Use 'encode' for the process of conversion",
+        "explanation": "Learners often mix up the verb with the noun; clarify through context"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'encoded'",
+        "explanation": "For intermediate learners, practice with verb conjugation charts"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "computing",
+      "science"
+    ],
+    "tags": [
+      "computer science",
+      "data security",
+      "genetics"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

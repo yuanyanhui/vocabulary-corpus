@@ -1,0 +1,252 @@
+{
+  "word": "heterodyne",
+  "phonetics": {
+    "british": "/ˈhɛtərəʊdaɪn/",
+    "american": "/ˈhɛtəroʊdaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mix two electrical waves of different frequencies, producing new frequencies that are the sums and differences of the original frequencies, commonly used in radio and signal processing.",
+      "chineseTranslation": "混频；使异频",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or producing new frequencies by combining two different frequencies.",
+      "chineseTranslation": "异频的；混频的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The frequency produced by mixing two other frequencies.",
+      "chineseTranslation": "混频信号",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "heterodyne detection",
+      "meaning": "混频检测技术",
+      "example": "Heterodyne detection is widely used in optical communication systems.",
+      "exampleTranslation": "混频检测在光学通信系统中被广泛使用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "heterodyne receiver",
+      "meaning": "异频接收器",
+      "example": "The heterodyne receiver converts the incoming signal to a lower frequency for easier processing.",
+      "exampleTranslation": "异频接收器将传入信号转换为较低频率以便于处理。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "heterodyne principle",
+      "meaning": "异频原理",
+      "example": "The heterodyne principle forms the basis of modern radio technology.",
+      "exampleTranslation": "异频原理构成了现代无线电技术的基础。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use heterodyne techniques to demodulate signals in wireless communications.",
+      "translation": "工程师们使用混频技术来解调无线通信中的信号。",
+      "source": "Technical literature, such as IEEE journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In a heterodyne system, the mixer combines the local oscillator frequency with the incoming signal.",
+      "translation": "在异频系统中，混频器将本地振荡器频率与传入信号结合。",
+      "source": "Scientific articles from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The invention of the heterodyne method revolutionized early radio broadcasting.",
+      "translation": "异频方法的发明彻底改变了早期的无线电广播。",
+      "source": "Historical texts, such as from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "hetero-",
+        "meaning": "different",
+        "language": "Greek"
+      },
+      {
+        "root": "dyne",
+        "meaning": "power or force",
+        "language": "Greek (from dynamis)"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'hetero-' (意为 '不同') 和 'dyne' (源自 'dynamis'，意为 '力量')，该词在20世纪初由美国发明家Lee De Forest和Reginald Fessenden在无线电技术中推广，用于描述频率混合过程。从最初的无线电应用发展到现代信号处理和光学领域，含义从单纯的频率混合扩展到更广泛的电子工程语境。",
+    "firstKnownUse": "1905",
+    "relatedWords": [
+      "homodyne",
+      "superheterodyne"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学原理，将词汇与视觉化信号波形联想起来，利用间隔重复系统 (spaced repetition) 加深记忆；对于中文母语学习者，建议将 'heterodyne' 与 '混合频率' 的概念类比，避免直接翻译导致的混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mix",
+        "similarity": "0.7",
+        "context": "适用于技术语境中信号处理的场景，例如在电子工程中"
+      },
+      {
+        "word": "beat",
+        "similarity": "0.6",
+        "context": "在声学或物理学中，指频率差的产生"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "homodyne",
+        "context": "适用于不需要频率混合的直接检测语境中"
+      }
+    ],
+    "hypernyms": [
+      "modulation"
+    ],
+    "hyponyms": [
+      "superheterodyne"
+    ],
+    "collocations": [
+      {
+        "pattern": "heterodyne + noun (e.g., heterodyne detection)",
+        "examples": [
+          "heterodyne detection",
+          "heterodyne receiver"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + heterodyne (e.g., use heterodyne)",
+        "examples": [
+          "apply heterodyne techniques"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科技文化中象征创新和工程进步，尤其在20世纪初的无线电发明时期，代表了从模拟到数字信号处理的演变；在中文文化中，常与现代科技教育相关联，但缺乏直接的隐喻意义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于工程和科技教育语境",
+        "usage": "在美国的学术和工业环境中，'heterodyne' 经常出现在技术手册和专利文件中"
+      },
+      {
+        "region": "英国",
+        "variation": "与历史无线电技术相关，表达可能更正式",
+        "usage": "在英国的科学历史语境中，常用于描述早期广播技术的发展"
+      }
+    ],
+    "historicalContext": "与20世纪初的无线电革命相关联，例如Reginald Fessenden的发明，该词反映了工业革命后的科技进步；在文学和社会中，偶尔出现于科幻作品中，象征技术变革。",
+    "modernUsage": "在现代社交媒体和在线论坛中，'heterodyne' 主要出现在专业讨论中，如Reddit的技术子版块或YouTube的教育视频中，趋势显示其在全球数字化浪潮中的持续应用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个不同频率的波浪在海洋中相遇并产生新波浪的场景。",
+      "keyElements": [
+        "波浪",
+        "频率",
+        "混合"
+      ],
+      "emotionalConnection": "联结到个人对科技进步的兴奋感，例如回忆观看科幻电影时的惊奇"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Heterodyne 像 'hetero' (不同) + 'dyne' (动力) ，联想为 '不同动力混合'",
+        "explanation": "通过视觉联想将词汇与动态图像连接，提升认知保留率"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将发音 '/ˈhɛtəroʊdaɪn/' 联想为 'heat her own dine'，想象加热自己的晚餐过程",
+        "explanation": "利用声音相似性触发记忆路径，基于认知心理学中的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "frequency",
+      "mixer",
+      "signal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + heterodyne + object",
+        "description": "主语 + 动词 + heterodyne + 宾语 的结构，常用于技术描述",
+        "examples": [
+          "Engineers heterodyne signals in the lab."
+        ]
+      },
+      {
+        "pattern": "Heterodyne as adjective + noun",
+        "description": "用作形容词修饰名词的结构",
+        "examples": [
+          "A heterodyne system is essential for this application."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing heterodyne with homodyne",
+        "correction": "Use heterodyne for frequency mixing and homodyne for direct detection",
+        "explanation": "二者虽相关，但语义不同；学习者需注意技术术语的精确性"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /hɛtər'doʊn/",
+        "correction": "/ˈhɛtəroʊdaɪn/",
+        "explanation": "错误的音标可能导致听力误解，建议通过IPA练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked approximately 50,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "science"
+    ],
+    "tags": [
+      "electronics",
+      "signal processing",
+      "physics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

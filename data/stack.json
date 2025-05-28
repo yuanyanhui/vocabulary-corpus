@@ -1,0 +1,252 @@
+{
+  "word": "stack",
+  "phonetics": {
+    "british": "/stæk/",
+    "american": "/stæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A pile of objects arranged one on top of another, often neatly.",
+      "chineseTranslation": "一堆叠放的物体，通常整齐排列。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data structure that stores items in a last-in, first-out (LIFO) order.",
+      "chineseTranslation": "在计算机科学中，一种数据结构，按照后进先出（LIFO）的原则存储项目。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange objects in a stack or pile.",
+      "chineseTranslation": "将物体堆叠或排列成堆。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stack up",
+      "meaning": "堆积起来或积累",
+      "example": "The dishes began to stack up in the sink.",
+      "exampleTranslation": "盘子开始在水槽里堆积起来。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "call stack",
+      "meaning": "调用堆栈",
+      "example": "The call stack helps manage function calls in programming.",
+      "exampleTranslation": "调用堆栈有助于管理编程中的函数调用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "stack the deck",
+      "meaning": "操纵情况以获得不公平优势",
+      "example": "He tried to stack the deck in his favor during the negotiations.",
+      "exampleTranslation": "他在谈判中试图操纵情况以获得对自己有利的优势。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She carefully stacked the books on the shelf.",
+      "translation": "她仔细地将书堆放在书架上。",
+      "source": "Daily conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, a stack is essential for managing memory efficiently.",
+      "translation": "在编程中，堆栈对于高效管理内存至关重要。",
+      "source": "Technical article from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The waiter asked us to stack our plates before leaving the table.",
+      "translation": "服务员要求我们离开桌子前把盘子堆起来。",
+      "source": "Informal dialogue in BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle Dutch",
+    "rootWords": [
+      {
+        "root": "stac",
+        "meaning": "a heap or pile",
+        "language": "Middle Dutch"
+      }
+    ],
+    "historicalDevelopment": "源自中古荷兰语 'stac'，意为“一堆或堆积物”，后来通过中古英语演变为现代英语，扩展到包括抽象概念如计算机数据结构。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "stake",
+      "stick"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'stack' 的不同语义（如物理堆叠和计算机术语）分组记忆，以减少认知负荷；",
+      "通过视觉想象将词与实际场景关联，例如想象书籍堆叠的画面来强化词汇在脑海中的位置编码；",
+      "利用间隔重复系统（spaced repetition）复习，针对初级学习者从简单例句开始逐步增加复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pile",
+        "similarity": "0.8",
+        "context": "在日常语境中用于描述物体堆积，例如在厨房或仓库场景"
+      },
+      {
+        "word": "heap",
+        "similarity": "0.7",
+        "context": "在非正式语境中，表示杂乱堆积，与 'stack' 的整齐排列形成对比"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "在描述物体分布的语境中，表示分散而非堆积"
+      },
+      {
+        "word": "dispense",
+        "context": "在计算机语境中，表示从堆栈中移除元素"
+      }
+    ],
+    "hypernyms": [
+      "collection",
+      "structure"
+    ],
+    "hyponyms": [
+      "call stack",
+      "stack pointer"
+    ],
+    "collocations": [
+      {
+        "pattern": "stack + noun (e.g., stack of books)",
+        "examples": [
+          "a stack of pancakes"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + stack (e.g., to stack items)",
+        "examples": [
+          "to stack wood"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'stack' 象征组织和效率，尤其在现代科技语境中代表结构化思维，但在中国文化中可能与 '堆积' 类似，隐含过度积累的负面含义，如工作压力。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如软件开发",
+        "usage": "在美国英语中，'stack' 在科技行业流行，体现创新文化"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向日常用语，如书堆",
+        "usage": "在英国英语中，常用于非正式场合，强调实际应用"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'stack' 最初描述工厂中的材料堆积，后来扩展到计算机科学，反映了西方社会从体力劳动到数字时代的演变。",
+    "modernUsage": "在社交媒体和在线教育中，'stack' 常用于描述技能堆积（skill stack），体现当代职业发展的动态趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高塔状的书堆，代表 'stack' 的堆叠概念。",
+      "keyElements": [
+        "书籍塔、计算机图标、堆积物"
+      ],
+      "emotionalConnection": "联结个人经验，如童年时堆积积木的快乐，以触发积极情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'stack' 联想为 'stair stack'，想象楼梯状的堆积物。",
+        "explanation": "通过空间联想帮助初级学习者建立视觉连接，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-A-C-K: Stack Things And Create Knowledge.",
+        "explanation": "使用首字母缩略形成故事，增强叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "pile",
+      "heap",
+      "queue"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "stacks",
+      "pastTense": "stacked",
+      "pastParticiple": "stacked",
+      "presentParticiple": "stacking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., She stacks books)",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "He stacks the boxes carefully."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with modifier (e.g., a stack of papers)",
+        "description": "名词短语加修饰语，用于描述堆积物",
+        "examples": [
+          "The stack of documents is on the table."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'stack' with 'stock' in meaning",
+        "correction": "Use 'stack' for physical piles and 'stock' for inventory",
+        "explanation": "二者虽音似但语义不同，'stack' 强调排列，'stock' 强调储备"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'stacked' for past",
+        "explanation": "学习者常忽略动词时态一致性，导致句子不完整"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "daily life",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "organization",
+      "structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

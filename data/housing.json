@@ -1,0 +1,253 @@
+{
+  "word": "housing",
+  "phonetics": {
+    "british": "/ˈhaʊzɪŋ/",
+    "american": "/ˈhaʊzɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Buildings or areas of buildings intended for people to live in, often referring to residential accommodations.",
+      "chineseTranslation": "住房；房屋",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A protective casing or enclosure for mechanical parts, such as in engineering.",
+      "chineseTranslation": "外壳；护套",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "social housing",
+      "meaning": "政府或公共机构提供的低收入群体住房",
+      "example": "The government is investing in social housing to address homelessness.",
+      "exampleTranslation": "政府正在投资社会住房以解决无家可归问题。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "affordable housing",
+      "meaning": "价格合理的住房，针对中低收入家庭",
+      "example": "Many cities are developing affordable housing projects to combat rising rents.",
+      "exampleTranslation": "许多城市正在开发负担得起的住房项目以应对不断上涨的租金。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "housing market",
+      "meaning": "房地产市场，包括买卖和租赁住房",
+      "example": "The housing market has been volatile due to economic fluctuations.",
+      "exampleTranslation": "由于经济波动，房地产市场一直不稳定。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The city is facing a severe housing shortage, making it difficult for young families to find homes.",
+      "translation": "这座城市正面临严重的住房短缺，使得年轻家庭难以找到住所。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In engineering, the housing of the engine must be designed to withstand high temperatures.",
+      "translation": "在工程学中，发动机的外壳必须设计成能承受高温。",
+      "source": "Technical manual (e.g., from engineering texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Public policies on housing have evolved to include incentives for green building practices.",
+      "translation": "公共住房政策已演变为包括对绿色建筑实践的激励措施。",
+      "source": "Academic paper (e.g., from urban studies)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "hus",
+        "meaning": "house or dwelling",
+        "language": "Old English"
+      },
+      {
+        "root": "-ing",
+        "meaning": "suffix indicating a collection or process",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'hus'（意为房屋），通过添加 -ing 后缀演变为表示房屋集合或相关系统的现代意义。从中世纪英语开始，该词扩展到包括居住环境，并在工业革命期间发展出技术含义，如机械外壳。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "house",
+      "household",
+      "housing estate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'housing' 与日常生活场景关联，例如想象一个社区房屋图景，以增强语境记忆；",
+      "使用间隔重复（spaced repetition）复习词汇在不同语域中的用法，以提高长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "accommodation",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如讨论租房或临时住所"
+      },
+      {
+        "word": "lodging",
+        "similarity": "0.7",
+        "context": "常用于非正式或旅游语境中，指短期住房"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "homelessness",
+        "context": "在社会议题语境中，对比稳定住房与无家可归状态"
+      },
+      {
+        "word": "eviction",
+        "context": "在法律或房地产语境中，指失去住房的过程"
+      }
+    ],
+    "hypernyms": [
+      "shelter"
+    ],
+    "hyponyms": [
+      "apartment",
+      "condominium",
+      "public housing"
+    ],
+    "collocations": [
+      {
+        "pattern": "housing + noun (e.g., housing market)",
+        "examples": [
+          "housing crisis",
+          "housing policy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + housing (e.g., affordable housing)",
+        "examples": [
+          "social housing",
+          "subsidized housing"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'housing' 象征社会公平和经济稳定，常隐含阶层差异和社会流动性问题，例如在美国梦中，拥有住房代表成功。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常使用 'council housing' 表示政府提供的公共住房",
+        "usage": "在英国英语中，此词常与社会福利政策相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "偏好 'housing development' 表示新住宅区",
+        "usage": "在美国英语中，常与房地产市场和个人所有权相关"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的城市化进程相关联，例如19世纪英国的住房改革运动，反对贫民窟，推动现代住房标准。",
+    "modernUsage": "在社交媒体和数字平台上，'housing' 常用于讨论环境可持续性和 affordability 问题，如 TikTok 上的住房趋势视频"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个社区中多栋房屋，代表人们的生活空间。",
+      "keyElements": [
+        "房屋建筑",
+        "家庭场景",
+        "城市背景"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己的家，以触发情感共鸣并加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Housing 听起来像 'house-ing'，就像在建造或提供房屋。",
+        "explanation": "通过声音联想将词汇与基本概念连接，基于认知联想理论以提升回忆效率"
+      },
+      {
+        "type": "缩略",
+        "content": "H-O-U-S-I-N-G: House Offers Useful Shelter In New Grounds.",
+        "explanation": "使用首字母缩略法创建故事，结合视觉想象以辅助中级学习者记忆多义词"
+      }
+    ],
+    "wordAssociations": [
+      "home",
+      "dwelling",
+      "residence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "housings (用于技术语境，如机械外壳)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the housing market)",
+        "description": "作为名词使用，常置于短语中描述具体类型或状态",
+        "examples": [
+          "The housing in this area is affordable."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., housing for the elderly)",
+        "description": "与介词结合，表示目标或用途",
+        "examples": [
+          "We need housing for low-income families."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'house' as a verb",
+        "correction": "Use 'housing' only as a noun; for verb, use 'to house'",
+        "explanation": "学习者常误用为动词形式，需区分词性以避免语义错误"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify context, e.g., residential vs. technical",
+        "explanation": "中级学习者可能忽略语境，导致在正式写作中混淆含义"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "urban planning",
+      "economics",
+      "social policy"
+    ],
+    "tags": [
+      "real estate",
+      "accommodation",
+      "engineering"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

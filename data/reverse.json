@@ -1,0 +1,259 @@
+{
+  "word": "reverse",
+  "phonetics": {
+    "british": "/rɪˈvɜːs/",
+    "american": "/rɪˈvɝs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to change the position, order, or direction of something to its opposite",
+      "chineseTranslation": "颠倒；逆转",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the opposite or contrary to what is expected or usual",
+      "chineseTranslation": "相反；反面",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "opposite or contrary to a previous or normal condition",
+      "chineseTranslation": "相反的；颠倒的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in reverse",
+      "meaning": "以相反的方向或顺序",
+      "example": "The car was moving in reverse down the driveway.",
+      "exampleTranslation": "汽车沿着车道向后倒。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "reverse order",
+      "meaning": "颠倒的顺序",
+      "example": "Please list the items in reverse order, from newest to oldest.",
+      "exampleTranslation": "请按颠倒顺序列出项目，从最新到最旧。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "reverse gear",
+      "meaning": "倒挡",
+      "example": "Shift into reverse gear to back up the vehicle.",
+      "exampleTranslation": "换入倒挡以倒车。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She decided to reverse her decision after hearing the new evidence.",
+      "translation": "她在听到新证据后决定撤销她的决定。",
+      "source": "Modern legal discourse (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The reverse of the painting revealed a hidden signature.",
+      "translation": "画的反面揭示了一个隐藏的签名。",
+      "source": "Literary description (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some cultures, reverse psychology is used to influence behavior.",
+      "translation": "在某些文化中，反向心理被用来影响行为。",
+      "source": "Psychological texts (e.g., from academic sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "reversus",
+        "meaning": "turned back",
+        "language": "Latin"
+      },
+      {
+        "root": "vertere",
+        "meaning": "to turn",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'reversus'，是 'revertere' 的过去分词，意为 '转回'。在中世纪拉丁语中演变为 'reversus'，进入古法语作为 'revers'，然后在14世纪进入英语，最初用于表示 '相反' 或 '颠倒'，逐渐扩展到现代意义，如方向逆转或决策撤销。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "revert",
+      "version",
+      "diverse"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆词根 'vert'，将其与日常转动物体联系；结合视觉想象，如想象汽车倒车来强化语义关联；针对中文学习者，强调与 '反转' 的母语对应以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "invert",
+        "similarity": "0.8",
+        "context": "在科学或数学语境中，用于描述翻转或颠倒结构"
+      },
+      {
+        "word": "overturn",
+        "similarity": "0.7",
+        "context": "在法律或社会语境中，用于表示推翻决定"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maintain",
+        "context": "在正式语境中，表示保持原有状态"
+      },
+      {
+        "word": "preserve",
+        "context": "在文化或历史语境中，表示保留不变"
+      }
+    ],
+    "hypernyms": [
+      "change",
+      "alter"
+    ],
+    "hyponyms": [
+      "backtrack",
+      "undo"
+    ],
+    "collocations": [
+      {
+        "pattern": "reverse + noun (e.g., reverse a decision)",
+        "examples": [
+          "reverse a policy",
+          "reverse a trend"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + reverse",
+        "examples": [
+          "in reverse order"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征变革或反思，常用于讨论技术创新（如软件逆向工程）或社会运动（如逆转不公），体现了动态变化的价值。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 'reverse engineering'",
+        "usage": "在科技领域频繁出现，强调创新和分析"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于正式或历史语境，如 'reverse a verdict'",
+        "usage": "在法律和学术讨论中常见"
+      }
+    ],
+    "historicalContext": "与工业革命相关，最初用于机械装置（如齿轮逆转），后来扩展到社会和政治领域，如20世纪的公民权利运动中逆转歧视政策。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论算法逆转或心理操控，如TikTok上的逆向思维视频"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个汽车在倒车时，方向盘转动，场景从正向变为反向。",
+      "keyElements": [
+        "汽车",
+        "方向盘",
+        "转动"
+      ],
+      "emotionalConnection": "联结个人驾驶经历或童年玩具车游戏，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Reverse rhymes with 'verse' – think of reversing the lines in a poem.",
+        "explanation": "通过声音联想将词与诗歌颠倒联系，增强记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-V-E-R-S-E: 'R' for reverse, 'E' for end (opposite beginning).",
+        "explanation": "使用首字母缩写结合语义对比，基于认知科学的空间记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "invert",
+      "flip",
+      "undo"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "reversed",
+      "pastParticiple": "reversed",
+      "presentParticiple": "reversing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + reverse + object",
+        "description": "主语 + 逆转 + 宾语结构，常用于动作描述",
+        "examples": [
+          "They reverse the process."
+        ]
+      },
+      {
+        "pattern": "In reverse",
+        "description": "表示方向或顺序的状语结构",
+        "examples": [
+          "The sequence is in reverse."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'reverse' as a noun without article (e.g., 'in reverse' incorrectly as a verb)",
+        "correction": "Use correctly in phrases like 'in reverse order'",
+        "explanation": "中文学习者常混淆词性，导致句法错误；需注意语境区分"
+      },
+      {
+        "mistake": "Confusing with 'revert'",
+        "correction": "Use 'reverse' for changing direction, 'revert' for returning",
+        "explanation": "语义细微差异可能引起混用；通过语境练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "law",
+      "daily communication"
+    ],
+    "tags": [
+      "action",
+      "change",
+      "opposite"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

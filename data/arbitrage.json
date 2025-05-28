@@ -1,0 +1,233 @@
+{
+  "word": "arbitrage",
+  "phonetics": {
+    "british": "/ˈɑː.bɪ.trɑːʒ/",
+    "american": "/ˈɑr.bɪ.trɑːʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The practice of buying a security, commodity, or currency in one market and simultaneously selling it in another market at a higher price to profit from the price difference.",
+      "chineseTranslation": "套利",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To engage in arbitrage by exploiting price differences in different markets.",
+      "chineseTranslation": "进行套利",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arbitrage opportunity",
+      "meaning": "套利机会",
+      "example": "Investors are always on the lookout for arbitrage opportunities in the stock market.",
+      "exampleTranslation": "投资者总是在股票市场寻找套利机会。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "spatial arbitrage",
+      "meaning": "空间套利，指在不同地理位置的市场间进行套利",
+      "example": "Spatial arbitrage involves buying goods in one country and selling them in another where prices are higher.",
+      "exampleTranslation": "空间套利涉及在一个国家购买商品，然后在另一个价格更高的国家出售它们。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The trader made a significant profit through arbitrage by buying euros in New York and selling them in London.",
+      "translation": "交易员通过在纽约购买欧元并在伦敦出售它们来进行套利，从而获得了可观的利润。",
+      "source": "Financial news article (e.g., from Bloomberg)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the crypto market, arbitrage can occur when the price of Bitcoin differs between exchanges.",
+      "translation": "在加密货币市场，当比特币在不同交易所的价格不同时，就会出现套利机会。",
+      "source": "Modern business literature (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Arbitrage strategies are commonly used in hedge funds to minimize risk while maximizing returns.",
+      "translation": "套利策略在对冲基金中常用，以最小化风险同时最大化回报。",
+      "source": "Academic finance text (e.g., from Investopedia)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "arbitr-",
+        "meaning": "to judge or decide",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'arbitrari'，意为判断或裁决，最初用于法律语境中指仲裁过程。17世纪传入英语，通过法语演变为金融术语，指利用价格差异获利的行为，随着全球贸易和金融市场的演变，该词在19世纪扩展到经济领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "arbitration",
+      "arbitrator"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆金融术语；将词汇与个人经验关联，例如想象国际旅行中的价格差异；通过视觉映射将'arbitrage'与天平或市场图表联系，以增强语义记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "speculation",
+        "similarity": "0.6",
+        "context": "在风险投资语境中适用，但'arbitrage'更强调无风险获利"
+      },
+      {
+        "word": "hedging",
+        "similarity": "0.5",
+        "context": "在风险管理语境中适用，通常涉及对冲而非直接价格差异"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "speculation",
+        "context": "与投机不同，'arbitrage'强调低风险，而投机涉及高不确定性"
+      }
+    ],
+    "hypernyms": [
+      "trading"
+    ],
+    "hyponyms": [
+      "triangular arbitrage",
+      "statistical arbitrage"
+    ],
+    "collocations": [
+      {
+        "pattern": "arbitrage + noun (e.g., opportunity, strategy)",
+        "examples": [
+          "arbitrage opportunity",
+          "arbitrage strategy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + arbitrage (e.g., perform arbitrage)",
+        "examples": [
+          "engage in arbitrage"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方金融文化中象征高效市场利用，隐含语义为机会主义和全球经济互联，常与资本主义制度相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于高频交易语境",
+        "usage": "在美国金融市场中，'arbitrage' 经常与算法交易结合"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调传统金融工具",
+        "usage": "在英国，'arbitrage' 多见于外汇和商品市场"
+      }
+    ],
+    "historicalContext": "与18世纪工业革命和全球贸易扩张相关，在文学如狄更斯作品中隐喻社会不公；社会背景中反映了殖民主义时代的价格差异。",
+    "modernUsage": "在社交媒体和数字经济中流行，例如Reddit上的加密货币讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，一端是低价市场，另一端是高价市场，代表平衡价格差异。",
+      "keyElements": [
+        "天平秤",
+        "价格标签",
+        "全球地图"
+      ],
+      "emotionalConnection": "联结到个人购物的兴奋感，例如在不同商店比价购买商品"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Arbitrage 听起来像 'arbit' + 'rage'，想象愤怒的仲裁者（arbit）在市场中怒吼以平衡价格。",
+        "explanation": "通过声音联想和视觉图像增强记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "A-R-B: Action for Risk-Free Benefit",
+        "explanation": "使用首字母缩略来简化词汇记忆，促进长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "trade",
+      "profit",
+      "market"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "arbitrages",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase structure",
+        "description": "作为名词，常用于主语或宾语位置，例如 'Arbitrage is a key strategy.'",
+        "examples": [
+          "The arbitrage in currencies yielded high returns."
+        ]
+      },
+      {
+        "pattern": "Verb usage with objects",
+        "description": "作为动词，常后接介词短语，例如 'to arbitrage between markets'",
+        "examples": [
+          "They arbitrage between exchanges."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'arbitration'",
+        "correction": "Use 'arbitrage' for financial contexts and 'arbitration' for legal dispute resolution",
+        "explanation": "二者虽同源，但语义不同，错误可能源于词根相似"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as a verb only in formal contexts; avoid in everyday speech",
+        "explanation": "作为动词较少用，初级学习者易误用为名词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "finance",
+      "economics",
+      "business"
+    ],
+    "tags": [
+      "financial term",
+      "trading",
+      "investment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

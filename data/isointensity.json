@@ -1,0 +1,235 @@
+{
+  "word": "isointensity",
+  "phonetics": {
+    "british": "/ˌaɪsəʊɪnˈtɛnsɪti/",
+    "american": "/ˌaɪsoʊɪnˈtɛnsəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In medical imaging, such as MRI, a region or area that exhibits the same signal intensity as the surrounding tissues or reference structures.",
+      "chineseTranslation": "等强度",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "isointense lesion",
+      "meaning": "等强度的病变",
+      "example": "The radiologist identified an isointense lesion on the MRI scan.",
+      "exampleTranslation": "放射科医生在MRI扫描中识别出一个等强度的病变。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "isointense to surrounding tissue",
+      "meaning": "与周围组织具有相同强度",
+      "example": "The tumor appeared isointense to surrounding tissue on T2-weighted images.",
+      "exampleTranslation": "在T2加权图像上，肿瘤与周围组织呈现等强度。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the MRI report, the area of isointensity suggested no significant abnormality.",
+      "translation": "在MRI报告中，等强度区域表明没有显著异常。",
+      "source": "Medical literature (e.g., radiology journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The isointensity of the signal made it challenging to distinguish the boundaries of the structure.",
+      "translation": "信号的等强度使得区分结构的边界变得具有挑战性。",
+      "source": "Scientific articles (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers noted isointensity in the brain scans of healthy volunteers.",
+      "translation": "研究人员在健康志愿者的脑部扫描中观察到等强度。",
+      "source": "Academic papers (e.g., neuroscience studies)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "iso-",
+        "meaning": "equal",
+        "language": "Greek (from ἴσος, ísos)"
+      },
+      {
+        "root": "intensity",
+        "meaning": "strength or magnitude",
+        "language": "English (from Latin intensitas)"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek prefix 'iso-' meaning 'equal', combined with 'intensity' from Latin 'intensitas' (meaning tension or strength). It emerged in the mid-20th century with the advancement of medical imaging technologies, particularly in the 1970s with MRI development, to describe regions of equal signal strength in diagnostic imaging.",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "isometric",
+      "isotope",
+      "hyperintensity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象MRI扫描中的等亮度区域，以增强空间记忆；使用重复曝光策略，通过专业文献逐步加深理解，避免抽象概念的认知负担。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "equi-intensity",
+        "similarity": "0.8",
+        "context": "在医学成像中，用于描述信号强度相等的区域"
+      },
+      {
+        "word": "homogeneous intensity",
+        "similarity": "0.7",
+        "context": "在科学语境中，表示均匀的强度分布"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hyperintensity",
+        "context": "在医学成像中，用于对比，表示高于周围组织的强度"
+      },
+      {
+        "word": "hypointensity",
+        "context": "表示低于周围组织的强度，常用于诊断"
+      }
+    ],
+    "hypernyms": [
+      "intensity"
+    ],
+    "hyponyms": [
+      "T1 isointensity",
+      "T2 isointensity"
+    ],
+    "collocations": [
+      {
+        "pattern": "isointense to [noun]",
+        "examples": [
+          "isointense to surrounding tissue"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "areas of isointensity",
+        "examples": [
+          "The scan revealed areas of isointensity in the cerebral region"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征精确诊断和科技进步，常隐含在临床实践中强调客观性和科学性；在跨文化语境中，非英语国家如中国可能通过翻译如'等强度'来适应本地医疗教育。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English medical literature with emphasis on MRI and CT scans.",
+        "usage": "在临床报告中频繁出现，反映了美国的医学技术主导地位"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage, but may appear in British English with slight phonetic differences.",
+        "usage": "在学术出版物中保持技术中性"
+      }
+    ],
+    "historicalContext": "与20世纪后期的医学成像革命相关，如MRI的发明，体现了科学进步对语言的影响；在文学或社会背景中较少出现，主要限于专业领域。",
+    "modernUsage": "在社交媒体和在线健康论坛中，偶尔用于科普，但多限于专业讨论；在数字时代，通过AI辅助诊断工具传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个MRI扫描图像，其中一个区域与周围部分亮度相同，如同一片灰色海洋中的岛屿。",
+      "keyElements": [
+        "MRI图像",
+        "等亮度区域",
+        "灰色海洋"
+      ],
+      "emotionalConnection": "联结到个人医疗经历，如做过扫描，触发对健康的关注和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Iso-Intensity: Think of 'ISO' as in photography for equal exposure, linked to equal intensity in scans.",
+        "explanation": "通过视觉联想将'iso-'与摄影中的等曝光联系，运用认知科学中的双编码理论增强记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce as 'eye-so-in-ten-sity' and associate with 'eye-so' like equal eyes viewing the same scene.",
+        "explanation": "利用声音与视觉的联觉，帮助初级学习者通过感官整合降低记忆难度"
+      }
+    ],
+    "wordAssociations": [
+      "equal",
+      "signal",
+      "scan",
+      "MRI"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "isointensities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与其他术语搭配，如'in the context of isointensity'",
+        "examples": [
+          "The isointensity observed in the scan indicated stability."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases",
+        "description": "常用于短语中，如'isointense to surrounding areas'",
+        "examples": [
+          "It was isointense to the reference tissue."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'intensity' alone",
+        "correction": "Use 'isointensity' for equal intensity contexts",
+        "explanation": "学习者常忽略前缀'iso-'，导致语义偏差；通过语境练习可避免"
+      },
+      {
+        "mistake": "Misusing as an adjective",
+        "correction": "Treat as a noun, e.g., 'an area of isointensity'",
+        "explanation": "由于类似形容词形式，初学者可能错误使用；参考专业语料可纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 10,000 in COCA corpus)",
+    "domains": [
+      "医学",
+      "科技",
+      "影像学"
+    ],
+    "tags": [
+      "技术术语",
+      "医学词汇",
+      "诊断"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "PubMed medical corpus"
+    ]
+  }
+}

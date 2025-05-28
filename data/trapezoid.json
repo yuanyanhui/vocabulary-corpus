@@ -1,0 +1,232 @@
+{
+  "word": "trapezoid",
+  "phonetics": {
+    "british": "/ˈtræpɪzɔɪd/",
+    "american": "/ˈtræpəzɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quadrilateral with at least one pair of parallel sides.",
+      "chineseTranslation": "四边形，其中至少有一对边平行",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In anatomy, a bone in the wrist that is roughly trapezoidal in shape.",
+      "chineseTranslation": "解剖学中，腕部的一块大致呈梯形骨头",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "trapezoid rule",
+      "meaning": "梯形法则，用于数学积分逼近",
+      "example": "The trapezoid rule is commonly used in calculus to approximate integrals.",
+      "exampleTranslation": "梯形法则在微积分中常用于逼近积分。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "isosceles trapezoid",
+      "meaning": "等腰梯形，具有一对平行边且非平行边相等",
+      "example": "An isosceles trapezoid has equal non-parallel sides.",
+      "exampleTranslation": "等腰梯形具有相等的非平行边。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In geometry class, we learned how to calculate the area of a trapezoid.",
+      "translation": "在几何课上，我们学习了如何计算梯形的面积。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The architect designed the building with a trapezoid-shaped window for a modern look.",
+      "translation": "建筑师设计了带有梯形窗户的建筑，以营造现代感。",
+      "source": "Architecture magazine",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Scientists use the trapezoid bone in forensic analysis to identify skeletal remains.",
+      "translation": "科学家们在法医分析中使用梯形骨来识别骨骼遗骸。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "trapeza",
+        "meaning": "桌子",
+        "language": "希腊语"
+      },
+      {
+        "root": "eidos",
+        "meaning": "形状",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'trapezion'，意为小桌子或台子，后经晚期拉丁语 'trapezoides' 演变为描述几何形状的术语。在16世纪进入英语，用于指代具有平行边的四边形，随着数学发展，该词在科学语境中标准化。",
+    "firstKnownUse": "16世纪",
+    "relatedWords": [
+      "trapezium",
+      "trapezoidal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合视觉化学习原理，将词汇与几何图形关联，例如绘制梯形来强化记忆；利用间隔重复法复习，以提升长期保留效果；对于母语为中文的学习者，联想汉字'梯形'以建立跨语言连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quadrilateral",
+        "similarity": "0.7",
+        "context": "在一般几何语境中，但不精确，仅当强调平行边时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "circle",
+        "context": "在形状分类中，代表非多边形或无平行边的形状"
+      }
+    ],
+    "hypernyms": [
+      "quadrilateral"
+    ],
+    "hyponyms": [
+      "isosceles trapezoid"
+    ],
+    "collocations": [
+      {
+        "pattern": "trapezoid + noun (e.g., shape, area)",
+        "examples": [
+          "trapezoid shape",
+          "trapezoid area"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + trapezoid (e.g., isosceles trapezoid)",
+        "examples": [
+          "isosceles trapezoid"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育体系中象征数学和几何逻辑的普适性，无显著文化隐喻，但在全球 STEM 教育中代表理性思维和精确性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "在英国英语中，'trapezoid' 可能指等腰梯形，而 'trapezium' 指一般梯形",
+        "usage": "反映英式英语的几何术语偏好，需要注意跨大西洋差异以避免混淆"
+      },
+      {
+        "region": "美国",
+        "variation": "标准用于指任何具有至少一对平行边的四边形",
+        "usage": "在美式英语教育中更常见，体现了实用主义"
+      }
+    ],
+    "historicalContext": "与古希腊数学传统相关，如欧几里得的几何学，在文艺复兴时期传入英语世界，体现了科学知识的跨文化传播。",
+    "modernUsage": "在当代数字媒体和在线教育中流行，例如 Khan Academy 等平台，常用于教学视频，反映全球化的学习趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个倾斜的桌子，顶部和底部平行，代表梯形的形状。",
+      "keyElements": [
+        "平行边",
+        "四边形",
+        "桌子形象"
+      ],
+      "emotionalConnection": "联结个人经验，如回想童年画几何图形的乐趣，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trap-ez-oid 听起来像 'trap'（陷阱）和 'ez'（easy的缩写），所以想象一个容易设陷阱的形状。",
+        "explanation": "通过声音联想和视觉化，帮助记忆词汇的发音和含义，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-A-P: Two sides are parallel.",
+        "explanation": "使用首字母缩写强化关键特征，促进短期到长期记忆的转化"
+      }
+    ],
+    "wordAssociations": [
+      "shape",
+      "geometry",
+      "parallel"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "trapezoids",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + trapezoid",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "The trapezoid is a common shape in architecture."
+        ]
+      },
+      {
+        "pattern": "Adjective + trapezoid",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "An isosceles trapezoid has equal legs."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'trapezium'",
+        "correction": "Use 'trapezoid' for a quadrilateral with at least one pair of parallel sides in American English",
+        "explanation": "源自英美英语差异，学习者需根据语境调整"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "trapezoids",
+        "explanation": "简单添加 -s，但中文母语者可能遗漏复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约 15,000",
+    "domains": [
+      "mathematics",
+      "geometry",
+      "science"
+    ],
+    "tags": [
+      "shape",
+      "quadrilateral",
+      "technical term"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "word": "plane",
+  "phonetics": {
+    "british": "/pleɪn/",
+    "american": "/pleɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A powered flying vehicle with wings and one or more engines, used for traveling through the air.",
+      "chineseTranslation": "飞机",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A flat or level surface.",
+      "chineseTranslation": "平面",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A tool used for smoothing or leveling wood by shaving off thin layers.",
+      "chineseTranslation": "刨子（用于木工的工具）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To smooth a surface with a plane.",
+      "chineseTranslation": "用刨子刨平",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To travel in an aircraft.",
+      "chineseTranslation": "乘飞机旅行",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "catch a plane",
+      "meaning": "赶上飞机",
+      "example": "I need to catch a plane to New York early tomorrow.",
+      "exampleTranslation": "我明天一早需要赶上飞往纽约的飞机。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "on the plane",
+      "meaning": "在飞机上",
+      "example": "She felt nervous on the plane during turbulence.",
+      "exampleTranslation": "她在飞机遇到气流时感到紧张。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "plane ticket",
+      "meaning": "机票",
+      "example": "He booked a plane ticket for his business trip.",
+      "exampleTranslation": "他为商务旅行预订了机票。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "level plane",
+      "meaning": "水平平面",
+      "example": "The architect designed the building on a level plane.",
+      "exampleTranslation": "建筑师在水平平面上设计了建筑物。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The plane took off smoothly despite the bad weather.",
+      "translation": "尽管天气恶劣，飞机还是顺利起飞了。",
+      "source": "Modern news article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In geometry, a plane is defined as a flat, two-dimensional surface.",
+      "translation": "在几何学中，平面被定义为一个平坦的二维表面。",
+      "source": "Educational textbook (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He used a plane to shape the wooden edge of the table.",
+      "translation": "他用刨子修整桌子的木边。",
+      "source": "Literature or craft descriptions",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We decided to plane to Europe for our summer vacation.",
+      "translation": "我们决定乘飞机去欧洲度过暑假。",
+      "source": "Conversational dialogue",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "planus",
+        "meaning": "flat or level",
+        "language": "Latin"
+      },
+      {
+        "root": "aero-",
+        "meaning": "air",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'planus'，意为'平坦'，最初用于描述表面或几何概念。17世纪开始用于工具（木工刨子）。19世纪，英语中演变为航空含义，受法语影响，形成现代'airplane'或简化为'plane'，反映了工业革命后的交通发展。",
+    "firstKnownUse": "约14世纪（用于表面含义），19世纪晚期（用于飞机）",
+    "relatedWords": [
+      "plain",
+      "planish",
+      "aeroplane"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (简单，因为音标规则性强，且无复杂音节)",
+    "spellingDifficulty": "4 (容易拼写，但易与'plain'混淆)",
+    "meaningComplexity": "6 (多义词，需区分上下文)",
+    "usageComplexity": "5 (常见于日常对话，但专业语境需注意)",
+    "learningTips": [
+      "使用间隔重复法复习多义词；结合图像联想飞机与平面的视觉差异；根据认知科学，创建个人故事将词汇与实际经历关联，以增强记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "aircraft",
+        "similarity": "0.8",
+        "context": "适用于航空语境，如交通工具"
+      },
+      {
+        "word": "flat surface",
+        "similarity": "0.7",
+        "context": "适用于几何或物理语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uneven",
+        "context": "在描述表面时，表示不平坦"
+      },
+      {
+        "word": "train",
+        "context": "在交通工具语境中，表示地面运输方式"
+      }
+    ],
+    "hypernyms": [
+      "vehicle",
+      "surface"
+    ],
+    "hyponyms": [
+      "jet plane",
+      "fighter plane"
+    ],
+    "collocations": [
+      {
+        "pattern": "plane + noun (e.g., plane crash)",
+        "examples": [
+          "plane crash",
+          "plane journey"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + plane (e.g., board a plane)",
+        "examples": [
+          "board a plane",
+          "fly a plane"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中象征现代交通和全球化，隐含高效与冒险的语义；在英国，更多与殖民历史和航空创新相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "常用 'plane' 指飞机",
+        "usage": "在日常对话中频繁出现，如商务或休闲旅行"
+      },
+      {
+        "region": "英国",
+        "variation": "偏好 'aeroplane' 在正式语境",
+        "usage": "在文学或正式文件中使用，以强调历史传承"
+      }
+    ],
+    "historicalContext": "与20世纪航空革命相关，如第一次世界大战中的飞机使用，影响了全球文化交流和社会流动性。",
+    "modernUsage": "在社交媒体上，常用于分享旅行经历，如#PlaneLife，反映当代数字文化中的快速生活节奏。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个平坦的跑道上有一架飞机起飞的场景",
+      "keyElements": [
+        "飞机翅膀的平直线条",
+        "跑道的水平表面"
+      ],
+      "emotionalConnection": "联结个人首次乘飞机的兴奋感，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Plane sounds like 'plain' (平坦)，所以联想飞机在平坦天空飞行",
+        "explanation": "通过声音联想加强词汇区分，避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "P-L-A-N-E: P for plane (飞机), L for level (水平)",
+        "explanation": "使用首字母缩写结合多义，基于认知科学的空间记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "flight",
+      "airport",
+      "smooth",
+      "journey"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "planes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + plane",
+        "description": "主语 + 动词 + plane（作为宾语）",
+        "examples": [
+          "I fly a plane."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with plane",
+        "description": "使用介词短语，如 'on the plane'",
+        "examples": [
+          "We waited on the plane."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'plane' with 'plain'",
+        "correction": "Use 'plane' for aircraft or tool",
+        "explanation": "二者发音相似，但语义不同；学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'plane' as a verb correctly in context",
+        "explanation": "作为动词时，常与特定对象搭配，如 'plane the wood'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "transportation",
+      "science",
+      "daily life"
+    ],
+    "tags": [
+      "transport",
+      "geometry",
+      "tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

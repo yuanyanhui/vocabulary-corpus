@@ -1,0 +1,240 @@
+{
+  "word": "breadboard",
+  "phonetics": {
+    "british": "/ˈbrɛd.bɔːd/",
+    "american": "/ˈbrɛd.bɔrd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A flat board used for cutting bread or kneading dough.",
+      "chineseTranslation": "切面包的板子或揉面团的板子",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An insulated board with holes and metal strips used for making temporary electronic circuits without soldering.",
+      "chineseTranslation": "面包板（用于电子原型制作的板子）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "breadboard prototype",
+      "meaning": "面包板原型",
+      "example": "Engineers often start with a breadboard prototype before finalizing the design.",
+      "exampleTranslation": "工程师通常先用面包板原型开始，然后再 finalized 设计。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "work on a breadboard",
+      "meaning": "在面包板上工作",
+      "example": "The student learned to work on a breadboard during the electronics class.",
+      "exampleTranslation": "学生在电子课上学会了在面包板上工作。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the kitchen, she used the breadboard to slice fresh bread for breakfast.",
+      "translation": "在厨房，她用切面包的板子切新鮮面包作早餐。",
+      "source": "Everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The inventor tested the new circuit on a breadboard to check for any errors.",
+      "translation": "发明家在面包板上测试新电路以检查任何错误。",
+      "source": "Technical article from IEEE publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During the workshop, participants built a simple amplifier using just a breadboard and components.",
+      "translation": "在工作坊中，参与者使用面包板和组件构建了一个简单的放大器。",
+      "source": "Educational video on YouTube",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "bread",
+        "meaning": "Baked food made from dough",
+        "language": "Old English (from Germanic roots)"
+      },
+      {
+        "root": "board",
+        "meaning": "A flat piece of material, such as wood",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的日常用语，指用于切面包的木板；20世纪中期，在电子工程领域被借喻为临时电路板，因为早期电子爱好者使用厨房面包板作为即兴工具进行实验，从而演变为现代技术术语。",
+    "firstKnownUse": "19th century for literal meaning; mid-20th century for electronics",
+    "relatedWords": [
+      "circuit board",
+      "protoboard",
+      "solderless breadboard"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过视觉图像将'breadboard'联想成厨房场景中的面包和板子，以加强语义记忆；对于电子含义，利用间隔重复法结合实际实验视频，强化上下文关联；根据认知科学，创建个人故事将词汇与日常生活或专业兴趣连接，以提升长期保留效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cutting board",
+        "similarity": "0.7",
+        "context": "厨房或家居语境中，指日常工具"
+      },
+      {
+        "word": "protoboard",
+        "similarity": "0.9",
+        "context": "电子工程语境中，用于原型设计"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "permanent circuit",
+        "context": "与临时性相对，在电子领域表示固定电路板"
+      }
+    ],
+    "hypernyms": [
+      "board"
+    ],
+    "hyponyms": [
+      "solderless breadboard"
+    ],
+    "collocations": [
+      {
+        "pattern": "on a breadboard",
+        "examples": [
+          "test on a breadboard",
+          "build on a breadboard"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "breadboard for",
+        "examples": [
+          "breadboard for circuits"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征简单实用工具，体现家居生活的温馨；在科技文化中，代表创新和实验精神，尤其在英语国家如美国的技术社区中，突出DIY（Do It Yourself）文化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于电子工程语境",
+        "usage": "在美国教育和专业环境中，breadboard 是电子学习的标准工具，常在学校和在线教程中出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于厨房语境，但电子含义也通用",
+        "usage": "在英国，偏向正式技术术语，使用频率与美国类似，但口语中可能更强调历史起源"
+      }
+    ],
+    "historicalContext": "与工业革命和电子技术发展相关，起初是家居用品，后来在20世纪电子革命中成为创新象征，出现在文学和历史文件中，如早期的电子爱好者回忆录。",
+    "modernUsage": "在现代社交媒体和在线平台如Reddit或YouTube教程中流行，特别是在全球技术社区中，用于分享DIY项目，反映数字时代的技术民主化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个厨房场景：一个木板上放着新鲜面包，同时切换到实验室场景：一个带孔的板子连接着电线。",
+      "keyElements": [
+        "面包",
+        "木板",
+        "电路",
+        "实验"
+      ],
+      "emotionalConnection": "联结到个人烹饪经历或第一次组装电子项目的兴奋感，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Breadboard 像 'bread' (面包) 加 'board' (板子)，扩展到电子实验板。",
+        "explanation": "使用视觉联想将词汇分解为熟悉部分，基于认知科学的空间记忆原理增强保留"
+      },
+      {
+        "type": "缩略",
+        "content": "B-Board: Bread for kitchen, Board for circuits.",
+        "explanation": "通过缩写创建简单口诀，帮助区分多重含义"
+      }
+    ],
+    "wordAssociations": [
+      "bread",
+      "board",
+      "circuit",
+      "prototype"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "breadboards",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject or object",
+        "description": "作为名词在句中用作主语或宾语",
+        "examples": [
+          "The breadboard is essential for prototyping."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词短语结合，如 'on a breadboard'",
+        "examples": [
+          "They tested the device on a breadboard."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'breadcrumb' (a navigation aid in websites)",
+        "correction": "Use 'breadboard' for physical or electronic boards",
+        "explanation": "Breadcrumb 是数字导航术语，与 breadboard 的物理含义不同，常由非母语学习者混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "breadboards",
+        "explanation": "简单添加 -s 即可，但初级学习者可能遗忘规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium in technical domains)",
+    "domains": [
+      "Electronics",
+      "Household",
+      "Education"
+    ],
+    "tags": [
+      "Technology",
+      "Tools",
+      "Prototyping"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

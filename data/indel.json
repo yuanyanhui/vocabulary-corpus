@@ -1,0 +1,231 @@
+{
+  "word": "indel",
+  "phonetics": {
+    "british": "/ɪnˈdɛl/",
+    "american": "/ɪnˈdɛl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of genetic mutation involving the insertion or deletion of one or more nucleotides in a DNA sequence, often leading to changes in the reading frame.",
+      "chineseTranslation": "插入-删除变异",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "indel mutation",
+      "meaning": "插入-删除突变",
+      "example": "The indel mutation in the gene sequence caused a frameshift error.",
+      "exampleTranslation": "该基因序列中的插入-删除突变导致了移码错误。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "detect indel",
+      "meaning": "检测插入-删除变异",
+      "example": "Bioinformatics tools can detect indel events in genomic data.",
+      "exampleTranslation": "生物信息学工具可以检测基因组数据中的插入-删除事件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers analyzed the indel in the patient's DNA to understand the disease progression.",
+      "translation": "研究人员分析了患者DNA中的插入-删除变异，以了解疾病进展。",
+      "source": "Scientific journal (e.g., Nature Genetics)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "An indel in the virus's genome has been linked to increased virulence.",
+      "translation": "病毒基因组中的一个插入-删除变异已被与增强的毒力相关联。",
+      "source": "Medical literature (e.g., PubMed articles)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The study focused on how indels contribute to evolutionary changes in species.",
+      "translation": "该研究重点探讨了插入-删除变异如何促成物种的进化变化。",
+      "source": "Academic paper (e.g., from evolutionary biology)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English abbreviation",
+    "rootWords": [
+      {
+        "root": "insertion-deletion",
+        "meaning": "The process of inserting or deleting elements",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪中叶的遗传学领域，最初作为\"insertion\"和\"deletion\"的缩写出现，用于描述DNA序列中的变异；随着分子生物学的进展，该词演变为标准术语，以简化对核苷酸插入或删除的讨论。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "mutation",
+      "insertion",
+      "deletion",
+      "variant"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 7,
+    "usageComplexity": 8,
+    "learningTips": [
+      "将词汇与具体生物学情境结合使用视觉辅助工具，如DNA模型图；根据认知科学原理，通过重复性练习和语境关联增强记忆，避免孤立学习；对于母语为中文的学习者，建议将英文术语与中文等价概念（如'插入-删除'）进行双语映射，以降低认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "insertion-deletion variant",
+        "similarity": 0.9,
+        "context": "在遗传学研究和基因组分析中"
+      },
+      {
+        "word": "INDEL polymorphism",
+        "similarity": 0.8,
+        "context": "在分子生物学中讨论遗传多态性时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "point mutation",
+        "context": "在对比DNA变异类型时，通常用于区别不涉及序列长度的简单替换"
+      }
+    ],
+    "hypernyms": [
+      "mutation"
+    ],
+    "hyponyms": [
+      "frameshift indel",
+      "non-frameshift indel"
+    ],
+    "collocations": [
+      {
+        "pattern": "indel in [genome/sequence]",
+        "examples": [
+          "indel in the human genome",
+          "indel in viral sequences"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "detect [verb] indel",
+        "examples": [
+          "detect an indel using sequencing"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科学文化中，该词象征遗传变异的多样性和进化过程，常隐含对人类健康和生物多样性的关注；在跨文化语境中，它反映了全球科学社区的合作，如在基因组计划中。",
+    "regionalVariations": [
+      {
+        "region": "Global (e.g., United States and United Kingdom)",
+        "variation": "表达一致，无显著地区差异",
+        "usage": "主要在英语科学文献中使用，偶尔在非英语国家如中国以借词形式出现，但学术语境下保持原形"
+      },
+      {
+        "region": "Asia (e.g., China)",
+        "variation": "可能与本地术语如'插入缺失'互用",
+        "usage": "在教育和研究中，倾向于结合英文原词以增强国际可读性"
+      }
+    ],
+    "historicalContext": "与20世纪后期的分子生物学革命相关，如DNA双螺旋结构的发现和人类基因组计划的启动；在文学和社会中，间接体现为对遗传工程的伦理讨论。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科学传播平台如Twitter或Reddit的讨论中，强调其在COVID-19变异追踪中的作用"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个DNA双螺旋链，其中一部分被插入或删除，导致链条扭曲",
+      "keyElements": [
+        "DNA链",
+        "插入符号",
+        "删除标记"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看科普视频或生物课实验，以激发好奇心和相关性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "缩略",
+        "content": "INDEL = Insertion aNd DELetion",
+        "explanation": "通过词首字母缩写形式建立联想，结合认知科学中的间隔重复法加深记忆"
+      },
+      {
+        "type": "联想",
+        "content": "将indel视为'入侵和消除'的DNA事件",
+        "explanation": "使用比喻联想以创建生动图像，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "mutation",
+      "genome",
+      "DNA sequence",
+      "evolutionary change"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "indels",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词在句子中，常与描述性词语或动词搭配",
+        "examples": [
+          "The indel occurs in the gene."
+        ]
+      },
+      {
+        "pattern": "Subject in scientific sentences",
+        "description": "在技术语境下用作主语",
+        "examples": [
+          "Indels can alter protein function."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing indel with point mutation",
+        "correction": "Use indel for insertions/deletions only",
+        "explanation": "Indel 特指序列长度的变化，而非简单替换；母语为中文的学习者可能因翻译不准而混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'indels' for plural",
+        "explanation": "作为可数名词，需要正确添加-s，但初学者易遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank below 10,000 in COCA), high in specialized ones like PubMed",
+    "domains": [
+      "Biology",
+      "Genetics",
+      "Science",
+      "Bioinformatics"
+    ],
+    "tags": [
+      "Technical",
+      "Scientific",
+      "Genetic",
+      "Evolutionary"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "PubMed scientific database"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "word": "modal",
+  "phonetics": {
+    "british": "/ˈməʊd(ə)l/",
+    "american": "/ˈmoʊdl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to a particular mode or form; characteristic of a mode.",
+      "chineseTranslation": "与模式或形式相关的；模式的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and user interfaces, a secondary window or dialog box that requires user interaction before returning to the main application.",
+      "chineseTranslation": "在计算机中，指需要用户交互后才能返回主程序的次级窗口或对话框",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective (in grammar)",
+      "definition": "Pertaining to modal verbs, which express necessity, possibility, permission, or obligation.",
+      "chineseTranslation": "与情态动词相关的，表示必要性、可能性、许可或义务",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "modal verb",
+      "meaning": "情态动词，表示可能性、必要性等",
+      "example": "Can you help me with this?",
+      "exampleTranslation": "你能帮我这个忙吗？",
+      "frequency": "high"
+    },
+    {
+      "phrase": "modal window",
+      "meaning": "模态窗口，需要用户响应",
+      "example": "The modal window appears when you click 'Save'.",
+      "exampleTranslation": "当你点击‘保存’时，模态窗口会出现。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This modal dialog requires confirmation before proceeding.",
+      "translation": "这个模态对话框需要在继续前确认。",
+      "source": "Technical documentation (e.g., from software manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In English grammar, modal verbs like 'must' and 'should' indicate obligation.",
+      "translation": "在英语语法中，情态动词如‘必须’和‘应该’表示义务。",
+      "source": "Educational materials (e.g., language textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The car's modal design allows for easy customization.",
+      "translation": "这辆车的模式设计允许轻松定制。",
+      "source": "Product descriptions (e.g., automotive industry)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "modus",
+        "meaning": "measure, manner, or mode",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'modus'，最初表示度量或方式。在中世纪拉丁语中演变为表示模式的含义，17 世纪传入英语，用于描述形式或方法的特征；到 20 世纪，在计算机科学中扩展为模态窗口的概念。",
+    "firstKnownUse": "约 1560 年",
+    "relatedWords": [
+      "model",
+      "mode",
+      "modify"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (相对简单，但元音差异可能引起混淆)",
+    "spellingDifficulty": "3 (拼写规则直观)",
+    "meaningComplexity": "6 (语义多层，涉及语法和技术语境)",
+    "usageComplexity": "5 (需根据语境选择正确用法)",
+    "learningTips": [
+      "使用间隔重复法结合词汇卡片，将 'modal' 与常见情态动词关联；通过视觉化记忆，将其想象为一个 '模式门'，需要钥匙（情态）打开；参考认知科学，创建个人语境故事以增强记忆编码。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "typical",
+        "similarity": "0.7",
+        "context": "在描述常见模式时使用，例如日常习惯的描述"
+      },
+      {
+        "word": "optional",
+        "similarity": "0.6",
+        "context": "在表示可能性或选择时，与情态动词相关"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-modal",
+        "context": "在计算机语境中，指不要求用户交互的窗口"
+      },
+      {
+        "word": "imperative",
+        "context": "在语法中，指命令式，与情态动词的柔和语气相对"
+      }
+    ],
+    "hypernyms": [
+      "descriptive",
+      "grammatical"
+    ],
+    "hyponyms": [
+      "auxiliary (in grammar)"
+    ],
+    "collocations": [
+      {
+        "pattern": "modal + noun (e.g., modal verb)",
+        "examples": [
+          "She uses modal verbs effectively."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + modal (e.g., always modal)",
+        "examples": [
+          "The system is always modal in operation."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与技术创新和教育相关，象征灵活性和条件性思考，尤其在编程和语言学习中；在中文学习者语境中，可能隐含西方逻辑推理的模式。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如 UI 设计",
+        "usage": "在美国英语中，'modal' 在软件开发中频繁出现，强调用户体验"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于语法教育",
+        "usage": "在英国英语中，常在正式教育中解释情态动词"
+      }
+    ],
+    "historicalContext": "与启蒙运动的理性主义相关，拉丁语根源反映了古罗马对秩序和模式的强调；在现代，关联计算机革命和社会媒体交互。",
+    "modernUsage": "在社交媒体和在线平台中，'modal' 常用于描述交互式内容，如 TikTok 的模态窗口，反映数字时代的快速传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有门的模式房间，每个门代表一种情态，如可能性或必要性，你需要通过该门进入。",
+      "keyElements": [
+        "门（modal）",
+        "钥匙（情态动词）",
+        "房间（语境）"
+      ],
+      "emotionalConnection": "联结到个人决策经历，例如犹豫时使用 'should'，触发决策情绪以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'modal' 联想为 'mode-al'，像一个模式的盟友",
+        "explanation": "通过声音联想帮助记忆发音和含义，基于认知联想原理增强长期保留"
+      },
+      {
+        "type": "缩略",
+        "content": "M-O-D-A-L: Must, Obligation, Duty, Ability, Likelihood",
+        "explanation": "使用首字母缩略词与情态动词关联，促进视觉和语义编码"
+      }
+    ],
+    "wordAssociations": [
+      "mode",
+      "model",
+      "modify",
+      "must"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more modal",
+      "superlative": "most modal"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Modal + noun phrase",
+        "description": "形容词形式，通常修饰名词",
+        "examples": [
+          "A modal approach to learning."
+        ]
+      },
+      {
+        "pattern": "Subject + modal verb + verb",
+        "description": "在语法中使用，作为情态动词",
+        "examples": [
+          "You must try harder."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing modal with model",
+        "correction": "Use 'modal' for modes or grammar, 'model' for examples or representations",
+        "explanation": "二者发音相似，学习者需区分语境，避免混淆"
+      },
+      {
+        "mistake": "Incorrect use in sentences",
+        "correction": "Ensure modal verbs are followed by base form verbs",
+        "explanation": "如 'I can swim' 而非 'I can swam'，基于英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "Technology",
+      "Education",
+      "Linguistics"
+    ],
+    "tags": [
+      "Grammar",
+      "Computing",
+      "Adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

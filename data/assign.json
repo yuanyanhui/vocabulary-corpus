@@ -1,0 +1,269 @@
+{
+  "word": "assign",
+  "phonetics": {
+    "british": "/əˈsaɪn/",
+    "american": "/əˈsaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to give someone a particular job, task, or responsibility",
+      "chineseTranslation": "分配；指派",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to allocate a resource, value, or role to something or someone",
+      "chineseTranslation": "指定；委派",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person to whom a right or property is legally transferred",
+      "chineseTranslation": "受让人；被转让者",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assign to",
+      "meaning": "分配给某人或某事",
+      "example": "The manager decided to assign the project to the new team.",
+      "exampleTranslation": "经理决定将这个项目分配给新团队。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "assign a task",
+      "meaning": "分配任务",
+      "example": "Teachers often assign a task to students at the end of class.",
+      "exampleTranslation": "老师经常在课结束时给学生分配任务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "assign responsibility",
+      "meaning": "赋予责任",
+      "example": "The company assigns responsibility for safety to all employees.",
+      "exampleTranslation": "公司将安全责任分配给所有员工。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The teacher will assign homework every Friday.",
+      "translation": "老师每周五都会分配家庭作业。",
+      "source": "Educational context, from common school scenarios",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you can assign a value to a variable like this: x = 5.",
+      "translation": "在编程中，你可以像这样为变量赋值：x = 5。",
+      "source": "Technical context, from software development guides",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The judge assigned the case to a senior attorney.",
+      "translation": "法官将案件分配给一位资深律师。",
+      "source": "Legal context, inspired by court proceedings",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "assignare",
+        "meaning": "to mark out or allot",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "to, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "signare",
+        "meaning": "to mark or sign",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 assignare（意为标记或分配），经由古法语 assigner 传入中古英语，最终演变为现代英语 'assign'，其含义从最初的 '标记所有权' 扩展到 '分配任务或责任'，反映了中世纪法律和社会实践的演变。",
+    "firstKnownUse": "约 14 世纪",
+    "relatedWords": [
+      "assignment",
+      "assignation",
+      "designate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用分块记忆法，将 'assign' 与 'sign' 词根关联，想象为 '签名以分配' 的场景；结合认知科学，重复在上下文中使用以强化神经路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "allocate",
+        "similarity": "0.8",
+        "context": "在资源管理或项目分配的语境中使用"
+      },
+      {
+        "word": "designate",
+        "similarity": "0.7",
+        "context": "在正式指定角色或位置的语境中应用"
+      },
+      {
+        "word": "appoint",
+        "similarity": "0.6",
+        "context": "在任命职位或任务的正式场合中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withhold",
+        "context": "在拒绝分配资源或信息的语境中"
+      },
+      {
+        "word": "remove",
+        "context": "在取消分配或撤回责任的语境中"
+      }
+    ],
+    "hypernyms": [
+      "distribute",
+      "give"
+    ],
+    "hyponyms": [
+      "delegate",
+      "consign"
+    ],
+    "collocations": [
+      {
+        "pattern": "assign + noun (e.g., task, role)",
+        "examples": [
+          "assign a task",
+          "assign a role"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "assign to + noun",
+        "examples": [
+          "assign to a team"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征效率和组织性，常用于教育和职业环境中，隐含现代社会分工的价值观。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在商业和教育语境中",
+        "usage": "在美国英语中，常与 'assign homework' 或 'assign projects' 搭配，强调个人责任"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，使用时强调层级结构",
+        "usage": "在英国英语中，常出现在法律或行政语境，如 'assign duties in a hierarchy'"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的封建制度相关，词源反映了财产和责任分配的传统，在工业革命后扩展到现代管理实践。",
+    "modernUsage": "在社交媒体和在线学习平台中流行，如 Zoom 会议中 'assign roles'，体现了数字时代的工作协作趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个老师在黑板上签名分配任务的场景",
+      "keyElements": [
+        "签名",
+        "分配",
+        "任务列表"
+      ],
+      "emotionalConnection": "联结到个人经历，如学生时代的作业分配，触发成就感或压力情绪以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'assign' 联想为 'a sign'（一个标志），表示 '分配一个标志'",
+        "explanation": "通过视觉联想帮助记忆词根，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "A-S-S-I-G-N: A Student Signs In for a New task",
+        "explanation": "使用首字母缩略法创建故事，增强叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "sign",
+      "task",
+      "allocate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "assigned",
+      "pastParticiple": "assigned",
+      "presentParticiple": "assigning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + assign + object + to + recipient",
+        "description": "主语 + 分配 + 客体 + 给 + 接受者",
+        "examples": [
+          "We assign the work to him."
+        ]
+      },
+      {
+        "pattern": "assign + something + as + role",
+        "description": "分配某物作为角色",
+        "examples": [
+          "They assign her as the leader."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'assign' without a direct object",
+        "correction": "Always include a direct object, e.g., 'assign a task'",
+        "explanation": "该词需要直接客体以完整表达动作，避免语义不清晰"
+      },
+      {
+        "mistake": "Confusing with 'assignee'",
+        "correction": "Use 'assign' as verb and 'assignee' as noun correctly",
+        "explanation": "学习者常混淆动词和名词形式，需通过语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "business",
+      "law"
+    ],
+    "tags": [
+      "action verb",
+      "management",
+      "allocation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

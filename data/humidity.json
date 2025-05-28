@@ -1,0 +1,253 @@
+{
+  "word": "humidity",
+  "phonetics": {
+    "british": "/hjuːˈmɪd.ə.ti/",
+    "american": "/hjuːˈmɪd.ə.t̬i/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The amount of water vapor in the air, typically expressed as a percentage of the maximum amount the air can hold at a given temperature.",
+      "chineseTranslation": "湿度的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A state of being moist or damp, often in relation to environmental conditions.",
+      "chineseTranslation": "潮湿状态",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relative humidity",
+      "meaning": "相对湿度，指空气中水蒸气量相对于该温度下空气饱和水蒸气量的百分比",
+      "example": "The relative humidity today is 80%, making it feel quite muggy.",
+      "exampleTranslation": "今天的相对湿度是80%，让人感觉相当闷热。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "high humidity",
+      "meaning": "高湿度，通常导致不适或影响健康",
+      "example": "High humidity in tropical regions can make outdoor activities challenging.",
+      "exampleTranslation": "热带地区的高湿度会让户外活动变得具有挑战性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "humidity level",
+      "meaning": "湿度水平，通常用于监测环境",
+      "example": "We need to monitor the humidity level in the greenhouse to protect the plants.",
+      "exampleTranslation": "我们需要监测温室中的湿度水平来保护植物。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The high humidity in the summer months often leads to discomfort and health issues.",
+      "translation": "夏季的高湿度经常导致不适和健康问题。",
+      "source": "Weather reports and environmental science texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must consider humidity when designing electronic devices to prevent corrosion.",
+      "translation": "工程师在设计电子设备时必须考虑湿度以防止腐蚀。",
+      "source": "Technical articles from engineering journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In coastal areas, humidity can make the air feel heavier and more oppressive.",
+      "translation": "在沿海地区，湿度会让空气感觉更沉重和压抑。",
+      "source": "Literary works and travel descriptions",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "humiditas",
+        "meaning": "moistness or dampness",
+        "language": "Latin"
+      },
+      {
+        "root": "umidus",
+        "meaning": "wet or moist",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'humiditas'，意为潮湿状态，由 'umidus' 演变而来。进入中古英语后，逐渐用于描述空气中的水分含量，并随着科学发展在17世纪被正式用于气象学。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "humid",
+      "moisture",
+      "dampness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个潮湿的雨林场景，以加强记忆；",
+      "对于中文母语学习者，关联到日常天气术语，如 '湿度'，并通过重复练习在上下文中应用，以降低语义复杂度；",
+      "应用间隔重复法（spaced repetition）来巩固发音和拼写，确保从简单句子逐步过渡到复杂语境"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "moisture",
+        "similarity": "0.8",
+        "context": "在描述空气或环境湿润度的语境中适用，例如天气预报"
+      },
+      {
+        "word": "dampness",
+        "similarity": "0.7",
+        "context": "在非正式的日常对话中，用于强调潮湿的感觉"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dryness",
+        "context": "在对比湿润与干燥的环境条件时适用，例如沙漠气候"
+      },
+      {
+        "word": "aridity",
+        "context": "在科学或地理语境中，用于描述缺水地区"
+      }
+    ],
+    "hypernyms": [
+      "weather condition",
+      "atmospheric phenomenon"
+    ],
+    "hyponyms": [
+      "relative humidity",
+      "absolute humidity"
+    ],
+    "collocations": [
+      {
+        "pattern": "high + humidity",
+        "examples": [
+          "The high humidity affected the athletes' performance."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "measure + humidity",
+        "examples": [
+          "Scientists measure humidity using hygrometers."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在全球文化中，该词象征着气候多样性和对人类舒适度的影响，尤其在热带文化中被视为健康和生活质量的隐含语义，例如在中国南方，湿度常与梅雨季节相关联，代表着丰收与挑战的平衡",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式气象报告中",
+        "usage": "在英国英语中，强调与天气相关的科学术语，如在BBC新闻中"
+      },
+      {
+        "region": "United States",
+        "variation": "在日常对话中更随意，常与健康或舒适度结合",
+        "usage": "在美国英语中，特别是在南方州份，经常在非正式语境中使用，如社交媒体讨论"
+      }
+    ],
+    "historicalContext": "与工业革命和现代气象学的发展相关，在19世纪的英国文学中（如狄更斯的作品）常用于描述维多利亚时代的生活环境",
+    "modernUsage": "在社交媒体和环境讨论中流行，例如Twitter上的气候变化话题，或在中国微信上的健康提示"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个炎热夏日，空气中布满水汽的雨林场景，树叶上滴着水珠",
+      "keyElements": [
+        "雨林",
+        "水汽",
+        "滴水"
+      ],
+      "emotionalConnection": "联结到个人经历，如在潮湿的南方城市生活时的不适感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'humidity' 联想为 'humid' + 'city'，想象一个总是潮湿的城市",
+        "explanation": "通过视觉联想强化词汇，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/hjuː/' 像 'you' 的声音，联想到 'you need water' 表示需要水分",
+        "explanation": "利用声音与语义的联觉效果，帮助记忆发音"
+      }
+    ],
+    "wordAssociations": [
+      "moist",
+      "sweat",
+      "climate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + humidity",
+        "description": "作为主语或宾语出现于句中，描述环境条件",
+        "examples": [
+          "Humidity affects our daily comfort."
+        ]
+      },
+      {
+        "pattern": "Adjective + humidity",
+        "description": "与形容词搭配描述程度",
+        "examples": [
+          "The high humidity made breathing difficult."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'humid'",
+        "correction": "Use 'humidity' as a noun for the state, and 'humid' as an adjective",
+        "explanation": "中文学习者常混淆形容词和名词形式，导致句法错误"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Adjust based on register, e.g., use in neutral or formal settings",
+        "explanation": "由于频率高，初级学习者可能在非正式对话中误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "weather",
+      "environment",
+      "health"
+    ],
+    "tags": [
+      "meteorology",
+      "climate",
+      "physical science"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

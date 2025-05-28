@@ -1,0 +1,253 @@
+{
+  "word": "assembler",
+  "phonetics": {
+    "british": "/əˈsɛmblə/",
+    "american": "/əˈsɛmblər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A program that translates assembly language into machine code, used in computer programming.",
+      "chineseTranslation": "汇编程序",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or machine that assembles parts or components into a finished product.",
+      "chineseTranslation": "组装工或组装机",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put together or assemble components, often in a mechanical or programming context.",
+      "chineseTranslation": "组装",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "machine code assembler",
+      "meaning": "机器代码汇编程序",
+      "example": "The machine code assembler converts low-level instructions into executable code.",
+      "exampleTranslation": "机器代码汇编程序将低级指令转换为可执行代码。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "assembly line assembler",
+      "meaning": "装配线上的组装工",
+      "example": "An assembly line assembler works efficiently to build automobiles.",
+      "exampleTranslation": "装配线上的组装工高效地组装汽车。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In software development, an assembler is essential for converting assembly code to binary.",
+      "translation": "在软件开发中，汇编程序是转换汇编代码为二进制代码的必需工具。",
+      "source": "Technical manuals, such as those from computer science textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The factory hired more assemblers to meet the increased demand for smartphones.",
+      "translation": "工厂雇佣了更多组装工来满足智能手机需求的增加。",
+      "source": "News articles from business publications like The Economist",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Programmers often use an assembler to optimize code for embedded systems.",
+      "translation": "程序员经常使用汇编程序来优化嵌入式系统的代码。",
+      "source": "Academic papers from IEEE",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "assimilare",
+        "meaning": "To make similar or bring together",
+        "language": "Latin"
+      },
+      {
+        "root": "assemble",
+        "meaning": "To gather or put together",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'assimilare', meaning to make alike, evolving through Old French 'assembler' in the 14th century to mean gathering or constructing. By the 16th century, 'assemble' entered English as a verb. The noun 'assembler' emerged in the 19th century for a person who assembles, and in the mid-20th century, it was adopted in computing to refer to a program that processes assembly language, reflecting technological advancements.",
+    "firstKnownUse": "1570 (for the verb form), with the noun in computing contexts from around 1950",
+    "relatedWords": [
+      "assemble",
+      "assembly",
+      "disassembler"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学中的分块学习法（chunking），将 'assembler' 与计算机编程的视觉图像关联，如想象齿轮组装成机器；",
+      "结合重复间隔法（spaced repetition），每天复习发音和用法以强化记忆；",
+      "通过双编码理论（dual coding），将词汇与图片或个人经验配对，例如联想工厂组装场景来记忆其技术含义"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "compiler",
+        "similarity": "0.7",
+        "context": "在编程语境中，适用于低级代码转换，但不如汇编程序精确"
+      },
+      {
+        "word": "builder",
+        "similarity": "0.5",
+        "context": "在机械或建筑语境中，泛指组装者"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disassembler",
+        "context": "在编程中，适用于逆向工程或分解代码的场景"
+      },
+      {
+        "word": "dismantler",
+        "context": "在机械语境中，适用于拆卸组件的场景"
+      }
+    ],
+    "hypernyms": [
+      "program",
+      "tool"
+    ],
+    "hyponyms": [
+      "macro assembler",
+      "cross assembler"
+    ],
+    "collocations": [
+      {
+        "pattern": "assembler + for + language/system",
+        "examples": [
+          "assembler for ARM architecture"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "hire + assembler",
+        "examples": [
+          "hire an assembler for the production line"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征工业化和技术进步，尤其在计算机革命期间，代表了从手工组装到自动化编程的转变；在中国文化中，它可能隐含效率和集体的生产模式，与社会主义工业遗产相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，强调创新和快速原型设计"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于机械工程，语调更正式",
+        "usage": "在英国英语中，可能与历史工业革命关联，强调传统制造"
+      }
+    ],
+    "historicalContext": "该词与工业革命和计算机时代的兴起相关，在19世纪的英国工厂文化中常见；现代在中国，它反映了制造业的全球化和技术转移。",
+    "modernUsage": "在社交媒体和在线论坛中，'assembler' 常出现在编程社区，如GitHub讨论，或制造业视频中，体现数字时代的协作趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂场景，其中齿轮和零件被一个机器人组装成计算机芯片",
+      "keyElements": [
+        "齿轮",
+        "机器人",
+        "芯片"
+      ],
+      "emotionalConnection": "联结个人编程经历或对科技的好奇心，以触发积极情绪和长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Assemble sounds like 'a sample', so think of 'a sample of code being assembled'.",
+        "explanation": "通过声音联想帮助记忆词汇与编程的关联，基于认知联想理论"
+      },
+      {
+        "type": "缩略",
+        "content": "A-S-S-E-M-B-L-E-R: A Smart System Easily Makes Binary Logic Efficiently Run.",
+        "explanation": "使用首字母缩略形成故事，增强视觉和叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "factory",
+      "build"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "assemblers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + assembler",
+        "description": "主语+动词+汇编程序结构，常用于描述工具的使用",
+        "examples": [
+          "The programmer uses an assembler."
+        ]
+      },
+      {
+        "pattern": "Assembler + for + object",
+        "description": "汇编程序+用于+对象的结构，表示特定应用",
+        "examples": [
+          "An assembler for microcontrollers."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing assembler with compiler",
+        "correction": "Use assembler for assembly language only",
+        "explanation": "汇编程序专用于低级语言，而编译器处理高级语言；基于语义区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "assemblers (not assembleers)",
+        "explanation": "拼写错误常见于非母语学习者，需注意双 's' 的位置"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "manufacturing",
+      "engineering"
+    ],
+    "tags": [
+      "computing",
+      "mechanics",
+      "programming"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

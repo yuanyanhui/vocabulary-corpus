@@ -1,0 +1,242 @@
+{
+  "word": "contiguous",
+  "phonetics": {
+    "british": "/kənˈtɪɡjʊəs/",
+    "american": "/kənˈtɪɡjuəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Sharing a common border; touching or adjacent without interruption",
+      "chineseTranslation": "相邻的；毗连的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Connected in time or sequence without gaps",
+      "chineseTranslation": "连续的；不间断的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contiguous memory",
+      "meaning": "相邻的内存空间",
+      "example": "In computing, contiguous memory allocation improves data access speed.",
+      "exampleTranslation": "在计算机中，相邻内存分配可以提高数据访问速度。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "contiguous states",
+      "meaning": "相邻的州或地区",
+      "example": "The contiguous states of the U.S. mainland exclude Alaska and Hawaii.",
+      "exampleTranslation": "美国本土相邻的州不包括阿拉斯加和夏威夷。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The contiguous fields of wheat stretched as far as the eye could see.",
+      "translation": "那些相邻的小麦田一直延伸到视线尽头。",
+      "source": "Agricultural literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, ensuring contiguous arrays can prevent memory fragmentation.",
+      "translation": "在编程中，确保数组相邻可以防止内存碎片化。",
+      "source": "Technical documentation (e.g., from Stack Overflow or COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The contiguous timeline of events in the novel makes the story flow smoothly.",
+      "translation": "小说中事件的连续时间线使故事流畅自然。",
+      "source": "Literary analysis (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "contiguus",
+        "meaning": "touching, near",
+        "language": "Latin"
+      },
+      {
+        "root": "contingere",
+        "meaning": "to touch, to happen",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'contiguus'（源自 'contingere'，意为接触或发生）演变而来，通过古法语 'contigu' 传入英语。14世纪初进入英语，用于描述物理上的相邻关系；17世纪扩展到抽象的连续性，如时间或序列。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "contiguity",
+      "contingent",
+      "contact"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (出自国际音标系统，音节较复杂，如 /kənˈtɪɡjuəs/ 可能因 'g' 和 'j' 音的结合而对母语为中文的学习者造成挑战)",
+    "spellingDifficulty": "5 (拼写规则相对直观，但 'iguous' 结尾易混淆)",
+    "meaningComplexity": "7 (语义涉及空间或序列概念，需要认知映射)",
+    "usageComplexity": "6 (常用于特定语境，如地理或技术领域)",
+    "learningTips": [
+      "使用视觉空间联想将 'contiguous' 与相邻物体（如拼图）关联，利用认知科学中的双编码理论；重复练习句子以强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "adjacent",
+        "similarity": "0.8",
+        "context": "适用于物理空间描述，如 'adjacent rooms' 表示相邻的房间"
+      },
+      {
+        "word": "consecutive",
+        "similarity": "0.7",
+        "context": "适用于时间或序列语境，如 'consecutive days' 表示连续的日子"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "separate",
+        "context": "适用于非相邻或间断语境，如 'separate buildings' 表示分开的建筑物"
+      },
+      {
+        "word": "disjointed",
+        "context": "适用于不连续的序列，如 'disjointed narrative' 表示支离破碎的故事"
+      }
+    ],
+    "hypernyms": [
+      "connected"
+    ],
+    "hyponyms": [
+      "abutting"
+    ],
+    "collocations": [
+      {
+        "pattern": "contiguous + noun (e.g., contiguous areas)",
+        "examples": [
+          "contiguous territories",
+          "contiguous blocks"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + contiguous (e.g., geographically contiguous)",
+        "examples": [
+          "geographically contiguous regions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常隐含地理或政治边界概念，例如在美国，指代本土相邻州份，象征国家统一性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "常用于描述'lower 48'（本土48州），强调地理连续性",
+        "usage": "在美国政治语境中，'contiguous United States' 排除阿拉斯加和夏威夷，反映出历史领土扩张的文化隐喻"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "较少用于日常口语，更常在正式或学术语境",
+        "usage": "在英国，强调历史边界，如 'contiguous counties'，关联到封建制度的文化遗产"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲殖民扩张相关，在文学和地图学中用于描述领土，如莎士比亚时代对土地的隐喻。",
+    "modernUsage": "在社交媒体和科技语境下流行，如在线讨论中描述虚拟空间的连续性，体现全球化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个相邻的拼图块紧密连接在一起，形成一个完整的图片。",
+      "keyElements": [
+        "拼图块",
+        "连接线",
+        "完整图片"
+      ],
+      "emotionalConnection": "联结到个人经历，如组装玩具时的成就感，以激发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'contiguous' as 'con-touch-us' – things that are touching each other.",
+        "explanation": "通过声音联想和视觉想象，结合认知科学中的 elaborate rehearsal 强化记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-N-T-I-G-U-O-U-S: 'Connected Objects Never Touch Individually, Grouped Usually as One Unit'",
+        "explanation": "使用首字母缩略法创建故事，基于 spaced repetition 原则促进长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "adjacent",
+      "linked",
+      "sequential"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more contiguous",
+      "superlative": "most contiguous"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + contiguous + object",
+        "description": "主语 + 系动词 + contiguous + 宾语，常用于描述状态",
+        "examples": [
+          "The lands are contiguous."
+        ]
+      },
+      {
+        "pattern": "Adverb + contiguous + noun phrase",
+        "description": "副词 + contiguous + 名词短语，用于修饰具体语境",
+        "examples": [
+          "Geographically contiguous regions share borders."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'contiguous' interchangeably with 'continuous'",
+        "correction": "Use 'contiguous' for spatial adjacency and 'continuous' for uninterrupted flow",
+        "explanation": "二者虽相关，但 'contiguous' 强调物理相邻，而非时间流畅，避免语义混淆。"
+      },
+      {
+        "mistake": "Incorrect comparative form like 'contiguouser'",
+        "correction": "Use 'more contiguous'",
+        "explanation": "作为多音节形容词，使用 'more' 而非直接添加 '-er'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency)",
+    "domains": [
+      "Geography",
+      "Computing",
+      "Politics"
+    ],
+    "tags": [
+      "Spatial",
+      "Technical",
+      "Adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

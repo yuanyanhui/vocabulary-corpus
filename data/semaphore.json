@@ -1,0 +1,253 @@
+{
+  "word": "semaphore",
+  "phonetics": {
+    "british": "/ˈsɛməfɔː/",
+    "american": "/ˈsɛməfɔr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system of signaling using two flags or lights held in the hands and moved into different positions to represent letters of the alphabet or numbers.",
+      "chineseTranslation": "一种使用旗帜或灯光的手势信号系统，用于传达字母或数字",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a variable or abstract data type that controls access to a common resource by multiple processes, ensuring that only one process uses it at a time.",
+      "chineseTranslation": "在计算机科学中，用于进程间同步的变量或数据类型，确保资源被单一进程独占",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send a message using a semaphore system.",
+      "chineseTranslation": "使用信号系统发送消息",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "semaphore flag",
+      "meaning": "信号旗",
+      "example": "The sailor used a semaphore flag to communicate with the ship.",
+      "exampleTranslation": "水手使用信号旗与船只沟通。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "semaphore system",
+      "meaning": "信号系统",
+      "example": "The semaphore system was crucial for railway operations in the 19th century.",
+      "exampleTranslation": "信号系统在19世纪的铁路运营中至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "binary semaphore",
+      "meaning": "二元信号量",
+      "example": "In operating systems, a binary semaphore can be either locked or unlocked.",
+      "exampleTranslation": "在操作系统中，二元信号量可以是锁定或解锁状态。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The soldiers practiced semaphore to send messages across the battlefield.",
+      "translation": "士兵们练习信号系统来在战场上传递消息。",
+      "source": "Military history texts, e.g., from the Napoleonic era",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers use semaphores to prevent race conditions in multithreaded applications.",
+      "translation": "程序员使用信号量来防止多线程应用中的竞争条件。",
+      "source": "Computing literature, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the naval exercise, the officer semaphored the coordinates to the fleet.",
+      "translation": "在海军演习中，军官使用信号系统向舰队发送坐标。",
+      "source": "Modern maritime narratives",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "sēma",
+        "meaning": "sign or signal",
+        "language": "Ancient Greek"
+      },
+      {
+        "root": "phoros",
+        "meaning": "bearer or carrier",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'sēma'（信号）和 'phoros'（携带者），组合形成现代英语 'semaphore'。最初用于19世纪的视觉信号系统，如铁路和海军通信中，随着技术进步，扩展到计算机科学中的同步机制。",
+    "firstKnownUse": "Early 19th century, around 1806 in the context of mechanical signaling devices",
+    "relatedWords": [
+      "semaphore",
+      "semasiology",
+      "phoros"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将词汇与具体情境关联，例如将 'semaphore' 与军事或计算机场景可视化，以增强长时记忆；使用间隔重复（spaced repetition）复习不同语境下的用法，以减少干扰效应（interference effect）。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "signal",
+        "similarity": "0.8",
+        "context": "在通信或军事语境中，例如用于快速信息传递"
+      },
+      {
+        "word": "flag system",
+        "similarity": "0.7",
+        "context": "视觉信号语境中，强调手动操作"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asynchronous",
+        "context": "在计算机语境中，表示无同步机制的通信方式"
+      }
+    ],
+    "hypernyms": [
+      "communication system"
+    ],
+    "hyponyms": [
+      "visual semaphore",
+      "binary semaphore"
+    ],
+    "collocations": [
+      {
+        "pattern": "semaphore + noun (e.g., semaphore flag)",
+        "examples": [
+          "The semaphore flag waved in the wind."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + semaphore (e.g., use semaphore)",
+        "examples": [
+          "They use semaphore for signaling."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征军事和通信的创新，隐含着效率和精确性的价值观；在计算机文化中，代表现代技术管理的核心原则。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More historical usage in railway signaling",
+        "usage": "在英国，常与维多利亚时代工业革命关联，使用频率较高于其他地区"
+      },
+      {
+        "region": "United States",
+        "variation": "Emphasizes computing applications",
+        "usage": "在美国，更多用于技术领域，如软件开发中"
+      }
+    ],
+    "historicalContext": "与工业革命和二战时期的通信技术相关，例如英国的铁路信号系统和海军应用，体现了欧洲殖民时代的信息控制需求。",
+    "modernUsage": "在社交媒体和科技语境下，常见于编程论坛或教育视频中，反映了数字时代的同步挑战。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个士兵在山顶挥舞两面旗帜发送信号，背景是忙碌的战场。",
+      "keyElements": [
+        "旗帜",
+        "手势",
+        "通信"
+      ],
+      "emotionalConnection": "联结个人经历，如观看历史电影时的兴奋感，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'semi' as half and 'phore' as phone, like a half-phone for signaling.",
+        "explanation": "通过词根联想，将 'semaphore' 与部分通信设备关联，增强语义记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce it as 'see-ma-four', linking to 'see more' signals.",
+        "explanation": "利用声音相似性创建联想，帮助初级学习者记忆发音"
+      }
+    ],
+    "wordAssociations": [
+      "signal",
+      "flag",
+      "mutex"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "semaphores",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "semaphoring",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + semaphore",
+        "description": "主语 + 动词 + 信号系统，常见于动作描述",
+        "examples": [
+          "They semaphored the message."
+        ]
+      },
+      {
+        "pattern": "Semaphore + as + noun",
+        "description": "信号系统作为名词短语，用于定义或解释",
+        "examples": [
+          "Semaphore acts as a synchronization tool."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing semaphore with semaphore (in computing vs. visual)",
+        "correction": "Distinguish contexts: visual for military, abstract for computing",
+        "explanation": "学习者常混淆语境，导致误用；建议通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /sɛmæfɔːr/",
+        "correction": "Use /ˈsɛməfɔː/ for British",
+        "explanation": "发音错误源于元音混淆；通过IPA练习改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "military",
+      "communication"
+    ],
+    "tags": [
+      "signaling",
+      "synchronization",
+      "historical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

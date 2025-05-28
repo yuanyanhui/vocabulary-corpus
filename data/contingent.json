@@ -1,0 +1,250 @@
+{
+  "word": "contingent",
+  "phonetics": {
+    "british": "/kənˈtɪndʒənt/",
+    "american": "/kənˈtɪndʒənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "occurring or existing only if certain other circumstances are the case; dependent on",
+      "chineseTranslation": "视情况而定的；偶然的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a group of people sharing a common attribute, forming part of a larger group, often in a military, professional, or organizational context",
+      "chineseTranslation": "代表团；特遣队",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contingent upon",
+      "meaning": "取決於某事",
+      "example": "The deal is contingent upon the approval of the board.",
+      "exampleTranslation": "這筆交易取決於董事會的批准。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "military contingent",
+      "meaning": "軍事特遣隊",
+      "example": "The UN sent a military contingent to maintain peace.",
+      "exampleTranslation": "聯合國派遣了一支軍事特遣隊來維持和平。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The event's success is contingent on good weather.",
+      "translation": "活動的成功取決於好天氣。",
+      "source": "Modern business contexts, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A small contingent of soldiers was deployed to the border.",
+      "translation": "一小隊士兵被部署到邊境。",
+      "source": "News articles, e.g., BBC reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her promotion is contingent upon her performance in the next quarter.",
+      "translation": "她的晉升取決於下個季度的表現。",
+      "source": "Corporate communication, e.g., from BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "contingens",
+        "meaning": "touching, befalling",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "tangere",
+        "meaning": "to touch",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁語 'contingens'，是 'contingere' 的現在分詞，意為 '接觸、發生'。經由古法語 'contingent' 傳入英語，最初用於哲學和法律語境表示 '偶然發生'，到近代擴展為名詞形式，指特定群體，如軍事單位。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "contingency",
+      "contingentally",
+      "contingence"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "結合認知科學的分散重複法，將 'contingent' 與日常生活不確定事件聯繫，例如使用心智圖將其與 'if-then' 條件句圖像化，以增強記憶痕跡；建議初學者通過語境重複暴露來降低語義複雜度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dependent",
+        "similarity": "0.8",
+        "context": "在正式語境中用於描述條件依賴關係，例如商業協議"
+      },
+      {
+        "word": "provisional",
+        "similarity": "0.7",
+        "context": "在法律或臨時安排中，表示不確定的情況"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "certain",
+        "context": "在形容詞語境中，表示絕對的而非偶然的，例如決策過程中"
+      },
+      {
+        "word": "independent",
+        "context": "在名詞語境中，表示不依賴群體的單獨實體"
+      }
+    ],
+    "hypernyms": [
+      "group",
+      "dependency"
+    ],
+    "hyponyms": [
+      "military unit",
+      "delegation"
+    ],
+    "collocations": [
+      {
+        "pattern": "contingent on/upon + noun",
+        "examples": [
+          "contingent on weather",
+          "contingent upon approval"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + contingent",
+        "examples": [
+          "small contingent",
+          "international contingent"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在西方文化中常與軍事或國際組織相關，象徵團隊合作和條件性承諾，例如聯合國特遣隊體現全球合作精神；在東亞文化中，可能隱含對不確定性的哲學反思，如中國傳統中 '因緣' 的概念。",
+    "regionalVariations": [
+      {
+        "region": "英國",
+        "variation": "更常在正式或歷史語境中使用",
+        "usage": "在英國英語中，強調歷史和軍事傳統，例如在皇室或外交場合"
+      },
+      {
+        "region": "美國",
+        "variation": "更常在商業和現代語境中使用",
+        "usage": "在美國英語中，常見於企業風險管理或體育團隊設置"
+      }
+    ],
+    "historicalContext": "與歐洲殖民和現代國際關係相關，例如在第一次世界大戰中，'contingent' 用於描述國家軍隊貢獻；與文學如莎士比亞作品中的偶然性主題相聯繫。",
+    "modernUsage": "在社交媒體和全球新聞中，頻繁出現於疫情應對或國際會議中，反映當代不確定性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個團隊成員手拉手，等待某個開關觸發（如燈光），象徵條件依賴",
+      "keyElements": [
+        "團隊",
+        "開關",
+        "不確定性"
+      ],
+      "emotionalConnection": "聯想到個人經歷中的 '如果...就...' 情境，激發挫折或期待情緒，以強化記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Contingent 像 'contact' 加 'gent'，意為 '接觸的紳士隊伍'",
+        "explanation": "通過詞根聯想強化語義，根據認知科學的圖像化原則，提高長期記憶"
+      },
+      {
+        "type": "声音联觉",
+        "content": "發音 /kənˈtɪndʒənt/ 聽起來像 '偶然的巨人'，與不確定性聯繫",
+        "explanation": "利用聲音和視覺聯覺，根據多感官學習理論促進記憶保留"
+      }
+    ],
+    "wordAssociations": [
+      "dependent",
+      "team",
+      "if-then"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "contingents",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more contingent",
+      "superlative": "most contingent"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + contingent on + noun",
+        "description": "用於形容詞，表示條件依賴的句法結構",
+        "examples": [
+          "The plan is contingent on funding."
+        ]
+      },
+      {
+        "pattern": "Noun phrase + contingent",
+        "description": "用於名詞，表示群體的結構",
+        "examples": [
+          "A medical contingent arrived yesterday."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'contingent' as a verb",
+        "correction": "Use as adjective or noun only",
+        "explanation": "該詞無動詞形式，常見錯誤源於詞性混淆，建議學習者檢查上下文"
+      },
+      {
+        "mistake": "Confusing with 'contingency'",
+        "correction": "Distinguish: contingent (group or dependent) vs. contingency (event)",
+        "explanation": "語義相似但不同，根據認知語言學，避免通過重複練習區分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "military",
+      "business",
+      "legal"
+    ],
+    "tags": [
+      "conditionality",
+      "group dynamics",
+      "uncertainty"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

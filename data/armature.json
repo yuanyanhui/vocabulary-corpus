@@ -1,0 +1,244 @@
+{
+  "word": "armature",
+  "phonetics": {
+    "british": "/ˈɑːmətjʊə/",
+    "american": "/ˈɑrmətʃər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A framework used to support a sculpture while it is being molded or assembled.",
+      "chineseTranslation": "用于支撑雕塑在成型或组装过程中的框架",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The rotating part of an electric motor or dynamo, consisting of coils of wire around an iron core.",
+      "chineseTranslation": "电动机或发电机的旋转部件，由铁芯上的线圈组成",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In anatomy or biology, a protective covering or structure.",
+      "chineseTranslation": "在解剖学或生物学中，指保护性覆盖或结构",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "armature winding",
+      "meaning": "电动机中线圈的缠绕方式",
+      "example": "The armature winding in the motor was carefully insulated to prevent short circuits.",
+      "exampleTranslation": "电动机中的电枢绕组经过仔细绝缘以防止短路。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sculpture armature",
+      "meaning": "用于支撑雕塑的框架",
+      "example": "Artists often use a sculpture armature made of wire to build their figures.",
+      "exampleTranslation": "艺术家们经常使用由金属丝制成的雕塑电枢来构建他们的作品。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer examined the armature of the generator to diagnose the power failure.",
+      "translation": "工程师检查了发电机的电枢以诊断电源故障。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In art class, students learned how to construct an armature for their clay models.",
+      "translation": "在艺术课上，学生们学习如何为他们的粘土模型构建电枢。",
+      "source": "Educational text (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The old motor's armature had worn out after years of heavy use, requiring a full replacement.",
+      "translation": "这台旧电动机的电枢在使用多年后磨损，需要完全更换。",
+      "source": "News article (e.g., from online engineering reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "armatura",
+        "meaning": "equipment for war; armor",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'armatura'，最初指军事装备或盔甲。到了中世纪，拉丁语演变为古法语 'armature'，扩展到指任何保护性结构。17 世纪传入英语，首先用于机械和艺术语境中，指支持或旋转部件的发展过程，随着工业革命而普及。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "armor",
+      "armaturee (obsolete variant)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'armature' 与其在电机中的视觉图像关联；例如，想象一个旋转的铁芯来强化记忆。",
+      "使用双编码理论，将英文词汇与中文翻译（如 '电枢'）配对，并通过重复曝光于技术语境中提升保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "framework",
+        "similarity": "0.7",
+        "context": "在艺术语境中，适用于描述支撑结构的场合"
+      },
+      {
+        "word": "rotor",
+        "similarity": "0.8",
+        "context": "在工程语境中，特别是在电机设计中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stator",
+        "context": "在电机语境中，指非旋转部件，与电枢相对"
+      }
+    ],
+    "hypernyms": [
+      "mechanism",
+      "structure"
+    ],
+    "hyponyms": [
+      "field armature",
+      "commutator armature"
+    ],
+    "collocations": [
+      {
+        "pattern": "armature + noun (e.g., winding, core)",
+        "examples": [
+          "armature core",
+          "armature winding"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + armature (e.g., construct, examine)",
+        "examples": [
+          "construct an armature",
+          "examine the armature"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中主要与工业和技术创新相关，象征着机械工程的进步，例如在文艺复兴时期的艺术中用于雕塑制作，但在现代更多体现为工程领域的专业术语，而非文化象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于工程和技术语境",
+        "usage": "例如，在美国的技术教育中，'armature' 经常出现在电机设计课程中"
+      },
+      {
+        "region": "英国",
+        "variation": "英式英语中可能更注重其历史艺术含义",
+        "usage": "在英国的艺术历史语境中，偶尔用于描述古典雕塑技术"
+      }
+    ],
+    "historicalContext": "与工业革命相关的历史背景相连，例如瓦特蒸汽机的发明推动了 'armature' 在机械中的应用；在文学中，如狄更斯的小说中偶尔提及机械部件，反映了维多利亚时代的技术变革。",
+    "modernUsage": "在现代社交媒体和在线论坛中，'armature' 主要出现在技术讨论或 DIY 社区，如 YouTube 教程中，用于解释电机修复或艺术创作趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个旋转的铁芯线圈在电机中运转，就像一个武士的盔甲在保护引擎。",
+      "keyElements": [
+        "旋转铁芯",
+        "线圈",
+        "保护结构"
+      ],
+      "emotionalConnection": "联结到个人经验，如回忆童年玩的玩具电机，触发好奇和探索情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Armature 听起来像 'armor tour'，想象盔甲在工厂巡游。",
+        "explanation": "通过声音联想将词汇与视觉图像连接，增强认知处理"
+      },
+      {
+        "type": "缩略",
+        "content": "A-R-M-A-T-U-R-E: A Rotating Machine's Armor To Understand Rapid Energy.",
+        "explanation": "使用首字母缩写创建故事，帮助记忆词汇的含义"
+      }
+    ],
+    "wordAssociations": [
+      "motor",
+      "sculpture",
+      "framework"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "armatures",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the armature of the motor)",
+        "description": "作为名词使用，通常在句子中描述特定部件",
+        "examples": [
+          "The armature is essential for the motor's function."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., with an armature)",
+        "description": "与介词结合，表示伴随或组成部分",
+        "examples": [
+          "She built the sculpture with an armature for support."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'amateur'",
+        "correction": "Use 'armature' for mechanical or artistic contexts",
+        "explanation": "虽然发音相似，但 'amateur' 意为业余爱好者；注意拼写差异以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "armatures",
+        "explanation": "简单添加 -s 即可，但初学者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "engineering",
+      "art",
+      "technology"
+    ],
+    "tags": [
+      "technical term",
+      "mechanical",
+      "artistic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

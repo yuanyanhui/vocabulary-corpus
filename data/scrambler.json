@@ -1,0 +1,265 @@
+{
+  "word": "scrambler",
+  "phonetics": {
+    "british": "/ˈskræmblə/",
+    "american": "/ˈskræmblɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that rearranges or mixes signals, especially for secure communication, such as encrypting voice or data.",
+      "chineseTranslation": "一种用于混淆或加密信号的设备，例如语音或数据加密器。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of motorcycle designed for off-road use, often with features for rugged terrain.",
+      "chineseTranslation": "一种设计用于越野的摩托车，通常具备适应崎岖地形的特点。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that scrambles, such as in sports or cooking (e.g., someone who mixes eggs quickly).",
+      "chineseTranslation": "一个快速搅动或混杂的人或事物，例如在体育中快速移动的人或在烹饪中搅拌鸡蛋的工具。",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "voice scrambler",
+      "meaning": "语音加密器",
+      "example": "The voice scrambler on the phone ensures that conversations remain private.",
+      "exampleTranslation": "电话上的语音加密器确保对话保持私密。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "scrambler bike",
+      "meaning": "越野摩托车",
+      "example": "He rides his scrambler bike through the mountains every weekend.",
+      "exampleTranslation": "他每周骑着他的越野摩托车穿越山脉。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "egg scrambler",
+      "meaning": "鸡蛋搅拌器",
+      "example": "Use an egg scrambler to mix the ingredients thoroughly before cooking.",
+      "exampleTranslation": "使用鸡蛋搅拌器在烹饪前彻底混合配料。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The military uses a scrambler to protect sensitive communications from interception.",
+      "translation": "军队使用加密器来保护敏感通信免受拦截。",
+      "source": "Technical literature, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She bought a new scrambler bike for her adventures in the countryside.",
+      "translation": "她买了一辆新的越野摩托车用于她在乡村的冒险。",
+      "source": "Modern media, e.g., lifestyle articles in BNC",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the race, the scrambler dashed ahead of the other competitors.",
+      "translation": "在比赛中，这位快速移动者冲在了其他竞争者前面。",
+      "source": "Sports reporting, e.g., from news sources",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The chef used a scrambler to blend the eggs into a fluffy mixture.",
+      "translation": "厨师使用搅拌器将鸡蛋搅拌成蓬松的混合物。",
+      "source": "Culinary texts, e.g., from general corpora",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "scramble",
+        "meaning": "To struggle or mix up hastily",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语 'scramblen'，可能源于日耳曼语系的词汇，最初指争抢或混乱的动作。17世纪开始演变为现代意义，如混淆信号或快速移动。随技术进步，扩展到电子设备领域。",
+    "firstKnownUse": "1590s",
+    "relatedWords": [
+      "scramble",
+      "descramble",
+      "unscramble"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法：将 'scrambler' 与其常见语境（如技术设备）关联，创建个人图像记忆，例如想象一个摩托车在山路上的场景，以增强长期记忆保留；避免混淆类似词，通过重复练习语境来强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "encryptor",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于信号保护的设备"
+      },
+      {
+        "word": "mixer",
+        "similarity": "0.6",
+        "context": "在烹饪或一般混合语境中"
+      },
+      {
+        "word": "off-roader",
+        "similarity": "0.7",
+        "context": "在车辆语境中，指越野类型"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decoder",
+        "context": "在技术语境中，用于解密信号"
+      },
+      {
+        "word": "unscrambler",
+        "context": "在一般语境中，用于恢复原始顺序"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "vehicle"
+    ],
+    "hyponyms": [
+      "voice encryptor",
+      "off-road motorcycle"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + scrambler (e.g., voice scrambler)",
+        "examples": [
+          "voice scrambler",
+          "data scrambler"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Scrambler + verb (e.g., scrambler rides)",
+        "examples": [
+          "scrambler bike rides"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'scrambler' 象征技术创新和冒险精神，例如在军事或体育领域，代表保护隐私或追求刺激的隐含语义；在跨文化语境中，中国学习者可能将其与本土加密技术或摩托文化关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术或体育语境，如 'scrambler' 在美国俚语中指越野摩托。",
+        "usage": "在美国日常对话中，常见于非正式场合，如青少年文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调历史和技术语境，如与二战加密技术相关。",
+        "usage": "在英国，更多用于正式或历史讨论中"
+      }
+    ],
+    "historicalContext": "与20世纪的加密技术（如二战时期的代码机）相关，在文学和社会中象征情报战；在现代，中国文化中可能与网络安全主题相联。",
+    "modernUsage": "在社交媒体和数字时代，'scrambler' 常用于讨论隐私工具或极限运动，反映全球化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个骑手在崎岖山路上驾驶摩托车，同时手机信号被加密—画面中摩托车 'scrambling' 地前进，信号像混乱的线条。",
+      "keyElements": [
+        "摩托车",
+        "加密信号",
+        "山路"
+      ],
+      "emotionalConnection": "联结个人冒险经历或对科技的兴趣，以触发积极情绪，如兴奋感，帮助强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Scrambler 听起来像 'scramble eggs'，联想到快速搅拌。",
+        "explanation": "通过声音联想将词汇与日常烹饪场景连接，增强认知关联。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-R-A-M-B-L-E-R: 'S' for secure, 'C' for cycle (摩托车)，以此构建缩写记忆。",
+        "explanation": "利用认知科学中的分块技巧，将字母与含义关联，提高回忆效率。"
+      }
+    ],
+    "wordAssociations": [
+      "scramble",
+      "encrypt",
+      "bike"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "scramblers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + scrambler",
+        "description": "作为名词用在主语或宾语位置，例如描述设备或人。",
+        "examples": [
+          "The scrambler protects the data."
+        ]
+      },
+      {
+        "pattern": "Adjective + scrambler",
+        "description": "用形容词修饰名词，例如 'advanced scrambler'。",
+        "examples": [
+          "An advanced scrambler was installed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'scrambler' as a verb form",
+        "correction": "Use as noun only; for verb, use 'scramble'",
+        "explanation": "学习者常误将之视为动词，需注意其主要名词用法，以避免语法错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "中级学习者可能遗忘复数形式，建议通过模式练习强化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "sports",
+      "daily life"
+    ],
+    "tags": [
+      "electronics",
+      "vehicles",
+      "security"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

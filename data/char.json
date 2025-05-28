@@ -1,0 +1,258 @@
+{
+  "word": "char",
+  "phonetics": {
+    "british": "/tʃɑː/",
+    "american": "/tʃɑr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single unit of text or symbol, such as a letter, digit, or punctuation mark, especially in computing or data processing.",
+      "chineseTranslation": "字符",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of fish belonging to the salmon family, often found in cold waters.",
+      "chineseTranslation": "鳟鱼（一种鲑鱼家族的鱼类）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To burn or scorch something, typically wood, until it becomes blackened or charred.",
+      "chineseTranslation": "烧焦",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "char array",
+      "meaning": "字符数组",
+      "example": "In programming, a char array is used to store multiple characters.",
+      "exampleTranslation": "在编程中，字符数组用于存储多个字符。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "arctic char",
+      "meaning": "北极鳟鱼",
+      "example": "The arctic char is a popular fish in Scandinavian cuisine.",
+      "exampleTranslation": "北极鳟鱼是斯堪的纳维亚美食中的热门鱼类。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "char the meat",
+      "meaning": "烧焦肉类",
+      "example": "Be careful not to char the meat when grilling.",
+      "exampleTranslation": "烧烤时要小心不要把肉烧焦。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The programmer declared a char variable to handle single letters.",
+      "translation": "程序员声明了一个字符变量来处理单个字母。",
+      "source": "Technical documentation, e.g., from C++ tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We caught a fresh char from the lake for dinner.",
+      "translation": "我们从湖里捕到一条新鲜的鳟鱼作晚餐。",
+      "source": "Literature, e.g., modern novels about outdoor adventures",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The fire was so intense that it charred the wooden beams.",
+      "translation": "火势如此猛烈，以至于烧焦了木梁。",
+      "source": "News articles on wildfires",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English and Middle English",
+    "rootWords": [
+      {
+        "root": "cerran",
+        "meaning": "to turn",
+        "language": "Old English"
+      },
+      {
+        "root": "charre",
+        "meaning": "a type of fish",
+        "language": "Middle English, from Old Norse"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'cerran'，意为转动或烧焦，逐渐演变为现代英语中表示烧焦的动词。作名词时，如指鱼类，则源自中古英语 'charre'，可能受古挪威语影响；作为计算机术语，则源于19世纪拉丁语 'character' 的缩写形式，通过法语演变。",
+    "firstKnownUse": "约公元1000年（作为动词）",
+    "relatedWords": [
+      "character",
+      "charring",
+      "charcoal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如将 'char' 想象为计算机屏幕上的字母，以增强空间记忆；使用间隔重复法复习多重含义，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "character",
+        "similarity": "0.8",
+        "context": "在计算机语境中，常用于表示单个符号"
+      },
+      {
+        "word": "scorch",
+        "similarity": "0.7",
+        "context": "在描述烧焦的语境中，作为动词同义词"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extinguish",
+        "context": "在烧焦的语境中，表示相反的灭火行为"
+      },
+      {
+        "word": "preserve",
+        "context": "在计算机语境中，表示保护数据而不改变"
+      }
+    ],
+    "hypernyms": [
+      "symbol",
+      "fish"
+    ],
+    "hyponyms": [
+      "ASCII char",
+      "lake char"
+    ],
+    "collocations": [
+      {
+        "pattern": "char + noun (e.g., char array)",
+        "examples": [
+          "a char variable in code"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + char (e.g., burn char)",
+        "examples": [
+          "to char the surface"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'char' 作为计算机术语象征数字时代的简化表达；在文学中，可能隐含自然与人类互动的隐喻，如烧焦代表破坏。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境",
+        "usage": "在硅谷文化中，'char' 是编程基础词汇"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向非正式用法，如鱼类",
+        "usage": "在英国方言中，偶尔用于地方美食描述"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'char' 的烧焦含义反映了早期采矿和冶金文化；作为计算机术语，则与20世纪信息技术兴起有关。",
+    "modernUsage": "在社交媒体和在线论坛中，'char' 常出现在编程讨论中，体现数字文化的快速传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个燃烧的木头变成字符的场景，例如一个火堆中出现字母 'A'，象征烧焦与数字符号的结合。",
+      "keyElements": [
+        "火堆",
+        "字母符号",
+        "鱼类图像"
+      ],
+      "emotionalConnection": "联结个人编程经历或野外烧烤记忆，以触发积极情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Char 像 'character' 的缩写，联想成一个火中的字符。",
+        "explanation": "通过视觉联想增强词汇保留，利用认知科学中的双编码效应"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/tʃɑr/' 听起来像 '车' (char in Chinese sounds like vehicle)，联想成一辆车载着字符。",
+        "explanation": "结合母语声音相似性，促进跨语言记忆转移"
+      }
+    ],
+    "wordAssociations": [
+      "character",
+      "burn",
+      "fish"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "chars",
+      "pastTense": "charred",
+      "pastParticiple": "charred",
+      "presentParticiple": "charring",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "典型主谓宾结构，例如动词用法",
+        "examples": [
+          "The fire charred the wood."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词的简单短语",
+        "examples": [
+          "A char in the code."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'char' with 'character'",
+        "correction": "Use 'char' only in technical contexts",
+        "explanation": "由于相似性，初级学习者可能混淆语境"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ʃɑr/",
+        "correction": "Pronounce as /tʃɑr/",
+        "explanation": "美式英语中常见错误，需注意音标区别"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "nature",
+      "cooking"
+    ],
+    "tags": [
+      "computing",
+      "wildlife",
+      "action verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

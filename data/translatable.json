@@ -1,0 +1,243 @@
+{
+  "word": "translatable",
+  "phonetics": {
+    "british": "/trænzˈleɪtəbl/",
+    "american": "/trænsˈleɪtəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being translated from one language to another without significant loss of meaning.",
+      "chineseTranslation": "可翻译的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Able to be converted or adapted from one form or system to another.",
+      "chineseTranslation": "可转换的或可适应的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "easily translatable",
+      "meaning": "容易翻译的",
+      "example": "This poem is easily translatable into French.",
+      "exampleTranslation": "这首诗很容易翻译成法语。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "not translatable",
+      "meaning": "无法翻译的",
+      "example": "Some cultural idioms are not translatable across languages.",
+      "exampleTranslation": "一些文化习语无法跨语言翻译。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The novel's themes are translatable to modern society.",
+      "translation": "这本小说的主题可以翻译适用于现代社会。",
+      "source": "Literary analysis (e.g., from academic reviews)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, code must be translatable between different platforms.",
+      "translation": "在软件开发中，代码必须能够在不同平台之间转换。",
+      "source": "Technical documentation (e.g., from tech blogs)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her experiences were translatable into a compelling story.",
+      "translation": "她的经历可以转化为一个引人入胜的故事。",
+      "source": "Informal writing (e.g., personal essays)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "translat-",
+        "meaning": "to carry across",
+        "language": "Latin"
+      },
+      {
+        "root": "abilis",
+        "meaning": "able to be done",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'translatabilis'，是 'translatus'（transferre 的过去分词，意为'转移'或'翻译'）加上后缀 '-abilis' 形成，表示'能够被...的'。在中世纪拉丁语中演变为英语，最初用于指代文本的翻译能力，17世纪起扩展到更广泛的适应性概念。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "translate",
+      "translation",
+      "translatable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10)",
+    "spellingDifficulty": "5 (1-10)",
+    "meaningComplexity": "6 (1-10)",
+    "usageComplexity": "5 (1-10)",
+    "learningTips": [
+      "通过认知科学原理，利用分块学习法将 'translatable' 与 'translate' 的词根关联，以增强记忆；建议创建个人语境联想，例如想象跨文化交流场景，以提高语义理解和长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "adaptable",
+        "similarity": "0.7",
+        "context": "在技术或适应性语境中适用，例如软件转换"
+      },
+      {
+        "word": "convertible",
+        "similarity": "0.6",
+        "context": "在非语言转换语境中适用，例如数据格式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "untranslatable",
+        "context": "当内容无法准确翻译时使用，例如文化特定表达"
+      },
+      {
+        "word": "inadaptable",
+        "context": "在无法转换或适应的语境中适用，例如顽固的系统"
+      }
+    ],
+    "hypernyms": [
+      "adaptable"
+    ],
+    "hyponyms": [
+      "linguistically translatable"
+    ],
+    "collocations": [
+      {
+        "pattern": "adverb + translatable",
+        "examples": [
+          "easily translatable",
+          "directly translatable"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "translatable + noun",
+        "examples": [
+          "translatable text",
+          "translatable content"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词反映了翻译在跨文化交流中的重要性，常隐含语义为文化多样性的挑战，例如在全球化时代，'translatable' 象征着语言障碍的克服，但也提醒不可翻译元素的独特性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件本地化",
+        "usage": "在美国英语中，强调实际应用，例如 'The app is translatable for global markets.'"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重文学和学术语境",
+        "usage": "在英国英语中，常用于讨论文学作品，例如 'Shakespeare's works are highly translatable.'"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的翻译运动相关，当时拉丁语文本被翻译为本土语言，促进了知识传播；在现代，关联到后殖民主义讨论中不可翻译的文化元素。",
+    "modernUsage": "在社交媒体和数字平台上，'translatable' 常用于讨论AI翻译工具的局限性，例如TikTok上的跨文化内容。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个桥梁连接两个岛屿，代表语言间的转换；'translatable' 像桥上的标志，表示内容可以安全通过。",
+      "keyElements": [
+        "桥梁",
+        "岛屿",
+        "标志"
+      ],
+      "emotionalConnection": "联结个人旅行经验，例如跨越文化障碍的时刻，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'translatable' as 'transfer + able' – like transferring a package across borders.",
+        "explanation": "通过视觉联想词根，结合认知科学的空间记忆原理，帮助学习者构建心理图像以提升词汇保留。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce it as 'trans-late-able' and link to the sound of a door opening, symbolizing access.",
+        "explanation": "利用声音与动作的联觉，根据多感官学习理论，促进听觉和运动记忆的整合。"
+      }
+    ],
+    "wordAssociations": [
+      "translate",
+      "adapt",
+      "convert"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more translatable",
+      "superlative": "most translatable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + translatable",
+        "description": "用于描述主语的可翻译性",
+        "examples": [
+          "The document is translatable."
+        ]
+      },
+      {
+        "pattern": "Adverb + translatable + noun",
+        "description": "修饰名词的形容词结构",
+        "examples": [
+          "An easily translatable phrase."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'transitive' (a verb form)",
+        "correction": "Use 'translatable' for translation ability",
+        "explanation": "二者词形相似，但 'transitive' 指代及物动词，与翻译无关；建议通过语境区分以避免混淆。"
+      },
+      {
+        "mistake": "Overusing in non-linguistic contexts",
+        "correction": "Limit to appropriate scenarios",
+        "explanation": "初级学习者可能错误扩展其含义；强调语境分析以提高准确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "Linguistics",
+      "Technology",
+      "Literature"
+    ],
+    "tags": [
+      "Adjective",
+      "Translation",
+      "Adaptation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

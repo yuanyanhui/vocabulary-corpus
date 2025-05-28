@@ -1,0 +1,285 @@
+{
+  "word": "wrangle",
+  "phonetics": {
+    "british": "/ˈræŋɡl/",
+    "american": "/ˈræŋɡl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to argue or dispute noisily and at length",
+      "chineseTranslation": "大声争吵或长时间争论",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to obtain or achieve something by persistent effort or argument",
+      "chineseTranslation": "通过坚持努力或争论来获得某事",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to herd or manage livestock, especially in a rough or forceful manner",
+      "chineseTranslation": "管理或驱赶牲畜，特别是以粗暴方式",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a noisy argument or dispute",
+      "chineseTranslation": "喧闹的争吵或争端",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "in computing, the process of cleaning and organizing messy data",
+      "chineseTranslation": "在计算机领域，指清理和组织杂乱数据的过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wrangle with",
+      "meaning": "与某人争论或争执",
+      "example": "She had to wrangle with the committee over the budget.",
+      "exampleTranslation": "她不得不与委员会就预算问题争论。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data wrangle",
+      "meaning": "数据清理和处理",
+      "example": "Data scientists spend hours wrangling raw data before analysis.",
+      "exampleTranslation": "数据科学家在分析前要花数小时清理原始数据。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "wrangle out",
+      "meaning": "通过争论争取得到",
+      "example": "They managed to wrangle out a compromise after hours of debate.",
+      "exampleTranslation": "他们经过数小时辩论，最终争取到一个妥协。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The siblings often wrangle over who gets the last piece of cake.",
+      "translation": "兄妹俩经常为谁得到最后一块蛋糕而争吵。",
+      "source": "Everyday conversation (informed by COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the tech industry, data wrangling is a crucial step in preparing datasets for machine learning.",
+      "translation": "在科技行业，数据清理是准备机器学习数据集的关键步骤。",
+      "source": "Technical article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Cowboys in the Old West would wrangle cattle across vast plains.",
+      "translation": "老西部牛仔们会驱赶牲畜穿越广阔的平原。",
+      "source": "Historical literature (e.g., Western novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Politicians wrangle in parliament to pass new legislation.",
+      "translation": "政客们在议会中争论以通过新法律。",
+      "source": "News media (e.g., BBC reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old Norse",
+    "rootWords": [
+      {
+        "root": "vrangr",
+        "meaning": "perverse or wrong",
+        "language": "Old Norse"
+      },
+      {
+        "root": "wrangen",
+        "meaning": "to twist or struggle",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "从古挪威语 'vrangr'（意为扭曲或不正当）演变而来，通过中古英语 'wrangen'（意为扭转或争斗）发展到现代英语，最初指物理上的挣扎，逐渐扩展到口头争论和数据处理语境。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "wrangler",
+      "wrangling"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知联想将 'wrangle' 与 'wrestle'（摔跤）联系，因为两者都涉及挣扎；通过重复使用情境记忆法，如想象争吵场景，以强化语义；根据斯温学习理论，逐步从简单例句过渡到复杂语境以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "argue",
+        "similarity": "0.8",
+        "context": "适用于非正式争论语境，如家庭讨论"
+      },
+      {
+        "word": "quarrel",
+        "similarity": "0.7",
+        "context": "适用于激烈口头冲突"
+      },
+      {
+        "word": "manipulate",
+        "similarity": "0.6",
+        "context": "适用于数据处理语境，如技术领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "agree",
+        "context": "适用于和谐对话或共识形成"
+      },
+      {
+        "word": "harmonize",
+        "context": "适用于避免冲突的合作语境"
+      }
+    ],
+    "hypernyms": [
+      "dispute",
+      "manage"
+    ],
+    "hyponyms": [
+      "bicker",
+      "data cleaning"
+    ],
+    "collocations": [
+      {
+        "pattern": "wrangle with [someone]",
+        "examples": [
+          "He wrangled with his colleagues."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "wrangle [data]",
+        "examples": [
+          "Scientists wrangle large datasets."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在美国文化中，该词与西部牛仔文化相关，常隐含挣扎和坚韧的象征；在现代语境下，数据 wrangling 反映了技术时代的数据管理挑战。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于西部俚语或技术术语",
+        "usage": "在美国西南部，强调牲畜管理；在美国科技圈，强调数据处理"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于口头争论",
+        "usage": "在英国英语中，常用于非正式对话，避免正式场合"
+      }
+    ],
+    "historicalContext": "起源于中世纪欧洲的挣扎概念，与维京文化相关；在19世纪美国西部拓荒中，演变为牛仔术语；当代与数字化转型相关。",
+    "modernUsage": "在社交媒体和科技论坛中流行，用于描述在线争论或数据分析过程，体现跨文化适应性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个牛仔在尘土飞扬的牧场上努力驱赶一群倔强的牛，同时与同伴大声争论方向。",
+      "keyElements": [
+        "牛仔",
+        "争论",
+        "尘土"
+      ],
+      "emotionalConnection": "联结个人经历，如儿时家庭争吵，以触发情感记忆并增强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'wrangle' 联想为 'wrestle angle'（摔跤角度），因为它涉及扭打般的争斗。",
+        "explanation": "通过视觉联想帮助记忆语义，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "听起来像 'rang'（响起），想象争吵的声音回荡。",
+        "explanation": "利用声音模式匹配，增强听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "argue",
+      "struggle",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "wrangled",
+      "pastParticiple": "wrangled",
+      "presentParticiple": "wrangling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + wrangle + with + object",
+        "description": "主语与对象发生争论的结构",
+        "examples": [
+          "They wrangle with each other."
+        ]
+      },
+      {
+        "pattern": "Subject + wrangle + object",
+        "description": "主语直接管理或处理对象的结构",
+        "examples": [
+          "He wrangles the data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'wrinkle' (a fold in something)",
+        "correction": "Use 'wrangle' for arguments or management",
+        "explanation": "这些词发音相似，但语义不同；通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'wrangle' instead of 'wrangled'",
+        "correction": "Use past tense 'wrangled' for completed actions",
+        "explanation": "动词时态错误常见于非母语者；参考语法规则以改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      " everyday conversation",
+      "technology",
+      "historical literature"
+    ],
+    "tags": [
+      "argument",
+      "dispute",
+      "data processing",
+      "verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

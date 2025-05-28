@@ -1,0 +1,254 @@
+{
+  "word": "cache",
+  "phonetics": {
+    "british": "/kæʃ/",
+    "american": "/kæʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A hidden store of provisions, weapons, or other supplies, often in a secret place.",
+      "chineseTranslation": "隐藏的贮藏物或供应品（如食物、武器等）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a hardware or software component that stores data so that future requests for that data can be served faster.",
+      "chineseTranslation": "在计算机中，用于存储频繁访问数据的快速内存组件",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To store data in a cache memory for quick retrieval.",
+      "chineseTranslation": "将数据存储在缓存中以加快后续访问",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cache memory",
+      "meaning": "缓存内存",
+      "example": "The CPU uses cache memory to speed up data access.",
+      "exampleTranslation": "CPU 使用缓存内存来加速数据访问。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "web cache",
+      "meaning": "网络缓存",
+      "example": "Clearing the web cache can resolve loading issues on websites.",
+      "exampleTranslation": "清除网络缓存可以解决网站加载问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hidden cache",
+      "meaning": "隐藏的贮藏处",
+      "example": "Explorers discovered a hidden cache of ancient artifacts.",
+      "exampleTranslation": "探险者发现了一个隐藏的古代文物贮藏处。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The hikers found a cache of supplies in the cave.",
+      "translation": "徒步旅行者们在洞穴中发现了一个供应品贮藏。",
+      "source": "Adventure literature (e.g., from sources like National Geographic)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern browsers automatically cache images to improve page load times.",
+      "translation": "现代浏览器自动缓存图像以提高页面加载速度。",
+      "source": "Technical articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the war, soldiers would cache weapons in safe locations.",
+      "translation": "在战争期间，士兵们会将武器隐藏在安全地点。",
+      "source": "Historical narratives (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "cacher",
+        "meaning": "to hide",
+        "language": "French"
+      }
+    ],
+    "historicalDevelopment": "源自法语 'cacher'，意为隐藏，追溯到古法语，可能与拉丁语 'coactare'（强迫或约束）相关联；在英语中，从 18 世纪开始使用，最初指物理隐藏物，后来扩展到计算机科学中的数据存储概念。",
+    "firstKnownUse": "1797 (as per Oxford English Dictionary)",
+    "relatedWords": [
+      "cachet",
+      "caching"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, suitable for intermediate learners with some exposure to technical English)",
+    "pronunciationDifficulty": "3 (out of 10; simple consonant-vowel structure, but the 'ch' sound as /ʃ/ may confuse Chinese speakers accustomed to /tʃ/)",
+    "spellingDifficulty": "4 (out of 10; straightforward spelling, but silent 'e' and vowel placement might require practice)",
+    "meaningComplexity": "6 (out of 10; multiple meanings across contexts, with computing usage adding abstraction based on language learning theory from Krashen's input hypothesis)",
+    "usageComplexity": "5 (out of 10; common in technical and everyday contexts, but requires context awareness)",
+    "learningTips": [
+      "利用间隔重复系统（Spaced Repetition System, SRS）结合个人经验，例如将 'cache' 联想为 '现金' 的隐藏处，以增强记忆；根据认知科学，创建视觉图像如一个隐藏的宝箱来连接抽象概念。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hoard",
+        "similarity": "0.7",
+        "context": "在非技术语境中，用于描述隐藏的储备物"
+      },
+      {
+        "word": "buffer",
+        "similarity": "0.8",
+        "context": "在计算机语境中，指临时存储数据"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discard",
+        "context": "在技术语境中，指删除或不存储数据"
+      },
+      {
+        "word": "expose",
+        "context": "在一般语境中，指显露或不隐藏物品"
+      }
+    ],
+    "hypernyms": [
+      "storage",
+      "memory"
+    ],
+    "hyponyms": [
+      "CPU cache",
+      "disk cache"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + cache (e.g., store in a cache)",
+        "examples": [
+          "We cache data for faster access."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + cache (e.g., hidden cache)",
+        "examples": [
+          "The hidden cache was full of treasures."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征隐藏或快速访问的资源，隐含语义包括资源管理和效率；在计算机时代，它反映了现代科技对速度的强调。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，'cache' 在科技行业高度流行，源自硅谷文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向历史或户外语境，如探险故事",
+        "usage": "在英国英语中，偶尔用于文学或历史叙述，以突出传统含义"
+      }
+    ],
+    "historicalContext": "与 18 世纪的探险和殖民历史相关联，如在北美洲的毛皮贸易中用于隐藏物资；现代与工业革命和数字时代关联，体现了从物理到虚拟存储的演变。",
+    "modernUsage": "在社交媒体和科技语境下流行，如 TikTok 或 Reddit 上讨论浏览器缓存问题，反映数字时代的即时性需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个隐藏的宝箱（cash box）里面存放着快速取出的物品，就像计算机缓存存储数据。",
+      "keyElements": [
+        "宝箱",
+        "隐藏",
+        "快速访问"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年藏宝游戏，触发好奇和成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'cache' 联想为 'cash'（现金）+ 'hide'（隐藏），因为它像隐藏的财富。",
+        "explanation": "通过声音和语义联想，帮助中级学习者建立直观连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "C-A-C-H-E: C for Cache, A for Access quickly, C for Computer hide, H for Hidden, E for Efficient.",
+        "explanation": "使用首字母缩略法创建故事，改善记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "hoard",
+      "buffer",
+      "store"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "caches",
+      "pastTense": "cached",
+      "pastParticiple": "cached",
+      "presentParticiple": "caching",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + cache + [of + noun]",
+        "description": "典型结构用于描述内容，例如 'a cache of data'",
+        "examples": [
+          "A cache of weapons was discovered."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: [Subject] + cache + [object]",
+        "description": "用于动作描述，例如 'The system caches files'",
+        "examples": [
+          "The browser caches web pages."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'cache' with 'cash' in pronunciation and spelling",
+        "correction": "Use /kæʃ/ and spell as 'cache' for the storage meaning",
+        "explanation": "中文学习者可能因音似混淆财务术语；通过练习区分语境可避免"
+      },
+      {
+        "mistake": "Using 'cache' without context, leading to ambiguity",
+        "correction": "Specify the context, e.g., 'computer cache' vs. 'hidden cache'",
+        "explanation": "中级水平学习者需注意语义的多义性，通过语境线索学习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus, common in technical domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Outdoors",
+      "History"
+    ],
+    "tags": [
+      "Computing",
+      "Storage",
+      "Hidden",
+      "Efficiency"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "word": "statistical",
+  "phonetics": {
+    "british": "/stəˈtɪstɪk(ə)l/",
+    "american": "/stəˈtɪstɪk(ə)l/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the collection, analysis, interpretation, and presentation of masses of numerical data.",
+      "chineseTranslation": "统计学的；与统计有关的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Based on or involving statistics or the use of statistical methods.",
+      "chineseTranslation": "基于统计的；统计方法的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "statistical analysis",
+      "meaning": "统计分析",
+      "example": "Statistical analysis is essential for interpreting survey results.",
+      "exampleTranslation": "统计分析对于解释调查结果至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "statistical data",
+      "meaning": "统计数据",
+      "example": "The report includes statistical data from the past decade.",
+      "exampleTranslation": "报告包含了过去十年的统计数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "statistical significance",
+      "meaning": "统计显著性",
+      "example": "The results showed statistical significance at the 5% level.",
+      "exampleTranslation": "结果显示在5%的水平上具有统计显著性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The statistical model predicted a 20% increase in sales.",
+      "translation": "统计模型预测销售额将增加20%。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In statistical terms, correlation does not imply causation.",
+      "translation": "在统计学上，相关性并不意味着因果关系。",
+      "source": "Academic texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Statistical methods are widely used in medical research.",
+      "translation": "统计方法在医学研究中被广泛使用。",
+      "source": "Scientific literature (e.g., PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "status",
+        "meaning": "state or condition",
+        "language": "Latin"
+      },
+      {
+        "root": "statisticus",
+        "meaning": "pertaining to state affairs",
+        "language": "New Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'status'（状态）演变而来，经由17世纪的法语 'statistique'，最初指国家事务的管理和数据收集，逐渐发展为现代统计学的概念，强调数据分析和概率。",
+    "firstKnownUse": "18th century",
+    "relatedWords": [
+      "statistics",
+      "statistician",
+      "statutory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学原理，将词汇与实际数据分析场景关联，以增强记忆；例如，通过视觉化图表来记忆 'statistical' 的含义。",
+      "结合间隔重复法复习，确保在实际语境中应用，避免孤立记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quantitative",
+        "similarity": "0.8",
+        "context": "在科学或数据驱动的语境中，用于描述基于数字的分析"
+      },
+      {
+        "word": "numerical",
+        "similarity": "0.7",
+        "context": "强调数字特征的语境中，常用于数学和统计领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "qualitative",
+        "context": "在研究方法中，用于对比非数字化的描述性分析"
+      },
+      {
+        "word": "anecdotal",
+        "context": "在证据类型中，用于对比基于个人经历而非数据的方法"
+      }
+    ],
+    "hypernyms": [
+      "analytical"
+    ],
+    "hyponyms": [
+      "descriptive statistical",
+      "inferential statistical"
+    ],
+    "collocations": [
+      {
+        "pattern": "statistical + noun",
+        "examples": [
+          "statistical methods",
+          "statistical error"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + statistical",
+        "examples": [
+          "advanced statistical techniques"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着证据-based决策，尤其在科学、政策和商业领域，体现了理性主义和数据驱动的价值观。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术性语境，如数据科学",
+        "usage": "在日常和专业讨论中强调统计在创新中的作用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于学术和历史语境",
+        "usage": "在教育和政府报告中常见，反映传统统计学遗产"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，统计学兴起于18世纪欧洲，用于社会管理和科学进步。",
+    "modernUsage": "在社交媒体和数字时代，'statistical' 常用于大数据分析和AI讨论，体现了全球化的信息时代趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，科学家在使用图表和数字分析数据。",
+      "keyElements": [
+        "图表",
+        "数字",
+        "分析工具"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆学校统计课的兴奋或挑战，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'statistical' 联想为 'state + mystical'，表示 '国家的神秘数字'，帮助记住其数据分析含义。",
+        "explanation": "通过声音联想强化词汇与概念的连接，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-A-T: State, Total, Analyze, Track",
+        "explanation": "使用首字母缩略法构建故事，辅助记忆词汇结构"
+      }
+    ],
+    "wordAssociations": [
+      "data",
+      "probability",
+      "survey"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more statistical",
+      "superlative": "most statistical"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + statistical",
+        "description": "用于描述主语的特征",
+        "examples": [
+          "The study is statistical in nature."
+        ]
+      },
+      {
+        "pattern": "Statistical + noun",
+        "description": "修饰名词的常见结构",
+        "examples": [
+          "Statistical models are useful."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'statistics' as a verb",
+        "correction": "Use as adjective only",
+        "explanation": " 'Statistical' is an adjective, not a verb form; ensure proper part of speech usage."
+      },
+      {
+        "mistake": "Overgeneralization in context",
+        "correction": "Limit to data-related contexts",
+        "explanation": "Learners may misuse in non-technical settings; emphasize domain-specific application."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "business",
+      "academia"
+    ],
+    "tags": [
+      "mathematics",
+      "data analysis",
+      "research"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

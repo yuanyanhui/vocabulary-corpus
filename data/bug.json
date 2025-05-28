@@ -1,0 +1,273 @@
+{
+  "word": "bug",
+  "phonetics": {
+    "british": "/bʌɡ/",
+    "american": "/bʌɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An insect of the order Hemiptera, typically characterized by piercing and sucking mouthparts.",
+      "chineseTranslation": "虫子",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fault or defect in a computer program or system that causes it to produce an incorrect or unexpected result.",
+      "chineseTranslation": "程序错误",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To plant a concealed microphone or other listening device on or in something.",
+      "chineseTranslation": "安装窃听器",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An illness or disease, especially one caused by a microorganism.",
+      "chineseTranslation": "病菌",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "debug a program",
+      "meaning": "修复程序中的错误",
+      "example": "The programmer spent hours debugging the software to fix the bug.",
+      "exampleTranslation": "程序员花了几个小时来修复软件中的错误。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bed bug",
+      "meaning": "一种常见的寄生虫",
+      "example": "We had to call an exterminator because of the bed bugs in the hotel room.",
+      "exampleTranslation": "我们不得不叫灭虫员来处理酒店房间里的臭虫。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bug someone",
+      "meaning": "烦扰或打扰某人",
+      "example": "Stop bugging me with your constant questions!",
+      "exampleTranslation": "别再用你那些没完没了的问题来烦我！",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I found a bug in the code that was causing the application to crash.",
+      "translation": "我在代码中发现了一个导致应用程序崩溃的错误。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The child screamed when she saw a bug crawling on the windowsill.",
+      "translation": "孩子看到窗台上爬着的虫子时尖叫起来。",
+      "source": "General fiction (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The spy attempted to bug the enemy's headquarters with hidden devices.",
+      "translation": "间谍试图在敌人的总部安装窃听器。",
+      "source": "Espionage literature (e.g., from OED examples)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the picnic, we had to shake out the blanket to get rid of any bugs.",
+      "translation": "野餐后，我们必须抖掉毯子上的虫子。",
+      "source": "Everyday conversation (e.g., from COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "bugge",
+        "meaning": "An object of terror or a goblin",
+        "language": "Middle English"
+      },
+      {
+        "root": "bug",
+        "meaning": "Insect",
+        "language": "Old English (influenced by Germanic roots)"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的 'bugge'，最初指恐怖的事物或小精灵，在16世纪演变为指昆虫；20世纪中叶，在计算机领域扩展为指程序缺陷，这一演变反映了语言随技术进步而变化的过程。",
+    "firstKnownUse": "约1620年用于昆虫含义，1940年代用于计算机错误",
+    "relatedWords": [
+      "debug",
+      "bedbug",
+      "ladybug"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个虫子代表程序错误，以增强记忆痕迹；使用间隔重复法复习多义词以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "insect",
+        "similarity": "0.8",
+        "context": "在生物学语境中，用于描述小动物"
+      },
+      {
+        "word": "glitch",
+        "similarity": "0.7",
+        "context": "在技术语境中，用于指系统故障"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "feature",
+        "context": "在软件开发中，指设计意图而非错误"
+      },
+      {
+        "word": "perfection",
+        "context": "在一般语境中，指无瑕疵的状态"
+      }
+    ],
+    "hypernyms": [
+      "error",
+      "insect"
+    ],
+    "hyponyms": [
+      "software bug",
+      "bed bug"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + bug (e.g., fix a bug)",
+        "examples": [
+          "fix a bug",
+          "find a bug"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + bug (e.g., computer bug)",
+        "examples": [
+          "computer bug",
+          "security bug"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征技术世界的脆弱性，尤其在硅谷文化中，'bug' 常隐含创新与错误试炼的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境",
+        "usage": "在美国英语中，'bug' 在软件行业高度流行，体现快速迭代文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向生物学含义",
+        "usage": "在英国英语中，'bug' 常用于日常对话中描述昆虫，而技术用法也存在但较正式"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机时代的兴起相关，在文学如莎士比亚作品中出现早期含义；现代社会中，与黑客文化和软件开发历史相联。",
+    "modernUsage": "在社交媒体和科技平台上流行，例如Twitter上的#bugfix标签，反映数字时代的问题解决趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个虫子爬进计算机屏幕，代表程序错误。",
+      "keyElements": [
+        "虫子",
+        "计算机屏幕"
+      ],
+      "emotionalConnection": "联结个人编程经历中的挫败感，以强化情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bug like a bug in code – both crawl and cause problems.",
+        "explanation": "通过视觉联想将生物虫子和代码错误连接，运用认知联想原理增强长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "B.U.G. = Bad Unexpected Glitch",
+        "explanation": "使用首字母缩略词帮助记忆多义性，基于认知编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "insect",
+      "error",
+      "spy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bugs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + bug",
+        "description": "主语加动词加bug的结构，常用于动作描述",
+        "examples": [
+          "They bugged the room."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with bug",
+        "description": "名词短语中包含bug，常用于描述实体",
+        "examples": [
+          "The bug in the system caused delays."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bug' with 'buggy' (meaning unstable)",
+        "correction": "Use 'bug' for specific errors and 'buggy' for overall instability",
+        "explanation": "学习者常混淆形容词用法，需注意语境区分"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Limit to appropriate registers",
+        "explanation": "中级学习者可能错误泛化技术含义，建议通过语境练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "biology",
+      "espionage"
+    ],
+    "tags": [
+      "computing",
+      "insects",
+      "errors"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

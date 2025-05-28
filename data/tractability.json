@@ -1,0 +1,239 @@
+{
+  "word": "tractability",
+  "phonetics": {
+    "british": "/ˌtræk.təˈbɪl.ə.ti/",
+    "american": "/ˌtræk.təˈbɪl.ə.ti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being tractable; the ease with which something can be managed, controlled, or solved, especially in technical or mathematical contexts.",
+      "chineseTranslation": "易处理性；顺从性",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and mathematics, the property of a problem that can be solved in a reasonable amount of time or with polynomial complexity.",
+      "chineseTranslation": "可计算性；可解性",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "algorithmic tractability",
+      "meaning": "算法的可计算性",
+      "example": "The algorithmic tractability of this problem makes it suitable for real-time applications.",
+      "exampleTranslation": "这个问题的算法可计算性使其适合实时应用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "problem tractability",
+      "meaning": "问题的易处理性",
+      "example": "Researchers are investigating the problem tractability in complex systems.",
+      "exampleTranslation": "研究人员正在调查复杂系统中问题的易处理性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The tractability of the software system was crucial for its adoption in educational settings.",
+      "translation": "该软件系统的易处理性对其在教育环境中的采用至关重要。",
+      "source": "Technical documentation (e.g., from computer science literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In behavioral psychology, the tractability of subjects can influence experimental outcomes.",
+      "translation": "在行为心理学中，受试者的顺从性会影响实验结果。",
+      "source": "Academic journal (e.g., psychological studies)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers assessed the tractability of the design before proceeding with production.",
+      "translation": "工程师在进行生产前评估了设计的易处理性。",
+      "source": "Engineering reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "tract-",
+        "meaning": "to draw or pull",
+        "language": "Latin"
+      },
+      {
+        "root": "tractabilis",
+        "meaning": "that which can be handled or managed",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'tractare'（意思是处理或管理），演变为古法语 'tractable'，17 世纪传入英语。从最初表示 '易于引导或控制' 的含义，逐渐扩展到现代技术语境中表示问题或系统的可计算性。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "tractable",
+      "intractable",
+      "traction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知联想法，将 'tractability' 与 'tractable' 联系起来，想象轻松拉动物品的场景，以增强记忆；根据斯宾塞的记忆理论，重复在技术语境中使用该词以强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "manageability",
+        "similarity": "0.8",
+        "context": "在管理或控制系统的语境中适用，例如工程领域"
+      },
+      {
+        "word": "docility",
+        "similarity": "0.7",
+        "context": "在心理学或教育语境中，表示易于影响或教导"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "intractability",
+        "context": "在技术语境中，表示问题难以解决，例如复杂算法"
+      }
+    ],
+    "hypernyms": [
+      "quality",
+      "attribute"
+    ],
+    "hyponyms": [
+      "algorithmic tractability"
+    ],
+    "collocations": [
+      {
+        "pattern": "problem + tractability",
+        "examples": [
+          "the tractability of the problem"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "system + tractability",
+        "examples": [
+          "the tractability of the system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要作为技术术语存在，没有显著的象征意义，但反映了西方科学文化对问题解决效率的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于计算机科学语境",
+        "usage": "例如，在学术论文中频繁出现，以突出技术可行性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中可能更侧重于一般管理含义",
+        "usage": "在正式报告中用于描述系统或行为的易操控性"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，体现了英语文化中对效率和理性的追求，例如在 19 世纪的科学文献中开始流行。",
+    "modernUsage": "在社交媒体和在线论坛中，特别是在科技社区，如 Reddit 或 Stack Overflow 上，用于讨论 AI 和算法问题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个轻松拉动轻便手推车的场景，其中 'tract-' 代表拉动，强调容易性。",
+      "keyElements": [
+        "拉动",
+        "轻松",
+        "手推车"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年轻松玩耍的时刻，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tractability 听起来像 'track ability'，意思是 '跟踪能力' 或 '处理能力'。",
+        "explanation": "通过声音联想将抽象概念转化为具体图像，帮助初级学习者建立认知连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-A-C-T: Think of 'Tame, Reasonable, Achievable, Controlled, Trackable'.",
+        "explanation": "使用首字母缩写来分解词汇，结合艾宾浩斯遗忘曲线原理进行重复复习。"
+      }
+    ],
+    "wordAssociations": [
+      "tractable",
+      "intractable",
+      "traction"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tractabilities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语用于描述品质，例如 'The tractability of the issue is evident.'",
+        "examples": [
+          "The tractability of the algorithm ensures success."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中表示特征，例如 'with great tractability'",
+        "examples": [
+          "They handled the task with great tractability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'tractability' and 'tractableness'",
+        "correction": "Use 'tractability' as the standard form",
+        "explanation": "学习者常混淆同源词；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect usage in non-technical contexts",
+        "correction": "Limit to formal or technical settings",
+        "explanation": "在非专业语境中可能显得生涩；通过阅读专业文献来熟悉正确语用。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 10,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "computing",
+      "psychology"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "quality"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

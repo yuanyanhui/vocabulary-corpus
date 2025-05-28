@@ -1,0 +1,248 @@
+{
+  "word": "dispense",
+  "phonetics": {
+    "british": "/dɪˈspɛns/",
+    "american": "/dɪˈspɛns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To distribute or deal out something, especially in an official manner.",
+      "chineseTranslation": "分配；分发",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To prepare and give out medicine or a prescribed substance.",
+      "chineseTranslation": "配发药物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To exempt or release someone from a rule, duty, or obligation.",
+      "chineseTranslation": "免除；豁免",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dispense with",
+      "meaning": "省去或免除某事",
+      "example": "We can dispense with the formalities and get straight to the point.",
+      "exampleTranslation": "我们可以省去这些繁文缛节，直接切入正题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dispense justice",
+      "meaning": "执行司法或公平裁决",
+      "example": "The court is responsible for dispensing justice in criminal cases.",
+      "exampleTranslation": "法院负责在刑事案件中执行司法。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pharmacist will dispense the medication once the prescription is verified.",
+      "translation": "药剂师会在处方核实后配发药物。",
+      "source": "Medical literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some traditions, elders dispense wisdom to the younger generation.",
+      "translation": "在某些传统中，长者们向年轻一代传授智慧。",
+      "source": "Cultural essays (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company decided to dispense with the old policies to improve efficiency.",
+      "translation": "公司决定废除旧的政策以提高效率。",
+      "source": "Business news (e.g., from news articles)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dispensare",
+        "meaning": "to weigh out or distribute",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'dispensare'，意为称量或分配，源自 'dis-'（分开）和 'pensare'（称量）。在中世纪拉丁语中演变为 'dispensare'，用于指管理或分配资源。进入古法语后成为 'despenser'，最终在14世纪进入英语，最初用于指分配物品或豁免义务。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "dispensary",
+      "dispenser",
+      "dispense with"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10 scale; moderate due to the stress on the second syllable and the /sp/ cluster, which may challenge intermediate Chinese learners accustomed to tonal languages)",
+    "spellingDifficulty": "5 (1-10 scale; involves silent 'e' and common Latin roots, but spelling is straightforward with practice)",
+    "meaningComplexity": "6 (1-10 scale; multiple senses require contextual understanding, potentially confusing for learners without exposure to formal registers)",
+    "usageComplexity": "5 (1-10 scale; often used in idiomatic phrases, requiring awareness of collocations based on language learning theory from Krashen's input hypothesis)",
+    "learningTips": [
+      "利用认知科学原理，如通过分块学习（chunking）将词汇与常见短语结合；创建个人关联，例如将 'dispense' 与药房场景联系，以增强记忆痕迹；重复暴露于真实语境中以促进长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "distribute",
+        "similarity": "0.8",
+        "context": "在正式语境中用于分配资源或物品，例如商业或行政场合"
+      },
+      {
+        "word": "administer",
+        "similarity": "0.7",
+        "context": "在技术或医疗语境中用于管理或提供服务"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withhold",
+        "context": "在法律或正式语境中，表示保留或不提供某事"
+      },
+      {
+        "word": "retain",
+        "context": "在管理语境中，表示保留而非免除"
+      }
+    ],
+    "hypernyms": [
+      "provide",
+      "supply"
+    ],
+    "hyponyms": [
+      "prescribe",
+      "allocate"
+    ],
+    "collocations": [
+      {
+        "pattern": "dispense + noun (e.g., justice, medication)",
+        "examples": [
+          "dispense advice",
+          "dispense medication"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "dispense with + noun",
+        "examples": [
+          "dispense with formalities"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征公平分配和权威管理，常与司法系统（如 'dispense justice'）或医疗实践相关，隐含语义强调责任和公正，在西方社会中体现了启蒙运动的平等理念。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式法律语境",
+        "usage": "在英国英语中，'dispense' 常与历史法律传统相关联，如在法庭中"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重于商业和医疗应用",
+        "usage": "在美国英语中，常见于药房或行政管理语境中"
+      }
+    ],
+    "historicalContext": "与英国中世纪的封建制度和宗教改革相关，最初用于指教会或王室分配资源；在现代文学如莎士比亚作品中，体现社会阶层和道德责任。",
+    "modernUsage": "在社交媒体和数字时代，'dispense' 常用于在线教育或虚拟服务中，表示即时提供信息或资源。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个药剂师在柜台后称量并分发药物的场景，强调分配动作。",
+      "keyElements": [
+        "药剂师",
+        "天平",
+        "药物瓶"
+      ],
+      "emotionalConnection": "联结到个人经验，如去医院取药的经历，以触发积极回忆并增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'dispense' 联想为 'dis' + 'pense'，像 'disperse pennies'（散布硬币），帮助记住分配含义。",
+        "explanation": "通过视觉联想强化词汇与动作的连接，利用认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /dɪˈspɛns/ 听起来像 'dis-pens'，联想为 'dismiss pens'（丢弃笔），以辅助记忆豁免含义。",
+        "explanation": "使用声音相似性创建心理钩子，促进海马体中的记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "distribute",
+      "give out",
+      "exempt"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "dispensed",
+      "pastParticiple": "dispensed",
+      "presentParticiple": "dispensing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + dispense + object",
+        "description": "主语 + 动词 + 直接宾语的结构，常用于描述分配动作",
+        "examples": [
+          "The machine dispenses tickets."
+        ]
+      },
+      {
+        "pattern": "Dispense with + noun",
+        "description": "表示省去或免除的短语结构",
+        "examples": [
+          "We dispensed with the rules."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'dispense' with 'expense'",
+        "correction": "Use 'dispense' for distribution and 'expense' for costs",
+        "explanation": "这两个词发音相似，但语义不同；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrectly using as a noun",
+        "correction": "Always use as a verb; for noun form, use 'dispenser'",
+        "explanation": "'Dispense' 主要为动词，避免误用为名词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "medicine",
+      "law",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "action verb",
+      "formal language",
+      "distribution"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

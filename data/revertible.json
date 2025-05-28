@@ -1,0 +1,232 @@
+{
+  "word": "revertible",
+  "phonetics": {
+    "british": "/rɪˈvɜːtəbl/",
+    "american": "/rɪˈvɝtəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being returned to a previous state or condition, often used in technical or legal contexts.",
+      "chineseTranslation": "可以恢复的；可逆转的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "revertible changes",
+      "meaning": "可恢复的更改",
+      "example": "In software development, revertible changes allow developers to undo modifications without data loss.",
+      "exampleTranslation": "在软件开发中，可恢复的更改允许开发人员撤消修改而不丢失数据。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "revertible decision",
+      "meaning": "可撤销的决定",
+      "example": "The court's revertible decision can be appealed within a specified timeframe.",
+      "exampleTranslation": "法院的可撤销决定可以在指定时间内上诉。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new software update includes revertible features to ensure user safety.",
+      "translation": "这个新软件更新包括可恢复的功能，以确保用户安全。",
+      "source": "Technical documentation (e.g., from software engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In legal terms, a revertible contract can be nullified if certain conditions are met.",
+      "translation": "在法律术语中，一个可逆转的合同如果满足某些条件可以被取消。",
+      "source": "Legal texts (e.g., from British National Corpus, BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers designed the system with revertible mechanisms to handle potential errors.",
+      "translation": "工程师设计了系统，带有可恢复机制来处理潜在错误。",
+      "source": "Scientific articles (e.g., from academic corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "revert",
+        "meaning": "返回；转向回来",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "该词源于拉丁语'revertere'，意为'转向回来'，通过古法语演变而来。16世纪开始在英语中出现，主要用于法律和技术领域，表示可恢复的状态。从中世纪英语到现代英语，该词的含义逐渐扩展到可逆转的过程，但使用频率较低。",
+    "firstKnownUse": "16世纪",
+    "relatedWords": [
+      "revert",
+      "reversible",
+      "reverse"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将'revertible'与'reverse'或'revert'关联，以强化语义网络；建议通过视觉化场景如'时钟回拨'来建立情感连接，帮助初级学习者逐步掌握其技术语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reversible",
+        "similarity": "0.8",
+        "context": "适用于技术或科学语境中，表示可恢复的状态，例如在物理学或软件中"
+      },
+      {
+        "word": "undoable",
+        "similarity": "0.7",
+        "context": "常用于非正式语境中，表示可撤销的操作，如日常决策"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irreversible",
+        "context": "适用于强调不可恢复的语境，例如在法律或医学中，表示永久性变化"
+      },
+      {
+        "word": "permanent",
+        "context": "常用于正式语境中，表示无法改变的状态"
+      }
+    ],
+    "hypernyms": [
+      "changeable",
+      "modifiable"
+    ],
+    "hyponyms": [
+      "restorable",
+      "recoverable"
+    ],
+    "collocations": [
+      {
+        "pattern": "revertible + noun (e.g., changes, decisions)",
+        "examples": [
+          "revertible changes",
+          "revertible errors"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "adjective + revertible (e.g., fully revertible)",
+        "examples": [
+          "fully revertible system"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征技术进步和风险管理，常隐含对可逆性的重视，例如在西方科技文化中体现对创新的谨慎态度。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如软件和工程",
+        "usage": "在美国英语中，该词在非正式科技讨论中较为常见，强调实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向法律语境",
+        "usage": "在英国英语中，常出现在正式法律文件中，反映历史法律传统"
+      }
+    ],
+    "historicalContext": "与工业革命相关的技术演变有关，该词反映了19世纪以来西方社会对可逆过程的兴趣，在文学如狄更斯作品中偶尔出现，象征社会变革的可逆性。",
+    "modernUsage": "在现代社交媒体和数字平台上，该词的使用趋势增加，尤其在编程社区，如GitHub讨论中，体现跨文化交流的包容性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时钟指针回拨到原来的位置，代表'revertible'的恢复过程。",
+      "keyElements": [
+        "时钟",
+        "回拨",
+        "恢复"
+      ],
+      "emotionalConnection": "联结个人经验，如撤销一个错误决定，触发挫败与救赎的情绪，以增强记忆持久性。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re-vert-i-ble 像 'Re-verse table'，想象一张桌子翻转回来。",
+        "explanation": "通过视觉联想将词根与动作连接，基于认知科学的空间记忆原理，帮助学习者快速回忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /rɪˈvɝtəbl/ 听起来像 'river table'，想象河流上的桌子漂流后返回原位。",
+        "explanation": "利用声音与图像的联觉技巧，增强多模态记忆效果。"
+      }
+    ],
+    "wordAssociations": [
+      "reverse",
+      "revert",
+      "return",
+      "recover"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more revertible",
+      "superlative": "most revertible"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + revertible + object",
+        "description": "典型结构用于描述某事物的可恢复性。",
+        "examples": [
+          "The process is revertible."
+        ]
+      },
+      {
+        "pattern": "revertible + noun phrase",
+        "description": "用作定语修饰名词。",
+        "examples": [
+          "A revertible action plan."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'reversible'",
+        "correction": "Use 'revertible' only in specific technical contexts",
+        "explanation": "学习者常混淆二者语义；'revertible'更强调恢复原状，而'reversible'可泛指可翻转。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /riːˈvɜːtəbl/",
+        "correction": "Pronounce as /rɪˈvɝtəbl/ in American English",
+        "explanation": "错误发音可能导致语义误解，建议通过镜像练习纠正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 20,000 in COCA corpus)",
+    "domains": [
+      "技术",
+      "法律",
+      "工程"
+    ],
+    "tags": [
+      "形容词",
+      "可恢复性",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

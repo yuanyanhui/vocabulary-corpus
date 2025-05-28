@@ -1,0 +1,257 @@
+{
+  "word": "signed",
+  "phonetics": {
+    "british": "/saɪnd/",
+    "american": "/saɪnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "Past tense and past participle of 'sign', meaning to write one's name on a document to indicate agreement or authorship.",
+      "chineseTranslation": "签署的过去式和过去分词",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having been marked with a signature, often indicating agreement, ownership, or authentication.",
+      "chineseTranslation": "已签署的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "signed contract",
+      "meaning": "已签署的合同",
+      "example": "The signed contract was legally binding and outlined the terms of the partnership.",
+      "exampleTranslation": "这份已签署的合同具有法律约束力，并概述了合作伙伴关系条款。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "signed document",
+      "meaning": "已签字的文件",
+      "example": "Please submit the signed document to the notary for verification.",
+      "exampleTranslation": "请将已签字的文件提交给公证人进行核实。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "signed copy",
+      "meaning": "签名副本",
+      "example": "The author provided a signed copy of the book to the fan.",
+      "exampleTranslation": "作者为粉丝提供了一本签名副本的书籍。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The athletes signed autographs for their fans after the game.",
+      "translation": "比赛结束后，运动员为粉丝签名。",
+      "source": "Sports news article (e.g., from BBC Sports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Once the treaty was signed, it marked the end of the conflict.",
+      "translation": "一旦条约签署，就标志着冲突的结束。",
+      "source": "Historical text (e.g., from a UN document)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She received a signed letter from the CEO confirming her promotion.",
+      "translation": "她收到首席执行官的一封签名信，确认她的升职。",
+      "source": "Business email corpus (e.g., from COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In informal settings, friends sometimes signed emails with emojis instead of full signatures.",
+      "translation": "在非正式场合，朋友有时用表情符号而不是完整签名来签署电子邮件。",
+      "source": "Social media discourse (e.g., from BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "signum",
+        "meaning": "A mark or sign",
+        "language": "Latin"
+      },
+      {
+        "root": "signare",
+        "meaning": "To mark or seal",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'signare'（标记或密封）演变而来，通过古法语 'signer' 传入中古英语，最终在现代英语中发展为表示签署或签名。该词的意义从最初的物理标记扩展到象征性协议或认证。",
+    "firstKnownUse": "约 14 世纪",
+    "relatedWords": [
+      "signature",
+      "signify",
+      "signal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复间隔学习法，重复练习 'signed' 在不同语境中的使用；结合视觉联想，如想象签名动作与文件图像，以加强海马体记忆；对于中文母语学习者，比较 'signed' 与 '签署' 的语义映射，避免母语干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "endorsed",
+        "similarity": "0.8",
+        "context": "在正式文件语境中，用于表示获得批准或支持"
+      },
+      {
+        "word": "authenticated",
+        "similarity": "0.7",
+        "context": "在法律或官方语境中，用于强调真实性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unsigned",
+        "context": "在商业语境中，表示未签署的文件，可能无效"
+      },
+      {
+        "word": "forged",
+        "context": "在法律语境中，表示伪造的签名，与真实性相对"
+      }
+    ],
+    "hypernyms": [
+      "verified",
+      "approved"
+    ],
+    "hyponyms": [
+      "autographed",
+      "endorsed"
+    ],
+    "collocations": [
+      {
+        "pattern": "signed + noun (e.g., signed agreement)",
+        "examples": [
+          "The signed agreement was filed in the records."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + signed (e.g., The document was signed)",
+        "examples": [
+          "The contract was signed by both parties."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征信任和承诺，尤其在法律合同中，签名代表个人责任；在跨文化语境中，中国文化可能更强调印章而非签名，但 'signed' 在国际商业中已标准化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于非正式场合，如体育签名",
+        "usage": "在美国英语中，'signed' 常与娱乐或体育相关，强调个人化互动"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向正式语境，如法律文件",
+        "usage": "在英国英语中，'signed' 常与历史协议相关，体现正式性"
+      }
+    ],
+    "historicalContext": "与历史文化关联，如1776年美国独立宣言的签名，象征集体承诺；在文学中，签名常出现于契约主题，如莎士比亚作品，反映社会信任机制。",
+    "modernUsage": "在现代社交媒体上，'signed' 用于数字签名或在线协议，体现全球化趋势，如电子签名在电子商务中的普及"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人在文件上写下签名，笔尖触及纸张的瞬间，伴随确认的点头。",
+      "keyElements": [
+        "签名动作",
+        "文件图像",
+        "点头确认"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己的首次签名文件，触发成就感或责任感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'signed' 联想为 'sign' + 'end'，表示签署结束某事。",
+        "explanation": "通过词根联想加强语义记忆，基于认知科学中的语义网络理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /saɪnd/ 听起来像 'sigh' + 'end'，想象叹息后结束协议。",
+        "explanation": "利用声音联想促进听觉记忆，符合多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "sign",
+      "contract",
+      "autograph"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "signed (regular verb form)",
+      "pastParticiple": "signed",
+      "presentParticiple": "signing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + signed + object",
+        "description": "主语 + 动词 + 已签署的 + 宾语结构，常用于描述动作完成",
+        "examples": [
+          "He signed the document."
+        ]
+      },
+      {
+        "pattern": "Be + signed",
+        "description": "系动词 + 已签署的结构，用于被动语态",
+        "examples": [
+          "The agreement was signed yesterday."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'signed' as a noun",
+        "correction": "Use as verb or adjective only",
+        "explanation": "学习者常误将 'signed' 当名词使用，需理解其词性以避免语法错误"
+      },
+      {
+        "mistake": "Confusing with 'signed off'",
+        "correction": "Distinguish phrasal verbs",
+        "explanation": "中文母语者可能混淆 'signed' 与短语动词，需练习语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Legal",
+      "Business",
+      "Sports",
+      "Cultural"
+    ],
+    "tags": [
+      "Action verb",
+      "Agreement",
+      "Authentication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

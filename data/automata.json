@@ -1,0 +1,238 @@
+{
+  "word": "automata",
+  "phonetics": {
+    "british": "/ɔːˈtɒmətə/",
+    "american": "/ɔːˈtɑːmətə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A plural form of 'automaton', referring to self-operating machines or mechanisms that perform tasks automatically based on predetermined rules, often used in computing, mathematics, and engineering.",
+      "chineseTranslation": "自动机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, mechanical figures or devices that simulate human or animal actions without direct human intervention.",
+      "chineseTranslation": "自动装置",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "finite automata",
+      "meaning": "有限自动机，指状态有限的计算模型",
+      "example": "Finite automata are widely used in computer science for pattern recognition.",
+      "exampleTranslation": "有限自动机在计算机科学中广泛用于模式识别。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cellular automata",
+      "meaning": "细胞自动机，指基于网格的模拟系统",
+      "example": "Cellular automata can model complex systems like population growth.",
+      "exampleTranslation": "细胞自动机可以模拟复杂的系统，如人口增长。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In theoretical computer science, automata are essential for understanding algorithms.",
+      "translation": "在理论计算机科学中，自动机对于理解算法至关重要。",
+      "source": "Academic text (e.g., from computer science literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The museum displayed ancient automata that mimicked bird movements.",
+      "translation": "博物馆展示了模仿鸟类动作的古代自动机。",
+      "source": "Historical or literary description",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Modern automata in robotics are programmed to respond to environmental changes.",
+      "translation": "现代机器人中的自动机被编程以响应环境变化。",
+      "source": "News article on technology",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "automatos",
+        "meaning": "self-moving or self-acting",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词 'automatos'，意为 'self-acting'，通过拉丁语 'automaton' 传入英语，最初用于描述机械装置或神话中的自动生物；17 世纪开始在科学和技术语境中演变为现代含义，尤其在计算和工程领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "automaton",
+      "automatic",
+      "autonomy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'automata' 与相关概念如 'robot' 关联，以强化语义网络；通过重复暴露于技术语境中增强记忆持久性；对于中国母语学习者，注意音节分隔以避免母语干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "machines",
+        "similarity": "0.7",
+        "context": "适用于技术或工程语境中描述自动操作的设备"
+      },
+      {
+        "word": "robots",
+        "similarity": "0.6",
+        "context": "在科幻或现代应用语境中，表示自主行动的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "manual systems",
+        "context": "在需要人工干预的语境中，与自动操作相对"
+      },
+      {
+        "word": "human-operated devices",
+        "context": "强调人为控制的场景，与自动化形成对比"
+      }
+    ],
+    "hypernyms": [
+      "machines"
+    ],
+    "hyponyms": [
+      "finite state automata",
+      "Turing machines"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + automata",
+        "examples": [
+          "finite automata",
+          "self-replicating automata"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "automata in contexts",
+        "examples": [
+          "automata in computing"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术进步和自动化，常与科幻文学（如儒勒·凡尔纳的作品）或哲学（如笛卡尔的自动机概念）相关，隐含对人类与机器关系的反思。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学语境",
+        "usage": "在美国英语中，常见于学术和科技讨论，以强调实用应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重历史和理论方面",
+        "usage": "在英国英语中，常与历史机械装置关联，如维多利亚时代发明"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机革命相关，在文学和社会中代表了对自动化的恐惧或赞美，如在玛丽·雪莱的《弗兰肯斯坦》中隐喻人类创造的后果。",
+    "modernUsage": "在社交媒体和科技语境下，经常出现在AI讨论中，反映数字时代对自动化的依赖趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科幻场景中，机器人军队在运作，代表 'automata' 的动态图像。",
+      "keyElements": [
+        "机器人",
+        "自动操作",
+        "网格结构"
+      ],
+      "emotionalConnection": "联结个人对科幻电影的兴奋感，如观看《星球大战》时机器人的场景，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'automata' 联想为 'auto' (自动) + 'mata' (像矩阵或机器部件)",
+        "explanation": "通过视觉联想帮助建立词根记忆，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ɔːˈtɒmətə/' 听起来像 'auto matter'，想象汽车自己运转。",
+        "explanation": "利用声音与图像的联觉，提升听觉记忆的保留率"
+      }
+    ],
+    "wordAssociations": [
+      "automobile",
+      "automatic",
+      "matrix"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "automata (already plural; singular is automaton)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + automata",
+        "description": "作为主语的句法结构，常用于描述自动机的功能",
+        "examples": [
+          "Automata process data efficiently."
+        ]
+      },
+      {
+        "pattern": "Adjective + automata + in context",
+        "description": "用形容词修饰的结构，强调特定类型",
+        "examples": [
+          "Finite automata are used in algorithms."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'automaton' (singular)",
+        "correction": "Use 'automata' for plural forms",
+        "explanation": "中国母语学习者常因英文单复数差异而混淆，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation of vowels",
+        "correction": "Practice IPA /ɔːˈtɒmətə/ for British English",
+        "explanation": "母语影响可能导致元音发音错误，需通过镜像练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computer science",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "mathematics",
+      "automation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

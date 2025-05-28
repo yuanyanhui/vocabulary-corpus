@@ -1,0 +1,207 @@
+{
+  "word": "monoid",
+  "phonetics": {
+    "british": "/ˈmɒnɔɪd/",
+    "american": "/ˈmɑːnɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical structure consisting of a set equipped with an associative binary operation and an identity element.",
+      "chineseTranslation": "幺半群",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "monoid in a category",
+      "meaning": "范畴中的幺半群",
+      "example": "In category theory, a monoid in a category is an object with a multiplication and a unit.",
+      "exampleTranslation": "在范畴论中，范畴中的幺半群是一个带有乘法和单位的对象。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "free monoid",
+      "meaning": "自由幺半群",
+      "example": "The free monoid on a set is the set of all finite sequences of elements from that set.",
+      "exampleTranslation": "一个集合上的自由幺半群是该集合中所有有限序列的集合。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The set of integers under addition forms a monoid with zero as the identity element.",
+      "translation": "整数集合在加法运算下形成一个幺半群，以零作为单位元。",
+      "source": "Mathematical literature, e.g., from abstract algebra textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In computer science, strings can be viewed as elements of a monoid under concatenation.",
+      "translation": "在计算机科学中，字符串可以被视为在连接运算下幺半群的元素。",
+      "source": "Academic papers, e.g., from ACM conferences",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A monoid is a semigroup with an identity, which makes it useful in algebraic structures.",
+      "translation": "幺半群是一个带有单位元的半群，这使其在代数结构中非常有用。",
+      "source": "Educational resources, e.g., Khan Academy or university lectures",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "monos",
+        "meaning": "one or single",
+        "language": "Greek"
+      },
+      {
+        "root": "-oid",
+        "meaning": "like or resembling",
+        "language": "Greek (via English)"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'monos'（意为 '一个' 或 '单一'），结合英语后缀 '-oid'（意为 '类似'），最初在19世纪的抽象代数中发展，用于描述具有单位元和结合性的结构，从早期的群论演变而来。",
+    "firstKnownUse": "Circa 1940s in modern algebra texts",
+    "relatedWords": [
+      "semigroup",
+      "group",
+      "monoid homomorphism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (advanced, per CEFR, as it requires specialized knowledge)",
+    "pronunciationDifficulty": "5 (moderate; the word has a straightforward phonetic structure but includes vowel sounds that may vary between British and American English)",
+    "spellingDifficulty": "4 (easy to moderate; the spelling follows common English patterns but includes less familiar combinations for intermediate learners)",
+    "meaningComplexity": "8 (high; involves abstract mathematical concepts that require background knowledge in algebra)",
+    "usageComplexity": "7 (high; primarily used in technical contexts, making it challenging for second language learners without domain expertise)",
+    "learningTips": [
+      "结合认知科学原理，将词汇与视觉化数学图表关联，如绘制单位元和运算的示意图；使用间隔重复法复习抽象概念；通过个人经验联想，如将 'monoid' 与日常生活中的集合和操作联系，例如购物清单的组合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "semigroup with identity",
+        "similarity": "0.9",
+        "context": "在抽象代数语境中，用于强调具有单位元的结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-monoid",
+        "context": "在数学讨论中，指缺乏单位元或结合性的结构"
+      }
+    ],
+    "hypernyms": [
+      "algebraic structure"
+    ],
+    "hyponyms": [
+      "abelian monoid",
+      "commutative monoid"
+    ],
+    "collocations": [
+      {
+        "pattern": "monoid under [operation]",
+        "examples": [
+          "monoid under addition",
+          "monoid under multiplication"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方学术文化中象征抽象思维和逻辑严谨，常用于数学和计算机科学教育中，隐含语义强调系统性和精确性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常见于计算机科学语境",
+        "usage": "在美国，'monoid' 经常在编程和算法讨论中出现，如 functional programming"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于纯数学语境",
+        "usage": "在英国，'monoid' 多用于大学数学课程和学术出版物"
+      }
+    ],
+    "historicalContext": "与19世纪的抽象代数发展相关，如伽罗瓦理论的演进，反映了工业革命后西方对形式系统的追求。",
+    "modernUsage": "在现代社交媒体和在线论坛中，'monoid' 出现在编程社区如 Stack Overflow，或教育平台如 Coursera，用于讨论算法和数据结构。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个封闭的循环系统，如一个环状链条，其中每个环节代表元素，连接操作像链条的链接，具有一个中心单位元作为起点。",
+      "keyElements": [
+        "环状链条",
+        "中心单位元",
+        "链接操作"
+      ],
+      "emotionalConnection": "联结到个人经验，如组装乐高积木的乐趣，触发成就感和逻辑满足感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'mono' as 'one' and 'oid' as 'like a toy' – a toy that works like one unified piece.",
+        "explanation": "通过视觉联想将抽象概念转化为具体玩具形象，帮助强化记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "M-O-N-O-I-D: 'Make One New Operation In Daily life'",
+        "explanation": "使用首字母缩略词与日常生活操作关联，基于认知科学中的 elaborate rehearsal 原理"
+      }
+    ],
+    "wordAssociations": [
+      "group",
+      "semigroup",
+      "identity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "monoids",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with modifiers",
+        "description": "作为主语或宾语出现，常与介词短语结合，如 'a monoid under addition'",
+        "examples": [
+          "The monoid consists of elements."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'monad'",
+        "correction": "Use 'monoid' for algebraic structures without the additional laws of a monad",
+        "explanation": "简要说明：'monoid' 和 'monad' 虽相关，但前者不涉及范畴论的额外结构，避免混淆以提升精确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 50,000 in COCA corpus for general English; higher in academic sub-corpora)",
+    "domains": [
+      "Mathematics",
+      "Computer Science",
+      "Academic"
+    ],
+    "tags": [
+      "Abstract Algebra",
+      "Category Theory",
+      "Technical Terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Mathematical Association of America resources"
+    ]
+  }
+}

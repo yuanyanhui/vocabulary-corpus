@@ -1,0 +1,248 @@
+{
+  "word": "reproducible",
+  "phonetics": {
+    "british": "/ˌriːprəˈdjuːsəbl/",
+    "american": "/ˌriːprəˈduːsəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being reproduced or replicated exactly, especially in scientific experiments or processes.",
+      "chineseTranslation": "可再现的；可复制的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Able to be produced again with the same results under the same conditions.",
+      "chineseTranslation": "可重现的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reproducible results",
+      "meaning": "可再现的结果",
+      "example": "The experiment yielded reproducible results across multiple trials.",
+      "exampleTranslation": "实验在多次试验中产生了可再现的结果。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "reproducible research",
+      "meaning": "可再现的研究",
+      "example": "Open science promotes reproducible research by sharing data and methods.",
+      "exampleTranslation": "开放科学通过共享数据和方法来促进可再现的研究。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In scientific contexts, reproducible experiments are essential for validating hypotheses.",
+      "translation": "在科学语境中，可再现的实验对于验证假设至关重要。",
+      "source": "Scientific literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The software update ensures that the bug is reproducible on all devices.",
+      "translation": "软件更新确保了该错误在所有设备上都是可再现的。",
+      "source": "Technical documentation (e.g., from tech articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Artists sometimes aim for reproducible techniques in printmaking to create identical copies.",
+      "translation": "艺术家有时在版画中追求可再现的技术来创建相同的副本。",
+      "source": "Cultural and artistic texts",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "reproducere",
+        "meaning": "to produce again",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "again",
+        "language": "Latin"
+      },
+      {
+        "root": "producere",
+        "meaning": "to produce or bring forth",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'reproducere'，意为 '再次生产'。该词经由古法语演变进入英语，最初用于生物学和复制概念，17 世纪起扩展到科学实验领域，强调可重复性和可靠性，以反映启蒙运动时期科学方法的演进。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "reproduce",
+      "production",
+      "replication"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'reproducible' 与科学实验的视觉图像关联，例如想象重复实验的过程，以增强记忆；",
+      "使用间隔重复系统（spaced repetition）复习该词在不同语境中的应用，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "repeatable",
+        "similarity": "0.8",
+        "context": "适用于科学实验语境中强调可重复的过程"
+      },
+      {
+        "word": "replicable",
+        "similarity": "0.9",
+        "context": "常用于研究和数据分析领域，强调精确复制"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irreproducible",
+        "context": "适用于无法重复的实验或结果，常在科学争论中"
+      },
+      {
+        "word": "unique",
+        "context": "强调不可复制的独特性，如艺术作品"
+      }
+    ],
+    "hypernyms": [
+      "reliable"
+    ],
+    "hyponyms": [
+      "experimentally reproducible"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun",
+        "examples": [
+          "reproducible results",
+          "reproducible data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + context",
+        "examples": [
+          "in reproducible conditions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征可靠性与客观性，尤其在科学方法论中，强调可再现性以避免主观偏差，促进知识积累。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术与学术语境",
+        "usage": "在美国英语中，常见于科技报告和教育中，体现对实证科学的重视"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于正式学术表达",
+        "usage": "在英国英语中，常与历史科学传统关联，如牛津科学社团的讨论"
+      }
+    ],
+    "historicalContext": "与17世纪科学革命相关，特别是在牛顿和培根的著作中，'reproducible' 概念强化了实验科学的基础，并影响现代全球科研标准。",
+    "modernUsage": "在社交媒体和在线论坛中，特别是在COVID-19疫情期间，'reproducible' 用于讨论研究结果的可靠性，体现数字时代的信息传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中科学家重复进行相同的实验，得到一致的结果。",
+      "keyElements": [
+        "实验室",
+        "实验设备",
+        "重复过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回想学校科学课的实验失败和成功，触发成就感以加深记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Reproducible 像 're-play' 一个录像带，意思是能再次播放或复制。",
+        "explanation": "通过声音联想将 're-' 与 'again' 联系，结合视觉想象增强认知加工。"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-P: Repeat Every Process",
+        "explanation": "使用首字母缩写创建简单口诀，帮助中级学习者快速回想语义。"
+      }
+    ],
+    "wordAssociations": [
+      "repeat",
+      "reliable",
+      "experiment"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more reproducible",
+      "superlative": "most reproducible"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + reproducible",
+        "description": "用于描述主语的可再现性结构",
+        "examples": [
+          "The results are reproducible."
+        ]
+      },
+      {
+        "pattern": "Adjective in noun phrases",
+        "description": "作为形容词修饰名词",
+        "examples": [
+          "We need reproducible data for the study."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'reproductive'",
+        "correction": "Use 'reproducible' for replication in experiments",
+        "explanation": "两者发音相似，但 'reproductive' 指生物繁殖；学习者需注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more reproducible' instead of '*reproducibler'",
+        "explanation": "作为多音节形容词，不使用 -er 形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "research"
+    ],
+    "tags": [
+      "scientific terminology",
+      "adjective",
+      "reliability"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

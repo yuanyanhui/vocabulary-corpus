@@ -1,0 +1,280 @@
+{
+  "word": "collect",
+  "phonetics": {
+    "british": "/kəˈlɛkt/",
+    "american": "/kəˈlɛkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to bring or gather things together into one place or group",
+      "chineseTranslation": "收集",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to receive payment for goods or services from the person who receives them",
+      "chineseTranslation": "收取（费用）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short prayer said during certain Christian services",
+      "chineseTranslation": "（基督教的）短祷文",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "to be paid for by the recipient, as in a collect call",
+      "chineseTranslation": "由接收方付费的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "collect data",
+      "meaning": "收集数据",
+      "example": "Scientists collect data from various experiments to analyze climate change.",
+      "exampleTranslation": "科学家们从各种实验中收集数据来分析气候变化。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "collect stamps",
+      "meaning": "收集邮票",
+      "example": "Many people collect stamps as a hobby to learn about different cultures.",
+      "exampleTranslation": "许多人收集邮票作为爱好，以了解不同的文化。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "collect one's thoughts",
+      "meaning": "整理思绪",
+      "example": "Before the meeting, she took a moment to collect her thoughts.",
+      "exampleTranslation": "在会议前，她花了点时间整理思绪。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The museum staff collect artifacts from around the world to preserve history.",
+      "translation": "博物馆工作人员从世界各地收集文物来保存历史。",
+      "source": "Educational literature (e.g., from British National Corpus - BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Please collect your luggage at the baggage claim area.",
+      "translation": "请在行李领取区取您的行李。",
+      "source": "Travel and tourism contexts (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He decided to collect donations for the charity event.",
+      "translation": "他决定为慈善活动募集捐款。",
+      "source": "News articles (e.g., from online media)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some regions, a collect call means the receiver pays the fee.",
+      "translation": "在某些地区，付费电话意味着接收方支付费用。",
+      "source": "Telecommunications contexts (e.g., from Oxford English Dictionary - OED)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "colligere",
+        "meaning": "to gather together",
+        "language": "Latin"
+      },
+      {
+        "root": "col-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "legere",
+        "meaning": "to gather or choose",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'colligere'，意为 '聚集' 或 '收集'，在中世纪拉丁语中演变为 'collectus'，用于表示收集或聚集的过程。进入中古英语后，逐渐扩展到现代英语的各种含义，如收集物品或收取费用。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "collection",
+      "collector",
+      "collate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'collect' 与其常见搭配（如 'collect data'）分组记忆，以减少认知负荷；",
+      "通过视觉联想将词根 'col-' 想象为 'together' 的连接线，帮助建立语义网络；",
+      "针对中文母语学习者，强调音节对比，如 /kə/ 与中文轻声元音的差异，以提升语音记忆效率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "gather",
+        "similarity": "0.8",
+        "context": "适用于日常收集物品的语境，如 'gather information'"
+      },
+      {
+        "word": "accumulate",
+        "similarity": "0.7",
+        "context": "适用于渐进式积累的语境，如财务或数据收集"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "适用于分散事物的语境，如 'scatter the crowd'"
+      },
+      {
+        "word": "dispense",
+        "context": "适用于分发或发放的语境，如 'dispense advice'"
+      }
+    ],
+    "hypernyms": [
+      "gather"
+    ],
+    "hyponyms": [
+      "hoard",
+      "amass"
+    ],
+    "collocations": [
+      {
+        "pattern": "collect + noun (e.g., collect data)",
+        "examples": [
+          "collect information",
+          "collect evidence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + collect (e.g., to collect)",
+        "examples": [
+          "begin to collect",
+          "help to collect"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与收藏主义（如邮票或艺术品收集）相关，象征个人兴趣和历史保存；在中国文化中，可联想到 '收藏' 的传统，如古董收藏，体现了跨文化共享的物质文化遗产。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式语境，如 'collect calls' 在历史电信中",
+        "usage": "在英国英语中，常与历史或学术语境结合，如博物馆收集"
+      },
+      {
+        "region": "美国",
+        "variation": "更口语化，如 'collect garbage' 在日常生活中",
+        "usage": "在美国英语中，强调实用性和商业语境，如数据收集"
+      }
+    ],
+    "historicalContext": "与工业革命相关的文化背景中，该词反映了资源聚集的主题；在文学如莎士比亚作品中，隐含社会阶层的象征意义。",
+    "modernUsage": "在社交媒体和数字时代下，常见于 'collect likes' 或 'collect data'，反映了全球化消费文化"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个篮子（代表 'collect'）在收集各种物品，如数据文件和邮票",
+      "keyElements": [
+        "篮子",
+        "物品",
+        "聚集场景"
+      ],
+      "emotionalConnection": "联结个人经验，如童年收集玩具的快乐，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'collect' 联想为 'collar + elect'，想象一个衣领选举物品聚集",
+        "explanation": "通过声音和视觉联想增强词汇保留，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-L-L-E-C-T: Collect Objects Like Leaves Every Chance To",
+        "explanation": "使用首字母缩略法创建故事，帮助构建语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "gather",
+      "accumulate",
+      "hoard"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "collected",
+      "pastParticiple": "collected",
+      "presentParticiple": "collecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., I collect books)",
+        "description": "主语 + 动词 + 宾语结构，常用于陈述性句子",
+        "examples": [
+          "She collects rare coins."
+        ]
+      },
+      {
+        "pattern": "Verb + preposition + object (e.g., collect from)",
+        "description": "动词 + 介词 + 宾语结构，用于指定来源",
+        "examples": [
+          "We collect funds from donors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'collect' without object (e.g., 'I collect every day')",
+        "correction": "Add an object (e.g., 'I collect stamps every day')",
+        "explanation": "该词通常需要宾语以完整表达意图"
+      },
+      {
+        "mistake": "Confusing with 'correct'",
+        "correction": "Use 'collect' for gathering",
+        "explanation": "语音相似可能导致混淆，建议通过发音练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "business",
+      "culture"
+    ],
+    "tags": [
+      "action verb",
+      "daily life",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

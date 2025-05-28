@@ -1,0 +1,265 @@
+{
+  "word": "reducer",
+  "phonetics": {
+    "british": "/rɪˈdjuːsə/",
+    "american": "/rɪˈduːsər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or mechanism that reduces the speed, size, or intensity of something, such as a gear in machinery.",
+      "chineseTranslation": "减速器或减少装置",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, a function that takes an initial value and a collection of values, reducing them to a single output, as used in frameworks like Redux.",
+      "chineseTranslation": "在编程中，用于将一组值归约成单一值的函数",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chemical substance that causes reduction in a reaction, such as in metallurgy or chemistry.",
+      "chineseTranslation": "还原剂",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gear reducer",
+      "meaning": "齿轮减速器，用于降低机械转速",
+      "example": "The gear reducer in the engine helps to increase torque.",
+      "exampleTranslation": "引擎中的齿轮减速器有助于增加扭矩。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "state reducer",
+      "meaning": "状态归约器，在软件开发中管理应用状态",
+      "example": "In Redux, the state reducer handles updates to the application state.",
+      "exampleTranslation": "在 Redux 中，状态归约器处理应用状态的更新。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "chemical reducer",
+      "meaning": "化学还原剂，用于反应中",
+      "example": "Hydrogen acts as a chemical reducer in many industrial processes.",
+      "exampleTranslation": "氢气在许多工业过程中充当化学还原剂。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mechanic installed a new reducer to improve the machine's efficiency.",
+      "translation": "机械师安装了一个新的减速器来提高机器的效率。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In JavaScript, a reducer function is essential for managing array operations in functional programming.",
+      "translation": "在 JavaScript 中，归约函数对于函数式编程中的数组操作至关重要。",
+      "source": "Programming tutorial (e.g., from MDN Web Docs)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The chemist used a reducer to facilitate the reaction in the laboratory.",
+      "translation": "化学家在实验室中使用还原剂来促进反应。",
+      "source": "Scientific literature (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After updating the reducer, the application's state management became more streamlined.",
+      "translation": "更新归约器后，应用的狀態管理变得更加流畅。",
+      "source": "Software development blog (e.g., from Stack Overflow discussions)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "reducere",
+        "meaning": "to lead back or bring back",
+        "language": "Latin"
+      },
+      {
+        "root": "reduce",
+        "meaning": "to make smaller or less",
+        "language": "Middle English from Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'reducere'（意为带领回来或减少），通过中世纪拉丁语演变为英语 'reduce'，添加后缀 '-er' 表示工具或代理者。从14世纪开始用于机械语境，20世纪扩展到计算机科学中表示函数。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "reduce",
+      "reduction",
+      "reducer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'reducer' 与其在编程或机械中的具体应用关联；通过视觉图表记忆语义网络，避免混淆类似词汇；重复练习句子以强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "diminisher",
+        "similarity": "0.7",
+        "context": "在机械语境中，用于描述减少速度或大小的装置"
+      },
+      {
+        "word": "accumulator",
+        "similarity": "0.6",
+        "context": "在编程中，仅在某些函数式语境中部分相似，但不完全"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "enhancer",
+        "context": "在技术语境中，表示增加或提升的装置或函数"
+      },
+      {
+        "word": "amplifier",
+        "context": "在工程或电子学中，表示放大的组件"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "function"
+    ],
+    "hyponyms": [
+      "gear reducer",
+      "state reducer"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + reducer (e.g., gear reducer)",
+        "examples": [
+          "The engine's gear reducer failed."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Reducer + verb (e.g., reducer handles)",
+        "examples": [
+          "The reducer handles state changes efficiently."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征效率和简化，常用于工程和软件开发中，体现现代化工业的创新精神；在跨文化语境中，中国学习者可能将其与本土技术术语（如 '减速机'）关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于编程和技术语境，如在硅谷文化中",
+        "usage": "在美国英语中，强调在软件工程中的应用，频率较高"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重机械和工程领域",
+        "usage": "在英国英语中，常与传统制造业相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关，源自机械工程的演变；在20世纪后期，随着计算机科学兴起，扩展到数字领域，反映科技进步对语言的影响。",
+    "modernUsage": "在社交媒体和在线社区中，常见于技术讨论，如 GitHub 或 Reddit，用户分享代码示例以促进全球合作。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个齿轮系统在缓慢转动，同时一个函数像魔术师般将杂乱数据归纳成单一结果。",
+      "keyElements": [
+        "齿轮",
+        "函数代码",
+        "简化过程"
+      ],
+      "emotionalConnection": "联结到个人编程经历的成就感，或机械修复的满足感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'reducer' as a 'reduce-er' machine that shrinks things down.",
+        "explanation": "通过视觉联想将词汇与缩小概念连接，利用认知科学中的双编码理论（视觉+语言）"
+      },
+      {
+        "type": "声音联觉",
+        "content": "The word sounds like 'reed user', imagining someone using a reed to filter and reduce water flow.",
+        "explanation": "利用声音相似性触发感官记忆，基于神经联想原理"
+      }
+    ],
+    "wordAssociations": [
+      "reduce",
+      "simplify",
+      "function",
+      "device"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "reducers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + reducer",
+        "description": "作为名词用在主语或宾语位置",
+        "examples": [
+          "The reducer operates smoothly."
+        ]
+      },
+      {
+        "pattern": "Adjective + reducer",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "Efficient reducer in the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'reducer' with 'reduced' (verb form)",
+        "correction": "Use 'reducer' as a noun only",
+        "explanation": "学习者常混淆词性，导致语法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Limit to technical domains",
+        "explanation": "中级学习者可能泛化使用；强调语域敏感性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "computing",
+      "mechanics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "word": "kilobyte",
+  "phonetics": {
+    "british": "/ˈkɪləbaɪt/",
+    "american": "/ˈkɪloʊbaɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of digital information storage or transmission equivalent to 1,000 bytes in decimal systems or 1,024 bytes in binary systems, commonly used in computing to measure data size.",
+      "chineseTranslation": "千字节",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical/neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one kilobyte",
+      "meaning": "一个千字节",
+      "example": "The email attachment is only one kilobyte in size.",
+      "exampleTranslation": "这个电子邮件附件的大小只有一个千字节。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "kilobyte per second",
+      "meaning": "每秒千字节",
+      "example": "The download speed is 100 kilobytes per second.",
+      "exampleTranslation": "下载速度是每秒100千字节。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A standard text file might be just a few kilobytes.",
+      "translation": "一个标准文本文件可能只有几个千字节。",
+      "source": "Technical documentation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the early days of computing, a kilobyte was a significant amount of memory.",
+      "translation": "在早期的计算机时代，一个千字节是一笔很大的内存。",
+      "source": "Historical computing literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern smartphones have storage capacities measured in gigabytes, not kilobytes.",
+      "translation": "现代智能手机的存储容量是用千兆字节而不是千字节来衡量的。",
+      "source": "News article on technology",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "kilo-",
+        "meaning": "thousand",
+        "language": "Greek (from χίλιοι, khilioi)"
+      },
+      {
+        "root": "byte",
+        "meaning": "a sequence of bits",
+        "language": "English (coined in the 1960s, possibly from 'bite' as a play on 'bit')"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'kilo-' 表示一千，结合英语 'byte'，该词在20世纪60年代的计算机发展中出现。起初，用于表示1024字节的二进制单位，后来在国际单位制中标准化为1000字节。这种演变反映了计算机科学从硬件限制到标准化测量的转变。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "megabyte",
+      "gigabyte",
+      "terabyte"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，利用视觉联想将 'kilobyte' 与一千个小物件（如一千个苹果）联系起来，以增强记忆；通过重复暴露于技术语境中，运用间隔重复法（spaced repetition）来巩固词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "KB",
+        "similarity": "0.9",
+        "context": "在技术语境中用作缩写，常用于文件大小描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "none",
+        "context": "该词无直接反义词，但可与更大或更小的单位如 'gigabyte' 或 'byte' 对比"
+      }
+    ],
+    "hypernyms": [
+      "unit of data storage"
+    ],
+    "hyponyms": [
+      "byte"
+    ],
+    "collocations": [
+      {
+        "pattern": "kilobyte of memory",
+        "examples": [
+          "This program requires 2 kilobytes of memory."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transfer rate in kilobytes",
+        "examples": [
+          "The file transfers at 50 kilobytes per second."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着数据存储和传输的基石，体现了科技进步对日常生活的影响，常在全球文化中代表信息时代的技术门槛。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于二进制上下文（1024字节）",
+        "usage": "在美国英语中，常在计算机硬件描述中出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似美国，但有时更严格遵守国际标准（1000字节）",
+        "usage": "在英国英语中，用于教育和技术出版物"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，源于早期计算机如ENIAC的内存限制，在文学和社会中象征科技飞跃，如在科幻小说中描述数据存储。",
+    "modernUsage": "在社交媒体和在线平台中，常见于讨论文件大小或互联网速度，常在全球数字文化中传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个装有一千个小方块的盒子，每个方块代表一个字节，这样 'kilobyte' 就像一千个积木堆积成的塔。",
+      "keyElements": [
+        "一千个方块",
+        "数据存储塔"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆手机存储空间不足的挫败感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Kilo 像 kilometer（千米），byte 像 bite（一口），所以 kilobyte 是 '一口一千' 的数据。",
+        "explanation": "通过声音和视觉联想，帮助记忆词汇结构"
+      },
+      {
+        "type": "缩略",
+        "content": "KB = Kilo Byte, 想象 K 为钥匙（key）打开 B 的宝箱（box of bytes）。",
+        "explanation": "利用缩略形式创建视觉隐喻，促进认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "byte",
+      "kilo",
+      "memory",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "kilobytes",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词使用，常与数量词或介词短语搭配",
+        "examples": [
+          "This file is 10 kilobytes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing kilobyte with kilobit",
+        "correction": "Use kilobyte for bytes and kilobit for bits",
+        "explanation": "字节和比特是不同的单位，常因技术术语混淆而误用"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'kilobytes' for plural",
+        "explanation": "英语名词复数规则简单，但初学者可能遗漏 's'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10% in COCA for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "science"
+    ],
+    "tags": [
+      "measurement",
+      "digital",
+      "data storage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

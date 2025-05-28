@@ -1,0 +1,232 @@
+{
+  "word": "example",
+  "phonetics": {
+    "british": "/ɪɡˈzɑːmpl/",
+    "american": "/ɪɡˈzæmpl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a thing characteristic of its kind or illustrating a general rule",
+      "chineseTranslation": "例子；范例",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "be illustrated or exemplified",
+      "chineseTranslation": "举例说明；作为例子",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "for example",
+      "meaning": "例如",
+      "example": "For example, apples are a type of fruit.",
+      "exampleTranslation": "例如，苹果是一种水果。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "set an example",
+      "meaning": "树立榜样",
+      "example": "Parents should set an example for their children.",
+      "exampleTranslation": "父母应该为孩子树立榜样。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This painting is a perfect example of Renaissance art.",
+      "translation": "这幅画是文艺复兴艺术的完美例子。",
+      "source": "Art history text (e.g., from the British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used real-life examples to explain the theory.",
+      "translation": "她用真实生活中的例子来解释理论。",
+      "source": "Academic lecture (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "For instance, in everyday conversation, people say 'that's a bad example'.",
+      "translation": "例如，在日常对话中，人们会说‘那是一个坏例子’。",
+      "source": "Informal dialogue (e.g., from spoken BNC data)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "exemplum",
+        "meaning": "something that serves as a model",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'exemplum'，意为样本或模型，演变为中世纪英语，通过古法语影响，最终在现代英语中发展为表示示例或实例的含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "exemplify",
+      "exemplar"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "2",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合重复暴露和间隔重复法来加强记忆；使用视觉联想将词汇与具体图像关联，以提升认知加工效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "instance",
+        "similarity": "0.8",
+        "context": "在正式语境中用于举例说明"
+      },
+      {
+        "word": "sample",
+        "similarity": "0.7",
+        "context": "在科学或统计语境中表示代表性样本"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "counterexample",
+        "context": "在论证语境中，用于反驳一般规则"
+      }
+    ],
+    "hypernyms": [
+      "illustration"
+    ],
+    "hyponyms": [
+      "case study",
+      "prototype"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + example",
+        "examples": [
+          "a classic example of innovation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + example",
+        "examples": [
+          "provide an example"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征教育和示范，常用于强调学习和道德指导，例如在西方教育体系中，教师通过例子传递价值观。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式使用，如在学术语境",
+        "usage": "在英国英语中，常与历史或文学相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更 casual，在日常对话中频繁出现",
+        "usage": "在美国英语中，常用于商业或教育演示"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，强调通过例子进行知识传播，如在莎士比亚作品中用于人物发展。",
+    "modernUsage": "在社交媒体上流行，用于分享个人经历或励志故事"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个展示架上摆放着各种物品，每个物品代表一种类型。",
+      "keyElements": [
+        "展示架",
+        "物品",
+        "类型"
+      ],
+      "emotionalConnection": "联结到个人童年经历，如老师用例子讲解课程，以触发积极回忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'example' 联想为 'ex-ample'，像 'exit to a sample'。",
+        "explanation": "通过视觉和语义联想增强长期记忆存储"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-A-M-P-L-E: Each eXample Adds Meaningful Pictures for Learning Experience。",
+        "explanation": "利用首字母缩写结合故事方法，促进认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "instance",
+      "illustration",
+      "model"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "examples",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + example",
+        "description": "主语+动词+例子结构，常用于说明",
+        "examples": [
+          "She gave an example."
+        ]
+      },
+      {
+        "pattern": "For example, + clause",
+        "description": "用于插入例证",
+        "examples": [
+          "For example, this works."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'example' without context",
+        "correction": "Provide context, e.g., 'for example'",
+        "explanation": "缺乏语境可能导致歧义，建议结合过渡词"
+      },
+      {
+        "mistake": "Confusing with 'sample'",
+        "correction": "Use 'example' for illustrative purposes",
+        "explanation": "二者虽相关，但 'example' 更侧重于概念演示"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "教育",
+      "商业",
+      "科学"
+    ],
+    "tags": [
+      "一般词汇",
+      "示例",
+      "说明"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

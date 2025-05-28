@@ -1,0 +1,241 @@
+{
+  "word": "camel",
+  "phonetics": {
+    "british": "/ˈkæməl/",
+    "american": "/ˈkæməl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large, even-toed ungulate mammal of the genus Camelus, typically with a hump on its back, adapted to arid environments and used for transportation and carrying loads.",
+      "chineseTranslation": "骆驼",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To store or design something, such as computer data or code, in a way that makes it more compact or efficient, often in programming contexts (e.g., camelCase).",
+      "chineseTranslation": "（在编程中）使用驼峰式命名法",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ship of the desert",
+      "meaning": "沙漠之船（比喻骆驼在沙漠中的重要性）",
+      "example": "The camel is often called the ship of the desert due to its ability to traverse vast sandy expanses.",
+      "exampleTranslation": "骆驼常被称作沙漠之船，因为它能穿越广阔的沙漠。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "camel train",
+      "meaning": "骆驼车队",
+      "example": "The ancient traders used a camel train to transport spices across the Sahara.",
+      "exampleTranslation": "古代商人们使用骆驼车队穿越撒哈拉沙漠运输香料。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the Arabian Peninsula, camels are essential for survival in the harsh desert environment.",
+      "translation": "在阿拉伯半岛，骆驼是沙漠恶劣环境中生存的必需品。",
+      "source": "Travel and cultural literature (e.g., based on National Geographic reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often use camelCase to write variable names, like userName instead of user_name.",
+      "translation": "程序员经常使用驼峰式命名法来编写变量名，比如 userName 而不是 user_name。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The Bedouin nomads have relied on camels for centuries, not just for transport but also for milk and meat.",
+      "translation": "贝都因游牧民族几个世纪以来一直依赖骆驼，不仅用于运输，还用于获取牛奶和肉食。",
+      "source": "Historical texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "camelus",
+        "meaning": "camel",
+        "language": "Latin"
+      },
+      {
+        "root": "kamēlos",
+        "meaning": "camel",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 camelus，追溯到希腊语 kamēlos，可能源于闪米特语（如希伯来语 gāmāl），最初描述这种适应沙漠环境的动物。从中世纪开始，该词在英语中演变为现代形式，用于指代动物和比喻性含义，如编程术语。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "dromedary",
+      "bactrian",
+      "llama"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 5,
+    "usageComplexity": 6,
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'camel' 与沙漠场景联系，例如想象一个驼峰动物在沙丘上行走，以强化记忆痕迹；对于中级学习者，建议通过重复暴露于真实语境中来降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dromedary",
+        "similarity": 0.8,
+        "context": "适用于描述单峰骆驼的沙漠环境语境"
+      },
+      {
+        "word": "bactrian",
+        "similarity": 0.7,
+        "context": "适用于描述双峰骆驼的特定地区语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "predator",
+        "context": "在动物分类语境中，用于对比猎食者和被猎食者"
+      }
+    ],
+    "hypernyms": [
+      "mammal",
+      "ungulate"
+    ],
+    "hyponyms": [
+      "Arabian camel",
+      "wild camel"
+    ],
+    "collocations": [
+      {
+        "pattern": "camel + noun (e.g., camel ride, camel milk)",
+        "examples": [
+          "camel ride in the desert",
+          "camel milk production"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "verb + camel (e.g., ride a camel, herd camels)",
+        "examples": [
+          "They ride camels across the dunes."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在沙漠文化中，骆驼象征着韧性和适应力，常在阿拉伯和北非文化中代表生存和游牧生活；在现代编程中，camelCase 体现了技术文化的简洁性。",
+    "regionalVariations": [
+      {
+        "region": "Middle East (e.g., Saudi Arabia)",
+        "variation": "更强调实用性，如 'ship of the desert' 的比喻",
+        "usage": "在日常和文学语境中使用，突出其经济价值"
+      },
+      {
+        "region": "United States",
+        "variation": "常用于技术术语，如 camelCase，在非沙漠地区更侧重于数字领域",
+        "usage": "在编程和教育语境中流行，减少了传统文化联想"
+      }
+    ],
+    "historicalContext": "与古代丝绸之路和游牧文明相关，骆驼在历史文学中（如《一千零一夜》）代表贸易和冒险；在殖民时代，影响了西方对东方文化的认知。",
+    "modernUsage": "在社交媒体和旅游业中流行，例如 TikTok 上的沙漠冒险视频，或软件开发中的编码标准。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高大的骆驼在金色沙漠中行走，驼峰如小山丘，背景是灼热的阳光。",
+      "keyElements": [
+        "沙漠",
+        "驼峰",
+        "长颈"
+      ],
+      "emotionalConnection": "联结个人经验，如回想一次旅行或观看纪录片时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'camel' 联想为 'come + el'，想象骆驼 'come' 到 'el'（象形代表沙漠），",
+        "explanation": "通过声音和视觉联想帮助中级学习者快速回忆词形和意义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "C-A-M-E-L: Camel Across Massive Empty Lands",
+        "explanation": "使用首字母缩写创建故事，刺激大脑的叙事记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "desert",
+      "hump",
+      "nomad",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "camels",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Camel (e.g., The camel carries loads)",
+        "description": "作为主语或宾语的典型结构，常用于描述性句子",
+        "examples": [
+          "Camels thrive in arid regions."
+        ]
+      },
+      {
+        "pattern": "Adjective + Camel (e.g., hardy camel)",
+        "description": "用于修饰骆驼的特征",
+        "examples": [
+          "The hardy camel survived the storm."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'camel' with 'cattle'",
+        "correction": "Use 'camel' for the desert animal and 'cattle' for domesticated bovines",
+        "explanation": "由于语音相似，中级学习者易混淆语境；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'camel's'",
+        "correction": "Correct to 'camels'",
+        "explanation": "英文名词复数规则简单，但非规则词可能导致错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "animals",
+      "culture",
+      "technology"
+    ],
+    "tags": [
+      "fauna",
+      "desert",
+      "programming"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

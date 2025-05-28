@@ -1,0 +1,260 @@
+{
+  "word": "preflight",
+  "phonetics": {
+    "british": "/ˈpriːflaɪt/",
+    "american": "/ˈpriˌflaɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A check or inspection performed before a flight to ensure the aircraft is safe and operational.",
+      "chineseTranslation": "飞行前检查",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To conduct a preliminary check or test before an operation, such as a flight or a software deployment.",
+      "chineseTranslation": "进行飞行前检查或预先测试",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or occurring before a flight.",
+      "chineseTranslation": "飞行前的",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "preflight checklist",
+      "meaning": "飞行前检查清单",
+      "example": "Pilots must review the preflight checklist before takeoff.",
+      "exampleTranslation": "飞行员必须在起飞前审阅飞行前检查清单。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "perform a preflight",
+      "meaning": "执行预先检查",
+      "example": "The engineer will perform a preflight on the system to identify potential issues.",
+      "exampleTranslation": "工程师将对系统进行预先检查以识别潜在问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "preflight procedures",
+      "meaning": "飞行前程序",
+      "example": "All preflight procedures were completed on schedule.",
+      "exampleTranslation": "所有飞行前程序均按时完成。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pilot conducted a thorough preflight to ensure everything was in order.",
+      "translation": "飞行员进行了彻底的飞行前检查，以确保一切正常。",
+      "source": "Aviation manuals (e.g., from FAA guidelines)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, developers often preflight their code to catch bugs early.",
+      "translation": "在软件开发中，开发人员经常对代码进行预先测试以及早发现错误。",
+      "source": "Technical articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Due to bad weather, the preflight was delayed, pushing back the entire schedule.",
+      "translation": "由于恶劣天气，飞行前检查被推迟，整个日程都延后了。",
+      "source": "News reports (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "pre-",
+        "meaning": "before",
+        "language": "Latin (from prae-)"
+      },
+      {
+        "root": "flight",
+        "meaning": "the act of flying",
+        "language": "Old English (from flyht)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪初的航空时代，源自拉丁语前缀'pre-'（意为'之前'）与古英语'flight'（飞行）的结合。起初用于军事和民用航空领域，随着航空技术的进步，该词扩展到其他预检查情境，如软件和工程。",
+    "firstKnownUse": "Early 20th century (circa 1910, as per Oxford English Dictionary records)",
+    "relatedWords": [
+      "preflighted",
+      "postflight"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, suitable for intermediate learners who can handle technical vocabulary)",
+    "pronunciationDifficulty": "4 (out of 10; the word has straightforward vowel and consonant sounds, but the stress on the first syllable may require practice for non-native speakers)",
+    "spellingDifficulty": "5 (out of 10; combines common prefixes and roots, but the compound form might lead to misspelling as 'pre-flight')",
+    "meaningComplexity": "6 (out of 10; multiple contexts like aviation and tech make it context-dependent, challenging for learners without domain knowledge)",
+    "usageComplexity": "7 (out of 10; often used in technical or formal settings, requiring understanding of procedural language)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'pre-'视为表示'之前'的线索，并通过视觉联想航空检查场景；使用间隔重复系统（spaced repetition）强化记忆，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pre-check",
+        "similarity": "0.8",
+        "context": "适用于一般检查情境，例如软件测试"
+      },
+      {
+        "word": "preliminary inspection",
+        "similarity": "0.7",
+        "context": "在正式操作前进行的评估"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "postflight",
+        "context": "飞行后检查，强调后续而非前期"
+      },
+      {
+        "word": "in-flight",
+        "context": "飞行期间的活动，与预先检查相对"
+      }
+    ],
+    "hypernyms": [
+      "inspection",
+      "check"
+    ],
+    "hyponyms": [
+      "aviation preflight",
+      "software preflight"
+    ],
+    "collocations": [
+      {
+        "pattern": "preflight + noun (e.g., checklist, procedures)",
+        "examples": [
+          "preflight checklist",
+          "preflight routine"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + preflight (e.g., conduct a preflight)",
+        "examples": [
+          "perform a preflight",
+          "complete a preflight"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征安全和准备，尤其在航空领域，体现了工业化社会的风险管理意识；在全球语境下，它隐含了对技术可靠性的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于正式航空和军事语境",
+        "usage": "在美国英语中，常与联邦航空局（FAA）标准相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于民用航空术语",
+        "usage": "在英国英语中，与英国民航局相关，强调程序化"
+      }
+    ],
+    "historicalContext": "与20世纪航空革命相关，源自第一次世界大战时期的飞行安全需求；在文学和社会中，如Tom Wolfe的《The Right Stuff》，它代表了对未知风险的谨慎态度。",
+    "modernUsage": "在现代社交媒体和科技领域，流行于在线论坛和YouTube教程中，反映了全球数字化的影响。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个飞行员在飞机前仔细检查仪表盘的场景，'pre-'像是一个倒计时信号。",
+      "keyElements": [
+        "飞行员",
+        "检查清单",
+        "飞机起飞前"
+      ],
+      "emotionalConnection": "联结个人旅行经验的紧张感，例如等待航班时的期待和担忧"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'preflight'联想为'prepare for flight'（为飞行做准备）",
+        "explanation": "通过关键词分解增强认知关联，帮助记忆核心含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈpriːflaɪt/'听起来像'pre-fight'，联想为'战斗前准备'以强化航空语境",
+        "explanation": "利用声音相似性创建情感触发点，提高长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "checklist",
+      "safety",
+      "aviation",
+      "prepare"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "preflights",
+      "pastTense": "preflighted",
+      "pastParticiple": "preflighted",
+      "presentParticiple": "preflighting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the preflight check)",
+        "description": "作为名词，用于描述特定过程",
+        "examples": [
+          "The preflight is essential for safety."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., preflight the aircraft)",
+        "description": "作为动词，表示执行动作",
+        "examples": [
+          "They preflight the system daily."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'inflight' (meaning during flight)",
+        "correction": "Use 'preflight' for before flight",
+        "explanation": "时间语境不同，避免混淆以确保准确性"
+      },
+      {
+        "mistake": "Incorrect hyphenation (e.g., pre-flight as one word)",
+        "correction": "Write as one word: preflight",
+        "explanation": "在现代英语中，它作为一个合成词使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 15,000 in COCA corpus for technical domains)",
+    "domains": [
+      "aviation",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "procedural",
+      "safety"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "word": "modulator",
+  "phonetics": {
+    "british": "/ˈmɒd.jʊ.leɪ.tə/",
+    "american": "/ˈmɑː.dʒə.leɪ.t̬ɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or system that adjusts or regulates the characteristics of a signal, such as amplitude, frequency, or phase, often used in electronics, telecommunications, or music.",
+      "chineseTranslation": "调节器；调制器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, something that modulates or controls a process, such as a modulator in pharmacology that influences biological activity.",
+      "chineseTranslation": "调控剂",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency modulator",
+      "meaning": "频率调节器",
+      "example": "The frequency modulator in the synthesizer creates varying pitches.",
+      "exampleTranslation": "合成器中的频率调节器创建不同的音高。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "signal modulator",
+      "meaning": "信号调制器",
+      "example": "Engineers use a signal modulator to encode data in radio waves.",
+      "exampleTranslation": "工程师使用信号调制器来在无线电波中编码数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern telecommunications, a modulator is essential for converting digital signals into analog forms.",
+      "translation": "在现代电信中，调节器是转换数字信号为模拟形式所必需的。",
+      "source": "Technical manuals, such as those from IEEE publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The musician adjusted the modulator on the keyboard to achieve a smoother sound transition.",
+      "translation": "音乐家调整键盘上的调节器以实现更平滑的声音过渡。",
+      "source": "Music production contexts, e.g., from BBC documentaries",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Pharmacologists study how a chemical modulator can alter neurotransmitter levels in the brain.",
+      "translation": "药理学家研究化学调控剂如何改变大脑中的神经递质水平。",
+      "source": "Scientific literature, e.g., from PubMed articles",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "modulari",
+        "meaning": "to regulate or measure",
+        "language": "Latin"
+      },
+      {
+        "root": "modus",
+        "meaning": "measure, manner, or limit",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'modulari'（调节或测量）演变而来，最初用于音乐理论中描述音调的调整。17世纪传入英语，主要在科学和技术语境中发展为现代含义，强调信号或过程的调控。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "modulate",
+      "modulation",
+      "module"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的间隔重复法（spaced repetition）来记忆发音和多重含义，例如通过Anki卡片将 'modulator' 与实际设备图片配对，以加强视觉-语义关联；",
+      "结合双编码理论（dual coding），将词汇与个人经验联系，如想象一个电子设备在调节声音时，创建情感连接以提升记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "regulator",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述类似功能的设备，如电子电路控制"
+      },
+      {
+        "word": "adjuster",
+        "similarity": "0.7",
+        "context": "在一般语境中，用于非技术性的调整过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "amplifier",
+        "context": "在电子学语境中，amplifier 增强信号，而 modulator 调整信号"
+      },
+      {
+        "word": "dampener",
+        "context": "在物理语境中，dampener 抑制振动，而 modulator 更注重调控"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "controller"
+    ],
+    "hyponyms": [
+      "frequency modulator",
+      "phase modulator"
+    ],
+    "collocations": [
+      {
+        "pattern": "modulator + noun (e.g., signal, frequency)",
+        "examples": [
+          "signal modulator",
+          "frequency modulator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + modulator (e.g., use, adjust)",
+        "examples": [
+          "adjust the modulator",
+          "install a modulator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术创新和精确控制，常与工业革命和数字时代关联，但缺乏强烈的象征性隐含语义；在跨文化语境中，中国学习者可能将其与本土技术术语如 '调制器' 联系，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在科技和娱乐产业，如音频设备",
+        "usage": "在美国英语中，常在非正式技术讨论中出现，例如播客或YouTube教程"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调在学术和工程语境中的正式使用",
+        "usage": "在英国英语中，可能与历史科学文献相关联，如早期的无线电发明"
+      }
+    ],
+    "historicalContext": "与19世纪的电报和无线电发明相关，反映了工业革命中对通信技术的需求；在文学中，如H.G. Wells的作品中，隐喻为社会变革的调控力量。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科技讨论，如Reddit或TikTok上的电子设备教程，体现数字时代的普及性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个音箱装置正在调节音乐信号，就像一个指挥者在控制交响乐的节奏。",
+      "keyElements": [
+        "音箱",
+        "信号波形",
+        "调节旋钮"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用手机调节音量的时刻，以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Modulator sounds like 'mode + alterator' – it changes the mode of a signal.",
+        "explanation": "通过声音联想，将 'modulator' 分解为 'mode'（模式）和 'alterator'（改变者），帮助记忆其调节功能"
+      },
+      {
+        "type": "缩略",
+        "content": "M-O-D: Measure, Optimize, Direct",
+        "explanation": "使用首字母缩略法，结合认知科学中的分块编码（chunking），将词汇与简单动作序列关联以提升短期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "regulate",
+      "adjust",
+      "signal",
+      "control"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "modulators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + modulator",
+        "description": "主语 + 动词 + 调节器结构，常用于描述设备的功能",
+        "examples": [
+          "The engineer designed a modulator."
+        ]
+      },
+      {
+        "pattern": "Modulator + preposition + object",
+        "description": "调节器 + 介词 + 宾语结构，用于指定调节的对象",
+        "examples": [
+          "The modulator for the signal works efficiently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'modem' or 'moderator'",
+        "correction": "Use 'modulator' specifically for signal adjustment devices",
+        "explanation": "学习者常混淆相似词汇；通过语境练习区分语义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "由于英语名词规则简单，但中文学习者可能遗忘复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "electronics",
+      "music",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "engineering",
+      "signal processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

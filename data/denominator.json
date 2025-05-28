@@ -1,0 +1,232 @@
+{
+  "word": "denominator",
+  "phonetics": {
+    "british": "/dɪˈnɒmɪneɪtə/",
+    "american": "/dɪˈnɑːməneɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The bottom number in a fraction, which indicates the total number of equal parts into which the whole is divided.",
+      "chineseTranslation": "分母",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A common factor or standard used for comparison, especially in a broader context such as statistics or social analysis.",
+      "chineseTranslation": "共同标准或比较基准",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "least common denominator",
+      "meaning": "最小公分母，即多个分数的分母的最小公倍数",
+      "example": "To add the fractions 1/2 and 1/3, you need to find the least common denominator.",
+      "exampleTranslation": "要将分数1/2和1/3相加，需要找到最小公分母。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "common denominator",
+      "meaning": "共同分母或共同标准，指多个分数的分母的公倍数，或用于比较的不同事物的共同点",
+      "example": "In politics, finding a common denominator among diverse groups is essential for unity.",
+      "exampleTranslation": "在政治中，找到不同群体之间的共同标准对实现团结至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the fraction 3/4, the denominator is 4, which means the whole is divided into four equal parts.",
+      "translation": "在分数3/4中，分母是4，这意味着整体被分成四个相等的部分。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The survey used income as a common denominator to compare living standards across different regions.",
+      "translation": "该调查使用收入作为共同标准来比较不同地区的生活水平。",
+      "source": "News article from The Guardian",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Teachers often explain that the denominator in a fraction represents the size of each part.",
+      "translation": "老师们经常解释说，分数中的分母代表每个部分的大小。",
+      "source": "Online educational resource",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "denominare",
+        "meaning": "to name or designate",
+        "language": "Latin"
+      },
+      {
+        "root": "nomen",
+        "meaning": "name",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'denominare'，意为'命名或指定'，其中'de-'表示'向下'或'从...'，'nomen'表示'名称'。该词在16世纪通过数学文本传入英语，用于描述分数中的底部数字。随着数学的发展，它扩展到更广泛的比较语境，如统计学。",
+    "firstKnownUse": "约1570年",
+    "relatedWords": [
+      "numerator",
+      "denomination"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，使用视觉图像法联想分数结构，例如将分母想象为一个被切分的 pizza 来增强记忆；重复练习数学情境以强化语义关联，避免抽象概念的认知负荷过重。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "divisor",
+        "similarity": "0.7",
+        "context": "在数学上下文中，特别是在除法中，但不完全等同于分母"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "numerator",
+        "context": "在分数中，表示分子，与分母相对"
+      }
+    ],
+    "hypernyms": [
+      "number",
+      "fraction component"
+    ],
+    "hyponyms": [
+      "least common denominator"
+    ],
+    "collocations": [
+      {
+        "pattern": "fraction + denominator",
+        "examples": [
+          "In 1/2, the denominator is 2."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "common + denominator",
+        "examples": [
+          "A common denominator for comparison."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学基础知识的构建，体现出理性思维和精确表达的价值观；在全球语境下，它促进跨文化交流，如在国际数学教育中。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "使用更通俗化，常在日常教育中简化解释",
+        "usage": "在美国英语中，常与实际生活场景结合，如分数在烹饪中的应用"
+      },
+      {
+        "region": "英国",
+        "variation": "更注重正式数学术语，语调可能略有差异",
+        "usage": "在英国英语中，强调在学术和历史数学文本中的精确性"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的数学复兴相关联，例如在欧洲数学家如弗朗西斯·培根的作品中出现，反映了科学革命对语言的影响。",
+    "modernUsage": "在现代社交媒体和在线学习平台上，常见于教育视频和数据分析讨论中，体现了数字时代对量化概念的需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个被切分成等份的蛋糕，其中分母代表总份数。",
+      "keyElements": [
+        "蛋糕",
+        "切分",
+        "等份"
+      ],
+      "emotionalConnection": "联结个人经验，如分享生日蛋糕的快乐记忆，以增强情感触发和长期保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Denominator sounds like 'downominator', meaning it's down in the fraction.",
+        "explanation": "通过声音联想将分母与分数中的位置关联，基于认知科学中的声音-视觉整合原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Down and Denominator.",
+        "explanation": "使用首字母缩略法强化空间位置记忆，减少认知努力。"
+      }
+    ],
+    "wordAssociations": [
+      "fraction",
+      "bottom",
+      "divide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "denominators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + denominator",
+        "description": "作为名词在句子中充当主语或宾语",
+        "examples": [
+          "The denominator determines the fraction's value."
+        ]
+      },
+      {
+        "pattern": "In + the + denominator + of",
+        "description": "用于描述分数结构",
+        "examples": [
+          "In the denominator of 1/2, we have 2."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing denominator with numerator",
+        "correction": "Remember that denominator is the bottom part",
+        "explanation": "由于两者在分数中的位置相似，学习者常混淆；通过视觉区分可避免。"
+      },
+      {
+        "mistake": "Using it in non-mathematical contexts incorrectly",
+        "correction": "Ensure context is appropriate, e.g., as a standard for comparison",
+        "explanation": "中级学习者可能过度泛化数学术语；结合语境练习可改善。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for academic domains)",
+    "domains": [
+      "mathematics",
+      "education",
+      "statistics"
+    ],
+    "tags": [
+      "math",
+      "fraction",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

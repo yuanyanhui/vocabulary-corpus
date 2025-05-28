@@ -1,0 +1,256 @@
+{
+  "word": "condensate",
+  "phonetics": {
+    "british": "/ˈkɒn.dən.seɪt/",
+    "american": "/ˈkɑːn.dən.seɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A substance that has been reduced from a gas or vapor to a liquid or denser form, often through cooling or compression.",
+      "chineseTranslation": "凝缩物",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, a state of matter known as a Bose-Einstein condensate, where atoms behave as a single quantum entity at very low temperatures.",
+      "chineseTranslation": "玻色-爱因斯坦凝聚",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To undergo or cause to undergo condensation; to make denser or more compact.",
+      "chineseTranslation": "使凝缩",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Bose-Einstein condensate",
+      "meaning": "一种在极低温度下原子行为如单一量子实体的物质状态",
+      "example": "Scientists created a Bose-Einstein condensate in the laboratory to study quantum phenomena.",
+      "exampleTranslation": "科学家在实验室中创建了玻色-爱因斯坦凝聚来研究量子现象。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "natural gas condensate",
+      "meaning": "从天然气中提取的液体形式的凝缩物",
+      "example": "The oil field produces natural gas condensate as a byproduct.",
+      "exampleTranslation": "该油田作为副产品生产天然气凝缩物。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The cold surface caused the water vapor in the air to form a condensate.",
+      "translation": "寒冷的表面导致空气中的水蒸气形成凝缩物。",
+      "source": "Scientific literature (e.g., physics textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern physics, a condensate can exhibit unique properties at absolute zero temperatures.",
+      "translation": "在现代物理学中，凝缩物在绝对零度温度下会表现出独特性质。",
+      "source": "Academic articles (e.g., from journals like Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers must manage condensate buildup in pipelines to prevent corrosion.",
+      "translation": "工程师必须管理管道中的凝缩物积累以防止腐蚀。",
+      "source": "Engineering reports (e.g., from industry sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "condensare",
+        "meaning": "to make thick or dense",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "densus",
+        "meaning": "dense",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'condensare'，意为使变稠或浓缩，该词在17世纪进入英语，主要用于科学语境中描述物质从气态向液态的转变过程，随着物理学的发展，扩展到量子力学领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "condense",
+      "condensation",
+      "density"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR)",
+    "pronunciationDifficulty": "6 (发音难度中等，主要由于元音 /ɒ/ 或 /ɑː/ 的差异，可能对中文母语者造成混淆，如与 'content' 的发音相似)",
+    "spellingDifficulty": "5 (拼写相对简单，但词尾 '-ate' 常与其他词汇混淆)",
+    "meaningComplexity": "7 (语义高度依赖上下文，尤其在科学领域，需理解抽象概念)",
+    "usageComplexity": "8 (使用多见于专业语境，需掌握搭配和领域特定含义)",
+    "learningTips": [
+      "结合认知科学原则，使用分块学习法将词汇与具体科学场景关联；例如，通过视觉化想象水蒸气凝结成液体的过程，以强化海马体记忆；建议初级学习者从基本定义入手，逐步扩展到高级应用，避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "concentrate",
+        "similarity": "0.7",
+        "context": "适用于浓缩或聚集的语境，如化学过程 (例如，液体浓缩)"
+      },
+      {
+        "word": "precipitate",
+        "similarity": "0.6",
+        "context": "在沉淀或快速凝结的科学语境中 (例如，化学反应)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "vapor",
+        "context": "在气体与液体的对比语境中，常用于描述相变过程"
+      },
+      {
+        "word": "evaporate",
+        "context": "在物质从液态向气态转化的语境中"
+      }
+    ],
+    "hypernyms": [
+      "substance",
+      "matter"
+    ],
+    "hyponyms": [
+      "Bose-Einstein condensate",
+      "dew"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + condensate (e.g., gas condensate)",
+        "examples": [
+          "natural gas condensate"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + condensate (e.g., form a condensate)",
+        "examples": [
+          "The cooling process forms a condensate."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和物质状态的探索，无显著隐含语义，但在跨文化语境中，可能代表现代科学全球化的影响，如在中文科学教育中用于翻译量子物理概念。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于工程和能源领域",
+        "usage": "在美国英语中，常见于石油和天然气行业报告"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于物理学理论语境",
+        "usage": "在英国英语中，常出现在学术出版物中"
+      }
+    ],
+    "historicalContext": "与17世纪科学革命相关，如牛顿时代的气体定律发展，以及20世纪量子力学的兴起；在文学和社会中，象征工业化进程，如蒸汽机时代的凝缩现象。",
+    "modernUsage": "在现代社交媒体和在线教育中，词语趋势于科普视频和论坛，常用于讨论气候变化或新技术，如AI生成的科学解释。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个寒冷的早晨，热气遇冷后在窗户上形成水珠的过程。",
+      "keyElements": [
+        "水蒸气",
+        "冷表面",
+        "液态水滴"
+      ],
+      "emotionalConnection": "联结个人经验，如童年观看露水形成的时刻，以触发积极情绪和长期记忆编码"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'condensate' 联想为 'condense + state'，想象浓缩的状态。",
+        "explanation": "通过词汇分解和视觉联想，增强海马体对新词的保留，避免遗忘曲线效应"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈkɒn.dən.seɪt/ 听起来像 'con-dense-eight'，联想为八个紧密的分子。",
+        "explanation": "利用声音与数字的联觉，帮助构建多模态记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "condense",
+      "liquid",
+      "quantum"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "condensates",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + condensate",
+        "description": "作为名词的主语或宾语，常用于描述过程",
+        "examples": [
+          "The condensate forms quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + condensate",
+        "description": "用形容词修饰，表示特定类型",
+        "examples": [
+          "A dense condensate appeared."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'condense' as a verb without context",
+        "correction": "Use 'condensate' as a noun only when referring to the substance",
+        "explanation": "中文学习者常混淆动词和名词形式，导致语义错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation of vowel sounds",
+        "correction": "Practice /ɒ/ in British English vs. /ɑː/ in American English",
+        "explanation": "由于中文元音系统差异，可能发音为类似 'kang-den-sate'，影响交流"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "engineering",
+      "physics"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "matter"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

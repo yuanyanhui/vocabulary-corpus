@@ -1,0 +1,267 @@
+{
+  "word": "matrix",
+  "phonetics": {
+    "british": "/ˈmeɪtrɪks/",
+    "american": "/ˈmeɪtrɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A rectangular array of numbers, symbols, or expressions, arranged in rows and columns, used in mathematics and science.",
+      "chineseTranslation": "矩阵",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The cultural, social, or political environment in which something develops; often used metaphorically.",
+      "chineseTranslation": "母体、基质或环境",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mold or a substance in which something is embedded, as in biology or geology.",
+      "chineseTranslation": "基质或模子",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "identity matrix",
+      "meaning": "单位矩阵",
+      "example": "The identity matrix is used in linear algebra to represent multiplication by one.",
+      "exampleTranslation": "单位矩阵在线性代数中用于表示乘以一的操作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "decision matrix",
+      "meaning": "决策矩阵",
+      "example": "A decision matrix helps in evaluating options based on multiple criteria.",
+      "exampleTranslation": "决策矩阵有助于基于多个标准评估选项。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "matrix organization",
+      "meaning": "矩阵式组织结构",
+      "example": "In a matrix organization, employees report to multiple managers.",
+      "exampleTranslation": "在矩阵式组织中，员工向多个经理报告。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist analyzed the data using a 3x3 matrix.",
+      "translation": "科学家使用一个3x3的矩阵分析数据。",
+      "source": "Scientific journal (e.g., from academic papers)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the film 'The Matrix', Neo discovers the simulated reality we live in.",
+      "translation": "在电影《Matrix》中，Neo发现了我们生活的模拟现实。",
+      "source": "Popular culture (e.g., film dialogue)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The geological matrix of the rock contained ancient fossils.",
+      "translation": "岩石的基质包含了古代化石。",
+      "source": "Educational text (e.g., from geology books)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used a decision matrix to choose the best career path.",
+      "translation": "她使用决策矩阵来选择最佳职业路径。",
+      "source": "Business article (e.g., from management literature)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "matrix",
+        "meaning": "womb or breeding female",
+        "language": "Latin"
+      },
+      {
+        "root": "mater",
+        "meaning": "mother",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'matrix'，意为子宫或母体，最初用于指代铸模或雌性动物。17世纪传入英语，用于数学上下文，逐渐扩展到抽象环境或结构的含义，如在现代科学和文化中。",
+    "firstKnownUse": "1555",
+    "relatedWords": [
+      "maternal",
+      "matrixial"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'matrix' 的不同含义分组，例如先学习数学语境，再扩展到文化语境，以减少认知负荷；",
+      "通过重复暴露（spaced repetition）记忆多重定义，例如使用 Anki 应用；",
+      "创建个人关联，例如将 'matrix' 与电影《Matrix》联结，触发视觉记忆以增强长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "array",
+        "similarity": "0.8",
+        "context": "在数学或数据结构中，用于类似排列的语境"
+      },
+      {
+        "word": "grid",
+        "similarity": "0.7",
+        "context": "在视觉或结构描述中，强调网格状布局"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "vector",
+        "context": "在数学中，'vector' 代表一维数组，而 'matrix' 为多维"
+      },
+      {
+        "word": "scalar",
+        "context": "在科学语境中，'scalar' 表示单一值，与矩阵的多维性相对"
+      }
+    ],
+    "hypernyms": [
+      "array",
+      "structure"
+    ],
+    "hyponyms": [
+      "identity matrix",
+      "adjacency matrix"
+    ],
+    "collocations": [
+      {
+        "pattern": "matrix + noun (e.g., matrix multiplication)",
+        "examples": [
+          "matrix multiplication",
+          "matrix inversion"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in a matrix",
+        "examples": [
+          "embedded in a matrix"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与电影《The Matrix》相关联，象征模拟现实或虚假世界，隐含对现代社会控制和自由的反思；在中国文化中，可与'母体'或'环境'概念关联，强调集体性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和流行文化语境，如电影引用",
+        "usage": "在非正式对话中，可能简化成俚语表达数字世界的'矩阵'"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向学术和技术用语，少见流行文化影响",
+        "usage": "在正式写作中强调历史语源，如拉丁根源"
+      }
+    ],
+    "historicalContext": "该词与工业革命和数学发展的历史相关，在19世纪数学领域普及；在中国，受西方影响，20世纪引入，用于科学翻译。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论AI和虚拟现实，常在Twitter或微信中作为比喻。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个网格状的数字世界，如电影《Matrix》中的绿色代码雨，代表复杂结构。",
+      "keyElements": [
+        "网格",
+        "代码雨",
+        "数字数组"
+      ],
+      "emotionalConnection": "联结到个人对科幻电影的兴奋感，或日常生活中的表格使用，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Matrix 像 'mother tricks'，因为源自拉丁语 'mater'（母亲），帮助记住其起源。",
+        "explanation": "通过声音联想强化词源记忆，基于认知科学的声音联觉原理"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-T-R-I-X: Mother-Array-Table-Row-Index-eXample",
+        "explanation": "使用首字母缩写创建故事，辅助分块记忆"
+      }
+    ],
+    "wordAssociations": [
+      "array",
+      "grid",
+      "simulation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "matrices",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the matrix of data)",
+        "description": "作为名词用于描述结构或环境，常置于定语后",
+        "examples": [
+          "The matrix in the equation is symmetric."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., in a matrix)",
+        "description": "表示嵌入或包含关系",
+        "examples": [
+          "The fossils are found in a matrix of rock."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'matrix' with 'matrices' in plural form",
+        "correction": "Use 'matrices' for plural",
+        "explanation": "学习者常错误使用 'matrixs'，因为英语复数规则不规则"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Ensure context-specific usage",
+        "explanation": "初级学习者可能泛化含义，导致语境不当"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical corpora (e.g., rank 5000 in COCA)",
+    "domains": [
+      "科技",
+      "数学",
+      "文化",
+      "商业"
+    ],
+    "tags": [
+      "数学术语",
+      "抽象概念",
+      "比喻表达"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

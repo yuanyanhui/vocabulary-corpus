@@ -1,0 +1,255 @@
+{
+  "word": "setter",
+  "phonetics": {
+    "british": "/ˈsɛtə/",
+    "american": "/ˈsɛtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A long-haired breed of gun dog, such as the Irish setter, used for pointing game birds.",
+      "chineseTranslation": "塞特犬（一种用于猎鸟的猎犬）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In object-oriented programming, a method or function that is used to set or update the value of a private variable or property.",
+      "chineseTranslation": "设置器（在编程中用于设置变量或属性的函数）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that sets something, such as a typesetter in printing.",
+      "chineseTranslation": "设置者（指设置某事物的人或物，如排字工人）",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Irish setter",
+      "meaning": "爱尔兰塞特犬（一种特定品种的猎犬）",
+      "example": "The Irish setter is known for its red coat and energetic nature.",
+      "exampleTranslation": "爱尔兰塞特犬以其红色的毛发和活力四射的性格而闻名。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "getter and setter",
+      "meaning": "获取器和设置器（在编程中用于访问和修改属性的方法）",
+      "example": "In Java, you often use getter and setter methods to encapsulate data.",
+      "exampleTranslation": "在 Java 中，通常使用获取器和设置器方法来封装数据。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "set the setter",
+      "meaning": "设置设置器（在特定语境中指配置工具或方法）",
+      "example": "You need to set the setter before running the program.",
+      "exampleTranslation": "在运行程序之前，需要先设置设置器。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The setter flushed out the birds from the bushes during the hunt.",
+      "translation": "塞特犬在狩猎中从灌木丛中把鸟儿赶出来。",
+      "source": "Hunting literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In this class, the setter method updates the user's password securely.",
+      "translation": "在这个类中，设置器方法安全地更新用户的密码。",
+      "source": "Programming tutorials (e.g., from Stack Overflow)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a professional setter in the printing industry, he ensured the text was perfectly aligned.",
+      "translation": "作为印刷行业的专业设置者，他确保文本完美对齐。",
+      "source": "Historical accounts of typography",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "set",
+        "meaning": "To place or fix in a position",
+        "language": "Old English (from Proto-Germanic *satjaną)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'settan'，意为放置或固定，逐渐演变为现代英语中表示设置或放置事物的含义。在17世纪，扩展到指代猎犬，因为它们用于设置（pointing）猎物位置；18世纪起，在技术语境中用于编程领域，源自对变量设置的概念演变。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "set",
+      "settle",
+      "asset"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (相对简单，辅音和元音组合易于掌握，但元音 /ɛ/ 可能对中文母语者有干扰)",
+    "spellingDifficulty": "3 (拼写规则直观，但双 t 可能导致混淆)",
+    "meaningComplexity": "6 (多义性较高，需要根据语境区分，如动物 vs. 编程术语)",
+    "usageComplexity": "5 (语境依赖性强，需结合领域知识使用)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一只红毛猎犬在奔跑时联想编程中的设置过程；通过间隔重复系统复习多义词，以强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pointer",
+        "similarity": "0.7",
+        "context": "在猎犬语境中，适用于描述类似功能的狗（如在狩猎中）"
+      },
+      {
+        "word": "accessor",
+        "similarity": "0.8",
+        "context": "在编程语境中，适用于描述类似设置属性的方法"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "getter",
+        "context": "在编程语境中，通常与设置器相对，用于获取而非设置值"
+      },
+      {
+        "word": "retriever",
+        "context": "在动物语境中，指取回猎物的狗，与设置位置的猎犬相对"
+      }
+    ],
+    "hypernyms": [
+      "dog",
+      "method"
+    ],
+    "hyponyms": [
+      "Irish setter",
+      "English setter"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + setter (e.g., breed + setter)",
+        "examples": [
+          "Irish setter",
+          "programming setter"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + setter (e.g., use + setter)",
+        "examples": [
+          "implement setter",
+          "train setter"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方狩猎文化中，setter 象征忠诚和实用性，常出现在英国和爱尔兰的乡村传统中；在现代科技文化中，它代表封装和数据安全的编程原则，体现信息时代的技术隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于狩猎语境",
+        "usage": "在英国乡村文学和体育中频繁出现，如在福克纳的作品中"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重编程语境",
+        "usage": "在美国科技教育中常见于软件开发课程"
+      }
+    ],
+    "historicalContext": "与英国狩猎传统相关，源自18世纪的田野运动；在20世纪计算机革命中，与对象导向编程的兴起有关，体现了从自然界到数字世界的文化转移。",
+    "modernUsage": "在社交媒体和在线论坛中，常用于技术讨论，如 GitHub 代码库；反映了当代数字文化的快速演变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一只红毛猎犬（setter）在草地上设置（pointing）鸟儿的位置，同时切换到电脑屏幕上一个齿轮图标代表编程设置器。",
+      "keyElements": [
+        "红毛猎犬",
+        "齿轮图标",
+        "草地场景"
+      ],
+      "emotionalConnection": "联结个人经验，如童年看过的狩猎电影或编程初学时的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'setter' 联想为 'set her'，想象在设置一个女性的位置或属性。",
+        "explanation": "通过声音联想强化发音记忆，结合视觉图像避免混淆多义。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-T: Set, Energy, Technology（设置、活力、技术）",
+        "explanation": "利用首字母缩略法连接多义，帮助中级学习者构建语义网络。"
+      }
+    ],
+    "wordAssociations": [
+      "dog",
+      "code",
+      "point"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "setters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Setter",
+        "description": "作为主语或宾语出现，例如在描述性句子中",
+        "examples": [
+          "The setter runs quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + Setter",
+        "description": "用于修饰，例如在指定类型时",
+        "examples": [
+          "An Irish setter is elegant."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'setter' with 'seter' (misspelling)",
+        "correction": "Correct spelling is 'setter'",
+        "explanation": "中文母语者可能遗漏双 t，由于音节差异"
+      },
+      {
+        "mistake": "Using 'setter' interchangeably in all contexts",
+        "correction": "Distinguish based on context (e.g., animal vs. programming)",
+        "explanation": "语境依赖性强，需通过语义线索避免歧义"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（根据 COCA 语料库，约 0.02 per million words）",
+    "domains": [
+      "动物学",
+      "计算机科学",
+      "体育"
+    ],
+    "tags": [
+      "名词",
+      "技术术语",
+      "动物"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "destructor",
+  "phonetics": {
+    "british": "/dɪˈstrʌktə/",
+    "american": "/dɪˈstrʌktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A special member function in object-oriented programming that is automatically called when an object is destroyed or goes out of scope, used to release resources such as memory.",
+      "chineseTranslation": "析构函数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that destroys or causes destruction.",
+      "chineseTranslation": "破坏者",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "class destructor",
+      "meaning": "类析构函数",
+      "example": "In C++, the class destructor is defined to clean up resources when an object is deleted.",
+      "exampleTranslation": "在 C++ 中，类析构函数用于在对象被删除时清理资源。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "virtual destructor",
+      "meaning": "虚拟析构函数",
+      "example": "A virtual destructor ensures proper cleanup in polymorphic classes.",
+      "exampleTranslation": "虚拟析构函数确保在多态类中进行正确的清理。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The destructor in this C++ program frees the allocated memory to prevent leaks.",
+      "translation": "这个 C++ 程序中的析构函数释放了分配的内存以防止泄漏。",
+      "source": "Programming textbook (e.g., from C++ documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As a destructor of ancient artifacts, the archaeologist's rival sought to erase history.",
+      "translation": "作为古迹破坏者，该考古学家的对手试图抹去历史。",
+      "source": "Literary fiction",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In software engineering, ignoring the destructor can lead to critical errors in resource management.",
+      "translation": "在软件工程中，忽略析构函数会导致资源管理中的关键错误。",
+      "source": "Technical article (e.g., from Stack Overflow or IEEE publications)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "destruere",
+        "meaning": "to tear down or destroy",
+        "language": "Latin"
+      },
+      {
+        "root": "struct",
+        "meaning": "to build",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'destruere'，意为 '拆除或破坏'，在英语中演变为表示破坏事物的词汇。17 世纪开始用于一般英语，20 世纪 80 年代在计算机科学中特指 C++ 语言中的函数，用于管理对象生命周期。",
+    "firstKnownUse": "17th century for general meaning; 1980s for computing context",
+    "relatedWords": [
+      "destroy",
+      "destruction",
+      "constructor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common phonetic patterns but includes schwa sounds that may confuse intermediate learners)",
+    "spellingDifficulty": "5 (out of 10, spelling is straightforward but the root 'struct' might be confused with similar words like 'structure')",
+    "meaningComplexity": "6 (out of 10, due to its primary technical meaning requiring context in programming, which adds layers for second language learners)",
+    "usageComplexity": "7 (out of 10, as it is context-specific and often used in formal technical writing, demanding knowledge of programming paradigms)",
+    "learningTips": [
+      "使用认知科学原理，将词汇与视觉编码结合，例如想象一个 'destructor' 如一个清理工人在删除建筑物，强化记忆；通过间隔重复法复习编程代码中的示例，以提升长期保留；将词汇与母语类似概念（如中文 '析构函数'）进行双语映射，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "deconstructor",
+        "similarity": "0.8",
+        "context": "在编程语境中，适用于类似资源释放的场景"
+      },
+      {
+        "word": "destroyer",
+        "similarity": "0.7",
+        "context": "在一般语境中，指破坏事物的人或物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "constructor",
+        "context": "在编程中，指创建对象，而非销毁"
+      },
+      {
+        "word": "builder",
+        "context": "在一般语境中，指建设或创建事物"
+      }
+    ],
+    "hypernyms": [
+      "function",
+      "method"
+    ],
+    "hyponyms": [
+      "virtual destructor",
+      "default destructor"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + destructor (e.g., class + destructor)",
+        "examples": [
+          "class destructor",
+          "object destructor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "destructor + verb (e.g., destructor calls)",
+        "examples": [
+          "destructor calls automatically"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在技术文化中象征资源管理和生命周期结束，体现了现代编程文化的效率与秩序；在西方文化中，隐含语义可能关联破坏与重建的哲学主题，如古希腊的 '创造与毁灭' 循环。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于编程语境，如 Silicon Valley 文化",
+        "usage": "在美国英语中，强调在软件开发中的实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，出现在学术或历史语境中",
+        "usage": "在英国英语中，偶尔用于非技术语境，如文学中描述破坏者"
+      }
+    ],
+    "historicalContext": "与工业革命相关的破坏与重建主题有关；在计算机科学中，源于 20 世纪 80 年代 C++ 发展，反映了数字时代对资源优化的需求。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于编程讨论，如 GitHub 或 Reddit，代表技术社区的共同语言"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人在拆除旧建筑物，同时释放零件，这代表 'destructor' 在编程中清理资源。",
+      "keyElements": [
+        "机器人",
+        "拆除",
+        "资源释放"
+      ],
+      "emotionalConnection": "联结到个人经历，如清理桌面以开始新项目，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Destruct-or: De-struct (拆结构)",
+        "explanation": "通过词根联想，将 'destructor' 与 '破坏结构' 联系，增强视觉记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'dis-truck-ter'，想象一辆卡车在运输破坏工具。",
+        "explanation": "利用声音相似性创建生动图像，帮助音标记忆"
+      }
+    ],
+    "wordAssociations": [
+      "destroy",
+      "free memory",
+      "cleanup"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "destructors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + destructor",
+        "description": "主语 + 动词 + 析构函数，常用于描述函数调用",
+        "examples": [
+          "The destructor executes automatically."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with destructor",
+        "description": "名词短语包含析构函数，用于技术说明",
+        "examples": [
+          "This class has a destructor."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'constructor'",
+        "correction": "Use 'destructor' for destruction and 'constructor' for creation",
+        "explanation": "学员常混淆二者，因为它们在编程中是配对概念"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Do not capitalize unless at the start of a sentence",
+        "explanation": "在技术写作中，'destructor' 通常小写，除非特定语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus for technical domains",
+    "domains": [
+      "科技",
+      "计算机",
+      "工程"
+    ],
+    "tags": [
+      "编程",
+      "对象导向",
+      "资源管理"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

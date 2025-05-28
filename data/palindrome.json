@@ -1,0 +1,227 @@
+{
+  "word": "palindrome",
+  "phonetics": {
+    "british": "/ˈpælɪnˌdrəʊm/",
+    "american": "/ˈpælɪnˌdroʊm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word, phrase, number, or other sequence of characters which reads the same backward or forward, such as 'radar' or 'A man, a plan, a canal: Panama!'.",
+      "chineseTranslation": "回文",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "palindromic sequence",
+      "meaning": "回文序列（如在DNA中的重复序列）",
+      "example": "In genetics, a palindromic sequence is often found in restriction sites.",
+      "exampleTranslation": "在遗传学中，回文序列经常出现在限制酶位点。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "perfect palindrome",
+      "meaning": "完美的回文（完全对称的回文）",
+      "example": "The word 'level' is a perfect palindrome because it reads the same in both directions.",
+      "exampleTranslation": "“level”是一个完美的回文，因为它正读和倒读相同。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "One classic example of a palindrome is 'Madam, I'm Adam.'",
+      "translation": "一个经典的回文例子是“Madam, I'm Adam.”",
+      "source": "Literature and puzzles (e.g., from English word games)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often use palindromes in algorithms to check string symmetry.",
+      "translation": "程序员经常在算法中使用回文来检查字符串的对称性。",
+      "source": "Technical writing (e.g., from computer science texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday conversation, someone might say, 'Racecar is my favorite palindrome.'",
+      "translation": "在日常对话中，有人可能会说，“Racecar是我最喜欢的回文。”",
+      "source": "Informal speech (e.g., casual discussions)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "palin",
+        "meaning": "again or back",
+        "language": "Greek"
+      },
+      {
+        "root": "dromos",
+        "meaning": "running or course",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语“palindromos”，意为“再次运行”，最初用于描述物体或序列的回返性质。17世纪传入英语，最初在文学和谜语中用于指称对称词语，逐渐扩展到数学和计算机科学领域。",
+    "firstKnownUse": "1629",
+    "relatedWords": [
+      "palindromic",
+      "semordnilap (a reverse of palindrome)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，使用视觉记忆法：想象单词在镜子中反射的图像，以强化对称概念；通过重复练习逆序书写单词，利用间隔重复法提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "symmetric word",
+        "similarity": "0.7",
+        "context": "适用于文学或谜语语境中强调对称性的情况"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asymmetric word",
+        "context": "适用于非对称序列的语境，如常规词汇"
+      }
+    ],
+    "hypernyms": [
+      "word",
+      "sequence"
+    ],
+    "hyponyms": [
+      "radar",
+      "level",
+      "Aibohphobia"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., perfect palindrome)",
+        "examples": [
+          "a famous palindrome",
+          "a genetic palindrome"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + object (e.g., create a palindrome)",
+        "examples": [
+          "design a palindrome"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，回文常被视为智力游戏和文学创意的象征，代表着对称与平衡的美学价值，例如在莎士比亚时代用于诗歌和谜语。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美国英语中，更常用于科技和娱乐领域，如编程和益智游戏。",
+        "usage": "在现代美国文化中，回文经常出现在社交媒体和教育工具中，以增强语言趣味性。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英国英语中，偏向文学和历史语境，使用频率稍高。",
+        "usage": "英国文学作品中常有回文作为修辞手法，以突出语言的艺术性。"
+      }
+    ],
+    "historicalContext": "回文与古希腊罗马修辞学相关，在中世纪欧洲文学中流行，并通过英语文艺复兴传入现代文化，与社会背景中的智力追求和语言游戏紧密相连。",
+    "modernUsage": "在当代社交媒体和数字平台上，回文被广泛用于表情包、谜题和编程挑战，反映了全球化的语言娱乐趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个单词在镜子前反射，看起来一模一样。",
+      "keyElements": [
+        "镜子反射",
+        "对称形状",
+        "重复序列"
+      ],
+      "emotionalConnection": "联结到个人经验，如玩过字谜游戏时的成就感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Palin sounds like 'again', so the word goes back on itself.",
+        "explanation": "通过声音联想强化记忆：'palin' 听起来像 'again'，帮助回忆回文的回返性质。"
+      },
+      {
+        "type": "视觉",
+        "content": "Draw the word and flip it upside down.",
+        "explanation": "利用认知科学中的双编码理论，通过绘制和翻转单词结合视觉和运动记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "mirror",
+      "symmetry",
+      "racecar"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "palindromes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., 'This is a palindrome.')",
+        "description": "典型的名词短语结构，用于描述或标识回文。",
+        "examples": [
+          "That phrase is a perfect palindrome."
+        ]
+      },
+      {
+        "pattern": "Adjective + noun (e.g., 'famous palindrome')",
+        "description": "用于修饰回文的特征。",
+        "examples": [
+          "She created a complex palindrome."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with 'anadrome' or other similar terms.",
+        "correction": "Use 'palindrome' only for sequences that read the same backward and forward.",
+        "explanation": "错误源于语义混淆；通过比较示例可避免。"
+      },
+      {
+        "mistake": "Incorrectly identifying non-palindromes.",
+        "correction": "Verify by reversing the sequence.",
+        "explanation": "初学者常忽略大小写或标点；建议逐字检查。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words (based on COCA corpus)",
+    "domains": [
+      "linguistics",
+      "literature",
+      "computer science"
+    ],
+    "tags": [
+      "symmetry",
+      "language games",
+      "etymology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

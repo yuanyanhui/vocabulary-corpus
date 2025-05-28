@@ -1,0 +1,260 @@
+{
+  "word": "effector",
+  "phonetics": {
+    "british": "/ɪˈfɛktər/",
+    "american": "/ɪˈfɛktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, a cell, molecule, or organ that responds to a stimulus and produces an effect, such as an effector T cell in the immune system.",
+      "chineseTranslation": "效应器（生物学中，指响应刺激并产生反应的细胞或器官）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In engineering and robotics, a device or mechanism that performs an action or produces an output in response to a control signal.",
+      "chineseTranslation": "执行器（工程学中，指根据控制信号执行动作的装置）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In psychology or neuroscience, an element that brings about a change or response in a system.",
+      "chineseTranslation": "效应者（神经科学中，指引发系统变化的元素）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "effector function",
+      "meaning": "效应器的功能",
+      "example": "The effector function of T cells is crucial in immune responses.",
+      "exampleTranslation": "T 细胞的效应器功能在免疫反应中至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "effector mechanism",
+      "meaning": "效应器机制",
+      "example": "The effector mechanism in robotics involves motors and sensors.",
+      "exampleTranslation": "机器人中的效应器机制涉及马达和传感器。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "effector cell",
+      "meaning": "效应器细胞",
+      "example": "Effector cells are activated during an infection to fight pathogens.",
+      "exampleTranslation": "在感染期间，效应器细胞被激活以对抗病原体。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The effector in the robotic arm responds instantly to the programmed commands.",
+      "translation": "机器人臂中的效应器对编程命令立即做出响应。",
+      "source": "Technical manual (e.g., from engineering literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the human body, effector cells play a key role in destroying infected cells.",
+      "translation": "在人体中，效应器细胞在破坏感染细胞方面发挥关键作用。",
+      "source": "Scientific article (e.g., from immunology journals like Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The drug targets the effector mechanisms to control the disease progression.",
+      "translation": "该药物针对效应器机制来控制疾病进展。",
+      "source": "Medical text (e.g., from pharmacology sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "effector",
+        "meaning": "one who accomplishes or effects",
+        "language": "Latin"
+      },
+      {
+        "root": "efficere",
+        "meaning": "to bring about or accomplish",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'effector'，意为 '执行者' 或 '成就者'，由 'ex-' (out) 和 'facere' (to do/make) 组合而成。从中世纪拉丁语演变而来，用于生物学和工程学中描述响应机制的实体，在17世纪开始在英语中出现，随着科学革命而普及。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "effective",
+      "effect",
+      "efficacy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (相对简单，元音和辅音组合易于掌握，但重音位置需注意)",
+    "spellingDifficulty": "5 (拼写规则常规，但 'ff' 双字母可能导致混淆)",
+    "meaningComplexity": "7 (语义多层，涉及不同领域，如生物学和工程学，需上下文理解)",
+    "usageComplexity": "6 (在专业语境中使用频繁，但初学者可能误用为一般动词)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'effector' 与相关概念如 'stimulus' 分组记忆；使用视觉映射将生物学含义与人体系统关联，以增强长期记忆；练习重复暴露于不同语境中，以强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "actuator",
+        "similarity": "0.8",
+        "context": "在工程学语境中，用于描述执行动作的装置"
+      },
+      {
+        "word": "responder",
+        "similarity": "0.7",
+        "context": "在生物学语境中，指响应刺激的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "receptor",
+        "context": "在生物学中，指接收刺激的实体，而非产生响应的"
+      },
+      {
+        "word": "inhibitor",
+        "context": "在工程学中，指阻止动作的机制"
+      }
+    ],
+    "hypernyms": [
+      "mechanism",
+      "device"
+    ],
+    "hyponyms": [
+      "effector T cell",
+      "muscle effector"
+    ],
+    "collocations": [
+      {
+        "pattern": "effector + noun (e.g., effector cell)",
+        "examples": [
+          "The effector cell activates quickly."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + effector (e.g., immune effector)",
+        "examples": [
+          "Immune effectors respond to pathogens."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和生物机制的精确性，常隐含人类控制自然的主题；在跨文化语境中，中国学习者可能将其与中医或现代生物医学关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于工程和技术语境",
+        "usage": "在美国的科技产业中，'effector' 频繁出现在机器人和AI讨论中"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向生物学和学术语境",
+        "usage": "在英国的科学文献中，常与进化论或免疫学相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和现代生物学发展相关，19世纪在达尔文进化论中隐现；在中国文化中，可与传统医学的 '气' 或 '经络' 概念对比，以探讨跨文化科学交流。",
+    "modernUsage": "在社交媒体和在线教育中，'effector' 常用于科普视频或AI讨论，反映数字化时代的技术趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人手臂（effector）在实验室中响应按钮，按下按钮后手臂移动，就像人体免疫细胞响应入侵者。",
+      "keyElements": [
+        "机器人手臂",
+        "免疫细胞",
+        "响应动作"
+      ],
+      "emotionalConnection": "联结个人经验，如回想玩电子游戏时控制执行器的感觉，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Effector sounds like 'effective worker'",
+        "explanation": "通过联想 'effector' 与 'effective worker'，帮助记忆其作为执行者的角色，基于认知科学中的视觉-语义关联"
+      },
+      {
+        "type": "缩略",
+        "content": "E-F-F: Effector Fights Fast",
+        "explanation": "使用首字母缩略强化快速响应含义，结合重复练习以改善工作记忆"
+      }
+    ],
+    "wordAssociations": [
+      "effect",
+      "actor",
+      "reactor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "effectors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + effector",
+        "description": "作为主语或宾语出现，常用于描述动作或响应",
+        "examples": [
+          "The effector responds to the signal."
+        ]
+      },
+      {
+        "pattern": "Adjective + effector",
+        "description": "用形容词修饰以强调特性",
+        "examples": [
+          "Advanced effectors are used in modern robotics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'affector'",
+        "correction": "Use 'effector' for the correct term",
+        "explanation": "学习者常混淆 'effector' 和 'affector'，但前者指响应实体，后者不标准；通过上下文练习避免"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Treat as a noun only",
+        "explanation": "'Effector' 是名词，不能用作动词；参考类似词如 'actor' 以纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "biology",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "biological",
+      "mechanism",
+      "response"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

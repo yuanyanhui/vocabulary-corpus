@@ -1,0 +1,235 @@
+{
+  "word": "cpu",
+  "phonetics": {
+    "british": "/ˌsiːˌpiːˈjuː/",
+    "american": "/ˌsiːˌpiːˈjuː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The central processing unit, which is the primary component of a computer that performs most of the data processing operations.",
+      "chineseTranslation": "中央处理单元",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "CPU usage",
+      "meaning": "CPU 的使用率",
+      "example": "The CPU usage spiked during the video rendering process.",
+      "exampleTranslation": "在视频渲染过程中，CPU 使用率急剧上升。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "CPU speed",
+      "meaning": "CPU 的速度",
+      "example": "A higher CPU speed can significantly improve multitasking capabilities.",
+      "exampleTranslation": "更高的 CPU 速度可以显著提升多任务处理能力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The CPU is often referred to as the brain of the computer.",
+      "translation": "CPU 通常被称为计算机的大脑。",
+      "source": "Technical manuals and educational resources",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Overclocking the CPU can lead to better performance but increases the risk of overheating.",
+      "translation": "超频 CPU 可以带来更好的性能，但会增加过热的风险。",
+      "source": "Online tech forums like Reddit",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modern smartphones, the CPU handles billions of calculations per second.",
+      "translation": "在现代智能手机中，CPU 每秒处理数十亿次计算。",
+      "source": "News articles on technology",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "Central",
+        "meaning": "The main or central part",
+        "language": "English"
+      },
+      {
+        "root": "Processing",
+        "meaning": "The act of performing operations on data",
+        "language": "English"
+      },
+      {
+        "root": "Unit",
+        "meaning": "A single, complete entity",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪中叶计算机技术的快速发展，最初作为Central Processing Unit的缩写出现，反映了从早期计算机硬件演变到现代微处理器的过程。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "processor",
+      "microprocessor",
+      "chip"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将CPU与大脑的比喻联系起来，利用视觉化记忆法；建议初学者通过重复性练习和实际设备拆解来强化词汇关联，以提升长时记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "processor",
+        "similarity": "0.8",
+        "context": "在技术语境中，指代计算机的核心计算部件"
+      },
+      {
+        "word": "central processor",
+        "similarity": "0.9",
+        "context": "正式的计算机科学讨论中，作为全称的同义表达"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "peripheral",
+        "context": "与CPU相对，指非核心计算部件如显示器或键盘"
+      }
+    ],
+    "hypernyms": [
+      "hardware component"
+    ],
+    "hyponyms": [
+      "microprocessor",
+      "GPU"
+    ],
+    "collocations": [
+      {
+        "pattern": "high-performance CPU",
+        "examples": [
+          "This laptop features a high-performance CPU for gaming."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "CPU architecture",
+        "examples": [
+          "The CPU architecture determines the efficiency of data processing."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科技文化中象征着创新和计算能力，常隐含现代社会对效率和速度的追求，在数字时代体现为全球共享的技术术语。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在科技产业和教育中",
+        "usage": "在美国英语中，CPU 常与硅谷文化和技术创新相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术语境中更强调历史演变",
+        "usage": "在英国英语中，CPU 在工程教育中被广泛讨论"
+      }
+    ],
+    "historicalContext": "与计算机革命和互联网发展相关，CPU 的兴起标志着从机械计算到电子计算的转变，在文学和社会评论中常代表科技进步的象征。",
+    "modernUsage": "在社交媒体和在线论坛中，CPU 常用于讨论游戏硬件或AI技术，反映了当代数字文化的流行趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象CPU作为计算机内部的一个小大脑，连接各种电线和电路板。",
+      "keyElements": [
+        "大脑",
+        "电路板",
+        "计算"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆第一次组装电脑时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "C-P-U 代表 Central-Processing-Unit，就像大脑处理思想。",
+        "explanation": "通过将CPU与人类大脑的比喻进行联想，帮助记忆其核心功能。"
+      },
+      {
+        "type": "缩略",
+        "content": "Think of CPU as 'Computer’s Power Unit'.",
+        "explanation": "使用缩略形式强化词汇，结合认知科学中的重复曝光原则。"
+      }
+    ],
+    "wordAssociations": [
+      "brain",
+      "chip",
+      "hardware"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "CPUs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + CPU",
+        "description": "CPU 作为主语或宾语的简单结构",
+        "examples": [
+          "The CPU processes data quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + CPU",
+        "description": "使用形容词修饰CPU的结构",
+        "examples": [
+          "A powerful CPU is essential for gaming."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing CPU with GPU",
+        "correction": "Use CPU for general processing and GPU for graphics.",
+        "explanation": "CPU 和 GPU 是不同的组件，常由初学者混淆，因此需区分其具体功能。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'CPUs' for plural.",
+        "explanation": "作为可数名词，需正确添加复数形式以避免语法错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1% in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "engineering"
+    ],
+    "tags": [
+      "acronym",
+      "hardware",
+      "computing terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

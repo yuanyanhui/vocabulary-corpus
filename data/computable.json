@@ -1,0 +1,232 @@
+{
+  "word": "computable",
+  "phonetics": {
+    "british": "/kəmˈpjuːtəbl/",
+    "american": "/kəmˈpjuːtəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being computed, calculated, or solved by a computer or algorithm; able to be processed mathematically or logically.",
+      "chineseTranslation": "可计算的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computable function",
+      "meaning": "可计算函数，指可以通过算法计算的数学函数",
+      "example": "In computability theory, a computable function is one that can be calculated by a Turing machine.",
+      "exampleTranslation": "在可计算性理论中，可计算函数是可以通过图灵机计算的函数。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "computable number",
+      "meaning": "可计算数字，指可以用有限步骤计算出的实数",
+      "example": "Pi is a computable number because it can be approximated through algorithms.",
+      "exampleTranslation": "π 是一个可计算数字，因为它可以通过算法进行逼近。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The problem is computable using modern algorithms.",
+      "translation": "这个问题可以使用现代算法计算。",
+      "source": "Technical literature, such as computer science textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Not all mathematical problems are computable in a reasonable amount of time.",
+      "translation": "并非所有数学问题都能在合理时间内计算。",
+      "source": "Academic articles from journals like Nature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday computing, we deal with computable data sets.",
+      "translation": "在日常计算中，我们处理可计算的数据集。",
+      "source": "Informal tech blogs",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "computare",
+        "meaning": "to compute or reckon together",
+        "language": "Latin"
+      },
+      {
+        "root": "putare",
+        "meaning": "to think or reckon",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'computare'，意为 '一起计算'，由 'com-' (一起) 和 'putare' (计算) 组成。该词在17世纪进入英语，最初用于数学和逻辑领域，20世纪随着计算机科学兴起而普及到现代技术语境中，从一般计算概念演变为特定于算法和机器可计算性的含义。",
+    "firstKnownUse": "1650s",
+    "relatedWords": [
+      "compute",
+      "computer",
+      "computation",
+      "incomputable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人经验联想，例如想象计算机在处理数据时的场景，以加强空间记忆；通过重复练习算法相关任务，强化词汇在上下文中出现的模式，避免抽象概念的遗忘。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "calculable",
+        "similarity": "0.8",
+        "context": "适用于数学或科学语境中需要精确计算的场景"
+      },
+      {
+        "word": "resolvable",
+        "similarity": "0.7",
+        "context": "适用于问题解决或逻辑推理的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "incomputable",
+        "context": "适用于无法通过算法解决的问题，如某些数学难题"
+      }
+    ],
+    "hypernyms": [
+      "possible"
+    ],
+    "hyponyms": [
+      "Turing-computable"
+    ],
+    "collocations": [
+      {
+        "pattern": "computable + noun (e.g., function, problem)",
+        "examples": [
+          "a computable function",
+          "computable data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + computable (e.g., easily computable)",
+        "examples": [
+          "easily computable numbers"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术进步和逻辑思维，尤其在计算机科学领域代表了对复杂问题的可解性隐含语义；在跨文化语境中，它反映了现代社会对数字化和算法依赖的趋势。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，常与创新和技术术语结合，如在硅谷的创业文化中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更强调学术语境",
+        "usage": "在英国英语中，常出现在数学和理论计算机科学的教育中"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，19世纪的数学发展（如图灵机概念）奠定了其基础；在20世纪的计算机革命中，该词成为数字时代的核心术语。",
+    "modernUsage": "在社交媒体和在线平台上，常见于AI和大数据讨论中，体现了全球数字化转型的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一台计算机在屏幕上快速计算数字和图案的过程",
+      "keyElements": [
+        "计算机",
+        "算法",
+        "数字显示"
+      ],
+      "emotionalConnection": "联结个人对科技设备的熟悉感或好奇心，以触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'computable' 联想为 'computer + able'，意思是 '计算机能够处理的'",
+        "explanation": "通过分解词根建立视觉和语义联想，帮助强化记忆路径"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/kəmˈpjuːtəbl/' 时，联想到 'compute a bill' 的日常计算场景",
+        "explanation": "利用声音与实际情境的联觉，提升词汇在脑中的可访问性"
+      }
+    ],
+    "wordAssociations": [
+      "computer",
+      "algorithm",
+      "calculable",
+      "solvable"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more computable",
+      "superlative": "most computable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，描述某事物可计算的性质",
+        "examples": [
+          "a computable problem"
+        ]
+      },
+      {
+        "pattern": "Adverb + Adjective",
+        "description": "用副词修饰以强调程度",
+        "examples": [
+          "easily computable"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'computer'",
+        "correction": "Use 'computable' for the ability, not the device",
+        "explanation": "学习者常将该词误用为名词形式；需强调其形容词特性以避免混淆"
+      },
+      {
+        "mistake": "Mispronouncing as /kɒmˈpjuːtər/",
+        "correction": "Pronounce as /kəmˈpjuːtəbl/",
+        "explanation": "由于与 'computer' 相似，发音错误常见；通过反复听力练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "mathematics",
+      "computer science"
+    ],
+    "tags": [
+      "computing",
+      "algorithms",
+      "logic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

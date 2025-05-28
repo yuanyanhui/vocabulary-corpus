@@ -1,0 +1,243 @@
+{
+  "word": "inductive",
+  "phonetics": {
+    "british": "/ɪnˈdʌktɪv/",
+    "american": "/ɪnˈdʌktɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to logical induction, where specific observations lead to general conclusions.",
+      "chineseTranslation": "归纳的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Producing an electric or magnetic effect through induction, as in physics.",
+      "chineseTranslation": "感应的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inductive reasoning",
+      "meaning": "归纳推理",
+      "example": "Scientists often use inductive reasoning to form hypotheses from observed data.",
+      "exampleTranslation": "科学家经常使用归纳推理从观察到的数据中形成假设。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "inductive approach",
+      "meaning": "归纳方法",
+      "example": "The inductive approach in teaching starts with examples before introducing rules.",
+      "exampleTranslation": "教学中的归纳方法先从例子开始，然后引入规则。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In philosophy, inductive arguments are based on patterns observed in the real world.",
+      "translation": "在哲学中，归纳论证基于现实世界中观察到的模式。",
+      "source": "Philosophical texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The engineer applied inductive principles to design a more efficient circuit.",
+      "translation": "工程师应用感应原理设计了一个更高效的电路。",
+      "source": "Scientific literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her inductive thinking helped solve the puzzle by connecting scattered clues.",
+      "translation": "她的归纳思维通过连接散乱的线索帮助解决了谜题。",
+      "source": "Modern novels",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "inducere",
+        "meaning": "引导或引入",
+        "language": "Latin"
+      },
+      {
+        "root": "in-",
+        "meaning": "进入或在内",
+        "language": "Latin"
+      },
+      {
+        "root": "ducere",
+        "meaning": "领导或引导",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'inductivus'，通过中世纪拉丁语和法语演变为英语，在17世纪用于逻辑和科学语境中，从表示'引入'扩展到'归纳推理'或'感应'的现代含义。",
+    "firstKnownUse": "约1610年",
+    "relatedWords": [
+      "induction",
+      "deduce",
+      "conduct"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用心智图将具体观察与一般结论可视化连接，以增强记忆定型；通过重复练习抽象概念以改善工作记忆；将词汇与个人经验关联，如日常生活中的模式识别。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inferential",
+        "similarity": "0.7",
+        "context": "适用于逻辑推理的语境中，例如科学假设"
+      },
+      {
+        "word": "empirical",
+        "similarity": "0.6",
+        "context": "强调基于观察的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deductive",
+        "context": "适用于从一般原则推导出具体结论的语境"
+      }
+    ],
+    "hypernyms": [
+      "logical"
+    ],
+    "hyponyms": [
+      "scientific induction"
+    ],
+    "collocations": [
+      {
+        "pattern": "inductive + noun (e.g., reasoning, method)",
+        "examples": [
+          "inductive reasoning",
+          "inductive learning"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + inductive (e.g., pure inductive)",
+        "examples": [
+          "pure inductive approach"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词与科学革命和启蒙运动相关，常象征经验主义方法，如弗朗西斯·培根的归纳法，在英语国家教育中强调批判性思维。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于哲学和学术语境",
+        "usage": "在英国英语中，常与历史科学方法关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于教育和商业应用",
+        "usage": "在美国英语中，常用于教学策略或商业决策中"
+      }
+    ],
+    "historicalContext": "与文艺复兴和科学方法的兴起相关，例如在莎士比亚时代后期的英语文学和哲学中出现。",
+    "modernUsage": "在社交媒体和在线教育中，常见于讨论批判性思维或AI算法的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个漏斗，从许多具体的事实逐渐汇聚到一个一般结论的场景。",
+      "keyElements": [
+        "漏斗",
+        "具体事实",
+        "一般结论"
+      ],
+      "emotionalConnection": "联结到个人经历中，如从日常观察中得出人生教训，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "INductive: IN from specifics",
+        "explanation": "通过联想词首'IN'代表'从具体进入一般'，帮助构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音类似'induct'像'inducting'新想法",
+        "explanation": "利用声音与动作的联觉，将发音与引入新概念的过程连接"
+      }
+    ],
+    "wordAssociations": [
+      "reasoning",
+      "hypothesis",
+      "observation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "more inductive",
+      "superlative": "most inductive"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词的结构",
+        "examples": [
+          "inductive reasoning"
+        ]
+      },
+      {
+        "pattern": "In + Noun Phrase",
+        "description": "用于介词短语中描述方法",
+        "examples": [
+          "in an inductive manner"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'deductive'",
+        "correction": "Use 'inductive' for specific to general",
+        "explanation": "归纳法是从具体到一般，而演绎法是从一般到具体，常因逻辑概念抽象而混淆"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with appropriate nouns like 'reasoning'",
+        "explanation": "错误搭配可能导致语义偏差，需要通过语料学习正确语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，根据COCA语料库排名约中等水平",
+    "domains": [
+      "教育",
+      "科学",
+      "哲学"
+    ],
+    "tags": [
+      "逻辑",
+      "推理",
+      "科学方法"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA"
+    ]
+  }
+}

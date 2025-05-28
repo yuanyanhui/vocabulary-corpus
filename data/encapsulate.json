@@ -1,0 +1,263 @@
+{
+  "word": "encapsulate",
+  "phonetics": {
+    "british": "/ɪnˈkæpsjʊleɪt/",
+    "american": "/ɪnˈkæpsəleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To enclose or encase something within a capsule or protective covering.",
+      "chineseTranslation": "封装；包封",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to wrap data and methods into a single unit to hide the internal complexity and expose only a simplified interface.",
+      "chineseTranslation": "封装（计算机术语，指将数据和方法结合以隐藏内部细节）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To summarize or express something in a concise form.",
+      "chineseTranslation": "概括；精炼表达",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "encapsulate data",
+      "meaning": "封装数据（在计算机中将数据隐藏起来以防止直接访问）",
+      "example": "In object-oriented programming, classes are used to encapsulate data and behavior.",
+      "exampleTranslation": "在面向对象编程中，类用于封装数据和行为。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "encapsulate an idea",
+      "meaning": "概括一个想法（将复杂想法简要表达）",
+      "example": "The speech encapsulated the essence of the movement in just a few sentences.",
+      "exampleTranslation": "演讲用几句话就概括了运动的本质。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fully encapsulate",
+      "meaning": "完全封装（确保完全隐藏内部细节）",
+      "example": "The new design fully encapsulates the sensitive components to protect them from environmental damage.",
+      "exampleTranslation": "新设计完全封装了敏感组件，以保护它们免受环境损害。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist encapsulated her emotions in a series of abstract paintings.",
+      "translation": "艺术家在一系列抽象画作中概括了她的情感。",
+      "source": "Modern literature and art criticism",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Software engineers often encapsulate functions to improve code modularity.",
+      "translation": "软件工程师经常封装函数以提高代码模块化。",
+      "source": "Technical manuals, such as from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The treaty encapsulated the agreements reached during the summit.",
+      "translation": "该条约概括了峰会上达成的协议。",
+      "source": "News articles from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "capsula",
+        "meaning": "a small box or container",
+        "language": "Latin"
+      },
+      {
+        "root": "capsa",
+        "meaning": "box or case",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'capsula'，意为小盒子或容器。17 世纪传入英语，首先用于描述物理封装过程，如将物品放入容器中。19 世纪扩展到比喻意义，如概括思想。20 世纪，在计算机科学中演变为技术术语，指数据封装，以提高软件设计的安全性和模块化。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "capsule",
+      "capsulate",
+      "encapsulation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象一个盒子封装物品来记忆物理含义；对于计算机术语，通过重复练习代码示例增强长期记忆；结合个人经验，如回忆日常生活中的封装行为，以建立情感连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "enclose",
+        "similarity": "0.8",
+        "context": "适用于物理封装语境，例如 'enclose in a package'（用于包裹物品）"
+      },
+      {
+        "word": "summarize",
+        "similarity": "0.7",
+        "context": "适用于概括想法语境，例如 'summarize key points'（用于精炼表达）"
+      },
+      {
+        "word": "wrap",
+        "similarity": "0.6",
+        "context": "适用于计算机封装语境，例如 'wrap data in a class'（用于数据隐藏）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expose",
+        "context": "适用于计算机语境，表示暴露内部细节，而不是隐藏（例如，在软件设计中）"
+      },
+      {
+        "word": "elaborate",
+        "context": "适用于概括语境，表示详细展开而不是简要总结（例如，在写作中）"
+      }
+    ],
+    "hypernyms": [
+      "contain",
+      "package"
+    ],
+    "hyponyms": [
+      "microencapsulate"
+    ],
+    "collocations": [
+      {
+        "pattern": "encapsulate + noun (e.g., data, ideas)",
+        "examples": [
+          "encapsulate data",
+          "encapsulate ideas"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "fully encapsulate + object",
+        "examples": [
+          "fully encapsulate the mechanism"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征保护和简化，常用于技术领域体现效率和模块化思维；在跨文化语境中，中国学习者可能将之关联到中医或传统工艺中的封装概念，如中药丸的制作。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，强调在商业和科技领域的应用，例如在硅谷文化中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向正式或学术用法",
+        "usage": "在英国英语中，常见于科学文献或教育语境中"
+      }
+    ],
+    "historicalContext": "与工业革命相关的封装技术在英语文化中兴起，象征现代化的保护机制；在文学中，如狄更斯作品中，隐喻社会阶层的隔离。",
+    "modernUsage": "在社交媒体和数字时代，常见于科技讨论，如编程论坛或在线课程，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个密封的盒子，里面放着数据或想法，外面只有简单标签。",
+      "keyElements": [
+        "盒子",
+        "标签",
+        "隐藏内容"
+      ],
+      "emotionalConnection": "联结到个人经验，如打包行李时的保护感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "En-capsule-ate：像把东西放进胶囊里一样封装。",
+        "explanation": "通过视觉联想帮助记忆词汇的核心含义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "听起来像 'in capsule late'，想象晚间把东西放进胶囊。",
+        "explanation": "利用声音相似性创建记忆钩子，促进海马体中的长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "capsule",
+      "package",
+      "hide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "encapsulated",
+      "pastParticiple": "encapsulated",
+      "presentParticiple": "encapsulating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + encapsulate + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "The system encapsulates the data."
+        ]
+      },
+      {
+        "pattern": "encapsulate + in + prepositional phrase",
+        "description": "表示封装在某个容器或环境中",
+        "examples": [
+          "Encapsulate the idea in a single sentence."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'capsule' as a noun only",
+        "correction": "Use as a verb in contexts like programming",
+        "explanation": "学习者常误将之视为名词；需通过语境区分词性"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'encapsulated'",
+        "explanation": "中文母语者可能忽略动词时态变化；建议练习句子转换"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "abstraction",
+      "protection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

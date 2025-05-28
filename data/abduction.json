@@ -1,0 +1,267 @@
+{
+  "word": "abduction",
+  "phonetics": {
+    "british": "/æbˈdʌkʃən/",
+    "american": "/æbˈdʌkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of forcibly taking someone away against their will, often for ransom or illegal purposes.",
+      "chineseTranslation": "绑架；诱拐",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In anatomy, the movement of a body part away from the midline of the body.",
+      "chineseTranslation": "外展（解剖学中的肢体运动）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In logic, a form of reasoning that involves forming a hypothesis to explain observed facts.",
+      "chineseTranslation": "假设推理；溯因推理",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "child abduction",
+      "meaning": "儿童被绑架的事件",
+      "example": "The community organized a search party after the child abduction was reported.",
+      "exampleTranslation": "社区在儿童绑架事件被报告后组织了搜救队。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "alien abduction",
+      "meaning": "外星人绑架人类的故事，常用于科幻语境",
+      "example": "Stories of alien abduction often appear in science fiction novels.",
+      "exampleTranslation": "外星人绑架的故事经常出现在科幻小说中。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "abduction of electrons",
+      "meaning": "电子的外展或转移，在物理学中",
+      "example": "In quantum mechanics, the abduction of electrons can lead to new molecular formations.",
+      "exampleTranslation": "在量子力学中，电子的外展可能导致新的分子形成。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The movie plot revolves around the abduction of a wealthy businessman by a criminal gang.",
+      "translation": "这部电影的情节围绕一个犯罪团伙绑架一位富商展开。",
+      "source": "Film and literature (e.g., thriller genres)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physical therapy, exercises focus on the abduction of the shoulder to improve range of motion.",
+      "translation": "在物理治疗中，锻炼重点是肩部的外展以改善运动范围。",
+      "source": "Medical texts (e.g., from sources like PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Philosophers use abduction as a method to infer the best explanation from incomplete data.",
+      "translation": "哲学家使用假设推理作为从不完整数据中推断最佳解释的方法。",
+      "source": "Academic writing (e.g., philosophy journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "abductio",
+        "meaning": "A leading away",
+        "language": "Latin"
+      },
+      {
+        "root": "abducere",
+        "meaning": "To lead away",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'abducere'（由 'ab-' 意为 'away' 和 'ducere' 意为 'to lead' 组成），最初用于描述物理移动或带走行为。在中世纪拉丁语中演变为法律和医学术语，如绑架或解剖学运动；17世纪传入英语，并在现代语境中扩展到逻辑推理。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "abduct",
+      "abductor",
+      "abductionist"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于/ʃ/音可能对中文母语者造成混淆，如与/sh/的发音相似，但需注意音节强调)",
+    "spellingDifficulty": "5 (中等难度，词汇结构简单，但 'uction' 结尾可能易误写为 'action')",
+    "meaningComplexity": "7 (较高复杂度，因为词汇有多义性，需要区分语境，如犯罪 vs. 医学)",
+    "usageComplexity": "6 (中等复杂度，依赖语境选择正确含义，且在正式语域中使用)",
+    "learningTips": [
+      "结合认知科学，使用分层记忆法：先将词汇与视觉图像关联（如绑架场景的图片），然后通过间隔重复强化多义性；建议初级学习者从常见语境入手，避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "kidnapping",
+        "similarity": "0.8",
+        "context": "适用于犯罪语境中，强调强制性行为"
+      },
+      {
+        "word": "sequestration",
+        "similarity": "0.6",
+        "context": "在法律或医学语境中，强调隔离或移除"
+      },
+      {
+        "word": "inference",
+        "similarity": "0.5",
+        "context": "在逻辑语境中，针对假设推理"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "return",
+        "context": "在绑架语境中，指归还或释放"
+      },
+      {
+        "word": "adduction",
+        "context": "在解剖学中，指向身体中线的运动"
+      }
+    ],
+    "hypernyms": [
+      "crime",
+      "movement",
+      "inference"
+    ],
+    "hyponyms": [
+      "child abduction",
+      "muscle abduction"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + noun (e.g., abduction of someone)",
+        "examples": [
+          "the abduction of the CEO"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + abduction (e.g., forced abduction)",
+        "examples": [
+          "forced abduction in wartime"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与犯罪叙事相关联，象征社会不安定性；在科幻文学中（如美国流行文化），代表未知与恐惧；需注意文化敏感性，避免强化刻板印象。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于法律和媒体语境中",
+        "usage": "在美国英语中，常见于新闻报道中强调社会安全问题"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，使用时强调历史法律含义",
+        "usage": "在英国英语中，常与历史事件（如19世纪绑架案）相关联"
+      }
+    ],
+    "historicalContext": "与18-19世纪的工业革命和社会变革相关，常出现在维多利亚时代文学中，反映社会阶层冲突；现代语境下，与全球化和媒体影响有关，如电影《The Silence of the Lambs》中的绑架主题。",
+    "modernUsage": "在社交媒体和新闻中流行，特别是在讨论儿童安全或国际事件时；跨文化中，中国语境可能与西方媒体影响下的翻译文学相关联。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人被强行带离一个城市街道，代表绑架；或在健身房中，手臂向外移动，代表解剖学含义。",
+      "keyElements": [
+        "强行带走的手势",
+        "身体外展的动作",
+        "逻辑推理的灯泡图标"
+      ],
+      "emotionalConnection": "联结个人经验，如观看悬疑电影时的紧张感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'abduction' 联想为 'a bad action'（一个坏的行为），代表绑架。",
+        "explanation": "通过负面情感联想强化记忆，基于认知科学的情绪编码原则"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /æbˈdʌkʃən/ 像 'a duck shun'（一只鸭子躲避），代表逃离或带走。",
+        "explanation": "利用声音相似性创建心理图像，促进海马体记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "kidnap",
+      "seize",
+      "diverge",
+      "hypothesis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "abductions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object structure (e.g., The abduction occurred last night)",
+        "description": "作为名词，通常在主语或宾语位置，用于描述事件",
+        "examples": [
+          "The police investigated the abduction."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., abduction by force)",
+        "description": "与介词搭配表示方式或代理",
+        "examples": [
+          "Abduction by unknown persons was reported."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'adduction'",
+        "correction": "Use 'abduction' for away from midline",
+        "explanation": "中文学习者常混淆两者，因为发音相似；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "初级学习者可能遗漏复数形式；通过重复练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "Law",
+      "Medicine",
+      "Philosophy",
+      "Media"
+    ],
+    "tags": [
+      "Crime",
+      "Anatomy",
+      "Logic",
+      "Social issues"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

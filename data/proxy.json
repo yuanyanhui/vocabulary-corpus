@@ -1,0 +1,267 @@
+{
+  "word": "proxy",
+  "phonetics": {
+    "british": "/ˈprɒksi/",
+    "american": "/ˈproʊksi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person authorized to act on behalf of another; a substitute or deputy.",
+      "chineseTranslation": "代理人；代表",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An entity or system that acts as an intermediary for requests from clients seeking resources from other servers, as in computing.",
+      "chineseTranslation": "代理服务器；中介系统",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To act as a proxy for someone or something.",
+      "chineseTranslation": "代理；充当代表",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Acting or serving as a substitute or intermediary.",
+      "chineseTranslation": "代理的；作为中介的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "proxy server",
+      "meaning": "代理服务器，用于在网络中充当中介转发请求",
+      "example": "The company uses a proxy server to enhance security and anonymity.",
+      "exampleTranslation": "公司使用代理服务器来提升安全性和匿名性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "by proxy",
+      "meaning": "通过代理人或间接方式",
+      "example": "She voted by proxy since she couldn't attend the meeting.",
+      "exampleTranslation": "由于无法出席会议，她通过代理人进行了投票。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "proxy vote",
+      "meaning": "代理投票",
+      "example": "In shareholder meetings, a proxy vote allows absent members to participate.",
+      "exampleTranslation": "在股东大会中，代理投票允许缺席的成员参与。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lawyer acted as a proxy for her client in the negotiations.",
+      "translation": "律师在谈判中充当了客户的代理人。",
+      "source": "Legal documents (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "To access blocked websites, users often connect through a proxy.",
+      "translation": "为了访问被屏蔽的网站，用户经常通过代理连接。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He appointed his brother as his proxy to sign the contract.",
+      "translation": "他任命他的兄弟作为他的代理人来签署合同。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "procurare",
+        "meaning": "to take care of or manage",
+        "language": "Latin"
+      },
+      {
+        "root": "pro-",
+        "meaning": "on behalf of",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'procurare'，意为管理或代理，14世纪传入英语，先用于法律语境表示代理人，17世纪扩展到一般代表概念，20世纪在计算机领域演变为技术术语。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "procurator",
+      "proxying",
+      "represent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法：先将 'proxy' 与日常生活代理概念（如代理人）联想，再扩展到技术语境；利用重复间隔法加强记忆，避免混淆相似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "representative",
+        "similarity": "0.8",
+        "context": "在法律或政治语境中，用于表示代理或代言人"
+      },
+      {
+        "word": "agent",
+        "similarity": "0.7",
+        "context": "在商业或技术语境中，用于表示中介或代表"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "original",
+        "context": "在代理语境中，指非代理的直接来源或本人"
+      },
+      {
+        "word": "direct",
+        "context": "强调非间接方式，如直接参与而非通过代理"
+      }
+    ],
+    "hypernyms": [
+      "intermediary",
+      "substitute"
+    ],
+    "hyponyms": [
+      "proxy server",
+      "voting proxy"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + proxy (e.g., legal proxy)",
+        "examples": [
+          "legal proxy",
+          "internet proxy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "by + proxy",
+        "examples": [
+          "vote by proxy"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征间接参与和委托，常用于法律（如委托书）和技术（如网络安全）领域，隐含信任与代理关系的文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如 'proxy server' 在互联网文化中普及",
+        "usage": "在美国英语中，常见于商业和科技讨论，强调效率和隐私保护"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向传统语境，如法律代理",
+        "usage": "在英国英语中，更多用于正式场合，如投票代理，体现历史法律传统"
+      }
+    ],
+    "historicalContext": "与英国的议会制度和殖民历史相关，例如17世纪的英国代理投票制度影响了现代民主实践。",
+    "modernUsage": "在社交媒体和数字时代，'proxy' 常用于讨论在线隐私和虚拟代理，如VPN服务。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个中间人站在两边传递信息，比如一个信使在国王和大臣之间传递命令。",
+      "keyElements": [
+        "中间人",
+        "传递",
+        "代表"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己委托朋友办事的情景，以触发信任和代理的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Proxy 听起来像 'pro-xy'，联想到 'pro' 表示支持，'xy' 像坐标，表示位置代理。",
+        "explanation": "通过声音和视觉联想帮助记忆语义，基于认知联想原理增强长期保留"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-X-Y: Person Representing Others eXtraordinarily Quickly and Yieldingly",
+        "explanation": "使用首字母缩写故事，结合叙事元素促进大脑编码"
+      }
+    ],
+    "wordAssociations": [
+      "agent",
+      "delegate",
+      "intermediary"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "proxies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + proxy",
+        "description": "主语直接与代理相关的主谓结构",
+        "examples": [
+          "He acts as a proxy."
+        ]
+      },
+      {
+        "pattern": "By + proxy",
+        "description": "表示间接方式的介词短语",
+        "examples": [
+          "Decisions are made by proxy."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'proxy' with 'proxying' in verb form",
+        "correction": "Use 'proxy' as a noun and 'act as a proxy' for verbs",
+        "explanation": "学习者常混淆词性，导致句法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for appropriate registers",
+        "explanation": "中文母语者可能在非正式场合误用，需注意语域差异"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "law",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "legal",
+      "intermediary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

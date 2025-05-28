@@ -1,0 +1,242 @@
+{
+  "word": "gigabyte",
+  "phonetics": {
+    "british": "/ˈɡɪɡəbaɪt/",
+    "american": "/ˈɡɪɡəˌbaɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a unit of digital information storage equal to 1,000,000,000 bytes (10^9 bytes), commonly used in computing to measure data size",
+      "chineseTranslation": "千兆字节",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one gigabyte",
+      "meaning": "一个千兆字节",
+      "example": "This smartphone comes with one gigabyte of RAM.",
+      "exampleTranslation": "这款智能手机配备了一个千兆字节的RAM。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "gigabyte of storage",
+      "meaning": "千兆字节的存储空间",
+      "example": "The external hard drive offers 500 gigabytes of storage.",
+      "exampleTranslation": "这个外置硬盘提供500千兆字节的存储空间。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "transfer a gigabyte",
+      "meaning": "传输一个千兆字节",
+      "example": "It took only seconds to transfer a gigabyte of data over the network.",
+      "exampleTranslation": "在网络上传输一个千兆字节的数据只需几秒钟。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My laptop has a 256 gigabyte solid-state drive, which is perfect for storing large files.",
+      "translation": "我的笔记本电脑有一个256千兆字节的固态硬盘，非常适合存储大文件。",
+      "source": "Technology review article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In today's world, a single gigabyte of data can hold thousands of photos or hours of video.",
+      "translation": "在当今世界，一个千兆字节的数据可以容纳数千张照片或数小时的视频。",
+      "source": "Educational content (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company's servers handle gigabytes of traffic every minute during peak hours.",
+      "translation": "公司在高峰时段，每分钟处理数千兆字节的流量。",
+      "source": "Business news (e.g., from news articles)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, from Greek and English roots",
+    "rootWords": [
+      {
+        "root": "giga",
+        "meaning": "billion or giant",
+        "language": "Greek (from γίγας, gigas, meaning giant)"
+      },
+      {
+        "root": "byte",
+        "meaning": "a sequence of bits",
+        "language": "English (coined in the mid-20th century, possibly from 'bite' as a play on 'bit')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的计算机科学发展时期，'giga-' 前缀源自希腊语表示巨大量级，而'byte' 是为了描述数据存储单位而创造。最初用于表示10^9字节，随着计算机技术的演变，现在常与二进制标准（如2^30字节）相关联，但标准定义保持为十进制。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "megabyte",
+      "terabyte",
+      "kilobyte",
+      "petabyte"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将'gigabyte'与巨大的数据存储设备（如硬盘）联系起来，利用分块记忆法（chunking）将词汇与数字单位系统化记忆；对于中文母语学习者，强调英汉对比以避免混淆类似单位。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "GB",
+        "similarity": "0.9",
+        "context": "在技术语境中作为缩写使用，常用于非正式或专业讨论"
+      },
+      {
+        "word": "gig",
+        "similarity": "0.8",
+        "context": "在非正式口语中简略表示，尤其在科技爱好者社区"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "byte",
+        "context": "表示更小的数据单位，常用于对比基本和大型存储"
+      }
+    ],
+    "hypernyms": [
+      "data unit",
+      "storage unit"
+    ],
+    "hyponyms": [
+      "kilobyte",
+      "megabyte"
+    ],
+    "collocations": [
+      {
+        "pattern": "gigabyte of [noun]",
+        "examples": [
+          "gigabyte of memory",
+          "gigabyte of data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transfer [verb] gigabyte",
+        "examples": [
+          "download a gigabyte",
+          "upload a gigabyte"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球数字文化中象征着数据存储和信息时代的发展，隐含语义反映了科技进步对日常生活的影响，尤其在互联网和移动设备普及的背景下。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术产品描述中",
+        "usage": "在美国英语中，经常在商业和消费语境中使用，如广告中强调设备存储"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更强调国际标准",
+        "usage": "在英国英语中，常见于教育和专业出版物中，以突出计量标准的精确性"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命相关，源自硅谷文化和技术创新浪潮，如IBM和Apple等公司在数据存储领域的贡献。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于讨论云计算和大数据趋势，例如TikTok或Twitter上的科技话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的字节巨人（giga表示巨型），正扛着一个装满数据的虚拟仓库。",
+      "keyElements": [
+        "巨人形象",
+        "数据仓库",
+        "字节符号"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆购买大容量手机时的兴奋，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Gigabyte sounds like 'giga-bite', like a giant bite of an apple representing large data chunks.",
+        "explanation": "通过声音联想和视觉图像，帮助记忆词汇的规模感，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "G for Giant, B for Byte – together make Gigabyte.",
+        "explanation": "利用首字母缩略法强化词汇结构，结合重复练习以提升长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "memory",
+      "storage",
+      "data",
+      "computer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "gigabytes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [quantity] + gigabyte + of + [object]",
+        "description": "典型用于描述数据量，例如在技术说明中",
+        "examples": [
+          "500 gigabytes of storage"
+        ]
+      },
+      {
+        "pattern": "Verb + gigabyte",
+        "description": "用于动作语境，如传输或存储",
+        "examples": [
+          "Handle gigabytes of data"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing gigabyte with gigabit",
+        "correction": "Use gigabyte for storage and gigabit for data transfer",
+        "explanation": "gigabyte指字节存储，而gigabit指比特传输，常由中文学习者混淆单位"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "gigabytes (not gigas)",
+        "explanation": "英语名词复数规则需注意，避免受中文影响直接省略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "business"
+    ],
+    "tags": [
+      "digital",
+      "measurement",
+      "IT"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

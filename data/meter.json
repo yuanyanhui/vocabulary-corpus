@@ -1,0 +1,257 @@
+{
+  "word": "meter",
+  "phonetics": {
+    "british": "/ˈmiːtə/",
+    "american": "/ˈmiːtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that measures and records the quantity, degree, or rate of something, such as gas or electricity.",
+      "chineseTranslation": "计量器（如燃气表或电表）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The base unit of length in the International System of Units (SI), equal to 100 centimeters or approximately 39.37 inches.",
+      "chineseTranslation": "米（长度单位）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The rhythm or arrangement of syllables in verse, often determined by the pattern of stressed and unstressed syllables.",
+      "chineseTranslation": "诗的韵律或节拍",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "parking meter",
+      "meaning": "停车收费器",
+      "example": "Don't forget to feed the parking meter; otherwise, you might get a ticket.",
+      "exampleTranslation": "别忘了投币给停车收费器；否则，你可能会被罚款。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "electricity meter",
+      "meaning": "电表",
+      "example": "The electricity meter in our house needs to be read every month for billing purposes.",
+      "exampleTranslation": "我们家里的电表每个月都需要读取以计算账单。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in meter",
+      "meaning": "以米为单位",
+      "example": "The race is measured in meters, not miles.",
+      "exampleTranslation": "这场赛跑是用米来计量的，而不是英里。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new water meter installed in our building helps track usage more accurately.",
+      "translation": "我们大楼新安装的水表有助于更准确地追踪用水量。",
+      "source": "Technical manual (e.g., from engineering contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In poetry, the meter of a sonnet often follows a strict iambic pattern.",
+      "translation": "在诗歌中，十四行诗的韵律通常遵循严格的抑扬格模式。",
+      "source": "Literary work (e.g., Shakespearean analysis)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She ran 100 meters in under 11 seconds during the track meet.",
+      "translation": "她在田径比赛中以不到11秒的成绩跑完100米。",
+      "source": "Sports news (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "metron",
+        "meaning": "测量",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'metron'，意为 '测量' 或 '标准'。在中世纪拉丁语中演变为 'metrum'，用于指长度单位和韵律。17世纪传入英语，最初用于诗歌韵律，18世纪扩展到度量衡系统。工业革命期间，随着度量衡标准化，该词在科学和技术语境中广泛使用。",
+    "firstKnownUse": "约公元前5世纪（在希腊语中），英语中约14世纪",
+    "relatedWords": [
+      "metre (British spelling)",
+      "metric",
+      "metrology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR等级，根据语言学习理论，该词在日常语境中常见，但需区分多义性)",
+    "pronunciationDifficulty": "4 (1-10，基于语音简单性，辅音和元音组合易于中间级学习者掌握，但美式和英式差异可能增加挑战)",
+    "spellingDifficulty": "3 (1-10，拼写相对简单，但与 'metre' 的英式变体混淆可能导致错误)",
+    "meaningComplexity": "6 (1-10，词有多个含义，需要语境区分，符合认知语言学中语义网络理论)",
+    "usageComplexity": "5 (1-10，常见于多种语境，但搭配需练习)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'meter' 的不同含义与视觉图像关联，如将长度单位与标尺图像联结；使用间隔重复（spaced repetition）强化记忆；避免混淆英式和美式拼写，通过双语对照表进行比较。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "gauge",
+        "similarity": "0.7",
+        "context": "在计量设备语境中，常用于工业或科学领域"
+      },
+      {
+        "word": "rhythm",
+        "similarity": "0.6",
+        "context": "在诗歌或音乐语境中，表示节拍"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "imperial",
+        "context": "在度量单位语境中，指非公制系统，如英尺"
+      },
+      {
+        "word": "irregularity",
+        "context": "在诗歌语境中，指无规律的韵律"
+      }
+    ],
+    "hypernyms": [
+      "unit",
+      "device"
+    ],
+    "hyponyms": [
+      "speedometer",
+      "thermometer"
+    ],
+    "collocations": [
+      {
+        "pattern": "meter + noun (e.g., gas meter)",
+        "examples": [
+          "gas meter",
+          "water meter"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + meter (e.g., in meters)",
+        "examples": [
+          "measured in meters"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征现代科学和标准化的重要性，尤其在度量衡改革中（如法国大革命后的公制系统），隐含语义为精确性和全球化。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "常拼作 'metre' 以表示长度单位",
+        "usage": "在正式或科学语境中更常用，以区别于美国英语"
+      },
+      {
+        "region": "美国",
+        "variation": "统一拼作 'meter'，用于所有含义",
+        "usage": "在日常和教育语境中更常见，反映了美国度量系统的混合使用"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，强调理性与标准化的文化价值；在文学中，如莎士比亚作品中用于诗歌，体现了文艺复兴时期的艺术表达。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于健身App或在线教育中，表示距离或节奏，体现了全球化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有标尺的科学实验室场景，标尺上标记着 'meter'，旁边有一个时钟代表韵律。",
+      "keyElements": [
+        "标尺图像",
+        "计量设备",
+        "诗歌节奏波浪"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时用尺子测量玩具，触发积极的学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'meter' 联想为 'meet her'，想象测量一个人的高度时说 'meet her at the meter mark'。",
+        "explanation": "通过声音联想增强记忆，基于认知科学中的双编码理论（视觉和听觉结合）"
+      },
+      {
+        "type": "缩略",
+        "content": "M-E-T-E-R: Measure Everything To Ensure Results",
+        "explanation": "使用首字母缩略词帮助记住多义性，结合情感触发点如成就感"
+      }
+    ],
+    "wordAssociations": [
+      "measure",
+      "metric",
+      "rhythm",
+      "scale"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "meters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the gas meter)",
+        "description": "作为名词用于描述具体物体，常置于定语后",
+        "examples": [
+          "The meter readings are accurate."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., in meters)",
+        "description": "表示单位或方式，常与介词结合",
+        "examples": [
+          "The distance is 5 meters."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'meter' with 'metre'",
+        "correction": "Use 'meter' in American English and 'metre' in British English based on context",
+        "explanation": "源自区域变体差异，学习者需注意语境以避免拼写错误"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "It is not a verb; use 'measure' instead",
+        "explanation": "'Meter' 仅为名词，避免误用为动词形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (COCA corpus ranks it in the top 2000 words; BNC frequency: approximately 500 per million words)",
+    "domains": [
+      "science",
+      "technology",
+      "literature",
+      "daily life"
+    ],
+    "tags": [
+      "measurement",
+      "units",
+      "poetry",
+      "devices"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

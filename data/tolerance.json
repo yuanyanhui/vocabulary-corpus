@@ -1,0 +1,272 @@
+{
+  "word": "tolerance",
+  "phonetics": {
+    "british": "/ˈtɒlərəns/",
+    "american": "/ˈtɑːlərəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability or willingness to tolerate something, especially opinions or behavior that one does not necessarily agree with.",
+      "chineseTranslation": "宽容；容忍",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The capacity to endure continued subjection to something such as a drug, hardship, or environmental factors without adverse reaction.",
+      "chineseTranslation": "耐受力；耐性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An allowable amount of variation from a standard in engineering or manufacturing.",
+      "chineseTranslation": "公差；容差",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of tolerating or being tolerant.",
+      "chineseTranslation": "忍受；容忍行为",
+      "level": "basic",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "zero tolerance",
+      "meaning": "绝对不容忍的政策或态度",
+      "example": "The school has a zero tolerance policy for bullying.",
+      "exampleTranslation": "学校对欺凌行为采取零容忍政策。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "religious tolerance",
+      "meaning": "对不同宗教信仰的宽容",
+      "example": "Religious tolerance is a key principle in multicultural societies.",
+      "exampleTranslation": "宗教宽容是多元文化社会的重要原则。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "drug tolerance",
+      "meaning": "对药物逐渐产生的耐受性",
+      "example": "Long-term users may develop drug tolerance and require higher doses.",
+      "exampleTranslation": "长期使用者可能产生药物耐受性，需要更高的剂量。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a democratic society, tolerance for diverse opinions is essential.",
+      "translation": "在民主社会中，对不同意见的宽容是必不可少的。",
+      "source": "News articles (e.g., from BBC or The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The engineer specified a tolerance of 0.01 mm for the part's dimensions.",
+      "translation": "工程师为部件尺寸指定了0.01毫米的公差。",
+      "source": "Technical manuals (e.g., from engineering corpora)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her tolerance for cold weather improved after living in the mountains for years.",
+      "translation": "她在山区生活多年后，对寒冷天气的耐受力提高了。",
+      "source": "Literature (e.g., from novels in BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Tolerance in interpersonal relationships often leads to greater harmony.",
+      "translation": "人际关系中的容忍常常导致更大的和谐。",
+      "source": "Educational texts (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "toler-",
+        "meaning": "to endure or bear",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'tolerantia'，意为忍受或耐受，由动词 'tolerare' 演变而来。通过古法语 'tolerance' 传入英语，在15世纪开始用于表示忍受痛苦或意见的宽容。现代英语中，意义扩展到社会和工程领域，受启蒙运动的影响而强调社会宽容。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "tolerate",
+      "intolerant",
+      "toleration"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习词汇；将 'tolerance' 与个人经历关联，例如回想一次宽容他人的情景，以增强记忆痕迹；使用视觉映射将词汇与图像结合，如画一个平衡天平的图代表宽容的平衡状态。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "forbearance",
+        "similarity": "0.8",
+        "context": "适用于正式语境中表示耐心或克制"
+      },
+      {
+        "word": "patience",
+        "similarity": "0.7",
+        "context": "适用于日常生活语境中表示对挫折的忍受"
+      },
+      {
+        "word": "acceptance",
+        "similarity": "0.6",
+        "context": "适用于社会语境中表示对差异的接纳"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "intolerance",
+        "context": "适用于强调偏见或拒绝语境"
+      },
+      {
+        "word": "bigotry",
+        "context": "适用于文化或社会争论中表示狭隘态度"
+      }
+    ],
+    "hypernyms": [
+      "endurance",
+      "acceptance"
+    ],
+    "hyponyms": [
+      "religious tolerance",
+      "zero tolerance"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + tolerance (e.g., cultural tolerance)",
+        "examples": [
+          "promote cultural tolerance"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + tolerance (e.g., high tolerance)",
+        "examples": [
+          "develop high tolerance"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征启蒙思想的核心价值，代表了对多元性和和平共处的追求；在中文文化中，类似于 '和谐' 或 '中庸' 的概念，但强调更积极的包容。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于社会和政治语境",
+        "usage": "常用于讨论移民或多元文化政策"
+      },
+      {
+        "region": "United States",
+        "variation": "强调个人权利和法律语境",
+        "usage": "如在教育或执法中的 'zero tolerance' 政策"
+      }
+    ],
+    "historicalContext": "与文艺复兴和启蒙运动相关，特别是在欧洲历史中，推动了宗教宽容的理念，如英国的宗教改革时期。",
+    "modernUsage": "在社交媒体和全球化的语境下，常见于讨论种族平等和COVID-19疫苗耐受性的辩论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，一侧是不同意见的符号，另一侧是宽容的手势，表示平衡和忍受。",
+      "keyElements": [
+        "天平",
+        "手势",
+        "符号"
+      ],
+      "emotionalConnection": "联结到个人的一次宽容经历，如原谅朋友的错误，以触发正面情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'tolerance' as 'to learn ants' – ants endure and adapt to environments.",
+        "explanation": "通过视觉联想将词汇与蚂蚁的耐力联系，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈtɒlərəns/' 听起来像 'tower of endurance'，代表坚固的塔。",
+        "explanation": "利用声音相似性增强记忆，符合记忆科学中的关联原则"
+      }
+    ],
+    "wordAssociations": [
+      "endure",
+      "accept",
+      "patience"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tolerances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + tolerance (e.g., We value tolerance)",
+        "description": "作为名词出现在主语或宾语位置，常用于表达态度",
+        "examples": [
+          "Tolerance promotes peace."
+        ]
+      },
+      {
+        "pattern": "Adjective + tolerance (e.g., high tolerance)",
+        "description": "用形容词修饰表示程度",
+        "examples": [
+          "She showed great tolerance."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'tolerate' as a verb without proper context",
+        "correction": "Use 'tolerance' as a noun in appropriate sentences",
+        "explanation": "学习者常将名词和动词混淆，需注意词性以避免语义错误"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Apply in neutral or formal registers",
+        "explanation": "在中文母语学习者中，易在非正式对话中误用，影响表达精确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "social sciences",
+      "engineering",
+      "health"
+    ],
+    "tags": [
+      "ethics",
+      "endurance",
+      "diversity"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

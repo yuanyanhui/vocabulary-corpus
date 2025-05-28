@@ -1,0 +1,244 @@
+{
+  "word": "interface",
+  "phonetics": {
+    "british": "/ˈɪn.tə.feɪs/",
+    "american": "/ˈɪn.t̬ɚ.feɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a point where two systems, subjects, organizations, etc. meet and interact",
+      "chineseTranslation": "接口；界面；连接点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a device or program enabling a user to communicate with a computer",
+      "chineseTranslation": "用户界面；交互界面",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to connect with or interact through an interface",
+      "chineseTranslation": "连接；交互",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "user interface",
+      "meaning": "用户界面",
+      "example": "The new software has a very intuitive user interface.",
+      "exampleTranslation": "新软件的用户界面非常直观。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "interface design",
+      "meaning": "界面设计",
+      "example": "Good interface design is crucial for user satisfaction.",
+      "exampleTranslation": "良好的界面设计对用户满意度至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The interface between the two departments needs to be improved for better communication.",
+      "translation": "这两个部门之间的接口需要改进以促进更好的沟通。",
+      "source": "business context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This app’s interface is so user-friendly that even beginners can navigate it easily.",
+      "translation": "这款应用的界面非常用户友好，即使是初学者也能轻松操作。",
+      "source": "technology review",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The software interfaces seamlessly with other programs on the market.",
+      "translation": "该软件与市场上的其他程序无缝连接。",
+      "source": "technical documentation",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "between, among",
+        "language": "Latin"
+      },
+      {
+        "root": "face",
+        "meaning": "surface, appearance",
+        "language": "Latin (via Old French)"
+      }
+    ],
+    "historicalDevelopment": "最初在19世纪用于描述两个物体之间的接触面，20世纪中期随着计算机技术的发展，扩展为描述人与机器或系统之间的交互点。",
+    "firstKnownUse": "1882 (physical boundary); 1960s (computing context)",
+    "relatedWords": [
+      "interact",
+      "interfacing",
+      "surface"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "将 'interface' 与 'face' 联系起来，想象两个系统面对面交流。",
+      "通过学习技术语境中的例句，熟悉其在计算机领域的常见用法。",
+      "使用可视化工具（如界面设计图）来强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "connection",
+        "similarity": "0.7",
+        "context": "系统或组织之间的联系"
+      },
+      {
+        "word": "boundary",
+        "similarity": "0.6",
+        "context": "物理或抽象的分界点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "isolation",
+        "context": "系统或个体之间的隔离"
+      }
+    ],
+    "hypernyms": [
+      "connection",
+      "interaction"
+    ],
+    "hyponyms": [
+      "user interface",
+      "graphical interface"
+    ],
+    "collocations": [
+      {
+        "pattern": "interface with",
+        "examples": [
+          "The program interfaces with external devices."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "graphical user interface",
+        "examples": [
+          "The graphical user interface makes navigation easy."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代科技文化中，'interface' 象征着人与技术之间的桥梁，体现了数字化时代的核心理念。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如软件界面",
+        "usage": "在日常语境中也可能指人与人之间的互动"
+      },
+      {
+        "region": "英国",
+        "variation": "更多用于描述系统或组织之间的联系",
+        "usage": "在技术语境中用法与美国相似，但非技术语境中更正式"
+      }
+    ],
+    "historicalContext": "随着20世纪计算机技术的发展，'interface' 从物理学领域进入大众视野，成为科技革命的象征词汇。",
+    "modernUsage": "在社交媒体和科技传播中，'interface' 常用于描述用户体验和交互设计，反映了数字化生活的核心特征。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的屏幕，屏幕上有一个窗口，你通过这个窗口与电脑交流，这就是 'interface'。",
+      "keyElements": [
+        "屏幕",
+        "窗口",
+        "交流"
+      ],
+      "emotionalConnection": "联想到第一次使用智能手机时的兴奋感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "interface = inter（中间）+ face（面对），两个系统面对面交流。",
+        "explanation": "通过拆解词根，强化对词义的理解。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "interface 听起来像 'enter face'，进入一个面对面的交流空间。",
+        "explanation": "利用发音相似性建立记忆联系。"
+      }
+    ],
+    "wordAssociations": [
+      "interaction",
+      "connection",
+      "screen"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "interfaces",
+      "pastTense": "interfaced",
+      "pastParticiple": "interfaced",
+      "presentParticiple": "interfacing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "interface with something",
+        "description": "表示与某物或系统进行连接或交互",
+        "examples": [
+          "The device interfaces with the main system."
+        ]
+      },
+      {
+        "pattern": "interface between A and B",
+        "description": "表示A和B之间的连接点或分界",
+        "examples": [
+          "The interface between marketing and sales is critical."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "用作形容词",
+        "correction": "interface 不是形容词，应使用 'interfacing' 或其他词",
+        "explanation": "interface 主要作为名词或动词使用，误用为形容词是常见错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "approx. 5,000 in COCA ranking",
+    "domains": [
+      "technology",
+      "business",
+      "science"
+    ],
+    "tags": [
+      "interaction",
+      "technology",
+      "connection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "OED (Oxford English Dictionary)"
+    ]
+  }
+}

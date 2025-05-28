@@ -1,0 +1,267 @@
+{
+  "word": "retrieve",
+  "phonetics": {
+    "british": "/rɪˈtriːv/",
+    "american": "/rɪˈtriːv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To get or bring something back from a place or source.",
+      "chineseTranslation": "取回；找回",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to recover or access data from storage.",
+      "chineseTranslation": "检索；提取",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of retrieving something, especially in hunting or computing.",
+      "chineseTranslation": "取回行为；检索操作",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "retrieve data",
+      "meaning": "检索或提取数据",
+      "example": "The system can quickly retrieve data from the database.",
+      "exampleTranslation": "系统可以快速从数据库中检索数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "retrieve information",
+      "meaning": "取回信息",
+      "example": "Users can retrieve information using the search function.",
+      "exampleTranslation": "用户可以使用搜索功能取回信息。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "retrieve a file",
+      "meaning": "找回文件",
+      "example": "I need to retrieve a file from the cloud storage.",
+      "exampleTranslation": "我需要从云存储中找回文件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The dog was trained to retrieve the stick from the water.",
+      "translation": "这条狗被训练从水中取回木棍。",
+      "source": "Literature (e.g., descriptive passages in novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the crash, it took hours to retrieve the lost files from the backup.",
+      "translation": "崩溃后，花了几个小时从备份中取回丢失的文件。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Historians often retrieve ancient artifacts to study past civilizations.",
+      "translation": "历史学家经常取回古代文物来研究过去的文明。",
+      "source": "Academic texts (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "retrouver",
+        "meaning": "to find again",
+        "language": "Old French"
+      },
+      {
+        "root": "re-",
+        "meaning": "again",
+        "language": "Latin"
+      },
+      {
+        "root": "trover",
+        "meaning": "to find",
+        "language": "Old French (from Latin 'tropare')"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'retrouver'，意为再次找到，起源于拉丁语的前缀 're-'（再次）和 'trover'（找到）。在中世纪英语中演变为 'retrieven'，逐渐发展为现代英语 'retrieve'，从最初的狩猎或物理取回含义扩展到抽象的恢复或检索，如在计算机语境中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "recovery",
+      "fetch",
+      "regain"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法：将 'retrieve' 与类似词汇如 'return' 分组记忆，以强化语义网络；",
+      "通过视觉想象将词汇与场景关联，例如想象狗取回物品的情景，以提升长时记忆；",
+      "运用间隔重复系统（Spaced Repetition Systems）复习，针对中国学习者常见混淆如与 'receive' 的区别，进行针对性练习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "recover",
+        "similarity": "0.8",
+        "context": "在损失后取回物品的语境中适用，例如数据恢复"
+      },
+      {
+        "word": "fetch",
+        "similarity": "0.7",
+        "context": "涉及去取回某物的物理动作语境中适用，例如动物训练"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lose",
+        "context": "表示遗失或无法取回的语境中适用"
+      },
+      {
+        "word": "abandon",
+        "context": "表示放弃或不取回的语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "obtain",
+      "acquire"
+    ],
+    "hyponyms": [
+      "download",
+      "recall"
+    ],
+    "collocations": [
+      {
+        "pattern": "retrieve + noun (e.g., data, information)",
+        "examples": [
+          "retrieve data",
+          "retrieve information"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "retrieve from + location",
+        "examples": [
+          "retrieve from the database",
+          "retrieve from memory"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征恢复或找回的主题，常用于文学中代表重获失物或记忆的隐喻，例如在英国狩猎传统中；在中国学习者语境中，可能与数字时代的数据检索相关联，体现技术文化的影响。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在非正式对话中可能简化表达，例如科技讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "保留更多传统含义，如狩猎术语",
+        "usage": "在正式或文学语境中更常见"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲狩猎文化相关联，并在工业革命后扩展到机械和数字领域；在中国文化中，类似概念见于古籍中的 '寻回'，但 'retrieve' 反映西方对资源管理的强调。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论数据隐私和信息检索，例如 Twitter 或微信中的对话"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个狗在公园中跑去取回一个球的场景",
+      "keyElements": [
+        "狗",
+        "球",
+        "跑动"
+      ],
+      "emotionalConnection": "联结个人经验，如童年玩耍取回玩具的情绪，触发积极回忆以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'retrieve' 联想为 're-tree-ve'，想象再次从树上取回水果",
+        "explanation": "通过声音联想和视觉图像结合，基于认知科学中的双编码理论，提升词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "R-Tree-V：R for again, Tree for object, V for verb action",
+        "explanation": "使用缩略形式创建简单记忆钩子，减少认知负荷"
+      }
+    ],
+    "wordAssociations": [
+      "return",
+      "recover",
+      "fetch"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "retrieved",
+      "pastParticiple": "retrieved",
+      "presentParticiple": "retrieving",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + retrieve + object + from + source",
+        "description": "主语 + 取回 + 宾语 + 从 + 来源 的结构，常用于描述来源",
+        "examples": [
+          "I retrieve the book from the shelf."
+        ]
+      },
+      {
+        "pattern": "Retrieve + object",
+        "description": "直接取回宾语的简单结构",
+        "examples": [
+          "Retrieve the data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'receive'",
+        "correction": "Use 'retrieve' for getting back something previously lost",
+        "explanation": "中国学习者常混淆 'retrieve' 和 'receive' 由于发音相似，需注意语义差异"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'retrieved'",
+        "explanation": "正则动词，但学习者可能遗忘添加 '-ed' 在过去时"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "daily life"
+    ],
+    "tags": [
+      "action verb",
+      "recovery",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

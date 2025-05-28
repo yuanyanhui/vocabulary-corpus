@@ -1,0 +1,280 @@
+{
+  "word": "lockup",
+  "phonetics": {
+    "british": "/ˈlɒkʌp/",
+    "american": "/ˈlɑːkʌp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small jail or prison cell, often used informally for a temporary detention area.",
+      "chineseTranslation": "小型监狱或拘留室",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a state where a computer or program becomes unresponsive and freezes.",
+      "chineseTranslation": "计算机冻结状态",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In finance, a period during which certain shares or assets cannot be sold or transferred.",
+      "chineseTranslation": "锁定期（指资产无法出售的时间段）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A locked storage space, such as a garage or shop that can be secured.",
+      "chineseTranslation": "可上锁的存储空间，如车库",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lockup period",
+      "meaning": "锁定期，指在特定时间内无法出售股票或其他资产的时期",
+      "example": "The lockup period for the IPO shares is six months.",
+      "exampleTranslation": "首次公开募股股票的锁定期为六个月。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lockup garage",
+      "meaning": "可上锁的车库",
+      "example": "He rents a lockup garage to store his vintage car.",
+      "exampleTranslation": "他租了一个可上锁的车库来存放他的老爷车。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "system lockup",
+      "meaning": "系统冻结",
+      "example": "A system lockup can occur due to overheating or software errors.",
+      "exampleTranslation": "系统冻结可能由于过热或软件错误而发生。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The suspect was held in the local police lockup overnight.",
+      "translation": "嫌疑人被关在当地警察局的拘留室过夜。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the update, my computer experienced a lockup and wouldn't respond.",
+      "translation": "更新后，我的计算机出现冻结，无法响应。",
+      "source": "Technology forum (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Investors must adhere to the lockup agreement to avoid penalties.",
+      "translation": "投资者必须遵守锁定协议以避免处罚。",
+      "source": "Financial report (e.g., from Wall Street Journal)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She keeps her tools in a secure lockup to prevent theft.",
+      "translation": "她把工具放在一个安全的上锁存储空间中以防止盗窃。",
+      "source": "General literature",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "loc",
+        "meaning": "enclosure or fastening",
+        "language": "Old English"
+      },
+      {
+        "root": "up",
+        "meaning": "in an elevated or secured position",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'loc'（意为封闭物或锁）和 'up'（意为向上或固定）。在中古英语时期演变为 'lock up'，最初指将某物锁起来。随着时间推移，发展为名词形式，指临时监狱或冻结状态。在现代英语中，尤其在20世纪，扩展到计算和技术领域。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "lock",
+      "lockdown",
+      "locksmith"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象一个上锁的监狱门来记忆'lockup'作为拘留室；通过重复练习不同语境下的例句，以增强海马体记忆路径；对于中国母语学习者，关联到类似词汇如'锁定'，并使用间隔重复系统来优化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "jail cell",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于描述小型监狱，例如警察局"
+      },
+      {
+        "word": "system freeze",
+        "similarity": "0.9",
+        "context": "在技术语境中用于描述计算机故障"
+      },
+      {
+        "word": "restricted period",
+        "similarity": "0.7",
+        "context": "在金融语境中用于描述资产锁定"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "context": "在拘留语境中，指释放或解锁"
+      },
+      {
+        "word": "unfreeze",
+        "context": "在技术语境中，指系统恢复正常"
+      }
+    ],
+    "hypernyms": [
+      "enclosure",
+      "freeze"
+    ],
+    "hyponyms": [
+      "police cell",
+      "software hang"
+    ],
+    "collocations": [
+      {
+        "pattern": "lockup + noun (e.g., period, garage)",
+        "examples": [
+          "lockup period",
+          "lockup garage"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "verb + lockup (e.g., experience a lockup)",
+        "examples": [
+          "experience a lockup"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常隐含社会控制或技术故障的象征，例如在英国文化中'lockup'可能指小型商店或车库，反映了社区安全主题；在现代美国文化中，与科技相关联，象征数字时代的不确定性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于指可上锁的商店或车库",
+        "usage": "在日常口语中，表示临时存储空间，与美国用法有细微差异"
+      },
+      {
+        "region": "美国",
+        "variation": "更强调技术或监狱语境",
+        "usage": "在科技和法律语境中频繁出现，如计算机故障"
+      }
+    ],
+    "historicalContext": "与工业革命相关的，最初用于描述工厂或监狱的封闭空间；在20世纪文学中，如狄更斯作品中出现，象征社会不公；与当代数字化社会背景关联。",
+    "modernUsage": "在社交媒体和在线论坛中流行，用于讨论技术问题或金融事件，体现快速变化的数字文化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个上锁的铁门，里面是一个小房间，代表拘留室；或一个计算机屏幕冻结的场景。",
+      "keyElements": [
+        "铁门",
+        "冻结屏幕",
+        "钥匙"
+      ],
+      "emotionalConnection": "联结到个人经历，如看电影中监狱场景，触发安全或挫败感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'lockup'联想为'lock'（锁）和'up'（起来），想象锁起来的一扇门。",
+        "explanation": "通过视觉联想加深记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈlɒkʌp/'听起来像'lock up'，联想锁门的动作。",
+        "explanation": "利用声音与动作的联结，促进听觉和运动记忆"
+      }
+    ],
+    "wordAssociations": [
+      "lock",
+      "jail",
+      "freeze",
+      "secure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lockups",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the lockup)",
+        "description": "作为名词使用在句子中，表示地点或状态",
+        "examples": [
+          "The lockup was full of suspects."
+        ]
+      },
+      {
+        "pattern": "In collocations (e.g., experience a lockup)",
+        "description": "与动词搭配，表示经历某个事件",
+        "examples": [
+          "We experienced a system lockup."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'lock up' as a verb",
+        "correction": "Use 'lockup' as a noun only",
+        "explanation": "学习者常将之误用为动词短语；正确时需注意其名词形式"
+      },
+      {
+        "mistake": "Mispronouncing as /lɒkʊp/",
+        "correction": "Pronounce as /ˈlɒkʌp/",
+        "explanation": "中国母语者可能受音调影响，错误强调元音；通过听力练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "law enforcement",
+      "technology",
+      "finance",
+      "daily life"
+    ],
+    "tags": [
+      "security",
+      "technology terms",
+      "legal jargon"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

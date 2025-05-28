@@ -1,0 +1,231 @@
+{
+  "word": "callee",
+  "phonetics": {
+    "british": "/kəˈliː/",
+    "american": "/kæˈliː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, the function or routine that is invoked or called by another function.",
+      "chineseTranslation": "被调用方（如函数或程序）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the callee function",
+      "meaning": "被调用函数",
+      "example": "In object-oriented programming, the callee function executes the specified task.",
+      "exampleTranslation": "在面向对象编程中，被调用函数执行指定的任务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "callee side",
+      "meaning": "被调用一侧",
+      "example": "Error handling on the callee side ensures robust application performance.",
+      "exampleTranslation": "在被调用一侧进行错误处理，确保应用程序的稳健性能。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "When the caller function invokes the callee, it passes the necessary arguments.",
+      "translation": "当调用方函数调用被调用方时，它传递必要的参数。",
+      "source": "Technical documentation (e.g., from programming tutorials on Stack Overflow)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In telephony systems, the callee is the party who receives the call.",
+      "translation": "在电话系统中，被调用方是接收电话的一方。",
+      "source": "Telecommunications literature (e.g., based on ITU standards)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Debugging the callee in this recursive algorithm revealed the efficiency issues.",
+      "translation": "调试这个递归算法中的被调用方揭示了效率问题。",
+      "source": "Software engineering texts (e.g., from books like 'Clean Code')",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "call",
+        "meaning": "To summon or invoke",
+        "language": "Old English (from Proto-Germanic *kaljaną)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'ceallian'，意为呼叫或召唤。词语 'callee' 是 20 世纪计算机科学兴起时从 'caller'（调用方）衍生而来，用于描述函数调用中的被动一方，反映了编程语言演变从电话系统术语到软件工程的扩展。",
+    "firstKnownUse": "Mid-20th century (first documented in computing contexts around the 1960s)",
+    "relatedWords": [
+      "caller",
+      "invoke",
+      "function"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common English phonetic patterns but includes a schwa sound that may confuse intermediate learners)",
+    "spellingDifficulty": "3 (out of 10, straightforward spelling once the root 'call' is known, based on morpheme recognition in language learning theory)",
+    "meaningComplexity": "7 (out of 10, as it is domain-specific to programming and requires contextual understanding, drawing from cognitive linguistics where abstract concepts are challenging for second language learners)",
+    "usageComplexity": "6 (out of 10, limited to technical contexts, which may require familiarity with syntactic patterns in code, per memory science principles)",
+    "learningTips": [
+      "通过视觉编码将 'callee' 与电话或函数调用图表关联，利用双编码理论增强记忆；建议初学者从简单编程示例入手，结合间隔重复以巩固语义连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "invokee",
+        "similarity": "0.8",
+        "context": "主要在编程语境中，用于描述被调用的实体"
+      },
+      {
+        "word": "recipient",
+        "similarity": "0.6",
+        "context": "在更广泛的通信语境中，如电话系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "caller",
+        "context": "编程中，指主动发起调用的函数或实体"
+      },
+      {
+        "word": "initiator",
+        "context": "在系统设计中，指启动过程的组件"
+      }
+    ],
+    "hypernyms": [
+      "function",
+      "entity"
+    ],
+    "hyponyms": [
+      "subroutine",
+      "method"
+    ],
+    "collocations": [
+      {
+        "pattern": "callee + noun (e.g., function, side)",
+        "examples": [
+          "the callee function",
+          "callee parameters"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + callee (e.g., invoke callee)",
+        "examples": [
+          "execute the callee"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征高效的模块化编程，体现出信息时代协作与分工的价值观，但在非技术文化中可能缺乏直接象征意义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在软件开发语境",
+        "usage": "在美国英语中，常见于编程教育和行业标准"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术文献中更正式",
+        "usage": "英国英语中强调历史演变，与计算机科学历史相关联"
+      }
+    ],
+    "historicalContext": "与20世纪中叶的计算机革命相关，源自电话交换系统的术语，体现了工业革命到数字时代的语言演变。",
+    "modernUsage": "在社交媒体和在线编程社区（如GitHub）中流行，用于代码审查和讨论，反映了全球数字文化的快速传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电话铃响的场景，其中 'callee' 是接听电话的一方，就像函数被'调用'时响应一样。",
+      "keyElements": [
+        "电话铃声",
+        "响应动作",
+        "函数图标"
+      ],
+      "emotionalConnection": "联结个人经验，如接听重要电话的兴奋感，以触发情绪记忆并增强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'callee' 联想为 'call-ee'，像 'he' 在电话中被呼叫。",
+        "explanation": "利用声音联觉和图像编码原理，帮助学习者通过简单类比记住词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "C-A-L-L-EE: Called And Listens, Listens Eagerly.",
+        "explanation": "通过缩略语创建故事，基于认知科学的故事记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "call",
+      "receiver",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "callees",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with callee",
+        "description": "在句子中用作主语或宾语，表示编程实体",
+        "examples": [
+          "The callee processes the data."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases with callee",
+        "description": "常与介词如 'in' 或 'of' 搭配",
+        "examples": [
+          "Errors in the callee can cause system failures."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'callee' with 'caller'",
+        "correction": "Use 'callee' for the invoked function",
+        "explanation": "由于两者在编程中互为反义，常因语义混淆而误用"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'callees' for multiple instances",
+        "explanation": "英文名词复数规则简单，但非母语者可能遗忘添加 '-s'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus for technical domains (approximately 0.0005 occurrences per million words)",
+    "domains": [
+      "technology",
+      "computing",
+      "engineering"
+    ],
+    "tags": [
+      "programming",
+      "computer science",
+      "technical terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

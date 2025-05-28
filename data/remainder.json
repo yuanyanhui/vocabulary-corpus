@@ -1,0 +1,263 @@
+{
+  "word": "remainder",
+  "phonetics": {
+    "british": "/rɪˈmeɪndə/",
+    "american": "/rɪˈmeɪndər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A part, number, or quantity that is left over after the removal, use, or occurrence of a larger part or amount.",
+      "chineseTranslation": "剩余部分；余数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To dispose of or sell (a book or other item) at a reduced price because it is no longer selling well.",
+      "chineseTranslation": "削价出售（书籍或其他物品）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "mathematics noun",
+      "definition": "The quantity left over when one integer is divided by another.",
+      "chineseTranslation": "余数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the remainder of",
+      "meaning": "剩余的部分",
+      "example": "We spent the remainder of the day at the beach.",
+      "exampleTranslation": "我们把剩余的一天都花在了海滩上。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "remainder interest",
+      "meaning": "剩余权益",
+      "example": "In estate planning, a remainder interest is what is left after a life estate.",
+      "exampleTranslation": "在遗产规划中，剩余权益是指终身后剩余的部分。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "divide with remainder",
+      "meaning": "除法运算中的余数",
+      "example": "When you divide 10 by 3, the quotient is 3 and the remainder is 1.",
+      "exampleTranslation": "10 除以 3，商数是 3，余数是 1。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the sale, only a small remainder of the stock was left.",
+      "translation": "销售后，只剩下了少量的库存剩余部分。",
+      "source": "Business context, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The remainder of the novel explores the protagonist's inner conflicts.",
+      "translation": "小说的剩余部分探讨了主人公的内心冲突。",
+      "source": "Literary work, e.g., from BNC",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modular arithmetic, the remainder when dividing by 7 is crucial.",
+      "translation": "在模运算中，除以 7 的余数至关重要。",
+      "source": "Academic text, e.g., from mathematical literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Anglo-French remaindre, from Latin remanere (to remain)",
+    "rootWords": [
+      {
+        "root": "remanere",
+        "meaning": "to remain, stay behind",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "back, again",
+        "language": "Latin"
+      },
+      {
+        "root": "manere",
+        "meaning": "to stay, remain",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 remanere，意为'留下'，经由古法语 remaindre 演变为中古英语 remainder。从最初表示'剩余'或'留下'，逐渐扩展到数学中的余数概念，并在17世纪后用于商业语境中表示削价商品。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "remain",
+      "remnant",
+      "residue"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word has straightforward vowel sounds but may challenge learners with the /r/ sound)",
+    "spellingDifficulty": "5 (out of 10, due to the silent 'e' and common letter combinations)",
+    "meaningComplexity": "6 (out of 10, as it has multiple senses across contexts, requiring contextual inference)",
+    "usageComplexity": "5 (out of 10, with flexible syntactic roles but common in formal writing)",
+    "learningTips": [
+      "通过认知科学，利用分块记忆法将不同语义分组，例如先学习名词形式，再扩展到动词；结合图像联想，如将'remainder'与剩余食物图片关联，以强化海马体记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "residue",
+        "similarity": "0.8",
+        "context": "科学或化学语境中，表示剩余物质"
+      },
+      {
+        "word": "leftover",
+        "similarity": "0.7",
+        "context": "日常或非正式语境中，表示未用完的部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "表示完整部分，与剩余相对"
+      },
+      {
+        "word": "entirety",
+        "context": "正式语境中，表示全部而非剩余"
+      }
+    ],
+    "hypernyms": [
+      "part",
+      "quantity"
+    ],
+    "hyponyms": [
+      "modulo remainder",
+      "surplus"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + remainder",
+        "examples": [
+          "the remainder of the funds"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + remainder",
+        "examples": [
+          "calculate the remainder"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常隐含资源有限或循环利用的理念，如在资本主义社会中'削价出售 remainder books' 象征消费主义和文化遗产的商业化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业语境，如图书销售",
+        "usage": "在美国英语中，remainder 常指出版业的库存处理，强调经济效率"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于法律或遗产语境",
+        "usage": "在英国英语中，常与财产法相关，如 remainder interest 在遗产规划中"
+      }
+    ],
+    "historicalContext": "与工业革命时代资源管理相关，在文学如狄更斯作品中，remainder 象征社会不平等。",
+    "modernUsage": "在社交媒体和数字经济中，remainder 常用于在线销售趋势，如电商平台的库存清仓活动。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个分苹果的场景：一个大苹果被切开，只剩下一小部分。",
+      "keyElements": [
+        "苹果",
+        "切割",
+        "剩余部分"
+      ],
+      "emotionalConnection": "联结个人经验，如童年分食零食的回忆，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Remainder sounds like 'remain' + 'order' – think of what's left after ordering food.",
+        "explanation": "通过声音联想将词汇与日常生活场景连接，利用海马体路径加强长期记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "R for Remain, E for Extra – remainder is the extra part that remains.",
+        "explanation": "使用首字母缩略法结合视觉化，以简化词汇编码过程"
+      }
+    ],
+    "wordAssociations": [
+      "remain",
+      "leftovers",
+      "surplus"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "remainders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + remainder",
+        "description": "主语+动词+remainder 结构，常用于描述剩余情况",
+        "examples": [
+          "The remainder exists after subtraction."
+        ]
+      },
+      {
+        "pattern": "The remainder of + noun",
+        "description": "表示剩余部分的短语结构",
+        "examples": [
+          "The remainder of the team arrived late."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'reminder'",
+        "correction": "Use 'remainder' for leftovers, 'reminder' for prompts.",
+        "explanation": "二者发音相似，但语义不同；通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'remainders' for plural.",
+        "explanation": "作为可数名词，必须正确添加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 2000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "business",
+      "literature"
+    ],
+    "tags": [
+      "mathematics",
+      "quantity",
+      "leftover"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "throughput",
+  "phonetics": {
+    "british": "/ˈθruːpʊt/",
+    "american": "/ˈθruːpʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The amount of data or material processed or transmitted through a system in a given period, often used in computing, manufacturing, or telecommunications to measure efficiency.",
+      "chineseTranslation": "吞吐量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The rate at which work is completed or resources are utilized in a process.",
+      "chineseTranslation": "处理速率",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "network throughput",
+      "meaning": "网络吞吐量，指网络处理数据的能力",
+      "example": "The network throughput was increased by upgrading the hardware.",
+      "exampleTranslation": "通过升级硬件，网络吞吐量得到了提升。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "system throughput",
+      "meaning": "系统吞吐量，指系统整体处理数据的效率",
+      "example": "Improving system throughput is essential for real-time applications.",
+      "exampleTranslation": "提高系统吞吐量对于实时应用至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The factory's throughput doubled after the new assembly line was installed.",
+      "translation": "工厂在新装配线安装后，吞吐量翻了一番。",
+      "source": "Business and manufacturing literature (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, throughput refers to the number of operations performed per unit of time.",
+      "translation": "在计算机领域，吞吐量指的是单位时间内执行的操作数量。",
+      "source": "Technical documentation (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Despite the high throughput, the server experienced occasional bottlenecks.",
+      "translation": "尽管吞吐量很高，服务器还是偶尔出现瓶颈。",
+      "source": "Modern tech blogs (e.g., CNET)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "through",
+        "meaning": "From one side to the other",
+        "language": "Old English (from Proto-Germanic *þurhw)"
+      },
+      {
+        "root": "put",
+        "meaning": "To place or send",
+        "language": "Middle English (from Old English *putian)"
+      }
+    ],
+    "historicalDevelopment": "The term evolved in the 19th century from industrial contexts, combining 'through' (indicating passage) and 'put' (indicating placement or output). It gained prominence in the 20th century with the rise of manufacturing and computing, shifting from literal material flow to abstract data processing.",
+    "firstKnownUse": "1830s, in manufacturing contexts",
+    "relatedWords": [
+      "output",
+      "capacity",
+      "flow rate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'throughput' 与日常流程联系，如想象工厂流水线，以强化语义记忆；",
+      "使用重复间隔法（spaced repetition）复习相关技术术语，避免混淆相似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "capacity",
+        "similarity": "0.8",
+        "context": "在商业或技术语境中，用于描述系统处理能力的相似场景"
+      },
+      {
+        "word": "output",
+        "similarity": "0.7",
+        "context": "强调生产或处理结果的场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bottleneck",
+        "context": "当系统处理能力受限时，例如在网络拥塞的语境中"
+      },
+      {
+        "word": "lag",
+        "context": "描述延迟或低效率的场景"
+      }
+    ],
+    "hypernyms": [
+      "efficiency",
+      "performance"
+    ],
+    "hyponyms": [
+      "data throughput",
+      "transaction throughput"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + throughput (e.g., network throughput)",
+        "examples": [
+          "high throughput systems"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Throughput + verb (e.g., increase throughput)",
+        "examples": [
+          "optimize throughput"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征技术进步和效率优化，常与工业革命和数字时代关联，隐含语义强调快速生产和数据流动的文化价值观",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech and business jargon",
+        "usage": "在美国英语中，常见于硅谷文化和企业报告中，突出创新和效率"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage but with a more formal tone",
+        "usage": "在英国英语中，可能与历史工业遗产相关联，如在制造业报告中使用"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪的计算机发展相关，该词反映了西方文化对效率和生产力的追求，例如在福特主义的生产线上",
+    "modernUsage": "在社交媒体和科技平台上流行，用于讨论AI和云计算的趋势，如Twitter上的科技讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个快速运转的传送带，将物品从一端输送到另一端",
+      "keyElements": [
+        "传送带",
+        "数据流",
+        "速度"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆日常交通流量，触发对效率的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'through' as passing through a door, and 'put' as putting items through it quickly",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学中的双编码理论（dual coding），结合图像和语义"
+      },
+      {
+        "type": "缩略",
+        "content": "THRU-PUT: T for Through, H for High speed, PUT for Output",
+        "explanation": "使用首字母缩略法，辅助记忆结构，运用Elaboration理论扩展词汇关联"
+      }
+    ],
+    "wordAssociations": [
+      "flow",
+      "speed",
+      "efficiency"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "throughputs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + throughput",
+        "description": "作为主语或宾语出现，常用于描述系统性能",
+        "examples": [
+          "The throughput increases with better hardware."
+        ]
+      },
+      {
+        "pattern": "Adjective + throughput",
+        "description": "用形容词修饰以强调程度",
+        "examples": [
+          "High throughput is crucial for success."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'through put' as separate words",
+        "correction": "Use as one word: 'throughput'",
+        "explanation": "这是一种常见拼写错误，因为词源是组合形式；建议通过语境练习避免"
+      },
+      {
+        "mistake": "Using in non-technical contexts incorrectly",
+        "correction": "Reserve for technical or formal settings",
+        "explanation": "对于中文母语学习者，可能误用于日常对话；强调语域敏感性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 in COCA corpus for technical domains",
+    "domains": [
+      "technology",
+      "business",
+      "engineering"
+    ],
+    "tags": [
+      "computing",
+      "efficiency",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

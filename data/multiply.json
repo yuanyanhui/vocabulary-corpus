@@ -1,0 +1,193 @@
+{
+  "word": "multiply",
+  "phonetics": {
+    "british": "/ˈmʌl.tɪ.plaɪ/",
+    "american": "/ˈmʌl.tə.plaɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to increase in number or amount, or to make something do this",
+      "chineseTranslation": "增加数量或数量；使某物增加",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to perform the mathematical operation of multiplication",
+      "chineseTranslation": "执行数学上的乘法运算",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "multiply by",
+      "meaning": "乘以",
+      "example": "Multiply 5 by 3 to get 15.",
+      "exampleTranslation": "将5乘以3得到15。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Bacteria can multiply rapidly under the right conditions.",
+      "translation": "细菌在适当条件下可以迅速繁殖。",
+      "source": "scientific article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Can you multiply these two numbers for me?",
+      "translation": "你能帮我把这两个数字相乘吗？",
+      "source": "everyday conversation",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "multi-",
+        "meaning": "many",
+        "language": "Latin"
+      },
+      {
+        "root": "plicare",
+        "meaning": "to fold",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词源于拉丁语'multiplicare'，意为'使变多'，通过法语'multiplier'进入英语，最初用于描述数量增加，后来扩展到数学运算中的乘法。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "multiple",
+      "multiplication",
+      "multiplicity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "3",
+    "learningTips": [
+      "将单词与数学运算联系起来，想象一个数字不断'变多'的场景。",
+      "通过重复练习乘法表来强化词汇记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "increase",
+        "similarity": "0.7",
+        "context": "数量增加的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "divide",
+        "context": "数学运算的语境"
+      }
+    ],
+    "hypernyms": [
+      "calculate"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "multiply by [number]",
+        "examples": [
+          "Multiply by 10 to get the result."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'multiply'常用于描述生物繁殖或数量增长，带有积极或中性的含义，但在某些宗教或文学语境中，可能与'丰饶'或'神的赐福'相关联。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更多用于正式或学术语境",
+        "usage": "在学校教育中常用于数学教学"
+      },
+      {
+        "region": "美国",
+        "variation": "日常口语中也常见",
+        "usage": "常用于非正式语境，如描述事物快速增加"
+      }
+    ],
+    "historicalContext": "该词在中世纪英语中常用于宗教文本，描述信徒或恩典的增加。",
+    "modernUsage": "在现代社交媒体中，'multiply'常用于描述信息或影响力的快速传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一堆小兔子在田野上快速繁殖，数量不断增加。",
+      "keyElements": [
+        "兔子",
+        "田野",
+        "数量增加"
+      ],
+      "emotionalConnection": "联想到童年看过的动物故事，激发愉悦感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "将'multiply'与'multi'（多）联系起来，想象很多东西堆在一起。",
+        "explanation": "通过音韵和语义的联系加深记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "multiple",
+      "many"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "multiplied",
+      "pastParticiple": "multiplied",
+      "presentParticiple": "multiplying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "multiply [number] by [number]",
+        "description": "用于数学运算，表示将某个数字乘以另一个数字",
+        "examples": [
+          "Multiply 6 by 4 to get 24."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "误用为'divide'（除法）",
+        "correction": "使用'multiply'表示乘法运算",
+        "explanation": "注意区分数学运算词汇，避免混淆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "约5000词频排名（COCA）",
+    "domains": [
+      "数学",
+      "生物学",
+      "日常交流"
+    ],
+    "tags": [
+      "计算",
+      "增长",
+      "数量"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

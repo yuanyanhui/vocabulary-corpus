@@ -1,0 +1,247 @@
+{
+  "word": "leach",
+  "phonetics": {
+    "british": "/liːtʃ/",
+    "american": "/liːtʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or extract (a soluble substance) from an insoluble material by percolation of a solvent, such as water.",
+      "chineseTranslation": "浸出；过滤提取",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or an instance of leaching, often referring to the liquid that has percolated through something.",
+      "chineseTranslation": "浸出物；过滤液",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A channel or groove through which water flows, especially in mining or agriculture.",
+      "chineseTranslation": "渗漏沟；排水槽",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "leach out",
+      "meaning": "使...从物质中浸出或洗出",
+      "example": "The chemicals will leach out of the soil over time.",
+      "exampleTranslation": "化学物质会随着时间从土壤中浸出。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "leach field",
+      "meaning": "用于污水处理的渗滤田",
+      "example": "The septic system includes a leach field to filter wastewater.",
+      "exampleTranslation": "污水系统包括一个渗滤田来过滤废水。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Heavy rainfall can cause nutrients to leach from the soil, affecting crop growth.",
+      "translation": "大雨会导致营养物质从土壤中浸出，影响作物生长。",
+      "source": "Environmental science article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mining, cyanide is used to leach gold from ore.",
+      "translation": "在采矿业中，氰化物用于从矿石中浸出黄金。",
+      "source": "Technical report (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The old pipes began to leach lead into the drinking water.",
+      "translation": "旧管道开始将铅浸入饮用水中。",
+      "source": "News article (e.g., from BBC or CNN)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "leccan",
+        "meaning": "to wet, moisten, or drain",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'leccan'，意为湿润或排水，演变为现代英语中表示通过液体提取物质的过程。该词在14世纪开始用于化学和农业语境，逐渐扩展到环境科学领域，如土壤侵蚀。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "leaching",
+      "leachy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用重复暴露法（spaced repetition）记忆发音；将词汇与实际场景关联，如环境污染案例，以增强语义记忆；对于中文母语学习者，建议通过比较 'leach' 与 'leech' 的发音差异，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "extract",
+        "similarity": "0.8",
+        "context": "适用于化学或环境语境中提取物质，例如土壤中的营养物"
+      },
+      {
+        "word": "percolate",
+        "similarity": "0.7",
+        "context": "常用于液体通过材料过滤的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "absorb",
+        "context": "在吸收液体或物质的语境中，例如 'absorb' 表示保留而非排出"
+      },
+      {
+        "word": "retain",
+        "context": "用于保持物质不流失的语境"
+      }
+    ],
+    "hypernyms": [
+      "extract",
+      "drain"
+    ],
+    "hyponyms": [
+      "soil leaching",
+      "chemical leaching"
+    ],
+    "collocations": [
+      {
+        "pattern": "leach + from + noun",
+        "examples": [
+          "leach from soil",
+          "leach from rocks"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "leach + noun",
+        "examples": [
+          "leach process",
+          "leach solution"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与环境可持续性和工业影响相关，象征现代工业对自然生态的潜在破坏，例如在环境保护运动中用于讨论污染物渗漏。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于环境和农业语境",
+        "usage": "在美国英语中，'leach' 经常出现在环境保护法规中，如EPA报告"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向技术术语",
+        "usage": "在英国英语中，常见于科学文献，但使用频率较低"
+      }
+    ],
+    "historicalContext": "与工业革命相关的环境问题相联，例如19世纪的采矿实践导致的土壤污染。",
+    "modernUsage": "在社交媒体和新闻中，流行于气候变化讨论中，如Twitter上的环境议题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个雨水从土壤中冲刷出颜色的场景，就像雨水带着颜料从画布上流下。",
+      "keyElements": [
+        "雨水",
+        "土壤",
+        "提取"
+      ],
+      "emotionalConnection": "联结到个人经历，如下雨后花园变色的记忆，以触发情绪联想"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Leach 听起来像 'leech'（水蛭），想象水蛭从土壤中吸出营养。",
+        "explanation": "通过声音联想帮助记忆发音和含义，基于认知联想原理增强长期记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "L-E-A-C-H: Liquid Extracting And Carrying Harmful substances",
+        "explanation": "使用首字母缩写结合语义，应用Elaborative Rehearsal方法"
+      }
+    ],
+    "wordAssociations": [
+      "extract",
+      "drain",
+      "percolate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "leached",
+      "pastParticiple": "leached",
+      "presentParticiple": "leaching",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + leach + object + from + source",
+        "description": "主语 + 动词 + 直接宾语 + 从 + 来源",
+        "examples": [
+          "Nutrients leach minerals from the soil."
+        ]
+      },
+      {
+        "pattern": "The leach of + noun",
+        "description": "表示过程的名词结构",
+        "examples": [
+          "The leach of chemicals into groundwater is a concern."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'leach' with 'leech'",
+        "correction": "Use 'leach' for extraction processes and 'leech' for the bloodsucking worm.",
+        "explanation": "中文学习者常因发音相似而混淆，建议通过发音练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form in passive voice",
+        "correction": "Use 'is leached' instead of 'is leach'.",
+        "explanation": "错误源于对动词时态的掌握不足"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words (based on COCA corpus)",
+    "domains": [
+      "science",
+      "environment",
+      "agriculture"
+    ],
+    "tags": [
+      "technical",
+      "environmental",
+      "chemical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

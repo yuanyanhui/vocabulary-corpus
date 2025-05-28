@@ -1,0 +1,255 @@
+{
+  "word": "skew",
+  "phonetics": {
+    "british": "/skjuː/",
+    "american": "/skjuː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To turn or place at an angle; to distort or bias something, such as data or perception.",
+      "chineseTranslation": "使扭曲或偏斜；使数据或观点偏差",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not straight or level; biased or slanted in a particular direction.",
+      "chineseTranslation": "不直的；有偏差的或倾斜的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A deviation or slant from the straight or expected course; a bias in statistics or geometry.",
+      "chineseTranslation": "偏差或倾斜；统计或几何中的偏倚",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "skew lines",
+      "meaning": "不相交且不平行的直线",
+      "example": "In geometry, skew lines are lines that do not intersect and are not parallel.",
+      "exampleTranslation": "在几何学中，skew lines是不相交且不平行的直线。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "skew data",
+      "meaning": "有偏差的数据",
+      "example": "The survey results showed skew data due to sampling errors.",
+      "exampleTranslation": "调查结果显示数据有偏差，这是由于抽样错误造成的。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "skew perspective",
+      "meaning": "扭曲的观点或视角",
+      "example": "His skew perspective on history often led to controversial interpretations.",
+      "exampleTranslation": "他对历史的skew perspective经常导致有争议的解读。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist intentionally skewed the painting to create a sense of dynamism.",
+      "translation": "艺术家故意使画作skew，以创造一种动态感。",
+      "source": "Art criticism (e.g., from modern art texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In statistics, a skewed distribution can affect the accuracy of predictions.",
+      "translation": "在统计学中，skew的分布会影响预测的准确性。",
+      "source": "Academic journal (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The road was skewed after the earthquake, making it unsafe for driving.",
+      "translation": "地震后，道路skew了，使得开车不安全。",
+      "source": "News article (e.g., from BBC reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old Norse",
+    "rootWords": [
+      {
+        "root": "skjāgr",
+        "meaning": "oblique or slanting",
+        "language": "Old Norse"
+      }
+    ],
+    "historicalDevelopment": "从古挪威语的'skjāgr'（意为倾斜或斜的）演变而来，中世纪英语中被借用为'skew'，最初用于描述建筑或物体的倾斜。17世纪起扩展到抽象意义，如数据偏差，受启蒙时代科学语境影响。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "aslant",
+      "slant",
+      "oblique"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将skew的发音与视觉图像（如一条弯曲的线条）结合，以增强记忆；",
+      "对于中文母语学习者，关联到类似'偏斜'的概念，通过对比分析减少语义混淆；",
+      "采用间隔重复法复习不同语境下的用法，以优化长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "slant",
+        "similarity": "0.8",
+        "context": "在描述物体倾斜或观点偏差的语境中使用"
+      },
+      {
+        "word": "distort",
+        "similarity": "0.7",
+        "context": "强调数据或信息的扭曲时适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "straighten",
+        "context": "在纠正偏差或使物体变直的语境中"
+      },
+      {
+        "word": "align",
+        "context": "在追求平衡或对齐的语境中"
+      }
+    ],
+    "hypernyms": [
+      "deviate",
+      "bias"
+    ],
+    "hyponyms": [
+      "statistical skew",
+      "geometric skew"
+    ],
+    "collocations": [
+      {
+        "pattern": "skew + noun (e.g., data, lines)",
+        "examples": [
+          "skew data",
+          "skew lines"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + skew (e.g., to skew results)",
+        "examples": [
+          "to skew results"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，skew常隐含对客观性的质疑，如在媒体或统计中代表偏差，象征主观影响或操纵；在中文文化中，可关联到'偏颇'的概念，强调公正的重要性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如统计学",
+        "usage": "在美国英语中，skew在商业和科学报告中频繁出现，强调数据分析的准确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向于几何或建筑含义",
+        "usage": "在英国英语中，skew常用于描述物理倾斜，如建筑设计"
+      }
+    ],
+    "historicalContext": "源自中世纪欧洲建筑术语，扩展到启蒙时代的科学讨论中，如牛顿时代的几何学；现代与后工业社会的数据时代相关。",
+    "modernUsage": "在社交媒体和数字平台上，skew常用于讨论假新闻或算法偏差的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条直线突然弯曲成Z形，代表偏差",
+      "keyElements": [
+        "弯曲线条",
+        "偏差符号"
+      ],
+      "emotionalConnection": "联想到个人经历中的不公平事件，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Skew sounds like 'skewed view' – a twisted perspective",
+        "explanation": "通过声音联想将发音与视觉扭曲联系起来，增强认知编码"
+      },
+      {
+        "type": "缩略",
+        "content": "S-K-E-W: Slant, Kink, Error, Warp",
+        "explanation": "使用首字母缩写分解词根含义，便于记忆和回想"
+      }
+    ],
+    "wordAssociations": [
+      "slant",
+      "bias",
+      "twist"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "skewed",
+      "pastParticiple": "skewed",
+      "presentParticiple": "skewing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + Object (e.g., skew the data)",
+        "description": "作为及物动词，用于表示对某事物的扭曲",
+        "examples": [
+          "They skewed the results to favor their argument."
+        ]
+      },
+      {
+        "pattern": "Adjective + Noun (e.g., skew angle)",
+        "description": "作为形容词描述名词的倾斜状态",
+        "examples": [
+          "The skew angle affected the building's stability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'screw'",
+        "correction": "Use 'skew' for slanting, not 'screw' which means a fastener",
+        "explanation": "发音相似可能导致混淆；通过语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'skewed' for past tense",
+        "explanation": "作为规则动词，确保时态一致"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "media"
+    ],
+    "tags": [
+      "technical",
+      "descriptive",
+      "bias"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

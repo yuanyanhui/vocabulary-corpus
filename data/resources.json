@@ -1,0 +1,262 @@
+{
+  "word": "resources",
+  "phonetics": {
+    "british": "/rɪˈzɔːsɪz/",
+    "american": "/ˈriːsɔːrsɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Materials, assets, or capabilities that can be used to achieve a goal, such as natural resources, financial resources, or human resources.",
+      "chineseTranslation": "资源",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Available supplies or reserves, often in the context of economics, environment, or organization.",
+      "chineseTranslation": "可用供应或储备",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, data or files that a program can access, such as images or text files.",
+      "chineseTranslation": "（计算机中的）资源，如数据或文件",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "human resources",
+      "meaning": "人力资源，指组织中的人员和相关管理",
+      "example": "The company is investing in human resources to improve employee skills.",
+      "exampleTranslation": "公司正在投资人力资源以提升员工技能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "natural resources",
+      "meaning": "自然资源，如水、矿产和森林",
+      "example": "Protecting natural resources is essential for sustainable development.",
+      "exampleTranslation": "保护自然资源对可持续发展至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "allocate resources",
+      "meaning": "分配资源，指合理分派可用资产",
+      "example": "Governments must allocate resources efficiently during economic crises.",
+      "exampleTranslation": "政府必须在经济危机期间有效分配资源。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The project was successful due to the effective management of resources.",
+      "translation": "该项目成功归功于资源的有效管理。",
+      "source": "Business article from The Economist",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many developing countries, water resources are scarce and need conservation.",
+      "translation": "在许多发展中国家，水资源稀缺，需要加以保护。",
+      "source": "Environmental report from United Nations",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Online learning platforms provide various digital resources for students.",
+      "translation": "在线学习平台为学生提供各种数字资源。",
+      "source": "Educational context, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "ressource",
+        "meaning": "重新崛起或恢复",
+        "language": "Old French"
+      },
+      {
+        "root": "resurgere",
+        "meaning": "再次崛起",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'resurgere'（意为再次崛起），经由古法语 'resourdre' 演变为现代意义，最初用于军事和经济恢复的语境，17 世纪开始扩展到一般资源概念，如自然和人力资源。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "resource",
+      "resourceful",
+      "resurgence"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将 'resources' 与具体情境（如环境或商业场景）关联，以增强长时记忆；建议通过重复暴露和视觉辅助，如心智图，减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assets",
+        "similarity": "0.8",
+        "context": "在商业语境中，常用于指代可利用的财产或资源"
+      },
+      {
+        "word": "means",
+        "similarity": "0.7",
+        "context": "在一般语境中，指实现目标的工具或方法"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "liabilities",
+        "context": "在财务语境中，指债务或负担，与资源形成对比"
+      },
+      {
+        "word": "shortages",
+        "context": "在资源管理语境中，指缺乏或不足的情况"
+      }
+    ],
+    "hypernyms": [
+      "assets"
+    ],
+    "hyponyms": [
+      "water resources",
+      "mineral resources",
+      "human resources"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + resources (e.g., manage resources)",
+        "examples": [
+          "manage resources",
+          "allocate resources"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + resources (e.g., natural resources)",
+        "examples": [
+          "natural resources",
+          "finite resources"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代文化中，该词象征可持续发展和社会公平，常与环境保护和经济全球化相关联，体现出资源分配的伦理问题。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和技术语境，如 'human resources department'",
+        "usage": "在美国英语中，强调资源优化和创新"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似美国，但可能在正式语境中更侧重于自然资源保护",
+        "usage": "在英国英语中，常与政策和历史遗产相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和殖民主义相关，资源概念反映了西方文化对全球资源的争夺和利用，例如在文学作品如狄更斯的著作中隐含社会不公。",
+    "modernUsage": "在社交媒体和数字平台上，常见于环境运动和商业讨论，如 #saveresources 在 Twitter 上推广可持续性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个资源丰富的宝箱，里面装满水、工具和人手，代表可利用的资产。",
+      "keyElements": [
+        "宝箱",
+        "水资源",
+        "工具"
+      ],
+      "emotionalConnection": "联结个人经验，如童年探险找到宝藏的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'resources' 联想为 're- sources'，其中 're' 代表 'return'（返回），'sources' 代表 'sources of supply'（供应来源）。",
+        "explanation": "通过视觉联想和语义连接，基于认知科学的空间记忆原理，帮助学习者快速回忆"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-S: Resources Equal Supplies.",
+        "explanation": "使用缩略形式创建简易口诀，结合重复练习以强化神经通路"
+      }
+    ],
+    "wordAssociations": [
+      "assets",
+      "supplies",
+      "wealth"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "resources",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Resources",
+        "description": "作为主语或宾语出现，常用于描述资源管理",
+        "examples": [
+          "Resources are limited in this project."
+        ]
+      },
+      {
+        "pattern": "Adjective + Resources",
+        "description": "用形容词修饰，表示资源类型",
+        "examples": [
+          "Natural resources are vital for the economy."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'recourses' (meaning alternatives)",
+        "correction": "Use 'resources' for assets and 'recourses' for options.",
+        "explanation": "二者拼写相似，但语义不同；建议通过语境练习避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'resources' as plural form.",
+        "explanation": "作为可数名词，需注意在句中正确使用复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 in COCA corpus)",
+    "domains": [
+      "business",
+      "environment",
+      "technology",
+      "education"
+    ],
+    "tags": [
+      "noun",
+      "plural",
+      "abstract",
+      "concrete"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

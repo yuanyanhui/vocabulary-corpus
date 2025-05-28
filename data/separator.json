@@ -1,0 +1,239 @@
+{
+  "word": "separator",
+  "phonetics": {
+    "british": "/ˈsɛpəreɪtə/",
+    "american": "/ˈsɛpəˌreɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, material, or mark used to divide, separate, or keep things apart, often in technical or everyday contexts.",
+      "chineseTranslation": "分离器；隔板",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a character or sequence that indicates the boundary between data elements.",
+      "chineseTranslation": "分隔符",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "field separator",
+      "meaning": "字段分隔符",
+      "example": "In CSV files, a comma is often used as a field separator.",
+      "exampleTranslation": "在CSV文件中，逗号通常用作字段分隔符。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "line separator",
+      "meaning": "行分隔符",
+      "example": "The line separator in Windows is typically a carriage return followed by a line feed.",
+      "exampleTranslation": "在Windows中，行分隔符通常是回车符后跟换行符。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The oil separator in the engine prevents contaminants from entering the fuel system.",
+      "translation": "发动机中的油分离器防止污染物进入燃料系统。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In poetry, a semicolon can act as a separator between related but independent clauses.",
+      "translation": "在诗歌中，分号可以作为相关但独立的从句之间的分隔符。",
+      "source": "Literary analysis",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers installed a new separator to improve the efficiency of the production line.",
+      "translation": "工程师安装了一个新的分离器来提高生产线效率。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "separare",
+        "meaning": "to separate or set apart",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'separare'，意为分开或设置分开，經由古法语'separator'演變到中世紀英語，最終在15世紀進入現代英語，逐漸擴展到技術和日常語言中用於表示分離或區隔的概念。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "separate",
+      "separation",
+      "separable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "根據認知科學，利用重複曝光策略，將'separator'與日常生活物件（如廚房隔板）聯繫，強化記憶痕跡；建議初學者使用分層學習法，先掌握基本語義，再練習技術語境，以避免認知負荷過高。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "divider",
+        "similarity": "0.8",
+        "context": "適用於物理分隔的語境，如建築或製造業"
+      },
+      {
+        "word": "delimiter",
+        "similarity": "0.9",
+        "context": "適用於計算機編程或數據處理的語境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unifier",
+        "context": "適用於強調整合或連接的語境，例如在社會或技術討論中"
+      },
+      {
+        "word": "connector",
+        "context": "適用於表示連接或聯合的語境，如電子元件"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "marker"
+    ],
+    "hyponyms": [
+      "comma",
+      "semicolon"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + separator",
+        "examples": [
+          "oil separator",
+          "line separator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "separator + in + context",
+        "examples": [
+          "separator in programming"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在西方文化中常隱含效率和組織的象徵意義，尤其在工業革命後的技術語境中，代表現代化分離與分類的理念；在跨文化中，可能與中國的'分隔'概念相關，強調和諧與界限的平衡。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常在技術和日常語言中使用，常見於計算機科學",
+        "usage": "在美国英語中，'separator'在非正式語境中應用廣泛，如數據處理工具"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向傳統機械或工程領域的用法",
+        "usage": "在英國英語中，強調歷史語境，如維多利亞時代的製造業"
+      }
+    ],
+    "historicalContext": "與工業革命和現代計算機發展相關，在19世紀的英國文學和技術文件中出現，象徵社會分工和效率；在中國文化中，類似概念可追溯到古代的'隔離'思想，如中醫的分離療法。",
+    "modernUsage": "在當代社交媒體和數字語境下，'separator'常見於App設計或AI算法討論，反映全球化的技術趨勢。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個工廠場景，有一個隔板將不同顏色的液體分開，強調分離的動作。",
+      "keyElements": [
+        "隔板",
+        "分開的液體",
+        "工廠環境"
+      ],
+      "emotionalConnection": "聯繫個人經驗，如整理抽屜時使用分隔器，喚起秩序感和成就感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'separator'联想为'separate + or'，表示'分开的东西'。",
+        "explanation": "通過視覺聯想強化語義記憶，根據認知科學的雙重編碼理論，結合圖像和語音。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "發音'/ˈsɛpəreɪtə/'聽起來像'sep-a-rate-er'，類似於分開的步驟。",
+        "explanation": "利用聲音聯想幫助記憶，減少遺忘曲線中的衰減。"
+      }
+    ],
+    "wordAssociations": [
+      "divide",
+      "barrier",
+      "partition"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "separators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "該結構常用於描述分隔器的位置或功能，例如'in the system'。",
+        "examples": [
+          "The separator in the pipeline"
+        ]
+      },
+      {
+        "pattern": "Subject-verb-object",
+        "description": "用作主語或物件的典型結構。",
+        "examples": [
+          "The separator divides the sections"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'seperator' (misspelled)",
+        "correction": "separator",
+        "explanation": "拼寫錯誤常見於非母語學習者，應記住正確的'e'位置以符合英語正字法。"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use 'separate' as the verb form",
+        "explanation": "該詞為名詞，學習者可能誤用為動詞；需區分詞性以避免語法錯誤。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "计算機"
+    ],
+    "tags": [
+      "技术术语",
+      "工具",
+      "分隔"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

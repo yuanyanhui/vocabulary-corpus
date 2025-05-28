@@ -1,0 +1,242 @@
+{
+  "word": "undefined",
+  "phonetics": {
+    "british": "/ʌn.dɪˈfaɪnd/",
+    "american": "/ˌʌn.dɪˈfaɪnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not having a defined value or meaning; lacking a clear boundary or specification.",
+      "chineseTranslation": "未定义的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, a special value indicating that a variable has not been assigned a value.",
+      "chineseTranslation": "未定义值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "undefined term",
+      "meaning": "未定义的术语",
+      "example": "In mathematics, an undefined term is a basic concept that is not defined in terms of simpler concepts.",
+      "exampleTranslation": "在数学中，未定义的术语是不会用更简单概念定义的基本概念。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "undefined behavior",
+      "meaning": "未定义的行为",
+      "example": "In software development, undefined behavior can lead to crashes or unexpected results.",
+      "exampleTranslation": "在软件开发中，未定义的行为可能导致崩溃或意外结果。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The function returned an undefined value because the input was invalid.",
+      "translation": "函数返回了一个未定义的值，因为输入无效。",
+      "source": "Technical documentation (e.g., from programming manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday language, 'undefined' might describe something vague, like an undefined future.",
+      "translation": "在日常语言中，'undefined' 可能描述一些模糊的东西，比如未定义的未来。",
+      "source": "Informal usage in modern media",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Philosophers often debate the concept of undefined entities in existential discussions.",
+      "translation": "哲学家经常在存在主义讨论中辩论未定义实体的概念。",
+      "source": "Academic literature (e.g., philosophy texts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (from Latin roots)",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not",
+        "language": "Old English"
+      },
+      {
+        "root": "define",
+        "meaning": "to set limits or explain",
+        "language": "Latin (from 'definire', meaning to limit)"
+      }
+    ],
+    "historicalDevelopment": "The term evolved from Latin 'definire' through Old French 'definer' into Middle English 'define', with the prefix 'un-' added in Early Modern English to indicate negation. It gained prominence in the 17th century with the rise of scientific and mathematical discourse, where precision became essential.",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "undefinedness",
+      "indefinite",
+      "vague"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (moderate, due to the schwa sound /ʌ/ and stress pattern)",
+    "spellingDifficulty": "4 (straightforward once broken into parts: un-de-fined)",
+    "meaningComplexity": "6 (context-dependent, especially in technical fields)",
+    "usageComplexity": "7 (requires understanding of specific domains like programming)",
+    "learningTips": [
+      "使用分块记忆法，将词汇分解为 'un-' 和 'defined'，并联想到个人编程经验以增强认知关联；结合视觉图表如流程图来强化语义理解，根据认知科学，重复暴露于真实语境可改善长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "indeterminate",
+        "similarity": "0.8",
+        "context": "在数学或科学语境中，表示缺乏精确定义"
+      },
+      {
+        "word": "vague",
+        "similarity": "0.7",
+        "context": "在非正式语境中，表示不清晰或模糊"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "defined",
+        "context": "在技术语境中，表示已明确界定"
+      },
+      {
+        "word": "precise",
+        "context": "在日常或学术语境中，表示准确无误"
+      }
+    ],
+    "hypernyms": [
+      "abstract concept"
+    ],
+    "hyponyms": [
+      "null value",
+      "undefined function"
+    ],
+    "collocations": [
+      {
+        "pattern": "undefined + noun (e.g., undefined variable)",
+        "examples": [
+          "The undefined variable caused the error."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + undefined (e.g., completely undefined)",
+        "examples": [
+          "The problem remains completely undefined."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征不确定性和技术局限性，常用于编程和AI讨论中，体现后现代主义对绝对性的质疑。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More common in tech slang",
+        "usage": "在美国英语中，常用于软件开发和IT行业，以强调编程错误"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar but with slight formal emphasis",
+        "usage": "在英国英语中，可能在学术语境中更正式使用"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，反映了17世纪欧洲对知识界定的追求；在文学中，如卡夫卡的作品中，未定义概念象征存在主义焦虑。",
+    "modernUsage": "在社交媒体和在线论坛中流行，用于描述模糊信息或AI生成的错误输出，体现了数字时代的语言演变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个问号形状的云雾，里面漂浮着未完成的拼图，代表未定义的状态。",
+      "keyElements": [
+        "问号",
+        "云雾",
+        "拼图"
+      ],
+      "emotionalConnection": "联想到个人经历中未解决的问题，以触发好奇心和情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Un-defined as 'un-finished defined'",
+        "explanation": "将 'undefined' 联想为 'unfinished' 的东西，结合认知科学中的视觉编码，帮助记忆语义。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ʌn.dɪˈfaɪnd/ 像 'under fine dust'",
+        "explanation": "通过声音与图像关联，想象在灰尘下看不清事物，强化听觉和视觉记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "unknown",
+      "ambiguous",
+      "error"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more undefined",
+      "superlative": "most undefined"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + undefined",
+        "description": "用于描述主语的状态",
+        "examples": [
+          "The variable is undefined."
+        ]
+      },
+      {
+        "pattern": "Undefined + noun phrase",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "An undefined term in logic."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'indefinite'",
+        "correction": "Use 'undefined' for technical contexts",
+        "explanation": "Learners often mix with synonyms; clarify through context to avoid semantic overlap."
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ʌn.def.ined/",
+        "correction": "Pronounce as /ʌn.dɪˈfaɪnd/",
+        "explanation": "Stress on the second syllable; practice with audio tools for accuracy."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 0.05 per million words)",
+    "domains": [
+      "Technology",
+      "Science",
+      "Education"
+    ],
+    "tags": [
+      "Technical",
+      "Abstract",
+      "Programming"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "hemostasis",
+  "phonetics": {
+    "british": "/hiːməʊˈsteɪsɪs/",
+    "american": "/hiːmoʊˈsteɪsɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The physiological process by which bleeding is stopped, involving the coagulation of blood and vessel constriction.",
+      "chineseTranslation": "止血过程",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A medical procedure or intervention to control or arrest bleeding, often used in surgical contexts.",
+      "chineseTranslation": "止血术或止血干预",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hemostatic agents",
+      "meaning": "用于促进止血的药物或物质",
+      "example": "The surgeon applied hemostatic agents to control the bleeding during the operation.",
+      "exampleTranslation": "外科医生在手术中使用了止血剂来控制出血。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "achieve hemostasis",
+      "meaning": "实现止血",
+      "example": "It is critical to achieve hemostasis quickly in emergency trauma cases.",
+      "exampleTranslation": "在紧急创伤病例中，快速实现止血至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Effective hemostasis is essential in preventing excessive blood loss during surgery.",
+      "translation": "有效的止血过程在手术中防止过度失血至关重要。",
+      "source": "Medical textbook (e.g., from sources like Gray's Anatomy)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The body's natural hemostasis mechanisms include platelet aggregation and fibrin formation.",
+      "translation": "身体的自然止血机制包括血小板聚集和纤维蛋白形成。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In veterinary medicine, hemostasis techniques are adapted for animals with different physiological responses.",
+      "translation": "在兽医学中，止血技术被调整以适应动物不同的生理反应。",
+      "source": "Academic journal (e.g., Journal of Veterinary Surgery)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "hemo-",
+        "meaning": "blood",
+        "language": "Greek (from haima)"
+      },
+      {
+        "root": "stasis",
+        "meaning": "standing still or stopping",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek words 'haima' (blood) and 'stasis' (halting), evolving through Latin as 'haemostasis' in the 19th century medical literature. It was first used in English to describe the biological process of blood clotting, reflecting advancements in physiology during the Industrial Revolution era.",
+    "firstKnownUse": "1842",
+    "relatedWords": [
+      "hemostat",
+      "hemostasia",
+      "coagulation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象血液停止流动的场景，以强化记忆；对于中文母语学习者，建议通过重复性练习和语境关联，避免混淆类似词汇如 'hemorrhage'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coagulation",
+        "similarity": "0.8",
+        "context": "在医学语境中，用于描述血液凝固过程，例如手术中"
+      },
+      {
+        "word": "hemostasia",
+        "similarity": "0.9",
+        "context": "在技术性文件或国际医学标准中，作为同义变体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hemorrhage",
+        "context": "在临床语境中，表示出血或失血，与止血相对"
+      },
+      {
+        "word": "bleeding",
+        "context": "在日常或紧急医疗语境中，表示未控制的出血"
+      }
+    ],
+    "hypernyms": [
+      "clotting process"
+    ],
+    "hyponyms": [
+      "platelet plug formation",
+      "fibrin clot"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + hemostasis (e.g., achieve hemostasis)",
+        "examples": [
+          "achieve hemostasis",
+          "maintain hemostasis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Hemostasis + in context (e.g., hemostasis in surgery)",
+        "examples": [
+          "hemostasis in trauma care"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征生命保存和干预技术进步，隐含语义强调人类对自然生理过程的控制；在跨文化语境中，中国医学传统如针灸也涉及类似概念，但术语差异反映了东西方医疗实践的差异。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English as 'hemostasis' with emphasis on surgical applications.",
+        "usage": "在美国的医疗教育和实践标准中（如AMA指南）广泛使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Sometimes spelled as 'haemostasis' due to British English conventions.",
+        "usage": "在英国的NHS和学术出版物中，优先使用以反映历史拉丁化影响"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲医学革命相关，如Joseph Lister的消毒术，推动了止血技术的标准化；在文学中，如狄更斯的作品中，间接反映了当时的医疗挑战。",
+    "modernUsage": "在社交媒体和在线健康论坛中，趋势转向普及化，例如COVID-19讨论中提到止血相关问题，但主要限于专业社区。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个伤口处，血液像静止的河流一样停止流动，代表血液停止。",
+      "keyElements": [
+        "血液",
+        "停止",
+        "伤口"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆小时候的伤口愈合，触发安全和恢复的情绪，以增强记忆保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'hemo' 联想为 'hemo-globin' 或血液，'stasis' 联想为 'static'（静止的），所以 'hemostasis' 就是 'blood static'。",
+        "explanation": "通过声音和语义联想，结合认知科学中的双编码理论，帮助学习者将词汇转化为视觉和听觉记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "H-S: H for blood, S for stop.",
+        "explanation": "使用简单缩写强化关键组成部分，促进重复回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "blood",
+      "clot",
+      "stop",
+      "surgery"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hemostases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + hemostasis",
+        "description": "作为名词用在主语或宾语位置，描述过程或状态。",
+        "examples": [
+          "Hemostasis occurs naturally in the body."
+        ]
+      },
+      {
+        "pattern": "Verb + hemostasis",
+        "description": "用在动作后表示结果。",
+        "examples": [
+          "The doctor induced hemostasis."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'hemorrhage'",
+        "correction": "Use 'hemostasis' for stopping blood, not for bleeding.",
+        "explanation": "中文学习者常混淆相似发音词汇；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'hemostases' for plural.",
+        "explanation": "英语名词复数规则需记忆，避免泛化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "medicine",
+      "science",
+      "health"
+    ],
+    "tags": [
+      "medical terminology",
+      "physiology",
+      "surgery"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

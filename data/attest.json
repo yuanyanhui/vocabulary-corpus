@@ -1,0 +1,271 @@
+{
+  "word": "attest",
+  "phonetics": {
+    "british": "/əˈtɛst/",
+    "american": "/əˈtɛst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to provide evidence or proof of something; to confirm or bear witness to the truth or existence of a fact",
+      "chineseTranslation": "证明；证实",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to declare or affirm formally, often in a legal or official context",
+      "chineseTranslation": "正式声明；作证",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a formal declaration or certification",
+      "chineseTranslation": "证明书；证书",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "attest to",
+      "meaning": "证明或证实某事",
+      "example": "The ancient artifacts attest to the civilization's advanced technology.",
+      "exampleTranslation": "这些古文物证明了这个文明的先进技术。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "attest under oath",
+      "meaning": "在宣誓下作证",
+      "example": "Witnesses must attest under oath in court proceedings.",
+      "exampleTranslation": "证人在法庭程序中必须在宣誓下作证。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The DNA evidence attests to the suspect's presence at the crime scene.",
+      "translation": "DNA 证据证明了嫌疑人出现在犯罪现场。",
+      "source": "Legal corpus, e.g., from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Historical records attest to the bravery of the soldiers during the battle.",
+      "translation": "历史记录证明了士兵们在战斗中的勇敢。",
+      "source": "Historical literature, e.g., from BNC (British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a formal contract, both parties must attest that they have read and understood the terms.",
+      "translation": "在正式合同中，双方必须证明他们已阅读并理解条款。",
+      "source": "Business documents, e.g., from legal texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The old photographs attest to a happier time in our family's history.",
+      "translation": "这些旧照片证明了我们家庭历史中更幸福的时光。",
+      "source": "Personal narratives, e.g., from everyday corpora",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "attestari",
+        "meaning": "to witness or testify",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "to, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "testari",
+        "meaning": "to witness",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from the Latin 'attestari', which combines 'ad-' (to) and 'testari' (to witness, from 'testis' meaning witness). It entered Middle English in the 16th century via Old French, evolving from a legal term for bearing witness to a broader sense of providing evidence in various contexts.",
+    "firstKnownUse": "1530s",
+    "relatedWords": [
+      "testify",
+      "certify",
+      "witness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word involves common vowel sounds like /ə/ and /ɛ/, which are straightforward for intermediate learners but may require practice with stress)",
+    "spellingDifficulty": "5 (out of 10, the double 't' and ending 'est' can be confusing for Chinese learners due to differences in phonetic spelling rules)",
+    "meaningComplexity": "6 (out of 10, the abstract concept of providing evidence requires contextual understanding, based on cognitive linguistics theories like conceptual metaphor)",
+    "usageComplexity": "7 (out of 10, often used in formal contexts with prepositions like 'to', which may lead to errors in sentence construction for second language learners)",
+    "learningTips": [
+      "Use spaced repetition techniques from cognitive science to reinforce memory of the word in context; associate it with real-life scenarios like legal documents.",
+      "Leverage visual aids to link 'attest' with images of witnesses in court, enhancing dual-coding for better retention.",
+      "Practice through corpus-based exercises, focusing on collocations to build procedural memory as per memory science principles."
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "verify",
+        "similarity": "0.8",
+        "context": "在科学或正式证明语境中使用，例如数据验证"
+      },
+      {
+        "word": "confirm",
+        "similarity": "0.7",
+        "context": "在日常对话中确认事实"
+      },
+      {
+        "word": "certify",
+        "similarity": "0.6",
+        "context": "在官方文件或证书语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deny",
+        "context": "在否认事实或证据的语境中"
+      },
+      {
+        "word": "refute",
+        "context": "在学术或辩论中反驳证据的语境"
+      }
+    ],
+    "hypernyms": [
+      "prove",
+      "demonstrate"
+    ],
+    "hyponyms": [
+      "authenticate",
+      "vouch for"
+    ],
+    "collocations": [
+      {
+        "pattern": "attest to + noun",
+        "examples": [
+          "attest to the truth",
+          "attest to his innocence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "attest that + clause",
+        "examples": [
+          "attest that the document is genuine"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与法律和诚信相关，象征着正式见证或证据的可靠性，体现出对真相追求的文化价值",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in legal and bureaucratic contexts",
+        "usage": "在美国英语中，常出现在法庭或官方文件中，强调个人责任"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with a slightly more formal tone",
+        "usage": "在英国英语中，可能与历史法律传统相关，如在遗嘱或公证中"
+      }
+    ],
+    "historicalContext": "该词与西方法律传统有关，如罗马法中的见证制度，并在英国普通法中演化，影响现代合同和证据规则",
+    "modernUsage": "在社交媒体和数字时代，该词用于在线验证或事实检查，但在中国文化中可能被视为外来概念，需结合本土诚信文化理解"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "Imagine a courtroom where a witness raises their hand to swear an oath, symbolizing the act of attesting to the truth.",
+      "keyElements": [
+        "witness",
+        "oath",
+        "courtroom"
+      ],
+      "emotionalConnection": "Link it to personal experiences of signing important documents, evoking a sense of responsibility and trust"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Think of 'attest' as 'a test' for truth, where you must prove something.",
+        "explanation": "This uses associative memory to connect the word to everyday testing concepts, aiding recall through semantic linking as per cognitive science"
+      },
+      {
+        "type": "acronym",
+        "content": "A-T-T-E-S-T: Always Test The Evidence Seriously Today",
+        "explanation": "Creates a memorable phrase to reinforce the meaning, leveraging elaborative rehearsal for long-term memory"
+      }
+    ],
+    "wordAssociations": [
+      "witness",
+      "prove",
+      "certify",
+      "evidence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "attested",
+      "pastParticiple": "attested",
+      "presentParticiple": "attesting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + attest + to + noun",
+        "description": "主语 + 证明 + 对象",
+        "examples": [
+          "The data attests to the theory."
+        ]
+      },
+      {
+        "pattern": "Subject + attest + that + clause",
+        "description": "主语 + 证明 + 从句",
+        "examples": [
+          "She attests that the story is true."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'attest' without a preposition when needed",
+        "correction": "Add 'to' or 'that' as appropriate",
+        "explanation": "Chinese learners may omit prepositions due to L1 influence, leading to incomplete sentences"
+      },
+      {
+        "mistake": "Confusing with 'test'",
+        "correction": "Use 'attest' for proving, not for examining",
+        "explanation": "The words sound similar, so context clarification is key"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "legal",
+      "academic",
+      "historical"
+    ],
+    "tags": [
+      "formal language",
+      "evidence",
+      "verification"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

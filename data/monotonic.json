@@ -1,0 +1,259 @@
+{
+  "word": "monotonic",
+  "phonetics": {
+    "british": "/ˌmɒnəˈtɒnɪk/",
+    "american": "/ˌmɑːnəˈtɑːnɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Characterized by a single tone or pitch; unchanging in intonation or progression.",
+      "chineseTranslation": "单调的；单音调的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In mathematics, either non-increasing or non-decreasing throughout its domain; steadily increasing or decreasing.",
+      "chineseTranslation": "（数学中）单调的；单调递增或递减的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Lacking variety or interest; tedious due to repetition.",
+      "chineseTranslation": "乏味的；重复而无变化的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "monotonic function",
+      "meaning": "单调函数",
+      "example": "A monotonic function never changes direction in its graph.",
+      "exampleTranslation": "一个单调函数在其图表中从不改变方向。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "monotonic sequence",
+      "meaning": "单调序列",
+      "example": "In calculus, a monotonic sequence either always increases or always decreases.",
+      "exampleTranslation": "在微积分中，一个单调序列要么总是增加要么总是减少。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "monotonic voice",
+      "meaning": "单调声音",
+      "example": "His monotonic voice made the lecture feel endless.",
+      "exampleTranslation": "他的单调声音让讲座感觉没完没了。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The speaker's monotonic delivery put the audience to sleep.",
+      "translation": "演讲者的单调表达让观众都睡着了。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In this graph, the line represents a monotonic increase over time.",
+      "translation": "在这个图表中，这条线代表了随时间单调递增。",
+      "source": "Academic texts (e.g., mathematics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her daily routine had become so monotonic that she craved some excitement.",
+      "translation": "她的日常生活变得如此单调，以至于她渴望一些刺激。",
+      "source": "News articles (e.g., lifestyle sections)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "mono-",
+        "meaning": "one; single",
+        "language": "Greek"
+      },
+      {
+        "root": "tonos",
+        "meaning": "tone; tension",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词 'monotonos'，最初用于描述音乐中的单一音调。17世纪传入英语，用于音乐语境；18世纪扩展到数学领域，指函数的单向变化；19世纪起，在日常语言中演变为表示乏味或缺乏变化的含义。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "monotone",
+      "monotony",
+      "monolithic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块记忆法，将 'monotonic' 与数学图形或音乐音调的视觉图像结合；通过重复练习关联个人经验，例如回想单调的日常活动，以增强长期记忆；避免混淆相似词汇，如使用间隔重复系统 (SRS) 来强化区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "monotone",
+        "similarity": "0.9",
+        "context": "适用于音乐或演讲语境中，表示声音缺乏变化"
+      },
+      {
+        "word": "tedious",
+        "similarity": "0.7",
+        "context": "适用于非正式语境中，表示活动或过程乏味"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "varied",
+        "context": "适用于描述多样化和变化丰富的语境"
+      },
+      {
+        "word": "dynamic",
+        "context": "适用于强调活泼和变化的语境，例如商业或艺术领域"
+      }
+    ],
+    "hypernyms": [
+      "unchanging",
+      "consistent"
+    ],
+    "hyponyms": [
+      "increasingly monotonic",
+      "strictly monotonic"
+    ],
+    "collocations": [
+      {
+        "pattern": "monotonic + noun (e.g., function, sequence)",
+        "examples": [
+          "monotonic function",
+          "monotonic progression"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + monotonic (e.g., strictly monotonic)",
+        "examples": [
+          "strictly monotonic increase"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含对重复和缺乏创新的负面评价，象征现代社会中的倦怠感，尤其在教育和科技领域；在中国文化语境中，可与 '墨守成规' 相关联，强调创新的重要性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如数学和计算机科学",
+        "usage": "在学术和专业讨论中频繁出现，强调精确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于非正式语境，带有幽默或批评意味",
+        "usage": "在文学或媒体中表示生活单调，与社会评论相关"
+      }
+    ],
+    "historicalContext": "与启蒙运动时期的科学发展相关，源自希腊哲学对和谐和变化的探讨；在20世纪工业化时代，强化了其对乏味生活的隐喻。",
+    "modernUsage": "在社交媒体和在线教育中，常见用于表达对重复性工作的不满，例如TikTok或LinkedIn上的讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个直线延伸的单调道路，代表无变化的函数图线，同时伴随单一音调的背景音乐。",
+      "keyElements": [
+        "直线道路",
+        "单一音调",
+        "无变化图形"
+      ],
+      "emotionalConnection": "联结个人经历，如回想单调的上班通勤，触发对多样化的渴望以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'mono' 联想为 'one note'，和 'tonic' 为 'tone'，形成 'one tone only'。",
+        "explanation": "通过视觉联想帮助建立语义连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "M-O-N-O: 'Make One Note Only'",
+        "explanation": "使用首字母缩写结合简单短语，促进短期到长期记忆的转移"
+      }
+    ],
+    "wordAssociations": [
+      "monotone",
+      "boring",
+      "consistent"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more monotonic",
+      "superlative": "most monotonic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词修饰名词，描述缺乏变化的实体",
+        "examples": [
+          "a monotonic function"
+        ]
+      },
+      {
+        "pattern": "Adverb + Adjective",
+        "description": "用副词修饰以强调程度",
+        "examples": [
+          "strictly monotonic"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'monotonous'",
+        "correction": "Use 'monotonic' for mathematical contexts and 'monotonous' for general boredom",
+        "explanation": "二者虽相关，但 'monotonic' 更技术化；学习者常混淆词根相似性"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more monotonic' instead of '*monotonicer'",
+        "explanation": "作为三音节形容词，不使用-er形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "science",
+      "literature"
+    ],
+    "tags": [
+      "technical",
+      "descriptive",
+      "mathematical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

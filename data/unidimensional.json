@@ -1,0 +1,233 @@
+{
+  "word": "unidimensional",
+  "phonetics": {
+    "british": "/ˌjuːnɪdɪˈmɛnʃənəl/",
+    "american": "/ˌjuːnəˌdɪmɛnˈʃənəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having or existing in one dimension; limited to a single scale or factor, often used in contexts like psychology, statistics, or mathematics to describe constructs that do not vary across multiple dimensions.",
+      "chineseTranslation": "一维的；单维度的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unidimensional scale",
+      "meaning": "单维度的量表",
+      "example": "In psychology, a unidimensional scale is often used to measure a single attribute like happiness.",
+      "exampleTranslation": "在心理学中，单维度的量表通常用于测量单一属性，如幸福感。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "unidimensional array",
+      "meaning": "一维数组",
+      "example": "Programmers use a unidimensional array to store a list of elements in a straight line.",
+      "exampleTranslation": "程序员使用一维数组来存储线性排列的元素列表。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The researcher developed a unidimensional model to simplify the analysis of consumer behavior.",
+      "translation": "研究人员开发了一个单维度的模型来简化消费者行为的分析。",
+      "source": "Academic journal (e.g., from psychological studies in COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Unlike multidimensional data, unidimensional data is easier to visualize on a straight line graph.",
+      "translation": "与多维度数据不同，单维度数据更容易在直线图上可视化。",
+      "source": "Educational text (e.g., from statistics textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern AI applications, unidimensional vectors are fundamental for basic machine learning algorithms.",
+      "translation": "在现代AI应用中，单维度向量是基本机器学习算法的基础。",
+      "source": "Technology article (e.g., from online tech resources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "uni-",
+        "meaning": "one",
+        "language": "Latin"
+      },
+      {
+        "root": "dimensional",
+        "meaning": "related to dimension or measurement",
+        "language": "Latin (from 'dimensio', meaning 'measuring')"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语 'unus' (意为 'one') 和 'dimensio' (意为 'measurement')，在17世纪通过法语影响英语发展而来。最初用于几何学描述一维空间，随着19世纪统计学和心理学的兴起，扩展到抽象概念的单维度分析。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "multidimensional",
+      "bidimensional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉化图表联想，例如想象一条直线代表单维度数据，以增强记忆痕迹；结合间隔重复法复习，关联到学习者的母语概念如 '一维空间'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "one-dimensional",
+        "similarity": "0.9",
+        "context": "适用于数学或统计语境中，表示单一变量或维度的概念"
+      },
+      {
+        "word": "linear",
+        "similarity": "0.7",
+        "context": "在数据分析中，强调直线或单一方向的模式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "multidimensional",
+        "context": "在复杂系统分析中，表示多个变量或维度的概念"
+      },
+      {
+        "word": "complex",
+        "context": "在社会科学中，指涉及多层面的结构"
+      }
+    ],
+    "hypernyms": [
+      "dimensional"
+    ],
+    "hyponyms": [
+      "univariate"
+    ],
+    "collocations": [
+      {
+        "pattern": "unidimensional + noun (e.g., scale, model)",
+        "examples": [
+          "unidimensional scale",
+          "unidimensional approach"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + unidimensional (e.g., simple unidimensional)",
+        "examples": [
+          "simple unidimensional array"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方学术文化中象征简化与专注，常用于强调在复杂世界中回归基本原理，但在东方文化如中国语境中，可能隐含对整体性思维的对比，代表分析式方法而非综合式。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术性和教育性语境",
+        "usage": "在美国英语中，常见于STEM领域报告和大学教材"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "略微正式化，使用频率较低",
+        "usage": "在英国英语中，常出现在学术论文中，以强调精确性"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，特别是在牛顿物理学中发展起来的概念；在文学和社会背景中，代表理性主义思潮，如启蒙运动时期的简化模型。",
+    "modernUsage": "在现代社交媒体和数字平台上，该词用于数据科学讨论，反映了全球化和技术驱动的社会趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个直线路径，如一条无限延伸的道路，只有一个方向，没有分支。",
+      "keyElements": [
+        "直线",
+        "单一方向",
+        "简单路径"
+      ],
+      "emotionalConnection": "联结到个人经验，如跑步时专注一条赛道，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'uni' 联想为 'one'，并与 'dimensional' 结合想象一个单位立方体只有一条边。",
+        "explanation": "通过视觉联想增强认知加工，根据双编码理论，结合图像和语言促进长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "U-D：One Direction (像乐队名称，但代表单一维度)",
+        "explanation": "利用文化符号创建有趣联想，降低认知负荷以便于第二语言学习者记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "one-way",
+      "straightforward",
+      "singular"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more unidimensional",
+      "superlative": "most unidimensional"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，强调单一维度的特征。",
+        "examples": [
+          "a unidimensional approach"
+        ]
+      },
+      {
+        "pattern": "In + Prepositional Phrase",
+        "description": "用于描述特定语境中的应用。",
+        "examples": [
+          "in a unidimensional framework"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'unidirectional'",
+        "correction": "Use 'unidimensional' for dimensions, not directions",
+        "explanation": "学习者常混淆二者，因为词形相似，但前者指维度，后者指方向。"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Restrict to technical writing",
+        "explanation": "作为技术术语，在非正式语境中使用可能显得生硬。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "教育",
+      "心理学"
+    ],
+    "tags": [
+      "技术术语",
+      "数学",
+      "统计学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

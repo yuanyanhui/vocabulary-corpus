@@ -1,0 +1,275 @@
+{
+  "word": "constrain",
+  "phonetics": {
+    "british": "/kənˈstreɪn/",
+    "american": "/kənˈstreɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To limit or restrict someone or something by rules, laws, or other forces, thereby reducing freedom of action.",
+      "chineseTranslation": "限制；约束",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To compel or force someone to act in a particular way, often against their will.",
+      "chineseTranslation": "强迫；迫使",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To hold back or confine something, such as emotions or physical movement.",
+      "chineseTranslation": "抑制；控制",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "constrain oneself",
+      "meaning": "自我限制或自我约束",
+      "example": "She had to constrain herself from reacting angrily during the meeting.",
+      "exampleTranslation": "她在会议中必须自我约束，不去愤怒地反应。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "constrain by circumstances",
+      "meaning": "由于环境或情况而受到限制",
+      "example": "The company was constrained by circumstances to cut costs.",
+      "exampleTranslation": "公司由于情况所迫，必须削减成本。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "legal constrain",
+      "meaning": "法律约束",
+      "example": "The contract imposes legal constrains on both parties.",
+      "exampleTranslation": "合同对双方施加了法律约束。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Government regulations constrain businesses from polluting the environment.",
+      "translation": "政府规定限制企业污染环境。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "His fear constrained him from speaking out in public.",
+      "translation": "他的恐惧使他不敢在公共场合发言。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Budget constraints forced the team to rethink their project plans.",
+      "translation": "预算限制迫使团队重新思考他们的项目计划。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In a democratic society, laws constrain individual freedoms for the greater good.",
+      "translation": "在民主社会中，法律为更大的利益而限制个人自由。",
+      "source": "Academic texts (e.g., from social science journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "constringere",
+        "meaning": "to draw together, bind tightly",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "stringere",
+        "meaning": "to draw tight or bind",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 constringere（意为紧缩或束缚）演变而来，通过古法语 constraindre 传入英语。在中古英语时期，该词开始用于表示限制或强制，逐渐扩展到现代英语中的抽象含义，如心理或社会约束。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "restrain",
+      "restrict",
+      "constriction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法（chunking）将 'constrain' 与类似词汇如 'restrain' 分组记忆，以降低认知负荷；根据认知科学，结合个人经历如 '约束日常习惯' 来建立情感联系；对于中文母语学习者，建议通过对比 'constrain' 和 '限制' 的语境差异来强化语义区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "restrict",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如法律或政策中，用于表示设置界限"
+      },
+      {
+        "word": "restrain",
+        "similarity": "0.9",
+        "context": "常用于控制情感或行为的语境中，与 'constrain' 相似但更强调物理或情感抑制"
+      },
+      {
+        "word": "limit",
+        "similarity": "0.7",
+        "context": "在非正式语境中，用于日常对话表示设定边界"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "free",
+        "context": "在社会或法律语境中，表示解除限制，例如 'free from constraints'"
+      },
+      {
+        "word": "liberate",
+        "context": "用于历史或政治语境中，表示从约束中释放"
+      }
+    ],
+    "hypernyms": [
+      "control"
+    ],
+    "hyponyms": [
+      "bind",
+      "hamper"
+    ],
+    "collocations": [
+      {
+        "pattern": "constrain + noun (e.g., constrain freedom)",
+        "examples": [
+          "constrain economic growth",
+          "constrain personal liberty"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be constrained by + noun (e.g., be constrained by rules)",
+        "examples": [
+          "be constrained by budget",
+          "be constrained by time"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常隐含自由与约束的张力，例如在民主社会中，'constrain' 象征通过法律维护秩序，同时体现了个人主义与集体利益的平衡。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和政策语境",
+        "usage": "在美国英语中，'constrain' 经常出现在经济报告中，表示市场限制"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向正式和历史语境",
+        "usage": "在英国英语中，常与法律或社会规范相关联，如在议会辩论中"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，反映了从封建约束到现代自由主义的演变，例如在约翰·洛克的作品中，'constrain' 用于讨论政府对个体的限制。",
+    "modernUsage": "在社交媒体和数字时代，'constrain' 常用于讨论算法限制或隐私政策，体现跨文化的信息自由辩论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个铁链束缚着一个飞翔的鸟儿，象征自由被限制。",
+      "keyElements": [
+        "铁链（代表约束）",
+        "鸟儿（代表自由）"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次被规则限制的童年游戏，以触发情感共鸣并增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'constrain' as 'con- (together) + strain (pull tight)', like straining a rope to hold something back.",
+        "explanation": "通过词根联想建立视觉图像，帮助中文母语学习者克服语义混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-N-S-T-R-A-I-N: 'Control Others' Needs, Stay Tight, Restrict Actions In Necessity'.",
+        "explanation": "使用首字母缩写结合故事法，基于认知科学的空间记忆原理"
+      }
+    ],
+    "wordAssociations": [
+      "restrict",
+      "bind",
+      "limit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "constrained",
+      "pastParticiple": "constrained",
+      "presentParticiple": "constraining",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + constrain + object",
+        "description": "主语直接作用于客体，表示限制行为",
+        "examples": [
+          "Laws constrain behavior."
+        ]
+      },
+      {
+        "pattern": "Be + constrained + by + noun",
+        "description": "表示被动状态，由外部因素限制",
+        "examples": [
+          "The project is constrained by time."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'constrain' with 'restrain'",
+        "correction": "Use 'constrain' for broader restrictions and 'restrain' for physical or emotional control.",
+        "explanation": "中文学习者常混淆二者语义；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'constrainned'",
+        "correction": "Correct to 'constrained'",
+        "explanation": "拼写错误源于双重辅音混淆；使用发音规则记忆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "law",
+      "business",
+      "politics",
+      "psychology"
+    ],
+    "tags": [
+      "restriction",
+      "control",
+      "limitation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

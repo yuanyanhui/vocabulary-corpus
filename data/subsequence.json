@@ -1,0 +1,231 @@
+{
+  "word": "subsequence",
+  "phonetics": {
+    "british": "/ˈsʌb.sɪ.kwəns/",
+    "american": "/ˈsʌb.sɪ.kwens/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements.",
+      "chineseTranslation": "子序列",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "longest common subsequence",
+      "meaning": "最长公共子序列",
+      "example": "The longest common subsequence between two strings is a classic problem in computer science.",
+      "exampleTranslation": "两个字符串之间最长公共子序列是计算机科学中的经典问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "increasing subsequence",
+      "meaning": "递增子序列",
+      "example": "Finding an increasing subsequence in an array can optimize sorting algorithms.",
+      "exampleTranslation": "在数组中找到一个递增子序列可以优化排序算法。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the string 'abcde', 'ace' is a subsequence because it maintains the original order.",
+      "translation": "在字符串 'abcde' 中，'ace' 是一个子序列，因为它保持了原有的顺序。",
+      "source": "Computer science textbook (e.g., from 'Introduction to Algorithms' by Cormen et al.)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm efficiently computes the longest subsequence of a given sequence.",
+      "translation": "该算法高效地计算给定序列的最长子序列。",
+      "source": "Technical article in IEEE journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Subsequences are not necessarily contiguous, unlike substrings.",
+      "translation": "子序列不一定连续，这与子字符串不同。",
+      "source": "Online programming tutorial (e.g., LeetCode discussions)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin roots",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "under or part of",
+        "language": "Latin"
+      },
+      {
+        "root": "sequence",
+        "meaning": "a following or series",
+        "language": "Latin (from sequi, meaning 'to follow')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的数学和计算机科学领域，源自拉丁语 'sub-'（表示部分或下层）和 'sequence'（表示序列）。随着序列分析在算法设计中的应用，它从一般数学概念演变为技术术语，用于描述不连续但顺序保持的子集。",
+    "firstKnownUse": "Mid-20th century (approximately 1950s, as documented in early computer science literature)",
+    "relatedWords": [
+      "sequence",
+      "substring",
+      "subset"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 5,
+    "spellingDifficulty": 6,
+    "meaningComplexity": 7,
+    "usageComplexity": 8,
+    "learningTips": [
+      "将子序列概念与视觉图表（如序列图）结合，使用间隔重复法强化记忆；根据认知科学原理，将新词与学习者已有知识（如编程经验）建立关联，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subset sequence",
+        "similarity": 0.8,
+        "context": "在序列分析和算法语境中，通常用于相似技术讨论"
+      },
+      {
+        "word": "derived sequence",
+        "similarity": 0.7,
+        "context": "在数学建模中，强调从原序列派生"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "supersequence",
+        "context": "在算法设计中，指包含原序列的更大序列"
+      }
+    ],
+    "hypernyms": [
+      "sequence"
+    ],
+    "hyponyms": [
+      "increasing subsequence",
+      "longest common subsequence"
+    ],
+    "collocations": [
+      {
+        "pattern": "longest [adjective] subsequence",
+        "examples": [
+          "longest increasing subsequence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] a subsequence",
+        "examples": [
+          "find a subsequence"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科技文化中象征算法效率和数据处理能力，常隐含现代数字时代的创新精神，但在一般文化中无显著象征意义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于编程和AI领域",
+        "usage": "例如，在硅谷技术社区的讨论中，强调实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，可能更侧重理论数学语境",
+        "usage": "如在学术出版物中，用于形式化定义"
+      }
+    ],
+    "historicalContext": "与20世纪计算机科学兴起相关，例如在图灵机和算法理论的发展中出现，反映了工业革命后科技进步的社会背景。",
+    "modernUsage": "在现代社交媒体和在线教育平台（如GitHub或Coursera）中，广泛用于编程讨论，体现了全球数字文化的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个珠子项链作为原序列，然后子序列是从中挑选出的珠子，保持顺序但允许跳过一些珠子。",
+      "keyElements": [
+        "珠子项链",
+        "跳过的珠子"
+      ],
+      "emotionalConnection": "联结到学习编程时的成就感或解决难题的兴奋，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Subsequence: 'Sub' means part, like a subset; 'sequence' means order, so it's a partial ordered part.",
+        "explanation": "通过词根分解和视觉联想，基于认知科学的空间记忆原理，帮助建立长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "S for Sub (部分), Q for Sequence (序列)，联想到 'SQ' 像一个跳跃的阶梯。",
+        "explanation": "利用声音联觉和简化法，降低记忆负担。"
+      }
+    ],
+    "wordAssociations": [
+      "sequence",
+      "subset",
+      "array",
+      "pattern"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subsequences",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase in subject position",
+        "description": "作为主语或宾语使用在句子中，常与动词如 'find' 或 'compute' 搭配。",
+        "examples": [
+          "The subsequence appears in the original string."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词如 'of' 结合，表示所属关系。",
+        "examples": [
+          "A subsequence of the array."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing subsequence with substring",
+        "correction": "Subsequence does not require contiguous elements; substring does.",
+        "explanation": "由于两者在计算机科学中相似，常导致语义混淆；建议通过对比例句区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'subsequences' for plural.",
+        "explanation": "作为常规名词，需正确添加 -es 以避免拼写错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank below 10,000 in COCA); high in technical domains (e.g., frequent in ACM Digital Library)",
+    "domains": [
+      "Computer Science",
+      "Mathematics",
+      "Data Analysis"
+    ],
+    "tags": [
+      "algorithm",
+      "data structure",
+      "sequence analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Merriam-Webster Online",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "word": "derive",
+  "phonetics": {
+    "british": "/dɪˈraɪv/",
+    "american": "/dəˈraɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To obtain something from a specified source, especially by a process of development or logical reasoning.",
+      "chineseTranslation": "源于；得自",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To deduce or infer something from evidence or premises.",
+      "chineseTranslation": "推导；推断",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In chemistry or mathematics, to obtain a substance or formula from another by a chemical reaction or mathematical operation.",
+      "chineseTranslation": "衍生；导出",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "derive from",
+      "meaning": "起源于或得自某事物",
+      "example": "Many English words derive from Latin roots.",
+      "exampleTranslation": "许多英语单词起源于拉丁语词根。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "derive benefit from",
+      "meaning": "从某事物中获得好处",
+      "example": "Children can derive benefit from regular exercise.",
+      "exampleTranslation": "孩子们可以从定期锻炼中获得好处。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "derive pleasure from",
+      "meaning": "从某事物中获得快乐",
+      "example": "She derives great pleasure from reading novels.",
+      "exampleTranslation": "她从阅读小说中获得极大的快乐。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new theory derives from Einstein's work on relativity.",
+      "translation": "这个新理论源于爱因斯坦的相对论工作。",
+      "source": "Scientific literature, such as academic papers",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We can derive the formula by solving the equation step by step.",
+      "translation": "我们可以通过逐步求解方程来导出这个公式。",
+      "source": "Educational textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "His family derives its wealth from a long line of merchants.",
+      "translation": "他的家族财富源于一个商贾世家。",
+      "source": "Historical novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday conversation, people often derive meaning from context.",
+      "translation": "在日常对话中，人们经常从语境中推断含义。",
+      "source": "Linguistic studies, such as COCA corpus",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "从；向下",
+        "language": "Latin"
+      },
+      {
+        "root": "rivus",
+        "meaning": "河流；水流",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'derivare'，意为'引导水流'或'引出'，后经由古法语'deriver'演变为英语，最初用于表示从源头引出水源，逐渐扩展到抽象意义，如从某事物中获取或发展而来。这一演变反映了从具体物理概念到抽象逻辑概念的转变。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "derivative",
+      "derivation",
+      "rivulet"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法（chunking）将'derive'与类似词汇分组记忆，例如与'origin'或'develop'关联，以增强语义网络；",
+      "通过重复暴露（spaced repetition）在不同语境中练习，强化长时记忆；",
+      "利用双编码理论，将词汇与视觉图像（如河流分流）结合，促进多模态记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "obtain",
+        "similarity": "0.8",
+        "context": "在正式语境中用于表示从源头获取信息，例如科学报告"
+      },
+      {
+        "word": "stem from",
+        "similarity": "0.7",
+        "context": "在非正式讨论中用于描述事物起源，例如日常对话"
+      },
+      {
+        "word": "deduce",
+        "similarity": "0.6",
+        "context": "在学术语境中用于逻辑推理，例如哲学或数学领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "diverge",
+        "context": "当表示从源头分离或偏离时，例如在讨论进化或分支时"
+      },
+      {
+        "word": "originate",
+        "context": "强调起点而非衍生过程，例如在历史叙述中"
+      }
+    ],
+    "hypernyms": [
+      "obtain",
+      "develop"
+    ],
+    "hyponyms": [
+      "deduce",
+      "infer"
+    ],
+    "collocations": [
+      {
+        "pattern": "derive from + noun",
+        "examples": [
+          "derive from experience",
+          "derive from data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "derive + noun + from",
+        "examples": [
+          "derive knowledge from books"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征逻辑推理和知识传承，常隐含西方科学方法的理性主义，例如在哲学和科学文献中代表从证据中推导结论的文化价值观。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于在学术和正式语境中使用，强调历史传承",
+        "usage": "在英国英语中，常用于教育和文学中，以突出从传统中演变"
+      },
+      {
+        "region": "United States",
+        "variation": "在科技和商业语境中更常见，强调创新和实用性",
+        "usage": "在美国英语中，常用于商业报告中，表示从市场数据中导出洞见"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，该词反映了17世纪欧洲从古典知识中衍生新思想的背景，例如牛顿的物理定律。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于在线教育或科技讨论中，体现快速知识获取的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条河流从大河中分支出去，代表从源头衍生新事物。",
+      "keyElements": [
+        "河流分支",
+        "源头",
+        "流动"
+      ],
+      "emotionalConnection": "联结个人经历，如从童年阅读中获得灵感，触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'derive'联想为'river'（河流），因为词根与水流相关",
+        "explanation": "通过声音和视觉联想，帮助记忆词源和含义，基于认知联想理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-R-I-V-E：Draw Extracted Rivers Into Valuable Elements",
+        "explanation": "使用首字母缩略法创建故事，增强叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "origin",
+      "source",
+      "evolve",
+      "extract"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "derived",
+      "pastParticiple": "derived",
+      "presentParticiple": "deriving",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + derive + object + from + source",
+        "description": "主语从来源中获取对象的典型结构",
+        "examples": [
+          "We derive energy from the sun."
+        ]
+      },
+      {
+        "pattern": "derive + adjective + from",
+        "description": "用于描述从某事物中获得特质的结构",
+        "examples": [
+          "He derives satisfaction from his work."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'derive' without a clear source",
+        "correction": "Always include the source in context, e.g., 'derive from'",
+        "explanation": "缺乏语境可能导致歧义，因为'derive'需要指定来源以清晰表达"
+      },
+      {
+        "mistake": "Confusing with 'arrive'",
+        "correction": "Use 'derive' for obtaining from a source, not for reaching a place",
+        "explanation": "语音相似可能导致混淆，建议通过发音练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "verb",
+      "abstract",
+      "logical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

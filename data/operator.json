@@ -1,0 +1,265 @@
+{
+  "word": "operator",
+  "phonetics": {
+    "british": "/ˈɒpəreɪtər/",
+    "american": "/ˈɑːpəreɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who operates a machine or system, such as in a factory or a telephone exchange.",
+      "chineseTranslation": "操作人员，例如工厂或电话交换台的工作人员",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A symbol or function in mathematics or computing that performs an operation, such as addition or multiplication.",
+      "chineseTranslation": "在数学或计算机中执行运算的符号或函数，例如加法或乘法运算符",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A company or entity that provides a service, especially in telecommunications or transportation.",
+      "chineseTranslation": "提供服务的公司或实体，尤其是在电信或交通领域",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "telephone operator",
+      "meaning": "电话接线员",
+      "example": "The telephone operator connected the call to the international line.",
+      "exampleTranslation": "电话接线员将电话连接到国际线路。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "binary operator",
+      "meaning": "二元运算符",
+      "example": "In programming, a binary operator requires two operands, like addition.",
+      "exampleTranslation": "在编程中，二元运算符需要两个操作数，例如加法。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tour operator",
+      "meaning": "旅游运营商",
+      "example": "The tour operator arranged all the flights and accommodations for the group.",
+      "exampleTranslation": "旅游运营商为团队安排了所有航班和住宿。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The factory operator monitored the assembly line to ensure everything ran smoothly.",
+      "translation": "工厂操作人员监控装配线以确保一切顺利运行。",
+      "source": "Industrial context, from manufacturing corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In algebra, the plus sign is a basic operator used for addition.",
+      "translation": "在代数中，加号是用于加法的基本运算符。",
+      "source": "Educational text, from academic sources like Oxford English Corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The mobile operator offers unlimited data plans for customers in urban areas.",
+      "translation": "移动运营商为城市地区的客户提供无限数据套餐。",
+      "source": "Business news, from BNC (British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As an elevator operator, she ensured passengers reached their floors safely.",
+      "translation": "作为电梯操作员，她确保乘客安全到达他们的楼层。",
+      "source": "Literature, from modern novels",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "operari",
+        "meaning": "to work",
+        "language": "Latin"
+      },
+      {
+        "root": "opera",
+        "meaning": "work or effort",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'operari'，意为 'to work'，演变为中世纪拉丁语 'operator'，用于指执行任务的人。17世纪传入英语，指操作机器或系统的人；18世纪扩展到数学领域，指运算符号。这一演变反映了工业革命对语言的影响，从一般劳动扩展到技术术语。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "operate",
+      "operation",
+      "operative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，通过视觉联想将 'operator' 与操作机器的图像关联，以增强记忆；使用间隔重复法复习不同语境下的含义，避免混淆；对于初级学习者，建议从日常语境入手，再扩展到技术领域。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "handler",
+        "similarity": "0.7",
+        "context": "在机械或设备操作语境中，常用于非正式场合"
+      },
+      {
+        "word": "function",
+        "similarity": "0.6",
+        "context": "在计算机编程中，指类似运算符的函数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "user",
+        "context": "在技术语境中，指非操作者而是使用者"
+      },
+      {
+        "word": "spectator",
+        "context": "在工业语境中，指观察者而非参与者"
+      }
+    ],
+    "hypernyms": [
+      "worker",
+      "symbol"
+    ],
+    "hyponyms": [
+      "switchboard operator",
+      "arithmetic operator"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + operator (e.g., machine operator)",
+        "examples": [
+          "machine operator",
+          "system operator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Operator + in context (e.g., operator in programming)",
+        "examples": [
+          "operator in mathematics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征工业化和技术进步，尤其在19世纪的工业革命中代表了劳动分工和效率；隐含语义可能涉及控制和操作权的概念，在现代社会中与自动化和AI相关。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如 'cell phone operator'",
+        "usage": "在美国英语中，常在商业语境下使用，强调服务提供者"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向传统含义，如 'lift operator' (elevator operator)",
+        "usage": "在英国英语中，更正式，常与历史工业遗产相关"
+      }
+    ],
+    "historicalContext": "与工业革命和第二次世界大战时期的通信技术相关，例如电话接线员在20世纪早期社会中扮演关键角色；文学作品如狄更斯的著作中出现，反映社会阶层。",
+    "modernUsage": "在现代社交媒体和科技语境下，常见于讨论AI和算法，例如Twitter上的科技新闻中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂场景中，操作人员操控机器的画面",
+      "keyElements": [
+        "机器",
+        "控制台",
+        "按钮"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩电子游戏的操作过程，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'operator' 联想为 'opera star'，因为两者都涉及 'operate' 或表演，但实际指操作",
+        "explanation": "通过声音联想增强记忆，避免混淆相似词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "OP为Operator，联想到Operation Panel",
+        "explanation": "使用首字母缩写结合视觉图像，帮助中级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "controller",
+      "function",
+      "worker"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "operators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + operator",
+        "description": "主语 + 动词 + operator结构，常用于描述角色",
+        "examples": [
+          "The operator manages the system."
+        ]
+      },
+      {
+        "pattern": "Operator + in + context",
+        "description": "operator + in + 语境结构，用于指定领域",
+        "examples": [
+          "Operator in computing is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'operate' as a verb",
+        "correction": "Use 'operator' as a noun only",
+        "explanation": "学习者常将名词误用为动词；正确区分词性以避免语法错误"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify the context, e.g., 'mathematical operator'",
+        "explanation": "中文学习者可能混淆不同含义；通过语境练习改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "manufacturing"
+    ],
+    "tags": [
+      "technical",
+      "occupational",
+      "mathematical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

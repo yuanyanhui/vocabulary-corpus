@@ -1,0 +1,259 @@
+{
+  "word": "wires",
+  "phonetics": {
+    "british": "/waɪəz/",
+    "american": "/waɪrz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "Thin strands or threads of metal, often used for conducting electricity, transmitting signals, or as structural elements.",
+      "chineseTranslation": "电线；金属丝",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (plural, informal)",
+      "definition": "Hidden microphones or recording devices used for surveillance.",
+      "chineseTranslation": "窃听器；隐藏式录音设备",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun (plural, figurative)",
+      "definition": "Connections or networks, especially in telecommunications or computing.",
+      "chineseTranslation": "连接；网络线路",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cross wires",
+      "meaning": "混淆或发生冲突",
+      "example": "Their plans cross wires, leading to confusion in the project.",
+      "exampleTranslation": "他们的计划相互冲突，导致项目混乱。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hot wires",
+      "meaning": "非法启动车辆的电线",
+      "example": "He hot wires the car to escape quickly.",
+      "exampleTranslation": "他用热线启动汽车以快速逃脱。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "under the wires",
+      "meaning": "在高压线下或在限制条件下",
+      "example": "The construction site is under the wires, so safety measures are critical.",
+      "exampleTranslation": "建筑工地位于高压线下，因此安全措施至关重要。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mechanic inspected the wires in the engine for any signs of wear.",
+      "translation": "机械师检查引擎中的电线是否有磨损迹象。",
+      "source": "Technical manual (e.g., from automotive corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the spy thriller, the agent planted wires to eavesdrop on the conversation.",
+      "translation": "在间谍惊悚片中，特工安装窃听器来偷听对话。",
+      "source": "Literature (e.g., modern novels, BNC corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The network administrator checked the wires to ensure stable internet connectivity.",
+      "translation": "网络管理员检查线路以确保互联网连接稳定。",
+      "source": "News article (e.g., from COCA or online tech sources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During the renovation, they discovered old wires hidden in the walls.",
+      "translation": "在翻新过程中，他们在墙壁中发现了旧电线。",
+      "source": "Daily conversation (e.g., from everyday corpora)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "wir",
+        "meaning": "to twist or wind",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'wir'，意为扭曲或缠绕的金属丝。从中世纪开始，演变为现代英语中表示电线或连接的含义，尤其在工业革命期间与电气技术相关联。",
+    "firstKnownUse": "约1000 AD",
+    "relatedWords": [
+      "wire",
+      "wiring",
+      "wireless"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法：想象电线如蜘蛛网般缠绕，以强化记忆路径；对于中文母语学习者，关联日常生活词汇如 '电线' 来构建双语网络，避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cables",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于表示类似电线或连接的物体"
+      },
+      {
+        "word": "conductors",
+        "similarity": "0.7",
+        "context": "在电气或物理语境中，强调导电功能"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insulators",
+        "context": "在电气语境中，表示不导电的材料，与电线相反"
+      },
+      {
+        "word": "wireless",
+        "context": "在通信语境中，表示无线的传输方式，与有线电线相对"
+      }
+    ],
+    "hypernyms": [
+      "connections",
+      "strands"
+    ],
+    "hyponyms": [
+      "power wires",
+      "telephone wires"
+    ],
+    "collocations": [
+      {
+        "pattern": "wires + verb (e.g., connect, inspect)",
+        "examples": [
+          "The wires connect the devices securely."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + wires (e.g., tangled wires)",
+        "examples": [
+          "She untangled the wires carefully."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'wires' 常象征现代技术与连接，但也隐含监视与隐私侵扰的隐喻，如在电影中代表间谍活动。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术俚语，如 'hot wires' 在犯罪语境",
+        "usage": "在美国英语中，强调实用性和非正式表达"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式术语，如在工程领域",
+        "usage": "在英国英语中，常与历史工业遗产相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和电气化进程相关，在19世纪文学中如狄更斯的作品中出现，象征城市化与技术进步。",
+    "modernUsage": "在社交媒体和数字时代，'wires' 常用于比喻在线连接或网络安全讨论，如在Twitter或Reddit上的流行趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一团缠绕的金属丝，如蜘蛛网连接各种设备。",
+      "keyElements": [
+        "蜘蛛网",
+        "连接设备",
+        "金属缠绕"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆家中电线杂乱的情景，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'wires' 联想为 'wires wind wildly'，表示缠绕。",
+        "explanation": "通过声音和视觉联想强化记忆路径，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "W-I-R-E-S: Wind, Interconnect, Resist, Electrify, Secure",
+        "explanation": "使用首字母缩略词帮助构建语义网络，便于中级学习者回顾"
+      }
+    ],
+    "wordAssociations": [
+      "wire",
+      "network",
+      "connect"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "wires (regular plural of wire)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the wires are damaged)",
+        "description": "作为主语或宾语的句法结构，常用于描述物体状态。",
+        "examples": [
+          "The wires in the circuit are essential."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., connected by wires)",
+        "description": "与介词搭配，表示连接关系。",
+        "examples": [
+          "The devices are linked by wires."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'wires' with 'wireless'",
+        "correction": "Use 'wires' for physical connections and 'wireless' for non-physical.",
+        "explanation": "中文母语学习者常因翻译混淆，导致语境错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'wires' for plural forms.",
+        "explanation": "由于英语复数规则简单，但初学者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "daily life"
+    ],
+    "tags": [
+      "electrical",
+      "connection",
+      "surveillance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

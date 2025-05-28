@@ -1,0 +1,278 @@
+{
+  "word": "irregularity",
+  "phonetics": {
+    "british": "/ɪˌrɛɡjʊˈlærəti/",
+    "american": "/ɪˌrɛɡjəˈlærəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of not conforming to a rule, pattern, or standard; lack of regularity.",
+      "chineseTranslation": "不规则性；不合常规",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that is irregular, such as an abnormality or deviation.",
+      "chineseTranslation": "异常事物；偏差",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In grammar, a form or word that does not follow the usual rules of inflection.",
+      "chineseTranslation": "不规则形式（如语法中的不规则动词）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instance of unevenness or inconsistency, often in a physical or procedural context.",
+      "chineseTranslation": "不均匀性；不一致性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cardiac irregularity",
+      "meaning": "心脏不规则性",
+      "example": "The doctor detected a cardiac irregularity during the routine check-up.",
+      "exampleTranslation": "医生在例行检查中发现了心脏不规则性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "billing irregularity",
+      "meaning": "账单不规则性",
+      "example": "The company investigated the billing irregularity reported by the customer.",
+      "exampleTranslation": "公司调查了客户报告的账单不规则性。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "irregularity in pattern",
+      "meaning": "图案中的不规则性",
+      "example": "The irregularity in pattern made the fabric unique and artistic.",
+      "exampleTranslation": "图案中的不规则性使这块布料独特而富有艺术感。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The irregularity of his attendance at work raised concerns among his colleagues.",
+      "translation": "他上班出勤的不规则性引起了同事们的担忧。",
+      "source": "Modern workplace communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, irregularity can refer to deviations in geometric shapes.",
+      "translation": "在数学中，不规则性可以指几何形状的偏差。",
+      "source": "Academic text (e.g., from educational resources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She noticed an irregularity in the road surface while driving.",
+      "translation": "她在开车时注意到了路面上的不规则性。",
+      "source": "Everyday conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The audit revealed several irregularities in the financial reports.",
+      "translation": "审计揭示了财务报告中的几个不规则性。",
+      "source": "Business news (e.g., from news articles)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ir-",
+        "meaning": "not",
+        "language": "Latin"
+      },
+      {
+        "root": "regularis",
+        "meaning": "regular, according to rule",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'irregularis'，意为 '不规则的'，由前缀 'in-'（不）与 'regularis'（规则的）组成。在中世纪拉丁语中演变为 'irregularitas'，用于描述不符合标准的现象。17世纪进入英语，逐渐扩展到抽象概念，如语法和数学中的应用。",
+    "firstKnownUse": "约 15 世纪",
+    "relatedWords": [
+      "regular",
+      "irregular"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的分块技术，将词汇与具体语境（如工作或数学）关联，以增强记忆；通过重复暴露于多样例句，构建语义网络，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "anomaly",
+        "similarity": "0.8",
+        "context": "在科学或统计语境中，用于描述异常现象"
+      },
+      {
+        "word": "inconsistency",
+        "similarity": "0.7",
+        "context": "在逻辑或行为语境中，用于表示不一致性"
+      },
+      {
+        "word": "deviation",
+        "similarity": "0.9",
+        "context": "在统计或路径语境中，用于指偏离标准"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "regularity",
+        "context": "在模式或习惯语境中，表示一致性和规则性"
+      },
+      {
+        "word": "consistency",
+        "context": "在质量控制或行为语境中，表示稳定性和均匀性"
+      }
+    ],
+    "hypernyms": [
+      "abnormality",
+      "variation"
+    ],
+    "hyponyms": [
+      "grammatical irregularity",
+      "spatial irregularity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + irregularity (e.g., cardiac irregularity)",
+        "examples": [
+          "financial irregularity",
+          "pattern irregularity"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Irregularity + in + noun (e.g., irregularity in shape)",
+        "examples": [
+          "irregularity in rhythm",
+          "irregularity in data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常隐含对秩序和规范的强调，例如在法律和商业语境中代表潜在问题，反映了盎格鲁-撒克逊文化对规则的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式语境使用，如法律文件",
+        "usage": "在英国英语中，常与历史制度相关联，如议会程序中的不规则性"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于日常和商业语境",
+        "usage": "在美国英语中，常用于描述经济或社会偏差，以突出效率和合规性"
+      }
+    ],
+    "historicalContext": "与工业革命相关，英语中不规则性一词用于描述机械或社会不稳定性，在维多利亚时代文学中（如狄更斯作品）象征社会不公。",
+    "modernUsage": "在社交媒体和数字时代，常用于讨论数据隐私或AI算法中的不规则性，体现全球化和技术驱动的语境。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个不规则的拼图，部分缺失或弯曲，代表词汇的含义。",
+      "keyElements": [
+        "拼图碎片",
+        "弯曲线条",
+        "缺失部分"
+      ],
+      "emotionalConnection": "联结到个人经历中的意外变动，如旅行中的航班延误，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'irregularity' 联想为 'I are regular, but not!'",
+        "explanation": "通过幽默联想突出 'ir-' 的否定含义，运用认知科学中的双编码技术结合视觉和语言。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪˌrɛɡjəˈlærəti/ 像 'I wreck youularity'，想象破坏规则的场景。",
+        "explanation": "利用声音与图像的联觉，帮助记忆词汇的发音和意义。"
+      }
+    ],
+    "wordAssociations": [
+      "anomaly",
+      "chaos",
+      "variation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "irregularities",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + irregularity",
+        "description": "主语 + 动词 + 不规则性结构，常用于描述状态",
+        "examples": [
+          "The irregularity affects the outcome."
+        ]
+      },
+      {
+        "pattern": "Irregularity in + noun",
+        "description": "不规则性在 + 名词结构，表示具体偏差",
+        "examples": [
+          "Irregularity in the data set."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'irregular' as an adjective",
+        "correction": "Use 'irregularity' for the noun form",
+        "explanation": "作为名词时，确保与形容词形式区分，以避免语义混淆"
+      },
+      {
+        "mistake": "Overusing in formal contexts",
+        "correction": "Replace with simpler synonyms in informal writing",
+        "explanation": "初级学习者可能过度正式化；根据语域调整使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words (based on COCA corpus)",
+    "domains": [
+      "science",
+      "business",
+      "law"
+    ],
+    "tags": [
+      "abstract noun",
+      "deviation",
+      "grammar"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

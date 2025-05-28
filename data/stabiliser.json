@@ -1,0 +1,260 @@
+{
+  "word": "stabiliser",
+  "phonetics": {
+    "british": "/ˈsteɪ.bɪ.laɪ.zə/",
+    "american": "/ˈsteɪ.bə.lə.ˌzaɪ.zɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or substance that helps to keep something steady or stable, such as in machinery, aviation, or chemistry.",
+      "chineseTranslation": "稳定器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In food chemistry, an additive that prevents separation or maintains consistency in products like emulsions.",
+      "chineseTranslation": "稳定剂",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (less common)",
+      "definition": "To make something stable or steady, though this is often used in the form of 'to stabilise'.",
+      "chineseTranslation": "使稳定",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "image stabiliser",
+      "meaning": "图像稳定器，用于摄影设备中减少抖动",
+      "example": "The camera's image stabiliser helps capture clear photos in low light.",
+      "exampleTranslation": "相机的图像稳定器有助于在低光环境下拍摄清晰的照片。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "financial stabiliser",
+      "meaning": "金融稳定器，指政策或机制用于维持经济稳定",
+      "example": "Governments often use interest rates as a financial stabiliser during economic downturns.",
+      "exampleTranslation": "政府通常在经济衰退期间使用利率作为金融稳定器。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "chemical stabiliser",
+      "meaning": "化学稳定剂，用于防止物质分解或变化",
+      "example": "Add a chemical stabiliser to the mixture to prevent it from separating.",
+      "exampleTranslation": "在混合物中添加化学稳定剂以防止其分离。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The aircraft's stabiliser was adjusted to improve flight stability in turbulent weather.",
+      "translation": "飞机的稳定器被调整以改善在湍流天气中的飞行稳定性。",
+      "source": "Aviation technical manual (e.g., from sources like FAA guidelines)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In photography, an image stabiliser can make a big difference for handheld shots.",
+      "translation": "在摄影中，图像稳定器可以大大改善手持拍摄的效果。",
+      "source": "Consumer technology review (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The economist recommended fiscal stabilisers to mitigate the effects of inflation.",
+      "translation": "经济学家建议使用财政稳定器来缓解通货膨胀的影响。",
+      "source": "Financial news article (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "stabilis",
+        "meaning": "stable, firm",
+        "language": "Latin"
+      },
+      {
+        "root": "stare",
+        "meaning": "to stand",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'stabilis'，意为'稳定的'，通过古法语 'stabiliser' 演变为英语，最初用于17世纪的航海和机械语境，19世纪扩展到化学和经济领域，随着工业革命，该词从单纯的物理稳定概念发展为更广泛的隐喻意义，如经济稳定。",
+    "firstKnownUse": "约17世纪",
+    "relatedWords": [
+      "stabilize",
+      "stability",
+      "destabilize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于辅音群和元音变体，如 /zə/ 在英式英语中可能对中文母语者造成混淆)",
+    "spellingDifficulty": "7 (中等偏高难度，因为英式拼写 'stabiliser' 与美式 'stabilizer' 的差异可能导致拼写错误，且词根较长)",
+    "meaningComplexity": "5 (中等难度，语义相对具体，但应用于不同领域如航空或化学需上下文理解)",
+    "usageComplexity": "6 (中等难度，需要掌握技术语境和搭配，且英式与美式变体可能增加使用复杂性)",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法（chunking）将词根 'stabilis' 与 'stand' 联想；通过重复曝光于真实语料如 COCA 中的句子，增强长时记忆；建议初级学习者从视觉化情境开始，例如想象一个飞机稳定器在飞行中保持平衡，以强化语义关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "stabilizer",
+        "similarity": "0.95",
+        "context": "主要在美式英语中用于技术语境，与 'stabiliser' 完全互换"
+      },
+      {
+        "word": "balancer",
+        "similarity": "0.70",
+        "context": "在机械或体育语境中适用，用于平衡而非严格稳定"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destabilizer",
+        "context": "在政治或化学语境中适用，表示引起不稳定或破坏平衡"
+      },
+      {
+        "word": "disruptor",
+        "context": "在技术或社会语境中适用，表示中断稳定状态"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "additive"
+    ],
+    "hyponyms": [
+      "rudder stabiliser",
+      "voltage stabiliser"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + stabiliser (e.g., image + stabiliser)",
+        "examples": [
+          "aircraft stabiliser",
+          "chemical stabiliser"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + stabiliser (e.g., use + stabiliser)",
+        "examples": [
+          "install a stabiliser"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术进步和稳定性，尤其在工业革命后的英国和美国，代表了对机械和经济系统的控制；隐含语义强调可靠性和安全，但跨文化中，中国语境可能更侧重于工程应用而非隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用 'stabiliser' 作为标准拼写",
+        "usage": "在正式和技术语境中常见，如航空工业"
+      },
+      {
+        "region": "美国",
+        "variation": "常用 'stabilizer' 拼写",
+        "usage": "在日常技术和消费品语境中更普遍，如相机设备"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命相关，最初用于航海和机械；在文学中，如狄更斯作品中隐喻社会稳定；现代语境下，与全球化经济政策相关。",
+    "modernUsage": "在社交媒体和科技语境中流行，如智能手机的图像稳定功能，反映数字时代对稳定性的追求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个飞机在空中飞行时，稳定器像一个隐形的支架帮助它保持平衡，就如同一个人在风中站稳脚跟。",
+      "keyElements": [
+        "飞机",
+        "平衡",
+        "支架"
+      ],
+      "emotionalConnection": "联结个人经验，如骑自行车时使用辅助轮保持稳定，触发安全感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'stabiliser' 联想为 'stay + bill + riser'，意为'站稳的账单上升器'，想象账单稳定上升而不倒。",
+        "explanation": "通过声音联想和视觉图像强化记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-A-B: Stable Tool for Achieving Balance",
+        "explanation": "使用首字母缩略词创建简易口诀，帮助构建长时记忆网络"
+      }
+    ],
+    "wordAssociations": [
+      "stable",
+      "balance",
+      "steady"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "stabilisers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the stabiliser in the system)",
+        "description": "作为名词用于描述系统组件，常置于介词短语中",
+        "examples": [
+          "The stabiliser on the ship prevented capsizing."
+        ]
+      },
+      {
+        "pattern": "Verb + object (if used as verb)",
+        "description": "少见，用于动作语境",
+        "examples": [
+          "They stabilised the mixture with a new stabiliser."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'stabilizer' spelling",
+        "correction": "Use 'stabiliser' in British English contexts",
+        "explanation": "中文母语者常受拼写变体影响；建议检查语域以避免错误"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Reserve for specific applications like devices",
+        "explanation": "可能错误泛化到一般稳定概念；通过语料分析学习正确搭配"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA 语料库中排名约 15,000，BNC 中中等频率）",
+    "domains": [
+      "科技",
+      "工程",
+      "化学",
+      "经济"
+    ],
+    "tags": [
+      "技术术语",
+      "工程",
+      "稳定"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

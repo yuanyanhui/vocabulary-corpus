@@ -1,0 +1,272 @@
+{
+  "word": "static",
+  "phonetics": {
+    "british": "/ˈstæt.ɪk/",
+    "american": "/ˈstæt̬.ɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not moving, changing, or developing; lacking activity or variation.",
+      "chineseTranslation": "静止的、不变的、不活跃的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to static electricity or static conditions in physics.",
+      "chineseTranslation": "与静电或静态相关的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Crackling or hissing noise in radio or electrical devices caused by atmospheric electricity.",
+      "chineseTranslation": "静电干扰声（如收音机中的嘶嘶声）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a variable or memory that persists throughout the program's execution without changing.",
+      "chineseTranslation": "在计算机中，指静态变量或内存",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "static electricity",
+      "meaning": "静电",
+      "example": "Static electricity can cause objects to stick together.",
+      "exampleTranslation": "静电会导致物体粘在一起。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "static image",
+      "meaning": "静态图像",
+      "example": "The website uses static images for better loading times.",
+      "exampleTranslation": "该网站使用静态图像以提高加载速度。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "static charge",
+      "meaning": "静电荷",
+      "example": "A static charge builds up on the surface of the balloon.",
+      "exampleTranslation": "静电荷在气球表面积累。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The static display in the museum shows ancient artifacts without any movement.",
+      "translation": "博物馆中的静态展示展示了古代文物，没有任何移动。",
+      "source": "Educational literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, a static method belongs to the class rather than an instance of the class.",
+      "translation": "在编程中，静态方法属于类本身，而不是类的实例。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "I could hear static on the radio as the storm approached.",
+      "translation": "当风暴逼近时，我能听到收音机中的静电干扰声。",
+      "source": "Modern fiction",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The economy has been static for months, with no significant growth.",
+      "translation": "经济已经静止了好几个月，没有显著增长。",
+      "source": "News articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "statikos",
+        "meaning": "使站立或静止的",
+        "language": "希腊语"
+      },
+      {
+        "root": "status",
+        "meaning": "站立的位置",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "该词源自古希腊语 'statikos'，意为 '使站立'，通过拉丁语 'staticus' 演变为现代英语，最初用于描述物理静止状态，17 世纪后扩展到电学和计算机领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "stationary",
+      "status",
+      "statics"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法，将 'static' 与视觉图像（如静止的物体）关联，以增强海马体记忆；对于中文母语学习者，避免混淆与 'dynamic' 的对比，通过重复语境练习提高词汇迁移。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "stationary",
+        "similarity": "0.8",
+        "context": "适用于描述物理静止或不动的物体，例如在科学语境中"
+      },
+      {
+        "word": "inactive",
+        "similarity": "0.7",
+        "context": "适用于描述缺乏变化的状态，例如在商业或经济语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dynamic",
+        "context": "适用于对比静止与活跃的状态，例如在科技或社会语境中"
+      },
+      {
+        "word": "moving",
+        "context": "适用于物理运动语境中"
+      }
+    ],
+    "hypernyms": [
+      "state"
+    ],
+    "hyponyms": [
+      "electrostatic",
+      "static variable"
+    ],
+    "collocations": [
+      {
+        "pattern": "static + noun (e.g., static electricity)",
+        "examples": [
+          "Static electricity",
+          "Static image"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + static (e.g., complete static)",
+        "examples": [
+          "Atmospheric static"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征稳定性或干扰，常用于科技和日常生活中隐含对变化的反思，例如在文学中代表社会停滞。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如计算机编程",
+        "usage": "在美国英语中，'static' 在科技领域频率较高，体现出创新文化的强调"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重物理和日常含义",
+        "usage": "在英国英语中，常与历史科学关联，如物理学历史"
+      }
+    ],
+    "historicalContext": "该词与工业革命相关，19 世纪在电学发展中普及，反映了西方科学进步的社会背景。",
+    "modernUsage": "在社交媒体和数字时代，'static' 常用于描述在线内容或网络干扰，体现跨文化数字交流的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个静止不动的场景，如一个冰冻的画面，其中物体固定不动。",
+      "keyElements": [
+        "冰冻画面",
+        "不动物体",
+        "嘶嘶声干扰"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年玩耍时触及静电的感觉，触发好奇和惊讶的情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'static' 联想为 'stay-tic'，意思是 'stay' (停留) 和 'tic' (滴答声)，代表不动的状态。",
+        "explanation": "通过声音联想帮助中级学习者建立语音与语义连接，提升认知加工效率"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-A-T-I-C: Stay There And Think In Calmness.",
+        "explanation": "使用首字母缩写创建故事，基于认知心理学中的叙事记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "stationary",
+      "stagnant",
+      "electricity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more static",
+      "superlative": "most static"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + static",
+        "description": "用于描述状态的谓语结构",
+        "examples": [
+          "The image is static."
+        ]
+      },
+      {
+        "pattern": "Static + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "Static electricity occurs frequently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'stagnant'",
+        "correction": "Use 'static' for non-moving states and 'stagnant' for lack of progress.",
+        "explanation": "中文学习者常混淆二者，因为两者均涉及 '不活跃'，建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ˈstɑː.tɪk/",
+        "correction": "Pronounce as /ˈstæt.ɪk/ in British English.",
+        "explanation": "发音错误可能源于母语影响，练习元音区分可改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Science",
+      "Technology",
+      "Daily life"
+    ],
+    "tags": [
+      "Physics",
+      "Computing",
+      "Adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

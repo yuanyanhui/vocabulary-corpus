@@ -1,0 +1,259 @@
+{
+  "word": "add",
+  "phonetics": {
+    "british": "/æd/",
+    "american": "/æd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To join or combine something with another thing so as to increase the size, number, or amount; to include as an extra element.",
+      "chineseTranslation": "添加；增加",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instruction or operation in computing or mathematics that performs addition.",
+      "chineseTranslation": "加法指令",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "add up",
+      "meaning": "加起来；总计",
+      "example": "The expenses add up to more than we expected.",
+      "exampleTranslation": "开支加起来超出了我们的预期。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "add on",
+      "meaning": "添加；附加",
+      "example": "You can add on an extra charge for delivery.",
+      "exampleTranslation": "你可以为递送添加额外费用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "add to",
+      "meaning": "添加到；增强",
+      "example": "This new evidence will add to our understanding of the case.",
+      "exampleTranslation": "这个新证据将增强我们对案件的理解。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Please add some milk to the coffee.",
+      "translation": "请在咖啡里加些牛奶。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The company decided to add new features to their software update.",
+      "translation": "公司决定在软件更新中添加新功能。",
+      "source": "Business news",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the recipe, you need to add a pinch of salt for flavor.",
+      "translation": "在菜谱中，你需要添加一撮盐来调味。",
+      "source": "Culinary literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The professor asked students to add citations to their research papers.",
+      "translation": "教授要求学生在研究论文中添加引文。",
+      "source": "Academic writing",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ad-",
+        "meaning": "to, toward",
+        "language": "Latin"
+      },
+      {
+        "root": "dere",
+        "meaning": "to put or place",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'addere' (meaning 'to give to' or 'to join to'), which evolved through Old French 'ad(d)er' in the 12th century to Middle English 'adden' by the 14th century, gradually expanding from mathematical contexts to general usage for accumulation and inclusion.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "addition",
+      "additive",
+      "address"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉化方法：想象将物品放入篮子中来联想添加动作，这有助于空间记忆。",
+      "结合认知关联：将 'add' 与数学运算联系起来，利用熟悉的个人经验强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "include",
+        "similarity": "0.7",
+        "context": "在列表或组中添加元素时"
+      },
+      {
+        "word": "append",
+        "similarity": "0.8",
+        "context": "在文档或数据末尾添加内容时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subtract",
+        "context": "数学运算或减少数量时"
+      },
+      {
+        "word": "remove",
+        "context": "从集合中删除元素时"
+      }
+    ],
+    "hypernyms": [
+      "combine"
+    ],
+    "hyponyms": [
+      "sum",
+      "total"
+    ],
+    "collocations": [
+      {
+        "pattern": "add to",
+        "examples": [
+          "add to the list",
+          "add to the collection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "add up",
+        "examples": [
+          "add up the numbers"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'add' 象征增长和积累，常用于数学、教育和日常对话中，体现出对进步和扩充的重视；在中文文化中，类似概念如 '增加' 也强调资源积累，但 'add' 在全球商业语境中（如 'add to cart'）代表消费主义。",
+    "regionalVariations": [
+      {
+        "region": "American English",
+        "variation": "No significant phonetic or semantic variation",
+        "usage": "常用于非正式商业语境，如在线购物"
+      },
+      {
+        "region": "British English",
+        "variation": "Slightly more formal in academic contexts",
+        "usage": "在教育和科学讨论中更常见"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期数学革命相关，自14世纪起在欧洲科学文献中出现，反映了早期现代社会对量化与增长的追求。",
+    "modernUsage": "在社交媒体和电子商务中流行，如 'add friend' 或 'add to favorites'，反映数字时代的信息积累趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个厨师将各种配料逐一放入锅中，逐步构建一道菜肴。",
+      "keyElements": [
+        "厨师",
+        "锅",
+        "配料"
+      ],
+      "emotionalConnection": "联结到个人烹饪经历或家庭聚餐的情感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Add 听起来像 'ad'（广告），广告总是添加更多信息来吸引注意力。",
+        "explanation": "通过声音联想将词汇与日常广告场景连接，提高认知保留率"
+      },
+      {
+        "type": "visualization",
+        "content": "将 'add' 视为一个加号 (+) 在列表中添加项目。",
+        "explanation": "利用符号视觉化来强化语义记忆，避免抽象概念的遗忘"
+      }
+    ],
+    "wordAssociations": [
+      "sum",
+      "plus",
+      "increase",
+      "append"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "added",
+      "pastParticiple": "added",
+      "presentParticiple": "adding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + add + object + to + something",
+        "description": "表示向某物添加元素",
+        "examples": [
+          "I add sugar to my tea."
+        ]
+      },
+      {
+        "pattern": "Add + object + for + purpose",
+        "description": "表示添加的目的",
+        "examples": [
+          "Add details for clarity."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Add to do something (e.g., Add to eat)",
+        "correction": "Add something to do (e.g., Add something to eat)",
+        "explanation": "错误地使用不定式结构；正确形式需明确对象"
+      },
+      {
+        "mistake": "Use 'add' interchangeably with 'plus' in sentences",
+        "correction": "Reserve 'add' for actions and 'plus' for mathematical symbols",
+        "explanation": "区分动词与数学术语以避免语义混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 500 words in general corpora (e.g., COCA rank: 234)",
+    "domains": [
+      "Mathematics",
+      "Computing",
+      "Daily life",
+      "Business"
+    ],
+    "tags": [
+      "Action verb",
+      "Mathematics",
+      "Basic operation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

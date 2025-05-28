@@ -1,0 +1,245 @@
+{
+  "word": "dielectric",
+  "phonetics": {
+    "british": "/ˌdaɪɪˈlɛktrɪk/",
+    "american": "/ˌdaɪəˈlɛktrɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A substance that is a poor conductor of electricity, but can support electrostatic fields, commonly used in capacitors to store electrical energy.",
+      "chineseTranslation": "电介质",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having properties that allow a material to be polarized by an electric field without conducting electricity.",
+      "chineseTranslation": "电介质的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dielectric constant",
+      "meaning": "电介质常数",
+      "example": "The dielectric constant of a material determines its ability to store electrical energy.",
+      "exampleTranslation": "一种材料的电介质常数决定了其存储电能的能力。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dielectric breakdown",
+      "meaning": "电介质击穿",
+      "example": "Dielectric breakdown occurs when the electric field exceeds the material's tolerance.",
+      "exampleTranslation": "当电场强度超过材料的耐受极限时，会发生电介质击穿。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern electronics, a dielectric layer is used to insulate components and prevent short circuits.",
+      "translation": "在现代电子学中，电介质层用于绝缘组件并防止短路。",
+      "source": "Engineering textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The physicist explained how the dielectric properties of ceramics make them ideal for high-voltage applications.",
+      "translation": "物理学家解释了陶瓷的电介质特性如何使其适合高压应用。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the experiment, we observed the dielectric response under varying temperatures.",
+      "translation": "在实验中，我们观察了电介质在不同温度下的响应。",
+      "source": "Research paper",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语和拉丁语",
+    "rootWords": [
+      {
+        "root": "dia-",
+        "meaning": "through or across",
+        "language": "Greek"
+      },
+      {
+        "root": "electric",
+        "meaning": "pertaining to amber or electricity",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪中期，源自希腊语'dia-'（通过）和拉丁语'electricus'（与电力相关），最初用于描述材料在电场中的行为，随着电学的发展，从描述静态电荷的材料演变为现代物理学中的关键概念。",
+    "firstKnownUse": "1837",
+    "relatedWords": [
+      "dielectricity",
+      "insulator",
+      "capacitor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "将词汇与物理概念联系起来，使用视觉辅助如电路图来增强记忆；根据认知科学，重复在上下文中应用词汇以加强长期记忆；结合个人经验，如回想电子设备的使用场景。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "insulator",
+        "similarity": "0.8",
+        "context": "在电气和材料科学上下文中，指非导体材料"
+      },
+      {
+        "word": "non-conductor",
+        "similarity": "0.7",
+        "context": "在工程应用中，指阻挡电流的物质"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conductor",
+        "context": "在电气上下文中，指易传导电流的材料"
+      },
+      {
+        "word": "semiconductor",
+        "context": "在技术领域中，指部分传导电流的材料，与电介质相对"
+      }
+    ],
+    "hypernyms": [
+      "material",
+      "substance"
+    ],
+    "hyponyms": [
+      "ceramic dielectric",
+      "polymer dielectric"
+    ],
+    "collocations": [
+      {
+        "pattern": "dielectric [noun]",
+        "examples": [
+          "dielectric material",
+          "dielectric strength"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] dielectric",
+        "examples": [
+          "high-voltage dielectric"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征现代工程创新，代表了对电学原理的理解，常与工业革命和当代技术进步相关联；在跨文化语境中，它强调了全球科学合作的包容性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "标准用法，强调在工程教育中",
+        "usage": "在美国，常用于学术和工业语境中讨论电子元件"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似美国，但可能在发音和特定术语上略有差异",
+        "usage": "在英国，常出现在物理学和材料科学文献中"
+      }
+    ],
+    "historicalContext": "与19世纪电学发展相关，如迈克尔·法拉第的实验，该词反映了工业革命时期科学与技术的融合",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于科技讨论和科普视频中，体现了数字时代的技术传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电容器内部的绝缘层阻挡电流流动的场景",
+      "keyElements": [
+        "电容器",
+        "绝缘层",
+        "电场"
+      ],
+      "emotionalConnection": "联结到个人经验，如组装电子套件时的好奇心，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dielectric 听起来像 'die-electric'，意思是让电流通 'die' 或停止",
+        "explanation": "通过声音联想和视觉想象，帮助初级学习者快速记忆词汇含义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-E: Die (停止) + I (隔离) + E (Electricity 电力)",
+        "explanation": "使用缩略形式构建记忆路径，结合空间记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "insulator",
+      "capacitor",
+      "electric field"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dielectrics",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in subject position",
+        "description": "用作名词置于主语位置，描述材料特性",
+        "examples": [
+          "The dielectric prevents current flow."
+        ]
+      },
+      {
+        "pattern": "Adjective modifying noun",
+        "description": "用作形容词修饰名词，表示相关属性",
+        "examples": [
+          "This material has dielectric properties."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing dielectric with conductor",
+        "correction": "Use dielectric for non-conducting materials",
+        "explanation": "学习者常混淆两者，因为它们在电气语境中相关，但前者不传导电流"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'dielectrics' for plural",
+        "explanation": "作为名词，其复数形式简单，但初级学习者可能遗忘规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium in scientific corpora (e.g., rank 5000 in COCA for technical domains)",
+    "domains": [
+      "Science",
+      "Engineering",
+      "Physics"
+    ],
+    "tags": [
+      "Technical",
+      "Electricity",
+      "Materials Science"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

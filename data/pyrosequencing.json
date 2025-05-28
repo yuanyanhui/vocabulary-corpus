@@ -1,0 +1,232 @@
+{
+  "word": "pyrosequencing",
+  "phonetics": {
+    "british": "/ˌpaɪrəʊˈsiːkwənsɪŋ/",
+    "american": "/ˌpaɪroʊˈsiːkwɛnsɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A method of DNA sequencing that detects the release of pyrophosphate during nucleotide incorporation, often used in genomics for real-time sequencing.",
+      "chineseTranslation": "一种DNA测序方法，通过检测核苷酸结合过程中焦磷酸盐的释放来实现，通常用于基因组学中的实时测序。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pyrosequencing technology",
+      "meaning": "焦磷酸盐测序技术",
+      "example": "The pyrosequencing technology has revolutionized genetic research by providing rapid and accurate results.",
+      "exampleTranslation": "焦磷酸盐测序技术通过提供快速且准确的结果，彻底改变了遗传学研究。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "advances in pyrosequencing",
+      "meaning": "焦磷酸盐测序的进步",
+      "example": "Recent advances in pyrosequencing have enabled high-throughput analysis of microbial genomes.",
+      "exampleTranslation": "最近在焦磷酸盐测序方面的进步，使得微生物基因组的高通量分析成为可能。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists used pyrosequencing to analyze the bacterial diversity in soil samples.",
+      "translation": "科学家们使用焦磷酸盐测序来分析土壤样本中的细菌多样性。",
+      "source": "Scientific journal (e.g., Nature Biotechnology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Pyrosequencing offers a cost-effective alternative to traditional Sanger sequencing methods.",
+      "translation": "焦磷酸盐测序为传统的Sanger测序方法提供了一种经济有效的替代方案。",
+      "source": "Academic paper (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In clinical diagnostics, pyrosequencing is employed to detect mutations in cancer genes.",
+      "translation": "在临床诊断中，焦磷酸盐测序被用于检测癌症基因中的突变。",
+      "source": "Medical literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "pyro-",
+        "meaning": "Fire or heat",
+        "language": "Greek (from 'pyr' meaning fire)"
+      },
+      {
+        "root": "sequencing",
+        "meaning": "The process of arranging in a sequence",
+        "language": "English (derived from 'sequence', from Latin 'sequi' meaning to follow)"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪90年代的生物技术发展，'pyro-' 指代焦磷酸盐（pyrophosphate）释放的化学反应过程，与火或热相关的希腊词根相结合；'sequencing' 则从拉丁语演变而来，最初用于描述顺序排列，随着DNA测序技术的进步，该术语在1996年左右首次用于描述这种基于光信号的测序方法。",
+    "firstKnownUse": "1996",
+    "relatedWords": [
+      "sequencing",
+      "pyrophosphate",
+      "genomics"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学原理，利用视觉图像将'pyro-'联想成火焰或光信号，以增强记忆；建议通过重复暴露于专业语境中来构建语义网络；使用间隔重复系统（spaced repetition）来优化对技术术语的长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "next-generation sequencing",
+        "similarity": "0.8",
+        "context": "适用于高通量DNA测序的科学和技术语境中"
+      },
+      {
+        "word": "454 sequencing",
+        "similarity": "0.9",
+        "context": "指代特定类型的焦磷酸盐测序技术，在基因组学研究中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Sanger sequencing",
+        "context": "作为传统测序方法的对比，常用于强调速度和成本差异"
+      }
+    ],
+    "hypernyms": [
+      "DNA sequencing"
+    ],
+    "hyponyms": [
+      "high-throughput pyrosequencing"
+    ],
+    "collocations": [
+      {
+        "pattern": "pyrosequencing + noun (e.g., method, technique)",
+        "examples": [
+          "pyrosequencing method",
+          "pyrosequencing analysis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + pyrosequencing (e.g., use, apply)",
+        "examples": [
+          "apply pyrosequencing",
+          "utilize pyrosequencing"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征现代生物技术创新，隐含语义涉及快速进步和数据驱动的发现，但在非西方文化中，可能强调全球合作，如在亚洲国家用于公共健康研究。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业语境，如生物技术公司",
+        "usage": "在美国英语中，常与专利和商业应用相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "学术语境更突出，强调历史发展",
+        "usage": "在英国英语中，可能与大学研究项目结合"
+      }
+    ],
+    "historicalContext": "与20世纪末的基因组学革命相关，特别是在人类基因组计划的背景下，该术语反映了科学界的全球合作和对健康问题的关注。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科学传播平台，如Twitter上的研究分享或YouTube的教育视频，趋势显示其在COVID-19疫情期间用于病毒变异分析。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中火焰或光信号代表'pyro-'，而一条DNA链在被顺序排列和分析。",
+      "keyElements": [
+        "火焰符号",
+        "DNA链",
+        "光信号"
+      ],
+      "emotionalConnection": "联结到个人对科学发现的兴奋感，例如回想童年观看科普视频的经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pyrosequencing 像 'pyro' (火) + 'sequencing' (序列)，想象火在点亮DNA序列。",
+        "explanation": "通过视觉联想将抽象概念转化为生动图像，帮助认知加工和记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-S-Q (Pyro-Sequencing-Quick)，代表快速测序。",
+        "explanation": "使用首字母缩略结合关键词，基于认知负荷理论减少记忆负担。"
+      }
+    ],
+    "wordAssociations": [
+      "fire",
+      "DNA",
+      "genome",
+      "analysis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the pyrosequencing method')",
+        "description": "作为名词使用，常置于句子主语或宾语位置",
+        "examples": [
+          "The pyrosequencing technique is widely used."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., 'through pyrosequencing')",
+        "description": "用于表示方法或过程",
+        "examples": [
+          "Data was obtained through pyrosequencing."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polymerase chain reaction'",
+        "correction": "Distinguish as separate techniques",
+        "explanation": "二者均为分子生物学术语，但pyrosequencing专注于测序而非扩增。"
+      },
+      {
+        "mistake": "Mispronunciation as /paɪroʊˈsɛkwənsɪŋ/",
+        "correction": "Use correct IPA /ˌpaɪroʊˈsiːkwɛnsɪŋ/",
+        "explanation": "错误发音可能源于相似的科学术语，导致听力理解问题。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 100,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "生物学",
+      "医学"
+    ],
+    "tags": [
+      "生物技术",
+      "基因组学",
+      "科学术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "PubMed scientific literature"
+    ]
+  }
+}

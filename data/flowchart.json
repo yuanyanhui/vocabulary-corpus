@@ -1,0 +1,242 @@
+{
+  "word": "flowchart",
+  "phonetics": {
+    "british": "/ˈfləʊtʃɑːt/",
+    "american": "/ˈfloʊtʃɑːrt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A diagram that represents a process, system, or algorithm, typically consisting of shapes connected by arrows to show the sequence of steps.",
+      "chineseTranslation": "流程图",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To represent or plan something using a flowchart.",
+      "chineseTranslation": "用流程图表示或规划某事",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "create a flowchart",
+      "meaning": "创建流程图",
+      "example": "Engineers often create a flowchart to visualize complex processes.",
+      "exampleTranslation": "工程师经常创建流程图来可视化复杂过程。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "flowchart software",
+      "meaning": "流程图软件",
+      "example": "Many professionals use flowchart software like Microsoft Visio for diagramming.",
+      "exampleTranslation": "许多专业人士使用像 Microsoft Visio 这样的流程图软件来进行绘图。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The project manager drew a flowchart to outline the steps in the production process.",
+      "translation": "项目经理绘制了一个流程图来概述生产过程的步骤。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, a flowchart is essential for designing algorithms before coding.",
+      "translation": "在计算机科学中，流程图是设计算法前的必需工具。",
+      "source": "Educational text (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She quickly sketched a flowchart on the whiteboard to explain the workflow to the team.",
+      "translation": "她迅速在白板上草绘了一个流程图来向团队解释工作流程。",
+      "source": "Informal meeting notes (e.g., from everyday corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "flow",
+        "meaning": "To move in a steady, continuous stream",
+        "language": "Old English (from Proto-Germanic *flōaną)"
+      },
+      {
+        "root": "chart",
+        "meaning": "A sheet of paper or map for representation",
+        "language": "Latin (from charta, meaning paper)"
+      }
+    ],
+    "historicalDevelopment": "该词源自 20 世纪早期，结合 'flow'（源自古英语 flōwan，表示流动）和 'chart'（源自拉丁语 charta，表示地图或图表）。它在 1921 年首次用于工业工程中，随着计算机和流程管理的兴起，在 1940-1950 年代变得流行，用于可视化步骤和决策。",
+    "firstKnownUse": "1921",
+    "relatedWords": [
+      "diagram",
+      "workflow",
+      "algorithm",
+      "schematic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉记忆技巧，将流程图与实际生活中的地图或河流联系起来，以增强空间联想；建议通过重复绘制来强化肌肉记忆和理解；根据双编码理论，使用图像和文字结合来辅助学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "diagram",
+        "similarity": "0.8",
+        "context": "适用于一般视觉表示场景，如技术文档或教育材料中"
+      },
+      {
+        "word": "schema",
+        "similarity": "0.7",
+        "context": "适用于抽象结构表示，特别是工程或科学语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "text description",
+        "context": "适用于非视觉化表达的场景，例如纯文字说明而不是图形表示"
+      }
+    ],
+    "hypernyms": [
+      "diagram"
+    ],
+    "hyponyms": [
+      "process flowchart",
+      "data flowchart",
+      "decision flowchart"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + flowchart (e.g., draw a flowchart)",
+        "examples": [
+          "Draw a flowchart to map out the steps."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "flowchart + noun (e.g., flowchart tool)",
+        "examples": [
+          "Use a flowchart tool for better visualization."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代技术和商业文化中象征效率和清晰，通常隐含组织和规划的重要性，在西方文化中被视为创新工具。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在科技和商业语境中",
+        "usage": "在美国英语中，常与软件和数字工具结合使用，例如在硅谷文化中"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更注重传统绘图",
+        "usage": "在英国英语中，常见于工程教育和正式报告中"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机科学的发展相关，在 20 世纪早期用于标准化流程，如泰勒制管理；在文学和社会中，代表理性化和系统化。",
+    "modernUsage": "在社交媒体和在线教育中流行，例如 TikTok 或 LinkedIn 上分享流程图模板，反映数字时代的视觉沟通趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条流动的河流（代表 'flow'）上有一张地图（代表 'chart'），河流的路径用箭头连接各个岛屿，每个岛屿代表一个步骤。",
+      "keyElements": [
+        "河流",
+        "地图",
+        "箭头",
+        "步骤岛屿"
+      ],
+      "emotionalConnection": "联结个人经验，如回想一次旅行路线规划，触发积极的成就感和熟悉感，以增强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Flow like a river on a chart",
+        "explanation": "通过声音和图像联想，将 'flow' 与河流流动联系，'chart' 与地图结合，帮助记忆词汇结构"
+      },
+      {
+        "type": "缩略",
+        "content": "F-C: Flowing Chart",
+        "explanation": "使用首字母缩写来简化记忆，并与视觉元素关联"
+      }
+    ],
+    "wordAssociations": [
+      "process",
+      "steps",
+      "arrows",
+      "diagram"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "flowcharts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + flowchart",
+        "description": "主语 + 动词 + 流程图结构，常用于描述使用或创建",
+        "examples": [
+          "The team uses a flowchart."
+        ]
+      },
+      {
+        "pattern": "Flowchart + of + noun",
+        "description": "流程图 + of + 名词结构，表示所属或内容",
+        "examples": [
+          "A flowchart of the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Writing 'flow chart' as two words",
+        "correction": "Use 'flowchart' as one word",
+        "explanation": "在现代英语中，它是一个复合词；错误可能源于历史拼写习惯"
+      },
+      {
+        "mistake": "Confusing with similar terms",
+        "correction": "Distinguish from 'flow diagram'",
+        "explanation": "虽然相关，但 'flowchart' 更具体地指流程表示"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "technical",
+      "visual",
+      "process"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

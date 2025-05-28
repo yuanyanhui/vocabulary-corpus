@@ -1,0 +1,278 @@
+{
+  "word": "exclusion",
+  "phonetics": {
+    "british": "/ɪkˈskluːʒn/",
+    "american": "/ɪkˈskluːʒən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of preventing someone or something from being included or involved; the state of being excluded.",
+      "chineseTranslation": "排除；排斥",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In legal contexts, a clause or provision that excludes certain conditions or liabilities.",
+      "chineseTranslation": "排除条款",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics or set theory, the process of removing elements from a set.",
+      "chineseTranslation": "排除（数学中的集合操作）",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "social exclusion",
+      "meaning": "社会排斥，指个体或群体被社会主流排除在外",
+      "example": "Social exclusion can lead to increased poverty in marginalized communities.",
+      "exampleTranslation": "社会排斥可能导致边缘化社区的贫困加剧。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mutual exclusion",
+      "meaning": "互斥，指两个或多个事件不能同时发生的状况，常用于计算机科学",
+      "example": "In operating systems, mutual exclusion ensures that only one process accesses a resource at a time.",
+      "exampleTranslation": "在操作系统中，互斥确保只有一个进程一次访问资源。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "exclusion zone",
+      "meaning": "排除区，指禁止进入的特定区域，如军事或灾害区域",
+      "example": "The government established an exclusion zone around the nuclear plant after the accident.",
+      "exampleTranslation": "事故发生后，政府在核电站周围设立了排除区。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The policy of exclusion from public spaces based on race is a violation of human rights.",
+      "translation": "基于种族的公共场所排除政策是侵犯人权的行为。",
+      "source": "Human rights discourse (e.g., from UN reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the contract, there is an exclusion clause that exempts the company from liability for damages.",
+      "translation": "合同中有一个排除条款，免除公司对损害的责任。",
+      "source": "Legal documents (e.g., from commercial law texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The teacher implemented a strategy of peer exclusion to encourage individual problem-solving.",
+      "translation": "老师采用同伴排除策略来鼓励个人解决问题。",
+      "source": "Educational literature (e.g., from psychology studies)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Exclusion of outliers from the data set improved the accuracy of the statistical analysis.",
+      "translation": "从数据集排除异常值提高了统计分析的准确性。",
+      "source": "Scientific articles (e.g., from academic journals like Nature)",
+      "difficulty": "academic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "excludere",
+        "meaning": "to shut out",
+        "language": "Latin"
+      },
+      {
+        "root": "ex-",
+        "meaning": "out",
+        "language": "Latin"
+      },
+      {
+        "root": "claudere",
+        "meaning": "to shut or close",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'excludere'，意为'关闭在外'，在中世纪拉丁语中演变为 'exclusio'，用于指排除行为。16世纪传入英语，最初用于法律和哲学语境，逐渐扩展到社会和科学领域。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "include",
+      "exclude",
+      "seclusion"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'exclusion' 与一扇关闭的门联系起来，以强化记忆路径；",
+      "通过间隔重复法复习不同语境下的使用，避免混淆类似词汇；",
+      "使用双编码策略，将英文定义与个人经历（如社会排斥事件）结合，以提升长时记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "omission",
+        "similarity": "0.7",
+        "context": "适用于正式语境，如文件中的遗漏"
+      },
+      {
+        "word": "elimination",
+        "similarity": "0.8",
+        "context": "常用于竞争或过程语境，如淘汰赛"
+      },
+      {
+        "word": "barring",
+        "similarity": "0.6",
+        "context": "多用于法律或障碍语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inclusion",
+        "context": "在社会或教育语境中，表示接纳和包含"
+      },
+      {
+        "word": "admission",
+        "context": "在正式场合，如入场或加入组织时，表示允许进入"
+      }
+    ],
+    "hypernyms": [
+      "separation",
+      "removal"
+    ],
+    "hyponyms": [
+      "social exclusion",
+      "racial exclusion"
+    ],
+    "collocations": [
+      {
+        "pattern": "exclusion of [noun]",
+        "examples": [
+          "exclusion of evidence in court",
+          "exclusion of variables in equations"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] exclusion",
+        "examples": [
+          "mutual exclusion in computing",
+          "social exclusion in sociology"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含社会不平等的象征意义，如种族或经济排斥，反映了包容性社会运动的核心议题。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于社会政策语境，如福利体系中的社会排斥",
+        "usage": "在英国英语中，常与历史殖民主义相关联"
+      },
+      {
+        "region": "United States",
+        "variation": "强调法律和权利语境，如移民排斥",
+        "usage": "在美国英语中，常出现在政治辩论中"
+      }
+    ],
+    "historicalContext": "与工业革命后的社会分层和20世纪民权运动相关，该词在文学如狄更斯作品中体现排斥主题。",
+    "modernUsage": "在社交媒体上，常用于讨论数字排斥，如算法偏见，在全球化语境下强调跨文化包容"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁上的门，门外的人代表被排除的元素",
+      "keyElements": [
+        "锁门",
+        "门外人群",
+        "隔离符号"
+      ],
+      "emotionalConnection": "联结个人经历，如童年被排斥的感受，以触发情感记忆加深理解"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Exclusion 像 'ex-clude'，想象从一个俱乐部中 'exclude' 出去的人",
+        "explanation": "通过视觉联想强化词根记忆，基于认知科学的空间认知原理"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-C = Exit, Close, Out",
+        "explanation": "使用首字母缩略法与词根 'ex-' 和 'claudere' 关联，促进记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "barrier",
+      "outcast",
+      "segregation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "exclusions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [exclusion] of [noun]",
+        "description": "表示排除行为的结构，常用于正式句子",
+        "examples": [
+          "The exclusion of minorities from decision-making processes"
+        ]
+      },
+      {
+        "pattern": "[Subject] faces [exclusion]",
+        "description": "描述遭受排斥的状态",
+        "examples": [
+          "He faces social exclusion due to his background"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'exclusionary' as an adjective without proper context",
+        "correction": "Use 'exclusionary' only when describing something that excludes",
+        "explanation": "初级学习者常混淆名词和形容词形式，导致语义错误"
+      },
+      {
+        "mistake": "Overusing in informal speech",
+        "correction": "Replace with simpler terms like 'leaving out' in casual contexts",
+        "explanation": "在非正式语境中，过度使用可能显得生硬，需根据语域调整"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 words in COCA corpus",
+    "domains": [
+      "social sciences",
+      "law",
+      "technology"
+    ],
+    "tags": [
+      "sociology",
+      "legal terms",
+      "exclusion concepts"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

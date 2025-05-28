@@ -1,0 +1,250 @@
+{
+  "word": "biometrics",
+  "phonetics": {
+    "british": "/ˌbaɪ.əʊˈmet.rɪks/",
+    "american": "/ˌbaɪ.oʊˈmet.rɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The scientific study of the unique physical or behavioral characteristics of individuals, such as fingerprints, facial patterns, or iris scans, often used for identification and authentication purposes.",
+      "chineseTranslation": "生物识别技术",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Statistical methods applied to biological data for analysis and measurement.",
+      "chineseTranslation": "生物统计学",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "biometric authentication",
+      "meaning": "通过生物特征进行身份验证",
+      "example": "Biometric authentication is now common in smartphones.",
+      "exampleTranslation": "生物识别认证现在在智能手机中很常见。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "biometric data",
+      "meaning": "与生物特征相关的数据",
+      "example": "Companies must protect biometric data from breaches.",
+      "exampleTranslation": "公司必须保护生物识别数据免受泄露。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fingerprint biometrics",
+      "meaning": "基于指纹的生物识别",
+      "example": "Fingerprint biometrics enhance security in banking apps.",
+      "exampleTranslation": "指纹生物识别增强了银行应用的安保。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The airport uses biometrics to verify passengers' identities quickly.",
+      "translation": "机场使用生物识别技术快速验证乘客身份。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In forensic science, biometrics plays a crucial role in solving crimes.",
+      "translation": "在法医学中，生物识别技术在解决犯罪中发挥关键作用。",
+      "source": "Scientific literature (e.g., academic journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "With the rise of privacy concerns, many users are wary of sharing their biometrics online.",
+      "translation": "随着隐私担忧的增加，许多用户对在线分享生物识别数据持谨慎态度。",
+      "source": "Social media discussion (e.g., Twitter)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "bios",
+        "meaning": "life",
+        "language": "Greek"
+      },
+      {
+        "root": "metron",
+        "meaning": "measure",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词根，最初用于生物统计学领域，指测量生物特征；19世纪后期演变为现代身份识别技术，随着计算机和安全需求的兴起，在20世纪发展为当前的应用。",
+    "firstKnownUse": "Early 20th century (approximately 1900)",
+    "relatedWords": [
+      "biometry",
+      "fingerprinting",
+      "facial recognition"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法：将词汇分解为 'bio'（生物）和 'metrics'（度量），并通过视觉图像如指纹扫描器联想；重复暴露于真实语境中以加强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "biometric identification",
+        "similarity": "0.85",
+        "context": "在安全和身份验证领域，常用于技术语境"
+      },
+      {
+        "word": "identity verification",
+        "similarity": "0.70",
+        "context": "在日常商业和政府应用中，用于更广泛的身份确认"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "manual verification",
+        "context": "在非技术或传统方法中，常用于对比生物识别的自动化"
+      }
+    ],
+    "hypernyms": [
+      "technology",
+      "identification methods"
+    ],
+    "hyponyms": [
+      "fingerprint recognition",
+      "facial recognition",
+      "iris scanning"
+    ],
+    "collocations": [
+      {
+        "pattern": "biometric + noun",
+        "examples": [
+          "biometric passport",
+          "biometric system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + biometrics",
+        "examples": [
+          "advanced biometrics",
+          "secure biometrics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代社会中象征着科技进步与隐私保护的张力，常隐含对个人数据安全的担忧，尤其在西方文化中与反恐和数字权利相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在日常技术应用，如手机解锁",
+        "usage": "在美国英语中，强调其在消费电子产品中的普及性"
+      },
+      {
+        "region": "英国",
+        "variation": "倾向于在正式或政府语境中使用",
+        "usage": "在英国英语中，常与法律和安全政策相关联"
+      }
+    ],
+    "historicalContext": "与20世纪的计算机革命和二战后的身份识别需求相关，在文学和社会评论中（如 dystopian novels）常代表监控社会。",
+    "modernUsage": "在社交媒体和数字平台上，体现为对数据隐私的讨论趋势，如欧盟的GDPR法规影响全球使用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人用手指按压手机屏幕进行解锁，同时屏幕显示出复杂的网格图案。",
+      "keyElements": [
+        "指纹",
+        "扫描",
+        "安全门"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用指纹解锁手机时的便利感，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bio像biology（生物），Metrics像mathematics（度量），所以biometrics是测量生物特征。",
+        "explanation": "通过词根联想帮助构建语义网络，符合认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/baɪ.oʊˈmet.rɪks/' 听起来像 'buy a metrics'，想象购买一个测量工具。",
+        "explanation": "利用声音与图像的联结，提升听觉记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "fingerprint",
+      "security",
+      "identity",
+      "scan"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "作为主语，用于描述技术应用",
+        "examples": [
+          "Biometrics enhances security measures."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于短语中表示方法或工具",
+        "examples": [
+          "Authentication through biometrics is reliable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'biometrics' as a plural verb",
+        "correction": "Treat 'biometrics' as a singular noun",
+        "explanation": "虽然词汇形式为复数，但常作为不可数名词使用，因此谓语动词应为单数形式。"
+      },
+      {
+        "mistake": "Confusing with 'biometry'",
+        "correction": "Distinguish based on context",
+        "explanation": "Biometry更侧重统计学，而biometrics强调识别技术；通过语境区分以避免混淆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "security",
+      "science"
+    ],
+    "tags": [
+      "science",
+      "tech",
+      "data privacy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

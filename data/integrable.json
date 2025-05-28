@@ -1,0 +1,239 @@
+{
+  "word": "integrable",
+  "phonetics": {
+    "british": "/ˈɪntɪɡrəbl/",
+    "american": "/ˈɪntəɡrəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being integrated, especially in mathematics, where it refers to a function that can be integrated over a given interval.",
+      "chineseTranslation": "可集成的；可积分的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Able to be combined or merged into a unified whole, often used in engineering or systems contexts.",
+      "chineseTranslation": "可合并的；可整合的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "integrable function",
+      "meaning": "可积分函数",
+      "example": "In calculus, an integrable function is one that has a finite integral over its domain.",
+      "exampleTranslation": "在微积分中，可积分函数是在其定义域上具有有限积分的函数。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "integrable system",
+      "meaning": "可整合系统",
+      "example": "An integrable system in physics allows for exact solutions to be found.",
+      "exampleTranslation": "在物理学中，可整合系统允许找到精确的解。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The function is integrable over the interval from 0 to 1.",
+      "translation": "该函数在从0到1的区间内是可积分的。",
+      "source": "Mathematical textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "This software module is designed to be integrable with existing platforms.",
+      "translation": "这个软件模块被设计成可以与现有平台整合。",
+      "source": "Technology article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must ensure that the new components are integrable without disrupting the entire system.",
+      "translation": "工程师必须确保新组件可以整合而不破坏整个系统。",
+      "source": "Engineering report",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "integr-",
+        "meaning": "whole or entire",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'integrare' meaning 'to make whole'. The term evolved in the 19th century through mathematical contexts, particularly with the development of integral calculus by Newton and Leibniz, extending to modern applications in integration theory.",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "integrate",
+      "integration",
+      "integrity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象拼图 pieces fitting together for 'integrable'；通过重复暴露于数学语境中增强记忆痕迹；结合母语类比，如用'可整合'联想实际生活中的合并过程，以促进双语迁移。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "combinable",
+        "similarity": "0.7",
+        "context": "在工程语境中，用于描述可以合并的组件"
+      },
+      {
+        "word": "mergeable",
+        "similarity": "0.6",
+        "context": "在系统设计中，强调可融合的特性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-integrable",
+        "context": "在数学中，指无法积分的函数，导致计算复杂"
+      },
+      {
+        "word": "incompatible",
+        "context": "在技术语境中，指无法整合的系统组件"
+      }
+    ],
+    "hypernyms": [
+      "adjective"
+    ],
+    "hyponyms": [
+      "Riemann integrable",
+      "Lebesgue integrable"
+    ],
+    "collocations": [
+      {
+        "pattern": "integrable + noun (e.g., function, system)",
+        "examples": [
+          "integrable function",
+          "integrable system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + integrable + in context",
+        "examples": [
+          "is integrable over the interval"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词主要在科学和技术领域具有象征意义，代表精确性和整体性，在西方文化中与理性主义和分析传统相关联，但无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和计算机科学语境",
+        "usage": "在美国英语中，常在学术和专业讨论中出现，例如在硅谷的技术会议"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向数学理论语境",
+        "usage": "在英国英语中，常见于纯数学教育和研究"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，特别是在牛顿和莱布尼茨的积分理论发展中，体现了西方对定量分析的强调。",
+    "modernUsage": "在社交媒体和在线论坛中，流行于STEM领域讨论，如Reddit的数学子版块，或AI和软件开发中的整合趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拼图游戏，其中碎片完美地组合成一个完整的图片，代表'integrable'的含义。",
+      "keyElements": [
+        "拼图碎片",
+        "完整图片",
+        "合并过程"
+      ],
+      "emotionalConnection": "联结到个人经验，如完成一个难题时的成就感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'integrable' as 'in-tegr-able', like pieces that can be put 'in together'.",
+        "explanation": "通过声音和视觉联想，将词汇分解为易记部分，运用认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-T-E-G: In New Technologies, Everything Gets Assembled.",
+        "explanation": "创建缩写以强化记忆路径，基于间隔重复原则"
+      }
+    ],
+    "wordAssociations": [
+      "integrate",
+      "whole",
+      "combine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more integrable",
+      "superlative": "most integrable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + integrable + prepositional phrase",
+        "description": "主语 + 是 + 可集成的 + 介词短语",
+        "examples": [
+          "The system is integrable with others."
+        ]
+      },
+      {
+        "pattern": "Integrable + noun phrase",
+        "description": "可集成的 + 名词短语",
+        "examples": [
+          "An integrable function requires specific conditions."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'integral' (noun)",
+        "correction": "Use 'integrable' as an adjective for capability",
+        "explanation": "学习者常混淆形容词和名词形式；通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɪnˈtɛɡrəbl/",
+        "correction": "Pronounce as /ˈɪntɪɡrəbl/",
+        "explanation": "强调元音和重音位置，以避免非母语发音错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "mathematics",
+      "engineering"
+    ],
+    "tags": [
+      "mathematics",
+      "technical",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

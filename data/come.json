@@ -1,0 +1,286 @@
+{
+  "word": "come",
+  "phonetics": {
+    "british": "/kʌm/",
+    "american": "/kʌm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move or travel towards the speaker or towards a specified place.",
+      "chineseTranslation": "过来；来",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrive at a place or point.",
+      "chineseTranslation": "到达；抵达",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To happen or occur as a result.",
+      "chineseTranslation": "发生；出现",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To reach a particular state or condition.",
+      "chineseTranslation": "达到某种状态",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An arrival or approach.",
+      "chineseTranslation": "到来；接近",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come in",
+      "meaning": "进入或进来",
+      "example": "Please come in and make yourself at home.",
+      "exampleTranslation": "请进来，让自己感觉像在家里一样。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "come across",
+      "meaning": "偶然发现或遇到",
+      "example": "I came across an old photo while cleaning the attic.",
+      "exampleTranslation": "在清理阁楼时，我偶然发现了一张旧照片。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "come from",
+      "meaning": "来自某地或某事",
+      "example": "Where do you come from originally?",
+      "exampleTranslation": "你原本来自哪里？",
+      "frequency": "high"
+    },
+    {
+      "phrase": "come to",
+      "meaning": "恢复意识或达到某种结果",
+      "example": "After the accident, it took him a while to come to.",
+      "exampleTranslation": "事故后，他过了一会儿才恢复意识。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She decided to come to the party after all.",
+      "translation": "她最终决定来参加派对。",
+      "source": "Modern spoken English (e.g., from conversational corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The train will come at 5 PM sharp.",
+      "translation": "火车将在下午5点准时到达。",
+      "source": "News articles (e.g., from BBC News)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Ideas come to mind when you're least expecting them.",
+      "translation": "当你最不期待时，想法就会出现。",
+      "source": "Literary works (e.g., from novels in the British National Corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Come what may, we must finish the project on time.",
+      "translation": "不管发生什么，我们必须按时完成项目。",
+      "source": "Formal writing (e.g., from academic texts in JSTOR)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "cuman",
+        "meaning": "to come, approach",
+        "language": "Old English"
+      },
+      {
+        "root": "kwem-",
+        "meaning": "to go, come",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'cuman'，其根源可追溯到原始日耳曼语 'kwem-'，意思是移动或接近。随时间演变为现代英语 'come'，在中古英语时期开始标准化，用于表示运动或事件的发生。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "become",
+      "income"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用重复暴露法，如在日常对话中重复使用 'come'，并通过视觉联想（如想象人物向自己走来）增强记忆；针对中文母语者，强调动词的不规则变化以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "arrive",
+        "similarity": "0.8",
+        "context": "适用于交通或到达场景，如 'He will arrive soon.'"
+      },
+      {
+        "word": "approach",
+        "similarity": "0.7",
+        "context": "适用于逐渐接近的语境，如 'The storm is approaching.'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "go",
+        "context": "适用于离开或移动远离的语境，如日常对话中"
+      },
+      {
+        "word": "leave",
+        "context": "适用于出发或放弃的语境，如正式场合"
+      }
+    ],
+    "hypernyms": [
+      "move"
+    ],
+    "hyponyms": [
+      "enter",
+      "arrive"
+    ],
+    "collocations": [
+      {
+        "pattern": "come + preposition (e.g., come to, come from)",
+        "examples": [
+          "Come to the meeting.",
+          "Come from a small town."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "come + adverb (e.g., come quickly)",
+        "examples": [
+          "Come quickly if you can."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征日常互动和移动，常用于表达欢迎或邀请，如 'Come in!'，反映西方文化的开放性和社交性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式场合",
+        "usage": "在英国英语中，'come' 可能与地方方言结合，如在苏格兰英语中带有口音变化"
+      },
+      {
+        "region": "美国",
+        "variation": "更随意使用",
+        "usage": "在美国英语中，'come on' 常用于鼓励或表达怀疑"
+      }
+    ],
+    "historicalContext": "与英国文学和殖民历史相关，如在莎士比亚作品中频繁出现，象征命运或事件的不可避免。",
+    "modernUsage": "在社交媒体上，'come' 常用于邀请或事件通知，如 Twitter 或 Instagram，用户跨文化使用以增强全球连接。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人从远处走来朝你走近的场景。",
+      "keyElements": [
+        "人影",
+        "运动方向",
+        "接近感"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆童年时父母说 'Come here!' 的温暖感觉，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'come' 联想成 'come home'，想象回家时的喜悦。",
+        "explanation": "通过积极情感联想，运用认知科学中的情绪编码原理，帮助记忆和召回。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kʌm/ 听起来像 'comb'，想象用梳子梳理头发时有人走来。",
+        "explanation": "利用多感官整合，基于神经科学原理强化词汇保留。"
+      }
+    ],
+    "wordAssociations": [
+      "arrive",
+      "go",
+      "enter"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "came",
+      "pastParticiple": "come",
+      "presentParticiple": "coming",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + come + adverbial phrase",
+        "description": "主语后跟 'come' 和状语短语，用于表示移动。",
+        "examples": [
+          "She comes every day."
+        ]
+      },
+      {
+        "pattern": "Come + infinitive",
+        "description": "用于命令或建议结构。",
+        "examples": [
+          "Come and see me."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'come' instead of 'go' in contexts of moving away",
+        "correction": "Use 'go' for moving away",
+        "explanation": "中文母语者常混淆方向性动词；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect tense: 'comed' instead of 'came'",
+        "correction": "Use 'came' for past tense",
+        "explanation": "由于不规则变化，需记忆关键形式以避免错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 100 in corpora like COCA and BNC)",
+    "domains": [
+      "日常对话",
+      "文学",
+      "商业"
+    ],
+    "tags": [
+      "动词",
+      "移动",
+      "基础词汇"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

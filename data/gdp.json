@@ -1,0 +1,259 @@
+{
+  "word": "gdp",
+  "phonetics": {
+    "british": "/ˌdʒiː.diːˈpiː/",
+    "american": "/ˌdʒiː.diːˈpiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The total monetary value of all final goods and services produced within a country's borders in a specific time period, typically a year.",
+      "chineseTranslation": "国内生产总值",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An economic indicator used to measure a nation's economic performance and growth.",
+      "chineseTranslation": "一种用于衡量国家经济表现和增长的经济指标",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "real GDP",
+      "meaning": "调整通胀后的国内生产总值",
+      "example": "The real GDP growth rate was 2.5% last quarter.",
+      "exampleTranslation": "上季度真实国内生产总值增长率为2.5%。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nominal GDP",
+      "meaning": "未调整通胀的国内生产总值",
+      "example": "Nominal GDP figures can be misleading without inflation adjustment.",
+      "exampleTranslation": "未调整通胀的名义国内生产总值数据可能具有误导性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "GDP per capita",
+      "meaning": "人均国内生产总值",
+      "example": "GDP per capita is often used to compare living standards between countries.",
+      "exampleTranslation": "人均国内生产总值通常用于比较国家之间的生活水平。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The country's GDP increased by 3% in the last fiscal year, driven by exports.",
+      "translation": "该国的国内生产总值在上一个财政年度增长了3%，主要得益于出口。",
+      "source": "Economic reports (e.g., from World Bank data)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Economists debate whether GDP is the best measure of societal well-being.",
+      "translation": "经济学家们争论国内生产总值是否是衡量社会福祉的最佳指标。",
+      "source": "Academic articles (e.g., from The Economist)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the pandemic, many nations experienced a sharp decline in GDP.",
+      "translation": "在疫情期间，许多国家经历了国内生产总值的急剧下降。",
+      "source": "News media (e.g., BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English (from economic terminology)",
+    "rootWords": [
+      {
+        "root": "Gross",
+        "meaning": "Total or entire",
+        "language": "Old English (from Germanic roots)"
+      },
+      {
+        "root": "Domestic",
+        "meaning": "Related to the home or country",
+        "language": "Latin (from 'domus', meaning house)"
+      },
+      {
+        "root": "Product",
+        "meaning": "Something produced",
+        "language": "Latin (from 'producere', meaning to bring forth)"
+      }
+    ],
+    "historicalDevelopment": "The term GDP emerged in the 20th century as a key concept in macroeconomics. It was formalized in the 1930s by economists like Simon Kuznets, evolving from earlier measures of national income to standardize economic output measurement across countries. Over time, it has adapted to include adjustments for inflation and international comparisons.",
+    "firstKnownUse": "1930s (first used in economic reports and by the U.S. Department of Commerce)",
+    "relatedWords": [
+      "GNP (Gross National Product)",
+      "National Income",
+      "Economic Output"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it requires understanding of economic concepts common in intermediate texts)",
+    "pronunciationDifficulty": "4 (1-10 scale; straightforward as an acronym, but requires clear articulation of individual letters)",
+    "spellingDifficulty": "2 (1-10 scale; simple acronym, easy to remember and spell)",
+    "meaningComplexity": "7 (1-10 scale; involves abstract economic ideas that may require contextual knowledge)",
+    "usageComplexity": "6 (1-10 scale; often used in formal contexts with specific collocations)",
+    "learningTips": [
+      "将词汇与实际经济新闻结合，利用间隔重复法（spaced repetition）加强记忆；建议通过视觉图表如饼状图联想GDP的组成部分，以提升认知关联；根据认知科学，使用双编码策略（如将英文术语与中文翻译配对，以视觉和语义双重强化）"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "Gross National Product (GNP)",
+        "similarity": "0.8",
+        "context": "在国际贸易和经济比较中，常用于相似语境，但GDP关注国内生产，而GNP关注国民生产"
+      },
+      {
+        "word": "National Output",
+        "similarity": "0.7",
+        "context": "在经济报告中，作为整体经济活动的总和使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Recession",
+        "context": "当经济收缩时，与GDP增长相反，常在经济周期讨论中出现"
+      },
+      {
+        "word": "Deflation",
+        "context": "在价格水平下降的语境中，与GDP的通胀调整相关"
+      }
+    ],
+    "hypernyms": [
+      "Economic Indicator"
+    ],
+    "hyponyms": [
+      "Real GDP",
+      "Nominal GDP"
+    ],
+    "collocations": [
+      {
+        "pattern": "GDP growth rate",
+        "examples": [
+          "The GDP growth rate slowed to 1%.",
+          "Annual GDP growth rate exceeded expectations."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "per capita GDP",
+        "examples": [
+          "China's per capita GDP has risen steadily."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "GDP在现代全球文化中象征经济成功和国家实力，常被用作社会进步的隐含指标，但在一些文化中（如某些发展中国家），它可能忽略非经济因素如环境可持续性或幸福感",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更强调季度GDP数据发布",
+        "usage": "在美国经济讨论中，经常与联邦储备政策结合使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "使用类似术语如'GVA (Gross Value Added)'",
+        "usage": "在英国，常在欧盟相关语境中讨论，以反映区域经济差异"
+      }
+    ],
+    "historicalContext": "GDP起源于20世纪大萧条时期的美国经济政策，与凯恩斯主义经济学相关，在二战后成为全球标准指标，体现了工业化和全球化的历史演变",
+    "modernUsage": "在社交媒体和数字经济中，GDP常被简化讨论，如TikTok或Twitter上的经济 meme，但其正式使用仍局限于新闻和政策文件"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个国家地图上堆满金币和产品箱子的场景，代表总产出",
+      "keyElements": [
+        "地图",
+        "金币",
+        "产品箱子"
+      ],
+      "emotionalConnection": "联结个人经验，如观看经济新闻时的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "G for 'Gross' like a big gross pile, D for 'Domestic' like a home door, P for 'Product' like factory output",
+        "explanation": "通过视觉联想建立词汇与图像的联系，基于认知科学的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "GDP = 'Great Domestic Production'",
+        "explanation": "用简单口号强化记忆，减少认知负荷"
+      }
+    ],
+    "wordAssociations": [
+      "economy",
+      "growth",
+      "wealth",
+      "inflation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + GDP",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "GDP measures economic health.",
+          "The government monitors GDP."
+        ]
+      },
+      {
+        "pattern": "Adjective + GDP",
+        "description": "与形容词搭配描述特征",
+        "examples": [
+          "High GDP indicates prosperity."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing GDP with GNP",
+        "correction": "Use GDP for domestic production and GNP for national production",
+        "explanation": "许多学习者混淆二者的边界，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always capitalize as 'GDP' since it's an acronym",
+        "explanation": "在正式写作中，大写有助于避免混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1% in corpora like COCA, with frequent use in economic texts)",
+    "domains": [
+      "Economics",
+      "Finance",
+      "Politics",
+      "International Relations"
+    ],
+    "tags": [
+      "Acronym",
+      "Economic Term",
+      "Macroeconomic Indicator"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "World Bank Data"
+    ]
+  }
+}

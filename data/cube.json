@@ -1,0 +1,272 @@
+{
+  "word": "cube",
+  "phonetics": {
+    "british": "/kjuːb/",
+    "american": "/kjuːb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A three-dimensional shape with six square faces of equal size.",
+      "chineseTranslation": "立方体",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To cut something, especially food, into small cube-shaped pieces.",
+      "chineseTranslation": "切成立方体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having the shape of a cube; cubic.",
+      "chineseTranslation": "立方形的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The third power of a quantity, as in mathematics (e.g., the cube of 2 is 8).",
+      "chineseTranslation": "立方（数学概念）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ice cube",
+      "meaning": "冰块",
+      "example": "Please add some ice cubes to the drink.",
+      "exampleTranslation": "请在饮料中加入一些冰块。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cube root",
+      "meaning": "立方根",
+      "example": "The cube root of 27 is 3.",
+      "exampleTranslation": "27的立方根是3。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "magic cube",
+      "meaning": "魔方（益智玩具）",
+      "example": "He solved the magic cube in under a minute.",
+      "exampleTranslation": "他在一分钟内解开了魔方。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The child built a tower using colorful cubes.",
+      "translation": "孩子用彩色的立方体搭建了一个塔。",
+      "source": "Children's literature",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She decided to cube the potatoes before frying them.",
+      "translation": "她决定先把土豆切成立方体后再炸。",
+      "source": "Cooking recipe from a modern blog",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In geometry, a cube is a regular hexahedron.",
+      "translation": "在几何学中，立方体是一个规则的六面体。",
+      "source": "Academic textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The artist used cubes to represent urban structures in his painting.",
+      "translation": "艺术家在他的画中用立方体来代表城市结构。",
+      "source": "Art criticism",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "cubus",
+        "meaning": "A cube or die",
+        "language": "Latin"
+      },
+      {
+        "root": "kubos",
+        "meaning": "A cube or a die used in games",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'kubos'，意为骰子或立方体，传入拉丁语作为 'cubus'，在中世纪拉丁语中演变为数学和几何学中的术语，最终在16世纪进入英语，扩展到日常物体和抽象概念。",
+    "firstKnownUse": "约1550年",
+    "relatedWords": [
+      "cubic",
+      "cuboid",
+      "cubelet"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过视觉化联想将'cubes'与实际物体（如魔方或冰块）联系起来，利用认知科学中的双编码理论；建议初级学习者从简单句子开始，逐步增加语境以强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "die",
+        "similarity": "0.7",
+        "context": "在游戏或几何语境中，表示立方体形状"
+      },
+      {
+        "word": "block",
+        "similarity": "0.6",
+        "context": "在建筑或玩具语境中，表示方形物体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sphere",
+        "context": "在几何学中，表示非立方体的圆形物体"
+      },
+      {
+        "word": "pyramid",
+        "context": "在形状比较中，表示非立方体的锥形结构"
+      }
+    ],
+    "hypernyms": [
+      "shape",
+      "solid"
+    ],
+    "hyponyms": [
+      "Rubik's cube",
+      "ice cube"
+    ],
+    "collocations": [
+      {
+        "pattern": "cube + noun (e.g., cube of sugar)",
+        "examples": [
+          "a cube of sugar"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + cube (e.g., cut into cubes)",
+        "examples": [
+          "dice into cubes"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'cube' 常象征秩序和稳定性，如在现代艺术（如Mondrian的作品）中代表几何抽象；在东方文化中，可能与益智玩具如魔方相关，隐含挑战与创新的含义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于日常语言，如'cuber'指魔方爱好者",
+        "usage": "在非正式语境中流行，尤其在科技和娱乐领域"
+      },
+      {
+        "region": "英国",
+        "variation": "强调数学语境，使用更正式",
+        "usage": "在教育和学术讨论中更常见"
+      }
+    ],
+    "historicalContext": "与古希腊哲学和罗马建筑相关，如在柏拉图的理想形体中代表完美形式；在现代，关联工业革命的标准化生产。",
+    "modernUsage": "在社交媒体上，常用于描述虚拟现实中的3D模型或健康饮食中的食物切法。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个彩色魔方在手中旋转，每个面都是完美方形。",
+      "keyElements": [
+        "魔方",
+        "方形面",
+        "旋转动作"
+      ],
+      "emotionalConnection": "联结个人童年玩耍经验，触发积极情绪以增强记忆保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'cube'联想为'cool cube'，想象冰块冷却热饮。",
+        "explanation": "利用声音联觉和视觉图像，帮助记忆发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "C-U-B-E: Cool, Uniform, Boxy, Equal sides.",
+        "explanation": "通过缩略词分解词汇，结合认知科学中的分块编码策略"
+      }
+    ],
+    "wordAssociations": [
+      "block",
+      "dice",
+      "geometry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cubes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "cubing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: the [adjective] cube",
+        "description": "用在描述具体物体的句法结构中",
+        "examples": [
+          "the red cube"
+        ]
+      },
+      {
+        "pattern": "Verb + object: cube the vegetables",
+        "description": "用在动作描述的句法结构中",
+        "examples": [
+          "She cubed the meat carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'cube' with 'cubed' in mathematical contexts",
+        "correction": "Use 'cube' as a noun and 'cubed' as an adjective (e.g., 'a cubed number')",
+        "explanation": "学习者常混淆词性和时态，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'cubes' for plural",
+        "explanation": "由于英文复数规则简单，但非母语者可能遗忘添加-s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "cooking",
+      "art"
+    ],
+    "tags": [
+      "geometry",
+      "shape",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

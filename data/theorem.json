@@ -1,0 +1,243 @@
+{
+  "word": "theorem",
+  "phonetics": {
+    "british": "/ˈθɪərəm/",
+    "american": "/ˈθiːrəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statement or proposition that is proven to be true based on axioms, definitions, and previously established theorems.",
+      "chineseTranslation": "定理",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A general principle or rule that is accepted as true and used as a basis for reasoning or argument.",
+      "chineseTranslation": "理论或原理",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Pythagorean theorem",
+      "meaning": "毕达哥拉斯定理",
+      "example": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+      "exampleTranslation": "毕达哥拉斯定理指出，在直角三角形中，斜边的平方等于其他两边平方的和。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fundamental theorem",
+      "meaning": "基本定理",
+      "example": "The fundamental theorem of algebra asserts that every non-constant polynomial equation has at least one complex root.",
+      "exampleTranslation": "代数的根本定理断言，每一个非常数多项式方程至少有一个复根。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Euclid's Elements includes many important theorems about geometry.",
+      "translation": "欧几里得的《几何原本》包含了许多关于几何的重要定理。",
+      "source": "Mathematical literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physics, Newton's theorems laid the foundation for classical mechanics.",
+      "translation": "在物理学中，牛顿的定理为经典力学奠定了基础。",
+      "source": "Scientific texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The theorem was proven using induction and logical deduction.",
+      "translation": "该定理是通过归纳和逻辑演绎证明的。",
+      "source": "Academic lectures",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "θεωρημα",
+        "meaning": "a proposition or statement to be proved",
+        "language": "古希腊语"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语「θεωρημα」（theorema），意为「观察或推测的结果」，起初用于哲学和数学语境中描述通过推理得出的结论。经由拉丁语「theorema」传入西方语言，并在中世纪经阿拉伯语影响后传播到欧洲。17世纪起，在牛顿和莱布尼茨的数学革命中演变为现代意义上的数学定理。",
+    "firstKnownUse": "约公元前300年，在欧几里得的《几何原本》中",
+    "relatedWords": [
+      "theory",
+      "theorematic",
+      "theorem-proof"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "使用分块记忆法，将词汇与具体数学公式关联；结合认知科学，创建心智图将定理与实际问题场景连接，以增强长期记忆；建议初级学习者通过重复练习和视觉辅助工具降低抽象概念的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "proposition",
+        "similarity": "0.8",
+        "context": "在逻辑或数学证明中，尤指需要证实的陈述"
+      },
+      {
+        "word": "lemma",
+        "similarity": "0.7",
+        "context": "作为更大证明的辅助定理，常用于学术语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "axiom",
+        "context": "公理是无需证明的假设，而定理需基于公理证明"
+      },
+      {
+        "word": "hypothesis",
+        "context": "假设是未经证实的推测，而定理已获证明"
+      }
+    ],
+    "hypernyms": [
+      "statement",
+      "principle"
+    ],
+    "hyponyms": [
+      "Pythagorean theorem",
+      "Fermat's theorem"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + theorem",
+        "examples": [
+          "prove a theorem",
+          "state a theorem"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + theorem",
+        "examples": [
+          "fundamental theorem",
+          "central theorem"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性思考和科学方法的基石，常与古希腊哲学（如柏拉图和亚里士多德）关联，体现知识通过逻辑构建的理念；在东方文化如中国，类似概念见于《周易》中的推理原则，但表达方式更隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调历史语境，如在牛津大学数学课程中",
+        "usage": "在正式教育中频繁使用，突出理论的演变"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重应用，如在工程和计算机科学中",
+        "usage": "在现代科技语境下，常与创新和问题解决相关联"
+      }
+    ],
+    "historicalContext": "与古希腊数学传统相关联，如欧几里得的作品影响了文艺复兴时期的科学革命，并塑造了现代教育的逻辑框架。",
+    "modernUsage": "在社交媒体和在线教育平台如Khan Academy中，常见用于科普视频，反映数字时代对科学普及的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古希腊学者在柱廊中用粉笔在石板上绘制几何图形，证明一个定理。",
+      "keyElements": [
+        "几何图形",
+        "证明过程",
+        "古希腊场景"
+      ],
+      "emotionalConnection": "联结个人学习经历，如回忆学校数学课上的兴奋感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'theorem' as 'theo' (like theory) + 'rem' (remainder of proof)",
+        "explanation": "通过将词汇分解为熟悉的部分，建立认知连接，增强记忆保留"
+      },
+      {
+        "type": "缩略",
+        "content": "T-H-E-O-R-E-M: Theory Has Evidence Of Real Examples Made",
+        "explanation": "使用首字母缩略词结合实际例子，帮助构建叙事式记忆"
+      }
+    ],
+    "wordAssociations": [
+      "theory",
+      "proof",
+      "axiom",
+      "mathematics"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "theorems",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + theorem",
+        "description": "作为主语或宾语出现，常用于描述证明过程",
+        "examples": [
+          "The theorem explains the relationship."
+        ]
+      },
+      {
+        "pattern": "Adjective + theorem",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "This fundamental theorem is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing theorem with theory",
+        "correction": "Use 'theorem' for proven statements and 'theory' for broader explanations",
+        "explanation": "二者虽相关，但定理需严格证明，而理论可能基于假设"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'theorems' for plural",
+        "explanation": "作为规则名词，无不规则变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus for academic domains)",
+    "domains": [
+      "mathematics",
+      "science",
+      "logic",
+      "education"
+    ],
+    "tags": [
+      "mathematics",
+      "logic",
+      "proof",
+      "academic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

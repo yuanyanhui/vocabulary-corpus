@@ -1,0 +1,239 @@
+{
+  "word": "microarray",
+  "phonetics": {
+    "british": "/ˌmaɪkrəʊəˈreɪ/",
+    "american": "/ˌmaɪkroʊəˈreɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A grid of microscopic spots on a solid surface, each containing a sample of DNA, proteins, or other molecules, used for high-throughput screening in genomics and proteomics to detect gene expression, mutations, or interactions.",
+      "chineseTranslation": "微阵列",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A technology that allows the simultaneous analysis of thousands of biological samples on a small chip, commonly applied in medical research and diagnostics.",
+      "chineseTranslation": "微阵列技术",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "DNA microarray",
+      "meaning": "DNA 微阵列，指用于检测基因表达的微阵列技术",
+      "example": "The DNA microarray was used to identify genetic variations in the patient sample.",
+      "exampleTranslation": "DNA 微阵列被用于识别患者样本中的遗传变异。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "protein microarray",
+      "meaning": "蛋白质微阵列，指用于分析蛋白质互作的微阵列技术",
+      "example": "Researchers analyzed the protein microarray to study antibody responses.",
+      "exampleTranslation": "研究人员分析了蛋白质微阵列以研究抗体反应。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists utilized a microarray to screen for cancer-related genes in the tissue samples.",
+      "translation": "科学家们使用微阵列来筛选组织样本中的癌症相关基因。",
+      "source": "Scientific journal (e.g., Nature Biotechnology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The microarray technology has revolutionized how we understand gene expression patterns.",
+      "translation": "微阵列技术彻底改变了我们理解基因表达模式的方式。",
+      "source": "Academic lecture notes",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a clinical setting, a microarray can quickly detect multiple pathogens in a blood sample.",
+      "translation": "在临床环境中，微阵列可以快速检测血样中的多种病原体。",
+      "source": "Medical research article (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语和希腊语",
+    "rootWords": [
+      {
+        "root": "micro-",
+        "meaning": "小，微小的",
+        "language": "希腊语（从希腊语 μικρός, mikros）"
+      },
+      {
+        "root": "array",
+        "meaning": "排列，阵列",
+        "language": "古法语（从古法语 arei，源自拉丁语 ad + riga）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪后期，随着基因组学和生物技术的发展而形成。'Micro-' 源自希腊语表示微小，结合'array' 表示结构化排列，反映了从传统显微镜技术到现代高通量筛查的演变过程。",
+    "firstKnownUse": "1990s",
+    "relatedWords": [
+      "microchip",
+      "bioarray",
+      "genomic array"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法，将词汇分解为'micro-'和'array'，结合认知科学中的双编码理论，通过视觉化一个微小的网格图来加强记忆；针对中文母语学习者，比较类似词汇如'芯片'以建立跨语言关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "biochip",
+        "similarity": "0.8",
+        "context": "在生物技术语境中，用于类似的高通量分析"
+      },
+      {
+        "word": "chip array",
+        "similarity": "0.7",
+        "context": "在实验室设备语境中，指代微型阵列系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "macroarray",
+        "context": "在规模较大的阵列技术语境中，用于对比微阵列"
+      }
+    ],
+    "hypernyms": [
+      "array",
+      "technology"
+    ],
+    "hyponyms": [
+      "DNA microarray",
+      "protein microarray"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + microarray (e.g., DNA microarray)",
+        "examples": [
+          "DNA microarray analysis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Microarray + verb (e.g., microarray detects)",
+        "examples": [
+          "The microarray detects mutations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词主要在科学和技术文化中象征现代生物医学创新，隐含语义涉及全球健康和遗传研究，但在中国文化中，可能与国家生物技术政策（如'健康中国'计划）相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业语境，如制药行业",
+        "usage": "在美国英语中，强调其在专利和商业应用中的角色"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重学术语境",
+        "usage": "在英国英语中，常出现在大学研究和科学出版物中"
+      }
+    ],
+    "historicalContext": "与20世纪90年代的人类基因组计划相关，反映了西方科学革命对中国等国家的影响，推动了全球生物技术合作。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科学传播语境，如Twitter上的研究分享或微信公众号的科普文章。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个微小的棋盘，每个格子代表DNA样本，就像一个缩小版的基因地图。",
+      "keyElements": [
+        "微小网格",
+        "DNA点阵"
+      ],
+      "emotionalConnection": "联结到个人健康经历，如家族遗传病检测，触发对科技进步的积极情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Microarray 像 'micro' 的阵列，就像手机屏幕的像素阵列。",
+        "explanation": "通过视觉联想将词汇与熟悉的科技产品连接，利用认知科学中的模式识别原理增强记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-Y (Micro Array You) – 想象自己使用这个技术。",
+        "explanation": "使用首字母缩略结合个人化叙事，促进长期记忆储存。"
+      }
+    ],
+    "wordAssociations": [
+      "chip",
+      "genome",
+      "array",
+      "scan"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "microarrays",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + microarray",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The microarray identifies genes."
+        ]
+      },
+      {
+        "pattern": "Microarray + of + noun",
+        "description": "表示所属或类型的结构",
+        "examples": [
+          "A microarray of DNA samples."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'micro array' as two words",
+        "correction": "Always use as one word: 'microarray'",
+        "explanation": "这是复合词，避免分离以保持技术术语的准确性。"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Restrict to scientific discussions",
+        "explanation": "针对中文母语学习者，易混淆为一般'微型阵列'，需强调语境。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15000 in COCA corpus",
+    "domains": [
+      "科技",
+      "生物学",
+      "医学"
+    ],
+    "tags": [
+      "生物技术",
+      "遗传学",
+      "高通量分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

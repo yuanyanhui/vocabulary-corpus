@@ -1,0 +1,232 @@
+{
+  "word": "cryptographer",
+  "phonetics": {
+    "british": "/krɪpˈtɒɡrəfər/",
+    "american": "/krɪpˈtɑːɡrəfər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A specialist in the field of cryptography, involving the creation and analysis of codes and ciphers for secure communication.",
+      "chineseTranslation": "密码学家",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chief cryptographer",
+      "meaning": "首席密码学家",
+      "example": "The chief cryptographer oversees the encryption protocols for the agency.",
+      "exampleTranslation": "首席密码学家监督该机构的加密协议。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "quantum cryptographer",
+      "meaning": "量子密码学家",
+      "example": "A quantum cryptographer is developing unbreakable codes using advanced physics.",
+      "exampleTranslation": "一位量子密码学家正在使用先进物理学开发牢不可破的密码。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The cryptographer successfully decrypted the enemy's secret messages during the war.",
+      "translation": "密码学家在战争期间成功破译了敌人的秘密信息。",
+      "source": "Historical account (e.g., World War II narratives)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern cybersecurity, a cryptographer designs algorithms to protect online transactions.",
+      "translation": "在现代网络安全中，密码学家设计算法来保护在线交易。",
+      "source": "Technical article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a cryptographer, she spends hours analyzing complex ciphers in her lab.",
+      "translation": "作为一名密码学家，她在实验室里花费数小时分析复杂的密码。",
+      "source": "Fiction (e.g., spy novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "kryptos",
+        "meaning": "hidden",
+        "language": "Greek"
+      },
+      {
+        "root": "graphein",
+        "meaning": "to write",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'kryptos'（隐藏）和 'graphein'（书写），最初用于描述秘密写作的技术。该词在19世纪随着密码学作为正式学科的发展而演变，扩展到现代加密和解密实践。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "cryptography",
+      "cryptologist",
+      "encryption"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用视觉化和情节记忆：将词汇与间谍电影场景关联，以强化语义网络；通过重复练习发音，运用间隔重复法来提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "codebreaker",
+        "similarity": "0.8",
+        "context": "在军事或情报语境中，常用于描述类似角色"
+      },
+      {
+        "word": "cipher expert",
+        "similarity": "0.7",
+        "context": "在技术或学术语境中，强调密码处理的专业性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "plaintext writer",
+        "context": "在加密语境中，指公开或非加密内容创建者，但使用较少"
+      }
+    ],
+    "hypernyms": [
+      "scientist",
+      "specialist"
+    ],
+    "hyponyms": [
+      "quantum cryptographer",
+      "military cryptographer"
+    ],
+    "collocations": [
+      {
+        "pattern": "computer cryptographer",
+        "examples": [
+          "a skilled computer cryptographer"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "government cryptographer",
+        "examples": [
+          "the government's top cryptographer"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着情报和国家安全的隐秘领域，常与英雄主义或道德困境相关联，如在冷战时期。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More emphasis on technology and cybersecurity",
+        "usage": "在美国，常用于科技行业，如硅谷的加密专家"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Historical ties to wartime efforts",
+        "usage": "在英国，经常与二战图灵等历史人物联系"
+      }
+    ],
+    "historicalContext": "与二战和冷战情报工作相关，体现出科技与社会安全的交叉，如英国的Bletchley Park。",
+    "modernUsage": "在社交媒体和数字时代，常见于区块链和隐私讨论中，反映出对数据保护的全球关注"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一位身处黑暗房间的专家，手持神秘代码和锁具，正在破解秘密。",
+      "keyElements": [
+        "代码",
+        "锁具",
+        "秘密"
+      ],
+      "emotionalConnection": "联结个人对探险或谜题的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Crypto like hidden treasure, grapher like a writer of secrets",
+        "explanation": "通过联想'crypto'为隐藏宝藏，'grapher'为秘密书写者，运用认知联想原则强化词汇记忆"
+      },
+      {
+        "type": "acronym",
+        "content": "C-R-Y-P-T-O: Code, Reveal, You, Protect, To, Operate",
+        "explanation": "创建首字母缩略词以分解词汇，基于认知科学的分块记忆策略"
+      }
+    ],
+    "wordAssociations": [
+      "encryption",
+      "decryption",
+      "security",
+      "mystery"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cryptographers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "作为主语使用在句子中",
+        "examples": [
+          "The cryptographer solves complex problems."
+        ]
+      },
+      {
+        "pattern": "In + noun phrase",
+        "description": "用于描述职业或角色",
+        "examples": [
+          "In the field of cryptography, a cryptographer is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'cryptologist'",
+        "correction": "Use 'cryptographer' for practitioners and 'cryptologist' for theorists",
+        "explanation": "二者虽相关，但前者强调实际应用，后者更侧重研究"
+      },
+      {
+        "mistake": "Mispronouncing as /krip-to-gra-fer/",
+        "correction": "Correct to /krɪpˈtɒɡrəfər/",
+        "explanation": "发音错误可能源于词根不熟悉，需练习音节"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Security",
+      "Military"
+    ],
+    "tags": [
+      "computing",
+      "mathematics",
+      "espionage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

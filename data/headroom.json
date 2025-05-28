@@ -1,0 +1,272 @@
+{
+  "word": "headroom",
+  "phonetics": {
+    "british": "/ˈhɛdruːm/",
+    "american": "/ˈhɛdrum/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The space above someone's head, especially in a vehicle or building, allowing for movement or clearance.",
+      "chineseTranslation": "头顶空间或净空高度",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In audio or electronics, the amount by which a signal can be increased before distortion occurs; extra capacity in a system.",
+      "chineseTranslation": "在音频或电子设备中，指信号可增加的幅度以避免失真；系统的额外容量",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Figuratively, the potential for growth, improvement, or additional resources in a given situation.",
+      "chineseTranslation": "比喻性地，指某情境中的增长潜力、改善空间或额外资源",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "headroom in a car",
+      "meaning": "汽车内部的头顶空间",
+      "example": "The new model offers more headroom in a car for taller passengers.",
+      "exampleTranslation": "这款新车型为高个子乘客提供了更多的汽车头顶空间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "audio headroom",
+      "meaning": "音频设备的额外容量",
+      "example": "Engineers must ensure sufficient audio headroom to prevent clipping.",
+      "exampleTranslation": "工程师必须确保足够的音频额外容量来防止信号失真。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "financial headroom",
+      "meaning": "财务上的增长空间",
+      "example": "The company has some financial headroom to invest in new projects.",
+      "exampleTranslation": "公司有一些财务增长空间来投资新项目。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "When designing the attic, architects considered the headroom for storage.",
+      "translation": "在设计阁楼时，建筑师考虑了用于存储的头顶空间。",
+      "source": "Architectural literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In professional audio mixing, maintaining headroom is crucial to avoid distortion.",
+      "translation": "在专业音频混音中，保持额外容量至关重要，以避免失真。",
+      "source": "Technical manuals, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The economy has some headroom for growth despite recent challenges.",
+      "translation": "尽管最近面临挑战，经济仍有某些增长空间。",
+      "source": "News articles, e.g., from BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Drivers in low-clearance tunnels must be aware of headroom limitations.",
+      "translation": "在低净空隧道中，驾驶员必须注意头顶空间限制。",
+      "source": "Traffic safety guidelines",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "head",
+        "meaning": "The upper part of the body containing the brain, or metaphorically, the foremost part",
+        "language": "Old English (from Proto-Germanic *haubudaz)"
+      },
+      {
+        "root": "room",
+        "meaning": "Space or area available for something",
+        "language": "Old English (from Proto-Germanic *rūmą)"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的组合词，最初指物理空间如房屋内的头部空间；17世纪开始扩展到比喻意义，如在技术领域；现代英语中，词义演变为包括抽象的增长潜力，受工业革命和科技进步的影响。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "headspace",
+      "clearance",
+      "capacity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人经验关联，例如想象汽车内部空间来记忆物理含义；使用间隔重复法复习抽象用法，以强化长期记忆；结合视觉辅助工具如图表来区分不同语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "clearance",
+        "similarity": "0.8",
+        "context": "适用于物理空间语境，如建筑或交通"
+      },
+      {
+        "word": "capacity",
+        "similarity": "0.7",
+        "context": "适用于技术或抽象语境，如音频设备"
+      },
+      {
+        "word": "leeway",
+        "similarity": "0.6",
+        "context": "适用于比喻性语境，如财务或决策"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "restriction",
+        "context": "在物理空间语境中，表示空间限制"
+      },
+      {
+        "word": "limitation",
+        "context": "在抽象语境中，表示增长潜力受限"
+      }
+    ],
+    "hypernyms": [
+      "space",
+      "capacity"
+    ],
+    "hyponyms": [
+      "vertical clearance",
+      "audio margin"
+    ],
+    "collocations": [
+      {
+        "pattern": "headroom in [context]",
+        "examples": [
+          "headroom in a vehicle",
+          "headroom in audio systems"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "provide/enhance headroom",
+        "examples": [
+          "The upgrade will enhance headroom for better performance"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征自由和潜力，尤其在汽车文化和科技领域，体现了对个人空间和创新的重视；在跨文化语境中，中国学习者可能将之与'空间'或'余地'概念关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如音频设备",
+        "usage": "在美国英语中，常见于日常对话和专业手册中"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向物理空间含义，如建筑设计",
+        "usage": "在英国英语中，常与历史建筑或交通规则相关"
+      }
+    ],
+    "historicalContext": "与工业革命相关的，最初用于描述机械和建筑空间；19世纪文学中如狄更斯的作品中隐含社会阶层与空间的比喻；在现代社会中，与消费主义和科技进步关联。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于汽车评论或科技讨论中，反映当代生活对舒适度和效率的追求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人在汽车中抬头看天花板，周围有足够的空间。",
+      "keyElements": [
+        "汽车内部",
+        "抬头动作",
+        "空间概念"
+      ],
+      "emotionalConnection": "联结到个人驾驶经验或对自由空间的渴望，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Headroom 像 'head' + 'room'，想象头部（head）需要一个房间（room）来呼吸。",
+        "explanation": "通过视觉联想帮助建立词汇与图像的连接，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈhɛdrum/ 听起来像 'head drum'，想象一个鼓在头上敲击，提醒空间需求。",
+        "explanation": "利用声音与视觉的联结，促进多模态记忆"
+      }
+    ],
+    "wordAssociations": [
+      "space",
+      "clearance",
+      "margin",
+      "potential"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "headrooms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + headroom + [prepositional phrase]",
+        "description": "典型结构为限定词加 headroom 再加介词短语，用于描述具体语境。",
+        "examples": [
+          "The headroom in this room is adequate."
+        ]
+      },
+      {
+        "pattern": "In metaphorical use: headroom for [noun]",
+        "description": "用于比喻性表达，强调潜力或空间。",
+        "examples": [
+          "There is headroom for improvement in the project."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'headspace' (mental state)",
+        "correction": "Use 'headroom' for physical or capacity space",
+        "explanation": "headspace 指心理空间，而 headroom 指物理或抽象容量，避免混淆语义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'headrooms' for multiple instances",
+        "explanation": "作为可数名词，在需要时添加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，根据 COCA 语料库，排名约中层（年频次 500-1000 次）",
+    "domains": [
+      "汽车",
+      "技术",
+      "建筑",
+      "商业"
+    ],
+    "tags": [
+      "空间概念",
+      "技术术语",
+      "比喻表达"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "word": "lock",
+  "phonetics": {
+    "british": "/lɒk/",
+    "american": "/lɑk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used for fastening or securing something, such as a door or container, typically requiring a key or combination to open.",
+      "chineseTranslation": "锁",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fasten or secure something with a lock, or to become fixed or immovable.",
+      "chineseTranslation": "锁上；固定",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mechanism in a canal that raises or lowers boats between different water levels.",
+      "chineseTranslation": "船闸",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to prevent access to a file or resource.",
+      "chineseTranslation": "锁定（如文件或资源）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lock up",
+      "meaning": "锁起来或关押",
+      "example": "Please lock up the house before you leave.",
+      "exampleTranslation": "请在离开前锁好房子。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "pick a lock",
+      "meaning": "撬开锁",
+      "example": "In the movie, the thief managed to pick a lock in seconds.",
+      "exampleTranslation": "在电影中，小偷几秒钟就撬开了锁。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lock in",
+      "meaning": "锁定或 trapped inside",
+      "example": "The deal will lock in the price for the next year.",
+      "exampleTranslation": "这笔交易将锁定明年的价格。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She turned the key and heard the lock click shut.",
+      "translation": "她转动钥匙，听见锁咔嗒一声关上了。",
+      "source": "Modern fiction",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company decided to lock the sensitive data to prevent unauthorized access.",
+      "translation": "公司决定锁定敏感数据以防止未经授权的访问。",
+      "source": "Business news (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The boat passed through the lock on the canal smoothly.",
+      "translation": "船顺利通过了运河上的船闸。",
+      "source": "Travel literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He forgot to lock his bike, and it was stolen.",
+      "translation": "他忘了锁自行车，结果它被偷了。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "loc",
+        "meaning": "enclosure or fastening",
+        "language": "Old English"
+      },
+      {
+        "root": "*luk-",
+        "meaning": "to close or shut",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'loc'，意为封闭物或门闩，进一步追溯到原始日耳曼语 '*luk-'，表示关闭或固定。随着时间推移，该词扩展到现代英语中，不仅指物理锁具，还包括比喻意义如数字锁定，反映了从中世纪安全工具到当代技术的演变。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "block",
+      "clock",
+      "flock"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用重复曝光和间隔重复法来记忆多义词；例如，将 'lock' 与视觉图像（如钥匙插入门锁）关联，以强化语义网络。",
+      "针对中级学习者，建议通过语境学习避免混淆多义性，使用双语对照法建立词汇桥接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bolt",
+        "similarity": "0.8",
+        "context": "在安全和固定语境中适用，例如门窗加固"
+      },
+      {
+        "word": "fasten",
+        "similarity": "0.7",
+        "context": "作为动词时，用于一般固定动作"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unlock",
+        "context": "在安全语境中，表示打开或释放"
+      },
+      {
+        "word": "open",
+        "context": "在物理或比喻语境中，表示解除固定"
+      }
+    ],
+    "hypernyms": [
+      "mechanism",
+      "device"
+    ],
+    "hyponyms": [
+      "padlock",
+      "deadbolt"
+    ],
+    "collocations": [
+      {
+        "pattern": "lock + noun (e.g., lock the door)",
+        "examples": [
+          "Lock the door before leaving."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + lock (e.g., pick a lock)",
+        "examples": [
+          "Thieves often pick a lock."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'lock' 象征安全、隐私和所有权，常与个人财产保护相关；在现代社会，它也隐含数字时代的数据安全隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史语境，如运河船闸",
+        "usage": "在英国英语中，'lock' 可能强调传统建筑安全"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于日常和科技应用，如汽车锁或软件锁定",
+        "usage": "在美国英语中，'lock' 在非正式语境中更常见"
+      }
+    ],
+    "historicalContext": "在中世纪欧洲，锁具与封建社会的安全制度相关；文学作品如莎士比亚的戏剧中，'lock' 常比喻情感或秘密的封存。",
+    "modernUsage": "在社交媒体和数字平台上，'lock' 用于讨论隐私设置，如社交应用中的账户锁定，反映了全球化背景下对数据保护的关注"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙插入门锁的场景，门锁代表安全和封闭。",
+      "keyElements": [
+        "钥匙",
+        "门锁",
+        "安全图标"
+      ],
+      "emotionalConnection": "联结个人经验，如童年锁门的安全感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Lock sounds like 'luck' – think of locking away bad luck for good fortune.",
+        "explanation": "通过声音联想帮助记忆，结合认知科学中的双编码理论，使用图像和声音增强词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "L-O-C-K: Lock Out Criminals Quickly.",
+        "explanation": "使用首字母缩略法创建故事，辅助中级学习者构建语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "key",
+      "secure",
+      "block"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "locks",
+      "pastTense": "locked",
+      "pastParticiple": "locked",
+      "presentParticiple": "locking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., She locks the door)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令或叙述性句子",
+        "examples": [
+          "He locks his car every night."
+        ]
+      },
+      {
+        "pattern": "Phrasal verb structure (e.g., lock up)",
+        "description": "短语动词结构，表示额外动作",
+        "examples": [
+          "They lock up the store at 9 PM."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'lock' without preposition when needed (e.g., 'lock the door up' instead of 'lock up the door')",
+        "correction": "lock up the door",
+        "explanation": "短语动词的词序错误；中级学习者需注意英语中固定搭配"
+      },
+      {
+        "mistake": "Confusing with similar words like 'block'",
+        "correction": "Use 'lock' for securing mechanisms",
+        "explanation": "语义混淆可能源于词汇相似度；建议通过语境练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "科技",
+      "商业"
+    ],
+    "tags": [
+      "安全",
+      "工具",
+      "数字技术"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

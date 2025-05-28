@@ -1,0 +1,257 @@
+{
+  "word": "connect",
+  "phonetics": {
+    "british": "/kəˈnɛkt/",
+    "american": "/kəˈnɛkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to join or link two or more things together, either physically or abstractly",
+      "chineseTranslation": "连接",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a means of establishing a link or relationship, often in a technical or digital context",
+      "chineseTranslation": "连接",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "connect to",
+      "meaning": "连接到某物",
+      "example": "Please connect your device to the network.",
+      "exampleTranslation": "请将您的设备连接到网络。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "connect with",
+      "meaning": "与某人或某事建立联系",
+      "example": "She likes to connect with old friends on social media.",
+      "exampleTranslation": "她喜欢在社交媒体上与老朋友建立联系。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "stay connected",
+      "meaning": "保持连接状态",
+      "example": "In today's world, we need to stay connected at all times.",
+      "exampleTranslation": "在当今世界，我们需要随时保持连接。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer used wires to connect the circuit board.",
+      "translation": "工程师用电线连接电路板。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media helps people connect with others across the globe.",
+      "translation": "社交媒体帮助人们与全球各地的人建立联系。",
+      "source": "Modern news article (e.g., from BBC or New York Times)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The story connects the characters in unexpected ways.",
+      "translation": "这个故事以意想不到的方式连接人物。",
+      "source": "Literary work (e.g., from British National Corpus, BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "nectere",
+        "meaning": "to bind or tie",
+        "language": "拉丁语"
+      },
+      {
+        "root": "con-",
+        "meaning": "together or with",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'connectere'，意为 'together bind'，经由古法语 'connecter' 演变为中古英语，并在15世纪进入现代英语，主要用于表示物理或抽象的连接，随着科技发展，该词在数字和社交语境中的含义逐步扩展",
+    "firstKnownUse": "15世纪",
+    "relatedWords": [
+      "connection",
+      "disconnect",
+      "network"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先从基本动词含义入手，建立视觉联想（如想象连接电线），然后扩展到抽象语境；通过间隔重复系统（如Anki）强化高频短语，避免混淆同源词"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "link",
+        "similarity": "0.8",
+        "context": "适用于技术或抽象连接语境，如 'link devices' 表示设备连接"
+      },
+      {
+        "word": "join",
+        "similarity": "0.7",
+        "context": "适用于物理连接语境，如 'join two pieces of wood'"
+      },
+      {
+        "word": "attach",
+        "similarity": "0.6",
+        "context": "适用于固定或添加语境，如 'attach a file'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disconnect",
+        "context": "适用于中断连接语境，如在技术领域 'disconnect from the internet'"
+      },
+      {
+        "word": "separate",
+        "context": "适用于分隔语境，如在社会互动中 'separate from friends'"
+      }
+    ],
+    "hypernyms": [
+      "join"
+    ],
+    "hyponyms": [
+      "plug in",
+      "link up"
+    ],
+    "collocations": [
+      {
+        "pattern": "connect + preposition (e.g., to, with)",
+        "examples": [
+          "connect to the server",
+          "connect with people"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + connect (e.g., stay connected)",
+        "examples": [
+          "stay connected"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，该词象征着全球化和社交互动，常隐含快速沟通的积极含义，但在某些文化中（如隐私强调的文化）可能涉及负面联想，如过度连接导致的孤立",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技语境，如 'connect via app'",
+        "usage": "在美国英语中，强调即时性和移动性，例如在社交媒体平台上"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，使用于历史或文学语境，如 'connect ideas'",
+        "usage": "在英国英语中，偏向抽象或传统表达，避免过于口语化"
+      }
+    ],
+    "historicalContext": "与工业革命和现代通信技术相关，如电报和互联网的发明扩展了其含义，在文学如狄更斯的作品中象征社会联系",
+    "modernUsage": "在社交媒体和在线平台中流行，如 TikTok 或 Twitter 上 'connect with followers'，反映了全球化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一根电线将两个物体（如手机和路由器）连接起来，代表物理和抽象联系",
+      "keyElements": [
+        "电线",
+        "链接图标",
+        "社交网络图"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆与朋友在线聊天，触发积极社交情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'connect' 联想为 'con-nect'，其中 'con' 像 'together'，'nect' 像 'neck'（脖子），想象脖子将身体部分连接在一起",
+        "explanation": "通过视觉和身体联想帮助记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kəˈnɛkt/ 听起来像 'knot'（结），想象打结来连接东西",
+        "explanation": "利用声音相似性强化听觉记忆，符合多感官学习模式"
+      }
+    ],
+    "wordAssociations": [
+      "link",
+      "network",
+      "join"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "connected",
+      "pastParticiple": "connected",
+      "presentParticiple": "connecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + connect + object + preposition",
+        "description": "主语 + 连接 + 宾语 + 介词结构，常用于表示方向或关系",
+        "examples": [
+          "I connect my laptop to the printer."
+        ]
+      },
+      {
+        "pattern": "connect + with + noun",
+        "description": "连接 + 与 + 名词结构，用于抽象关系",
+        "examples": [
+          "We connect with each other emotionally."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'connect' without a preposition when needed",
+        "correction": "Add the appropriate preposition, e.g., 'connect to'",
+        "explanation": "初级学习者常遗漏介词，导致句子不完整"
+      },
+      {
+        "mistake": "Confusing with 'connected' as an adjective",
+        "correction": "Use 'connected' for state, e.g., 'I am connected'",
+        "explanation": "区分动词和形容词形式，以避免语义混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "高频，COCA 语料库中排名前 1000",
+    "domains": [
+      "科技",
+      "文化",
+      "商业",
+      "社交"
+    ],
+    "tags": [
+      "动词",
+      "连接",
+      "数字通信",
+      "关系"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

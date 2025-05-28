@@ -1,0 +1,244 @@
+{
+  "word": "infix",
+  "phonetics": {
+    "british": "/ˈɪn.fɪks/",
+    "american": "/ˈɪn.fɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A morpheme that is inserted into the middle of a word to modify its meaning or form, commonly found in some languages like Tagalog or Indonesian.",
+      "chineseTranslation": "插入词缀",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To add an infix to a word, typically in linguistic or computational contexts.",
+      "chineseTranslation": "插入词缀于词中",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "infix notation",
+      "meaning": "中缀表示法，常用于数学和计算机科学中，表示操作符置于操作数之间",
+      "example": "In programming, infix notation is used for expressions like 2 + 3.",
+      "exampleTranslation": "在编程中，中缀表示法用于像2 + 3这样的表达式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "infix morpheme",
+      "meaning": "插入词缀形态，语言学中指嵌入词根内部的词素",
+      "example": "In Tagalog, the infix morpheme '-um-' changes the verb form.",
+      "exampleTranslation": "在塔加路语中，插入词缀 '-um-' 会改变动词形式。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In linguistic studies, an infix is a type of affix that alters the root word's structure, as seen in 'abs-olutely' in some analyses.",
+      "translation": "在语言学研究中，插入词缀是一种改变词根结构的词缀，如在某些分析中出现的'abs-olutely'。",
+      "source": "Linguistic textbooks, e.g., from sources like the Oxford English Dictionary (OED)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often prefer infix notation for readability, such as in the expression a + b * c.",
+      "translation": "程序员通常偏好中缀表示法以提高可读性，例如在表达式 a + b * c 中。",
+      "source": "Computer science corpora, e.g., COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The Tagalog word 'bumili' includes an infix that indicates the actor's role in the action.",
+      "translation": "塔加路语单词 'bumili' 包含一个插入词缀，表示动作执行者的角色。",
+      "source": "Cross-cultural language studies, e.g., BNC (British National Corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "in, into",
+        "language": "Latin"
+      },
+      {
+        "root": "fixus",
+        "meaning": "fastened or fixed",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'in-'（意为 'in' 或 'into'）与 'fixus'（意为 'fastened'）的组合，通过中世纪拉丁语演变为英语词汇，首先用于描述固定或插入的概念，后来在19世纪的语言学中扩展到词法分析中。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "prefix",
+      "suffix",
+      "affix"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将 'infix' 与其他词缀类型（如 prefix 和 suffix）进行分组记忆，以减少认知负荷；结合视觉图示展示词根和词缀的位置，帮助建立空间关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "interfix",
+        "similarity": "0.7",
+        "context": "在某些语言学语境中，用于描述类似插入词缀的结构，但适用性较窄"
+      },
+      {
+        "word": "medial affix",
+        "similarity": "0.8",
+        "context": "在技术性讨论中，指位于词中间的词缀，与 'infix' 高度相关"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prefix",
+        "context": "与 'infix' 相对，指添加到词首的词缀，常用于词汇构建的对比分析"
+      },
+      {
+        "word": "suffix",
+        "context": "作为 'infix' 的反义，指添加到词尾的词缀，在语法学习中常用作区分"
+      }
+    ],
+    "hypernyms": [
+      "affix"
+    ],
+    "hyponyms": [
+      "Tagalog infix",
+      "Indonesian infix"
+    ],
+    "collocations": [
+      {
+        "pattern": "infix + noun (e.g., infix notation)",
+        "examples": [
+          "infix expression",
+          "infix morpheme"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + infix (e.g., to infix a word)",
+        "examples": [
+          "apply an infix"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方语言学中象征结构主义分析的工具，常隐含对非欧洲语言（如东南亚语系）的跨文化理解，例如在Tagalog语中，infix反映了社会互动和语用功能。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于理论语言学语境",
+        "usage": "在英国学术环境中，常用于正式教育和研究报告中"
+      },
+      {
+        "region": "United States",
+        "variation": "更常与计算机科学结合",
+        "usage": "在美国，infix常在编程和认知语言学中出现，强调实际应用"
+      }
+    ],
+    "historicalContext": "与19世纪语言学革命相关，源于欧洲殖民时代对非西方语言的分析，如在Franz Bopp和Max Müller的作品中，infix突显了文化多样性。",
+    "modernUsage": "在社交媒体和在线教育中，infix的讨论趋势增加，尤其在语言学习App和AI聊天机器人中，用于解释全球语言差异"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个词如 'insert'，其中 'in-' 被视为插入词根的 'fix'，就像把一个钉子（fix）钉入（in）单词的中间。",
+      "keyElements": [
+        "钉子",
+        "插入动作",
+        "词根结构"
+      ],
+      "emotionalConnection": "联结到个人经验，如拼图游戏中插入片段，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Infix 像 'in' the 'fix' – 想象修复（fix）东西时需要从内部插入（in）。",
+        "explanation": "通过视觉联想强化空间位置，帮助初级学习者避免混淆词缀类型"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈɪn.fɪks/ 听起来像 'in' + 'fix'，联想到 'in a fix'（陷入困境），暗示词缀的 '固定' 位置。",
+        "explanation": "利用声音与含义的联觉，基于认知科学中的双编码理论，提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "affix",
+      "prefix",
+      "suffix",
+      "morpheme"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "infices or infixes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase structure",
+        "description": "作为名词时，常置于句子主语或宾语位置，描述语言元素",
+        "examples": [
+          "The infix changes the word's meaning."
+        ]
+      },
+      {
+        "pattern": "Verb-object structure",
+        "description": "作为动词时，遵循 'to infix + object' 模式",
+        "examples": [
+          "Linguists infix morphemes in analysis."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing infix with prefix",
+        "correction": "Use infix only for middle insertions",
+        "explanation": "许多学习者混淆位置；通过图表区分可避免错误"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɪnˈfɪks/",
+        "correction": "Pronounce as /ˈɪn.fɪks/ with stress on the first syllable",
+        "explanation": "强调重音位置有助于非母语者改进口语"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "Linguistics",
+      "Computer Science",
+      "Education"
+    ],
+    "tags": [
+      "Morphology",
+      "Affixation",
+      "Syntax"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

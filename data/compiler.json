@@ -1,0 +1,237 @@
+{
+  "word": "compiler",
+  "phonetics": {
+    "british": "/kəmˈpaɪlə/",
+    "american": "/kəmˈpaɪlər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A computer program that translates source code written in a high-level programming language into machine code or another lower-level form that can be executed by a computer.",
+      "chineseTranslation": "编译器",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who compiles information, such as in publishing or data collection.",
+      "chineseTranslation": "汇编者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "compiler error",
+      "meaning": "编译错误",
+      "example": "The compiler error prevented the program from building successfully.",
+      "exampleTranslation": "编译错误阻止了程序的成功构建。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "just-in-time compiler",
+      "meaning": "即时编译器",
+      "example": "A just-in-time compiler improves the performance of interpreted languages.",
+      "exampleTranslation": "即时编译器提高了解释型语言的性能。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Programmers rely on a compiler to convert their code into executable files.",
+      "translation": "程序员依赖编译器将他们的代码转换为可执行文件。",
+      "source": "Technical documentation, e.g., from software engineering texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the early days of computing, a compiler was essential for translating complex algorithms.",
+      "translation": "在计算机早期，一个编译器对于翻译复杂算法是必不可少的。",
+      "source": "Historical computing literature, e.g., from ACM publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The software team fixed the compiler issue to ensure smooth deployment.",
+      "translation": "软件团队修复了编译器问题以确保顺利部署。",
+      "source": "Modern tech news, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "compilare",
+        "meaning": "to heap up or pile together",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'compilare'，意为堆积或收集，演变为古法语 'compiler'，指汇编信息。17世纪进入英语，最初指收集和编纂文本，如书籍。到20世纪中叶，在计算机科学中演变为指翻译编程代码的程序，这一转变反映了技术领域的语言适应。",
+    "firstKnownUse": "1650s (in general sense); 1950s (in computing context)",
+    "relatedWords": [
+      "compile",
+      "compilation",
+      "compiler directive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'compiler' 与编程过程关联，例如想象代码块如积木被堆积；使用重复暴露（spaced repetition）在不同上下文中复习，以强化语义记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "interpreter",
+        "similarity": "0.7",
+        "context": "在编程中，适用于实时执行代码的场景，但不如编译器直接翻译为机器码"
+      },
+      {
+        "word": "translator",
+        "similarity": "0.6",
+        "context": "泛指任何转换语言或代码的工具，尤其在技术语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "interpreter",
+        "context": "在执行方式上，编译器预先翻译代码，而解释器实时执行，因此在效率和用途上形成对比"
+      }
+    ],
+    "hypernyms": [
+      "software",
+      "program"
+    ],
+    "hyponyms": [
+      "C compiler",
+      "Java compiler"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + compiler",
+        "examples": [
+          "use a compiler",
+          "run the compiler"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "compiler + noun",
+        "examples": [
+          "compiler error",
+          "compiler optimization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在技术文化中，该词象征着编程和软件开发的基石，隐含效率和精确性的隐喻，常与创新和数字时代关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于软件工程的日常语境",
+        "usage": "在美国英语中，强调实际应用，如在硅谷文化中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式的使用",
+        "usage": "在英国英语中，常见于学术或历史语境中"
+      }
+    ],
+    "historicalContext": "与计算机革命相关，起源于1950年代的早期编程语言发展，如FORTRAN的编译器，体现了工业革命后的技术进步。",
+    "modernUsage": "在社交媒体和在线社区中，如GitHub或Stack Overflow，经常讨论编译器的优化趋势，反映了全球数字化转型。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂场景，其中工人（代表编译器）将杂乱的原料（源代码）堆积成整齐的产品（机器码）。",
+      "keyElements": [
+        "工厂",
+        "堆积",
+        "产品"
+      ],
+      "emotionalConnection": "联结个人编程经历的挫败感，如修复编译错误时的成就感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'compiler' 联想为 'com-pile-er'，如 'com' 为组合，'pile' 为堆积，'er' 为工具。",
+        "explanation": "通过声音和视觉联想，基于认知联想原理，帮助记忆词汇的语义结构。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-M-P-I-L-E-R: Code Organizer for Machine Processing In Live Execution Routine.",
+        "explanation": "使用首字母缩略词创建故事，运用认知科学中的叙事记忆技巧。"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "program",
+      "debug",
+      "execute"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "compilers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + compiler",
+        "description": "作为主语或宾语出现，常用于描述工具的作用",
+        "examples": [
+          "The compiler processes the code."
+        ]
+      },
+      {
+        "pattern": "Compiler + verb phrase",
+        "description": "强调编译器的动作",
+        "examples": [
+          "Compiler generates executable files."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'compiler' with 'computer'",
+        "correction": "Use 'compiler' for the specific program",
+        "explanation": "由于发音相似，初级学习者可能混淆；通过上下文区分以避免错误。"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Reserve for technical use",
+        "explanation": "在非技术语境中，可能错误泛化；理解语域以提高准确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10% in COCA for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "software development"
+    ],
+    "tags": [
+      "programming",
+      "computer science",
+      "tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

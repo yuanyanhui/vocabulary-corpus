@@ -1,0 +1,267 @@
+{
+  "word": "wire",
+  "phonetics": {
+    "british": "/waɪə(r)/",
+    "american": "/waɪr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thin, flexible strand or rod of metal, often used for electrical conduction, fencing, or as a structural element.",
+      "chineseTranslation": "金属丝、电线或细金属线",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A telegram or message sent by telegraph.",
+      "chineseTranslation": "电报",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To equip with wires for electrical or communication purposes; or to send a telegram.",
+      "chineseTranslation": "用线连接或发送电报",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To install or connect using wires, as in electronics or surveillance.",
+      "chineseTranslation": "布线或连线",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wire transfer",
+      "meaning": "电汇",
+      "example": "I completed a wire transfer to pay for the international shipment.",
+      "exampleTranslation": "我完成了电汇来支付国际货运费用。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "live wire",
+      "meaning": "带电的电线或精力充沛的人",
+      "example": "Be careful with that live wire; it could cause an electric shock.",
+      "exampleTranslation": "小心那个带电的电线；它可能导致电击。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "under the wire",
+      "meaning": "在截止期限前勉强完成",
+      "example": "We finished the project under the wire, just before the deadline.",
+      "exampleTranslation": "我们勉强在截止期限前完成了项目。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mechanic used a wire to fix the broken connection in the car engine.",
+      "translation": "机械师用一根线修复了汽车引擎的断开连接。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the old days, people would wire messages across the country using telegraphs.",
+      "translation": "在过去，人们使用电报发送消息横跨全国。",
+      "source": "Historical literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to wire the money directly to her family's account for safety.",
+      "translation": "她决定直接电汇钱到家人的账户以确保安全。",
+      "source": "Modern news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The artist incorporated colorful wires into her sculpture for an innovative effect.",
+      "translation": "这位艺术家将彩色线融入她的雕塑中，创造出创新效果。",
+      "source": "Art review",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "wir",
+        "meaning": "A flexible thread of metal",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'wir'，意为柔软的金属线，早 period 用于指代编织或金属制品。随着科技发展，在中世纪演变为电报和通信相关含义，19 世纪工业革命后扩展到电气用途，现代则包括数字通信。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "wiry",
+      "wireless",
+      "wiring"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学中的重复间隔学习法，将 'wire' 与日常生活物件（如电线）关联；通过视觉图像记忆，将其与 'wireframe' 的网络设计概念结合，以增强语境记忆；为中文母语学习者，建议通过对比 'wire' 和 '线' 的异同，避免翻译干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cable",
+        "similarity": "0.8",
+        "context": "在电气或通信语境中，用于传输电能或信号"
+      },
+      {
+        "word": "thread",
+        "similarity": "0.6",
+        "context": "泛指细长物体，如金属线在工艺中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wireless",
+        "context": "在通信领域，指无线传输而非有线连接"
+      },
+      {
+        "word": "cordless",
+        "context": "在设备使用中，指无线的替代方案"
+      }
+    ],
+    "hypernyms": [
+      "conductor",
+      "strand"
+    ],
+    "hyponyms": [
+      "telephone wire",
+      "barbed wire"
+    ],
+    "collocations": [
+      {
+        "pattern": "wire + noun (e.g., wire frame)",
+        "examples": [
+          "a wire frame for 3D modeling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + wire (e.g., install wire)",
+        "examples": [
+          "They installed wire in the new building."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'wire' 象征工业化和现代通信革命，如电报的发明推动了全球连接；在中国文化中，类似概念可能联想到 '线'，代表联系或命运的隐喻，但在跨文化语境中，常用于科技和社会变革的比喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于金融语境，如 'wire transfer' 在日常商业中流行",
+        "usage": "在美国英语中，'wire' 强调即时性和技术性，例如在银行业务中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向历史语境，如电报的遗产",
+        "usage": "在英国英语中，'wire' 常与传统工业关联，但在现代使用中趋于中性"
+      }
+    ],
+    "historicalContext": "与 19 世纪的电报发明和工业革命相关，文学作品如狄更斯的著作中出现，反映社会变革；在当代，中国文化中类似词汇用于互联网时代，象征数字化连接。",
+    "modernUsage": "在社交媒体和科技语境下流行，如 'wiring money' 在在线支付中；在全球语境中，'wire' 代表全球化经济，但需注意隐私和安全问题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一根蜿蜒的金属线连接两个城市，代表通信和能量传输。",
+      "keyElements": [
+        "金属线",
+        "连接",
+        "能量"
+      ],
+      "emotionalConnection": "联结到个人经历，如使用电线修理家用电器，触发成就感或好奇心。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'wire' 联想为 'why are' 的发音相似，想象 'why are wires everywhere?' 来强化记忆。",
+        "explanation": "通过声音联觉和问题式联想，增强词汇在脑中的视觉和听觉路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "W-I-R-E: Wire Is Really Essential.",
+        "explanation": "使用首字母缩略法结合实际功能，帮助构建叙事记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "cable",
+      "network",
+      "connect"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "wires",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "wiring",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + wire + [modifier]",
+        "description": "名词短语结构，常用于描述具体物体",
+        "examples": [
+          "The thin wire broke easily."
+        ]
+      },
+      {
+        "pattern": "Verb + object: [Subject] + wire + [object]",
+        "description": "动词结构，用于动作描述",
+        "examples": [
+          "They wired the house for security."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'wire' with 'weir' (a dam)",
+        "correction": "Use 'wire' for metal strands and 'weir' for water barriers.",
+        "explanation": "发音相似可能导致混淆，通过语境区分。"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'wired' for past.",
+        "explanation": "中文母语学习者可能忽略动词变化，需练习语境。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "finance",
+      "engineering"
+    ],
+    "tags": [
+      "electrical",
+      "communication",
+      "object"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

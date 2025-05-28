@@ -1,0 +1,253 @@
+{
+  "word": "ping",
+  "phonetics": {
+    "british": "/pɪŋ/",
+    "american": "/pɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A short, high-pitched sound, as of a bullet striking metal or a sonar pulse.",
+      "chineseTranslation": "短促的高音声响，如子弹击中金属的声音或声呐脉冲",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send a signal to (a computer or network device) to test whether it is operational and measure the time for a response.",
+      "chineseTranslation": "发送信号测试（计算机或网络设备）是否正常工作并测量响应时间",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports, such as table tennis, a light stroke or the ball itself.",
+      "chineseTranslation": "在体育中，如乒乓球，指轻击或球本身",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ping a server",
+      "meaning": "ping 测试服务器",
+      "example": "Network administrators often ping a server to diagnose connectivity issues.",
+      "exampleTranslation": "网络管理员经常 ping 测试服务器以诊断连接问题。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ping pong",
+      "meaning": "乒乓球游戏",
+      "example": "We played ping pong in the basement during the family gathering.",
+      "exampleTranslation": "我们在家庭聚会时在地下室玩了乒乓球。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ping back",
+      "meaning": "回复或回传信号",
+      "example": "The system will ping back a confirmation once the data is received.",
+      "exampleTranslation": "系统在收到数据后会回传一个确认信号。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I heard a loud ping when the email notification arrived.",
+      "translation": "当电子邮件通知到达时，我听到了一声响亮的 ping。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The IT technician decided to ping the router to check for any network delays.",
+      "translation": "IT 技术员决定 ping 测试路由器以检查任何网络延迟。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the quiet night, the ping of the radar echoed across the ocean.",
+      "translation": "在寂静的夜晚，雷达的 ping 声在海洋上回荡。",
+      "source": "Literature (e.g., naval fiction)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (imitative)",
+    "rootWords": [
+      {
+        "root": "ping",
+        "meaning": "An onomatopoeic representation of a sharp, ringing sound",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的拟声词，最初用于描述金属撞击的声音，如子弹或钟声；20世纪扩展到技术领域，如声呐和网络测试，反映了科技进步对语言的影响",
+    "firstKnownUse": "约1855年",
+    "relatedWords": [
+      "pong",
+      "ring",
+      "ding"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过重复听力练习（如使用音频工具）建立音位记忆；对于初级学习者，使用视觉辅助如图标表示网络信号，以强化语境关联；避免混淆同音词，通过分层学习从基本含义入手。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "echo",
+        "similarity": "0.7",
+        "context": "在声音或信号回传的语境中，例如技术领域"
+      },
+      {
+        "word": "beep",
+        "similarity": "0.8",
+        "context": "描述短促声音的日常语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "silence",
+        "context": "在需要安静或无响应的语境中"
+      },
+      {
+        "word": "disconnect",
+        "context": "在网络或连接相关的语境中，表示中断"
+      }
+    ],
+    "hypernyms": [
+      "sound"
+    ],
+    "hyponyms": [
+      "network ping",
+      "sonar ping"
+    ],
+    "collocations": [
+      {
+        "pattern": "ping + noun (e.g., server, email)",
+        "examples": [
+          "Ping the server",
+          "Ping an email"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + ping (e.g., hear a ping)",
+        "examples": [
+          "Hear a ping"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征快速响应和技术效率，尤其在数字时代；在西方文化中，常与即时通信（如即时消息）相关，隐含高效沟通的价值观",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术俚语，如在线游戏中表示快速回复",
+        "usage": "在社交媒体和科技社区中流行，强调实时互动"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于原生声音含义，如军事或航海语境",
+        "usage": "在正式或历史语境中使用，以突出传统拟声元素"
+      }
+    ],
+    "historicalContext": "与20世纪的军事和科技发展相关，如二战期间的声呐技术；在文学中，常用于描述战争或探险场景，体现了工业革命后的声音文化",
+    "modernUsage": "在社交媒体和在线平台中流行，例如微信或Twitter的即时通知，反映了全球数字化的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个弹球撞击金属表面发出的声音场景，同时与电脑屏幕上的网络图标结合",
+      "keyElements": [
+        "弹球",
+        "金属声",
+        "网络信号灯"
+      ],
+      "emotionalConnection": "联结个人经验，如玩电子游戏时的兴奋感，以增强记忆保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Ping 像 ping-pong 球反弹一样快速",
+        "explanation": "通过联想乒乓球的快速反弹，强化 'ping' 的动态含义，便于认知科学中的重复激活"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'ping' 声音与手机通知铃声关联",
+        "explanation": "利用多感官输入提升记忆编码，根据神经科学原理加强听觉和视觉的交叉联结"
+      }
+    ],
+    "wordAssociations": [
+      "beep",
+      "echo",
+      "signal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pings",
+      "pastTense": "pinged",
+      "pastParticiple": "pinged",
+      "presentParticiple": "pinging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., I ping the server)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令式或描述性句子",
+        "examples": [
+          "She pings her colleagues for updates."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a loud ping)",
+        "description": "作为名词短语，用于描述声音事件",
+        "examples": [
+          "The ping alerted the team."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'ping' with 'ping-pong' as a single word",
+        "correction": "Use 'ping' for the sound or verb, and 'ping-pong' for the game",
+        "explanation": "学习者常因文化差异混淆词汇，确保区分语境以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'I pinged the server yesterday' as 'I ping the server yesterday'",
+        "correction": "Use past tense 'pinged' for completed actions",
+        "explanation": "初级学习者可能忽略动词时态变化，通过练习时态表格强化语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Daily communication",
+      "Sports"
+    ],
+    "tags": [
+      "Onomatopoeic",
+      "Technical",
+      "Informal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

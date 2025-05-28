@@ -1,0 +1,238 @@
+{
+  "word": "delete",
+  "phonetics": {
+    "british": "/dɪˈliːt/",
+    "american": "/dɪˈliːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or erase something, especially data, text, or an item from a list or system.",
+      "chineseTranslation": "删除",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of removing or erasing something, often used in computing contexts.",
+      "chineseTranslation": "删除动作",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "delete a file",
+      "meaning": "删除一个文件",
+      "example": "Please delete the file from your computer to free up space.",
+      "exampleTranslation": "请从您的计算机中删除该文件以释放空间。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "delete an account",
+      "meaning": "删除一个账户",
+      "example": "You can delete your account by going to the settings page.",
+      "exampleTranslation": "您可以通过转到设置页面来删除您的账户。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to delete this email before it causes any confusion.",
+      "translation": "我需要删除这封电子邮件，以避免造成任何混淆。",
+      "source": "Modern business communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The editor decided to delete the controversial paragraph from the article.",
+      "translation": "编辑决定从文章中删除有争议的段落。",
+      "source": "Literary and journalistic texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you can delete elements from an array using specific commands.",
+      "translation": "在编程中，您可以使用特定命令从数组中删除元素。",
+      "source": "Technical documentation (e.g., from online tech resources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "delere",
+        "meaning": "to destroy or wipe out",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'delere'，意为摧毁或抹去。在中世纪拉丁语中演变为 'deletus'，作为过去分词。17世纪传入英语，主要用于书面和印刷语境，19世纪起在技术领域扩展，如印刷和计算。",
+    "firstKnownUse": "约1600年",
+    "relatedWords": [
+      "obliterate",
+      "erase",
+      "remove"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "3 (简单发音，/dɪˈliːt/ 的元音和重音易于初级学习者掌握)",
+    "spellingDifficulty": "4 (拼写规则常规，无不规则变化)",
+    "meaningComplexity": "5 (语义直观，但上下文依赖性增加复杂度，如数字 vs. 物理删除)",
+    "usageComplexity": "6 (需要理解语境，如正式文件 vs. 口语指令)",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法：将 'delete' 与视觉图像（如垃圾桶图标）关联，以强化海马体记忆路径；对于中文母语者，比较 'delete' 与 '删除' 的异同以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "remove",
+        "similarity": "0.8",
+        "context": "适用于数字文件或列表中，例如 'remove an item from the list'。"
+      },
+      {
+        "word": "erase",
+        "similarity": "0.7",
+        "context": "常用于物理或数字擦除语境，例如 'erase data from a hard drive'。"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "add",
+        "context": "在列表或文档中添加内容的反义，例如 'add new information to the report'。"
+      },
+      {
+        "word": "insert",
+        "context": "插入内容的反义，例如 'insert a photo into the document'。"
+      }
+    ],
+    "hypernyms": [
+      "eliminate"
+    ],
+    "hyponyms": [
+      "shred",
+      "purge"
+    ],
+    "collocations": [
+      {
+        "pattern": "delete + object (e.g., delete a message)",
+        "examples": [
+          "delete a message",
+          "delete a record"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + delete (e.g., permanently delete)",
+        "examples": [
+          "permanently delete files"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征永久性损失或隐私保护，常与数据安全和信息时代相关联，隐含语义包括对历史记录的 '抹去'，在西方文化中可能与 '遗忘权'（right to be forgotten）相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 'delete key' on keyboards",
+        "usage": "在美国英语中，常在日常科技对话中出现，例如手机应用设置。"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式，如 'delete from records' in official documents",
+        "usage": "在英国英语中，强调法律或行政语境下的应用。"
+      }
+    ],
+    "historicalContext": "与工业革命和数字革命相关，19世纪用于印刷业，20世纪扩展到计算领域；在文学中，如乔治·奥威尔《1984》中的 '记忆孔'（memory hole），象征信息控制。",
+    "modernUsage": "在社交媒体和在线平台中流行，例如 Twitter 删除推文，反映数字隐私趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个垃圾桶图标，里面有被撕碎的文件，表示永久移除。",
+      "keyElements": [
+        "垃圾桶",
+        "撕碎文件",
+        "数字界面"
+      ],
+      "emotionalConnection": "联结个人经验，如删除不愉快回忆的电子邮件，以触发积极情绪释放。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'delete' 联想为 'de-lete'，如 'de' 表示去除，'lete' 听起来像 'let it go'。",
+        "explanation": "通过声音联觉和积极联想，帮助中文母语者减少混淆干扰，提升长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-L-E-T-E：Destroy-Every-Last-Element-To-Erase",
+        "explanation": "使用首字母缩写创建故事，结合认知科学中的重复强化法。"
+      }
+    ],
+    "wordAssociations": [
+      "erase",
+      "trash",
+      "remove"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "deleted",
+      "pastParticiple": "deleted",
+      "presentParticiple": "deleting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + delete + object",
+        "description": "主语 + 删除 + 宾语结构，常用于祈使句或陈述句。",
+        "examples": [
+          "I delete the file."
+        ]
+      },
+      {
+        "pattern": "delete + preposition + object",
+        "description": "删除 + 介词 + 宾语结构，用于指定位置或方式。",
+        "examples": [
+          "Delete from the list."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'delete' interchangeably with 'remove' without context",
+        "correction": "Use 'delete' for permanent erasure and 'remove' for temporary relocation.",
+        "explanation": "中文母语者常混淆二者语义；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect tense: 'I delete the files yesterday'",
+        "correction": "I deleted the files yesterday",
+        "explanation": "需注意动词时态一致性，以避免时间表达错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus, with 1500+ occurrences per million words)",
+    "domains": [
+      "科技",
+      "商业",
+      "日常生活"
+    ],
+    "tags": [
+      "技术术语",
+      "动词",
+      "数字通信"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

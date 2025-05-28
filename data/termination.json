@@ -1,0 +1,272 @@
+{
+  "word": "termination",
+  "phonetics": {
+    "british": "/ˌtɜː.mɪˈneɪ.ʃən/",
+    "american": "/ˌtɝː.məˈneɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of bringing something to an end; the conclusion or cessation of a process, contract, or employment.",
+      "chineseTranslation": "终止；结束",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the normal end of a program or process.",
+      "chineseTranslation": "（计算机中的）终止",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point or period at which something ends, often with legal implications.",
+      "chineseTranslation": "终点；终止期",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "termination of employment",
+      "meaning": "雇佣关系的终止",
+      "example": "The termination of employment must follow company policy.",
+      "exampleTranslation": "雇佣的终止必须遵守公司政策。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "premature termination",
+      "meaning": "过早的终止",
+      "example": "Premature termination of the contract led to financial penalties.",
+      "exampleTranslation": "合同的过早终止导致了财务罚款。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "wrongful termination",
+      "meaning": "不正当的解雇",
+      "example": "He sued the company for wrongful termination of his position.",
+      "exampleTranslation": "他起诉公司不正当终止他的职位。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The termination of the project was announced last week.",
+      "translation": "项目的终止在上周宣布。",
+      "source": "Business news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, termination occurs when the loop finishes executing.",
+      "translation": "在编程中，终止发生在循环执行完毕时。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The termination of their friendship was sudden and unexpected.",
+      "translation": "他们的友谊的终止是突然且出人意料的。",
+      "source": "Literary work (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Legal termination of the lease requires a 30-day notice.",
+      "translation": "租约的合法终止需要提前30天通知。",
+      "source": "Legal texts (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "termin-",
+        "meaning": "boundary or end",
+        "language": "Latin"
+      },
+      {
+        "root": "terminare",
+        "meaning": "to set boundaries or limit",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'terminatio'，意为设定界限或结束，传入古法语 'termination'，再到中古英语，最终演变为现代英语，强调结束或终止的过程。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "terminate",
+      "terminal",
+      "terminus"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'termination' 与日常结束场景关联，如工作日结束，以增强记忆；使用间隔重复技术复习词汇在不同语境中的含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "end",
+        "similarity": "0.8",
+        "context": "适用于一般结束语境，如项目结束"
+      },
+      {
+        "word": "conclusion",
+        "similarity": "0.7",
+        "context": "适用于正式或学术语境中的总结"
+      },
+      {
+        "word": "cessation",
+        "similarity": "0.6",
+        "context": "适用于法律或正式终止语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuation",
+        "context": "适用于持续或延长的语境"
+      },
+      {
+        "word": "initiation",
+        "context": "适用于开始或启动的语境"
+      }
+    ],
+    "hypernyms": [
+      "ending"
+    ],
+    "hyponyms": [
+      "dismissal",
+      "abortion"
+    ],
+    "collocations": [
+      {
+        "pattern": "termination of [noun]",
+        "examples": [
+          "termination of contract",
+          "termination of service"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] termination",
+        "examples": [
+          "premature termination",
+          "final termination"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与就业和合同相关，象征着个人权利和社会公平，如在美国劳动法中代表员工保护。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于法律和商业语境",
+        "usage": "在日常对话中可能涉及就业歧视话题"
+      },
+      {
+        "region": "英国",
+        "variation": "语义上更侧重正式结束",
+        "usage": "在正式文件中使用，强调礼节性通知"
+      }
+    ],
+    "historicalContext": "与工业革命相关的劳工运动有关，词语在19世纪英国文学中出现，反映社会变革和社会不公。",
+    "modernUsage": "在社交媒体和商业环境中流行，用于讨论工作解雇或项目结束，体现快速变化的职场文化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红灯作为边界，表示事情的结束。",
+      "keyElements": [
+        "红灯",
+        "边界线",
+        "结束标志"
+      ],
+      "emotionalConnection": "联结个人经历，如完成一个任务后的成就感，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'termination' as 'term end nation' – a nation reaching the end of its term.",
+        "explanation": "通过词分解和视觉联想，帮助记忆核心含义，基于认知科学的空间记忆原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'turn a mission' – turning off a mission to end it.",
+        "explanation": "利用声音相似性创建故事，增强听觉和语义记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "end",
+      "stop",
+      "finish",
+      "close"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "terminations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with preposition",
+        "description": "常用于 'termination of [object]' 结构，表示对某事物的结束。",
+        "examples": [
+          "The termination of the agreement was mutual."
+        ]
+      },
+      {
+        "pattern": "Subject in sentence",
+        "description": "作为主语，用于描述事件的结果。",
+        "examples": [
+          "Termination led to significant changes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'terminate' as a verb",
+        "correction": "Use 'termination' as a noun only",
+        "explanation": "学习者常误用为动词；需区分词性以避免语法错误。"
+      },
+      {
+        "mistake": "Overgeneralizing in informal contexts",
+        "correction": "Reserve for formal usage",
+        "explanation": "在非正式语境中，可能被简单替换为 'end' 以提高自然性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "business",
+      "legal",
+      "technology",
+      "general"
+    ],
+    "tags": [
+      "legal terms",
+      "business jargon",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "word": "offload",
+  "phonetics": {
+    "british": "/ɒfˈləʊd/",
+    "american": "/ˈɔfˌloʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To transfer something, such as a burden, responsibility, or cargo, to another person or entity, often to reduce one's own load.",
+      "chineseTranslation": "卸载；转嫁；转交",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing or technology, to move data from one device or system to another, typically to free up space or resources.",
+      "chineseTranslation": "（在计算机中）卸载数据；转储",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of offloading something, such as in logistics or sports.",
+      "chineseTranslation": "卸载行为；转交过程",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "offload cargo",
+      "meaning": "卸载货物",
+      "example": "The ship will offload cargo at the port tomorrow.",
+      "exampleTranslation": "船明天将在港口卸载货物。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "offload responsibilities",
+      "meaning": "转嫁责任",
+      "example": "Managers often offload responsibilities to their team members during peak seasons.",
+      "exampleTranslation": "在旺季，经理经常将责任转交给团队成员。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "offload data",
+      "meaning": "转储数据",
+      "example": "You should offload data from your phone to an external drive to free up space.",
+      "exampleTranslation": "你应该将手机上的数据转储到外部驱动器以腾出空间。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company decided to offload its excess inventory to cut costs.",
+      "translation": "公司决定转售多余库存以降低成本。",
+      "source": "Business news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In rugby, players offload the ball to teammates to maintain momentum.",
+      "translation": "在橄榄球中，球员将球传给队友以保持势头。",
+      "source": "Sports commentary (e.g., from BBC Sports)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "IT specialists routinely offload processing tasks to cloud servers for efficiency.",
+      "translation": "IT专家 routinely 将处理任务转到云服务器以提高效率。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "off",
+        "meaning": "Away from or indicating separation",
+        "language": "Old English (from Proto-Germanic *af-)"
+      },
+      {
+        "root": "load",
+        "meaning": "A burden or something carried",
+        "language": "Old English (from Proto-Germanic *laudą)"
+      }
+    ],
+    "historicalDevelopment": "The word 'offload' emerged in the 20th century as a compound of 'off' and 'load', initially used in literal contexts like shipping and logistics. Over time, it evolved metaphorically in business and technology to mean transferring burdens or data, reflecting industrial and digital advancements.",
+    "firstKnownUse": "Early 20th century (circa 1920, as per Oxford English Dictionary records)",
+    "relatedWords": [
+      "unload",
+      "transfer",
+      "delegate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆发音和多义性；将词汇与个人经验关联，例如想象实际卸载货物的场景，以增强语境记忆；对于初级学习者，建议从基本动词用法入手，再扩展到技术语境，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unload",
+        "similarity": "0.8",
+        "context": "适用于物流或责任转移的语境中，例如商业讨论"
+      },
+      {
+        "word": "delegate",
+        "similarity": "0.7",
+        "context": "在管理或任务分配的正式语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "retain",
+        "context": "在保留责任或数据的语境中"
+      },
+      {
+        "word": "accumulate",
+        "context": "在积累负担或数据的非正式语境中"
+      }
+    ],
+    "hypernyms": [
+      "transfer"
+    ],
+    "hyponyms": [
+      "offload data",
+      "offload cargo"
+    ],
+    "collocations": [
+      {
+        "pattern": "offload + noun (e.g., cargo, responsibilities)",
+        "examples": [
+          "offload baggage",
+          "offload tasks"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "offload to + entity",
+        "examples": [
+          "offload to a partner company"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着效率和责任分担，常用于商业和科技语境，反映了西方文化中强调个人生产力和任务外包的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technological contexts, e.g., in computing.",
+        "usage": "在美国英语中，常与数字转移相关联，如云计算"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Often used in literal or sports contexts, e.g., rugby.",
+        "usage": "在英国英语中，更偏向体育或物流的传统应用"
+      }
+    ],
+    "historicalContext": "与工业革命和现代物流发展相关，该词在20世纪的英国和美国殖民贸易中流行，体现出后工业社会中资源优化的社会趋势。",
+    "modernUsage": "在社交媒体和数字平台上，该词用于讨论工作生活平衡，例如在LinkedIn或Twitter上分享任务外包的经历"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个卡车司机在码头卸下重物的情景，'off'表示移除，'load'表示负担。",
+      "keyElements": [
+        "卡车",
+        "重物",
+        "码头"
+      ],
+      "emotionalConnection": "联结到个人经历，如清理书桌以减轻压力，触发成就感的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'offload' as 'off my load' – removing weight from your back.",
+        "explanation": "通过视觉联想减轻负担的形象，帮助强化记忆，避免混淆类似词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "The sound 'off' rhymes with 'cough', like coughing out a heavy load.",
+        "explanation": "利用声音相似性增强听觉记忆，基于认知科学的多模态学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "unload",
+      "relieve",
+      "transfer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "offloaded",
+      "pastParticiple": "offloaded",
+      "presentParticiple": "offloading",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + offload + object",
+        "description": "主语直接转移对象的典型结构",
+        "examples": [
+          "We offload the goods."
+        ]
+      },
+      {
+        "pattern": "offload + to + recipient",
+        "description": "指定接收者的间接结构",
+        "examples": [
+          "She offloaded the work to her assistant."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'offload' interchangeably with 'upload'",
+        "correction": "Use 'offload' for removing or transferring out, and 'upload' for sending to a system.",
+        "explanation": "混淆可能由于技术语境相似性；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense formation",
+        "correction": "Always use 'offloaded' for past tense.",
+        "explanation": "作为规则动词，学习者需注意-ed结尾的常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "business",
+      "technology",
+      "logistics"
+    ],
+    "tags": [
+      "action verb",
+      "transfer",
+      "efficiency"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

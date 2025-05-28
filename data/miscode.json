@@ -1,0 +1,249 @@
+{
+  "word": "miscode",
+  "phonetics": {
+    "british": "/mɪsˈkəʊd/",
+    "american": "/mɪsˈkoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To encode or write code incorrectly, often leading to errors in programming or data processing.",
+      "chineseTranslation": "错误编码",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instance of incorrect coding or encoding, such as a mistake in software development.",
+      "chineseTranslation": "编码错误",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "miscode data",
+      "meaning": "错误编码数据",
+      "example": "The developer had to debug the miscoded data in the database.",
+      "exampleTranslation": "开发人员必须调试数据库中错误编码的数据。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "miscode a function",
+      "meaning": "错误编码函数",
+      "example": "If you miscode a function, it might cause the entire program to crash.",
+      "exampleTranslation": "如果你错误编码了一个函数，它可能导致整个程序崩溃。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software engineer realized she had miscoded the algorithm, resulting in inaccurate results.",
+      "translation": "软件工程师意识到她错误编码了算法，导致结果不准确。",
+      "source": "Technical documentation from software development forums",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In genetic research, scientists must be careful not to miscode sequences to avoid experimental errors.",
+      "translation": "在遗传研究中，科学家必须小心不要错误编码序列，以避免实验错误。",
+      "source": "Scientific literature, e.g., from academic journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Beginners often miscode simple loops, but with practice, they improve.",
+      "translation": "初学者经常错误编码简单循环，但通过练习，他们会改进。",
+      "source": "Educational resources, e.g., online coding tutorials",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "mis-",
+        "meaning": "Wrongly or badly",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "code",
+        "meaning": "A system of symbols or instructions",
+        "language": "Latin (from 'codex', meaning a book or set of laws)"
+      }
+    ],
+    "historicalDevelopment": "The term 'miscode' likely emerged in the 20th century with the advent of computing, combining the prefix 'mis-' (indicating error or mistake) from Old English with 'code', which evolved from Latin 'codex' through Middle English to mean systematic instructions. It reflects the modern need to describe errors in digital encoding, evolving from general linguistic uses of 'mis-' in words like 'mislead'.",
+    "firstKnownUse": "Mid-20th century, around the 1960s with early computing developments",
+    "relatedWords": [
+      "mislead",
+      "miscount",
+      "encode",
+      "decode"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学中的分块法（chunking）将 'miscode' 与编程概念关联，例如将其想象为 'mis-' 表示错误，加上 'code' 表示代码，从而构建心理模型；",
+      "结合重复暴露原则，通过实际编码练习强化记忆，避免孤立学习；",
+      "运用双编码理论，将词汇与视觉图像配对，如想象一个扭曲的代码链条，以增强长期保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "encode incorrectly",
+        "similarity": "0.8",
+        "context": "适用于技术语境中描述编码错误的场景"
+      },
+      {
+        "word": "bug in code",
+        "similarity": "0.7",
+        "context": "常用于软件开发中，表示代码缺陷"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "code accurately",
+        "context": "适用于强调正确编码的编程实践"
+      },
+      {
+        "word": "debug",
+        "context": "在修复错误后，表示纠正编码问题"
+      }
+    ],
+    "hypernyms": [
+      "error",
+      "mistake"
+    ],
+    "hyponyms": [
+      "syntax error",
+      "logic error"
+    ],
+    "collocations": [
+      {
+        "pattern": "miscode + noun (e.g., data, function)",
+        "examples": [
+          "miscode data",
+          "miscode a program"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "verb + miscode (e.g., accidentally miscode)",
+        "examples": [
+          "accidentally miscode",
+          "deliberately miscode"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征技术失误的普遍性，隐含语义反映了快速发展的科技文化中对精确性的强调，常用于教育和专业环境中以促进责任感。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技行业俚语",
+        "usage": "在美国英语中，'miscode' 可能在硅谷文化中口头使用，以描述日常编程错误"
+      },
+      {
+        "region": "英国",
+        "variation": "较正式，使用时更强调技术术语",
+        "usage": "在英国英语中，可能与学术或工程语境结合，使用频率较低"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，该词体现了工业革命后对机械和数字精确性的追求，在文学如科幻小说中象征人类错误对技术的影响。",
+    "modernUsage": "在社交媒体和在线论坛中流行，用于分享编程经历，例如在GitHub或Reddit上讨论代码错误，以增强社区学习"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个混乱的代码链条，如一条纠缠的绳子，代表 'mis-' 的错误部分，而 'code' 是绳子的结构。",
+      "keyElements": [
+        "纠缠的绳子",
+        "代码符号",
+        "错误标记"
+      ],
+      "emotionalConnection": "联结个人编程失败的经历，例如回忆一次调试错误，以触发挫折和学习的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Miscode 像 'miss code'，意思是错过正确的代码。",
+        "explanation": "通过声音联想将 'mis' 连接到 'miss'，帮助初学者快速回忆词汇含义"
+      },
+      {
+        "type": "缩略",
+        "content": "M-I-S: Mistake In System",
+        "explanation": "使用首字母缩略词结合上下文，强化对技术错误的记忆"
+      }
+    ],
+    "wordAssociations": [
+      "bug",
+      "error",
+      "debug",
+      "syntax"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "miscoded",
+      "pastParticiple": "miscoded",
+      "presentParticiple": "miscoding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "典型结构为主语 + 动词 + 宾语，例如在陈述句中描述动作",
+        "examples": [
+          "She miscodes the data."
+        ]
+      },
+      {
+        "pattern": "Verb in passive voice",
+        "description": "被动语态用于强调结果",
+        "examples": [
+          "The data was miscoded by the team."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'miscode' as a noun without context",
+        "correction": "Use as verb with proper object",
+        "explanation": "学习者常将 'miscode' 误用为名词；需记住其主要为动词，并结合技术语境"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'miscoded'",
+        "explanation": "由于不是不规则动词，错误往往源于忽略常规过去式规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "计算机",
+      "教育"
+    ],
+    "tags": [
+      "编程",
+      "错误",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED for etymology",
+      "COCA for frequency",
+      "BNC for usage patterns"
+    ]
+  }
+}

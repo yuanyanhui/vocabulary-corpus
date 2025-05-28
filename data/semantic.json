@@ -1,0 +1,243 @@
+{
+  "word": "semantic",
+  "phonetics": {
+    "british": "/sɪˈmæntɪk/",
+    "american": "/səˈmæntɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "relating to the meaning of words, phrases, or symbols in language, logic, or other systems",
+      "chineseTranslation": "与语义相关的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "in computing and artificial intelligence, pertaining to the interpretation of data or instructions based on meaning rather than syntax",
+      "chineseTranslation": "在计算机中，与数据或指令的含义解释相关的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "semantic analysis",
+      "meaning": "语义分析",
+      "example": "Semantic analysis is a key component of natural language processing.",
+      "exampleTranslation": "语义分析是自然语言处理的核心组成部分。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "semantic web",
+      "meaning": "语义网",
+      "example": "The semantic web enables machines to understand the meaning of web content.",
+      "exampleTranslation": "语义网使机器能够理解网络内容的含义。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "semantic field",
+      "meaning": "语义场",
+      "example": "Words like 'red', 'blue', and 'green' belong to the semantic field of colors.",
+      "exampleTranslation": "像'red'、'blue'和'green'这样的单词属于颜色的语义场。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The semantic nuances of the poem reveal deeper layers of meaning.",
+      "translation": "这首诗的语义细微之处揭示了更深层的含义。",
+      "source": "Literary criticism",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, a semantic error occurs when the code runs but produces incorrect results.",
+      "translation": "在编程中，语义错误指的是代码运行但产生不正确结果的情况。",
+      "source": "Technical manual",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Linguists study semantic relations to understand how words convey ideas.",
+      "translation": "语言学家研究语义关系以理解单词如何传达想法。",
+      "source": "Academic article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "sēmantikos",
+        "meaning": "significant or signifying",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "起源于古希腊语 'sēmainō'（意为 'to signify'），通过拉丁语和法语演变为现代英语，最初用于哲学和逻辑领域讨论意义，在19世纪扩展到语言学和计算机科学中。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "semantics",
+      "semaphore",
+      "seminal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 5,
+    "meaningComplexity": 6,
+    "usageComplexity": 7,
+    "learningTips": [
+      "结合认知科学原理，将'semantic'联想至词根'sem-'（表示信号或意义），通过视觉化记忆如想象信号灯来增强长期记忆；建议初级学习者使用间隔重复法复习语境示例。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "meaningful",
+        "similarity": 0.7,
+        "context": "在描述语言元素具有实际含义的语境中"
+      },
+      {
+        "word": "signifying",
+        "similarity": 0.8,
+        "context": "在逻辑或符号学相关语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "syntactic",
+        "context": "与结构或语法规则相关的语境，而非含义"
+      }
+    ],
+    "hypernyms": [
+      "linguistic"
+    ],
+    "hyponyms": [
+      "lexical",
+      "pragmatic"
+    ],
+    "collocations": [
+      {
+        "pattern": "semantic + noun",
+        "examples": [
+          "semantic meaning",
+          "semantic role"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + semantic",
+        "examples": [
+          "advanced semantic analysis"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征语言和认知的深层理解，尤其在英语国家，语义学影响了哲学（如维特根斯坦的作品）和现代技术（如AI发展），体现了理性主义传统。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如计算机科学",
+        "usage": "在美国英语中，常见于科技和教育语境，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重学术和哲学语境",
+        "usage": "在英国英语中，常用于文学和语言学讨论，以突出历史演变"
+      }
+    ],
+    "historicalContext": "与古希腊哲学（如亚里士多德对意义的探讨）关联，在20世纪的结构主义和后结构主义运动中演化，影响了社会文化分析。",
+    "modernUsage": "在社交媒体和数字时代，常见于AI讨论，如Twitter上的语义搜索趋势，反映了全球化的跨文化交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古希腊信使（semaphore）手持旗帜传达重要信息，象征词汇的意义传递。",
+      "keyElements": [
+        "信使",
+        "旗帜",
+        "信息"
+      ],
+      "emotionalConnection": "联结个人学习语言的成就感或好奇心，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'semantic'联想为'semi'（半）+ 'antic'（古董），想象半个古董信号灯在表示含义。",
+        "explanation": "通过视觉和声音联想，利用认知科学中的双编码效应来提高记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-M: Sign, Explain, Meaning",
+        "explanation": "使用首字母缩略法结合语境，帮助构建认知网络。"
+      }
+    ],
+    "wordAssociations": [
+      "meaning",
+      "language",
+      "logic",
+      "signify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more semantic",
+      "superlative": "most semantic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + semantic",
+        "description": "用于描述主语与语义相关的结构",
+        "examples": [
+          "This theory is semantic."
+        ]
+      },
+      {
+        "pattern": "semantic + noun phrase",
+        "description": "作为定语修饰名词的模式",
+        "examples": [
+          "Semantic differences affect communication."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'semantic' with 'syntactic'",
+        "correction": "Use 'semantic' for meaning-related issues and 'syntactic' for structure-related ones",
+        "explanation": "源于两者在语言学中的相似领域，但语义焦点不同，学习者需区分以避免混淆。"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for appropriate formal or technical settings",
+        "explanation": "中级学习者常错误泛化词汇，导致语域不当。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High, ranked approximately 4500 in COCA corpus and 3000 in BNC",
+    "domains": [
+      "Linguistics",
+      "Computer Science",
+      "Philosophy"
+    ],
+    "tags": [
+      "language",
+      "meaning",
+      "analysis",
+      "cognition"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

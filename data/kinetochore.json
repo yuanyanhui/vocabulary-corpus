@@ -1,0 +1,218 @@
+{
+  "word": "kinetochore",
+  "phonetics": {
+    "british": "/kɪˈnɛtəkɔː/",
+    "american": "/kɪˈnɛtəˌkɔr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A complex protein structure located at the centromere of a chromosome, to which microtubules of the spindle attach during cell division, facilitating chromosome movement.",
+      "chineseTranslation": "着丝点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "kinetochore microtubules",
+      "meaning": "着丝点微管",
+      "example": "The kinetochore microtubules play a crucial role in aligning chromosomes during metaphase.",
+      "exampleTranslation": "着丝点微管在中期对齐染色体中发挥关键作用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "kinetochore attachment",
+      "meaning": "着丝点的附着",
+      "example": "Proper kinetochore attachment ensures accurate segregation of chromosomes.",
+      "exampleTranslation": "正确的着丝点附着确保染色体的准确分离。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In eukaryotic cells, the kinetochore serves as the attachment site for spindle fibers during mitosis.",
+      "translation": "在真核细胞中，着丝点作为纺锤体纤维在有丝分裂中的附着位点。",
+      "source": "Scientific literature (e.g., from biology textbooks like Alberts' Molecular Biology of the Cell)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Errors in kinetochore function can lead to aneuploidy, a condition associated with cancer.",
+      "translation": "着丝点功能的错误可能导致非整倍体，这是一种与癌症相关的状况。",
+      "source": "Medical research articles (e.g., from journals like Nature Cell Biology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers are studying how the kinetochore regulates chromosome movement in yeast models.",
+      "translation": "研究人员正在研究着丝点如何在酵母模型中调控染色体运动。",
+      "source": "Academic papers (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "kinesis",
+        "meaning": "movement",
+        "language": "Greek"
+      },
+      {
+        "root": "choros",
+        "meaning": "place",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语，由 'kinesis'（运动）和 'choros'（地方）组合而成，意为'运动的地方'。在20世纪初，随着细胞生物学的兴起，该术语被引入以描述染色体结构的功能，从最初的描述性术语演变为现代分子生物学中的关键概念。",
+    "firstKnownUse": "1930s",
+    "relatedWords": [
+      "centromere",
+      "spindle",
+      "chromosome"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象染色体作为'运动场所'的场景；使用间隔重复法（spaced repetition）来强化记忆；从基础生物学知识入手，逐步构建语义网络以降低复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "centromere complex",
+        "similarity": "0.8",
+        "context": "在细胞生物学语境中，通常用于描述类似结构，常用于技术性讨论中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "telomere",
+        "context": "在染色体结构语境中，对比着丝点（参与细胞分裂）与端粒（保护染色体末端），常用于科学比较"
+      }
+    ],
+    "hypernyms": [
+      "chromosome structure"
+    ],
+    "hyponyms": [
+      "kinetochore proteins"
+    ],
+    "collocations": [
+      {
+        "pattern": "kinetochore + noun (e.g., microtubules, attachment)",
+        "examples": [
+          "kinetochore microtubules",
+          "kinetochore function"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征现代生物学进展，与文化无关的纯技术术语，但在教育语境中代表了西方科学传统的知识传播。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "使用频率较高，在学术和研究环境中更常见",
+        "usage": "在美国英语中，常在生物医学领域中使用，与英国英语无显著差异"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国英语类似，但可能在特定科学出版物中略有术语偏好",
+        "usage": "在英国英语中，同样局限于技术语域，强调精确性"
+      }
+    ],
+    "historicalContext": "与19世纪末的细胞生物学革命相关，源自欧洲科学家的发现，如奥地利生物学家的工作，在现代全球科学社区中标准化。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于科学普及视频或论坛，但主要限于专业人士；在跨文化语境中，强调科学合作的包容性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个动态的细胞分裂场景，其中染色体像是'运动的中心'，着丝点如交通枢纽连接微管。",
+      "keyElements": [
+        "染色体",
+        "微管",
+        "运动"
+      ],
+      "emotionalConnection": "联结个人经验，如回想学习生物课时的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Kineto- sounds like 'kinetic' (运动的)，chore like 'choreography' (编舞)",
+        "explanation": "通过声音联想，将kinetochore与'运动的舞蹈场所'关联，助于视觉化和语义记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "K for 'key' in cell division",
+        "explanation": "将词汇简化为关键元素，结合认知科学的空间记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "mitosis",
+      "spindle",
+      "chromosome"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "kinetochores",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + kinetochore",
+        "description": "作为主语或宾语使用在句子中，常见于描述性科学语句",
+        "examples": [
+          "The kinetochore attaches to the microtubules."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with kinetochore",
+        "description": "用于表示位置或功能的介词短语",
+        "examples": [
+          "Microtubules connect at the kinetochore."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with centromere",
+        "correction": "Use kinetochore for the specific protein structure",
+        "explanation": "许多学习者混淆着丝点与着丝粒，因为它们相关但不同；通过语义区分可避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "kinetochores",
+        "explanation": "作为可数名词，需正确添加-s，但初学者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "biology",
+      "medicine"
+    ],
+    "tags": [
+      "technical",
+      "biological term",
+      "cell biology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Online"
+    ]
+  }
+}

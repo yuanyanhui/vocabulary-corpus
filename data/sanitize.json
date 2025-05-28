@@ -1,0 +1,240 @@
+{
+  "word": "sanitize",
+  "phonetics": {
+    "british": "/ˈsænɪtaɪz/",
+    "american": "/ˈsænəˌtaɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To clean something thoroughly to make it free from dirt, germs, or infection, often by using chemicals or heat.",
+      "chineseTranslation": "消毒；净化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or alter content in text or data to make it safe or appropriate, such as censoring sensitive information.",
+      "chineseTranslation": "净化（文本或数据）；审查",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sanitize hands",
+      "meaning": "消毒双手",
+      "example": "It's essential to sanitize hands after touching public surfaces.",
+      "exampleTranslation": "触摸公共表面后，必须消毒双手。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sanitize data",
+      "meaning": "净化数据",
+      "example": "Developers must sanitize data to prevent security breaches.",
+      "exampleTranslation": "开发人员必须净化数据以防止安全漏洞。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hospitals routinely sanitize equipment to minimize the risk of infections.",
+      "translation": "医院定期对设备进行消毒，以减少感染风险。",
+      "source": "Medical literature (e.g., from WHO guidelines)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the digital age, social media platforms sanitize user posts to comply with community standards.",
+      "translation": "在数字时代，社交媒体平台对用户帖子进行净化，以符合社区标准。",
+      "source": "Technology news (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Parents sanitize toys before giving them to young children.",
+      "translation": "父母在将玩具给幼儿前进行消毒。",
+      "source": "Daily life contexts (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sanitas",
+        "meaning": "health",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'sanitas'（意为健康）演变而来，19世纪通过 'sanitary'（卫生相关的）进入英语，20世纪初扩展到消毒和净化含义，反映了工业革命时期卫生意识的增强。",
+    "firstKnownUse": "Early 20th century (circa 1910, as per Oxford English Dictionary)",
+    "relatedWords": [
+      "sanitary",
+      "sanitation",
+      "sanitize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, due to common vowel shifts and stress patterns that are manageable for intermediate learners)",
+    "spellingDifficulty": "5 (out of 10, as the word includes less common letter combinations like 'sani-', which may confuse learners with similar words)",
+    "meaningComplexity": "6 (out of 10, with multiple contexts like physical cleaning versus data purification, requiring contextual understanding)",
+    "usageComplexity": "5 (out of 10, as it involves collocations and situational applications, but follows standard verb patterns)",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法复习词汇；将 'sanitize' 与日常生活场景（如洗手）关联，以加强 episodic memory；使用视觉图像法，将词与医院或清洁工具的图片连接，以提升语义记忆效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "disinfect",
+        "similarity": "0.8",
+        "context": "在医疗或卫生语境中，特别是在处理细菌时"
+      },
+      {
+        "word": "sterilize",
+        "similarity": "0.7",
+        "context": "在更严格的清洁要求语境中，如手术环境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "contaminate",
+        "context": "在污染或感染语境中，通常用于科学或环境讨论"
+      },
+      {
+        "word": "pollute",
+        "context": "在环境或数据安全语境中，表示增加有害元素"
+      }
+    ],
+    "hypernyms": [
+      "clean",
+      "purify"
+    ],
+    "hyponyms": [
+      "disinfect",
+      "sterilize"
+    ],
+    "collocations": [
+      {
+        "pattern": "sanitize + noun (e.g., hands, surfaces)",
+        "examples": [
+          "sanitize hands",
+          "sanitize surfaces"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "sanitize + data (in technical contexts)",
+        "examples": [
+          "sanitize input data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征卫生和安全，尤其在COVID-19大流行后，体现了全球对个人卫生的强调，隐含语义包括预防性措施和数字审查。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于日常和科技语境",
+        "usage": "在美国英语中，'sanitize' 在公共卫生运动中流行，如学校和办公室"
+      },
+      {
+        "region": "英国",
+        "variation": "有时偏好 'disinfect'，但 'sanitize' 也在正式语境中使用",
+        "usage": "在英国英语中，常与历史卫生改革（如19世纪的公共卫生法）相关联"
+      }
+    ],
+    "historicalContext": "与工业革命后的卫生运动相关联，例如19世纪的公共卫生改革，文学作品如狄更斯的著作中隐含了对城市卫生的批判。",
+    "modernUsage": "在社交媒体和数字平台上，'sanitize' 指内容审查，反映了当代隐私和言论自由的辩论趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个医院场景：护士在使用喷雾器清洁手部，周围有明亮的灯光和清洁标签。",
+      "keyElements": [
+        "护士",
+        "喷雾器",
+        "清洁标签"
+      ],
+      "emotionalConnection": "联结到个人经历，如疫情期间的洗手习惯，以触发安全和保护的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sanitize sounds like 'sunny ties' – think of tying up germs under the sun for cleanliness.",
+        "explanation": "通过声音联想将 'sanitize' 与阳光和绑缚（表示控制细菌）连接，增强语音记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-A-N-I-T-I-Z-E: Safe And Neat, Infection Totally Zero Every time.",
+        "explanation": "使用首字母缩写创建短语，帮助记忆词汇的拼写和含义"
+      }
+    ],
+    "wordAssociations": [
+      "disinfect",
+      "clean",
+      "hygiene",
+      "purify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "sanitized",
+      "pastParticiple": "sanitized",
+      "presentParticiple": "sanitizing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + sanitize + object",
+        "description": "典型主语-动词-宾语结构，常用于描述动作",
+        "examples": [
+          "We sanitize the room daily."
+        ]
+      },
+      {
+        "pattern": "sanitize + to-infinitive",
+        "description": "用于表示目的的结构",
+        "examples": [
+          "Sanitize to prevent illness."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sanctify' (meaning to make holy)",
+        "correction": "Use 'sanitize' for cleaning, not religious contexts",
+        "explanation": "语义混淆可能源于相似拼写；通过语境区分以避免错误"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'sanitizeds'",
+        "correction": "Use 'sanitized' for past tense",
+        "explanation": "作为规则动词，需遵循标准过去式规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "health",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "hygiene",
+      "cleaning",
+      "security"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

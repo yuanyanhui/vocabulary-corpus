@@ -1,0 +1,237 @@
+{
+  "word": "sublanguage",
+  "phonetics": {
+    "british": "/ˈsʌbˌlæŋɡwɪdʒ/",
+    "american": "/ˈsʌbˌlæŋɡwɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A subset of a language that is restricted to a specific domain, purpose, or context, often used in computing, linguistics, or specialized fields.",
+      "chineseTranslation": "子语言",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "programming sublanguage",
+      "meaning": "编程子语言",
+      "example": "SQL is a programming sublanguage designed for managing databases.",
+      "exampleTranslation": "SQL 是一种设计用于管理数据库的编程子语言。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "specialized sublanguage",
+      "meaning": "专业子语言",
+      "example": "In medical contexts, anatomy has its own specialized sublanguage.",
+      "exampleTranslation": "在医学语境中，解剖学有其自己的专业子语言。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In computer science, a sublanguage like HTML simplifies web development by focusing on structure and formatting.",
+      "translation": "在计算机科学中，像 HTML 这样的子语言通过专注于结构和格式来简化网页开发。",
+      "source": "Technical manuals (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Linguists study sublanguages to understand how language adapts in professional environments, such as legal or scientific discourse.",
+      "translation": "语言学家研究子语言，以了解语言如何在专业环境中（如法律或科学话语）进行适应。",
+      "source": "Academic texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A sublanguage in everyday tech talk might include terms like 'API' that aren't part of general conversation.",
+      "translation": "在日常技术对话中，子语言可能包括像 'API' 这样的术语，这些术语不是一般对话的一部分。",
+      "source": "Informal online forums (e.g., Reddit)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "under, below, or secondary",
+        "language": "Latin"
+      },
+      {
+        "root": "language",
+        "meaning": "tongue, speech, or a system of communication",
+        "language": "Old French (from Latin lingua)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的计算机科学和语言学领域，源自拉丁语 'sub-' 表示从属或子集的概念，与 'language' 结合形成，逐渐演变为描述特定领域语言变体的术语；在现代语境中，它反映了技术进步对语言的细分影响。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "dialect",
+      "jargon",
+      "register"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'sublanguage' 与相关技术术语分组记忆，以减少认知负荷；",
+      "通过视觉映射创建心智图，将 'sub-' 视为子集图标，帮助建立语义连接；",
+      "利用重复暴露（spaced repetition）在真实语境中练习，例如通过App模拟技术对话"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subset language",
+        "similarity": "0.8",
+        "context": "适用于技术领域，如编程环境，其中强调语言的子集特性"
+      },
+      {
+        "word": "specialized dialect",
+        "similarity": "0.7",
+        "context": "适用于语言学语境，强调专业变体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "full language",
+        "context": "适用于对比完整语言系统与子语言的限制性，例如在教育中讨论全面 vs. 简化版语言"
+      },
+      {
+        "word": "general language",
+        "context": "适用于日常对话 vs. 专业子语言的区分"
+      }
+    ],
+    "hypernyms": [
+      "language",
+      "dialect"
+    ],
+    "hyponyms": [
+      "HTML",
+      "SQL"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + sublanguage (e.g., programming sublanguage)",
+        "examples": [
+          "This programming sublanguage enhances data processing."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + context + sublanguage",
+        "examples": [
+          "In scientific research, a sublanguage is essential."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征语言的模块化和专业化，隐含语义反映了信息时代对高效沟通的需求，常用于强调专业社区的排他性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于计算机科学语境",
+        "usage": "在美国英语中，常与科技产业结合，如硅谷文化中的日常用语"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向语言学理论讨论",
+        "usage": "在英国英语中，常出现在学术出版物中，强调历史语言演变"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命和语言学发展相关，例如在冷战时期的技术进步中，该词用于描述军事或科学语言子集；",
+    "modernUsage": "在现代社交媒体和在线社区中，该词的传播趋势增加，尤其在AI和编程教育平台上，用于讨论数字包容性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个更大的语言'森林'，其中 'sublanguage' 是一个小型的、专门的'子树林'，只包含特定工具和路径。",
+      "keyElements": [
+        "森林代表完整语言",
+        "子树林代表子集",
+        "工具象征专业用途"
+      ],
+      "emotionalConnection": "联结个人经验，如回想初次学习编程时的挫败感，以增强情感记忆触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub + Language = Submarine Language (潜艇语言)",
+        "explanation": "将 'sub-' 联想为潜艇，代表隐藏或子集的语言部分，便于视觉和故事化记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sublanguage 听起来像 'subtle language'（微妙语言）",
+        "explanation": "通过声音相似性联想到 subtlety（微妙），帮助记忆其专业性和细致性"
+      }
+    ],
+    "wordAssociations": [
+      "subset",
+      "jargon",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sublanguages",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a sublanguage of programming')",
+        "description": "作为名词，常用于描述语言的子集结构",
+        "examples": [
+          "This sublanguage of English is used in legal documents."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'in a sublanguage')",
+        "description": "常与介词结合，表示语境限制",
+        "examples": [
+          "Experts communicate in a sublanguage that novices find challenging."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'subliminal language'",
+        "correction": "Use 'sublanguage' correctly as a technical term",
+        "explanation": "学习者常误将之与 'subliminal' 混淆；正确区分可通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "sublanguages (not 'sublanguagees')",
+        "explanation": "英语名词复数规则需注意，直接添加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked approximately 50,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "linguistics",
+      "education"
+    ],
+    "tags": [
+      "technical term",
+      "computing",
+      "specialized vocabulary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

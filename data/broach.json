@@ -1,0 +1,270 @@
+{
+  "word": "broach",
+  "phonetics": {
+    "british": "/brəʊtʃ/",
+    "american": "/broʊtʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To raise or introduce a topic for discussion.",
+      "chineseTranslation": "提出或开始讨论一个话题",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To pierce or open (a container or cask) to draw out liquid.",
+      "chineseTranslation": "刺穿或开启（容器或酒桶）以取出液体",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A pointed tool or instrument used for piercing or making holes.",
+      "chineseTranslation": "一种用于刺穿或钻孔的尖头工具",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A spit or skewer for roasting meat.",
+      "chineseTranslation": "烤肉用的铁叉或长钉",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "broach a subject",
+      "meaning": "开始讨论一个话题",
+      "example": "She decided to broach the subject of a salary increase during the meeting.",
+      "exampleTranslation": "她在会议中决定提出加薪的话题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "broach a cask",
+      "meaning": "开启酒桶或容器",
+      "example": "The winemaker will broach a cask to sample the new vintage.",
+      "exampleTranslation": "酒商将开启一个酒桶来品尝新年份的酒。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It's often difficult to broach sensitive topics in a professional setting.",
+      "translation": "在专业环境中，通常很难提出敏感话题。",
+      "source": "Modern business communication texts, such as from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The mechanic used a broach to enlarge the hole in the metal part.",
+      "translation": "机械师使用钻孔工具扩大了金属部件上的孔洞。",
+      "source": "Technical manuals, e.g., from engineering literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the family dinner, he finally broached the idea of moving abroad.",
+      "translation": "在家庭晚餐中，他终于提出了移居国外的想法。",
+      "source": "Contemporary fiction, such as novels in the BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The historical reenactment included broaching a cask of ale for the feast.",
+      "translation": "历史再现活动包括开启一桶啤酒用于宴会。",
+      "source": "Historical texts, e.g., from OED examples",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "broche",
+        "meaning": "A spit or pin",
+        "language": "Old French"
+      },
+      {
+        "root": "brocca",
+        "meaning": "A spike or projection",
+        "language": "Vulgar Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'broche'，意为烤肉铁叉或长钉，追溯到通俗拉丁语 'brocca'，意思是尖刺或突出物。从中世纪开始，该词演变为表示刺穿或引入话题的含义，在英语中于14世纪首次用于工具或动作，逐渐扩展到抽象的讨论语境中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "brooch (珠宝别针，与broach同源，但已分化)",
+      "broacher (提出者或工具)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于IPA符号的简单辅音和元音组合，对母语为中文的学习者来说，/r/和/ʊ/可能需要练习)",
+    "spellingDifficulty": "5 (拼写相对简单，但容易与'brooch'混淆)",
+    "meaningComplexity": "6 (多义词，需要区分上下文语义)",
+    "usageComplexity": "5 (常见于正式讨论，但需注意搭配)",
+    "learningTips": [
+      "使用Spaced Repetition System (SRS) 来强化记忆多义词；结合视觉联想，如想象一把钥匙开启话题的门，以应用认知语言学的形象化策略；练习通过真实对话场景来巩固语境使用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "introduce",
+        "similarity": "0.8",
+        "context": "在讨论话题时使用，例如正式会议中提出新议题"
+      },
+      {
+        "word": "raise",
+        "similarity": "0.7",
+        "context": "在非正式场合中提出问题或话题"
+      },
+      {
+        "word": "pierce",
+        "similarity": "0.6",
+        "context": "在工具含义时，适用于物理操作语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "avoid",
+        "context": "避免讨论敏感话题"
+      },
+      {
+        "word": "seal",
+        "context": "封闭或不开启容器"
+      }
+    ],
+    "hypernyms": [
+      "discuss",
+      "tool"
+    ],
+    "hyponyms": [
+      "initiate a conversation",
+      "drill bit"
+    ],
+    "collocations": [
+      {
+        "pattern": "broach + noun (e.g., subject)",
+        "examples": [
+          "broach a difficult subject"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "broach + verb phrase",
+        "examples": [
+          "broach the idea carefully"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常隐含主动性和勇气，例如在辩论或谈判中提出话题，象征打破沉默或探索未知，体现了盎格鲁-撒克逊文化中直率沟通的价值观。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或文学语境",
+        "usage": "在英国英语中，偏向于历史或传统场合，如文学作品中描述开启酒桶"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于商业或日常讨论",
+        "usage": "在美国英语中，常用于会议中提出新想法，体现了实用主义风格"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的骑士文化和手工业相关，源自法语影响的盎格鲁-诺曼时期；在现代，关联文学如莎士比亚作品中隐喻性使用。",
+    "modernUsage": "在社交媒体和商业环境中流行，用于表达创新想法，但在跨文化交流中需注意敏感性，以避免冒犯。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一把钥匙（代表broach）打开一扇门，门后是各种话题或容器，这象征提出新事物的过程。",
+      "keyElements": [
+        "钥匙",
+        "门",
+        "话题图标"
+      ],
+      "emotionalConnection": "联结个人经验，如回想一次勇敢提出建议的时刻，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Broach sounds like 'broke a' barrier",
+        "explanation": "通过声音联想，将broach与打破障碍联系起来，助于记忆其引入话题的含义"
+      },
+      {
+        "type": "缩略",
+        "content": "B-R-O-A-C-H: Bring up, Raise, Open, Access, Create, Handle",
+        "explanation": "使用首字母缩写来分解词义，结合认知科学中的分块记忆法"
+      }
+    ],
+    "wordAssociations": [
+      "introduce",
+      "pierce",
+      "discuss",
+      "key"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "broached",
+      "pastParticiple": "broached",
+      "presentParticiple": "broaching",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + broach + object",
+        "description": "主语 + broach + 宾语结构，常用于动作句",
+        "examples": [
+          "I broach the topic."
+        ]
+      },
+      {
+        "pattern": "Broach + infinitive phrase",
+        "description": "broach后接不定式短语，表示意图",
+        "examples": [
+          "She broached to discuss the plans."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'brooch'",
+        "correction": "Use 'broach' for topics or tools, 'brooch' for jewelry",
+        "explanation": "两者发音相似，但语义不同；母语为中文的学习者可能因拼写混淆而误用"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'broached'",
+        "explanation": "在叙述过去事件时，常忘加-ed后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "business",
+      "literature",
+      "technical"
+    ],
+    "tags": [
+      "communication",
+      "tools",
+      "actions"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "word": "decrypt",
+  "phonetics": {
+    "british": "/dɪˈkrɛpt/",
+    "american": "/dɪˈkrɛpt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to convert encrypted data or information back to its original, readable form using a key or algorithm",
+      "chineseTranslation": "解密",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decrypt a file",
+      "meaning": "解密一个文件",
+      "example": "You must decrypt the file before opening it to ensure data security.",
+      "exampleTranslation": "你必须在打开文件前解密它，以确保数据安全。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "decrypt encrypted data",
+      "meaning": "解密加密的数据",
+      "example": "The software can automatically decrypt encrypted data upon login.",
+      "exampleTranslation": "该软件可以在登录后自动解密加密的数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Cybersecurity experts often decrypt messages to investigate potential threats.",
+      "translation": "网络安全专家经常解密消息以调查潜在威胁。",
+      "source": "Technical article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the spy novel, the protagonist had to decrypt a coded letter to uncover the plot.",
+      "translation": "在间谍小说中，主人公必须解密一封密码信来揭露情节。",
+      "source": "Literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "With modern tools, anyone can easily decrypt simple ciphers for fun.",
+      "translation": "使用现代工具，任何人都可以轻松解密简单的密码以供娱乐。",
+      "source": "Informal blog",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "down, away from, reversal",
+        "language": "Latin"
+      },
+      {
+        "root": "crypt",
+        "meaning": "hidden",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'kryptos'（隐藏）和拉丁语前缀 'de-'（逆转），最初用于描述隐藏信息的加密技术。词语在20世纪早期随着密码学的兴起而演变为现代意义，特别是在二战期间的密码破译工作中，如恩igma机器的解密。",
+    "firstKnownUse": "Early 20th century",
+    "relatedWords": [
+      "encrypt",
+      "cryptography",
+      "decipher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，将词汇与视觉图像关联，例如想象一个锁定的宝箱被钥匙打开来记忆 'decrypt'；通过重复练习和语境暴露增强记忆痕迹，避免孤立学习以促进长时记忆形成。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decode",
+        "similarity": "0.8",
+        "context": "适用于技术语境中，需要将加密信息转换为原始形式，例如在数据安全领域"
+      },
+      {
+        "word": "decipher",
+        "similarity": "0.7",
+        "context": "常用于历史或文学语境中，涉及破解代码或谜语"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "encrypt",
+        "context": "在安全通信中，常用于对比，表示将信息隐藏而非揭示"
+      }
+    ],
+    "hypernyms": [
+      "process"
+    ],
+    "hyponyms": [
+      "asymmetric decryption",
+      "symmetric decryption"
+    ],
+    "collocations": [
+      {
+        "pattern": "decrypt + object (e.g., file, message)",
+        "examples": [
+          "decrypt a message",
+          "decrypt sensitive data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "using + tool to decrypt",
+        "examples": [
+          "using a key to decrypt"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词与密码学文化紧密相关，象征着信息自由和隐私保护，在西方文化中常与二战时期的盟军破译德军密码（如图灵的工作）联系，代表智慧与安全的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于科技和数字安全语境",
+        "usage": "在美国英语中，强调实际应用，如网络安全软件"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能带有历史文学色彩",
+        "usage": "在英国英语中，常与加密历史事件相关联，如Bletchley Park"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的密码学传统及现代数字时代关联，例如在冷战期间的间谍活动和社会变革中扮演关键角色。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论隐私权和网络安全趋势，如加密货币的解密。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个被锁住的数字宝箱，使用钥匙打开后露出隐藏的信息。",
+      "keyElements": [
+        "锁住的宝箱",
+        "钥匙",
+        "隐藏信息"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩谜题游戏的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Decrypt 像 'de' (去掉) + 'crypt' (隐藏的东西)，所以像去掉隐藏层。",
+        "explanation": "通过视觉联想和分解词根，运用认知科学中的双编码理论，将词汇与图像和意义相结合，促进记忆保留。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/dɪˈkrɛpt/' 听起来像 'deep crypt'（深藏的地下室），想象探索地下室找到宝藏。",
+        "explanation": "利用声音与图像的联觉，帮助初级学习者通过感官刺激强化词汇记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "encrypt",
+      "key",
+      "secure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "decrypted",
+      "pastParticiple": "decrypted",
+      "presentParticiple": "decrypting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + decrypt + object",
+        "description": "主语 + 解密 + 宾语的结构，常用于描述动作过程",
+        "examples": [
+          "The program decrypts the data."
+        ]
+      },
+      {
+        "pattern": "decrypt + using + tool",
+        "description": "解密 + 使用 + 工具的结构，强调方法",
+        "examples": [
+          "He decrypts files using advanced software."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing decrypt with encrypt",
+        "correction": "Use decrypt for decoding and encrypt for encoding",
+        "explanation": "学习者常混淆两者语义，因为它们是反义词；建议通过对比练习避免错误。"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'decrypts' instead of 'decrypted'",
+        "correction": "Match the tense to the context",
+        "explanation": "中级学习者可能忽略时态一致性；通过语境分析强化语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "security",
+      "computing"
+    ],
+    "tags": [
+      "cryptography",
+      "digital security",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

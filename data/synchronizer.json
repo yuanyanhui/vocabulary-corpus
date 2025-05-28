@@ -1,0 +1,232 @@
+{
+  "word": "synchronizer",
+  "phonetics": {
+    "british": "/ˈsɪŋkrənaɪzə/",
+    "american": "/ˈsɪŋkrənaɪzər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, mechanism, or software component that coordinates or aligns the timing of two or more processes, elements, or systems to ensure they operate simultaneously or in harmony.",
+      "chineseTranslation": "同步器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gear synchronizer",
+      "meaning": "齿轮同步器",
+      "example": "The gear synchronizer in the manual transmission ensures smooth shifting between gears.",
+      "exampleTranslation": "手动变速箱中的齿轮同步器确保平滑换档。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data synchronizer",
+      "meaning": "数据同步器",
+      "example": "A data synchronizer is essential for backing up files across multiple devices.",
+      "exampleTranslation": "数据同步器对于在多个设备间备份文件至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern cars, the synchronizer prevents grinding noises when changing gears.",
+      "translation": "在现代汽车中，同步器防止换档时发出磨擦声。",
+      "source": "Automotive engineering literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Software developers often use a synchronizer to align video and audio in editing tools.",
+      "translation": "软件开发人员经常使用同步器来对齐视频编辑工具中的视频和音频。",
+      "source": "Technology blog (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The network synchronizer ensures that all servers update their clocks at the same time.",
+      "translation": "网络同步器确保所有服务器同时更新时钟。",
+      "source": "IT documentation",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "syn",
+        "meaning": "together",
+        "language": "Greek"
+      },
+      {
+        "root": "chronos",
+        "meaning": "time",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊词根 'syn'（一起）和 'chronos'（时间），演变为 'synchronize'，意为使同时发生。该词在19世纪工业革命期间发展为名词形式，用于机械和电子设备，以描述协调时间或动作的装置。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "synchronize",
+      "synchronous",
+      "asynchronous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，使用视觉联想法：将synchronizer想象为一个指挥家，让不同元素如时钟或设备同步运转；通过重复练习和语境关联，增强记忆路径，避免认知负荷过重。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coordinator",
+        "similarity": "0.7",
+        "context": "在管理或协调任务的语境中，例如项目协调"
+      },
+      {
+        "word": "aligner",
+        "similarity": "0.6",
+        "context": "在精确对齐元素的语境中，如视频编辑"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "desynchronizer",
+        "context": "在导致不同步或中断协调的语境中，例如系统故障"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "clock synchronizer",
+      "audio synchronizer"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + synchronizer",
+        "examples": [
+          "gear synchronizer",
+          "data synchronizer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + synchronizer",
+        "examples": [
+          "use a synchronizer"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代技术文化中象征效率、协调和数字化转型，常隐含对工业化和全球连接的强调；在西方文化中，与时间管理和团队合作相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和汽车领域",
+        "usage": "在日常技术讨论和产品说明中较为常见"
+      },
+      {
+        "region": "英国",
+        "variation": "可能强调机械历史语境",
+        "usage": "在工程教育和历史文献中更突出"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪的电子技术发展相关，特别是在汽车和通信领域的创新；在文学和社会评论中，常代表现代化进程，如福特汽车的生产线。",
+    "modernUsage": "在社交媒体和数字工具中流行，用于描述云存储或在线协作工具的趋势，体现跨文化的技术共享。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个指挥家（synchronizer）指挥一组时钟或设备，确保它们同时 tick-tock。",
+      "keyElements": [
+        "指挥家",
+        "时钟",
+        "协调"
+      ],
+      "emotionalConnection": "联想到团队合作的成就感或日常生活中的科技便利"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sync like a symphony",
+        "explanation": "通过将synchronizer与交响乐团的同步表演联想起来，强化时间协调的概念。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Say it with a clock tick",
+        "explanation": "在发音时，联想到钟表的滴答声，帮助记忆发音和含义。"
+      }
+    ],
+    "wordAssociations": [
+      "sync",
+      "timekeeper",
+      "coordinator"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "synchronizers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + synchronizer",
+        "description": "作为主语或宾语使用，常在技术描述中",
+        "examples": [
+          "The synchronizer ensures smooth operation."
+        ]
+      },
+      {
+        "pattern": "In + context + synchronizer",
+        "description": "在特定语境中引入",
+        "examples": [
+          "In computing, a synchronizer is vital."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'synchronizer' with 'synchronized'",
+        "correction": "Use 'synchronizer' as a noun for the device; use 'synchronized' as an adjective.",
+        "explanation": "前者指实体设备，后者描述状态，避免混淆以提高语言精确性。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural.",
+        "explanation": "作为常规名词，需遵循标准规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., rank approximately 15,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Engineering",
+      "Computing"
+    ],
+    "tags": [
+      "Technical",
+      "Mechanics",
+      "Digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "word": "acceptor",
+  "phonetics": {
+    "british": "/əkˈsɛptə/",
+    "american": "/ækˈsɛptər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or entity that accepts something, such as a bill, draft, or offer.",
+      "chineseTranslation": "接受者（如支票或合约的接受方）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, an atom, ion, or molecule that accepts electrons from a donor, often in redox reactions.",
+      "chineseTranslation": "电子接受体（如化学反应中的电子接受者）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In electronics, a dopant that creates holes in a semiconductor, allowing it to accept electrons.",
+      "chineseTranslation": "受主（如半导体中的电子接受杂质）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electron acceptor",
+      "meaning": "电子接受体",
+      "example": "In photosynthesis, chlorophyll acts as an electron acceptor.",
+      "exampleTranslation": "在光合作用中，叶绿素充当电子接受体。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bill acceptor",
+      "meaning": "票据接受器",
+      "example": "The vending machine has a bill acceptor for currency.",
+      "exampleTranslation": "这台自动售货机有一个票据接受器来处理货币。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "social acceptor",
+      "meaning": "社会接受者",
+      "example": "In group dynamics, an acceptor helps integrate new members.",
+      "exampleTranslation": "在群体动态中，接受者有助于整合新成员。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The acceptor of the contract must sign before the deadline.",
+      "translation": "合约的接受者必须在截止日期前签名。",
+      "source": "Legal documents (e.g., from commercial law texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In organic chemistry, an electron acceptor plays a crucial role in facilitating reactions.",
+      "translation": "在有机化学中，电子接受体在促进反应中扮演关键角色。",
+      "source": "Scientific literature (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As an acceptor of diverse ideas, she fosters innovation in her team.",
+      "translation": "作为多样化想法的接受者，她在团队中促进创新。",
+      "source": "Modern business articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "accept-",
+        "meaning": "to take or receive",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'acceptor', the past participle of 'accipere' (meaning 'to take' or 'to receive'). It evolved through Old French 'accepter' in the 14th century to its modern English form, expanding from general acceptance to specialized scientific meanings in the 19th century with advancements in chemistry and electronics.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "accept",
+      "receptor",
+      "donor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块法，将词汇与相关领域（如化学）联系起来；通过重复暴露于语境中增强记忆痕迹；建议初级学习者从基本定义入手，再扩展到专业语境，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "recipient",
+        "similarity": "0.8",
+        "context": "在法律或一般语境中，表示接收方"
+      },
+      {
+        "word": "receiver",
+        "similarity": "0.7",
+        "context": "在电子或通信语境中，表示接受信号的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "donor",
+        "context": "在化学语境中，表示提供电子的实体"
+      },
+      {
+        "word": "rejector",
+        "context": "在社会或心理语境中，表示拒绝事物的个体"
+      }
+    ],
+    "hypernyms": [
+      "entity",
+      "participant"
+    ],
+    "hyponyms": [
+      "electron acceptor",
+      "bill acceptor"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + acceptor (e.g., electron acceptor)",
+        "examples": [
+          "Chlorophyll acts as an electron acceptor."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "acceptor + of + noun (e.g., acceptor of ideas)",
+        "examples": [
+          "She is an acceptor of new ideas."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征接受与合作的价值观，尤其在科学和技术领域，体现创新与交流；在中国文化中，可联想到儒家思想中的'包容'概念，但需注意跨文化差异，避免将科学术语直接映射到社会隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More common in technical contexts like semiconductors.",
+        "usage": "在美国英语中，常用于科技产业，强调实用性和创新"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage in academic writing.",
+        "usage": "在英国英语中，偏向于正式语域，如化学文献中"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命相关，特别是在化学和电子学的兴起中；文学中，如狄更斯作品中隐含接受主题，反映社会变革。",
+    "modernUsage": "在社交媒体和科技平台上，常见于讨论可持续能源或AI伦理，趋势显示其在全球数字语境中的普及"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个容器（代表接受者）在接收礼物或电子，场景中包括一个手持电子的捐赠者传递给容器。",
+      "keyElements": [
+        "容器形象",
+        "传递动作",
+        "电子符号"
+      ],
+      "emotionalConnection": "联结到个人经历，如接收礼物的喜悦，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Acceptor sounds like 'accept more' – think of it as something that takes in more, like electrons.",
+        "explanation": "通过声音联想增强词汇与概念的关联，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "A-C-C-E-P-T-O-R: A Container Catches Everything Precisely To Own Resources.",
+        "explanation": "使用首字母缩略词创建故事，提高记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "receiver",
+      "taker",
+      "absorber"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "acceptors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + acceptor",
+        "description": "主语 + 动词 + 接受者结构，常用于描述角色",
+        "examples": [
+          "The company is the acceptor of the offer."
+        ]
+      },
+      {
+        "pattern": "Acceptor + of + noun",
+        "description": "接受者 + of + 名词结构，表示所属或对象",
+        "examples": [
+          "He acts as an acceptor of responsibility."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'acceptor' with 'accepter' (a less common variant)",
+        "correction": "Use 'acceptor' in standard contexts",
+        "explanation": "在美式英语中，'accepter' 偶尔出现，但 'acceptor' 更正式；学习者需注意拼写差异"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Limit to appropriate domains",
+        "explanation": "避免在非科学语境中随意使用，以防止语义混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "law",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "chemistry",
+      "semantics",
+      "legal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster",
+      "BNC"
+    ]
+  }
+}

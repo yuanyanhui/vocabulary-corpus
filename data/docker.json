@@ -1,0 +1,242 @@
+{
+  "word": "docker",
+  "phonetics": {
+    "british": "/ˈdɒkər/",
+    "american": "/ˈdɑːkər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person employed in a port to load and unload ships, often handling cargo and working on docks.",
+      "chineseTranslation": "码头工人",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a platform for developing, shipping, and running applications inside containers (referring to the software Docker).",
+      "chineseTranslation": "Docker 软件（容器化平台）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "docker container",
+      "meaning": "Docker 容器",
+      "example": "The developer used a docker container to isolate the application environment.",
+      "exampleTranslation": "开发人员使用 Docker 容器来隔离应用程序环境。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "longshore docker",
+      "meaning": "岸边码头工人",
+      "example": "The longshore docker worked tirelessly during the busy shipping season.",
+      "exampleTranslation": "岸边码头工人在繁忙的航运季节中不知疲倦地工作。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The docker carefully unloaded the crates from the cargo ship.",
+      "translation": "码头工人小心地从货船上卸下板条箱。",
+      "source": "Maritime literature (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, a docker image can be easily shared across teams.",
+      "translation": "在软件开发中，Docker 镜像可以轻松地在团队之间共享。",
+      "source": "Technical documentation (e.g., from online tech forums)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Historically, dockers played a key role in labor movements during the Industrial Revolution.",
+      "translation": "历史上，码头工人在工业革命期间发挥了关键作用。",
+      "source": "Historical texts (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "dock",
+        "meaning": "A structure built out into the water for ships to moor",
+        "language": "Middle English (from Old English 'docca')"
+      },
+      {
+        "root": "er",
+        "meaning": "Suffix indicating a person who performs an action",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "The term evolved from Middle English 'dokere', derived from 'dock' meaning a wharf or harbor area, combined with the agentive suffix '-er'. By the 15th century, it referred to workers in ports, and in modern times, it has extended to computing terminology with the advent of containerization technology in the 21st century.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "dockworker",
+      "stevedore",
+      "containerizer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象码头工人操作货船的场景，以增强记忆；",
+      "通过间隔重复系统（Spaced Repetition System）复习 'docker' 的不同语境，避免混淆其传统和技术含义；",
+      "将词汇与个人经验关联，如回想港口城市的旅行，以创建情感连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "stevedore",
+        "similarity": "0.8",
+        "context": "在港口工作语境中，用于描述类似职业"
+      },
+      {
+        "word": "dockworker",
+        "similarity": "0.9",
+        "context": "与码头相关的手工劳动语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "passenger",
+        "context": "在运输语境中，表示非工作者角色"
+      }
+    ],
+    "hypernyms": [
+      "worker",
+      "laborer"
+    ],
+    "hyponyms": [
+      "longshoreman",
+      "container handler"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + verb (e.g., docker unloads)",
+        "examples": [
+          "The docker unloads the cargo."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + noun (e.g., skilled docker)",
+        "examples": [
+          "A skilled docker manages the operation efficiently."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'docker' 象征着工业时代的工作阶级，代表了劳工权益和港口城市的经济活力；在技术语境中，它体现了现代数字转型。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史和劳工语境",
+        "usage": "在英国英语中，常与工会运动相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "可能与软件术语更紧密结合",
+        "usage": "在美国英语中，强调技术应用，如云计算"
+      }
+    ],
+    "historicalContext": "该词与19世纪工业革命和劳工运动有关，例如英国的码头罢工，体现了社会不平等和工人团结；同时，在当代，它与开源软件社区相关联。",
+    "modernUsage": "在社交媒体和科技论坛中，'docker' 常用于DevOps讨论，反映了数字化转型趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个繁忙的港口，码头工人（docker）在船只旁搬运货物，同时旁边有一个电脑屏幕显示着容器化软件界面。",
+      "keyElements": [
+        "港口场景",
+        "货物箱子",
+        "电脑图标"
+      ],
+      "emotionalConnection": "联想到个人职业经历或观看过的港口纪录片，以激发对劳动和创新的共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'docker' 联想为 'dock + worker'，想象船只停靠在码头（dock），工人（worker）在工作。",
+        "explanation": "通过视觉联想加强词汇记忆，基于认知科学中的心智图技术"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈdɒkər/' 听起来像 'doctor' 的变体，想象一个 '码头医生' 修复货物问题。",
+        "explanation": "利用声音相似性创建有趣的比喻，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "dock",
+      "container",
+      "worker",
+      "ship"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dockers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object (e.g., The docker works hard)",
+        "description": "作为主语的典型结构，用于描述职业活动",
+        "examples": [
+          "The docker operates the crane."
+        ]
+      },
+      {
+        "pattern": "Adjective + Noun (e.g., Experienced docker)",
+        "description": "用形容词修饰名词，强调特征",
+        "examples": [
+          "An experienced docker handles heavy loads."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'Docker' as a proper noun for software",
+        "correction": "Use lowercase for general term and uppercase for brand",
+        "explanation": "在上下文中区分一般词汇和专有名词，以避免歧义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'dockers' for plural",
+        "explanation": "英语名词复数规则简单，但初学者常遗忘添加 '-s'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus (medium in technical domains)",
+    "domains": [
+      "maritime",
+      "technology",
+      "labor"
+    ],
+    "tags": [
+      "occupation",
+      "computing",
+      "industrial"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

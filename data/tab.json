@@ -1,0 +1,283 @@
+{
+  "word": "tab",
+  "phonetics": {
+    "british": "/tæb/",
+    "american": "/tæb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a small flap or strip of material attached to something for pulling, identification, or as a marker",
+      "chineseTranslation": "标签",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a key on a keyboard that advances the cursor to the next tab stop",
+      "chineseTranslation": "制表键",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a bill or check, especially in a bar or restaurant",
+      "chineseTranslation": "账单",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to mark or identify with a tab",
+      "chineseTranslation": "加标签于",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to use the tab key on a keyboard",
+      "chineseTranslation": "使用制表键",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tab key",
+      "meaning": "键盘上的制表键，用于跳到下一个制表位",
+      "example": "Press the tab key to indent the paragraph.",
+      "exampleTranslation": "按制表键来缩进段落。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "keep tabs on",
+      "meaning": "密切监视或跟踪某事",
+      "example": "The manager keeps tabs on all employee activities.",
+      "exampleTranslation": "经理密切监视所有员工活动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pick up the tab",
+      "meaning": "支付账单或费用",
+      "example": "I'll pick up the tab for dinner tonight.",
+      "exampleTranslation": "今晚的晚餐我来支付账单。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She labeled the files with a tab for easy reference.",
+      "translation": "她用标签标记文件以便于参考。",
+      "source": "General business communication",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In computing, the tab function helps align text columns efficiently.",
+      "translation": "在计算机中，制表功能有助于高效对齐文本列。",
+      "source": "Technical manual, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the meal, he reluctantly picked up the tab for the group.",
+      "translation": "饭后，他勉强为全组支付了账单。",
+      "source": "Modern fiction, e.g., contemporary novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The detective kept tabs on the suspect's movements throughout the day.",
+      "translation": "侦探整天跟踪嫌疑人的动向。",
+      "source": "News article, e.g., from BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "tabbe",
+        "meaning": "a tag or flap",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的'tabbe'，可能源于古法语'tabe'或'tabbe'，最初指小片布料或标记物；随着时间演变，在现代英语中扩展到键盘功能和账单含义，反映了从物理标记到抽象概念的转变",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "tablet",
+      "table",
+      "tag"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'tab'的多重含义分解为视觉图像，如将键盘制表键与实际标签图像关联，以增强记忆持久性；",
+      "使用间隔重复系统（spaced repetition）复习不同语境下的用法，以改善长期保留；",
+      "通过个人经验联结，例如将'tab'与日常生活中的标签或账单联系，触发情感记忆以提高动机"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "label",
+        "similarity": "0.8",
+        "context": "在标识或标记语境中适用，常用于正式或中性场合"
+      },
+      {
+        "word": "tag",
+        "similarity": "0.7",
+        "context": "在数字或物理标记语境中，强调快速识别"
+      },
+      {
+        "word": "bill",
+        "similarity": "0.6",
+        "context": "在账单含义中，适用于非正式社交场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unmarked",
+        "context": "在标签语境中，指未标记或未识别的状态"
+      },
+      {
+        "word": "free",
+        "context": "在账单语境中，指无需支付"
+      }
+    ],
+    "hypernyms": [
+      "marker",
+      "key"
+    ],
+    "hyponyms": [
+      "function key",
+      "strip"
+    ],
+    "collocations": [
+      {
+        "pattern": "tab + noun (e.g., tab key)",
+        "examples": [
+          "Use the tab key for formatting."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + tab (e.g., keep tabs on)",
+        "examples": [
+          "They keep tabs on market trends."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'tab'象征组织和责任，如账单代表社交礼仪中的支付义务；在数字时代，制表键体现了效率和现代技术依赖",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于账单语境，如'pick up the tab'，强调非正式社交",
+        "usage": "在日常对话中流行，反映美国文化中的慷慨和社交动态"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于标签或标记含义，少用账单语境",
+        "usage": "在正式语境中常见，如文件管理，体现英国的精确和传统"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'tab'从手工标记演变为键盘功能，关联到19世纪印刷和办公实践；在文学中，如狄更斯作品中，隐喻社会责任",
+    "modernUsage": "在社交媒体和在线平台中，'tab'常指浏览器标签页，反映当代数字生活方式的快速切换和多任务处理"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件柜，上面贴着彩色标签（tab），旁边有一个键盘的制表键在闪烁，代表组织和导航",
+      "keyElements": [
+        "标签图像",
+        "键盘键",
+        "文件柜"
+      ],
+      "emotionalConnection": "联结到个人整理桌面的经验，触发成就感或熟悉感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'tab'联想为'tab-le'，像桌子上的标签",
+        "explanation": "通过视觉联想将词与常见物体连接，利用认知联想原理增强回忆"
+      },
+      {
+        "type": "缩略",
+        "content": "T.A.B. 代表 'Tag And Bill'",
+        "explanation": "使用首字母缩写创建故事，帮助第二语言学习者快速分类含义"
+      }
+    ],
+    "wordAssociations": [
+      "label",
+      "key",
+      "bill",
+      "organize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tabs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "tabbing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the tab key)",
+        "description": "用作名词时，常出现在主语或宾语位置，描述具体物体",
+        "examples": [
+          "The tab is essential for navigation."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., tab the files)",
+        "description": "用作动词时，通常后接名词对象，表示动作",
+        "examples": [
+          "She tabs her documents carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'tab' with 'tap'",
+        "correction": "Use 'tab' for labels or keys, 'tap' for light touches",
+        "explanation": "由于发音相似，学习者可能混淆；建议通过发音练习区分"
+      },
+      {
+        "mistake": "Incorrect collocation (e.g., 'keep tab on' instead of 'keep tabs on')",
+        "correction": "Always use plural 'tabs' in this phrase",
+        "explanation": "英语中某些习语要求复数形式，需注意语境规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Daily life"
+    ],
+    "tags": [
+      "Computing",
+      "Idiomatic expressions",
+      "Nouns"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

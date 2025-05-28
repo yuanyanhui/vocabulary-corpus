@@ -1,0 +1,296 @@
+{
+  "word": "discharge",
+  "phonetics": {
+    "british": "/dɪsˈtʃɑːdʒ/",
+    "american": "/dɪsˈtʃɑːrdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To release or let go of something, such as a liquid, gas, or duty.",
+      "chineseTranslation": "释放或解除（如液体、气体或责任）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To dismiss someone from a job or military service.",
+      "chineseTranslation": "解雇或解除某人的职务或服役",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To perform or carry out a function, such as firing a weapon.",
+      "chineseTranslation": "执行或实施功能，如开枪",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of releasing or the substance released, such as from a wound or a battery.",
+      "chineseTranslation": "释放的行为或被释放的物质（如伤口分泌物或电池放电）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Official release from an obligation, such as hospital discharge.",
+      "chineseTranslation": "正式解除义务，如出院",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "discharge a duty",
+      "meaning": "履行职责",
+      "example": "She discharged her duty as a teacher with great care.",
+      "exampleTranslation": "她以极大的谨慎履行了作为老师的职责。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "electrical discharge",
+      "meaning": "电荷释放",
+      "example": "The storm caused an electrical discharge that lit up the sky.",
+      "exampleTranslation": "风暴引发了电荷释放，照亮了天空。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "discharge from hospital",
+      "meaning": "出院",
+      "example": "The doctor approved his discharge from hospital after the tests.",
+      "exampleTranslation": "医生在检查后批准了他出院。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The factory discharges waste into the river every day.",
+      "translation": "工厂每天向河里排放废物。",
+      "source": "Environmental report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After serving his term, he received an honorable discharge from the army.",
+      "translation": "服役期满后，他获得了军队的光荣退伍。",
+      "source": "Military literature (e.g., based on BNC data)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The patient was discharged with instructions to rest at home.",
+      "translation": "病人出院时被告知在家休息。",
+      "source": "Medical journal (e.g., from PubMed)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Lightning is a natural electrical discharge in the atmosphere.",
+      "translation": "闪电是大气中的自然电荷释放。",
+      "source": "Scientific article (e.g., from academic sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "deschargier",
+        "meaning": "to unload",
+        "language": "Old French"
+      },
+      {
+        "root": "dis-",
+        "meaning": "apart or away",
+        "language": "Latin"
+      },
+      {
+        "root": "carricare",
+        "meaning": "to load",
+        "language": "Late Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 deschargier，意为卸载货物，逐步演变为现代英语中表示释放、解除或排放的含义。在中世纪英语中，该词用于军事和商业语境，14世纪后扩展到更广泛的领域，如医疗和科学。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "charge",
+      "recharge",
+      "discharger"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将不同语境下的含义分组记忆，例如先学习动词形式，再扩展到名词；",
+      "使用双编码理论（dual coding），将词汇与视觉图像配对，如想象河流中的废物排放来记忆'排放'含义；",
+      "针对母语为中文的学习者，强调语义映射，避免混淆与类似词如'release'的差异，通过重复暴露于真实语料增强记忆巩固。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "release",
+        "similarity": "0.8",
+        "context": "在医疗或法律语境中，用于表示解除（如出院）"
+      },
+      {
+        "word": "emit",
+        "similarity": "0.7",
+        "context": "在科学语境中，用于表示排放物质"
+      },
+      {
+        "word": "dismiss",
+        "similarity": "0.6",
+        "context": "在就业或军事语境中，用于表示解雇"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "charge",
+        "context": "在电气语境中，表示充电而非放电"
+      },
+      {
+        "word": "retain",
+        "context": "在一般语境中，表示保留而非释放"
+      }
+    ],
+    "hypernyms": [
+      "action",
+      "process"
+    ],
+    "hyponyms": [
+      "electrical discharge",
+      "hospital discharge"
+    ],
+    "collocations": [
+      {
+        "pattern": "discharge + noun (e.g., discharge a weapon)",
+        "examples": [
+          "discharge a firearm",
+          "discharge wastewater"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be discharged from + noun (e.g., be discharged from duty)",
+        "examples": [
+          "be discharged from hospital",
+          "be discharged from service"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与军事（如退伍）和医疗（如出院）相关，象征着责任的结束或新生活的开始，隐含语义可能涉及解脱或风险（如环境排放的负面影响）。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于军事语境，如'honorable discharge'表示光荣退伍",
+        "usage": "在美国英语中，常出现在正式文件和媒体报道中，强调个人权利和责任"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于医疗语境，如'hospital discharge'，并可能在正式语域中使用",
+        "usage": "在英国英语中，常与社会福利系统相关联，反映国家医疗制度的文化规范"
+      }
+    ],
+    "historicalContext": "该词在中世纪欧洲贸易和军事历史中出现，关联十字军东征和航海时代；现代语境下，与工业革命的污染排放和二战退伍军人相关。",
+    "modernUsage": "在社交媒体和新闻中，常用于环境议题（如气候变化排放）或个人故事（如COVID-19出院），反映当代对可持续性和健康的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个河流场景，其中工厂排放废物，同时一名士兵从军队中被释放，这可视化了'discharge'的多重含义。",
+      "keyElements": [
+        "河流排放（代表物质释放）",
+        "士兵退伍（代表责任解除）",
+        "闪电（代表电荷释放）"
+      ],
+      "emotionalConnection": "联结个人经历，如出院后的解脱感，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Discharge sounds like 'dis' + 'charge' – think of 'dismissing a charge' like in a battery.",
+        "explanation": "通过声音联想和视觉想象，将词与电池放电的图像连接，基于认知联想原理简化记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "D-C-H: Discharge – Duty, Charge, Help (remember as ending duty or helping release).",
+        "explanation": "使用缩略形式结合故事构建，援引Elaboration Theory来加深理解"
+      }
+    ],
+    "wordAssociations": [
+      "release",
+      "emit",
+      "unload"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "discharged",
+      "pastParticiple": "discharged",
+      "presentParticiple": "discharging",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + discharge + object",
+        "description": "主语 + 动词 + 宾语结构，常用于主动语态",
+        "examples": [
+          "The river discharges water into the sea."
+        ]
+      },
+      {
+        "pattern": "Be + discharged + from + noun",
+        "description": "被动语态结构，表示从某事中被释放",
+        "examples": [
+          "He was discharged from the hospital."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'discharge' interchangeably with 'charge' in electrical contexts.",
+        "correction": "Distinguish based on context: 'discharge' for releasing, 'charge' for loading.",
+        "explanation": "母语为中文的学习者常混淆类似词汇，导致语义错误；通过语境练习避免。"
+      },
+      {
+        "mistake": "Incorrect verb form in past tense.",
+        "correction": "Use 'discharged' instead of 'discharge' for past actions.",
+        "explanation": "英语动词规则变化易被忽略，建议使用表格记忆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "medical",
+      "military",
+      "environmental",
+      "business"
+    ],
+    "tags": [
+      "action",
+      "process",
+      "release",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "word": "variance",
+  "phonetics": {
+    "british": "/ˈveərɪəns/",
+    "american": "/ˈvɛr.i.əns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being different or varying; a deviation from the norm or average.",
+      "chineseTranslation": "差异；变化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics, a measure of the dispersion of a set of data values, calculated as the square of the standard deviation.",
+      "chineseTranslation": "方差",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A discrepancy or difference between two or more things, often in legal or formal contexts.",
+      "chineseTranslation": "变异；不一致",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analysis of variance",
+      "meaning": "方差分析",
+      "example": "The analysis of variance (ANOVA) is a statistical method used to test differences between two or more means.",
+      "exampleTranslation": "方差分析（ANOVA）是一种用于测试两个或多个平均值之间差异的统计方法。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "genetic variance",
+      "meaning": "遗传变异",
+      "example": "Genetic variance plays a key role in the evolution of species.",
+      "exampleTranslation": "遗传变异在物种进化中扮演关键角色。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "variance in quality",
+      "meaning": "质量差异",
+      "example": "There is significant variance in quality among different manufacturers.",
+      "exampleTranslation": "不同制造商之间存在显著的质量差异。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The variance in temperature between day and night can affect plant growth.",
+      "translation": "白天和夜晚的温度差异会影响植物生长。",
+      "source": "Scientific literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In statistics, variance helps quantify the spread of data points.",
+      "translation": "在统计学中，方差有助于量化数据点的分布范围。",
+      "source": "Educational textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The contract allows for some variance in delivery times due to unforeseen circumstances.",
+      "translation": "合同允许在交付时间上有些许变异，以应对意外情况。",
+      "source": "Business news",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "varians",
+        "meaning": "changing or varying",
+        "language": "Latin"
+      },
+      {
+        "root": "variare",
+        "meaning": "to vary or change",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'varians'，是 'variare' 的现在分词，意思是'变化'。该词通过古法语 'variance' 传入英语，在14世纪开始用于表示差异或变化。在17世纪，随着统计学的兴起，该词在科学语境中演变为表示数据分散度的特定术语。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "variable",
+      "variation",
+      "vary"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经验关联，例如想象温度变化的情景来记忆 'variance'；使用间隔重复法强化统计学语境下的含义，以提升长期记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "variation",
+        "similarity": "0.85",
+        "context": "在描述自然现象或数据变化时使用，例如科学报告中"
+      },
+      {
+        "word": "difference",
+        "similarity": "0.70",
+        "context": "在比较两个事物时使用，例如日常对话中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "invariance",
+        "context": "在强调稳定性或不变性时使用，例如物理学或数学语境"
+      },
+      {
+        "word": "uniformity",
+        "context": "在描述一致性时使用，例如社会或文化分析中"
+      }
+    ],
+    "hypernyms": [
+      "difference",
+      "dispersion"
+    ],
+    "hyponyms": [
+      "standard deviation",
+      "genetic variation"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + variance",
+        "examples": [
+          "analysis of variance"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "variance in + noun",
+        "examples": [
+          "variance in quality",
+          "variance in results"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与科学理性主义相关联，象征对变化和不确定性的量化分析，在现代社会中体现为数据驱动决策的文化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于统计和商业语境",
+        "usage": "例如，在美国教育系统中，该词是统计学课程的核心词汇"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英式英语中，可能更侧重于一般差异含义",
+        "usage": "在英国文学或历史语境中，用于描述社会变迁"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，该词反映了西方对科学方法和经验主义的追求，在19世纪统计学发展中扮演重要角色。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于讨论数据隐私或市场波动，例如在线论坛中分析经济 'variance'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个波动的曲线图，代表数据变化的场景。",
+      "keyElements": [
+        "曲线图",
+        "波动线",
+        "数据点"
+      ],
+      "emotionalConnection": "联结到个人经历中如天气变化带来的情绪波动，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'variance' as 'very antsy' – always changing like ants moving around.",
+        "explanation": "通过声音联想和视觉想象，帮助初级学习者记住词汇的动态含义"
+      },
+      {
+        "type": "缩略",
+        "content": "V-A-R: Vary, Alter, Range",
+        "explanation": "使用缩写形式强化词汇的核心概念，促进认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "vary",
+      "diverge",
+      "fluctuate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "variances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + variance",
+        "description": "主语 + 动词 + 方差/差异",
+        "examples": [
+          "The study measures variance in outcomes."
+        ]
+      },
+      {
+        "pattern": "Variance + in + noun",
+        "description": "方差/差异 + 在 + 名词",
+        "examples": [
+          "Variance in test scores is common."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'variance' with 'variant'",
+        "correction": "Use 'variance' for differences or statistical measures, and 'variant' for a version or form.",
+        "explanation": "由于词汇相似，学习者可能混淆语义；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'variances' for plural.",
+        "explanation": "英文名词规则简单，但非母语者易忽略复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "statistics",
+      "business"
+    ],
+    "tags": [
+      "mathematics",
+      "data analysis",
+      "variation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "word": "format",
+  "phonetics": {
+    "british": "/ˈfɔː.mæt/",
+    "american": "/ˈfɔːr.mæt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The arrangement or organization of something, such as data, text, or an event, into a specific structure or style.",
+      "chineseTranslation": "格式",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange or organize something into a particular format, often involving the preparation of data or documents.",
+      "chineseTranslation": "格式化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to prepare a storage device by organizing its tracks and sectors for use.",
+      "chineseTranslation": "格式化（计算机术语）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "file format",
+      "meaning": "文件格式",
+      "example": "The file format must be compatible with the software.",
+      "exampleTranslation": "文件格式必须与软件兼容。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "debate format",
+      "meaning": "辩论格式",
+      "example": "The debate format includes opening statements and rebuttals.",
+      "exampleTranslation": "辩论格式包括开场陈述和反驳。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "format a document",
+      "meaning": "格式化文档",
+      "example": "Please format a document with proper headings and fonts.",
+      "exampleTranslation": "请用适当的标题和字体格式化文档。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new book format makes it easier to read on mobile devices.",
+      "translation": "新书的格式使其更容易在移动设备上阅读。",
+      "source": "Modern publishing industry (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You need to format the hard drive before installing the operating system.",
+      "translation": "在安装操作系统之前，您需要格式化硬盘。",
+      "source": "Technical manuals (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In academic conferences, the presentation format is strictly formal.",
+      "translation": "在学术会议中，演示格式严格正式。",
+      "source": "Educational contexts (e.g., from academic journals)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "formare",
+        "meaning": "to shape or form",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'formare', meaning to give shape, which evolved through Old French 'format' in the 19th century to refer to arrangement in printing and later to data organization in computing by the mid-20th century.",
+    "firstKnownUse": "1840s (in printing contexts, as per OED)",
+    "relatedWords": [
+      "form",
+      "formation",
+      "reformat"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象'format'如同一把钥匙打开数据结构；通过间隔重复系统复习以强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "structure",
+        "similarity": "0.8",
+        "context": "在描述组织或安排时使用，例如文件结构"
+      },
+      {
+        "word": "layout",
+        "similarity": "0.7",
+        "context": "在设计或出版语境中，例如页面布局"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disorder",
+        "context": "在表示无组织或混乱时，例如与格式化的对立"
+      },
+      {
+        "word": "chaos",
+        "context": "在数据或事件管理中，表示缺乏结构"
+      }
+    ],
+    "hypernyms": [
+      "arrangement",
+      "organization"
+    ],
+    "hyponyms": [
+      "PDF format",
+      "APA format"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + format (e.g., change format)",
+        "examples": [
+          "Change the format to make it more readable."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "format + noun (e.g., format of the event)",
+        "examples": [
+          "The format of the event was innovative."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着标准化和可访问性，尤其在全球通信中，体现了技术文化的效率与统一性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in computing contexts with emphasis on file types.",
+        "usage": "在美国英语中，常与技术领域结合，如'format a USB drive'，反映科技主导的文化。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal in publishing, e.g., 'book format'.",
+        "usage": "在英国英语中，可能更侧重于印刷和学术语境，体现历史出版传统。"
+      }
+    ],
+    "historicalContext": "起源于19世纪的印刷业，与工业革命的标准化浪潮相关；在20世纪后期，与计算机革命相结合，影响了全球信息共享。",
+    "modernUsage": "在社交媒体和在线平台上，'format'常用于视频或帖子的样式，例如TikTok的短视频格式，反映当代数字文化的快速演变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件文件夹被整齐地排列成特定形状，就像拼图块一样。",
+      "keyElements": [
+        "文件夹",
+        "拼图",
+        "形状"
+      ],
+      "emotionalConnection": "联结到个人经验，如整理桌面文件时的满足感，以增强情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Format sounds like 'form at', meaning shape it at a place.",
+        "explanation": "通过声音联想将'format'与'form'（形状）关联，强化词汇记忆路径。"
+      },
+      {
+        "type": "视觉化",
+        "content": "Picture a camera formatting a memory card before shooting.",
+        "explanation": "利用图像记忆技巧，将词汇与日常技术场景连接，提升认知保留。"
+      }
+    ],
+    "wordAssociations": [
+      "shape",
+      "arrange",
+      "structure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "formats",
+      "pastTense": "formatted",
+      "pastParticiple": "formatted",
+      "presentParticiple": "formatting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., I format the text)",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述。",
+        "examples": [
+          "She formats the report every week."
+        ]
+      },
+      {
+        "pattern": "Noun + of + format (e.g., the format of the file)",
+        "description": "名词 + of + 格式结构，用于指定类型。",
+        "examples": [
+          "The format of the document is standard."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'format' with 'formate' (a chemical term)",
+        "correction": "Use 'format' for arrangement, not 'formate'.",
+        "explanation": "二者发音相似，但语义不同；学习者需注意上下文区分。"
+      },
+      {
+        "mistake": "Incorrect verb tense, e.g., 'I format the drive yesterday'",
+        "correction": "I formatted the drive yesterday.",
+        "explanation": "英语动词时态需与时间一致，避免非母语学习者的常见错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Publishing",
+      "Education"
+    ],
+    "tags": [
+      "Computing",
+      "Organization",
+      "Structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

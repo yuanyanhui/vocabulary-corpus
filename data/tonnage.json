@@ -1,0 +1,256 @@
+{
+  "word": "tonnage",
+  "phonetics": {
+    "british": "/ˈtʌnɪdʒ/",
+    "american": "/ˈtʌnɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The capacity or volume of a ship, aircraft, or other vessel, measured in tons, often used to indicate size or cargo-carrying ability.",
+      "chineseTranslation": "吨位",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The total weight of goods or cargo carried, especially in shipping or transportation contexts.",
+      "chineseTranslation": "货物总吨数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the internal capacity of a ship, calculated based on specific formulas, such as gross tonnage or net tonnage.",
+      "chineseTranslation": "船舶承载量",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gross tonnage",
+      "meaning": "总吨位，指船舶的总内部体积，包括所有空间",
+      "example": "The gross tonnage of the cargo ship was over 50,000 tons.",
+      "exampleTranslation": "这艘货船的总吨位超过了50,000吨。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "net tonnage",
+      "meaning": "净吨位，指船舶可用于货物和乘客的空间体积",
+      "example": "Net tonnage is calculated by subtracting non-cargo spaces from gross tonnage.",
+      "exampleTranslation": "净吨位是通过从总吨位中减去非货物空间来计算的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "deadweight tonnage",
+      "meaning": "载重吨位，指船舶能够安全载运的货物、燃料和补给的总重量",
+      "example": "The deadweight tonnage determines how much cargo the vessel can handle.",
+      "exampleTranslation": "载重吨位决定了船舶能够处理的货物量。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ship's tonnage was impressive, allowing it to carry thousands of containers across the ocean.",
+      "translation": "这艘船的吨位令人印象深刻，使其能够运载数千个集装箱穿越海洋。",
+      "source": "Maritime industry reports (e.g., from Lloyd's Register)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In international trade, tonnage plays a crucial role in determining shipping fees and regulations.",
+      "translation": "在国际贸易中，吨位在决定运输费用和法规方面发挥着关键作用。",
+      "source": "Business and economics texts (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must calculate the exact tonnage to ensure the bridge can support heavy vehicles.",
+      "translation": "工程师必须计算精确的吨位，以确保桥梁能够支撑重型车辆。",
+      "source": "Engineering literature (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old French 'tonnage', derived from 'ton' meaning a unit of weight or volume",
+    "rootWords": [
+      {
+        "root": "ton",
+        "meaning": "A measure of weight, originally referring to a large cask or barrel",
+        "language": "Old English/Latin (via French)"
+      }
+    ],
+    "historicalDevelopment": "从14世纪开始在航海和贸易语境中演变，最初用于描述船只的货物容量，由拉丁语'tunna'（酒桶）演化而来，逐渐扩展到现代的船舶测量系统，如格罗斯顿和净吨位。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "ton",
+      "tun",
+      "tonnage measurement"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the IPA /ˈtʌnɪdʒ/ involves common vowel and consonant sounds familiar to intermediate learners)",
+    "spellingDifficulty": "3 (out of 10, straightforward with common letter combinations)",
+    "meaningComplexity": "6 (out of 10, due to multiple technical meanings requiring contextual understanding)",
+    "usageComplexity": "5 (out of 10, primarily used in specific domains like shipping, but with clear patterns)",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将tonnage与实际船舶图像关联；通过重复暴露于真实语境如贸易新闻中增强记忆；建议使用间隔重复系统来巩固词汇间的语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "capacity",
+        "similarity": "0.7",
+        "context": "适用于描述船舶或容器的总体承载能力语境"
+      },
+      {
+        "word": "displacement",
+        "similarity": "0.6",
+        "context": "在海军或工程领域，用于表示物体在水中排出的体积"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lightness",
+        "context": "在对比重量或容量时使用，强调相反的轻盈特性"
+      },
+      {
+        "word": "emptiness",
+        "context": "当讨论无货物状态时，突出缺乏吨位的概念"
+      }
+    ],
+    "hypernyms": [
+      "measurement",
+      "volume"
+    ],
+    "hyponyms": [
+      "gross tonnage",
+      "net tonnage",
+      "deadweight tonnage"
+    ],
+    "collocations": [
+      {
+        "pattern": "tonnage + of + noun (e.g., ship)",
+        "examples": [
+          "the tonnage of the vessel"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + tonnage (e.g., gross tonnage)",
+        "examples": [
+          "calculate gross tonnage"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着工业化和全球贸易的兴起，常与航海探险和殖民历史相关联，例如在英国的皇家海军中用于评估舰队实力。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于历史航海术语",
+        "usage": "在正式文件和历史语境中使用，强调精确测量"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于现代商业和法规语境",
+        "usage": "在国际贸易协议中流行，反映出经济主导地位"
+      }
+    ],
+    "historicalContext": "与18-19世纪的工业革命和帝国主义时代相关联，曾在文学作品如狄更斯的著作中出现，象征经济权力。",
+    "modernUsage": "在社交媒体和新闻中，常用于讨论环境影响，如船舶排放法规，体现可持续发展趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一艘巨大的货船在海洋上航行，船体上标有巨大的吨位数字，代表其承载能力。",
+      "keyElements": [
+        "船只",
+        "数字标记",
+        "海洋背景"
+      ],
+      "emotionalConnection": "联结到个人旅行经历或对探险的兴奋感，以增强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tonnage sounds like 'tuna fish', imagine a tuna swimming with a ton of weight on its back.",
+        "explanation": "通过声音联想和幽默图像帮助记忆词汇，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "T-O-N: T for transport, O for ocean, N for numbers.",
+        "explanation": "使用首字母缩写结合语境，辅助组织记忆网络。"
+      }
+    ],
+    "wordAssociations": [
+      "ship",
+      "cargo",
+      "weight",
+      "measure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tonnages",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + tonnage + of + [Noun]",
+        "description": "典型结构用于描述特定对象的吨位，例如'the tonnage of the ship'",
+        "examples": [
+          "The tonnage of this vessel is 10,000 tons."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase: tonnage in + [Context]",
+        "description": "用于语境说明，例如在贸易或工程中",
+        "examples": [
+          "Tonnage in shipping regulations must be accurate."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing tonnage with weight (e.g., using it interchangeably with 'ton')",
+        "correction": "Use tonnage for volume or capacity measurements specifically.",
+        "explanation": "Tonnage 不是简单的重量单位，而是特定于船舶的体积测量，避免语义混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization (e.g., 'tonnage' as uncountable)",
+        "correction": "Use 'tonnages' for multiple instances.",
+        "explanation": "作为可数名词，在复数语境中需正确添加-s。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in specialized domains)",
+    "domains": [
+      "shipping",
+      "transportation",
+      "engineering",
+      "business"
+    ],
+    "tags": [
+      "maritime",
+      "measurement",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

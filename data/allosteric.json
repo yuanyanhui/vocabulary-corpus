@@ -1,0 +1,247 @@
+{
+  "word": "allosteric",
+  "phonetics": {
+    "british": "/ˌæləʊˈstɛrɪk/",
+    "american": "/ˌæloʊˈstɛrɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to the regulation of an enzyme's activity by means of a change in its shape, caused by the binding of a molecule at a site other than the active site.",
+      "chineseTranslation": "变构的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Pertaining to a process in biochemistry where a protein's function is modulated by the binding of an effector molecule, altering its conformation.",
+      "chineseTranslation": "异位的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "allosteric regulation",
+      "meaning": "变构调控",
+      "example": "Allosteric regulation allows enzymes to respond to changes in the cellular environment.",
+      "exampleTranslation": "变构调控使酶能够对细胞环境的变化做出响应。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "allosteric site",
+      "meaning": "变构位点",
+      "example": "The allosteric site on the protein binds to inhibitors, altering its activity.",
+      "exampleTranslation": "蛋白质上的变构位点与抑制剂结合，从而改变其活性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "allosteric effector",
+      "meaning": "变构效应物",
+      "example": "An allosteric effector can either activate or inhibit the enzyme's function.",
+      "exampleTranslation": "变构效应物可以激活或抑制酶的功能。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The allosteric properties of hemoglobin enable it to bind oxygen more efficiently in the lungs.",
+      "translation": "血红蛋白的变构特性使其在肺部更有效地结合氧气。",
+      "source": "Scientific literature (e.g., biochemistry textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In pharmacology, allosteric modulators are used to fine-tune receptor activity without blocking the primary site.",
+      "translation": "在药理学中，变构调节剂用于微调受体的活性，而不阻塞主要位点。",
+      "source": "Academic journals like Nature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers discovered that the allosteric transition in the protein led to a significant change in its catalytic efficiency.",
+      "translation": "研究人员发现，蛋白质的变构转变导致其催化效率发生重大变化。",
+      "source": "News articles on scientific advancements",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "allo-",
+        "meaning": "other",
+        "language": "Greek"
+      },
+      {
+        "root": "stereos",
+        "meaning": "solid or firm",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'allo-'（意为其他）和 'stereos'（意为固体或形状），最初用于描述分子结构的改变。20世纪中期，在生物化学领域被引入以解释酶的变构调控机制，从单纯的结构描述演变为功能性生物过程的术语。",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "allotropy",
+      "isomerism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个蛋白质像开关一样改变形状；",
+      "使用间隔重复系统来记忆专业术语，以增强长期记忆；",
+      "将词汇与个人经验关联，如将变构调控比作温度变化对材料形状的影响，以降低抽象性"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "allotropic",
+        "similarity": "0.7",
+        "context": "适用于描述物质形态变化的语境，但不如allosteric精确，主要在化学领域"
+      },
+      {
+        "word": "modulatory",
+        "similarity": "0.6",
+        "context": "在生物学中用于描述调控机制的语境，但不限于变构过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "orthosteric",
+        "context": "适用于直接作用于活性位点的机制，与变构机制相对"
+      }
+    ],
+    "hypernyms": [
+      "regulatory"
+    ],
+    "hyponyms": [
+      "cooperative binding"
+    ],
+    "collocations": [
+      {
+        "pattern": "allosteric + noun (e.g., site, regulation)",
+        "examples": [
+          "allosteric site",
+          "allosteric inhibition"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + allosteric (e.g., positive allosteric)",
+        "examples": [
+          "positive allosteric modulator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征着生物系统的动态性和适应性，体现现代生物化学对生命过程的理解，而非特定文化象征",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于学术和工业语境，如制药行业",
+        "usage": "强调实际应用，例如药物开发"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英式英语中可能更注重理论基础，常见于教育和研究语境",
+        "usage": "与历史科学传统相关联"
+      }
+    ],
+    "historicalContext": "与20世纪生物化学革命相关联，如Monod和Jacob的工作，反映了科学对酶调控的认识发展",
+    "modernUsage": "在社交媒体和在线教育中流行，用于科普内容，如YouTube视频或Twitter讨论，体现科学民主化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个蛋白质如一个可变形的锁，当钥匙（效应物）插入非主位点时，锁的形状改变，从而打开或关闭。",
+      "keyElements": [
+        "蛋白质形状",
+        "钥匙插入",
+        "形状变化"
+      ],
+      "emotionalConnection": "联结到个人经验，如调节家用温度器，触发熟悉感和实用性情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Allo-像'all other'，Stereos像'stereo sound'变化",
+        "explanation": "通过词根联想，将'allosteric'与'其他形状'联系，增强视觉记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "A-L-L-O-S-T-E-R-I-C = A Lock Loses Original Shape To External Regulator In Cells",
+        "explanation": "使用首字母缩略法结合故事，基于认知科学的故事记忆原则"
+      }
+    ],
+    "wordAssociations": [
+      "enzyme",
+      "binding",
+      "conformation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + allosteric",
+        "description": "用作形容词修饰名词或主语",
+        "examples": [
+          "The protein is allosteric."
+        ]
+      },
+      {
+        "pattern": "Allosteric + noun phrase",
+        "description": "直接修饰名词短语",
+        "examples": [
+          "Allosteric regulation occurs in many enzymes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'allotropic'",
+        "correction": "Use 'allosteric' for protein regulation",
+        "explanation": "二者虽有相似词根，但语义不同，前者专指生物化学机制"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /æl-o-ster-ik/",
+        "correction": "Pronounce as /ˌæloʊˈstɛrɪk/",
+        "explanation": "忽略音节强调可能导致误解专业术语"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 50,000 in COCA corpus",
+    "domains": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Pharmacology"
+    ],
+    "tags": [
+      "Technical",
+      "Scientific",
+      "Biological process"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "word": "decode",
+  "phonetics": {
+    "british": "/dɪˈkəʊd/",
+    "american": "/diːˈkoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert a coded message into its original form or language, often using a key or algorithm.",
+      "chineseTranslation": "译码；解码",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To interpret or understand something that is not immediately clear, such as a signal or behavior.",
+      "chineseTranslation": "解读；破译",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or act of decoding information.",
+      "chineseTranslation": "解码过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decode a message",
+      "meaning": "译码或解密一条消息",
+      "example": "The spy was able to decode the encrypted message quickly.",
+      "exampleTranslation": "间谍能够快速译码加密的消息。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "decode signals",
+      "meaning": "解读信号",
+      "example": "In telecommunications, engineers decode signals to ensure clear transmission.",
+      "exampleTranslation": "在电信领域，工程师们解读信号以确保清晰传输。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "decode data",
+      "meaning": "解码数据",
+      "example": "Software is used to decode data from the satellite.",
+      "exampleTranslation": "软件用于从卫星解码数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Cryptographers decode secret codes to reveal hidden information.",
+      "translation": "密码学家解码秘密代码以揭示隐藏的信息。",
+      "source": "Technical literature, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She tried to decode his facial expressions during the meeting.",
+      "translation": "她在会议中试图解读他的面部表情。",
+      "source": "Modern fiction, e.g., from BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The app can decode QR codes instantly on your smartphone.",
+      "translation": "该应用可以在您的智能手机上即时解码二维码。",
+      "source": "Daily news articles, e.g., from online tech sources",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "down or away from",
+        "language": "Latin"
+      },
+      {
+        "root": "codex",
+        "meaning": "book or code",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'de-'（表示逆转或移除）和 'codex'（表示书籍或代码），在17世纪的加密学中演变为现代意义，19世纪开始用于通信和计算领域，随着计算机科学的发展，扩展到数字数据处理。",
+    "firstKnownUse": "约1820年",
+    "relatedWords": [
+      "encode",
+      "code",
+      "decrypt"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象解锁密码箱；使用间隔重复法复习以加强长期记忆；针对中文母语学习者，强调音节分解以避免混淆类似词。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decrypt",
+        "similarity": "0.8",
+        "context": "适用于加密通信语境，例如在安全技术中"
+      },
+      {
+        "word": "decipher",
+        "similarity": "0.7",
+        "context": "适用于解读模糊或古老文本语境，例如历史文献"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "encode",
+        "context": "适用于加密或编码信息语境，例如数据保护"
+      },
+      {
+        "word": "encrypt",
+        "context": "适用于安全传输语境，例如网络通信"
+      }
+    ],
+    "hypernyms": [
+      "interpret",
+      "translate"
+    ],
+    "hyponyms": [
+      "decrypt message",
+      "decode signal"
+    ],
+    "collocations": [
+      {
+        "pattern": "decode + noun (e.g., message, signal)",
+        "examples": [
+          "decode a message",
+          "decode data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be able to decode",
+        "examples": [
+          "able to decode signals"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征信息自由和透明，常用于讨论隐私权和网络安全；隐含语义涉及破译未知，类似于文学中的探险主题。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在硅谷文化中，强调创新和快速解码"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向历史或文学语境",
+        "usage": "在学术讨论中，常与加密历史相关联"
+      }
+    ],
+    "historicalContext": "与二战时期的恩igma密码机事件相关联，反映了战争中情报破译的重要性；在文学中，如莎士比亚作品中隐喻解读复杂人性。",
+    "modernUsage": "在社交媒体和AI时代，频繁出现于讨论算法和数据隐私的趋势中，例如TikTok或Twitter上的科技讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探在使用放大镜解开一个锁着的箱子，里面是隐藏的宝藏。",
+      "keyElements": [
+        "侦探",
+        "放大镜",
+        "锁着的箱子",
+        "宝藏"
+      ],
+      "emotionalConnection": "联结个人好奇心或解谜游戏的兴奋感，以增强记忆 retention"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'decode' 联想为 'de-code'，像是在拆除代码的墙。",
+        "explanation": "通过视觉联想帮助建立语义网络，避免混淆类似词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/diːˈkoʊd/' 像 'key code'，想象钥匙打开门。",
+        "explanation": "利用声音相似性强化发音记忆，基于认知听觉加工"
+      }
+    ],
+    "wordAssociations": [
+      "key",
+      "unlock",
+      "interpret"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "decoded",
+      "pastParticiple": "decoded",
+      "presentParticiple": "decoding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + decode + object",
+        "description": "主语 + 解码 + 宾语的结构，常用于主动句",
+        "examples": [
+          "We decode the signal."
+        ]
+      },
+      {
+        "pattern": "To decode + object",
+        "description": "不定式结构，用于表示目的",
+        "examples": [
+          "The system is designed to decode messages automatically."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'encode'",
+        "correction": "Use 'decode' for interpreting and 'encode' for creating code",
+        "explanation": "中文母语学习者常混淆相似词汇，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper verb conjugation, e.g., 'decoded' for past",
+        "explanation": "由于英语时态系统与中文不同，需练习语境应用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "科技",
+      "通信",
+      "文学"
+    ],
+    "tags": [
+      "技术术语",
+      "加密学",
+      "解读"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

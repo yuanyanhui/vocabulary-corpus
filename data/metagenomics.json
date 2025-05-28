@@ -1,0 +1,237 @@
+{
+  "word": "metagenomics",
+  "phonetics": {
+    "british": "/ˌmɛtədʒɪˈnɒmɪks/",
+    "american": "/ˌmɛtədʒəˈnɑːmɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The study of genetic material recovered directly from environmental samples, such as soil, water, or the human microbiome, without the need for isolating and culturing individual organisms.",
+      "chineseTranslation": "宏基因组学",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "metagenomic sequencing",
+      "meaning": "宏基因组测序",
+      "example": "Metagenomic sequencing has revolutionized our understanding of microbial diversity in ocean ecosystems.",
+      "exampleTranslation": "宏基因组测序彻底改变了我们对海洋生态系统微生物多样性的理解。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "metagenomic analysis",
+      "meaning": "宏基因组分析",
+      "example": "Researchers use metagenomic analysis to identify novel enzymes from uncultured bacteria.",
+      "exampleTranslation": "研究人员使用宏基因组分析来识别来自未培养细菌的新型酶。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Metagenomics allows scientists to explore the complex interactions within microbial communities without prior knowledge of the species present.",
+      "translation": "宏基因组学允许科学家们探索微生物群落内的复杂互动，而无需事先了解存在的物种。",
+      "source": "Scientific literature, such as articles from Nature Microbiology",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In environmental science, metagenomics is increasingly applied to assess the impact of pollution on soil bacteria.",
+      "translation": "在环境科学中，宏基因组学越来越多地被用于评估污染对土壤细菌的影响。",
+      "source": "Academic journals like Environmental Science & Technology",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The field of metagenomics has led to breakthroughs in understanding human health, particularly in relation to the gut microbiome.",
+      "translation": "宏基因组学领域已在理解人类健康方面取得了突破，特别是与肠道微生物组相关。",
+      "source": "Popular science media, such as BBC Science Focus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Modern English",
+    "rootWords": [
+      {
+        "root": "meta-",
+        "meaning": "beyond, after, or change",
+        "language": "Greek"
+      },
+      {
+        "root": "genomics",
+        "meaning": "study of genomes",
+        "language": "English (derived from Greek 'genos' meaning race or kind)"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'meta-'（意为超越或改变）和 'genomics'，后者起源于20世纪90年代的基因组学发展。宏基因组学作为一个术语在1998年由Jo Handelsman和同事提出，用于描述直接从环境样本中研究遗传物质的方法，随着测序技术的进步，从单纯的基因组学扩展到生态和微生物学领域。",
+    "firstKnownUse": "1998",
+    "relatedWords": [
+      "genomics",
+      "metagenome",
+      "microbiomics",
+      "transcriptomics"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将词汇分解为 'meta-' 和 'genomics'，并与熟悉的科学概念关联；通过重复暴露于真实语境中，如阅读科学文章，来增强长期记忆；建议使用双编码技术，将词汇与视觉图像（如微生物样本图）结合，以改善保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "environmental genomics",
+        "similarity": "0.8",
+        "context": "适用于生态和环境研究语境中，例如在分析自然样本时"
+      },
+      {
+        "word": "community genomics",
+        "similarity": "0.7",
+        "context": "强调微生物群落整体分析的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cultured genomics",
+        "context": "适用于需要分离和培养个体的传统基因组学方法"
+      }
+    ],
+    "hypernyms": [
+      "genomics"
+    ],
+    "hyponyms": [
+      "shotgun metagenomics",
+      "amplicon metagenomics"
+    ],
+    "collocations": [
+      {
+        "pattern": "metagenomics + noun (e.g., sequencing, analysis)",
+        "examples": [
+          "metagenomic sequencing",
+          "metagenomic data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + metagenomics (e.g., human metagenomics)",
+        "examples": [
+          "human metagenomics",
+          "marine metagenomics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征着现代生物技术革命，体现了从实验室培养向直接环境分析的转变，隐含着对生物多样性的全球关注。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和工业语境中，如NIH资助的项目",
+        "usage": "在美国，宏基因组学常与生物技术创新和专利相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调在生态和公共健康领域的应用，如Wellcome Trust的研究",
+        "usage": "在英国，词汇可能在政策讨论中出现，以讨论环境可持续性"
+      }
+    ],
+    "historicalContext": "与20世纪末的基因组学革命和DNA测序技术的进步相关，特别是在2000年代后期的微生物组计划中起关键作用，反映了科学与社会需求的互动。",
+    "modernUsage": "在社交媒体和在线平台上，宏基因组学常用于讨论健康趋势，如肠道健康，但在非专业语境中可能被简化或误用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家在实验室中从海洋样本中提取DNA，就像在拼图中组装隐藏的遗传拼图。",
+      "keyElements": [
+        "科学家",
+        "海洋样本",
+        "DNA链"
+      ],
+      "emotionalConnection": "联结到个人对探索未知的好奇心，或对环境保护的热情，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Meta-genomics 像 'meta' 在元宇宙中探索新世界一样，宏基因组学探索隐藏的微生物世界。",
+        "explanation": "通过空间联想，将抽象概念与熟悉的虚拟现实联系起来，利用认知映射提升记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "M-E-T-A: Microbes Everywhere To Analyze",
+        "explanation": "使用首字母缩写创建易记短语，基于认知科学中的重复和模式识别原则"
+      }
+    ],
+    "wordAssociations": [
+      "genome",
+      "microbiome",
+      "sequencing",
+      "ecology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为句子的主语，常用于描述科学过程",
+        "examples": [
+          "Metagenomics is a powerful tool for biodiversity studies."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于表示研究领域或方法",
+        "examples": [
+          "Advances in metagenomics have transformed microbiology."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'genomics'",
+        "correction": "Use 'metagenomics' for environmental samples only",
+        "explanation": "Learners often overlook the 'meta-' prefix, which specifies direct environmental analysis; clarify through context"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Do not pluralize as it is an uncountable noun",
+        "explanation": "In English, scientific fields like this are typically uncountable, so avoid adding '-s'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 150,000 in the COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "science",
+      "biology",
+      "technology",
+      "environment"
+    ],
+    "tags": [
+      "genetics",
+      "microbiology",
+      "ecology",
+      "bioinformatics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)",
+      "Scientific literature from PubMed"
+    ]
+  }
+}

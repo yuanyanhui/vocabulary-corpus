@@ -1,0 +1,209 @@
+{
+  "word": "commutate",
+  "phonetics": {
+    "british": "/ˈkɒmjʊteɪt/",
+    "american": "/ˈkɑːmjəteɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To reverse the direction of an electric current, especially in electrical engineering; to exchange or substitute one thing for another.",
+      "chineseTranslation": "换向；交换",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commutate the current",
+      "meaning": "换向电流",
+      "example": "In DC motors, engineers must commutate the current to maintain rotation.",
+      "exampleTranslation": "在直流电机中，工程师必须换向电流以保持旋转。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "commutate signals",
+      "meaning": "交换信号",
+      "example": "The system is designed to commutate signals between different channels seamlessly.",
+      "exampleTranslation": "该系统被设计成能够无缝交换不同通道之间的信号。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers commutate the armature current to ensure efficient operation of the motor.",
+      "translation": "工程师换向电枢电流以确保电机的有效运行。",
+      "source": "Technical manual from IEEE publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In some electronic circuits, it is necessary to commutate voltages to prevent overload.",
+      "translation": "在某些电子电路中，必须交换电压以防止过载。",
+      "source": "Engineering textbook, such as from MIT OpenCourseWare",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The device can commutate data packets in real-time for better network performance.",
+      "translation": "该设备能够实时交换数据包以提高网络性能。",
+      "source": "Modern technology article from COCA corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "commutare",
+        "meaning": "to exchange or alter",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'commutare'，意为交换或改变。该词在17世纪进入英语，主要用于技术语境中，从广义的交换演变为特定于电气工程的换向过程，随着工业革命的发展而普及。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "commute",
+      "mutation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'commutate' 与电气工程概念关联；通过视觉辅助如电路图来强化记忆，避免混淆类似词如 'commute'；建议初学者从简单重复练习到实际语境应用，以提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "exchange",
+        "similarity": "0.7",
+        "context": "适用于技术语境中交换信号或电流的场景"
+      },
+      {
+        "word": "switch",
+        "similarity": "0.6",
+        "context": "在电气工程中，表示改变方向或连接"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maintain",
+        "context": "在保持原有方向或状态的语境中"
+      },
+      {
+        "word": "stabilize",
+        "context": "用于防止变化的技术场景"
+      }
+    ],
+    "hypernyms": [
+      "alter"
+    ],
+    "hyponyms": [
+      "reverse"
+    ],
+    "collocations": [
+      {
+        "pattern": "commutate + noun (e.g., current, signals)",
+        "examples": [
+          "commutate the current",
+          "commutate voltages"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方工程文化中象征技术创新和效率优化，常隐含工业革命的遗产，体现出对机械和电气系统的重视。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和科技领域，以简洁形式",
+        "usage": "在美国英语中，常出现在技术手册和学术论文中，强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，使用频率较低",
+        "usage": "在英国英语中，偶尔见于历史性工程文献，但较少在日常对话中"
+      }
+    ],
+    "historicalContext": "与工业革命和电气工程发展相关，如19世纪的发明家如法拉第的工作，该词反映了西方社会对科技进化的追求。",
+    "modernUsage": "在现代社交媒体和在线论坛中，常出现在STEM教育讨论中，体现跨文化技术交流趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电路板上的开关在翻转电流方向，就像交通信号灯在交换红绿灯。",
+      "keyElements": [
+        "电路板",
+        "开关",
+        "信号灯"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆驾驶时交通灯的变化，以触发情感熟悉感并强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'commutate' 联想为 'come + mutate'，表示 '来改变'。",
+        "explanation": "通过声音联想和语义扩展，帮助学习者构建认知桥梁，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-M-M-U-T-E 代表 'Change Of Motion Makes Utility Transform Energy'",
+        "explanation": "使用首字母缩略词创建故事性记忆，提高回忆效率。"
+      }
+    ],
+    "wordAssociations": [
+      "switch",
+      "exchange",
+      "reverse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "commutated",
+      "pastParticiple": "commutated",
+      "presentParticiple": "commutating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + commutate + object",
+        "description": "主语 + 动词 + 宾语结构，常用于技术描述",
+        "examples": [
+          "Engineers commutate the current."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'commute'",
+        "correction": "Use 'commutate' only in technical contexts",
+        "explanation": "学习者常将 'commutate' 与 'commute' (通勤) 混淆；需注意语境区分，以避免语义错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked below 10,000 in COCA corpus)",
+    "domains": [
+      "engineering",
+      "technology",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "electrical",
+      "verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

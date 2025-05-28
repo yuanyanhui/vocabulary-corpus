@@ -1,0 +1,261 @@
+{
+  "word": "upstream",
+  "phonetics": {
+    "british": "/ʌpˈstriːm/",
+    "american": "/ʌpˈstrim/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adverb",
+      "definition": "In the direction against the current of a river or stream, or towards its source.",
+      "chineseTranslation": "逆流而上或朝河流源头方向",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Situated or moving in the direction from which a stream or river flows, often used metaphorically in business or technology.",
+      "chineseTranslation": "位于河流上游或朝上游方向的，在商业中指供应链早期阶段",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The part of a river or stream nearer to its source.",
+      "chineseTranslation": "河流的上游部分",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go upstream",
+      "meaning": "前往河流上游或比喻逆向而行",
+      "example": "The salmon go upstream to spawn in their birthplace.",
+      "exampleTranslation": "鲑鱼逆流而上到它们的出生地产卵。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "upstream supply chain",
+      "meaning": "供应链的上游部分，指原材料获取和生产阶段",
+      "example": "Companies are focusing on the upstream supply chain to reduce costs.",
+      "exampleTranslation": "公司正专注于供应链上游以降低成本。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "upstream migration",
+      "meaning": "鱼类或动物的逆流迁移",
+      "example": "Upstream migration of fish is often hindered by dams.",
+      "exampleTranslation": "鱼类的逆流迁移常常被水坝阻挡。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The factory is located upstream from the city to avoid pollution.",
+      "translation": "工厂位于城市上游以避免污染。",
+      "source": "Environmental science literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, fixing bugs upstream prevents downstream issues.",
+      "translation": "在软件开发中，修复上游的错误可以防止下游问题。",
+      "source": "Tech industry reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to swim upstream despite the strong current.",
+      "translation": "尽管水流湍急，她决定逆流游泳。",
+      "source": "Literature, such as adventure novels",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "up",
+        "meaning": "Towards a higher position",
+        "language": "Old English"
+      },
+      {
+        "root": "stream",
+        "meaning": "A body of flowing water",
+        "language": "Old English (from Proto-Germanic *straumaz)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于古英语，由 'up'（向上）和 'stream'（溪流）组合而成。最初用于描述河流方向，历史演变为比喻性用法，如在商业或技术语境中表示流程早期阶段。17世纪起在航海和地理文献中常见。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "downstream",
+      "midstream",
+      "riverine"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'upstream' 与河流图景关联，创建个人故事以增强记忆；对于初级学习者，建议通过重复练习上下文以巩固多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "upriver",
+        "similarity": "0.8",
+        "context": "主要用于河流或水文语境中，表示朝源头方向"
+      },
+      {
+        "word": "sourceward",
+        "similarity": "0.6",
+        "context": "较正式的地理或科学语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "downstream",
+        "context": "表示顺流而下或流程后期阶段"
+      },
+      {
+        "word": "downriver",
+        "context": "在河流语境中，表示朝河口方向"
+      }
+    ],
+    "hypernyms": [
+      "directional term",
+      "flow-related concept"
+    ],
+    "hyponyms": [
+      "oil upstream",
+      "migration upstream"
+    ],
+    "collocations": [
+      {
+        "pattern": "upstream + noun (e.g., upstream activities)",
+        "examples": [
+          "upstream exploration",
+          "upstream processes"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + upstream (e.g., go upstream)",
+        "examples": [
+          "swim upstream",
+          "move upstream"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征挑战和逆境，如鲑鱼逆流产卵的故事，代表坚持和回归根源；在商业文化中，体现供应链管理的战略重要性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和技术语境，如石油行业",
+        "usage": "在美国英语中，强调经济效率和创新"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向地理和文学用法",
+        "usage": "在英国英语中，常见于环境或历史叙述"
+      }
+    ],
+    "historicalContext": "与工业革命相关的河流运输和生态变化有关，如19世纪英国文学中描绘的河流主题，反映社会对自然环境的反思。",
+    "modernUsage": "在社交媒体和科技语境下，流行于讨论供应链或软件开发，体现全球化影响。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条河流，鱼儿逆流而上，背景是高山和森林。",
+      "keyElements": [
+        "河流",
+        "鱼儿",
+        "高山"
+      ],
+      "emotionalConnection": "联结个人经历，如面对困难的时刻，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'upstream' 联想为 'up' 的箭头指向河流源头",
+        "explanation": "通过视觉联想增强空间记忆，符合认知科学的空间认知原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ʌpˈstriːm/ 听起来像 'up stream'，想象向上流动的水流",
+        "explanation": "利用声音与动作的联觉，帮助初级学习者记忆多义性"
+      }
+    ],
+    "wordAssociations": [
+      "river",
+      "source",
+      "challenge",
+      "supply"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adverbial phrase in sentences",
+        "description": "用作状语，表示方向或位置",
+        "examples": [
+          "They traveled upstream."
+        ]
+      },
+      {
+        "pattern": "Adjective modifying nouns",
+        "description": "修饰名词，如供应链",
+        "examples": [
+          "The upstream sector is crucial for the industry."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'downstream'",
+        "correction": "Use 'upstream' for source direction",
+        "explanation": "错误源于语义相似性，建议通过上下文练习区分"
+      },
+      {
+        "mistake": "Incorrect preposition use",
+        "correction": "Pair with appropriate verbs like 'go' or 'move'",
+        "explanation": "中文学习者常误用介词，需注意英语搭配习惯"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "Geography",
+      "Business",
+      "Technology"
+    ],
+    "tags": [
+      "Directional",
+      "Metaphorical",
+      "Environmental"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

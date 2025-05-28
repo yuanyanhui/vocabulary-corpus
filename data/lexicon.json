@@ -1,0 +1,271 @@
+{
+  "word": "词汇",
+  "phonetics": {
+    "british": "/ˈlɛksɪkɒn/",
+    "american": "/ˈlɛksɪkɑn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A dictionary, particularly one that lists words from an ancient language or a specialized field.",
+      "chineseTranslation": "一种字典，尤其指古语言或专业领域的词汇列表",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The complete set of words and phrases in a language, or the vocabulary that a person uses or understands.",
+      "chineseTranslation": "一个语言中的全部词汇集合，或一个人使用的或理解的词汇",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linguistics, the mental store of words and their meanings in a person's mind.",
+      "chineseTranslation": "在语言学中，指一个人头脑中存储的词汇及其含义的集合",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mental lexicon",
+      "meaning": "心理词汇库",
+      "example": "Her mental lexicon allows her to switch between languages effortlessly.",
+      "exampleTranslation": "她的心理词汇库让她能够轻松地在语言之间切换。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bilingual lexicon",
+      "meaning": "双语词汇库",
+      "example": "Children developing a bilingual lexicon often mix words from both languages.",
+      "exampleTranslation": "发展双语词汇库的孩子经常混合使用两种语言的词汇。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "lexical database",
+      "meaning": "词汇数据库",
+      "example": "Linguists use a lexical database to analyze the lexicon of ancient texts.",
+      "exampleTranslation": "语言学家使用词汇数据库来分析古代文本的词汇。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ancient Greek lexicon is essential for understanding classical literature.",
+      "translation": "古希腊词汇对于理解古典文学至关重要。",
+      "source": "Academic texts, such as those from Oxford English Dictionary (OED)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cognitive science, the human lexicon is seen as a dynamic network of words.",
+      "translation": "在认知科学中，人类词汇被视为一个动态的词汇网络。",
+      "source": "Linguistic research articles from COCA (Corpus of Contemporary American English)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She consulted the lexicon to find the precise meaning of the archaic term.",
+      "translation": "她查阅了词汇字典来找到那个古词的精确含义。",
+      "source": "Modern literature, e.g., novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The app builds your personal lexicon by tracking new words you learn daily.",
+      "translation": "这个应用通过跟踪你每天学习的新词汇来构建你的个人词汇库。",
+      "source": "Technology and education contexts, e.g., BNC (British National Corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "lexis",
+        "meaning": "word or speech",
+        "language": "Greek"
+      },
+      {
+        "root": "lexicon",
+        "meaning": "word book",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'lexis'（意为'词语'或'演讲'），演变为拉丁语，然后在16世纪进入英语，指代词汇列表或字典。随着语言学的发展，在19世纪开始用于描述语言的词汇系统，并在现代认知语言学中扩展为心理词汇概念。",
+    "firstKnownUse": "1530s",
+    "relatedWords": [
+      "lexeme",
+      "lexicography",
+      "vocabulary"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将词汇与相关语境关联，例如将 'lexicon' 与 'dictionary' 的视觉图像结合，以增强记忆编码；",
+      "使用间隔重复系统（spaced repetition）复习词汇的多重含义，避免混淆；",
+      "通过个人经验联想，例如将 'mental lexicon' 与日常生活中的语言切换场景联系，以促进长期记忆巩固"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "vocabulary",
+        "similarity": "0.8",
+        "context": "在一般语言学习语境中，用于描述词汇集合"
+      },
+      {
+        "word": "dictionary",
+        "similarity": "0.7",
+        "context": "在参考工具语境中，用于描述词汇列表"
+      },
+      {
+        "word": "glossary",
+        "similarity": "0.6",
+        "context": "在专业或技术语境中，用于特定领域的术语解释"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "syntax",
+        "context": "在语言学中，指结构规则而非词汇内容"
+      },
+      {
+        "word": "grammar",
+        "context": "强调语言规则而非词汇集合"
+      }
+    ],
+    "hypernyms": [
+      "language component"
+    ],
+    "hyponyms": [
+      "specialized lexicon",
+      "core vocabulary"
+    ],
+    "collocations": [
+      {
+        "pattern": "lexicon of [language]",
+        "examples": [
+          "the lexicon of Latin"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "build a lexicon",
+        "examples": [
+          "build a personal lexicon"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着语言知识的系统化，特别是在英语国家中代表了对古典语言（如拉丁语和希腊语）的学术传承，并隐含着智力与教育的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于历史和学术语境",
+        "usage": "常用于正式教育和文学分析中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于现代认知科学和技术应用",
+        "usage": "在日常语言学习App中流行"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的语言复兴运动相关，强调词汇在文化保存中的作用，例如莎士比亚时代的使用。",
+    "modernUsage": "在社交媒体和在线学习平台中，'lexicon' 常用于描述流行文化词汇，如网络俚语的集合，反映了全球化的语言动态"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的图书馆，里面满是书架，每本书代表一个词汇，书架上标签为 'lexicon'，并与大脑的神经网络连接。",
+      "keyElements": [
+        "图书馆",
+        "书架",
+        "大脑网络"
+      ],
+      "emotionalConnection": "联结到个人学习经历，例如第一次查阅字典时的兴奋感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Lexicon 听起来像 'lex' + 'icon'，想象一个图标（icon）代表词汇列表。",
+        "explanation": "通过视觉联想将词汇与图标联系，增强认知加工"
+      },
+      {
+        "type": "缩略",
+        "content": "L-E-X: List of Essential eXpressions",
+        "explanation": "使用首字母缩写创建简单短语，便于记忆"
+      }
+    ],
+    "wordAssociations": [
+      "dictionary",
+      "vocabulary",
+      "brain",
+      "language"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lexicons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: the [adjective] lexicon",
+        "description": "用形容词修饰，表示特定类型词汇",
+        "examples": [
+          "the comprehensive lexicon"
+        ]
+      },
+      {
+        "pattern": "In [context] of [noun]",
+        "description": "表示词汇在特定语境中的应用",
+        "examples": [
+          "in the lexicon of medicine"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'lexicon' as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "该词仅为名词，非动词，避免误用为动作"
+      },
+      {
+        "mistake": "Overgeneralizing meaning",
+        "correction": "Distinguish from simple 'vocabulary'",
+        "explanation": "在语境中注意区分其专业含义"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "linguistics",
+      "education",
+      "technology"
+    ],
+    "tags": [
+      "language",
+      "vocabulary",
+      "cognition"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

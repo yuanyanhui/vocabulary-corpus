@@ -1,0 +1,251 @@
+{
+  "word": "metallicity",
+  "phonetics": {
+    "british": "/ˌmɛtəˈlɪsɪti/",
+    "american": "/ˌmɛtəˈlɪsəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The abundance of chemical elements heavier than hydrogen and helium in a given astronomical object, such as a star or galaxy.",
+      "chineseTranslation": "金属丰度",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, the proportion of metallic elements in a substance or material.",
+      "chineseTranslation": "金属含量",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "high metallicity",
+      "meaning": "高金属丰度",
+      "example": "Stars with high metallicity are often found in the galactic disk.",
+      "exampleTranslation": "具有高金属丰度的恒星通常出现在银河系盘中。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "solar metallicity",
+      "meaning": "与太阳相似的金属丰度",
+      "example": "The exoplanet has a solar metallicity, suggesting it formed in a similar environment to our Sun.",
+      "exampleTranslation": "这颗系外行星具有与太阳相似的金属丰度，表明它形成于类似的环境。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "metallicity gradient",
+      "meaning": "金属丰度梯度",
+      "example": "Astronomers study the metallicity gradient in galaxies to understand their evolution.",
+      "exampleTranslation": "天文学家研究星系中的金属丰度梯度，以了解其演化过程。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The metallicity of this star is much higher than that of the Sun, indicating it is part of an older stellar population.",
+      "translation": "这颗恒星的金属丰度远高于太阳，表明它是较老的恒星种群的一部分。",
+      "source": "Scientific literature, e.g., from astrophysics journals like The Astrophysical Journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cosmology, metallicity serves as a key indicator of a galaxy's chemical enrichment over time.",
+      "translation": "在宇宙学中，金属丰度是星系化学富集过程的重要指标。",
+      "source": "Educational resources, e.g., NASA publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The team's research revealed a low metallicity in the distant quasar, suggesting early universe conditions.",
+      "translation": "该团队的研究揭示了遥远类星体的低金属丰度，提示了早期宇宙的条件。",
+      "source": "News articles, e.g., from BBC Science",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "metal",
+        "meaning": "A naturally occurring inorganic substance",
+        "language": "Greek (from metallon, meaning 'mine' or 'metal')"
+      },
+      {
+        "root": "-icity",
+        "meaning": "State or quality of",
+        "language": "Latin (from -itas, a suffix forming nouns)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪的英语科学术语，由 'metal' 和后缀 '-icity' 组合而成，早先 'metal' 来自古希腊语 metallon，指矿石或金属。20世纪初在天文学中发展，用于描述天体中重元素的丰度，从最初的化学含义扩展到宇宙学语境。",
+    "firstKnownUse": "Early 20th century, around 1920 in astrophysical contexts",
+    "relatedWords": [
+      "metallize",
+      "metallography",
+      "metalloid"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it requires intermediate scientific vocabulary knowledge)",
+    "pronunciationDifficulty": "6 (中等难度，由于包含音节 /ˌmɛtəˈlɪsəti/，可能对中文母语者造成辅音群和元音发音挑战)",
+    "spellingDifficulty": "7 (中等偏高难度，因为拼写涉及双重音节和不常见的后缀 '-icity')",
+    "meaningComplexity": "8 (较高复杂度，需要理解天文学背景，且语义抽象)",
+    "usageComplexity": "7 (中等偏高复杂度，主要限于专业语境，需结合科学术语使用)",
+    "learningTips": [
+      "通过认知科学原则，将词汇与视觉图像关联，例如想象恒星中的金属元素作为彩色颗粒；使用间隔重复法复习；结合个人经验，如回忆化学课本中的元素表，以增强记忆编码。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "metal abundance",
+        "similarity": "0.9",
+        "context": "适用于天文学语境中描述元素丰度的场合"
+      },
+      {
+        "word": "chemical enrichment",
+        "similarity": "0.7",
+        "context": "在宇宙学讨论中，指元素积累过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "primordial composition",
+        "context": "适用于描述早期宇宙中缺乏重元素的语境"
+      },
+      {
+        "word": "hydrogen-dominated",
+        "context": "在天体物理学中，指氢元素主导的组成"
+      }
+    ],
+    "hypernyms": [
+      "abundance",
+      "composition"
+    ],
+    "hyponyms": [
+      "iron abundance",
+      "oxygen metallicity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + metallicity (e.g., stellar metallicity)",
+        "examples": [
+          "The stellar metallicity affects star formation."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + metallicity (e.g., high metallicity)",
+        "examples": [
+          "High metallicity indicates advanced galactic evolution."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征现代天文学的进步，隐含人类对宇宙起源的探索；在中国文化中，与传统天文观测（如古代星象）关联较少，但近年来在科普教育中日益重要。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和科技语境",
+        "usage": "在美国英语中，常见于NASA和大学研究报告"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在发音上略有差异",
+        "usage": "在英国英语中，常见于欧洲天文台的出版物"
+      }
+    ],
+    "historicalContext": "与20世纪天文学革命相关，如哈勃的宇宙膨胀理论和元素合成模型；在中国，类似于古代的'五行'概念，但现代用法受西方科学影响。",
+    "modernUsage": "在社交媒体和在线科普平台（如YouTube或微博）中，流行用于讨论外星生命可能性，例如'高金属丰度可能支持宜居行星'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一颗闪烁的恒星内部充满闪亮的金属颗粒，如金银矿石在宇宙中闪耀。",
+      "keyElements": [
+        "恒星",
+        "金属颗粒",
+        "闪耀"
+      ],
+      "emotionalConnection": "联结到个人对太空探索的兴奋感，或回忆儿时观星的经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Metallicity 像 'metal city'，想象一个由金属建造的城市，代表丰度的聚集地。",
+        "explanation": "通过视觉联想帮助记忆词汇结构和含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌmɛtəˈlɪsəti/ 听起来像 'meta list city'，联想到一个列表中的金属元素。",
+        "explanation": "利用声音相似性强化发音和语义记忆"
+      }
+    ],
+    "wordAssociations": [
+      "star",
+      "elements",
+      "abundance",
+      "galaxy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null (不可数名词)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + metallicity",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "Metallicity influences stellar evolution."
+        ]
+      },
+      {
+        "pattern": "Adjective + metallicity + of + noun",
+        "description": "描述特定对象的金属丰度",
+        "examples": [
+          "The high metallicity of the nebula is remarkable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'metallicity' and 'metallic'",
+        "correction": "Use 'metallicity' for the state of abundance, not 'metallic' which is an adjective.",
+        "explanation": "中文学习者常混淆形容词和名词形式，导致语义错误"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Restrict to scientific writing",
+        "explanation": "中间级学习者可能错误应用于日常对话中"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 50,000 in COCA corpus (medium in scientific domains)",
+    "domains": [
+      "science",
+      "astronomy",
+      "chemistry"
+    ],
+    "tags": [
+      "technical",
+      "astrophysics",
+      "elements"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

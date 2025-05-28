@@ -1,0 +1,241 @@
+{
+  "word": "nameplate",
+  "phonetics": {
+    "british": "/ˈneɪmpleɪt/",
+    "american": "/ˈneɪmpleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A flat piece of metal, wood, or plastic that bears a name, title, or identification, often attached to an object, door, or building.",
+      "chineseTranslation": "铭牌；名牌",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In industrial or mechanical contexts, a plate that provides information such as specifications, serial numbers, or warnings on machinery or equipment.",
+      "chineseTranslation": "设备铭牌；标识板",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "door nameplate",
+      "meaning": "门上的铭牌，通常用于标识姓名或地址",
+      "example": "The door nameplate clearly displayed the doctor's name and office hours.",
+      "exampleTranslation": "门上的铭牌清楚地显示了医生的姓名和办公时间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "machine nameplate",
+      "meaning": "机器上的铭牌，包含技术规格信息",
+      "example": "Always check the machine nameplate for voltage requirements before operation.",
+      "exampleTranslation": "操作前总是要检查机器铭牌上的电压要求。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The nameplate on the front door read 'Smith Residence' in elegant script.",
+      "translation": "前门上的铭牌用优雅的字体写着 'Smith Residence'。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must refer to the nameplate data to ensure the equipment meets safety standards.",
+      "translation": "工程师必须参考铭牌数据以确保设备符合安全标准。",
+      "source": "Technical manuals (e.g., from engineering corpora)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In historical buildings, the original nameplate serves as a reminder of past owners.",
+      "translation": "在历史建筑中，原来的铭牌作为过去所有者的提醒。",
+      "source": "Historical texts (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "name",
+        "meaning": "A word or term by which something is known or referred to",
+        "language": "Old English (from Proto-Germanic *namon-)"
+      },
+      {
+        "root": "plate",
+        "meaning": "A flat piece of metal or other material",
+        "language": "Old French (from Latin *plattus*, meaning flat)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪工业革命时期，源自'name'和'plate'的组合，最初用于标识物品或建筑。随着工业化发展，它演变为技术语境中表示设备规格的标签，从单纯的装饰性标识逐步扩展到功能性和安全相关用途。",
+    "firstKnownUse": "Mid-19th century (approximately 1850, as per OED records)",
+    "relatedWords": [
+      "plaque",
+      "label",
+      "tag",
+      "emblem"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法，例如将'nameplate'想象为家门上的金属牌子，并与个人经历关联以增强记忆；通过间隔重复系统复习，减少遗忘曲线的影响。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "label",
+        "similarity": "0.8",
+        "context": "适用于一般标识语境中，例如产品包装"
+      },
+      {
+        "word": "plaque",
+        "similarity": "0.7",
+        "context": "常用于纪念或装饰性语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "blank plate",
+        "context": "表示无标识的空白板子，常用于无名或匿名场合"
+      }
+    ],
+    "hypernyms": [
+      "identifier",
+      "signage"
+    ],
+    "hyponyms": [
+      "doorplate",
+      "serial plate"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + nameplate (e.g., door nameplate)",
+        "examples": [
+          "The brass nameplate shone in the sunlight."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Nameplate + preposition + object (e.g., nameplate on the door)",
+        "examples": [
+          "Check the nameplate on the machine."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征身份和所有权，例如在美国住宅文化中，nameplate 常用于显示家庭姓氏，体现个人隐私和财产界定；在工业文化中，它隐含安全和合规的意义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用在历史建筑和正式场合",
+        "usage": "英国语境中，常见于维多利亚式房屋的装饰性nameplate"
+      },
+      {
+        "region": "美国",
+        "variation": "在商业和工业领域更常见，强调功能性",
+        "usage": "美国语境中，常用于设备和车辆的标准化标识"
+      }
+    ],
+    "historicalContext": "与工业革命和城市化进程相关，在19世纪的英国文学中（如狄更斯作品），nameplate 象征社会阶层和身份；在现代社会中，它与隐私权和数据保护运动有关。",
+    "modernUsage": "在社交媒体和数字时代，nameplate 扩展到虚拟标识，如网站域名标签，但主要仍用于实体对象。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个家门前闪亮的金属铭牌，上面刻着你的姓氏。",
+      "keyElements": [
+        "金属板",
+        "姓名刻印",
+        "门前场景"
+      ],
+      "emotionalConnection": "联结到个人童年记忆，例如回家的感觉，以触发积极情绪并加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Name + Plate = Nameplate, 就像名字贴在盘子上",
+        "explanation": "通过视觉联想将词汇分解为熟悉部分，运用认知科学中的双编码理论，提升记忆保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/neɪmpleɪt/听起来像'neim play it'，想象在玩游戏时贴上名字标签",
+        "explanation": "利用声音与动作的联结，基于神经联想原理，帮助初级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "name",
+      "plate",
+      "label",
+      "identify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "nameplates",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Nameplate",
+        "description": "名词作为主语或宾语的典型结构",
+        "examples": [
+          "The nameplate identifies the owner."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with nameplate",
+        "description": "使用介词短语的结构，如'on the door'",
+        "examples": [
+          "The information is on the nameplate."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'nametag' (which is for clothing)",
+        "correction": "Use 'nameplate' for fixed, durable items",
+        "explanation": "nameplate 指固定铭牌，而 nametag 指可移动标签；错误源于语义混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "nameplates (add -s)",
+        "explanation": "作为可数名词，需正确添加复数形式以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "manufacturing",
+      "daily life"
+    ],
+    "tags": [
+      "identification",
+      "labeling",
+      "industrial"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

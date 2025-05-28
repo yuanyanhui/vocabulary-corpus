@@ -1,0 +1,274 @@
+{
+  "word": "object",
+  "phonetics": {
+    "british": "/ˈɒb.dʒɛkt/ (noun), /əbˈdʒɛkt/ (verb)",
+    "american": "/ˈɑːb.dʒɛkt/ (noun), /əbˈdʒɛkt/ (verb)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A material thing that can be perceived by the senses, especially something that can be seen or touched.",
+      "chineseTranslation": "物体；物件",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A goal or purpose of an action or activity.",
+      "chineseTranslation": "目标；目的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To express disapproval or disagreement with something.",
+      "chineseTranslation": "反对；抗议",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In grammar, a noun or noun phrase that is affected by the action of a verb.",
+      "chineseTranslation": "（语法中的）宾语",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "direct object",
+      "meaning": "直接宾语",
+      "example": "In the sentence 'She bought a book', 'a book' is the direct object.",
+      "exampleTranslation": "在句子 'She bought a book' 中，'a book' 是直接宾语。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "object to",
+      "meaning": "反对某事",
+      "example": "I object to the proposal because it lacks detail.",
+      "exampleTranslation": "我反对这个提案，因为它缺乏细节。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sex object",
+      "meaning": "被视为性吸引物的对象",
+      "example": "In some media, women are portrayed as sex objects.",
+      "exampleTranslation": "在某些媒体中，女性被描绘成性对象。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist examined the object under the microscope.",
+      "translation": "科学家在显微镜下检查了这个物体。",
+      "source": "Scientific literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her main object in life is to travel the world.",
+      "translation": "她人生中的主要目标是环游世界。",
+      "source": "Modern fiction (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The lawyer will object to the witness's testimony in court.",
+      "translation": "律师将在法庭上对证人的证词提出异议。",
+      "source": "Legal contexts (e.g., from news articles)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In English grammar, 'the ball' is the object in 'The dog chased the ball'.",
+      "translation": "在英语语法中，'the ball' 是句子 'The dog chased the ball' 中的宾语。",
+      "source": "Educational materials (e.g., from language textbooks)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "objectum",
+        "meaning": "Something thrown before or presented",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'objectum'（源自 'ob-' 表示 'towards' 和 'jacere' 表示 'to throw'）演变为中世纪拉丁语中的 'objectus'，用于表示 'something presented to the mind'。在英语中，14 世纪开始使用，最初指物理实体，后来扩展到抽象目标和语法概念。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "subject",
+      "project"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10 scale; moderate due to vowel variations between British and American English, which may confuse intermediate learners)",
+    "spellingDifficulty": "3 (1-10 scale; straightforward spelling with common patterns)",
+    "meaningComplexity": "6 (1-10 scale; multiple meanings require contextual understanding, challenging for second language learners)",
+    "usageComplexity": "5 (1-10 scale; depends on context, with verb form requiring syntactic awareness)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个物理物体来记忆名词含义；通过重复性练习和语境关联，增强长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "item",
+        "similarity": "0.8",
+        "context": "在描述物理实体的语境中，例如日常物品"
+      },
+      {
+        "word": "aim",
+        "similarity": "0.7",
+        "context": "在表示目标的语境中，例如商业或个人计划"
+      },
+      {
+        "word": "protest",
+        "similarity": "0.6",
+        "context": "在动词形式，表示反对时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subject",
+        "context": "在语法语境中，宾语的反义词是主语"
+      },
+      {
+        "word": "agree",
+        "context": "在动词语境中，反对的反义词是同意"
+      }
+    ],
+    "hypernyms": [
+      "entity",
+      "thing"
+    ],
+    "hyponyms": [
+      "artifact",
+      "goal"
+    ],
+    "collocations": [
+      {
+        "pattern": "object + preposition (e.g., object to, object of)",
+        "examples": [
+          "He objected to the plan.",
+          "The object of her affection is unknown."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + object",
+        "examples": [
+          "See the object clearly."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征中性，通常用于描述客观现实，但在美国文化中，常与哲学或心理学（如康德哲学中的 'object' 与 'subject' 的二元对立）相关联，隐含主客观分离的西方思维方式。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用在正式语境，如学术讨论",
+        "usage": "在英国英语中，'object' 作为动词时常用于法律或辩论场景"
+      },
+      {
+        "region": "美国",
+        "variation": "在日常口语中更常见，例如在商业语境",
+        "usage": "在美国英语中，'object' 常与科技或消费文化结合，如 'consumer object'"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，强调客观性；在文学中，如莎士比亚作品中出现，反映了文艺复兴时期的理性主义。",
+    "modernUsage": "在社交媒体和数字时代，'object' 常用于虚拟现实语境，如 '3D object'，反映了技术驱动的当代文化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个房间里有一个球（代表物理物体），一个目标标志（代表目的），并有人在摇头反对（代表动词）。",
+      "keyElements": [
+        "球作为物体",
+        "标志作为目标",
+        "摇头作为反对"
+      ],
+      "emotionalConnection": "联结个人经验，例如回想童年玩耍的物体或最近的争论，以触发情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Object sounds like 'obstacle' + 'ject' (projected thing)",
+        "explanation": "通过声音联想，将 'object' 与 'obstacle' 联系，想象一个被投射的障碍物来记忆名词含义。"
+      },
+      {
+        "type": "缩略",
+        "content": "O-B-J: Object By Jecting",
+        "explanation": "使用首字母缩略来记忆词根，结合拉丁语起源增强认知关联。"
+      }
+    ],
+    "wordAssociations": [
+      "thing",
+      "goal",
+      "protest"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "objects",
+      "pastTense": "objected",
+      "pastParticiple": "objected",
+      "presentParticiple": "objecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object",
+        "description": "主语-动词-宾语结构，常用于名词形式",
+        "examples": [
+          "The child sees the object."
+        ]
+      },
+      {
+        "pattern": "Object to + noun/gerund",
+        "description": "表示反对的结构",
+        "examples": [
+          "She objects to smoking."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'object' with 'subject' in sentences",
+        "correction": "Ensure the word affected by the verb is correctly identified as object",
+        "explanation": "中文学习者常混淆主宾语，因为中文句法较灵活；通过练习英语句子结构可避免。"
+      },
+      {
+        "mistake": "Using 'object' as a verb without proper preposition",
+        "correction": "Add 'to' after 'object' when expressing disapproval",
+        "explanation": "错误如 'I object the idea' 应改为 'I object to the idea'，以符合英语搭配习惯。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 words in COCA corpus)",
+    "domains": [
+      "Science",
+      "Education",
+      "Law",
+      "Daily life"
+    ],
+    "tags": [
+      "Noun",
+      "Verb",
+      "Grammar",
+      "Abstract"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

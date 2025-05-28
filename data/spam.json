@@ -1,0 +1,250 @@
+{
+  "word": "spam",
+  "phonetics": {
+    "british": "/spæm/",
+    "american": "/spæm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Irrelevant or unsolicited messages sent over the internet, typically to a large number of users, often for advertising purposes.",
+      "chineseTranslation": "垃圾邮件或信息",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal/neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send unsolicited and often identical messages, especially advertisements, to a large number of internet users.",
+      "chineseTranslation": "发送垃圾邮件",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spam email",
+      "meaning": "垃圾邮件",
+      "example": "I receive a lot of spam email every day.",
+      "exampleTranslation": "我每天都收到很多垃圾邮件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "spam folder",
+      "meaning": "垃圾邮件文件夹",
+      "example": "Check your spam folder for any important messages.",
+      "exampleTranslation": "检查你的垃圾邮件文件夹，看看是否有重要信息。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "send spam",
+      "meaning": "发送垃圾信息",
+      "example": "Companies that send spam can face legal penalties.",
+      "exampleTranslation": "发送垃圾邮件的公司可能面临法律处罚。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My inbox is flooded with spam from unknown senders.",
+      "translation": "我的收件箱被未知发件人的垃圾邮件淹没了。",
+      "source": "Modern digital communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She accidentally spammed her entire contact list with promotional links.",
+      "translation": "她意外地向整个联系人列表发送了推广链接。",
+      "source": "Social media context (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the early days of the internet, spam was less common than it is today.",
+      "translation": "在互联网早期，垃圾邮件没有今天这么常见。",
+      "source": "Historical tech article (e.g., from OED historical sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "SPAM",
+        "meaning": "Originally a brand name for a canned meat product",
+        "language": "English (from trademark)"
+      }
+    ],
+    "historicalDevelopment": "The word originated from the Hormel Foods trademark for a canned meat product in the 1930s. It gained broader metaphorical use through a 1970 Monty Python sketch, where 'SPAM' represented something repetitive and overwhelming. By the 1990s, it evolved in internet culture to mean unsolicited bulk messages, reflecting the pervasive nature of unwanted digital content.",
+    "firstKnownUse": "As an internet term, around 1993 in Usenet discussions",
+    "relatedWords": [
+      "spammer",
+      "spamming",
+      "anti-spam"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "通过视觉联想将 'spam' 与满屏的电子邮件图片关联，增强记忆路径；",
+      "结合个人经验，回忆收到垃圾邮件的挫败感，以建立情感连接；",
+      "使用间隔重复法（spaced repetition）复习词汇在不同语境中的应用，以优化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "junk mail",
+        "similarity": "0.9",
+        "context": "在电子邮件语境中，用于描述非预期的广告信息"
+      },
+      {
+        "word": "unsolicited messages",
+        "similarity": "0.8",
+        "context": "在 broader 数字通信语境中，强调未经请求的性质"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "legitimate email",
+        "context": "在正式通信语境中，与授权或预期的消息相对"
+      },
+      {
+        "word": "personal correspondence",
+        "context": "在私人交流语境中，表示有针对性的、非批量发送的信息"
+      }
+    ],
+    "hypernyms": [
+      "unsolicited messages",
+      "bulk communication"
+    ],
+    "hyponyms": [
+      "phishing spam",
+      "advertising spam"
+    ],
+    "collocations": [
+      {
+        "pattern": "receive spam",
+        "examples": [
+          "Users often receive spam in their inboxes."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "filter spam",
+        "examples": [
+          "Email services filter spam automatically."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征数字隐私入侵和信息过载，常与互联网时代的不良行为相关联，体现对个人空间的担忧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在日常数字交流中广泛使用，常见于反垃圾邮件法规如CAN-SPAM Act"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更侧重于幽默或历史引用（如Monty Python的影响）",
+        "usage": "在社交媒体上流行，强调文化遗产与现代应用的融合"
+      }
+    ],
+    "historicalContext": "与20世纪互联网兴起相关，源自Monty Python的讽刺文化，并延伸到1990s的在线社区，反映社会对商业化数字空间的批判。",
+    "modernUsage": "在社交媒体和移动应用中流行，用于描述算法推送的过度内容，体现当代对信息隐私的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个邮箱被无数广告和重复消息塞满的场景，就像一个杂乱的垃圾堆。",
+      "keyElements": [
+        "邮箱",
+        "广告信息",
+        "重复"
+      ],
+      "emotionalConnection": "联结个人对被打扰的 frustration 情绪，例如回忆自己在手机上删除垃圾通知的经历。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'spam' 联想成 'SPAM' 罐头肉品牌，无处不在，就像垃圾邮件一样泛滥。",
+        "explanation": "通过品牌历史建立视觉和情感联想，帮助强化词汇在脑中的图像表示。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /spæm/ 听起来像 'spam' 的快速重复声，模拟邮件轰炸。",
+        "explanation": "利用声音重复增强听觉记忆路径，结合认知科学中的多模态学习原理。"
+      }
+    ],
+    "wordAssociations": [
+      "email",
+      "junk",
+      "annoying",
+      "inbox"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "spams (though often used as an uncountable noun)",
+      "pastTense": "spammed",
+      "pastParticiple": "spammed",
+      "presentParticiple": "spamming",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "作为动词时，常用于描述发送行为",
+        "examples": [
+          "They spam users with ads."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词时，用于表示一类消息",
+        "examples": [
+          "Spam is a common problem online."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'spam' with 'span' (a different word)",
+        "correction": "Use 'spam' only for unsolicited messages",
+        "explanation": "这是拼写错误，可能由于相似发音导致的干扰效应"
+      },
+      {
+        "mistake": "Using as a countable noun incorrectly",
+        "correction": "Treat as uncountable in general contexts",
+        "explanation": "中文学习者常受母语影响，错误添加冠词或复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked within top 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Internet",
+      "Communication",
+      "Business"
+    ],
+    "tags": [
+      "Internet slang",
+      "Negative connotation",
+      "Digital culture"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

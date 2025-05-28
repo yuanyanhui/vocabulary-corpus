@@ -1,0 +1,275 @@
+{
+  "word": "product",
+  "phonetics": {
+    "british": "/ˈprɒdʌkt/",
+    "american": "/ˈprɑːdʌkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An article or substance that is manufactured or refined for sale.",
+      "chineseTranslation": "产品",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thing or person that is the result of an action or process.",
+      "chineseTranslation": "结果或产物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The result of multiplying two or more numbers or quantities.",
+      "chineseTranslation": "乘积",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To produce something, especially in large quantities.",
+      "chineseTranslation": "生产",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "product line",
+      "meaning": "产品线，指一系列相关产品",
+      "example": "Our company is expanding its product line to include eco-friendly options.",
+      "exampleTranslation": "我们公司正在扩展其产品线以包括环保选项。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "by-product",
+      "meaning": "副产品，指在生产主要产品时产生的次要产物",
+      "example": "The factory's waste is a by-product of the manufacturing process.",
+      "exampleTranslation": "工厂的废物是制造过程中的副产品。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "end product",
+      "meaning": "最终产品，指生产过程的最终结果",
+      "example": "The end product of this research will be a new vaccine.",
+      "exampleTranslation": "这项研究的最终产品将是一款新疫苗。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new smartphone is the latest product from Apple.",
+      "translation": "这款新智能手机是苹果公司的最新产品。",
+      "source": "Technology news article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, the product of 5 and 6 is 30.",
+      "translation": "在数学中，5 和 6 的乘积是 30。",
+      "source": "Educational textbook (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Environmental pollution is often a by-product of industrial production.",
+      "translation": "环境污染往往是工业生产的副产品。",
+      "source": "Scientific journal (e.g., from academic sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "producere",
+        "meaning": "to bring forth, extend",
+        "language": "Latin"
+      },
+      {
+        "root": "pro-",
+        "meaning": "forward, forth",
+        "language": "Latin"
+      },
+      {
+        "root": "ducere",
+        "meaning": "to lead",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'producere'，意为'带出'或'延伸'。在中世纪拉丁语中演变为'productum'，指'产物'。经由古法语传入中古英语，最终在现代英语中发展为表示制造物品或结果的含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "produce",
+      "production",
+      "productive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法（chunking）将 'product' 的不同含义（如商业 vs. 数学）分组记忆，以减少认知负荷；",
+      "通过视觉联想将词汇与实际产品图像关联，促进海马体记忆巩固；",
+      "针对中文母语学习者，比较 'product' 与 '产品' 的语义差异，以避免母语干扰"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "item",
+        "similarity": "0.8",
+        "context": "在商业语境中，用于泛指商品"
+      },
+      {
+        "word": "output",
+        "similarity": "0.7",
+        "context": "在生产或经济语境中，用于表示结果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "input",
+        "context": "在经济或生产语境中，表示原材料或投入，与'product'相对"
+      },
+      {
+        "word": "raw material",
+        "context": "在制造语境中，表示未加工的材料，与最终'product'相对"
+      }
+    ],
+    "hypernyms": [
+      "good",
+      "result"
+    ],
+    "hyponyms": [
+      "commodity",
+      "merchandise",
+      "artifact"
+    ],
+    "collocations": [
+      {
+        "pattern": "product of + noun",
+        "examples": [
+          "product of innovation",
+          "product of hard work"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "new product",
+        "examples": [
+          "launch a new product"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征消费主义和创新，尤其在资本主义社会中代表经济驱动力的隐含语义；在中国文化中，可能与'产品质量'相关联，强调集体责任和可持续性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在美国英语中，常在市场营销中强调创新，如'Silicon Valley product launches'"
+      },
+      {
+        "region": "英国",
+        "variation": "在正式语境中更偏向中性或历史性用法",
+        "usage": "在英国英语中，可能与工业革命历史相关联"
+      }
+    ],
+    "historicalContext": "该词与工业革命相关，反映了从手工业到大规模生产的转变；在文学中，如狄更斯作品中，象征社会变革。",
+    "modernUsage": "在社交媒体和数字时代，常见于电子商务平台，如Amazon的产品描述，体现全球化和在线消费趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂生产线，产品从原材料中'生产'出来。",
+      "keyElements": [
+        "工厂",
+        "流水线",
+        "最终物品"
+      ],
+      "emotionalConnection": "联结个人购物经历的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'product' as 'pro-duct' where 'pro' means forward and 'duct' like 'conduct', so it moves forward to create something.",
+        "explanation": "通过空间联想帮助记忆词汇的动态含义，基于认知地图理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'prod-uct'，联想'prod'如推动产品前进。",
+        "explanation": "利用声音与动作的联觉，促进听觉和运动记忆"
+      }
+    ],
+    "wordAssociations": [
+      "manufacture",
+      "output",
+      "creation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "products",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + product",
+        "description": "主语 + 动词 + 产品，常用于描述生产过程",
+        "examples": [
+          "The company produces high-quality products."
+        ]
+      },
+      {
+        "pattern": "Product of + noun phrase",
+        "description": "产品作为...的产物，常用于表示来源",
+        "examples": [
+          "This is the product of years of research."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'product' with 'produce'",
+        "correction": "Use 'product' for the result and 'produce' for the verb of making.",
+        "explanation": "中文学习者常混淆相似词汇；通过语境区分以避免错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural, e.g., 'products'",
+        "explanation": "由于英语复数规则的多样性，需强调规则应用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "technology",
+      "science"
+    ],
+    "tags": [
+      "commerce",
+      "manufacturing",
+      "mathematics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

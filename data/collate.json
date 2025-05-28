@@ -1,0 +1,259 @@
+{
+  "word": "collate",
+  "phonetics": {
+    "british": "/kəˈleɪt/",
+    "american": "/kəˈleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to collect and arrange (texts, data, or other items) in a specific order, often for comparison or preparation",
+      "chineseTranslation": "整理；校对；核对",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to merge two or more sets of data, such as files or records, into one ordered set",
+      "chineseTranslation": "合并排序（如数据处理中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "collate data",
+      "meaning": "整理数据",
+      "example": "Researchers need to collate data from multiple sources before analysis.",
+      "exampleTranslation": "研究人员需要在分析前从多个来源整理数据。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "collate information",
+      "meaning": "收集并整理信息",
+      "example": "The team will collate information from the survey to form a report.",
+      "exampleTranslation": "团队将从调查中收集并整理信息以形成报告。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "collate pages",
+      "meaning": "校对手稿或书籍的页面",
+      "example": "The printer must collate pages in the correct sequence for the book.",
+      "exampleTranslation": "印刷机必须按照正确顺序校对手册的页面。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The librarian will collate the ancient manuscripts to ensure they are in chronological order.",
+      "translation": "图书馆管理员将整理这些古代手稿，确保它们按时间顺序排列。",
+      "source": "Literature (e.g., historical texts from British libraries)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the database system, the software can collate records based on user-defined criteria.",
+      "translation": "在数据库系统中，软件可以根据用户定义的标准合并排序记录。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Editors often collate feedback from reviewers to improve the manuscript.",
+      "translation": "编辑经常收集并整理审稿人的反馈来改进手稿。",
+      "source": "News articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "col-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "latus",
+        "meaning": "borne or carried",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'conferre' 的过去分词词干 'collat-', 意为 '带来一起'。它通过古法语 'colater' 演变为英语，最初用于印刷和书籍编纂中，指校对和排序。17 世纪起扩展到一般整理含义，尤其在学术和技术领域。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "collect",
+      "confer",
+      "collaborate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'collate' 与类似词汇如 'collect' 分组记忆，以减少认知负荷；",
+      "通过重复暴露（spaced repetition）在不同语境中练习该词，以强化长期记忆；",
+      "使用双编码（dual coding）方法，将词汇与视觉图像（如整理文件的情景）结合，提升记忆保留率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assemble",
+        "similarity": "0.8",
+        "context": "适用于正式语境中收集和组织物品或信息，例如报告撰写"
+      },
+      {
+        "word": "gather",
+        "similarity": "0.7",
+        "context": "常用于非正式场合收集信息，但不如 'collate' 强调顺序"
+      },
+      {
+        "word": "organize",
+        "similarity": "0.6",
+        "context": "在一般管理语境中使用，但可能不涉及具体排序"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "适用于分散物品的语境，如 'scatter papers' 与 'collate papers' 相对"
+      },
+      {
+        "word": "disperse",
+        "context": "在正式场合表示扩散或分离，与整理过程相反"
+      }
+    ],
+    "hypernyms": [
+      "organize"
+    ],
+    "hyponyms": [
+      "proofread",
+      "merge"
+    ],
+    "collocations": [
+      {
+        "pattern": "collate + noun (e.g., data, documents)",
+        "examples": [
+          "collate data",
+          "collate documents"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "collate + prepositional phrase (e.g., from sources)",
+        "examples": [
+          "collate information from sources"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征组织和精确性，常与学术、出版业相关，隐含对秩序和细节的重视，但在跨文化语境中，可能被视为西方理性主义的一部分。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于传统出版和图书馆语境",
+        "usage": "在英国英语中，常见于历史和文学讨论中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如数据处理",
+        "usage": "在美国英语中，扩展到商业和科技语境"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的印刷革命相关，最初用于书籍校对（如古登堡印刷术），反映了欧洲文化对知识系统化的追求。",
+    "modernUsage": "在现代社交媒体和数字环境中，该词用于数据分析和AI算法，常出现在在线论坛和专业报告中，体现了信息时代对整合的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个图书馆场景中，工作人员将散乱的书籍收集并按字母顺序排列。",
+      "keyElements": [
+        "书籍",
+        "顺序",
+        "整理台"
+      ],
+      "emotionalConnection": "联结个人经历，如整理书桌时的满足感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'Collate' 听起来像 'collect late' – 意思是 '晚些收集并整理'，帮助记住其整理含义。",
+        "explanation": "通过声音联想（音位联觉）增强词汇记忆，基于认知心理学中的关联学习"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-L-L-A-T-E: Collect Order for Logical Layout And Thorough Examination",
+        "explanation": "使用首字母缩写创建故事，运用认知科学中的叙事记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "collect",
+      "sort",
+      "arrange",
+      "compile"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "collated",
+      "pastParticiple": "collated",
+      "presentParticiple": "collating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + collate + object + in order",
+        "description": "主语 + 动词 + 宾语 + 表示顺序的状语结构，常用于描述过程",
+        "examples": [
+          "She collates the files in alphabetical order."
+        ]
+      },
+      {
+        "pattern": "collate + from + source",
+        "description": "动词后接来源，表示收集来源",
+        "examples": [
+          "They collate data from various databases."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'collate' interchangeably with 'collect'",
+        "correction": "Use 'collate' when emphasizing arrangement, not just gathering",
+        "explanation": "许多学习者错误地将 'collate' 视为 'collect' 的同义词；实际上，'collate' 强调顺序和组织"
+      },
+      {
+        "mistake": "Confusing with 'collaborate'",
+        "correction": "Distinguish by meaning: 'collate' for organizing, 'collaborate' for working together",
+        "explanation": "音似词汇混淆常见；通过语境区分可避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "academic",
+      "technical",
+      "publishing",
+      "business"
+    ],
+    "tags": [
+      "organization",
+      "data processing",
+      "editing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

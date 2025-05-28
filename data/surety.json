@@ -1,0 +1,238 @@
+{
+  "word": "surety",
+  "phonetics": {
+    "british": "/ˈʃʊərəti/",
+    "american": "/ˈʃʊrəti/ 或 /ˈʃɝəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who assumes responsibility for another's debt, default, or other obligation; a guarantee or security against loss or damage.",
+      "chineseTranslation": "担保人；保证金；保障",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something given or taken as security for the fulfillment of an obligation.",
+      "chineseTranslation": "抵押物；保证物",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stand surety",
+      "meaning": "为某人作担保",
+      "example": "He agreed to stand surety for his friend's loan.",
+      "exampleTranslation": "他同意为朋友的贷款作担保。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "provide surety",
+      "meaning": "提供保证或担保",
+      "example": "The bank required the borrower to provide surety before approving the loan.",
+      "exampleTranslation": "银行要求借款人在批准贷款前提供担保。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In legal terms, a surety is someone who promises to pay if the primary debtor defaults.",
+      "translation": "在法律术语中，担保人是承诺如果主要债务人违约则支付的人。",
+      "source": "Legal documents (e.g., from British legal corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She acted as surety for her brother's bail, ensuring he would appear in court.",
+      "translation": "她为兄弟的保释金作担保，确保他会出庭。",
+      "source": "Modern literature (e.g., inspired by COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company offered a surety bond to guarantee the completion of the project.",
+      "translation": "公司提供了一份保证债券来保证项目的完成。",
+      "source": "Business news (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (sureté)",
+    "rootWords": [
+      {
+        "root": "securus",
+        "meaning": "secure, safe",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'securus'，意思是安全的或无忧虑的。通过古法语 'sureté' 演变为中古英语，最初用于表示安全或保护的概念，逐渐发展为现代英语中担保或保证的含义，尤其在法律和金融语境中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "security",
+      "assurance",
+      "guarantee"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (基于音节结构和元音变体，可能对中文学习者造成中等挑战，如 /ʊər/ 与 /ɝ/ 的区分)",
+    "spellingDifficulty": "4 (拼写相对直接，但容易与 'certainty' 混淆)",
+    "meaningComplexity": "6 (语义涉及抽象的法律概念，需要理解上下文)",
+    "usageComplexity": "7 (主要在正式语域中使用，需掌握搭配和句法)",
+    "learningTips": [
+      "结合认知科学原则，利用分块学习法将 'surety' 与 'sure' 关联，构建视觉记忆图；通过重复暴露于真实语料中增强语境记忆；建议初学者从简单句子开始，逐步增加复杂语境以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "guarantor",
+        "similarity": "0.8",
+        "context": "在法律或金融语境中，用于表示为他人债务提供保证的角色"
+      },
+      {
+        "word": "bond",
+        "similarity": "0.7",
+        "context": "在商业语境中，用于表示正式的担保协议"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "debtor",
+        "context": "在金融语境中，表示债务人，与担保人形成对立关系"
+      },
+      {
+        "word": "risk",
+        "context": "在风险评估语境中，表示不确定性，与 'surety' 的保障概念相反"
+      }
+    ],
+    "hypernyms": [
+      "guarantee",
+      "security"
+    ],
+    "hyponyms": [
+      "bail bond",
+      "performance bond"
+    ],
+    "collocations": [
+      {
+        "pattern": "surety for [something]",
+        "examples": [
+          "act as surety for a loan"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "provide [a] surety",
+        "examples": [
+          "provide a surety bond"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与法律和金融制度相关，象征着信任和责任的隐含语义，尤其在英美法系中；在跨文化语境下，中国学习者可能联想到传统担保习俗，但需注意西方强调个人信用。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于法律文件中的正式使用",
+        "usage": "在英国普通法中，'surety' 常用于刑事和民事案件的担保"
+      },
+      {
+        "region": "美国",
+        "variation": "在商业合同中更常见，可能包括保险形式",
+        "usage": "在美国，'surety' 常与债券（bonds）相关，用于建设或金融领域"
+      }
+    ],
+    "historicalContext": "源自中世纪欧洲的法律传统，与英国普通法的发展有关，如在莎士比亚作品中出现，反映了社会阶层间的信任机制。",
+    "modernUsage": "在现代社交媒体和商业语境下，'surety' 常用于在线金融讨论或法律博客中，体现数字时代对安全性的强调。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁链连接的安全箱，代表 'surety' 的担保概念。",
+      "keyElements": [
+        "锁链（象征连接和责任）",
+        "安全箱（象征保护）",
+        "人形角色（代表担保人）"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆一次借钱给朋友时的信任感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'surety' 拆分为 'sure' + 'ty'，想象 'sure' 的确定性加上 'ty' 的尾巴像锁链，代表可靠的担保。",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ʃʊərəti/ 听起来像 'sure tea'，想象喝一杯 'sure tea' 可以保证安全。",
+        "explanation": "利用声音与图像的联结，促进海马体记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "guarantee",
+      "security",
+      "bond"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sureties",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "as [noun] for [something]",
+        "description": "用作介词短语，表示为某事提供担保的结构",
+        "examples": [
+          "He served as surety for the contract."
+        ]
+      },
+      {
+        "pattern": "[verb] + surety",
+        "description": "动词后接名词，表示提供或要求担保",
+        "examples": [
+          "The court demanded surety."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'certainty'",
+        "correction": "Use 'surety' for legal guarantees and 'certainty' for confidence.",
+        "explanation": "二者虽有语源相似，但 'surety' 专指担保语境；中文学习者常因发音类似而混淆"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'sureties' instead of 'surety's'.",
+        "explanation": "作为可数名词，需正确添加复数词尾以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 10,000 in COCA corpus)",
+    "domains": [
+      "法律",
+      "金融",
+      "商业"
+    ],
+    "tags": [
+      "法律术语",
+      "金融词汇",
+      "担保"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

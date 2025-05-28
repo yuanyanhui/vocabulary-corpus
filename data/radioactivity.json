@@ -1,0 +1,268 @@
+{
+  "word": "radioactivity",
+  "phonetics": {
+    "british": "/ˌreɪdiəʊækˈtɪvɪti/",
+    "american": "/ˌreɪdioʊækˈtɪvəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The property possessed by certain substances of emitting radiation as a result of the decay of atomic nuclei.",
+      "chineseTranslation": "放射性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The radiation emitted by radioactive substances.",
+      "chineseTranslation": "放射现象",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "radioactive decay",
+      "meaning": "放射性衰变",
+      "example": "Radioactive decay occurs when unstable atomic nuclei lose energy.",
+      "exampleTranslation": "放射性衰变发生在不稳定的原子核失去能量时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "level of radioactivity",
+      "meaning": "放射性水平",
+      "example": "The level of radioactivity in the area was measured to ensure safety.",
+      "exampleTranslation": "该地区的放射性水平被测量以确保安全。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "background radioactivity",
+      "meaning": "背景放射性",
+      "example": "Background radioactivity from cosmic rays is always present in the environment.",
+      "exampleTranslation": "来自宇宙射线的背景放射性始终存在于环境中。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The discovery of radioactivity revolutionized modern physics.",
+      "translation": "放射性的发现彻底改变了现代物理学。",
+      "source": "Scientific literature, e.g., from Albert Einstein's works",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Workers at the nuclear plant must monitor radioactivity levels daily.",
+      "translation": "核电站的工人必须每天监测放射性水平。",
+      "source": "News articles, e.g., from BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Radioactivity from the Chernobyl disaster affected large areas of Europe.",
+      "translation": "切尔诺贝利灾难的放射性影响了欧洲的大片地区。",
+      "source": "Historical accounts, e.g., from documentaries",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday life, radioactivity is used in medical imaging like X-rays.",
+      "translation": "在日常生活中，放射性被用于像X光这样的医疗成像。",
+      "source": "Educational materials, e.g., from WHO reports",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and French",
+    "rootWords": [
+      {
+        "root": "radio-",
+        "meaning": "Radiation or emitting rays",
+        "language": "Latin (from radius, meaning 'ray' or 'spoke')"
+      },
+      {
+        "root": "active",
+        "meaning": "Having the power to act or cause an effect",
+        "language": "Latin (from actus, meaning 'a doing' or 'performance')"
+      },
+      {
+        "root": "-ity",
+        "meaning": "State or quality of",
+        "language": "Latin/French (from -itas, a suffix forming nouns)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪末法国科学家Marie Curie和Pierre Curie的工作。他们从拉丁语'radius'（光线）演变而来，结合了'radio-'前缀表示辐射性质，并在1898年左右首次用于描述原子核衰变释放能量的现象。从最初的科学术语演变为现代核物理学中的核心概念。",
+    "firstKnownUse": "1898",
+    "relatedWords": [
+      "radiation",
+      "radioactive",
+      "isotope"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像（如原子核分裂的动画）结合，以增强记忆；",
+      "对于中文母语学习者，建议通过比较放射性概念与中医中的'气'或现代科技术语进行类比，以降低语义抽象性；",
+      "练习分解词汇，如将'radioactivity'拆分为'radio-'和'-activity'，并关联到熟悉的词根，以应用间隔重复学习法"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "radiation",
+        "similarity": "0.8",
+        "context": "在科学和技术语境中，用于描述放射性物质释放的能量，例如核能领域"
+      },
+      {
+        "word": "nuclear emission",
+        "similarity": "0.7",
+        "context": "在物理学语境中，强调原子核的放射过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inertness",
+        "context": "在化学语境中，表示非放射性或稳定的物质状态"
+      },
+      {
+        "word": "stability",
+        "context": "在核物理语境中，表示原子核不衰变的特性"
+      }
+    ],
+    "hypernyms": [
+      "radiation",
+      "energy emission"
+    ],
+    "hyponyms": [
+      "alpha radioactivity",
+      "beta radioactivity",
+      "gamma radioactivity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + radioactivity",
+        "examples": [
+          "level of radioactivity",
+          "effects of radioactivity"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Radioactivity + verb (e.g., causes)",
+        "examples": [
+          "Radioactivity causes mutations in cells"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征现代科技的双重性，既代表医疗进步（如癌症治疗），又隐含核战争的负面影响，如广岛事件；在中国文化中，与'核能'相关，体现了科技自主与安全意识的平衡。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式科学讨论",
+        "usage": "在英国英语中，常与环境政策相关联，如核废料处理"
+      },
+      {
+        "region": "United States",
+        "variation": "在日常语境中更常见于媒体报道",
+        "usage": "在美国英语中，常与历史事件如三哩岛事故联系，强调公众安全教育"
+      }
+    ],
+    "historicalContext": "该词与20世纪初的核物理革命相关，Marie Curie的发现改变了全球科学观，并在二战中与原子弹发展关联，影响了冷战时期的国际关系。",
+    "modernUsage": "在社交媒体和新闻中，经常用于讨论气候变化或COVID-19疫苗的放射性安全，反映了全球环保和健康趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个发光的原子在黑暗中分裂，释放出绿色光芒的粒子。",
+      "keyElements": [
+        "原子核",
+        "光芒",
+        "分裂过程"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看科幻电影中的核爆炸场景，以激发好奇心和警觉情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Radioactivity 像 'Radio Active City'，想象一个活跃的无线电城市在发光。",
+        "explanation": "通过声音和视觉联想将词汇与动态场景连接，基于认知科学中的心理图像技术"
+      },
+      {
+        "type": "缩略",
+        "content": "R-A-D-I-O: Rays Are Dangerously Intense and Overwhelming",
+        "explanation": "使用首字母缩略词来强化语义记忆，并结合情感触发以提升保留率"
+      }
+    ],
+    "wordAssociations": [
+      "radiation",
+      "nuclear",
+      "decay",
+      "energy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "radioactivities (though less common, as it's often uncountable)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + radioactivity",
+        "description": "作为主语或宾语出现于句子中，表示科学现象",
+        "examples": [
+          "Radioactivity poses health risks."
+        ]
+      },
+      {
+        "pattern": "Adjective + radioactivity",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "High radioactivity levels were detected."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'radio activity' as two words",
+        "correction": "Use as one word: 'radioactivity'",
+        "explanation": "这是因为该词是一个复合名词，非分离词汇"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Restrict to scientific discussions",
+        "explanation": "对于中文学习者，常因翻译错误而混淆与'无线电'相关的词汇"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words (based on COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "health",
+      "environment"
+    ],
+    "tags": [
+      "physics",
+      "nuclear",
+      "radiation",
+      "energy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

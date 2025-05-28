@@ -1,0 +1,248 @@
+{
+  "word": "介电常数",
+  "phonetics": {
+    "british": "/ˌpɜːmɪˈtɪvɪti/",
+    "american": "/ˌpɝːmɪˈtɪvəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the ability of a material to store electrical energy in an electric field, typically denoted by ε and expressed as the ratio of the electric field in a vacuum to that in the material.",
+      "chineseTranslation": "介电常数",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, the constant that relates the electric displacement field to the electric field in a medium.",
+      "chineseTranslation": "物理学中描述介质中电场与电位移场关系的常数",
+      "level": "academic",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relative permittivity",
+      "meaning": "相对介电常数",
+      "example": "The relative permittivity of water is about 80 at room temperature.",
+      "exampleTranslation": "水的相对介电常数在室温下约为80。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "electric permittivity",
+      "meaning": "电介电常数",
+      "example": "Electric permittivity varies depending on the material's molecular structure.",
+      "exampleTranslation": "电介电常数随材料分子结构的差异而变化。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "vacuum permittivity",
+      "meaning": "真空介电常数",
+      "example": "Vacuum permittivity is a fundamental constant in electromagnetic theory.",
+      "exampleTranslation": "真空介电常数是电磁理论中的基本常数。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The permittivity of a dielectric material affects the capacitance of a capacitor.",
+      "translation": "介电材料的介电常数会影响电容器的电容。",
+      "source": "Scientific literature, such as physics textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modern electronics, engineers must consider the permittivity of insulators to optimize device performance.",
+      "translation": "在现代电子学中，工程师必须考虑绝缘体的介电常数来优化设备性能。",
+      "source": "Technical reports from IEEE",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Permittivity plays a crucial role in understanding how electromagnetic waves propagate through different media.",
+      "translation": "介电常数在理解电磁波如何在不同介质中传播方面发挥着关键作用。",
+      "source": "News articles on physics advancements",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "permittere",
+        "meaning": "to allow through or to permit",
+        "language": "Latin"
+      },
+      {
+        "root": "ivity",
+        "meaning": "state or quality of",
+        "language": "Latin (via French and English)"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语 'permittere'（意为允许通过），结合英语后缀 '-ivity'，形成于19世纪科学术语发展时期。最初用于描述物质允许电场通过的特性，随着电磁理论的演进（如Maxwell的方程），其含义从一般渗透扩展到特定电学概念。",
+    "firstKnownUse": "1885",
+    "relatedWords": [
+      "permeability",
+      "conductivity",
+      "dielectric"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象电场通过材料'渗透'的场景；使用间隔重复法复习，以强化长期记忆；对于中文母语学习者，联结'介电'一词的科学背景以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dielectric constant",
+        "similarity": "0.9",
+        "context": "在物理和工程语境中，常用于描述相同概念，常在学术论文中互换"
+      },
+      {
+        "word": "electric constant",
+        "similarity": "0.8",
+        "context": "主要在电磁理论中，指真空介电常数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impermeability",
+        "context": "在材料科学中，指材料不允许多余电场通过的特性"
+      }
+    ],
+    "hypernyms": [
+      "physical constant"
+    ],
+    "hyponyms": [
+      "relative permittivity",
+      "absolute permittivity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + material",
+        "examples": [
+          "permittivity of air",
+          "permittivity of glass"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + permittivity",
+        "examples": [
+          "high permittivity",
+          "low permittivity"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征现代物理学发展的基石，代表人类对电磁现象的理解，但在非西方文化中（如中国），更多作为技术术语而非文化象征。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于理论物理语境",
+        "usage": "在英国学术环境中，常与历史科学传统（如牛顿和法拉第）相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于工程应用",
+        "usage": "在美国科技产业中，强调实用性，如在电子设备设计中"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和电磁理论的兴起相关，体现了欧洲科学启蒙运动的遗产。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于科学普及视频或论坛讨论，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电场像水一样渗透通过材料，形成一个存储能量的'池塘'。",
+      "keyElements": [
+        "电场",
+        "渗透",
+        "存储能量"
+      ],
+      "emotionalConnection": "联结个人经验，如回想使用手机充电时电能的'储存'，触发好奇心以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Permittivity sounds like 'permeate activity' – think of it as the activity of letting electricity permeate.",
+        "explanation": "通过声音联想将'permeate'（渗透）与词汇结合，利用认知联想原理加深印象"
+      },
+      {
+        "type": "缩略",
+        "content": "P-E-R-M: Permeate, Energy, Relative, Material.",
+        "explanation": "使用首字母缩略法结合关键词，帮助构建结构化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "permeate",
+      "conductivity",
+      "capacitor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + permittivity + of + noun",
+        "description": "典型用于描述材料属性的句法结构",
+        "examples": [
+          "The permittivity of the material determines its behavior."
+        ]
+      },
+      {
+        "pattern": "Adjective + permittivity",
+        "description": "用于修饰介电常数的程度",
+        "examples": [
+          "High permittivity materials are essential for modern electronics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing permittivity with permeability",
+        "correction": "Use permittivity for electric fields and permeability for magnetic fields",
+        "explanation": "这两个术语在语义上相关但不同，常因科学背景混淆"
+      },
+      {
+        "mistake": "Incorrectly pluralizing the term",
+        "correction": "Treat as an uncountable noun",
+        "explanation": "作为不可数名词，不应添加复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 50,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "physics",
+      "electromagnetism",
+      "materials science"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster",
+      "BNC"
+    ]
+  }
+}

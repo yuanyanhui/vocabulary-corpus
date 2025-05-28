@@ -1,0 +1,254 @@
+{
+  "word": "synchronization",
+  "phonetics": {
+    "british": "/ˌsɪŋkrənaɪˈzeɪʃən/",
+    "american": "/ˌsɪŋkrənəˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of causing two or more events or processes to happen at the same time or rate, often in technology, biology, or performance arts.",
+      "chineseTranslation": "同步",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The coordination of actions, movements, or rhythms to achieve harmony or unity.",
+      "chineseTranslation": "协调一致",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data synchronization",
+      "meaning": "数据同步",
+      "example": "Data synchronization is essential for maintaining consistency across multiple devices.",
+      "exampleTranslation": "数据同步对于在多个设备间保持一致性至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "synchronization of clocks",
+      "meaning": "时钟同步",
+      "example": "The synchronization of clocks in a network ensures accurate timing for transactions.",
+      "exampleTranslation": "网络中时钟的同步确保了交易的准确计时。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lip synchronization",
+      "meaning": "唇形同步",
+      "example": "Lip synchronization in films must be precise to avoid distracting the audience.",
+      "exampleTranslation": "电影中的唇形同步必须精确，以避免分散观众注意力。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The synchronization of dancers' movements created a mesmerizing performance.",
+      "translation": "舞者动作的同步创造了一个令人着迷的表演。",
+      "source": "Literature (e.g., from modern dance descriptions in The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, synchronization prevents data conflicts during file sharing.",
+      "translation": "在计算中，同步可以防止在文件共享期间发生数据冲突。",
+      "source": "Technical articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The synchronization of heartbeats between twins is a fascinating biological phenomenon.",
+      "translation": "双胞胎之间心跳的同步是一种迷人的生物现象。",
+      "source": "Scientific journals (e.g., BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "synchronos",
+        "meaning": "happening at the same time",
+        "language": "Ancient Greek"
+      },
+      {
+        "root": "syn-",
+        "meaning": "together with",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Greek 'synchronos' (σύγχρονος), meaning 'simultaneous,' it entered English via Latin 'synchronus' in the 17th century. Initially used in philosophical contexts to describe concurrent events, it evolved in the 19th century with technological advancements to include mechanical and digital processes.",
+    "firstKnownUse": "1660",
+    "relatedWords": [
+      "synchronize",
+      "synchronous",
+      "asynchronous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学的分块学习法，将词汇与具体场景（如技术设备）关联，以增强长期记忆；建议通过重复暴露于真实语境中来克服拼写挑战，例如使用间隔重复系统 (Spaced Repetition Systems) 结合视觉辅助。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coordination",
+        "similarity": "0.8",
+        "context": "在组织或表演语境中，用于描述动作或事件的统一"
+      },
+      {
+        "word": "harmonization",
+        "similarity": "0.7",
+        "context": "在音乐或社会语境中，表示达到和谐状态"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asynchronization",
+        "context": "在技术语境中，用于描述不协调或不同步的状态"
+      },
+      {
+        "word": "desynchronization",
+        "context": "在生物或心理语境中，表示节奏的失调"
+      }
+    ],
+    "hypernyms": [
+      "coordination",
+      "alignment"
+    ],
+    "hyponyms": [
+      "clock synchronization",
+      "data sync"
+    ],
+    "collocations": [
+      {
+        "pattern": "synchronization of [noun]",
+        "examples": [
+          "synchronization of devices",
+          "synchronization of efforts"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] synchronization",
+        "examples": [
+          "achieve synchronization",
+          "ensure synchronization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征效率和连通性，尤其在全球化时代，代表了数字世界的统一；在中国文化中，可隐含和谐（如'和合'概念）的隐喻，但更多用于技术领域。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech slang, e.g., in software updates.",
+        "usage": "在美国英语中，常见于非正式科技讨论中，以强调即时性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage, often in academic or engineering contexts.",
+        "usage": "在英国英语中，更倾向于精确的科学语境，以突出历史悠久的工业传统"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪的计算机发展相关，在文学如H.G. Wells的作品中象征时间统一；在当代中国，关联于互联网文化和AI发展。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述在线会议或实时协作的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一群时钟在同时滴答作响，代表事件同时发生。",
+      "keyElements": [
+        "时钟",
+        "滴答声",
+        "统一节奏"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看同步游泳，触发成就感或和谐情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sync like synchronized swimming – everything moves together.",
+        "explanation": "通过视觉联想将词汇与协调运动联系，运用认知科学中的双编码理论（视觉+语义）增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "SYN = Same Time Now",
+        "explanation": "使用首字母缩写创建简单口诀，帮助初级学习者快速回想核心含义"
+      }
+    ],
+    "wordAssociations": [
+      "sync",
+      "harmony",
+      "timing"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "synchronizations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with preposition",
+        "description": "常用于表示对象或过程的短语中，如 'synchronization of X'",
+        "examples": [
+          "The synchronization of our watches was crucial."
+        ]
+      },
+      {
+        "pattern": "As subject in a sentence",
+        "description": "作为句子的主语，强调过程的重要性",
+        "examples": [
+          "Synchronization ensures efficiency in team projects."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'synchronize' as a verb",
+        "correction": "Use 'synchronization' for the noun form",
+        "explanation": "学习者常混淆词性，导致句子结构错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for technical or formal settings",
+        "explanation": "在非正式对话中，可能被简化为 'sync'，以避免生硬"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "arts",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "process",
+      "coordination",
+      "digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

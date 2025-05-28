@@ -1,0 +1,239 @@
+{
+  "word": "subscript",
+  "phonetics": {
+    "british": "/ˈsʌb.skript/",
+    "american": "/ˈsʌb.skrɪpt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A character or symbol written or printed below the line, as in mathematical notation or chemical formulas.",
+      "chineseTranslation": "下标",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To write or print (a character) below the normal line of text.",
+      "chineseTranslation": "添加下标",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subscript notation",
+      "meaning": "下标表示法",
+      "example": "In programming, subscript notation is used to access array elements.",
+      "exampleTranslation": "在编程中，下标表示法用于访问数组元素。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "chemical subscript",
+      "meaning": "化学下标",
+      "example": "The subscript in H₂O indicates two hydrogen atoms.",
+      "exampleTranslation": "H₂O 中的下标表示两个氢原子。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the equation E = mc², the superscript 2 is not a subscript.",
+      "translation": "在方程 E = mc² 中，上标 2 不是下标。",
+      "source": "Scientific literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often use subscript to denote the index of an array, such as array[1].",
+      "translation": "程序员经常使用下标来表示数组的索引，例如 array[1]。",
+      "source": "Technology tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The teacher asked the students to subscript the variables in their math homework.",
+      "translation": "老师要求学生在数学作业中为变量添加下标。",
+      "source": "Educational contexts",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "subscriptus",
+        "meaning": "written underneath",
+        "language": "Latin"
+      },
+      {
+        "root": "subscribere",
+        "meaning": "to write under",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'subscribere'，意为 '在下面书写'，最初用于签名或订阅文件。17 世纪开始在数学和科学中演变为表示下标符号，逐渐扩展到现代计算机科学中以表示数组索引或元素。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "subscribe",
+      "superscript",
+      "inscription"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象 'subscript' 如地下的根基，助于记忆；通过重复练习和语境关联，增强长期记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "footnote",
+        "similarity": "0.6",
+        "context": "在学术写作中，用于参考下方的注释"
+      },
+      {
+        "word": "index",
+        "similarity": "0.7",
+        "context": "在编程中，用于表示数组位置"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superscript",
+        "context": "在排版中，表示上标，与下标相对"
+      }
+    ],
+    "hypernyms": [
+      "notation",
+      "symbol"
+    ],
+    "hyponyms": [
+      "array subscript",
+      "chemical subscript"
+    ],
+    "collocations": [
+      {
+        "pattern": "subscript + noun (e.g., subscript in arrays)",
+        "examples": [
+          "Use subscript in arrays for indexing."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + subscript (e.g., add a subscript)",
+        "examples": [
+          "Scientists add a subscript to chemical formulas."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征精确性和细节管理，但在日常文化中缺乏强烈象征意义，主要用于教育和专业语境。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学语境",
+        "usage": "在美国英语中，subscript 经常与编程相关联，如在软件开发中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于数学和科学领域",
+        "usage": "在英国英语中，subscript 常用于学术出版和教育"
+      }
+    ],
+    "historicalContext": "与启蒙时代科学革命相关，如牛顿的数学符号使用，体现了西方科学文化的演进。",
+    "modernUsage": "在社交媒体和数字平台上，subscript 常用于科技讨论或教育视频，但较少在非正式对话中出现。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个地下的阶梯，代表 'subscript' 位于文字下方。",
+      "keyElements": [
+        "阶梯",
+        "地下",
+        "文字"
+      ],
+      "emotionalConnection": "联结到个人经历，如在学习数学时感到好奇或挑战"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub + Script = Under + Writing",
+        "explanation": "通过词根联想 'sub' 意为 'under'，帮助建立视觉和语义连接"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈsʌb.skript/ 像 'submarine script'，想象潜水艇下的文字。",
+        "explanation": "利用声音与图像的联觉，增强记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "index",
+      "below",
+      "array"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subscripts",
+      "pastTense": "subscripted",
+      "pastParticiple": "subscripted",
+      "presentParticiple": "subscripting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + subscript + [of/in]",
+        "description": "名词短语结构，常用于描述位置或关联",
+        "examples": [
+          "The subscript of the array is 5."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: [Subject] + subscript + [object]",
+        "description": "动词短语结构，用于表示动作",
+        "examples": [
+          "He subscripted the variable carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing subscript with superscript",
+        "correction": "Use subscript for below-the-line and superscript for above-the-line",
+        "explanation": "错误源于视觉相似性，通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'subscripts' for plural",
+        "explanation": "英文名词规则简单，但初学者易忽略复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Science",
+      "Technology",
+      "Education"
+    ],
+    "tags": [
+      "Mathematics",
+      "Programming",
+      "Notation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

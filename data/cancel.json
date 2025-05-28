@@ -1,0 +1,263 @@
+{
+  "word": "取消",
+  "phonetics": {
+    "british": "/ˈkænsl/",
+    "american": "/ˈkænsəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To decide or announce that a planned event, activity, or arrangement will not take place.",
+      "chineseTranslation": "决定或宣布一个计划的事件、活动或安排不会发生。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To annul or revoke something, such as a subscription or a debt.",
+      "chineseTranslation": "取消或撤销某事，例如订阅或债务。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mark made across something to indicate it is no longer valid or to cross it out.",
+      "chineseTranslation": "在某物上做标记以表示它无效或划掉它。",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cancel a meeting",
+      "meaning": "取消会议",
+      "example": "We had to cancel the meeting due to unforeseen circumstances.",
+      "exampleTranslation": "由于不可预见的情况，我们不得不取消会议。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cancel a subscription",
+      "meaning": "取消订阅",
+      "example": "I decided to cancel my subscription to the magazine after the price increase.",
+      "exampleTranslation": "在价格上涨后，我决定取消对该杂志的订阅。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "cancel out",
+      "meaning": "相互抵消",
+      "example": "The positive effects cancel out the negative ones in this equation.",
+      "exampleTranslation": "在这个方程中，积极影响抵消了消极影响。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The flight was cancelled because of bad weather.",
+      "translation": "航班因恶劣天气而被取消。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She quickly cancelled her order when she realized the mistake.",
+      "translation": "当她意识到错误时，她迅速取消了订单。",
+      "source": "E-commerce context (e.g., from Amazon user reviews)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In accounting, errors can be cancelled by adjusting entries.",
+      "translation": "在会计中，错误可以通过调整条目来取消。",
+      "source": "Business textbook (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The band had to cancel their tour dates amid the pandemic.",
+      "translation": "乐队不得不在大流行期间取消他们的巡演日期。",
+      "source": "Entertainment news (e.g., from Variety magazine)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "cancellare",
+        "meaning": "To make like a lattice or to cross out",
+        "language": "Latin"
+      },
+      {
+        "root": "cancellus",
+        "meaning": "Grating or lattice",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'cancellare'，最初指用格子或线条交叉划掉文字。在中世纪拉丁语中演变为表示撤销或废除的意思，通过古法语'canceler'传入英语，并在16世纪标准化为现代用法，扩展到事件或安排的取消。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "annul",
+      "abolish",
+      "revoke"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 由于辅音群和元音变化可能对中文母语者造成轻微困难，如/kænsl/ vs. /kænsəl/)",
+    "spellingDifficulty": "3 (1-10, 拼写简单，但双音节和常见拼写规则易掌握)",
+    "meaningComplexity": "5 (1-10, 语义多样，包括动作和结果，但对中级学习者可通过上下文理解)",
+    "usageComplexity": "6 (1-10, 需要注意搭配和语域，但基于认知语言学，重复练习可降低难度)",
+    "learningTips": [
+      "结合认知科学，利用间隔重复系统复习词汇；将'cancel'与个人经历（如取消预约）关联以增强记忆；通过视觉映射，如想象交叉线条代表撤销。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "annul",
+        "similarity": "0.8",
+        "context": "在正式语境中用于法律或官方撤销，例如合同取消"
+      },
+      {
+        "word": "abolish",
+        "similarity": "0.6",
+        "context": "在社会或制度语境中用于永久废除，例如法律取消"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confirm",
+        "context": "在计划或安排语境中，用于表示批准而非取消"
+      },
+      {
+        "word": "proceed",
+        "context": "在事件语境中，用于表示继续而非停止"
+      }
+    ],
+    "hypernyms": [
+      "revoke"
+    ],
+    "hyponyms": [
+      "rescind",
+      "void"
+    ],
+    "collocations": [
+      {
+        "pattern": "cancel + noun (e.g., cancel a flight)",
+        "examples": [
+          "cancel a reservation",
+          "cancel an event"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "cancel out + verb/noun",
+        "examples": [
+          "cancel out the noise"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征效率和灵活性，尤其在现代商业和数字环境中，代表了对不确定性的适应，如在线取消服务隐含了对消费者权利的强调。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在非正式语境，如取消订阅",
+        "usage": "在美国英语中，常与科技相关，如'app cancellation'，反映了数字时代的便利性"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，如在行政语境中",
+        "usage": "在英国英语中，常用于正式通知，例如政府公告中的事件取消"
+      }
+    ],
+    "historicalContext": "与工业革命相关，英语中'cancel'的演变反映了从手写文件撤销到现代数字取消的转变，在文学如莎士比亚作品中出现，象征决策变化。",
+    "modernUsage": "在社交媒体和在线平台上流行，例如Twitter上的#cancelculture，表示社会抵制，体现了当代文化动态。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红色的X标记穿过一个日历事件，代表取消。",
+      "keyElements": [
+        "红色X标记",
+        "日历事件"
+      ],
+      "emotionalConnection": "联结到个人经历，如取消一次旅行带来的失望，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cancel sounds like 'can sell' – think of selling away a plan to cancel it.",
+        "explanation": "通过声音联想将'cancel'与'can sell'连接，基于认知科学的声音联觉原理，帮助中级学习者快速回忆"
+      },
+      {
+        "type": "缩略",
+        "content": "C-A-N-C-E-L: Cross And Nullify Completely Every Line.",
+        "explanation": "使用首字母缩略法创建故事，结合视觉想象以优化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "revoke",
+      "delete",
+      "void"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "cancelled (British) or canceled (American)",
+      "pastParticiple": "cancelled (British) or canceled (American)",
+      "presentParticiple": "cancelling (British) or canceling (American)",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + cancel + object",
+        "description": "主语直接取消宾语的结构",
+        "examples": [
+          "I cancel the appointment."
+        ]
+      },
+      {
+        "pattern": "Cancel + out",
+        "description": "用于表示相互抵消",
+        "examples": [
+          "The forces cancel out each other."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'cancel' without an object in formal contexts",
+        "correction": "Always include an object, e.g., 'cancel the event'",
+        "explanation": "中文母语者可能遗漏宾语，因为中文句法更灵活；需练习完整句子以避免不完整表达"
+      },
+      {
+        "mistake": "Confusing spelling variants",
+        "correction": "Use 'canceled' in American English and 'cancelled' in British English",
+        "explanation": "基于区域变体，学习者应根据语境选择正确形式以提升准确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "日常生活"
+    ],
+    "tags": [
+      "动作词汇",
+      "数字时代",
+      "决策"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

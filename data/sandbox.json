@@ -1,0 +1,245 @@
+{
+  "word": "sandbox",
+  "phonetics": {
+    "british": "/ˈsændbɒks/",
+    "american": "/ˈsændbɑːks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A container or area filled with sand, typically used for children to play in.",
+      "chineseTranslation": "沙箱，儿童玩耍的沙坑",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a controlled environment where programs or code can be tested without affecting the main system.",
+      "chineseTranslation": "在计算机中，指测试软件的隔离环境",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "play in the sandbox",
+      "meaning": "在沙箱中玩耍",
+      "example": "Children love to play in the sandbox at the park.",
+      "exampleTranslation": "孩子们喜欢在公园的沙箱中玩耍。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sandbox environment",
+      "meaning": "沙箱环境",
+      "example": "Developers use a sandbox environment to test new features.",
+      "exampleTranslation": "开发人员使用沙箱环境来测试新功能。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The children spent the afternoon building castles in the sandbox.",
+      "translation": "孩子们在沙箱里花了整个下午建造城堡。",
+      "source": "Children's literature",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In software development, a sandbox allows for safe experimentation with code.",
+      "translation": "在软件开发中，沙箱允许安全地实验代码。",
+      "source": "Technical articles, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company implemented a sandbox policy to prevent malware from spreading.",
+      "translation": "公司实施了沙箱政策来防止恶意软件传播。",
+      "source": "News articles, e.g., from BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "sand",
+        "meaning": "Fine granular material",
+        "language": "Old English (from Proto-Germanic *sandam)"
+      },
+      {
+        "root": "box",
+        "meaning": "A container",
+        "language": "Old English (from Latin buxus via Late Latin)"
+      }
+    ],
+    "historicalDevelopment": "从词源上看，'sandbox' 起源于中古英语，指一个装满沙子的盒子，用于儿童游戏。17 世纪开始用于实际场景，如建筑或游戏。20 世纪后期，在计算机科学中演变为比喻性用法，指隔离测试环境，这一发展受启于安全和实验概念的扩展。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "sandpit",
+      "playbox",
+      "virtual machine"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, 由于简单的音节结构，但元音差异可能对非母语者造成挑战)",
+    "spellingDifficulty": "3 (out of 10, 拼写直观，符合英语复合词规则)",
+    "meaningComplexity": "6 (out of 10, 有多层含义，从字面到比喻，需上下文理解)",
+    "usageComplexity": "5 (out of 10, 在不同领域使用，但模式相对固定)",
+    "learningTips": [
+      "利用认知科学原理，如通过视觉想象将 'sandbox' 与沙滩或电脑屏幕的隔离区关联，利用间隔重复法记忆多重含义；建议初学者从基本语境入手，逐步扩展到技术领域，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "playground",
+        "similarity": "0.7",
+        "context": "适用于儿童游戏语境，如公园或户外活动"
+      },
+      {
+        "word": "test environment",
+        "similarity": "0.8",
+        "context": "适用于计算机技术语境，如软件开发"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "live environment",
+        "context": "在技术语境中，指真实运行环境，与沙箱的隔离性相反"
+      },
+      {
+        "word": "real world",
+        "context": "在比喻语境中，指实际生活而非模拟环境"
+      }
+    ],
+    "hypernyms": [
+      "container",
+      "environment"
+    ],
+    "hyponyms": [
+      "children's sandbox",
+      "virtual sandbox"
+    ],
+    "collocations": [
+      {
+        "pattern": "sandbox + noun (e.g., environment, testing)",
+        "examples": [
+          "sandbox testing",
+          "sandbox mode"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + sandbox (e.g., use, create)",
+        "examples": [
+          "create a sandbox"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'sandbox' 象征安全和实验空间，尤其在儿童教育中代表自由玩耍；在科技文化中，它隐含了创新与风险控制的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境",
+        "usage": "在美国英语中，强调软件开发的安全测试"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重字面含义",
+        "usage": "在英国英语中，常指户外儿童游戏设施"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的城市化相关，沙箱最初用于建筑或娱乐；20 世纪与计算机革命关联，体现出从物理到数字领域的文化演变。",
+    "modernUsage": "在社交媒体和在线社区中，'sandbox' 常用于讨论虚拟现实或游戏开发，反映数字时代的创新趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个孩子在海滩边的一个方形盒子里玩沙子，旁边有一个电脑屏幕显示隔离的代码环境。",
+      "keyElements": [
+        "沙子盒子",
+        "儿童玩耍",
+        "电脑图标"
+      ],
+      "emotionalConnection": "联结到个人童年回忆或编程时的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'sandbox' 联想为 'sand' + 'box'，想象沙子被装在盒子里，像电脑里的安全围栏。",
+        "explanation": "通过视觉联想强化词根记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈsændbɒks/' 像 'sand blocks'，想象沙子堆成的方块。",
+        "explanation": "利用声音与图像的联觉，帮助非母语者记忆发音"
+      }
+    ],
+    "wordAssociations": [
+      "beach",
+      "code",
+      "play",
+      "isolate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sandboxes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the sandbox)",
+        "description": "作为名词使用，通常置于句子主语或宾语位置",
+        "examples": [
+          "The sandbox is full of toys."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., in the sandbox)",
+        "description": "表示位置或环境",
+        "examples": [
+          "Testing in the sandbox ensures safety."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sand box' as two words",
+        "correction": "Use as one word 'sandbox'",
+        "explanation": "在现代英语中，它是一个复合词，避免空格以符合标准拼写"
+      },
+      {
+        "mistake": "Misusing in contexts (e.g., using literal meaning in tech)",
+        "correction": "Adapt to context-specific meanings",
+        "explanation": "根据语境选择适当含义，以避免语义混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "Education",
+      "Technology",
+      "Recreation"
+    ],
+    "tags": [
+      "Computing",
+      "Childhood",
+      "Safety"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

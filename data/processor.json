@@ -1,0 +1,255 @@
+{
+  "word": "processor",
+  "phonetics": {
+    "british": "/ˈprəʊsɛsə(r)/",
+    "american": "/ˈprɑːsɛsər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that performs operations on data, especially the central processing unit (CPU) of a computer.",
+      "chineseTranslation": "处理器",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine or person that processes something, such as a food processor in the kitchen.",
+      "chineseTranslation": "加工器或处理者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, an entity that handles or manages a process, such as a payment processor in finance.",
+      "chineseTranslation": "处理程序或管理器",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "food processor",
+      "meaning": "食物处理器",
+      "example": "She used a food processor to chop the vegetables quickly.",
+      "exampleTranslation": "她使用食物处理器快速切碎蔬菜。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "word processor",
+      "meaning": "文字处理器",
+      "example": "A word processor is essential for editing documents on a computer.",
+      "exampleTranslation": "文字处理器对于在计算机上编辑文档是必不可少的。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "payment processor",
+      "meaning": "支付处理程序",
+      "example": "The online store relies on a secure payment processor for transactions.",
+      "exampleTranslation": "在线商店依赖安全的支付处理程序进行交易。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new computer's processor is twice as fast as the old one.",
+      "translation": "新计算机的处理器是旧 ones的两倍快。",
+      "source": "Technology review article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the kitchen, a good processor can save you a lot of time.",
+      "translation": "在厨房里，一个好的处理器可以为你节省很多时间。",
+      "source": "Daily life conversation (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The payment processor handled millions of transactions during the holiday season.",
+      "translation": "支付处理器在节日季节处理了数百万笔交易。",
+      "source": "Business news (e.g., from financial reports)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "process",
+        "meaning": "To advance or proceed",
+        "language": "Latin (from 'processus', meaning 'a going forward')"
+      },
+      {
+        "root": "-or",
+        "meaning": "One who does something",
+        "language": "Latin (suffix indicating an agent)"
+      }
+    ],
+    "historicalDevelopment": "The word 'processor' evolved from the Latin 'processus' in the 17th century, initially referring to a general process or procedure. By the 19th century, it began to denote mechanical devices that perform processing tasks. In the 20th century, with the advent of computing, it specifically referred to electronic components like CPUs, as documented in early computer science literature.",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "process",
+      "proceed",
+      "progress"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word involves common vowel sounds but the 'r' can vary by accent)",
+    "spellingDifficulty": "5 (out of 10, straightforward but includes double consonants that may confuse learners)",
+    "meaningComplexity": "6 (out of 10, multiple meanings depending on context, requiring contextual inference)",
+    "usageComplexity": "5 (out of 10, common in technical contexts but adaptable to everyday use)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象一个电脑处理器如大脑的'引擎'，以加强记忆编码；通过间隔重复系统复习，结合母语对比避免混淆相似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "CPU",
+        "similarity": "0.8",
+        "context": "在计算机技术语境中，用于描述核心处理组件"
+      },
+      {
+        "word": "handler",
+        "similarity": "0.7",
+        "context": "在一般处理或管理语境中，表示执行任务的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "input device",
+        "context": "在计算机语境中，对比处理器（输出处理）和输入设备（如键盘）的功能"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "machine"
+    ],
+    "hyponyms": [
+      "microprocessor",
+      "GPU"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + processor (e.g., food processor)",
+        "examples": [
+          "central processor",
+          "image processor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Processor + verb (e.g., processor handles data)",
+        "examples": [
+          "The processor executes commands"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代科技文化中，'processor' 象征着效率和创新，常隐含数字时代的核心驱动力，在西方文化中代表工业革命的延续。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech contexts with emphasis on innovation",
+        "usage": "在美国英语中，常与硅谷文化关联，强调快速处理能力"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with slight phonetic differences",
+        "usage": "在英国英语中，可能在日常对话中更正式地使用"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机革命相关，源自19世纪的机械加工到20世纪的电子计算，文学作品如艾萨克·阿西莫夫的科幻小说中常出现。",
+    "modernUsage": "在社交媒体和数字平台上，'processor' 常用于讨论AI和云计算趋势，反映全球化技术传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高速运转的工厂机器，将数据视为原材料被加工。",
+      "keyElements": [
+        "工厂",
+        "机器",
+        "数据流"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用智能手机时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Processor sounds like 'pro' + 'cessor' – think of a 'professional processor' in a computer brain.",
+        "explanation": "通过声音联想和视觉化，将词汇与专业形象连接，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-C-E-S-S-O-R: Picture a 'Pro' racing a 'Cessor' (like Caesar processing orders).",
+        "explanation": "使用首字母缩略和幽默故事辅助记忆，减少认知负荷。"
+      }
+    ],
+    "wordAssociations": [
+      "computer",
+      "brain",
+      "speed"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "processors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + processor",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The processor handles data efficiently."
+        ]
+      },
+      {
+        "pattern": "Adjective + processor",
+        "description": "用于描述类型的处理器",
+        "examples": [
+          "A dual-core processor is faster."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'progressor'",
+        "correction": "Use 'processor' for devices",
+        "explanation": "学习者常混淆相似发音词汇；通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "processors",
+        "explanation": "简单添加 -s，但需注意发音变化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "business"
+    ],
+    "tags": [
+      "tech",
+      "electronics",
+      "machinery"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

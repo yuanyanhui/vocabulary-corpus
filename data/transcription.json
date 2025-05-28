@@ -1,0 +1,275 @@
+{
+  "word": "transcription",
+  "phonetics": {
+    "british": "/trænˈskrɪpʃən/",
+    "american": "/trænˈskrɪpʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of transcribing something, such as writing down spoken words or converting data into another form.",
+      "chineseTranslation": "转录或抄写过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A written or printed version of something, especially a piece of music or text that has been adapted or copied.",
+      "chineseTranslation": "转写的版本，例如音乐或文本的改编形式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, the process by which a segment of DNA is copied into RNA by the enzyme RNA polymerase.",
+      "chineseTranslation": "在生物学中，指 DNA 片段被 RNA 聚合酶复制成 RNA 的过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make a written copy of spoken or recorded material, or to adapt something into another form.",
+      "chineseTranslation": "转录或改编某物",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "phonetic transcription",
+      "meaning": "语音转写",
+      "example": "The linguist provided a phonetic transcription of the interview.",
+      "exampleTranslation": "语言学家提供了采访的语音转写。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "musical transcription",
+      "meaning": "音乐转录",
+      "example": "Bach's works often require musical transcription for different instruments.",
+      "exampleTranslation": "巴赫的作品经常需要为不同乐器进行音乐转录。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "gene transcription",
+      "meaning": "基因转录",
+      "example": "Gene transcription is a key process in cellular biology.",
+      "exampleTranslation": "基因转录是细胞生物学中的关键过程。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The court reporter created a transcription of the trial proceedings.",
+      "translation": "法庭记录员制作了审判程序的转录本。",
+      "source": "Legal documents (e.g., from court records)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In molecular biology, transcription is the first step in gene expression.",
+      "translation": "在分子生物学中，转录是基因表达的第一步。",
+      "source": "Scientific literature (e.g., from academic journals like Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She spent hours doing a transcription of the ancient manuscript.",
+      "translation": "她花了几个小时转录那份古代手稿。",
+      "source": "Historical fiction (e.g., inspired by works like those in the British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The phonetic transcription helped language learners pronounce words correctly.",
+      "translation": "语音转写帮助语言学习者正确发音。",
+      "source": "Educational materials (e.g., from language learning corpora like COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "transcribere",
+        "meaning": "to copy across or write over",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'transcribere'，其中 'trans-' 表示 'across' 或 'beyond'，'scribere' 表示 'to write'。在中世纪拉丁语中演变为 'transcriptio'，用于指抄写文件。在16世纪进入英语，指广泛的复制或转录过程，并扩展到现代科学语境，如生物学中的DNA转录。",
+    "firstKnownUse": "约1550年",
+    "relatedWords": [
+      "transcribe",
+      "script",
+      "manuscript"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象 'transcription' 如电影字幕的转录过程，以增强记忆编码；使用间隔重复法复习多义词，以避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "copy",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于简单复制文件"
+      },
+      {
+        "word": "record",
+        "similarity": "0.7",
+        "context": "在录音或文档记录语境中"
+      },
+      {
+        "word": "adaptation",
+        "similarity": "0.6",
+        "context": "在音乐或文学改编语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "original",
+        "context": "强调原始版本而非转录形式"
+      },
+      {
+        "word": "erasure",
+        "context": "在涉及删除或覆盖内容的语境中"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "conversion"
+    ],
+    "hyponyms": [
+      "phonetic transcription",
+      "gene transcription"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + transcription",
+        "examples": [
+          "phonetic transcription",
+          "musical transcription"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transcription of + noun",
+        "examples": [
+          "transcription of speech",
+          "transcription of data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征知识传承和记录历史，例如在文学和科学领域，常用于强调从口头到书面形式的转换，体现了西方文化对书面记录的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如生物学",
+        "usage": "在美国英语中，'transcription' 在科技和教育领域频率较高，常见于学术讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重历史和文学语境",
+        "usage": "在英国英语中，常与历史文件或音乐改编相关，语域较为正式"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的抄写传统相关，在英国文学如莎士比亚作品中，体现为文本复制的文化实践；现代中，与数字时代的数据转换相联。",
+    "modernUsage": "在社交媒体和在线平台上，'transcription' 常用于视频字幕或AI语音转文本服务，反映了数字传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个抄写员在古籍中仔细复制文字，同时屏幕上显示DNA链转化为RNA的动画。",
+      "keyElements": [
+        "抄写员",
+        "古籍",
+        "DNA链"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆学校笔记转录，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trans + Script = 传输脚本",
+        "explanation": "通过联想 'Trans' 如传输，'Script' 如脚本，将词汇与电脑文件传输联系起来，便于记忆多义性。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /trænˈskrɪpʃən/ 像 'train script'，想象火车载着脚本穿越。",
+        "explanation": "利用声音相似性创建故事，提升语音和语义的认知连接。"
+      }
+    ],
+    "wordAssociations": [
+      "record",
+      "copy",
+      "DNA",
+      "speech"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "transcriptions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + transcription",
+        "description": "主语 + 动词 + 转录对象，例如在句子中作为名词使用",
+        "examples": [
+          "The transcription is accurate."
+        ]
+      },
+      {
+        "pattern": "Transcription of + noun",
+        "description": "转录 + 对象结构，常用于描述过程",
+        "examples": [
+          "Transcription of the lecture took hours."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'translation'",
+        "correction": "Use 'transcription' for copying or converting forms, not for changing languages.",
+        "explanation": "学习者常混淆 'transcription' 和 'translation'，前者指形式转换，后者指语言转换。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural.",
+        "explanation": "作为可数名词，需正确添加复数形式以避免语法错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "education",
+      "arts"
+    ],
+    "tags": [
+      "linguistics",
+      "biology",
+      "documentation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

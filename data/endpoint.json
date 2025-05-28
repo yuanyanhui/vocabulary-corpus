@@ -1,0 +1,270 @@
+{
+  "word": "endpoint",
+  "phonetics": {
+    "british": "/ˈɛndpɔɪnt/",
+    "american": "/ˈɛndpoʊnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point at which a process, journey, or line comes to an end.",
+      "chineseTranslation": "终点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and technology, a specific location or interface where an API or network connection is accessed or terminated.",
+      "chineseTranslation": "端点（如 API 端点）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The final stage or outcome of a chemical reaction or process in scientific contexts.",
+      "chineseTranslation": "反应终点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reach the endpoint",
+      "meaning": "到达终点",
+      "example": "The hikers finally reached the endpoint of the trail after hours of walking.",
+      "exampleTranslation": "远足者们在走了几个小时后终于到达了小径的终点。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "API endpoint",
+      "meaning": "API 端点",
+      "example": "The developer configured the API endpoint to handle user authentication securely.",
+      "exampleTranslation": "开发人员配置了 API 端点来安全地处理用户身份验证。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "endpoint device",
+      "meaning": "端点设备",
+      "example": "In cybersecurity, an endpoint device refers to any computer or mobile device connected to a network.",
+      "exampleTranslation": "在网络安全中，端点设备指的是连接到网络的任何计算机或移动设备。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The marathon runners crossed the endpoint amid cheers from the crowd.",
+      "translation": "马拉松跑步者们在人群的欢呼声中越过终点线。",
+      "source": "Sports news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, the API endpoint must be protected against unauthorized access.",
+      "translation": "在软件开发中，API 端点必须受到保护以防止未授权访问。",
+      "source": "Technical documentation from GitHub",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The chemical reaction reached its endpoint after 30 minutes of heating.",
+      "translation": "化学反应在加热 30 分钟后到达了终点。",
+      "source": "Scientific journal (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She set the endpoint of her career goals to become a CEO by age 40.",
+      "translation": "她将自己的职业目标终点设定为在 40 岁前成为 CEO。",
+      "source": "Business biography",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "end",
+        "meaning": "The final part or termination",
+        "language": "Old English (from Proto-Germanic *andja-)"
+      },
+      {
+        "root": "point",
+        "meaning": "A sharp or tapering end; a location",
+        "language": "Middle English (from Old French point, from Latin punctum)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'end'，意为终止部分，结合中世纪英语 'point'，意为尖端或位置。从 19 世纪开始，在技术语境中演变为现代含义，尤其在计算机和科学领域，指特定接口或过程终点。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "terminus",
+      "destination",
+      "interface",
+      "node"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'endpoint' 与技术术语联系起来，例如想象一个网络线路的 'end' 和 'point'；对于中文母语学习者，建议通过重复曝光（spaced repetition）在不同语境中记忆，以强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "terminus",
+        "similarity": "0.8",
+        "context": "适用于交通或过程结束的语境，如 'The terminus of the bus route.'"
+      },
+      {
+        "word": "destination",
+        "similarity": "0.7",
+        "context": "常用于旅行或目标语境，如 'The destination is the endpoint of the journey.'"
+      },
+      {
+        "word": "culmination",
+        "similarity": "0.6",
+        "context": "在正式或文学语境中表示高潮或顶点，如 'The culmination of the story.'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "starting point",
+        "context": "适用于过程开始的语境，如 'The starting point is opposite to the endpoint.'"
+      },
+      {
+        "word": "origin",
+        "context": "在技术或历史语境中，表示源头，如 'The origin contrasts with the endpoint in data transmission.'"
+      }
+    ],
+    "hypernyms": [
+      "point",
+      "location"
+    ],
+    "hyponyms": [
+      "API endpoint",
+      "network endpoint"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + endpoint (e.g., API endpoint)",
+        "examples": [
+          "'Secure the API endpoint.'"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + endpoint (e.g., reach the endpoint)",
+        "examples": [
+          "'They reached the endpoint safely.'"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，该词象征技术连接和结束，隐含效率与安全的语义，尤其在全球化语境下代表现代科技的桥梁。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业，如软件开发",
+        "usage": "在美国英语中，'endpoint' 在 IT 领域高度流行，强调网络安全和数据处理。"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于一般语境，但较正式",
+        "usage": "在英国英语中，可能更偏向科学语境，如化学反应终点。"
+      }
+    ],
+    "historicalContext": "与工业革命和现代计算机发展相关，源自 19 世纪的科学术语，在 20 世纪的计算机革命中普及。",
+    "modernUsage": "在社交媒体和在线平台中，'endpoint' 常用于讨论 API 和云计算，体现数字化转型的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个道路的尽头，有一个标志点，代表旅程结束。",
+      "keyElements": [
+        "道路尽头",
+        "标志点",
+        "结束标志"
+      ],
+      "emotionalConnection": "联结个人旅行经历的成就感，例如回想一次成功的项目完成。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'End' 像 '结束'，'point' 像 '点'，所以 'endpoint' 是 '结束的点'。",
+        "explanation": "通过视觉联想强化记忆，利用认知科学中的双编码（dual coding）结合图像和词汇。"
+      },
+      {
+        "type": "缩略",
+        "content": "E.P. for 'End Point'",
+        "explanation": "使用首字母缩写帮助回想，基于记忆宫殿（memory palace）原理。"
+      }
+    ],
+    "wordAssociations": [
+      "finish",
+      "terminal",
+      "conclusion"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "endpoints",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Endpoint",
+        "description": "主语 + 动词 + 端点，常见于描述动作或状态。",
+        "examples": [
+          "'We reached the endpoint.'"
+        ]
+      },
+      {
+        "pattern": "Adjective + Endpoint",
+        "description": "形容词 + 端点，表示修饰。",
+        "examples": [
+          "'Secure endpoint configuration.'"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'endpoint' with 'end point' as separate words",
+        "correction": "Use 'endpoint' as one word in technical contexts",
+        "explanation": "在技术语境中，它是一个合成词；母语为中文的学习者可能因翻译而分隔。"
+      },
+      {
+        "mistake": "Using it interchangeably with 'startpoint'",
+        "correction": "Avoid inventing words; use 'starting point' instead",
+        "explanation": "英语中没有 'startpoint'，需注意语义精确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 10,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "computing"
+    ],
+    "tags": [
+      "technical",
+      "computing",
+      "endpoint"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

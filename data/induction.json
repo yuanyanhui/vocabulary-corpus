@@ -1,0 +1,275 @@
+{
+  "word": "induction",
+  "phonetics": {
+    "british": "/ɪnˈdʌkʃən/",
+    "american": "/ɪnˈdʌkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of introducing someone to a new job, position, or organization, often involving training and orientation.",
+      "chineseTranslation": "入职培训或介绍过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In logic, the inference of a general law or principle from the observation of particular instances.",
+      "chineseTranslation": "归纳法，即从具体事例推断一般规律",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, the production of an electric or magnetic effect due to the influence of a changing magnetic or electric field.",
+      "chineseTranslation": "感应，例如电磁感应",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The formal act of admitting someone into a society, group, or position, such as an induction ceremony.",
+      "chineseTranslation": "正式接纳或就职仪式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "induction ceremony",
+      "meaning": "就职或入会仪式",
+      "example": "The induction ceremony for new members was held in the grand hall.",
+      "exampleTranslation": "新成员的就职仪式在宏伟的大厅举行。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "electromagnetic induction",
+      "meaning": "电磁感应过程",
+      "example": "Faraday's law describes the principle of electromagnetic induction.",
+      "exampleTranslation": "法拉第定律描述了电磁感应的原理。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "logical induction",
+      "meaning": "逻辑归纳推理",
+      "example": "Logical induction is a key method in scientific research.",
+      "exampleTranslation": "逻辑归纳是科学研究中的关键方法。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the induction process, the new employees felt more confident in their roles.",
+      "translation": "在入职培训后，新员工对自己的角色感到更自信。",
+      "source": "Corporate training manual (e.g., from business corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Scientists use induction to formulate hypotheses based on repeated observations.",
+      "translation": "科学家们使用归纳法基于重复观察来制定假设。",
+      "source": "Academic text (e.g., from scientific literature in BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The principle of induction is fundamental in understanding how generators produce electricity.",
+      "translation": "感应原理是理解发电机如何产生电力的基础。",
+      "source": "Physics textbook (e.g., from educational corpora)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her induction into the hall of fame was a highlight of the awards event.",
+      "translation": "她入选名人堂是颁奖仪式的亮点。",
+      "source": "News article (e.g., from media sources like The Guardian)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inductio",
+        "meaning": "A leading in or introduction",
+        "language": "Latin"
+      },
+      {
+        "root": "inducere",
+        "meaning": "To lead or bring in",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term originated from Latin 'inductio', derived from 'inducere' (in- meaning 'into' and ducere meaning 'to lead'). It entered Middle English via Old French in the 14th century, initially referring to formal introduction into office. Over time, it evolved to encompass logical reasoning in the 17th century with the rise of scientific methodology, and physical phenomena in the 19th century with advancements in electromagnetism.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "deduction",
+      "inference",
+      "conduction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的间隔重复法（spaced repetition）来记忆多重含义，通过每日复习不同语境下的例句；",
+      "构建心智图（mind maps）将逻辑归纳、物理感应和入职过程连接起来，以增强语义关联；",
+      "结合个人经验，例如回想自己的入职经历来联想词汇，运用情节记忆（episodic memory）以提高保留率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inference",
+        "similarity": "0.8",
+        "context": "在逻辑语境中，用于推断一般规律"
+      },
+      {
+        "word": "initiation",
+        "similarity": "0.7",
+        "context": "在仪式或入职语境中，表示正式引入"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deduction",
+        "context": "在逻辑语境中，代表从一般到具体的推理，与归纳相反"
+      },
+      {
+        "word": "exclusion",
+        "context": "在正式引入语境中，表示排斥或排除"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "method"
+    ],
+    "hyponyms": [
+      "electromagnetic induction",
+      "mathematical induction"
+    ],
+    "collocations": [
+      {
+        "pattern": "induction + noun (e.g., ceremony, process)",
+        "examples": [
+          "induction training",
+          "induction coil"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + induction (e.g., undergo induction)",
+        "examples": [
+          "experience induction"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征科学方法论的基石，如在英语国家中，归纳法体现了经验主义哲学；在中国文化中，类似概念可与'归纳推理'关联，但强调集体经验而非个人观察。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in formal education and employment contexts",
+        "usage": "在英国，常用于学术和职业培训中，体现结构化引入"
+      },
+      {
+        "region": "United States",
+        "variation": "Often linked to sports or awards, e.g., Hall of Fame induction",
+        "usage": "在美国，侧重于荣誉和成就的庆祝"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动和工业革命相关，例如法拉第的电磁感应实验影响了现代科技；在文学中，如莎士比亚的作品中出现，代表正式就职。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于职业发展讨论，例如LinkedIn上的入职分享，或YouTube上的科学视频解释物理感应趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个新员工被引导进入一间明亮的办公室，同时脑海中浮现电线圈产生电流的画面，象征多种含义的交汇。",
+      "keyElements": [
+        "引导门牌",
+        "电线圈",
+        "逻辑链条"
+      ],
+      "emotionalConnection": "联结到个人首次工作经历的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Induction sounds like 'in duck shin' – imagine a duck leading you into a new path, representing introduction or inference.",
+        "explanation": "通过声音联想（音联觉）将发音与生动图像连接，提升词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-D-U-C-T-I-O-N: I Need Deduction Using Careful Thinking In Observations Naturally.",
+        "explanation": "使用首字母缩略法结合逻辑含义，强化认知结构"
+      }
+    ],
+    "wordAssociations": [
+      "inference",
+      "training",
+      "magnetism"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "inductions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + induction",
+        "description": "主语 + 动词 + induction，表示过程或事件",
+        "examples": [
+          "The company provides induction for new hires."
+        ]
+      },
+      {
+        "pattern": "Induction of + noun",
+        "description": "induction of + 名词，表示正式引入",
+        "examples": [
+          "The induction of the new president was celebrated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing induction with deduction",
+        "correction": "Use induction for specific to general; deduction for general to specific",
+        "explanation": "源自语义差异，学习者需区分逻辑语境"
+      },
+      {
+        "mistake": "Mispronouncing as /ɪnˈdʌktiən/",
+        "correction": "Correct to /ɪnˈdʌkʃən/",
+        "explanation": "错误源于拼写影响发音，练习音标可避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in the COCA corpus",
+    "domains": [
+      "education",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "logic",
+      "physics",
+      "training"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

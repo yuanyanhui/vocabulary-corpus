@@ -1,0 +1,262 @@
+{
+  "word": "revoke",
+  "phonetics": {
+    "british": "/rɪˈvəʊk/",
+    "american": "/rɪˈvoʊk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to officially cancel or withdraw something previously granted, such as a license, permission, or decision",
+      "chineseTranslation": "撤销，废除",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an act of revoking something, often in legal contexts",
+      "chineseTranslation": "撤销行为",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "revoke a license",
+      "meaning": "撤销执照或许可",
+      "example": "The authorities decided to revoke a license for the unsafe building.",
+      "exampleTranslation": "当局决定撤销这座不安全建筑物的执照。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "revoke permission",
+      "meaning": "撤销许可",
+      "example": "Parents can revoke permission for their children to use social media.",
+      "exampleTranslation": "父母可以撤销子女使用社交媒体的许可。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "revoke a decision",
+      "meaning": "撤销决定",
+      "example": "The board voted to revoke a decision made in the previous meeting.",
+      "exampleTranslation": "董事会投票撤销上一次会议的决定。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The court has the power to revoke the contract if fraud is proven.",
+      "translation": "如果证明有欺诈，法院有权撤销合同。",
+      "source": "Legal document (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the scandal, the company chose to revoke the executive's privileges.",
+      "translation": "丑闻发生后，公司选择撤销那位高管的特权。",
+      "source": "News article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Governments sometimes revoke citizenship in cases of national security threats.",
+      "translation": "政府有时会在国家安全威胁的情况下撤销公民身份。",
+      "source": "International news (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "revocare",
+        "meaning": "to call back",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "back, again",
+        "language": "Latin"
+      },
+      {
+        "root": "vocare",
+        "meaning": "to call",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'revocare'，意为 '召回' 或 '收回'。该词经由古法语 'revoker' 传入英语，最初用于法律和正式语境中表示取消或召回。在中世纪英语中，它发展为现代意义，强调正式撤销行为，尤其在14世纪的法律文件中出现。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "revocation",
+      "revocable",
+      "irrevocable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'revoke' 与相关词汇如 'cancel' 或 'withdraw' 分组记忆，以减少认知负荷；",
+      "通过视觉联想将词根 're-' 想象为 '返回' 的动作，帮助建立语义网络；",
+      "在实际语境中重复使用，例如通过闪卡应用强化记忆，避免混淆于同类词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rescind",
+        "similarity": "0.8",
+        "context": "适用于正式法律语境，如合同撤销"
+      },
+      {
+        "word": "cancel",
+        "similarity": "0.7",
+        "context": "适用于日常或非正式语境，如取消预约"
+      },
+      {
+        "word": "withdraw",
+        "similarity": "0.6",
+        "context": "适用于撤回支持或声明的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "grant",
+        "context": "在法律语境中，表示给予而非撤销"
+      },
+      {
+        "word": "issue",
+        "context": "在行政语境中，表示发放许可而非取消"
+      }
+    ],
+    "hypernyms": [
+      "cancel"
+    ],
+    "hyponyms": [
+      "revoke a license",
+      "revoke citizenship"
+    ],
+    "collocations": [
+      {
+        "pattern": "revoke + noun (e.g., revoke a license)",
+        "examples": [
+          "revoke a decision",
+          "revoke permission"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be revoked by + agent",
+        "examples": [
+          "The license was revoked by the authorities"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征正式制度下的权威和责任，常隐含社会正义或法律公正的主题，例如在美国文化中，'revoke' 经常与公民权利或政府监管相关，反映出对个体自由的保护。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式法律文件",
+        "usage": "在英国英语中，'revoke' 可能与历史议会制度相关联，如撤销法案"
+      },
+      {
+        "region": "美国",
+        "variation": "在日常行政语境中更常见",
+        "usage": "在美国英语中，常用于驾照或签证撤销，体现移民和监管政策"
+      }
+    ],
+    "historicalContext": "与英国中世纪法律传统相关联，如大宪章时代对权利的撤销；在现代，特别是在英美法系中，该词体现了对滥用权力的制衡。",
+    "modernUsage": "在社交媒体和新闻中，'revoke' 常用于讨论数字隐私或政策变化，例如撤销社交账户权限，反映当代全球化的文化动态。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人拿着钥匙（象征许可），然后收回它（re-表示返回），并撕毁文件。",
+      "keyElements": [
+        "钥匙",
+        "撕毁文件",
+        "返回动作"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己取消预约时的挫败感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'revoke' 联想为 're + vote'，意思是 '重新投票' 来取消决定",
+        "explanation": "通过声音和语义联想，帮助记忆词根，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-V-O-K-E: Reclaim Every Vested Ownership, Keep Exclusive",
+        "explanation": "使用首字母缩略法创建故事，强化词汇在脑中的视觉路径"
+      }
+    ],
+    "wordAssociations": [
+      "cancel",
+      "withdraw",
+      "rescind"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "revoked",
+      "pastParticiple": "revoked",
+      "presentParticiple": "revoking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + revoke + object",
+        "description": "主语直接撤销宾语的结构，常用于主动语态",
+        "examples": [
+          "The government revokes the law"
+        ]
+      },
+      {
+        "pattern": "Object + be + revoked + by + agent",
+        "description": "被动语态结构，用于强调被撤销的对象",
+        "examples": [
+          "The license was revoked by the court"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'revoke' interchangeably with 'revise'",
+        "correction": "Use 'revoke' for cancellation and 'revise' for modification",
+        "explanation": "因为二者语义不同，'revoke' 强调完全取消，而 'revise' 强调修改"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'revokement' instead of 'revocation'",
+        "correction": "Use 'revocation' as the noun form",
+        "explanation": "英语中 'revoke' 的名词形式为 'revocation'，非 'revokement'，以避免拼写错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "法律",
+      "行政",
+      "商业"
+    ],
+    "tags": [
+      "正式词汇",
+      "法律术语",
+      "撤销动作"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

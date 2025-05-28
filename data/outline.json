@@ -1,0 +1,278 @@
+{
+  "word": "outline",
+  "phonetics": {
+    "british": "/ˈaʊtlaɪn/",
+    "american": "/ˈaʊtˌlaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A line or set of lines that represents the outer edges of an object or shape, often used in sketches or plans.",
+      "chineseTranslation": "轮廓",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A general description or plan giving the essential features of something without going into detail.",
+      "chineseTranslation": "大纲",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To draw the main lines or features of something, typically as a preliminary sketch.",
+      "chineseTranslation": "概述",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To give a summary or general plan of something.",
+      "chineseTranslation": "草拟",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in outline",
+      "meaning": "大致上或初步的描述",
+      "example": "The report is presented in outline only.",
+      "exampleTranslation": "报告仅以大纲形式呈现。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "outline of a plan",
+      "meaning": "计划的大纲或框架",
+      "example": "She provided an outline of a plan for the project.",
+      "exampleTranslation": "她提供了项目计划的大纲。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "rough outline",
+      "meaning": "粗略的轮廓或提纲",
+      "example": "I need a rough outline of your proposal by tomorrow.",
+      "exampleTranslation": "我需要在明天前得到你提案的粗略大纲。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist sketched the outline of the landscape before adding colors.",
+      "translation": "艺术家在添加颜色之前先勾勒了风景的轮廓。",
+      "source": "Art and literature contexts, e.g., from modern novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In her presentation, she gave a clear outline of the company's future strategy.",
+      "translation": "在她的演讲中，她清晰地概述了公司未来的战略。",
+      "source": "Business and professional settings, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The teacher asked students to create an outline for their essays to organize their thoughts.",
+      "translation": "老师要求学生为他们的文章制作大纲，以整理思路。",
+      "source": "Educational contexts, e.g., from academic texts",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The novel's outline revealed the plot twists early in the drafting process.",
+      "translation": "小说的轮廓在起草过程中早早揭示了情节转折。",
+      "source": "Literary works, e.g., from BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "out",
+        "meaning": "Outside or external",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "line",
+        "meaning": "A straight or curved continuous extent of length",
+        "language": "Middle English (from Latin 'linea')"
+      }
+    ],
+    "historicalDevelopment": "起源于中古英语，源自 'out'（外部）和 'line'（线条）的组合，最初指描绘物体外部形状的线条。17世纪开始扩展到抽象意义，如计划或总结的框架，受文艺复兴时期艺术和科学的影响而演变。",
+    "firstKnownUse": "约1570年",
+    "relatedWords": [
+      "contour",
+      "sketch",
+      "summary"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'outline' 的名词和动词形式分开记忆；通过视觉映射将词汇与个人经历（如绘图或写作大纲）关联，以增强长期记忆；使用间隔重复系统复习多义词以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "summary",
+        "similarity": "0.8",
+        "context": "在正式报告或学术语境中，用于简要概述内容"
+      },
+      {
+        "word": "sketch",
+        "similarity": "0.7",
+        "context": "在艺术或初步规划语境中，用于描绘基本形状"
+      },
+      {
+        "word": "framework",
+        "similarity": "0.6",
+        "context": "在结构化讨论中，用于表示总体结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "detail",
+        "context": "在详细描述语境中，与 'outline' 的概括性相对"
+      },
+      {
+        "word": "elaborate",
+        "context": "在扩展性写作或演讲中，与 'outline' 的简要性相对"
+      }
+    ],
+    "hypernyms": [
+      "description",
+      "plan"
+    ],
+    "hyponyms": [
+      "rough draft",
+      "schematic"
+    ],
+    "collocations": [
+      {
+        "pattern": "outline + noun (e.g., outline of a plan)",
+        "examples": [
+          "outline of a strategy",
+          "outline of an argument"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + outline (e.g., to outline ideas)",
+        "examples": [
+          "quickly outline the points"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征结构化和组织，常用于教育和专业环境中，隐含着西方文化对逻辑和清晰表达的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和教育语境中",
+        "usage": "在美国英语中，'outline' 经常出现在课堂教学中，作为写作工具"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或文学用法",
+        "usage": "在英国英语中，常与历史或艺术相关联，如在博物馆描述中"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关的理性主义文化背景有关，强调清晰的思考和规划，如在莎士比亚时代用于文学结构。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于快速分享想法，例如Twitter上的帖子或YouTube视频大纲。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个艺术家在画布上快速勾勒物体的外部线条，同时脑海中浮现一份写作大纲的列表。",
+      "keyElements": [
+        "线条",
+        "框架",
+        "速写"
+      ],
+      "emotionalConnection": "联结到个人经历，如学生时代制作学习大纲的成就感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'outline' 联想为 'out'（外）+ 'line'（线），想象一条线在物体外面环绕。",
+        "explanation": "通过空间视觉联想增强记忆，基于认知科学的空间认知理论"
+      },
+      {
+        "type": "缩略",
+        "content": "OUTLINE = Outer Lines In New Environments",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者记住多义性"
+      }
+    ],
+    "wordAssociations": [
+      "sketch",
+      "summary",
+      "framework"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "outlines",
+      "pastTense": "outlined",
+      "pastParticiple": "outlined",
+      "presentParticiple": "outlining",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + outline + object",
+        "description": "主语 + 动词 + outline + 宾语，典型用于动作描述",
+        "examples": [
+          "She outlined the plan carefully."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with outline",
+        "description": "以 outline 为核心的名词短语，用于静态描述",
+        "examples": [
+          "The outline of the building was impressive."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing outline with similar words like 'outlive'",
+        "correction": "Use 'outline' for sketches or summaries",
+        "explanation": "错误源于语音相似；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'outlined' for past",
+        "explanation": "常见于非母语学习者；使用重复练习强化形态"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "教育",
+      "商业",
+      "艺术"
+    ],
+    "tags": [
+      "结构",
+      "总结",
+      "规划"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

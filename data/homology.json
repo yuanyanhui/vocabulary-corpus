@@ -1,0 +1,260 @@
+{
+  "word": "homology",
+  "phonetics": {
+    "british": "/həˈmɒlədʒi/",
+    "american": "/hoʊˈmɑːlədʒi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The similarity of the structure of parts of different organisms due to common evolutionary ancestry.",
+      "chineseTranslation": "同源性",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, a concept relating to algebraic topology, where it studies the properties preserved under continuous deformations.",
+      "chineseTranslation": "同调性",
+      "level": "academic",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A correspondence or similarity in type of structure, position, or value.",
+      "chineseTranslation": "相似性或对应性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "homologous structures",
+      "meaning": "同源结构",
+      "example": "Whales and humans both have homologous structures in their flippers and arms, indicating a common ancestor.",
+      "exampleTranslation": "鲸鱼和人类在鳍肢和手臂上都有同源结构，这表明它们有一个共同的祖先。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sequence homology",
+      "meaning": "序列同源性",
+      "example": "Sequence homology between DNA strands can reveal evolutionary relationships.",
+      "exampleTranslation": "DNA链之间的序列同源性可以揭示进化关系。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "homology modeling",
+      "meaning": "同源建模",
+      "example": "Homology modeling is a technique used in bioinformatics to predict protein structures.",
+      "exampleTranslation": "同源建模是生物信息学中用于预测蛋白质结构的技术。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of homology is central to understanding evolutionary biology.",
+      "translation": "同源性的概念是理解进化生物学的基础。",
+      "source": "Scientific literature, such as Darwin's 'On the Origin of Species'",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In genetics, homology refers to chromosomes that pair during cell division.",
+      "translation": "在遗传学中，同源性指的是在细胞分裂过程中配对的染色体。",
+      "source": "Educational texts, e.g., from biology textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The homology between the bat's wing and the human hand is a classic example in comparative anatomy.",
+      "translation": "蝙蝠的翅膀和人类的手之间的同源性是比较解剖学中的经典例子。",
+      "source": "News articles on evolutionary science",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "homo-",
+        "meaning": "same",
+        "language": "Greek"
+      },
+      {
+        "root": "-logy",
+        "meaning": "study or science of",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek 'homologia', meaning 'agreement' or 'correspondence'. It entered English in the early 19th century through scientific discourse, initially in biology to describe structural similarities, and later expanded to mathematics and other fields as scientific methods evolved.",
+    "firstKnownUse": "1847, in biological contexts as per the Oxford English Dictionary (OED)",
+    "relatedWords": [
+      "homologous",
+      "homologize",
+      "analogy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires advanced understanding of scientific concepts)",
+    "pronunciationDifficulty": "6 (out of 10, due to the vowel sounds /ə/ and /ɒ/ or /ɑː/ which may confuse intermediate learners)",
+    "spellingDifficulty": "5 (out of 10, straightforward but the 'o' and 'l' sequence might lead to misspellings)",
+    "meaningComplexity": "8 (out of 10, as it has multiple specialized meanings across disciplines, making it abstract for second language learners)",
+    "usageComplexity": "7 (out of 10, primarily used in technical contexts, requiring knowledge of specific fields)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象两个相似的物体代表'同源性'；通过间隔重复系统复习以加强记忆；结合个人经验，如比较自身身体结构以构建情感联系。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "analogy",
+        "similarity": "0.7",
+        "context": "在生物学中，用于描述结构相似但非同源的特征（例如，在进化论讨论中）"
+      },
+      {
+        "word": "correspondence",
+        "similarity": "0.6",
+        "context": "在数学中，指代模式或结构的相似性（例如，在拓扑学应用中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analogy",
+        "context": "当强调非进化相关性时（例如，在生物学中，'analogy'指功能相似但起源不同）"
+      },
+      {
+        "word": "dissimilarity",
+        "context": "在科学比较中，用于突出结构差异（例如，在进化研究中）"
+      }
+    ],
+    "hypernyms": [
+      "similarity",
+      "correspondence"
+    ],
+    "hyponyms": [
+      "structural homology",
+      "sequence homology"
+    ],
+    "collocations": [
+      {
+        "pattern": "homology in [field]",
+        "examples": [
+          "homology in biology",
+          "homology in mathematics"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] homology",
+        "examples": [
+          "evolutionary homology",
+          "genetic homology"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征进化理论的核心概念，体现了达尔文主义对现代生物学的深远影响，常隐含着对生物多样性的统一理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于生物和遗传学语境中",
+        "usage": "在美国英语中，常见于教育和科研讨论，以强调实用应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重历史和理论语境",
+        "usage": "在英国英语中，常与达尔文时代的科学历史相关联"
+      }
+    ],
+    "historicalContext": "与查尔斯·达尔文的进化论相关，该词反映了19世纪维多利亚时代科学革命的社会背景，并在现代教育中促进跨文化科学交流。",
+    "modernUsage": "在社交媒体和在线教育平台上，该词用于科普内容，如YouTube视频或Twitter讨论，体现了全球科学传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个家庭相册，里面有祖先的照片和现代家庭成员的照片，突出相似特征。",
+      "keyElements": [
+        "相册",
+        "祖先",
+        "相似特征"
+      ],
+      "emotionalConnection": "联结学习者个人家族历史，触发对'继承'或'共同起源'的情感共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Home + Logy = 同源之家",
+        "explanation": "将'homo-'联想为'home'（家），表示相同起源；'-logy'为研究，整体帮助记住词义。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'homology'，联想为'home ology'，想象回家研究相似事物。",
+        "explanation": "通过声音与图像结合，利用认知科学中的双编码效应增强记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "evolution",
+      "ancestry",
+      "structure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "homologies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "该词常作为主语或宾语出现在描述性句子中",
+        "examples": [
+          "Homology is evident in the limbs of vertebrates."
+        ]
+      },
+      {
+        "pattern": "In + field context",
+        "description": "常与介词短语结合，表示具体领域",
+        "examples": [
+          "Homology in evolutionary biology explains species diversity."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'analogy'",
+        "correction": "Use 'homology' for shared evolutionary origins",
+        "explanation": "Learners often mix the two; remember 'homology' implies common ancestry."
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'homologies' for plural",
+        "explanation": "As a standard noun, simply add '-es' for plural forms."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in the COCA corpus, indicating specialized use",
+    "domains": [
+      "science",
+      "biology",
+      "mathematics"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "evolutionary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

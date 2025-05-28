@@ -1,0 +1,234 @@
+{
+  "word": "histogram",
+  "phonetics": {
+    "british": "/ˈhɪstəɡræm/",
+    "american": "/ˈhɪstəɡræm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graphical representation of the distribution of numerical data, where the data is divided into bins and represented by rectangles.",
+      "chineseTranslation": "直方图",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency histogram",
+      "meaning": "频率直方图",
+      "example": "The frequency histogram illustrates the distribution of exam scores.",
+      "exampleTranslation": "这个频率直方图展示了考试成绩的分布。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "create a histogram",
+      "meaning": "创建直方图",
+      "example": "Data analysts often create a histogram to visualize patterns in datasets.",
+      "exampleTranslation": "数据分析师经常创建直方图来可视化数据集中的模式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics, a histogram is used to show the frequency of data points within specified ranges.",
+      "translation": "在统计学中，直方图用于显示数据点在指定范围内的频率。",
+      "source": "Academic textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She drew a histogram to represent the age distribution in the population survey.",
+      "translation": "她绘制了一个直方图来表示人口调查中的年龄分布。",
+      "source": "Scientific report",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The teacher explained how to interpret a histogram during the online class.",
+      "translation": "老师在在线课上解释了如何解读直方图。",
+      "source": "Educational video",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "histos",
+        "meaning": "直立的物体或框架",
+        "language": "希腊语"
+      },
+      {
+        "root": "gramma",
+        "meaning": "书写或绘图",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'histos'（意为直立的物体，如桅杆）和 'gramma'（意为书写或图表）。在19世纪，由统计学家Karl Pearson于1891年引入，用于描述数据分布的图形表示。从最初的统计学语境演变为现代数据可视化工具。",
+    "firstKnownUse": "1891",
+    "relatedWords": [
+      "bar graph",
+      "frequency distribution"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用认知科学原理，如将词汇与视觉图像结合，例如想象直方图作为一排柱子；通过重复练习数据集分析来强化记忆；将新词与学习者已有知识（如数学图表）关联，以提升长期记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bar chart",
+        "similarity": "0.8",
+        "context": "在数据可视化语境中，常用于类似统计表示"
+      },
+      {
+        "word": "frequency plot",
+        "similarity": "0.7",
+        "context": "适用于频率数据分析的科学领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter plot",
+        "context": "在表示散点数据而非分组频率的语境中"
+      },
+      {
+        "word": "line graph",
+        "context": "用于显示趋势而非分布的商业或科学报告中"
+      }
+    ],
+    "hypernyms": [
+      "graph",
+      "chart"
+    ],
+    "hyponyms": [
+      "frequency histogram",
+      "probability histogram"
+    ],
+    "collocations": [
+      {
+        "pattern": "draw a histogram",
+        "examples": [
+          "They drew a histogram to analyze the data."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "analyze a histogram",
+        "examples": [
+          "Scientists analyze a histogram for patterns."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征数据精确性和可视化分析，常隐含理性与客观性的价值观；在跨文化语境中，代表现代数据驱动决策的趋势。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在教育和商业中使用更频繁，常与软件工具如Excel结合",
+        "usage": "在美国统计学课程中作为标准工具"
+      },
+      {
+        "region": "英国",
+        "variation": "表达方式类似，但更强调学术语境",
+        "usage": "在英国的科学出版物中常见，用于历史数据分析"
+      }
+    ],
+    "historicalContext": "与19世纪统计学的兴起相关，尤其在Karl Pearson的工作中；在文学和社会背景中，象征工业革命后的数据量化趋势。",
+    "modernUsage": "在社交媒体和数据科学平台如Twitter或Python中流行，用于快速数据可视化，反映数字时代的信息传播方式。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个教室里的黑板上画着一排不同高度的柱子，每个柱子代表数据组的频率。",
+      "keyElements": [
+        "柱子",
+        "数据频率",
+        "黑板"
+      ],
+      "emotionalConnection": "联结到学习者个人经历，如回忆学校考试成绩分析的兴奋或压力"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hist-ogram 像 history + gram（历史 + 图表），表示历史数据通过图表展示。",
+        "explanation": "通过将词汇与时间序列和视觉元素关联，运用认知科学中的双编码理论增强记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈhɪstəɡræm/' 听起来像 'his tower gram'，想象高塔代表数据柱子。",
+        "explanation": "利用声音与图像的联结，促进海马体记忆路径的激活。"
+      }
+    ],
+    "wordAssociations": [
+      "chart",
+      "graph",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "histograms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + histogram",
+        "description": "作为名词在简单句中充当宾语或主语",
+        "examples": [
+          "The histogram displays the results."
+        ]
+      },
+      {
+        "pattern": "In + context + histogram",
+        "description": "用于描述语境中的使用",
+        "examples": [
+          "In statistics, the histogram is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing histogram with bar graph",
+        "correction": "Use histogram for continuous data only",
+        "explanation": "学习者常混淆二者，因为两者视觉相似，但直方图专用于连续变量数据"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'histograms' for plural",
+        "explanation": "作为常规名词，需正确添加 -s 后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., COCA corpus rank: approximately 15,000th, common in academic and technical texts)",
+    "domains": [
+      "Science",
+      "Statistics",
+      "Education"
+    ],
+    "tags": [
+      "Data Visualization",
+      "Mathematics",
+      "Technical Term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

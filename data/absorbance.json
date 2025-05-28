@@ -1,0 +1,226 @@
+{
+  "word": "absorbance",
+  "phonetics": {
+    "british": "/əbˈzɔː.bəns/",
+    "american": "/æbˈzɔːr.bəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the amount of light or other electromagnetic radiation absorbed by a substance, typically expressed as a logarithmic ratio of incident to transmitted radiation in spectroscopy and chemistry.",
+      "chineseTranslation": "吸光度或吸收率",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "molar absorbance",
+      "meaning": "摩尔吸光度，指每单位浓度物质的吸光度",
+      "example": "The molar absorbance of the compound was calculated at 280 nm.",
+      "exampleTranslation": "该化合物的摩尔吸光度在280 nm处被计算出来。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "absorbance spectrum",
+      "meaning": "吸光光谱，表示物质对不同波长辐射的吸收情况",
+      "example": "The absorbance spectrum revealed peaks at specific wavelengths.",
+      "exampleTranslation": "吸光光谱显示了特定波长的峰值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In biochemistry, absorbance is used to quantify protein concentrations in a solution.",
+      "translation": "在生物化学中，吸光度用于量化溶液中的蛋白质浓度。",
+      "source": "Scientific literature (e.g., from journals like Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The spectrophotometer measures absorbance to determine the sample's purity.",
+      "translation": "光谱仪通过测量吸光度来确定样本的纯度。",
+      "source": "Educational texts (e.g., chemistry textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Absorbance values above 1.0 indicate significant light absorption by the material.",
+      "translation": "吸光度值超过1.0表示材料对光线的显著吸收。",
+      "source": "Technical reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "absorb-",
+        "meaning": "to swallow up or take in",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'absorbere'（意为吞没或吸收）演变而来，18世纪在科学语境中发展为现代术语，首先用于光学和化学领域，以描述辐射吸收的现象；19世纪逐步标准化为光谱学中的关键概念。",
+    "firstKnownUse": "1745",
+    "relatedWords": [
+      "absorb",
+      "absorption",
+      "adsorb"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象光线被物质'吞噬'，并通过重复练习与实际科学实验关联，以增强长期记忆；建议初学者从简单科学语境入手，逐步扩展到专业文献。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "optical density",
+        "similarity": "0.8",
+        "context": "在光学和光谱学语境中，用于描述相同的光吸收现象"
+      },
+      {
+        "word": "extinction",
+        "similarity": "0.7",
+        "context": "在物理学中，特指辐射衰减的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "transmittance",
+        "context": "在光谱学中，表示光线通过物质的程度，与吸收相对"
+      }
+    ],
+    "hypernyms": [
+      "measurement",
+      "quantity"
+    ],
+    "hyponyms": [
+      "molar absorbance"
+    ],
+    "collocations": [
+      {
+        "pattern": "absorbance at [wavelength]",
+        "examples": [
+          "Absorbance at 450 nm was measured."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "high/low absorbance",
+        "examples": [
+          "The sample showed high absorbance."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确测量和实验方法，没有强烈的隐含语义，但反映了工业革命后科学主义的发展",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于生物技术和制药领域",
+        "usage": "在学术和工业语境中频繁出现，与英国类似但强调应用性"
+      },
+      {
+        "region": "英国",
+        "variation": "在传统物理学和化学中更常见",
+        "usage": "常用于教育和研究语境，受OED影响"
+      }
+    ],
+    "historicalContext": "与19世纪的工业革命和光谱学发展相关，例如Newton和Maxwell的贡献，在现代科学中成为标准术语",
+    "modernUsage": "在社交媒体和在线教育平台如Khan Academy中流行，用于科普，但主要限于专业社区"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个玻璃容器中，光线射入后被物质吸收，就像水被海绵吸走一样",
+      "keyElements": [
+        "光线",
+        "吸收",
+        "容器"
+      ],
+      "emotionalConnection": "联结到日常经验，如阳光穿透窗户被窗帘阻挡，触发好奇和探索情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Absorbance sounds like 'absorb dance' – imagine light doing a 'dance' of absorption.",
+        "explanation": "通过声音联想和视觉化，帮助记忆词汇的核心含义，基于认知心理学中的双重编码"
+      },
+      {
+        "type": "缩略",
+        "content": "A-B-S: Absorb, Block, Spectrum",
+        "explanation": "使用首字母缩写来关联词汇与关键概念，促进记忆巩固"
+      }
+    ],
+    "wordAssociations": [
+      "absorb",
+      "light",
+      "spectrum",
+      "measure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "absorbances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语用于描述测量结果",
+        "examples": [
+          "Absorbance is a key parameter in spectroscopy."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词短语结合表示具体条件",
+        "examples": [
+          "Absorbance at 500 nm increases with concentration."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'absorption'",
+        "correction": "Use 'absorbance' for the quantitative measure",
+        "explanation": "吸收（absorption）是过程，而吸光度（absorbance）是具体数值，避免语义混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'absorbances' for plural forms",
+        "explanation": "作为可数名词，在科学语境中需正确处理复数"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "chemistry"
+    ],
+    "tags": [
+      "optics",
+      "spectroscopy",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

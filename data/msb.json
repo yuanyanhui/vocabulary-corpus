@@ -1,0 +1,226 @@
+{
+  "word": "msb",
+  "phonetics": {
+    "british": "/ˌɛm ɛs ˈbiː/",
+    "american": "/ˌɛm ɛs ˈbiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An abbreviation for 'Most Significant Bit', referring to the bit in a binary number that represents the highest value position.",
+      "chineseTranslation": "最显著位，指在二进制数中具有最高权值的位",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "MSB first",
+      "meaning": "先处理最显著位",
+      "example": "In networking, data is sometimes transmitted MSB first.",
+      "exampleTranslation": "在网络中，数据有时以最显著位优先传输。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "set the MSB",
+      "meaning": "设置最显著位",
+      "example": "To indicate a special mode, you need to set the MSB in the byte.",
+      "exampleTranslation": "为了表示特殊模式，需要在字节中设置最显著位。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the binary number 1010, the MSB is 1, which represents the highest power of 2.",
+      "translation": "在二进制数1010中，最显著位是1，它代表最高的2的幂。",
+      "source": "Technical documentation, such as from IEEE standards",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Programmers often check the MSB to determine the sign of a number in two's complement.",
+      "translation": "程序员经常检查最显著位来确定补码中的数字符号。",
+      "source": "Computer science textbooks, e.g., from MIT OpenCourseWare",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The MSB in this data packet is used for error checking.",
+      "translation": "这个数据包中的最显著位用于错误检查。",
+      "source": "Modern software engineering contexts",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "MSB",
+        "meaning": "Derived from 'Most Significant Bit'",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term 'MSB' emerged in the mid-20th century with the development of digital electronics and binary systems. It evolved from early computer science discussions on binary representation, where the need to identify the most significant digit became crucial for operations like arithmetic and data transmission. From its origins in engineering contexts, it has become standardized in computing.",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "LSB (Least Significant Bit)",
+      "binary digit",
+      "bit position"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的分块技术，将MSB视为二进制系统的一部分，通过视觉化二进制数的图表来记忆；结合个人经验，如将它联想为数字中的'领导者'，以增强情绪联结；对于中文学习者，建议先掌握基本二进制概念，再逐步引入专业术语，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "high-order bit",
+        "similarity": "0.8",
+        "context": "适用于计算机体系结构和数据处理领域"
+      },
+      {
+        "word": "leading bit",
+        "similarity": "0.7",
+        "context": "在数字信号处理中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "LSB",
+        "context": "在二进制表示中，LSB是最低权值的位，常用于对比MSB"
+      }
+    ],
+    "hypernyms": [
+      "bit",
+      "binary element"
+    ],
+    "hyponyms": [
+      "sign bit in two's complement"
+    ],
+    "collocations": [
+      {
+        "pattern": "MSB of [noun]",
+        "examples": [
+          "MSB of the byte",
+          "MSB of the integer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "check the MSB",
+        "examples": [
+          "Always check the MSB for overflow"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，MSB象征着优先性和重要性，常隐含在数字时代的数据处理逻辑中，反映了西方工程文化的精确性和系统性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English technical contexts",
+        "usage": "在硅谷和科技公司中，MSB是标准术语，用于编程和硬件设计"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage, but sometimes integrated into broader European tech standards",
+        "usage": "在英国的教育和工业环境中，与国际标准一致"
+      }
+    ],
+    "historicalContext": "与20世纪的计算机革命相关联，如二战后的电子学发展，MSB在早期计算机如ENIAC中发挥作用，体现了工业革命向信息时代的过渡。",
+    "modernUsage": "在社交媒体和在线论坛中，MSB常出现在编程讨论和AI主题中，特别是在GitHub或Stack Overflow等平台上"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个二进制数如1010，其中MSB是最高的'1'，就像一栋大楼的顶层。",
+      "keyElements": [
+        "顶层",
+        "最高位",
+        "二进制链"
+      ],
+      "emotionalConnection": "联结到个人成就感，如攀登山顶，触发积极情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "MSB = Most Significant Bit, 联想为'Most Special Building'的顶层",
+        "explanation": "通过视觉联想，将抽象概念转化为具体图像，帮助中文学习者克服抽象性"
+      },
+      {
+        "type": "缩略",
+        "content": "M-S-B: Most-Significant-Bit, 像记住地址的首字母",
+        "explanation": "利用认知科学中的重复和分组方法，增强短期记忆向长期记忆的转化"
+      }
+    ],
+    "wordAssociations": [
+      "bit",
+      "binary",
+      "significance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "MSB 通常作为名词短语出现，常与介词或定语结合",
+        "examples": [
+          "The MSB in this system is critical."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于描述位置或角色",
+        "examples": [
+          "Check for the MSB of the data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing MSB with LSB",
+        "correction": "Use MSB for the highest bit and LSB for the lowest",
+        "explanation": "由于两者相似，中文学习者可能混淆二进制概念，需通过对比学习避免"
+      },
+      {
+        "mistake": "Incorrect pronunciation as a full word",
+        "correction": "Pronounce as letters: /ˌɛm ɛs ˈbiː/",
+        "explanation": "作为缩写，应逐字母发音，而非整体词汇"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus for technical domains",
+    "domains": [
+      "technology",
+      "computing",
+      "engineering"
+    ],
+    "tags": [
+      "computer science",
+      "binary systems",
+      "digital electronics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

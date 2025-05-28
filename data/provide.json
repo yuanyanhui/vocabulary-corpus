@@ -1,0 +1,260 @@
+{
+  "word": "provide",
+  "phonetics": {
+    "british": "/prəˈvaɪd/",
+    "american": "/prəˈvaɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To supply or make available something that is needed or wanted.",
+      "chineseTranslation": "提供",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To give someone the means or opportunity to do something.",
+      "chineseTranslation": "供给；使可能",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To stipulate or include as a condition in a legal document.",
+      "chineseTranslation": "规定；作为条款",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "provide for",
+      "meaning": "为某人提供生活所需或支持",
+      "example": "The government must provide for the elderly in society.",
+      "exampleTranslation": "政府必须为社会中的老人提供支持。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "provide with",
+      "meaning": "向某人提供某物",
+      "example": "The company provides its employees with health insurance.",
+      "exampleTranslation": "公司为其员工提供健康保险。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "provide against",
+      "meaning": "预防或防范某事",
+      "example": "We need to provide against potential risks in the project.",
+      "exampleTranslation": "我们需要防范项目中的潜在风险。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The school provides free meals for all students.",
+      "translation": "学校为所有学生提供免费餐食。",
+      "source": "Educational context, based on common usage in British National Corpus (BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This contract provides that payment must be made within 30 days.",
+      "translation": "这份合同规定付款必须在30天内完成。",
+      "source": "Legal document, from Corpus of Contemporary American English (COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She always provides helpful advice when I'm in trouble.",
+      "translation": "当我遇到麻烦时，她总是提供有帮助的建议。",
+      "source": "Informal conversation, observed in social media corpora",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "pro-",
+        "meaning": "forward or for",
+        "language": "Latin"
+      },
+      {
+        "root": "videre",
+        "meaning": "to see",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'providere'（意为预见或准备）演变而来，中世纪拉丁语用于表示供应，进入中古英语时扩展为一般提供含义。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "provision",
+      "provider",
+      "providence"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用分块记忆法，将 'provide' 与常见搭配如 'provide for' 联系起来，利用认知负荷理论减少词汇孤立学习；结合视觉图像，如想象供应物品的场景，以增强长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "supply",
+        "similarity": "0.8",
+        "context": "在商业或日常供应语境中，例如提供商品"
+      },
+      {
+        "word": "furnish",
+        "similarity": "0.7",
+        "context": "在正式或家居语境中，例如提供家具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withhold",
+        "context": "在拒绝提供语境中，例如在法律或道德讨论中"
+      },
+      {
+        "word": "deprive",
+        "context": "在剥夺资源语境中，例如社会福利讨论"
+      }
+    ],
+    "hypernyms": [
+      "give",
+      "offer"
+    ],
+    "hyponyms": [
+      "supply",
+      "cater"
+    ],
+    "collocations": [
+      {
+        "pattern": "provide + noun + for + someone",
+        "examples": [
+          "provide support for the team"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "provide + with",
+        "examples": [
+          "provide employees with tools"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征责任和支持，例如父母 'provide for' 孩子，体现了家庭价值观的隐含语义；在跨文化语境中，中国文化可能更强调集体提供，如社区互助。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式语境，如政策文件",
+        "usage": "在英国英语中，强调社会福利系统，如 'The NHS provides healthcare.'"
+      },
+      {
+        "region": "United States",
+        "variation": "更灵活，用于日常和商业语境",
+        "usage": "在美国英语中，常见于企业语境，如 'Companies provide benefits.'"
+      }
+    ],
+    "historicalContext": "与工业革命相关，强调资源分配；在文学中，如狄更斯作品中，突出社会不公问题。",
+    "modernUsage": "在社交媒体和在线平台上，常见于讨论可持续发展和个人责任，例如环保运动中 'provide clean energy'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人从一个大盒子中取出物品分发给他人。",
+      "keyElements": [
+        "盒子代表来源",
+        "物品代表所需",
+        "分发动作代表提供"
+      ],
+      "emotionalConnection": "联结到个人经历，如父母提供食物，触发安全感和感激情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'provide' as 'pro-vide' – 'pro' for professional giving, and 'vide' like video showing what's given.",
+        "explanation": "通过视觉联想和分解词根，利用双编码理论将视觉和语义结合，促进记忆保留"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-V-I-D-E: Provide Resources Or Valuable Items Daily Everywhere.",
+        "explanation": "使用首字母缩写法，基于重复和韵律原则增强认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "supply",
+      "give",
+      "offer",
+      "support"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "provided",
+      "pastParticiple": "provided",
+      "presentParticiple": "providing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + provide + object + for + indirect object",
+        "description": "主语提供直接对象给间接对象",
+        "examples": [
+          "The fund provides aid for victims."
+        ]
+      },
+      {
+        "pattern": "Provide + that clause",
+        "description": "用于条件或规定",
+        "examples": [
+          "The law provides that taxes must be paid."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'provide' without preposition when needed",
+        "correction": "Add the correct preposition, e.g., 'provide for'",
+        "explanation": "错误源于词汇搭配规则的忽略；学习者应注意语境"
+      },
+      {
+        "mistake": "Confusing with 'proved'",
+        "correction": "Use 'provided' for past tense of provide",
+        "explanation": "音似词混淆；通过发音区分 /prəˈvaɪd/ 与 /pruːvd/"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High, ranked in top 1000 words in COCA corpus",
+    "domains": [
+      "business",
+      "education",
+      "legal",
+      "social"
+    ],
+    "tags": [
+      "action verb",
+      "transactional",
+      "supportive"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

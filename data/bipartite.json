@@ -1,0 +1,267 @@
+{
+  "word": "bipartite",
+  "phonetics": {
+    "british": "/baɪˈpɑː.taɪt/",
+    "american": "/baɪˈpɑr.taɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of two parts or divided into two parts, especially in a balanced or symmetrical way.",
+      "chineseTranslation": "由两部分组成的；分成两部分的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In graph theory, describing a graph whose vertices can be divided into two disjoint sets such that no two vertices in the same set are adjacent.",
+      "chineseTranslation": "在图论中，指顶点可以分成两个不相交的集合，使得每条边都连接两个集合中的顶点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In biology or anatomy, referring to structures that are divided into two lobes or parts.",
+      "chineseTranslation": "在生物学或解剖学中，指分成两个叶或部分的结构",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bipartite graph",
+      "meaning": "两部分图",
+      "example": "In computer science, a bipartite graph is often used in matching algorithms.",
+      "exampleTranslation": "在计算机科学中，两部分图常用于匹配算法。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bipartite agreement",
+      "meaning": "两方协议",
+      "example": "The bipartite agreement between the two nations ensured mutual trade benefits.",
+      "exampleTranslation": "两国之间的两方协议确保了相互贸易的好处。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "bipartite structure",
+      "meaning": "两部分结构",
+      "example": "The bipartite structure of the leaf allows for efficient photosynthesis.",
+      "exampleTranslation": "叶子的两部分结构允许高效的光合作用。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The contract is bipartite, with clauses benefiting both parties equally.",
+      "translation": "合同是两部分的，每一方都平等受益。",
+      "source": "Legal documents (e.g., from British National Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, a bipartite matching problem can be solved using algorithms like Hopcroft-Karp.",
+      "translation": "在数学中，两部分匹配问题可以使用Hopcroft-Karp算法来解决。",
+      "source": "Academic texts (e.g., from Corpus of Contemporary American English)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The plant's bipartite leaves are adapted to dry environments.",
+      "translation": "这种植物的两部分叶子适应了干燥的环境。",
+      "source": "Scientific literature (e.g., from Oxford English Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Politically, the bipartite system divides voters into two major groups.",
+      "translation": "在政治上，两部分制度将选民分成两大群体。",
+      "source": "News articles (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "bi-",
+        "meaning": "two",
+        "language": "Latin"
+      },
+      {
+        "root": "partitus",
+        "meaning": "divided, from 'partire' meaning to divide",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from Latin 'bipartitus', meaning 'divided into two parts', which evolved through Middle English from Old French. It entered English in the 15th century, initially used in legal and anatomical contexts, and later expanded to mathematical applications in the 20th century with the development of graph theory.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "bipartisan",
+      "biparty",
+      "multipartite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'bipartite'与'bi-'（表示双重性）的词根联系起来，构建词汇网络；",
+      "通过视觉化记忆，将词汇与二分图的图像关联，以强化语义理解；",
+      "针对中文母语学习者，强调发音中的元音差异（如英式和美式的'ɑː' vs. 'ɑr'），并使用间隔重复法（spaced repetition）巩固记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dyadic",
+        "similarity": "0.8",
+        "context": "适用于数学或逻辑语境中，表示两元素的互动"
+      },
+      {
+        "word": "dual",
+        "similarity": "0.7",
+        "context": "在一般语境中，表示双重或两面的特性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unipartite",
+        "context": "在图论中，指无法分成两部分的图"
+      },
+      {
+        "word": "multipartite",
+        "context": "表示分成多部分的结构，而非两部分"
+      }
+    ],
+    "hypernyms": [
+      "divided",
+      "structured"
+    ],
+    "hyponyms": [
+      "bipartisan"
+    ],
+    "collocations": [
+      {
+        "pattern": "bipartite + noun (e.g., graph, agreement)",
+        "examples": [
+          "bipartite graph",
+          "bipartite structure"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + bipartite (e.g., fully bipartite)",
+        "examples": [
+          "fully bipartite system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征平衡与二元对立，常用于法律和政治语境中体现公平分担，如双边协议；在数学领域，则代表理性分析的工具，而非特定文化象征。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式学术语境",
+        "usage": "在英国英语中，强调历史和法律背景，如历史条约"
+      },
+      {
+        "region": "美国",
+        "variation": "在科技和政治语境中更常见",
+        "usage": "在美国英语中，常与政治双党制相关联"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，体现了西方对二元论（如理性 vs. 情感）的强调；在文学中，如莎士比亚的作品中，隐含二分结构。",
+    "modernUsage": "在社交媒体和数字时代，常见于科技讨论中，如算法和网络分析，但较少在日常口语中使用"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个被一分为二的圆圈，每个部分代表不同的元素，如一个图表分成两组点线相连。",
+      "keyElements": [
+        "二分图",
+        "平衡分割",
+        "对称结构"
+      ],
+      "emotionalConnection": "联结到个人经历，如分担任务的团队合作，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'bi' as 'bike' with two wheels, and 'partite' as 'part' divided.",
+        "explanation": "通过视觉联想强化词根记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "B-I-P: Two (Bi) parts (P) in a pie (sounds like bipartite).",
+        "explanation": "使用声音联觉和简化缩写，帮助建立长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "binary",
+      "divide",
+      "dualistic"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more bipartite",
+      "superlative": "most bipartite"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + bipartite",
+        "description": "用于描述主语的结构",
+        "examples": [
+          "The graph is bipartite."
+        ]
+      },
+      {
+        "pattern": "Bipartite + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A bipartite agreement was signed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'bipartisan'",
+        "correction": "Use 'bipartite' for structural division, 'bipartisan' for political cooperation.",
+        "explanation": "二者虽同源，但语义不同；中文学习者易混淆词根相似性"
+      },
+      {
+        "mistake": "Incorrect pronunciation of the middle syllable",
+        "correction": "Pronounce as /baɪˈpɑː.taɪt/ in British English.",
+        "explanation": "元音发音易受母语影响，导致非标准发音"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "science",
+      "legal",
+      "politics"
+    ],
+    "tags": [
+      "technical",
+      "adjective",
+      "structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "word": "pharming",
+  "phonetics": {
+    "british": "/ˈfɑːmɪŋ/",
+    "american": "/ˈfɑrmɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The fraudulent practice of redirecting Internet users from a legitimate website to a fake one that resembles it, often through manipulation of DNS servers, in order to steal personal information such as passwords or credit card details.",
+      "chineseTranslation": "网络诱骗的一种形式，通过重定向网站流量来窃取个人信息",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To engage in the act of redirecting website traffic for fraudulent purposes.",
+      "chineseTranslation": "进行网络诱骗行为",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun (alternative meaning)",
+      "definition": "The production of pharmaceuticals through genetically modified animals or plants.",
+      "chineseTranslation": "通过转基因动物或植物生产药物",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "DNS pharming",
+      "meaning": "通过DNS服务器重定向网站流量的网络诱骗",
+      "example": "Cybercriminals often use DNS pharming to intercept sensitive data.",
+      "exampleTranslation": "网络犯罪分子经常使用DNS诱骗来拦截敏感数据。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pharming attack",
+      "meaning": "诱骗攻击的具体实例",
+      "example": "A pharming attack can compromise an entire network if not detected early.",
+      "exampleTranslation": "如果不早发现，诱骗攻击可以破坏整个网络。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Pharming is a sophisticated form of cybercrime that exploits vulnerabilities in domain name systems.",
+      "translation": "诱骗是一种复杂形式的网络犯罪，利用域名系统的漏洞。",
+      "source": "Cybersecurity reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company fell victim to pharming when users were redirected to a counterfeit login page.",
+      "translation": "公司成为诱骗的受害者，用户被重定向到一个假冒的登录页面。",
+      "source": "News articles (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the biotech industry, pharming involves engineering goats to produce human proteins in their milk.",
+      "translation": "在生物技术行业，诱骗涉及通过工程改造山羊来在它们的奶中生产人类蛋白质。",
+      "source": "Scientific literature (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (portmanteau)",
+    "rootWords": [
+      {
+        "root": "farm",
+        "meaning": "To cultivate or produce, as in farming",
+        "language": "English"
+      },
+      {
+        "root": "phish",
+        "meaning": "To deceive online for personal gain, from phishing",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于2000年代早期网络安全领域的行话，是'farming'（耕作或生产）和'phishing'（网络钓鱼）的合成词。从最初的网络安全上下文中演变而来，现在常用于描述DNS操纵技术。起初，它借鉴了农业'farming'的比喻，表示大规模生产欺诈行为。",
+    "firstKnownUse": "Early 2000s, as documented in cybersecurity literature",
+    "relatedWords": [
+      "phishing",
+      "spoofing",
+      "hacking"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学原理，如Elaborative Rehearsal，将词汇与个人网络安全经历关联；通过视觉图示DNS流程来增强记忆；建议初级学习者先掌握基本网络术语，再逐步引入此词以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "domain spoofing",
+        "similarity": "0.8",
+        "context": "适用于网络安全语境中重定向流量的场景"
+      },
+      {
+        "word": "web hijacking",
+        "similarity": "0.7",
+        "context": "在描述网站流量操纵时使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "secure browsing",
+        "context": "适用于强调安全和保护的语境"
+      }
+    ],
+    "hypernyms": [
+      "cybercrime"
+    ],
+    "hyponyms": [
+      "DNS poisoning"
+    ],
+    "collocations": [
+      {
+        "pattern": "pharming + attack/technique",
+        "examples": [
+          "a pharming attack",
+          "advanced pharming techniques"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "prevent + pharming",
+        "examples": [
+          "ways to prevent pharming"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数字时代反映了网络安全问题的普遍性，象征着现代社会中隐私和信任的脆弱性，尤其在全球化背景下。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术讨论中",
+        "usage": "在美国英语中，常与网络犯罪报告相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，常出现在官方安全指南中"
+      }
+    ],
+    "historicalContext": "与互联网兴起和网络犯罪浪潮相关，特别是在2000年代初的网络安全事件中，如大型数据泄露，与文学和社会评论中对技术伦理的探讨相呼应。",
+    "modernUsage": "在社交媒体和在线论坛中流行，用于警示网络威胁"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个农场（farm）被鱼钩（从phishing）钩走，代表网站被重定向。",
+      "keyElements": [
+        "农场景象",
+        "鱼钩符号",
+        "重定向箭头"
+      ],
+      "emotionalConnection": "联结个人对网络诈骗的恐惧或经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pharming = Farming + Phishing（耕作钓鱼）",
+        "explanation": "通过将词分解为'farming'和'phishing'的组合，创建视觉联想以辅助记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "P为Phishing, H为Hijack（劫持）",
+        "explanation": "使用首字母缩写来构建简单记忆框架"
+      }
+    ],
+    "wordAssociations": [
+      "hacking",
+      "fraud",
+      "security"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + pharming",
+        "description": "作为名词使用在句子主语或宾语位置",
+        "examples": [
+          "Pharming poses a significant risk."
+        ]
+      },
+      {
+        "pattern": "Pharming + of + object",
+        "description": "表示具体类型的诱骗",
+        "examples": [
+          "Pharming of user data is illegal."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing pharming with phishing",
+        "correction": "Use pharming for DNS redirection specifically",
+        "explanation": "Pharming涉及重定向，而phishing更侧重于欺骗邮件"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ˈfɑːrmɪŋ/ without distinction",
+        "correction": "Ensure consistent IPA usage",
+        "explanation": "学习者常混淆与'farming'的发音，导致语境错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "安全",
+      "商业"
+    ],
+    "tags": [
+      "网络安全",
+      "欺诈",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

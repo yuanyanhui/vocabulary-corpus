@@ -1,0 +1,239 @@
+{
+  "word": "location",
+  "phonetics": {
+    "british": "/ləˈkeɪʃn/",
+    "american": "/loʊˈkeɪʃn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A particular place or position.",
+      "chineseTranslation": "地点；位置",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of finding or determining a place.",
+      "chineseTranslation": "定位；查找位置",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prime location",
+      "meaning": "黄金地段",
+      "example": "The new store is in a prime location near the city center.",
+      "exampleTranslation": "新店位于靠近市中心的黄金地段。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "location scouting",
+      "meaning": "选址；勘景",
+      "example": "The film crew spent weeks on location scouting for the perfect setting.",
+      "exampleTranslation": "电影摄制组花了数周时间勘景，寻找完美的拍摄地点。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The location of the meeting has been changed to the main conference room.",
+      "translation": "会议地点已更改为主会议室。",
+      "source": "business context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This app can track your location in real-time.",
+      "translation": "这个应用程序可以实时追踪你的位置。",
+      "source": "technology context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "They chose a remote location for their vacation to escape the city noise.",
+      "translation": "他们选择了一个偏远的地点度假，以逃离城市的喧嚣。",
+      "source": "everyday context",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "locare",
+        "meaning": "to place",
+        "language": "Latin"
+      },
+      {
+        "root": "locus",
+        "meaning": "place",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'locus'（地方）及其动词形式 'locare'（放置），在中世纪拉丁语中演变为 'locatio'，意为放置或租赁的行为。进入英语后，'location' 最初用于表示地理位置或场所，逐渐扩展到现代技术领域的定位概念。",
+    "firstKnownUse": "1597",
+    "relatedWords": [
+      "local",
+      "locate",
+      "locale",
+      "locality"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "将 'location' 与日常生活场景（如导航、旅行）联系起来，增强语境记忆。",
+      "通过与 'local' 等相关词汇构建语义网络，加深理解。",
+      "练习发音时注意重音在第二音节 /ˈkeɪ/，避免与中国音系混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "place",
+        "similarity": "0.9",
+        "context": "泛指地点或位置"
+      },
+      {
+        "word": "site",
+        "similarity": "0.8",
+        "context": "特指具体场所或工地"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dislocation",
+        "context": "表示错位或不在正确位置"
+      }
+    ],
+    "hypernyms": [
+      "position",
+      "area"
+    ],
+    "hyponyms": [
+      "venue",
+      "spot",
+      "address"
+    ],
+    "collocations": [
+      {
+        "pattern": "location of + 名词",
+        "examples": [
+          "location of the event"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in a + 形容词 + location",
+        "examples": [
+          "in a convenient location"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'location' 常与个人隐私（例如手机定位）、房地产（黄金地段）以及电影制作（外景拍摄）等概念相关联，反映了现代社会对空间和地理位置的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或技术语境，如 'filming location'（拍摄地点）。",
+        "usage": "在日常对话中，英国人可能更倾向于用 'place' 替代 'location'。"
+      },
+      {
+        "region": "美国",
+        "variation": "广泛用于日常和非正式语境，如 'location tracking'（位置追踪）。",
+        "usage": "美国英语中 'location' 常出现在科技和商业语境中。"
+      }
+    ],
+    "historicalContext": "在西方历史中，'location' 一词与殖民扩张、土地划分和地图绘制密切相关，体现了地理空间在政治和经济中的重要性。",
+    "modernUsage": "在社交媒体和科技语境中，'location' 常与 'check-in'（签到）或 'geotagging'（地理标记）等概念关联，反映了数字时代的空间意识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象你在用手机导航寻找一个地点，屏幕上显示 'location found'，周围是城市的街道和路标。",
+      "keyElements": [
+        "手机",
+        "导航",
+        "街道"
+      ],
+      "emotionalConnection": "回忆一次旅行中迷路后找到目的地的安心感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "将 'location' 的发音 /loʊˈkeɪʃn/ 与中文 '路凯神' 联系，想象一个叫凯的神帮你找到路。",
+        "explanation": "通过谐音和拟人化形象加深发音和词义的记忆。"
+      },
+      {
+        "type": "词根联想",
+        "content": "记住 'loc-' 是 'place'（地方）的意思，和 'local'（当地的）相关。",
+        "explanation": "通过词根构建语义关联，扩展词汇量。"
+      }
+    ],
+    "wordAssociations": [
+      "place",
+      "map",
+      "address"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "locations",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "location of something",
+        "description": "表示某物的位置或地点",
+        "examples": [
+          "The location of the treasure is unknown."
+        ]
+      },
+      {
+        "pattern": "in/at a location",
+        "description": "表示在某个地点",
+        "examples": [
+          "We met at a secret location."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "用 'location' 替代 'place' 在非正式语境中显得生硬",
+        "correction": "用 'place' 替代，如 'Let’s meet at that place.'",
+        "explanation": "'location' 在非正式对话中可能显得过于正式或技术化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "约 5000 名（COCA 语料库）",
+    "domains": [
+      "日常交流",
+      "技术",
+      "房地产",
+      "影视制作"
+    ],
+    "tags": [
+      "空间",
+      "位置",
+      "地理"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

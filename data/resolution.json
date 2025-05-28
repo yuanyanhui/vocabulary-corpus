@@ -1,0 +1,284 @@
+{
+  "word": "resolution",
+  "phonetics": {
+    "british": "/ˌrɛzəˈluːʃən/",
+    "american": "/ˌrɛzəˈluːʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A formal decision or expression of opinion made by a group, especially in a meeting or assembly.",
+      "chineseTranslation": "正式决定或意见表达",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality of being determined or resolute; firmness of purpose.",
+      "chineseTranslation": "坚定的决心或意志",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability of a device, such as a camera or screen, to distinguish fine detail.",
+      "chineseTranslation": "分辨率（如屏幕或图像的清晰度）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To find an answer to or settle a problem or dispute.",
+      "chineseTranslation": "解决或解析问题",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "New Year's resolution",
+      "meaning": "新年决心",
+      "example": "I made a New Year's resolution to exercise more this year.",
+      "exampleTranslation": "我立下了新年决心，今年要多锻炼。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "high resolution",
+      "meaning": "高分辨率",
+      "example": "This camera offers high resolution images for professional photography.",
+      "exampleTranslation": "这款相机提供高分辨率图像，适合专业摄影。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "conflict resolution",
+      "meaning": "冲突解决",
+      "example": "Effective conflict resolution is essential in team management.",
+      "exampleTranslation": "有效的冲突解决在团队管理中至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company passed a resolution to increase employee salaries.",
+      "translation": "公司通过了一项决议，提高员工薪资。",
+      "source": "Business news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "With strong resolution, she overcame her fears and started her own business.",
+      "translation": "凭借坚定的决心，她克服了恐惧，创办了自己的企业。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The new smartphone features 4K resolution for sharper displays.",
+      "translation": "这款新智能手机具有4K分辨率，提供更清晰的显示。",
+      "source": "Technology review (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "They worked together to resolution the ongoing dispute between the two departments.",
+      "translation": "他们共同努力解决了两个部门之间的持续争端。",
+      "source": "Formal reports (e.g., from BNC corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "resolvere",
+        "meaning": "to loosen or release",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "back or again",
+        "language": "Latin"
+      },
+      {
+        "root": "solvere",
+        "meaning": "to loosen",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'resolvere'（意为松开或解决）演变而来，中世纪拉丁语 'resolutio' 指决定或解析，16世纪进入英语，逐渐扩展到现代含义，包括决心和技术术语。",
+    "firstKnownUse": "1530s",
+    "relatedWords": [
+      "resolve",
+      "solution",
+      "dissolution"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'resolution' 与 'resolve' 联系起来；通过重复暴露（spaced repetition）在不同语境中记忆其多义性，以增强长时记忆；建议初学者创建个人联想，如将 'resolution' 与新年目标视觉化，以触发情感连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decision",
+        "similarity": "0.8",
+        "context": "在正式会议或商业语境中适用"
+      },
+      {
+        "word": "determination",
+        "similarity": "0.7",
+        "context": "强调个人意志或坚定的语境"
+      },
+      {
+        "word": "settlement",
+        "similarity": "0.6",
+        "context": "用于冲突解决的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indecision",
+        "context": "在需要坚定决心的语境中"
+      },
+      {
+        "word": "hesitation",
+        "context": "与快速解决或决心相反的语境"
+      }
+    ],
+    "hypernyms": [
+      "decision",
+      "quality"
+    ],
+    "hyponyms": [
+      "New Year's resolution",
+      "screen resolution"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + resolution",
+        "examples": [
+          "high resolution",
+          "firm resolution"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "resolution + of + noun",
+        "examples": [
+          "resolution of conflict"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与新年决心相关，象征个人成长和变革；在专业领域，如技术或外交中，代表精确性和问题解决的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如 'screen resolution'",
+        "usage": "在美国英语中，强调实际应用，如消费电子产品"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向正式或历史语境，如议会决议",
+        "usage": "在英国英语中，常见于政治或正式文件"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，反映了西方社会对理性解决和科学精确性的强调，例如在文学作品如莎士比亚中出现。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线讨论，如新年挑战或技术规格，体现了全球化的传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个放大镜聚焦于一个问题，最终清晰显示解决方案的场景。",
+      "keyElements": [
+        "放大镜",
+        "清晰图像",
+        "解决过程"
+      ],
+      "emotionalConnection": "联结个人新年目标的成就感，以触发正面情绪和动机"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Resolution sounds like 're-solution', meaning to re-solve a problem.",
+        "explanation": "通过声音联想将词汇与解决问题联系起来，增强认知编码"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-S-O-L-V-E: Resolution equals solving life's puzzles.",
+        "explanation": "使用首字母缩略结合故事化记忆，提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "resolve",
+      "solution",
+      "decision",
+      "determination"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "resolutions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + resolution",
+        "description": "主语+动词+resolution 结构，常用于描述决定过程",
+        "examples": [
+          "The committee adopted the resolution."
+        ]
+      },
+      {
+        "pattern": "Resolution + of + noun",
+        "description": "resolution of + 名词，表达解决或解析关系",
+        "examples": [
+          "The resolution of the issue took months."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'revolution'",
+        "correction": "Use 'resolution' for decisions or clarity, not 'revolution' which means uprising.",
+        "explanation": "二者发音相似，但语义不同；通过语境区分避免混淆"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as noun primarily; for verb, ensure proper context.",
+        "explanation": "作为动词时较少用，避免将其误用为名词形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "technology",
+      "personal development"
+    ],
+    "tags": [
+      "formal decision",
+      "determination",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

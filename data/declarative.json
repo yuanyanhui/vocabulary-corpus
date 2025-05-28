@@ -1,0 +1,243 @@
+{
+  "word": "declarative",
+  "phonetics": {
+    "british": "/dɪˈklærətɪv/",
+    "american": "/dɪˈklɛrətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or involving the making of a statement or declaration, especially in grammar, logic, or programming.",
+      "chineseTranslation": "声明的；陈述的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statement or sentence that makes a declaration, as opposed to a question or command.",
+      "chineseTranslation": "陈述句",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "declarative sentence",
+      "meaning": "陈述句",
+      "example": "In English grammar, a declarative sentence ends with a period and states a fact.",
+      "exampleTranslation": "在英语语法中，陈述句以句号结束并陈述一个事实。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "declarative programming",
+      "meaning": "声明式编程",
+      "example": "Declarative programming focuses on what the program should accomplish, not how.",
+      "exampleTranslation": "声明式编程关注程序应该完成什么，而不是如何完成。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist made a declarative statement about the new discovery during the conference.",
+      "translation": "科学家在会议上就新发现作出了一个声明性陈述。",
+      "source": "Academic lecture (e.g., from scientific journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In declarative programming, developers specify the desired result rather than the step-by-step process.",
+      "translation": "在声明式编程中，开发人员指定期望的结果而不是逐步过程。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her declarative tone left no room for argument in the debate.",
+      "translation": "她的声明性语气在辩论中不容争辩。",
+      "source": "Literary fiction (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "declarare",
+        "meaning": "to make clear or proclaim",
+        "language": "Latin"
+      },
+      {
+        "root": "declarativus",
+        "meaning": "pertaining to declaration",
+        "language": "Late Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'declarare'，意为 '使清楚或宣告'，该词通过古法语演变为中古英语，在15世纪开始用于英语，最初指正式声明或陈述，现代扩展到语法和计算机科学领域。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "declare",
+      "declaration",
+      "declaratory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'declarative' 与具体语境（如语法规则）关联，以增强记忆保留；建议通过重复暴露于真实语料中来建立语义网络，避免孤立学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assertive",
+        "similarity": "0.7",
+        "context": "适用于正式声明或自信表达的语境"
+      },
+      {
+        "word": "descriptive",
+        "similarity": "0.6",
+        "context": "适用于描述性陈述的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "interrogative",
+        "context": "适用于提问的语境"
+      },
+      {
+        "word": "imperative",
+        "context": "适用于命令的语境"
+      }
+    ],
+    "hypernyms": [
+      "statement-related"
+    ],
+    "hyponyms": [
+      "declarative sentence",
+      "declarative programming"
+    ],
+    "collocations": [
+      {
+        "pattern": "declarative + noun (e.g., sentence, style)",
+        "examples": [
+          "declarative sentence",
+          "declarative style"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + declarative (e.g., purely declarative)",
+        "examples": [
+          "purely declarative programming"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要体现于语言学和计算机科学领域，象征清晰表达和逻辑结构，在西方教育体系中强调理性沟通。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'declarative' 在软件开发中频繁出现，反映科技驱动的文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于语法和正式声明",
+        "usage": "在英国英语中，常与法律或学术语境相关联"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，强调理性声明，在19世纪文学中用于描述人物的直接表达，如狄更斯作品。",
+    "modernUsage": "在社交媒体和数字时代，'declarative' 常用于编程讨论或在线教育平台，体现技术全球化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个演讲者站在讲台上清晰地陈述事实，周围有听众点头认可。",
+      "keyElements": [
+        "演讲者",
+        "讲台",
+        "点头听众"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆课堂演讲的自信感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'declarative' as 'declare + active' – something that actively declares facts.",
+        "explanation": "通过词根联想，将 'declare' 与 'active' 结合，创建视觉图像以辅助记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "The word sounds like 'deck-lair-a-tive', imagining a deck of cards declaring a winner.",
+        "explanation": "利用发音与日常物体联想，基于认知科学的多模态记忆原理。"
+      }
+    ],
+    "wordAssociations": [
+      "declare",
+      "statement",
+      "fact"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more declarative",
+      "superlative": "most declarative"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + declarative",
+        "description": "用于描述主语的陈述性质",
+        "examples": [
+          "The sentence is declarative."
+        ]
+      },
+      {
+        "pattern": "Declarative + noun",
+        "description": "修饰名词的形容词用法",
+        "examples": [
+          "A declarative approach to problem-solving."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'declaratory'",
+        "correction": "Use 'declarative' for general statements and 'declaratory' for formal declarations.",
+        "explanation": "二者虽相关，但 'declarative' 更宽泛，常用于语法，而 'declaratory' 侧重法律语境。"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more declarative' instead of '*declarativer'.",
+        "explanation": "作为三音节形容词，不使用 -er 形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "Linguistics",
+      "Computer Science",
+      "Education"
+    ],
+    "tags": [
+      "Grammar",
+      "Programming",
+      "Formal Language"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

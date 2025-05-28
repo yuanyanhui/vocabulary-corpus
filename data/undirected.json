@@ -1,0 +1,237 @@
+{
+  "word": "undirected",
+  "phonetics": {
+    "british": "/ˌʌndɪˈrɛktɪd/",
+    "american": "/ˌʌndəˈrɛktɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not having a specified direction; lacking orientation or guidance, often used in contexts like graph theory or relationships.",
+      "chineseTranslation": "没有指定方向的；无导向的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "undirected graph",
+      "meaning": "无方向图",
+      "example": "In graph theory, an undirected graph represents relationships without specified directions between nodes.",
+      "exampleTranslation": "在图论中，无方向图表示节点之间没有指定方向的关系。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "undirected edge",
+      "meaning": "无方向边",
+      "example": "An undirected edge in a network connects two points without implying a one-way flow.",
+      "exampleTranslation": "在网络中，无方向边连接两个点而不暗示单向流动。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The social network can be modeled as an undirected graph, where friendships are mutual.",
+      "translation": "这个社交网络可以建模为无方向图，其中友谊是相互的。",
+      "source": "Academic text from computer science literature (e.g., based on sources like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In this undirected relationship, both parties have equal influence.",
+      "translation": "在这种无方向关系中，双方具有平等的影响力。",
+      "source": "Business or social science context (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The undirected path in the maze allows exploration in any direction.",
+      "translation": "迷宫中的无方向路径允许向任何方向探索。",
+      "source": "Informal narrative or educational material",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not or without",
+        "language": "Old English"
+      },
+      {
+        "root": "direct",
+        "meaning": "straight or guided",
+        "language": "Latin (from 'directus', meaning straightened)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'directus'，意为直的或引导的，结合古英语前缀 'un-' 表示否定，形成现代英语 'undirected'，最初在19世纪用于描述物理或数学概念，如无方向的运动或关系，随着图论的发展，在20世纪成为技术术语。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "directed",
+      "unidirectional",
+      "bidirectional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块法，将 'undirected' 与图论概念关联，构建视觉记忆图；建议初级学习者通过重复曝光于技术语境中增强语义记忆，避免混淆类似词汇；结合双编码理论，使用图像（如无箭头的线条）辅助词汇编码。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "non-directional",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如图论或工程领域，表示缺乏方向性。"
+      },
+      {
+        "word": "unoriented",
+        "similarity": "0.7",
+        "context": "在数学或导航语境中，表示未指定方向。"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "directed",
+        "context": "在图论中，'directed' 表示有指定方向的边或关系，与 'undirected' 相对。"
+      },
+      {
+        "word": "oriented",
+        "context": "在一般语境中，表示有导向或方向的结构。"
+      }
+    ],
+    "hypernyms": [
+      "unstructured",
+      "non-specific"
+    ],
+    "hyponyms": [
+      "acyclic",
+      "symmetric"
+    ],
+    "collocations": [
+      {
+        "pattern": "undirected + noun (e.g., graph, edge)",
+        "examples": [
+          "undirected graph",
+          "undirected network"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + undirected (e.g., simple undirected)",
+        "examples": [
+          "simple undirected graph"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征中立性和平等，如在图论中代表无偏向的关系，但在东方文化语境中，可能隐含强调和谐或平衡的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学和AI领域",
+        "usage": "在美国英语中，常在技术教育和行业报告中出现，强调实用性。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于数学理论语境",
+        "usage": "在英国英语中，常见于学术出版物，保持正式语域。"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，19世纪在欧洲数学界兴起，用于描述无方向的几何或物理现象；例如，在Darwin的进化论影响下，扩展到社会关系分析。",
+    "modernUsage": "在社交媒体和数字时代，'undirected' 常用于描述非算法驱动的网络互动，体现全球化语境下的中立连接趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个没有箭头的交叉道路网络，代表自由流动的连接。",
+      "keyElements": [
+        "无箭头道路",
+        "交叉点",
+        "自由流动"
+      ],
+      "emotionalConnection": "联结到个人经历，如无方向的友谊，触发积极情感以增强记忆保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'un' as 'unplugged' and 'directed' as 'arrowed path', so 'undirected' is an unplugged arrow – no guidance.",
+        "explanation": "通过视觉联想结合认知科学中的双编码原理，将词汇与图像配对，提高记忆效率。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ʌndɪˈrɛktɪd/ 听起来像 'under rejected', 想象被拒绝的方向感。",
+        "explanation": "利用声音联想触发个人经验，基于Elaborative Rehearsal理论增强长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "graph",
+      "network",
+      "freeform"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more undirected",
+      "superlative": "most undirected"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + undirected + noun",
+        "description": "用于描述名词的属性，例如 'The graph is undirected.'",
+        "examples": [
+          "The relationship is undirected."
+        ]
+      },
+      {
+        "pattern": "Undirected + as + modifier",
+        "description": "作为修饰语用于句子中",
+        "examples": [
+          "Consider this as an undirected approach."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'undirected' as a verb",
+        "correction": "Use as adjective only",
+        "explanation": "该词仅为形容词，非动词；学习者常误用为动作形式，建议通过句法练习避免。"
+      },
+      {
+        "mistake": "Overgeneralizing to non-technical contexts",
+        "correction": "Limit to technical usage",
+        "explanation": "中级学习者可能错误扩展到日常语境；强调语域区分以提高准确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "科技",
+      "数学",
+      "计算机",
+      "社会科学"
+    ],
+    "tags": [
+      "技术术语",
+      "形容词",
+      "图论"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "word": "unsecured",
+  "phonetics": {
+    "british": "/ʌn.sɪˈkjʊəd/",
+    "american": "/ˌʌn.sɪˈkjɝd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not fixed or fastened in position, lacking stability or protection.",
+      "chineseTranslation": "未固定的；不稳定的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not protected by collateral, guarantee, or security measures, especially in financial contexts.",
+      "chineseTranslation": "无担保的；不安全的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not encrypted or safeguarded against unauthorized access, as in digital networks.",
+      "chineseTranslation": "未加密的；未保护的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unsecured loan",
+      "meaning": "无担保贷款",
+      "example": "She applied for an unsecured loan to start her business.",
+      "exampleTranslation": "她申请了一笔无担保贷款来创办自己的生意。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "unsecured debt",
+      "meaning": "无担保债务",
+      "example": "Unsecured debt can be riskier for lenders than secured debt.",
+      "exampleTranslation": "无担保债务对贷款人来说比有担保债务更具风险。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "unsecured network",
+      "meaning": "未加密网络",
+      "example": "Using an unsecured network in public places can expose your data to hackers.",
+      "exampleTranslation": "在公共场所使用未加密网络可能会让你的数据暴露给黑客。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The door was left unsecured, allowing intruders to enter easily.",
+      "translation": "门被留成未锁定的状态，让入侵者轻易进入。",
+      "source": "Modern fiction (e.g., contemporary thrillers)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Banks often charge higher interest rates for unsecured loans due to the increased risk.",
+      "translation": "银行通常对无担保贷款收取更高的利率，因为风险更大。",
+      "source": "Financial news articles (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cybersecurity, an unsecured Wi-Fi connection is a common vulnerability.",
+      "translation": "在网络安全中，未加密的Wi-Fi连接是一个常见漏洞。",
+      "source": "Technical reports (e.g., from CISA reports)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "Not or opposite of",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "secured",
+        "meaning": "Made safe or protected",
+        "language": "Latin (from securus, meaning free from care)"
+      }
+    ],
+    "historicalDevelopment": "The word 'unsecured' evolved in Middle English from the prefix 'un-' combined with 'secured', derived from Latin 'securus' (safe). It gained prominence in the 19th century with the rise of financial systems, shifting from physical security to abstract concepts like loans.",
+    "firstKnownUse": "Early 17th century",
+    "relatedWords": [
+      "secure",
+      "insecure",
+      "unprotected"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (Moderate; the prefix 'un-' is straightforward, but the vowel sounds in 'secured' may vary between British and American accents, posing challenges for Chinese learners accustomed to tonal languages.)",
+    "spellingDifficulty": "4 (Low-moderate; the word follows common English patterns with prefixes, but double 'c' might be misspelled.)",
+    "meaningComplexity": "6 (Moderate; multiple contexts like finance and security require contextual understanding, which can be abstract for intermediate learners.)",
+    "usageComplexity": "7 (Moderate-high; depends on collocations and registers, necessitating exposure to varied scenarios.)",
+    "learningTips": [
+      "使用分块记忆法，将 'un-' 与 'secured' 分离，然后通过认知关联将它与中文 '无担保' 联系；结合视觉图像，如想象一把未锁的锁；定期复习以强化语境记忆，根据Spaced Repetition System (SRS) 原则。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unprotected",
+        "similarity": "0.8",
+        "context": "适用于物理或数字安全语境，例如 'unprotected data' 意为 '未保护的数据'"
+      },
+      {
+        "word": "vulnerable",
+        "similarity": "0.7",
+        "context": "常用于风险评估语境，例如 'vulnerable to attacks' 意为 '容易受到攻击'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "secured",
+        "context": "适用于金融语境，例如 'secured loan' 意为 '有担保贷款'"
+      },
+      {
+        "word": "protected",
+        "context": "适用于安全语境，例如 'protected network' 意为 '受保护的网络'"
+      }
+    ],
+    "hypernyms": [
+      "unsafe",
+      "risky"
+    ],
+    "hyponyms": [
+      "unencrypted",
+      "uncollateralized"
+    ],
+    "collocations": [
+      {
+        "pattern": "Adjective + Noun (e.g., unsecured + loan/debt)",
+        "examples": [
+          "unsecured loan",
+          "unsecured network"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Be + unsecured (e.g., in passive constructions)",
+        "examples": [
+          "The system is unsecured."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与金融风险和个人责任相关联，象征着自由市场经济中的不确定性；在中文文化中，可与 '风险' 或 '不稳定' 概念呼应，但强调集体安全。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in financial contexts due to consumer credit systems.",
+        "usage": "在日常对话中，如讨论信用卡债务时，强调个人财务管理"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but with a more formal tone in legal documents.",
+        "usage": "常出现在银行法规中，突出历史上的债务文化"
+      }
+    ],
+    "historicalContext": "起源于工业革命时期的英国，反映了财产和债务观念的演变；在现代，特别是在20世纪后半叶的数字化时代，与网络安全相关联。",
+    "modernUsage": "在社交媒体和在线论坛中，常用于讨论隐私和经济不平等，如Twitter上的网络安全话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个未锁的门，门外是风暴，代表不安全状态。",
+      "keyElements": [
+        "未锁的门",
+        "风暴",
+        "风险符号"
+      ],
+      "emotionalConnection": "联结到个人经历，如忘记锁门后的焦虑，触发负面情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'unsecured' as 'UN-safe and SECure-less'",
+        "explanation": "通过视觉联想将 'un-' 视为 'not safe'，并与 'secured' 的发音关联，利用双编码理论结合视觉和听觉"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-S: Unlocked, Not Safe",
+        "explanation": "创建缩写以简化记忆，基于认知负荷理论减少复杂性"
+      }
+    ],
+    "wordAssociations": [
+      "unsafe",
+      "exposed",
+      "risky"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more unsecured",
+      "superlative": "most unsecured"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective modifying noun",
+        "description": "形容词直接修饰名词，强调不安全状态",
+        "examples": [
+          "an unsecured loan"
+        ]
+      },
+      {
+        "pattern": "Predicative use in sentences",
+        "description": "用在系动词后描述主语",
+        "examples": [
+          "The network is unsecured."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'insecure'",
+        "correction": "Use 'unsecured' for physical or financial contexts, 'insecure' for emotional states.",
+        "explanation": "两者虽相关，但语境不同；中文学习者常混淆词汇细微差别"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with appropriate nouns like 'loan' instead of verbs.",
+        "explanation": "作为形容词，主要用于名词修饰，避免错误用作动词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in corpora like COCA (Corpus of Contemporary American English)",
+    "domains": [
+      "Finance",
+      "Technology",
+      "Security",
+      "Business"
+    ],
+    "tags": [
+      "Adjective",
+      "Finance terminology",
+      "Risk management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

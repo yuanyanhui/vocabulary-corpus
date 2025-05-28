@@ -1,0 +1,245 @@
+{
+  "word": "diagnostics",
+  "phonetics": {
+    "british": "/ˌdaɪəɡˈnɒstɪks/",
+    "american": "/ˌdaɪəɡˈnɑːstɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "The branch of medicine concerned with the identification of diseases through examination and analysis.",
+      "chineseTranslation": "诊断学",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "Methods or tools used for identifying faults or problems in systems, such as in computing or engineering.",
+      "chineseTranslation": "诊断方法或工具",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diagnostic tests",
+      "meaning": "诊断测试",
+      "example": "The doctor ordered several diagnostic tests to confirm the diagnosis.",
+      "exampleTranslation": "医生下令进行几次诊断测试以确认诊断。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "run diagnostics",
+      "meaning": "运行诊断程序",
+      "example": "The technician will run diagnostics on the computer to identify the issue.",
+      "exampleTranslation": "技术员将对计算机运行诊断程序以找出问题。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern healthcare, diagnostics play a crucial role in early disease detection.",
+      "translation": "在现代医疗保健中，诊断学在早期疾病检测中发挥着关键作用。",
+      "source": "Medical literature, such as from the World Health Organization (WHO)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers use advanced diagnostics to troubleshoot software errors quickly.",
+      "translation": "工程师使用先进的诊断工具快速排查软件错误。",
+      "source": "Technical manuals, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The car's onboard diagnostics system alerted the driver to a potential engine problem.",
+      "translation": "汽车的板载诊断系统提醒驾驶员潜在的发动机问题。",
+      "source": "News articles, e.g., from automotive reports",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "diagnosis",
+        "meaning": "a distinguishing or discernment",
+        "language": "Greek"
+      },
+      {
+        "root": "diagignōskein",
+        "meaning": "to distinguish between",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'diagnosis'，意为区分或识别，演变为拉丁语后在中世纪医学中用于疾病识别，最终在18世纪的英语中发展为现代意义，强调系统性诊断方法。",
+    "firstKnownUse": "约17世纪",
+    "relatedWords": [
+      "diagnosis",
+      "diagnostic",
+      "diagnose"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将词汇与实际情境关联，如将 'diagnostics' 与医疗场景可视化，以增强长时记忆；建议通过重复曝光和间隔重复技术避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "testing",
+        "similarity": "0.7",
+        "context": "在技术语境中，用于系统故障识别，例如计算机维护"
+      },
+      {
+        "word": "analysis",
+        "similarity": "0.8",
+        "context": "在科学语境中，用于数据或症状的评估"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "treatment",
+        "context": "在医疗语境中，对应治疗而非诊断过程"
+      },
+      {
+        "word": "prevention",
+        "context": "在公共卫生语境中，对应预防措施而非诊断"
+      }
+    ],
+    "hypernyms": [
+      "examination",
+      "assessment"
+    ],
+    "hyponyms": [
+      "blood diagnostics",
+      "imaging diagnostics"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + diagnostics",
+        "examples": [
+          "medical diagnostics",
+          "system diagnostics"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + diagnostics",
+        "examples": [
+          "perform diagnostics",
+          "use diagnostics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征着科学与理性的医疗实践，尤其在英语国家反映出对证据-based 医学的重视；在非西方文化中，可能隐含对传统诊断方法的对比。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如汽车和IT",
+        "usage": "在美国英语中，'diagnostics' 常与创新技术结合，例如AI驱动的诊断工具"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向正式医学语境",
+        "usage": "在英国英语中，常在学术和医疗文献中使用，强调历史悠久的诊断传统"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代医学革命相关，如18世纪的欧洲医生使用诊断来推动科学医学；在文学中，如狄更斯的作品中出现，代表社会对健康的关注。",
+    "modernUsage": "在社交媒体和数字平台上，'diagnostics' 常用于健康App和在线工具，反映出当代对自我诊断的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中医生使用仪器检查患者，这有助于将词汇与实际情境联系。",
+      "keyElements": [
+        "医生",
+        "仪器",
+        "检查"
+      ],
+      "emotionalConnection": "联结个人医疗经历，如体检，触发积极的健康意识以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'diagnostics' 联想为 'dia' (通过) + 'gnostics' (知识)，如通过知识来诊断。",
+        "explanation": "使用视觉联想法，构建图像以加深理解和记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌdaɪəɡˈnɒstɪks/' 听起来像 'die againostics'，联想为反复诊断以解决问题。",
+        "explanation": "通过声音和幽默联想增强认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "diagnosis",
+      "test",
+      "scan"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null (已是复数形式)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + diagnostics",
+        "description": "主语 + 动词 + diagnostics 结构，常用于描述过程",
+        "examples": [
+          "We use diagnostics in research."
+        ]
+      },
+      {
+        "pattern": "Diagnostics + of + noun",
+        "description": "diagnostics 后接 'of' + 名词，表示所属",
+        "examples": [
+          "Diagnostics of the system revealed errors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'diagnosis'",
+        "correction": "Use 'diagnostics' for the field or methods, not the single act",
+        "explanation": "学习者常混淆单复数形式；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Do not add -es unnecessarily",
+        "explanation": "'Diagnostics' 已是复数，避免额外添加复数标记"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约5000（基于2023数据）",
+    "domains": [
+      "medicine",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "medical",
+      "technical",
+      "scientific"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "word": "crawler",
+  "phonetics": {
+    "british": "/ˈkrɔːlə(r)/",
+    "american": "/ˈkrɑːlər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A program or automated script that systematically browses the World Wide Web to index web pages for search engines.",
+      "chineseTranslation": "爬虫程序",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or creature that moves on hands and knees or very slowly.",
+      "chineseTranslation": "爬行者",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of vehicle or machine designed for slow, steady movement over rough terrain.",
+      "chineseTranslation": "履带车或缓慢移动的机械",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "web crawler",
+      "meaning": "网络爬虫程序，用于自动收集网页数据",
+      "example": "The web crawler indexes millions of pages daily for the search engine.",
+      "exampleTranslation": "网络爬虫每天为搜索引擎索引数百万页面。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "search engine crawler",
+      "meaning": "搜索引擎爬虫，用于发现和更新网站内容",
+      "example": "Google's search engine crawler visits sites to update their rankings.",
+      "exampleTranslation": "谷歌的搜索引擎爬虫访问网站以更新其排名。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "infant crawler",
+      "meaning": "婴儿学步车或爬行玩具",
+      "example": "The infant crawler helps babies develop motor skills.",
+      "exampleTranslation": "婴儿爬行器帮助宝宝发展运动技能。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The website's content is regularly scanned by a crawler to ensure it's up to date.",
+      "translation": "网站的內容定期由爬虫扫描以确保其最新。",
+      "source": "Technical documentation from software development forums",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the wild, a crawler like a snail moves slowly across the ground.",
+      "translation": "在野外，像蜗牛这样的爬行者缓慢地在地面上移动。",
+      "source": "Nature documentary scripts",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Engineers designed a crawler tractor for mining operations in rugged areas.",
+      "translation": "工程师为崎岖地区的采矿作业设计了履带拖拉机。",
+      "source": "Engineering reports from industrial publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Social media platforms use crawlers to detect and remove malicious content.",
+      "translation": "社交媒体平台使用爬虫来检测并移除恶意內容。",
+      "source": "News articles on digital security",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "crawl",
+        "meaning": "To move slowly on hands and knees",
+        "language": "Old Norse (possibly influenced by Old English)"
+      }
+    ],
+    "historicalDevelopment": "The word 'crawler' derives from the verb 'crawl', which originated in Middle English from Old Norse 'krafla' meaning 'to scratch or claw'. Over time, it evolved to describe slow movement in various contexts, and in the 20th century, it was adapted in computing to refer to automated web agents, reflecting technological advancements.",
+    "firstKnownUse": "Late 16th century for general movement; mid-20th century for computing contexts",
+    "relatedWords": [
+      "crawl",
+      "crawler's kin like 'spider' in web terminology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'crawler' 与其技术语境关联，例如想象蜘蛛网来记忆 web crawler；",
+      "通过重复暴露（spaced repetition）在不同语境中练习，以强化语义网络；",
+      "使用双编码（dual coding）方法，将词汇与视觉图像（如机器人爬行）配对，以提升记忆保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "spider",
+        "similarity": "0.8",
+        "context": "在网络搜索语境中，用于指代自动网页抓取工具"
+      },
+      {
+        "word": "bot",
+        "similarity": "0.7",
+        "context": "在自动化程序语境中，指代执行重复任务的软件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flyer",
+        "context": "与缓慢移动相对，在比喻语境中表示快速传播或移动"
+      },
+      {
+        "word": "racer",
+        "context": "在速度对比语境中，表示快速的车辆或程序"
+      }
+    ],
+    "hypernyms": [
+      "program",
+      "agent"
+    ],
+    "hyponyms": [
+      "web spider",
+      "data scraper"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + crawler (e.g., web crawler)",
+        "examples": [
+          "web crawler",
+          "search engine crawler"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Crawler + verb (e.g., crawler scans)",
+        "examples": [
+          "The crawler scans the site"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，'crawler' 象征自动化和数据驱动文化，代表了互联网监控与隐私辩论的隐含语义，常在科技文化中体现效率与潜在侵犯",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech slang",
+        "usage": "在美国英语中，'crawler' 频繁出现在硅谷文化和编程讨论中，以强调创新"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage",
+        "usage": "在英国英语中，可能更侧重于工程语境，如车辆设计"
+      }
+    ],
+    "historicalContext": "该词与工业革命和数字革命相关，在文学如 H.G. Wells 的科幻作品中出现，象征机械化社会变革",
+    "modernUsage": "在社交媒体和在线论坛中，'crawler' 常用于讨论算法伦理，反映当代全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个蜘蛛在庞大蜘蛛网上爬行，代表数据收集过程",
+      "keyElements": [
+        "蜘蛛",
+        "网络",
+        "爬行动作"
+      ],
+      "emotionalConnection": "联结个人上网经验，例如回忆搜索引擎如何快速找到信息，触发好奇心和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Crawler 像爬虫一样爬网",
+        "explanation": "通过视觉联想将词汇与蜘蛛爬行的图像关联，运用认知科学中的图像记忆技术增强保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈkrɔːlər/ 听起来像 'crawl her'，想象一个女性角色在爬行",
+        "explanation": "利用声音相似性创建故事，基于多感官学习原则改善词汇获取"
+      }
+    ],
+    "wordAssociations": [
+      "spider",
+      "scraper",
+      "bot"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "crawlers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + crawler",
+        "description": "作为主语的使用结构，常在陈述句中",
+        "examples": [
+          "The crawler processes data."
+        ]
+      },
+      {
+        "pattern": "Crawler + object",
+        "description": "作为主语的直接搭配",
+        "examples": [
+          "Web crawler extracts information."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'crawler' with 'crawler's' in possessive form",
+        "correction": "Use 'crawler's' for possession",
+        "explanation": "错误源于所有格规则的忽略，导致语义模糊"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "It is a noun; use 'crawl' as verb",
+        "explanation": "由于词形相似，学习者可能误用为动词，需注意词性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "engineering"
+    ],
+    "tags": [
+      "tech",
+      "automation",
+      "internet"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

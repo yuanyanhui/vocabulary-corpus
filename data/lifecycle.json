@@ -1,0 +1,245 @@
+{
+  "word": "lifecycle",
+  "phonetics": {
+    "british": "/ˈlaɪfsaɪkl/",
+    "american": "/ˈlaɪfsaɪkl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The series of stages that something, such as an organism, product, or system, goes through from its beginning to its end, including growth, operation, and decline.",
+      "chineseTranslation": "生命周期",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and software development, the progression of a system or application from inception, design, implementation, to maintenance and retirement.",
+      "chineseTranslation": "生命週期（在计算机或软件领域）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "product lifecycle",
+      "meaning": "产品从设计、制造到退市的整个过程",
+      "example": "Understanding the product lifecycle is essential for effective marketing strategies.",
+      "exampleTranslation": "理解产品生命周期对于有效的营销策略至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "software lifecycle",
+      "meaning": "软件从开发到维护的完整阶段",
+      "example": "The software lifecycle includes phases like planning, coding, testing, and deployment.",
+      "exampleTranslation": "软件生命周期包括规划、编码、测试和部署等阶段。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lifecycle of a butterfly includes egg, larva, pupa, and adult stages.",
+      "translation": "蝴蝶的生命周期包括卵、幼虫、蛹和成虫阶段。",
+      "source": "Biology textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In business, managing the lifecycle of a product can maximize its profitability.",
+      "translation": "在商业中，管理产品的生命周期可以最大化其盈利能力。",
+      "source": "Business article from Harvard Business Review",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The project team is currently in the maintenance phase of the software lifecycle.",
+      "translation": "项目团队目前处于软件生命周期的维护阶段。",
+      "source": "Tech news from CNET",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "life",
+        "meaning": "The state of being alive",
+        "language": "Old English (from Proto-Germanic *lībam)"
+      },
+      {
+        "root": "cycle",
+        "meaning": "A recurring series of events",
+        "language": "Latin (from Greek kyklos, meaning 'circle')"
+      }
+    ],
+    "historicalDevelopment": "The term 'lifecycle' emerged in the 19th century, combining 'life' from Old English origins with 'cycle' from Greek via Latin, to describe biological processes. It evolved in the 20th century to include technological and business contexts, particularly with the rise of systems theory in the mid-1900s.",
+    "firstKnownUse": "1850s (in biological contexts)",
+    "relatedWords": [
+      "life cycle",
+      "product life cycle",
+      "system lifecycle"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像（如一个产品从生产到报废的流程图）结合，以增强记忆；",
+      "通过间隔重复系统（Spaced Repetition Systems）复习词汇在不同语境中的应用，避免混淆类似术语；",
+      "将'lifecycle'与学习者的个人经验关联，例如日常生活中的手机使用周期，以建立情感连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "life cycle",
+        "similarity": "0.95",
+        "context": "在生物学或商业语境中，用于描述相同过程"
+      },
+      {
+        "word": "development cycle",
+        "similarity": "0.80",
+        "context": "主要在技术领域，强调发展阶段"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "static state",
+        "context": "表示不变化的状态，与动态过程相对"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "sequence"
+    ],
+    "hyponyms": [
+      "biological lifecycle",
+      "product lifecycle"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + lifecycle (e.g., product lifecycle)",
+        "examples": [
+          "product lifecycle",
+          "software lifecycle"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "The + lifecycle + of + noun",
+        "examples": [
+          "The lifecycle of a star"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着变化和发展，常用于商业和科技领域，体现出对效率和可持续性的重视；在中文文化中，类似概念如'生老病死'或'产品迭代'，反映生命周期的哲学内涵。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in business and tech contexts with emphasis on innovation.",
+        "usage": "在美国，经常与'product lifecycle management'结合，用于企业管理"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but may include more formal academic tones in biological sciences.",
+        "usage": "在英国，常见于教育和研究语境中"
+      }
+    ],
+    "historicalContext": "该词与工业革命和现代科学发展相关，在19世纪生物学兴起时流行；20世纪与资本主义和科技进步相结合，如福特汽车的生产线。",
+    "modernUsage": "在社交媒体和数字平台上，常见于讨论可持续发展和环保主题，例如智能手机的生命周期问题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个圆环，代表循环过程，从种子生长为植物，再到枯萎并重生。",
+      "keyElements": [
+        "圆环",
+        "生长阶段",
+        "循环箭头"
+      ],
+      "emotionalConnection": "联想到个人生活中的变化，如从学生到职场人士，触发对成长的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Life + Cycle = A bike ride through life's stages",
+        "explanation": "将'lifecycle'联想为骑自行车穿越人生阶段，结合视觉和运动记忆以强化认知"
+      },
+      {
+        "type": "缩略",
+        "content": "LC for Life's Circle",
+        "explanation": "使用首字母缩写并与圆形图像关联，基于认知心理学的模式匹配原理"
+      }
+    ],
+    "wordAssociations": [
+      "cycle",
+      "evolution",
+      "stages",
+      "development"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lifecycles",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The + lifecycle + of + noun",
+        "description": "描述某个事物的生命周期",
+        "examples": [
+          "The lifecycle of a project"
+        ]
+      },
+      {
+        "pattern": "Noun + lifecycle management",
+        "description": "表示对生命周期的管理",
+        "examples": [
+          "Product lifecycle management"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'life cycle' as two words",
+        "correction": "Use 'lifecycle' as one word in technical contexts",
+        "explanation": "在现代英语中，常写作一个词，但历史语境中可能分隔"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'lifecycles' for plural",
+        "explanation": "避免将之视为不可数名词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 words in COCA corpus for technical domains",
+    "domains": [
+      "technology",
+      "business",
+      "biology",
+      "environmental science"
+    ],
+    "tags": [
+      "technical",
+      "process",
+      "development",
+      "sustainability"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

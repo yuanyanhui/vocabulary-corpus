@@ -1,0 +1,259 @@
+{
+  "word": "serum",
+  "phonetics": {
+    "british": "/ˈsɪərəm/",
+    "american": "/ˈsɛrəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The clear, straw-colored fluid portion of blood that remains after coagulation; it contains proteins, electrolytes, and other substances.",
+      "chineseTranslation": "血清",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A watery solution used in medicine, especially for immunization or treatment, derived from animal blood or synthetically produced.",
+      "chineseTranslation": "血清（如免疫血清）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A lightweight, watery cosmetic product applied to the skin to deliver active ingredients for hydration or anti-aging effects.",
+      "chineseTranslation": "美容精华液",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood serum",
+      "meaning": "血液的清澈部分，用于医疗检测或分析",
+      "example": "The laboratory analyzed the blood serum for signs of infection.",
+      "exampleTranslation": "实验室分析了血清以寻找感染迹象。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "serum therapy",
+      "meaning": "使用血清进行治疗的方法，常用于免疫疾病",
+      "example": "Serum therapy has been effective in treating certain types of venomous bites.",
+      "exampleTranslation": "血清疗法在治疗某些毒蛇咬伤方面非常有效。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "facial serum",
+      "meaning": "面部护理产品，用于改善皮肤状态",
+      "example": "She applies a facial serum every night before bed.",
+      "exampleTranslation": "她每天晚上睡觉前涂抹面部精华液。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor ordered a test on the patient's serum to check for antibodies.",
+      "translation": "医生下令对患者的血清进行测试以检查抗体。",
+      "source": "Medical literature (e.g., from JAMA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In skincare routines, a vitamin C serum can help brighten the complexion.",
+      "translation": "在护肤程序中，维生素C精华液可以帮助提亮肤色。",
+      "source": "Cosmetics articles (e.g., from beauty magazines)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "During the pandemic, researchers developed a new serum to combat the virus.",
+      "translation": "在疫情期间，研究人员开发了一种新的血清来对抗病毒。",
+      "source": "News reports (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The veterinary serum was administered to the sick animal to prevent further complications.",
+      "translation": "兽医血清被注射给生病的动物以防止进一步并发症。",
+      "source": "Scientific journals (e.g., from Veterinary Record)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "serum",
+        "meaning": "whey (the liquid remaining after milk has been curdled and strained)",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语serum，原指牛奶凝固后剩余的液体 whey。17世纪传入英语，用于描述类似液体的物质，如血液中的清澈部分。随着医学发展，18世纪开始用于免疫和治疗语境；20世纪扩展到美容领域。",
+    "firstKnownUse": "1667 (first recorded in English medical texts)",
+    "relatedWords": [
+      "serous",
+      "serosity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, suitable for intermediate learners with basic medical or everyday vocabulary knowledge)",
+    "pronunciationDifficulty": "4 (out of 10; the vowel sounds vary slightly between British and American English, but the structure is straightforward for Chinese learners)",
+    "spellingDifficulty": "3 (out of 10; simple spelling with common Latin roots, less prone to errors for intermediate learners)",
+    "meaningComplexity": "6 (out of 10; multiple meanings in medical and cosmetic contexts require contextual understanding, challenging for learners without background knowledge)",
+    "usageComplexity": "5 (out of 10; often used in specific domains, but basic sentence structures make it manageable)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将serum与相关概念如'blood'或'cosmetics'分组记忆；使用双编码策略，通过视觉图像（如血液样本图片）与词汇配对，以增强长时记忆；对于中文母语者，联想汉字'血清'来建立语义桥接，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "plasma",
+        "similarity": "0.7",
+        "context": "在医学语境中，用于描述血液成分，但plasma更强调液体部分（适用于血液相关讨论）"
+      },
+      {
+        "word": "antiserum",
+        "similarity": "0.8",
+        "context": "在免疫治疗语境中，指含有抗体的血清（适用于疫苗或治疗场景）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clot",
+        "context": "在血液语境中，指凝固的部分，与serum的液体性质相对（常用于医学讨论）"
+      },
+      {
+        "word": "solid",
+        "context": "在美容语境中，指非液体形式的产品，与serum的质地相反（适用于护肤比较）"
+      }
+    ],
+    "hypernyms": [
+      "fluid",
+      "solution"
+    ],
+    "hyponyms": [
+      "immune serum",
+      "beauty serum"
+    ],
+    "collocations": [
+      {
+        "pattern": "serum + noun (e.g., serum levels)",
+        "examples": [
+          "The serum levels were monitored daily."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + serum (e.g., antiviral serum)",
+        "examples": [
+          "They developed an antiviral serum for the outbreak."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，serum常象征现代医学进步和科学创新，尤其在疫情期间；隐含语义可能涉及健康与风险平衡，但无强烈文化象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于美容和消费品语境",
+        "usage": "在美国英语中，serum在日常对话中指护肤品，体现了消费主义文化"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向医学和技术用语",
+        "usage": "在英国英语中，serum多见于正式医疗报告，反映了其科学传统"
+      }
+    ],
+    "historicalContext": "serum与19世纪的疫苗发展相关，如巴斯德的工作，体现了工业革命后的科学成就；在文学中，如H.G. Wells的作品中，象征科技的双刃剑。",
+    "modernUsage": "在社交媒体如TikTok上，serum常用于美容教程，反映当代数字文化对个人护理的强调；跨文化中，中国使用者可能将其与传统中药比较，以理解现代 vs. 传统疗法。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个透明的玻璃瓶中盛着金黄色的液体，代表血液中的serum，正在实验室中被检测。",
+      "keyElements": [
+        "玻璃瓶",
+        "金黄色液体",
+        "实验室设备"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆一次体检，触发对健康的关注和好奇心，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Serum sounds like 'see rum' – imagine seeing a clear liquid that’s not rum, but blood serum in a medical setting.",
+        "explanation": "通过声音联想建立联系，帮助中文母语者避免混淆类似词汇；基于认知心理学的声音-视觉双重编码"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-R-U-M: Serum Equals Really Useful Medicine.",
+        "explanation": "使用首字母缩写创建短语，结合重复练习强化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "blood",
+      "vaccine",
+      "skincare",
+      "liquid"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sera",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the serum in the vial)",
+        "description": "作为主语或宾语出现在句子中，常与限定词结合",
+        "examples": [
+          "The serum was injected into the patient."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., serum for treatment)",
+        "description": "用于表示目的或来源",
+        "examples": [
+          "We used serum for the experiment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing serum with plasma in usage",
+        "correction": "Use serum for the non-cellular part after clotting, and plasma for the liquid before clotting",
+        "explanation": "serum和plasma在医学语境中易混淆；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect plural form (e.g., using serums instead of sera in formal contexts)",
+        "correction": "Use sera for plural in scientific writing",
+        "explanation": "源自拉丁语影响；对于初级学习者，优先掌握常见语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "医学",
+      "美容",
+      "科学"
+    ],
+    "tags": [
+      "生物学",
+      "健康",
+      "护理产品"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "word": "duck",
+  "phonetics": {
+    "british": "/dʌk/",
+    "american": "/dʌk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a waterbird with a broad blunt bill, short legs, and webbed feet",
+      "chineseTranslation": "鸭子",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a quick lowering of the body or head to avoid something",
+      "chineseTranslation": "躲闪动作",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to lower the head or body quickly to avoid something",
+      "chineseTranslation": "迅速低下头或身体以躲避",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to evade or avoid something, often an obligation",
+      "chineseTranslation": "逃避或回避某事",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "duck out",
+      "meaning": "悄悄离开或溜走",
+      "example": "He decided to duck out of the party early.",
+      "exampleTranslation": "他决定早早地溜出派对。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lame duck",
+      "meaning": "无能或失败的人",
+      "example": "The company was seen as a lame duck after the scandal.",
+      "exampleTranslation": "丑闻发生后，这家公司被视为一个无能的失败者。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "duck and cover",
+      "meaning": "躲避危险的策略",
+      "example": "During the Cold War, schools taught children to duck and cover in case of a nuclear attack.",
+      "exampleTranslation": "在冷战期间，学校教孩子们在核攻击情况下进行躲避和掩护。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The duck swam gracefully across the pond.",
+      "translation": "鸭子优雅地游过池塘。",
+      "source": "Natural description in literature (e.g., from wildlife documentaries)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He had to duck to avoid the low-hanging branch.",
+      "translation": "他不得不低下头来避开低垂的树枝。",
+      "source": " everyday conversation (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The politician tried to duck the question during the interview.",
+      "translation": "那位政客在采访中试图回避那个问题。",
+      "source": "News media (e.g., BBC reports)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In financial terms, a lame duck refers to a company that is struggling to survive.",
+      "translation": "在金融术语中，lame duck 指一个挣扎求生的公司。",
+      "source": "Business articles (e.g., from The Economist)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "duce",
+        "meaning": "diver or one that ducks",
+        "language": "Old English"
+      },
+      {
+        "root": "dūkan-",
+        "meaning": "to dive or bend down",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'duce'，意为潜水或弯曲，可能与原始日耳曼语 *dūkan- 相关联，该词逐渐演变为现代英语 'duck'，最初指鸟类行为，后来扩展到躲闪动作和比喻意义。",
+    "firstKnownUse": "约 8 世纪",
+    "relatedWords": [
+      "duckling (小鸭子)",
+      "drench (浸湿，源自类似根源)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于简单的元音和辅音组合，对中文母语者相对容易)",
+    "spellingDifficulty": "2 (1-10, 拼写直观，无不规则变化)",
+    "meaningComplexity": "6 (1-10, 基本含义简单，但多义和比喻用法增加复杂度)",
+    "usageComplexity": "5 (1-10, 常用于不同语境，但需要上下文理解)",
+    "learningTips": [
+      "使用间隔重复系统来记忆多义词；将词与个人经历联想，如回想儿时看到鸭子的场景，以增强海马体记忆；通过认知语言学方法，将基本含义与比喻扩展建立语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "evade",
+        "similarity": "0.7",
+        "context": "在回避语境中，例如正式讨论中使用"
+      },
+      {
+        "word": "dodge",
+        "similarity": "0.8",
+        "context": "在快速躲闪的非正式语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "face",
+        "context": "在勇敢面对挑战的语境中"
+      },
+      {
+        "word": "confront",
+        "context": "在直接处理问题的正式语境中"
+      }
+    ],
+    "hypernyms": [
+      "bird (鸟类)"
+    ],
+    "hyponyms": [
+      "mallard (绿头鸭)"
+    ],
+    "collocations": [
+      {
+        "pattern": "duck + verb (e.g., duck under)",
+        "examples": [
+          "duck under the table"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + duck (e.g., wild duck)",
+        "examples": [
+          "wild duck in the lake"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征家庭和自然，如童话故事中鸭子代表纯真或变形（如安徒生的《丑小鸭》隐含成长主题）；在中文文化中，可联想到类似符号，如鸭子在节日中的吉祥意象，但英语用法更侧重实用。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于俚语，如 'duck out' 表示溜走",
+        "usage": "在非正式对话中流行，体现了美国文化中注重个人自由的价值观"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更强调动物学含义，如在乡村描述中",
+        "usage": "在正式或文学语境中常见，反映英国的自然主义传统"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲狩猎文化相关，在文学中如莎士比亚作品出现；现代与冷战时期的 'duck and cover' 练习关联，体现社会对安全的隐喻。",
+    "modernUsage": "在社交媒体上常用于幽默表情包或比喻逃避责任，反映当代数字文化的轻松表达趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一只黄色鸭子在池塘中游泳，然后突然低下头躲避飞来的球。",
+      "keyElements": [
+        "黄色鸭子",
+        "池塘",
+        "躲避动作"
+      ],
+      "emotionalConnection": "联结童年公园经历的快乐或惊奇，以触发杏仁核相关的情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'duck' 联想为 'duck down' 像鸭子潜水",
+        "explanation": "通过视觉联想强化多义记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /dʌk/ 像 'duck and run' 的快速动作",
+        "explanation": "利用声音与动作的联结，促进海马体编码"
+      }
+    ],
+    "wordAssociations": [
+      "quack (鸭叫声)",
+      "pond (池塘)",
+      "evade (回避)"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ducks",
+      "pastTense": "ducked",
+      "pastParticiple": "ducked",
+      "presentParticiple": "ducking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., He ducked the ball)",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "She ducked quickly."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the wild duck)",
+        "description": "名词短语结构，用于描述实体",
+        "examples": [
+          "The duck in the pond."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'duck' with 'ducked' in tense",
+        "correction": "Use 'ducked' for past actions",
+        "explanation": "中文母语者常忽略动词时态变化，导致语义模糊"
+      },
+      {
+        "mistake": "Misusing in formal contexts",
+        "correction": "Avoid in formal writing; use 'evade' instead",
+        "explanation": "词语域不匹配，可能因文化差异而混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "nature",
+      "daily life",
+      "idiomatic expressions"
+    ],
+    "tags": [
+      "animal",
+      "action verb",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

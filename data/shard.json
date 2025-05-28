@@ -1,0 +1,250 @@
+{
+  "word": "shard",
+  "phonetics": {
+    "british": "/ʃɑːd/",
+    "american": "/ʃɑrd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A broken piece or fragment, especially of a brittle substance such as glass, pottery, or metal.",
+      "chineseTranslation": "碎片",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a small piece of data or a partition of a larger database.",
+      "chineseTranslation": "数据分片",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pottery shard",
+      "meaning": "陶器碎片",
+      "example": "The museum displayed a pottery shard from an ancient civilization.",
+      "exampleTranslation": "博物馆展示了一个来自古代文明的陶器碎片。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "glass shard",
+      "meaning": "玻璃碎片",
+      "example": "Be careful of the glass shard on the floor after the vase broke.",
+      "exampleTranslation": "花瓶破碎后，地板上的玻璃碎片要小心。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data shard",
+      "meaning": "数据分片",
+      "example": "In distributed systems, a data shard helps manage large datasets efficiently.",
+      "exampleTranslation": "在分布式系统中，数据分片有助于高效管理大型数据集。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Archaeologists unearthed a shard of pottery that dated back to the Roman era.",
+      "translation": "考古学家出土了一个可追溯到罗马时代的陶器碎片。",
+      "source": "Historical text, such as from archaeological reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the window shattered, sharp shards littered the ground, posing a safety hazard.",
+      "translation": "窗户碎裂后，锋利的碎片散落一地，构成安全隐患。",
+      "source": "Modern literature or news articles",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the database system, each shard contains a subset of user information to optimize queries.",
+      "translation": "在数据库系统中，每个数据分片包含用户信息的子集，以优化查询。",
+      "source": "Technical documentation, e.g., from software engineering contexts",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "sceard",
+        "meaning": "A gap or incision",
+        "language": "Old English"
+      },
+      {
+        "root": "*skardaz",
+        "meaning": "To cut or divide",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'sceard'，意为裂口或切割，逐渐演变为表示易碎物体破碎后的片段。在中古英语时期，该词扩展到现代意义，尤其在考古和日常语境中。",
+    "firstKnownUse": "Before the 12th century",
+    "relatedWords": [
+      "sherd (a variant used in archaeology)",
+      "shard-like terms in Germanic languages"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将 'shard' 与视觉图像结合，例如想象破碎的玻璃片，并与个人经历（如 accidental breakage）建立情感联系，以增强记忆保留；对于中文母语学习者，建议通过重复曝光于真实语料库中来降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fragment",
+        "similarity": "0.8",
+        "context": "适用于描述任何破碎部分的语境，例如在科学或日常对话中"
+      },
+      {
+        "word": "piece",
+        "similarity": "0.7",
+        "context": "常用于非正式语境中描述较小的部分，但不如 'shard' 强调锋利或易碎"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "适用于完整物体而非破碎部分的语境，例如在描述修复过程时"
+      },
+      {
+        "word": "intact",
+        "context": "在强调物体未受损的正式语境中使用"
+      }
+    ],
+    "hypernyms": [
+      "fragment",
+      "piece"
+    ],
+    "hyponyms": [
+      "glass shard",
+      "pottery shard"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + shard (e.g., glass + shard)",
+        "examples": [
+          "a glass shard",
+          "an ancient shard"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Shard + of + Noun (e.g., shard of pottery)",
+        "examples": [
+          "a shard of ice"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与考古学和历史遗迹相关联，象征着过去文明的残留和时间的无情破坏；在文学中，可能隐含脆弱性和重生的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史和考古语境",
+        "usage": "在英国英语中，'shard' 常与 'sherd' 互换使用，尤其在博物馆描述中"
+      },
+      {
+        "region": "美国",
+        "variation": "扩展到技术领域，如数据分片",
+        "usage": "在美国英语中，强调实用性和现代应用，例如在科技行业"
+      }
+    ],
+    "historicalContext": "该词与欧洲中世纪的陶器和玻璃制品生产相关，在工业革命后成为考古学的重要术语，反映了文化遗产的保存和社会对历史的反思。",
+    "modernUsage": "在当代社交媒体和科技语境下，'shard' 常用于描述数字碎片化，例如在游戏或云计算中，体现了全球数字文化的快速演变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个破碎的玻璃瓶，碎片散落在地上，每片都反射着光线。",
+      "keyElements": [
+        "破碎的玻璃",
+        "锋利的边缘",
+        "光线反射"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年时不小心打破物品的挫败感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "视觉联想",
+        "content": "将 'shard' 联想为 'sharp hard'，因为它听起来像锋利的硬物。",
+        "explanation": "通过声音和视觉联觉，结合认知科学中的空间记忆技巧，帮助学习者快速回想词义"
+      },
+      {
+        "type": "缩略词",
+        "content": "S-H-A-R-D: Sharp, Hard, And Really Dangerous.",
+        "explanation": "使用首字母缩略来构建故事，基于艾宾浩斯遗忘曲线的间隔重复原则强化记忆"
+      }
+    ],
+    "wordAssociations": [
+      "break",
+      "fragment",
+      "piece"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "shards",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Shard",
+        "description": "作为名词直接用在句中，表示物体部分",
+        "examples": [
+          "The shard lay on the ground."
+        ]
+      },
+      {
+        "pattern": "Shard + of + Noun",
+        "description": "用以指定碎片的来源",
+        "examples": [
+          "A shard of the mirror reflected the light."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sherd'",
+        "correction": "Use 'shard' for general fragments and 'sherd' specifically in archaeology",
+        "explanation": "许多学习者混淆这两个相近词，需通过语境区分以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'shards' for plural",
+        "explanation": "作为规则名词，简单添加 -s 即可，但中文母语者可能遗漏复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words in COCA corpus",
+    "domains": [
+      "archaeology",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "noun",
+      "fragmentation",
+      "brittle materials"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

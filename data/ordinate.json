@@ -1,0 +1,234 @@
+{
+  "word": "ordinate",
+  "phonetics": {
+    "british": "/ˈɔːdɪneɪt/",
+    "american": "/ˈɔːrdəneɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a coordinate system, the distance of a point from the x-axis, measured along a line parallel to the y-axis.",
+      "chineseTranslation": "纵坐标",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange or order something in a systematic way, though less common in modern usage.",
+      "chineseTranslation": "排列或整理",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Cartesian ordinate",
+      "meaning": "笛卡尔坐标系中的纵坐标",
+      "example": "In the Cartesian ordinate system, the ordinate represents the y-value.",
+      "exampleTranslation": "在笛卡尔坐标系中，纵坐标代表 y 值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ordinate axis",
+      "meaning": "纵坐标轴",
+      "example": "The ordinate axis is perpendicular to the abscissa.",
+      "exampleTranslation": "纵坐标轴垂直于横坐标轴。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The point (3, 4) has an ordinate of 4 in the standard coordinate plane.",
+      "translation": "点 (3, 4) 在标准坐标平面中有一个纵坐标为 4。",
+      "source": "Mathematical textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must carefully plot the ordinate values to ensure accurate data representation.",
+      "translation": "工程师必须仔细绘制纵坐标值以确保数据表示准确。",
+      "source": "Technical article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In graphing software, users can adjust the ordinate scale for better visualization.",
+      "translation": "在绘图软件中，用户可以调整纵坐标刻度以获得更好的可视化效果。",
+      "source": "Software manual",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ordin-",
+        "meaning": "order or arrangement",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'ordinatus'，是 'ordinare' 的过去分词，意为 '安排' 或 '排序'。该词在17世纪通过数学语境进入英语，最初用于描述坐标系统中的位置，以反映有序排列的概念。随着数学的发展，它演变为专指坐标系中的纵坐标。",
+    "firstKnownUse": "1690",
+    "relatedWords": [
+      "abscissa",
+      "coordinate",
+      "ordinal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法（chunking）将 'ordinate' 与 'coordinate' 系统关联，以降低语义复杂度；",
+      "通过视觉化练习，如绘制坐标图，帮助初级学习者建立空间认知连接，避免混淆类似词汇；",
+      "运用双编码理论，将发音与图像（如 y 轴）结合，以增强长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "y-coordinate",
+        "similarity": "0.9",
+        "context": "在数学和科学语境中，用于描述相同概念"
+      },
+      {
+        "word": "vertical coordinate",
+        "similarity": "0.8",
+        "context": "在工程或地理信息系统语境中，作为等效术语"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abscissa",
+        "context": "在坐标系中，横坐标作为纵坐标的反义概念，通常用于对比"
+      }
+    ],
+    "hypernyms": [
+      "coordinate"
+    ],
+    "hyponyms": [
+      "graph ordinate"
+    ],
+    "collocations": [
+      {
+        "pattern": "ordinate + noun (e.g., ordinate value)",
+        "examples": [
+          "The ordinate value must be positive."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + ordinate (e.g., plot the ordinate)",
+        "examples": [
+          "We need to plot the ordinate accurately."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征有序和精确的知识体系，源于启蒙时代对数学的强调，常隐含理性主义价值观，但在非西方文化中，可能仅作为技术术语而非文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于教育和科技语境",
+        "usage": "在美国英语中，'ordinate' 在学校数学教学中频繁出现，以强调坐标几何基础"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与 'abscissa' 的搭配更正式",
+        "usage": "在英国英语中，常在学术出版物中以更精确的方式使用，反映历史数学传统"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，如笛卡尔的工作，该词体现了从哲学到数学的演变，在现代教育中用于培养逻辑思维。",
+    "modernUsage": "在社交媒体和在线教育平台上，'ordinate' 常出现在 STEM 相关讨论中，但使用频率较低，非专业人士可能通过翻译软件间接接触。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个垂直的阶梯（代表 y 轴），每一步都标记数字，这象征 'ordinate' 的向上排列。",
+      "keyElements": [
+        "阶梯",
+        "y 轴",
+        "数字标记"
+      ],
+      "emotionalConnection": "联结个人经验，如回想学校时的坐标图绘制作业，触发成就感以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'ordinate' 联想为 'order in height'（高度顺序），因为它表示垂直顺序。",
+        "explanation": "通过语义联想，基于认知联想理论，帮助学习者将词汇与日常顺序概念连接，减少遗忘率。"
+      },
+      {
+        "type": "缩略",
+        "content": "O for Ordinate and Up (垂直向上)",
+        "explanation": "使用首字母缩略法，结合空间记忆技巧，强化词汇与方向的关联。"
+      }
+    ],
+    "wordAssociations": [
+      "abscissa",
+      "axis",
+      "graph"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ordinates",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + ordinate",
+        "description": "在句子中作为名词使用，例如在描述坐标时",
+        "examples": [
+          "The ordinate increases steadily."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with ordinate",
+        "description": "常与介词如 'of' 或 'in' 搭配",
+        "examples": [
+          "The value of the ordinate is 5."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing ordinate with abscissa",
+        "correction": "Use ordinate for y-axis and abscissa for x-axis",
+        "explanation": "学习者常混淆二者，因为两者在坐标系中相似；建议通过视觉图表区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'ordinates' for plural",
+        "explanation": "作为规则名词，容易正确，但初学者可能遗忘复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "education"
+    ],
+    "tags": [
+      "technical",
+      "mathematical term",
+      "geometry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

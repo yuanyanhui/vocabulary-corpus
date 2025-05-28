@@ -1,0 +1,228 @@
+{
+  "word": "inertial",
+  "phonetics": {
+    "british": "/ɪnˈɜːʃəl/",
+    "american": "/ɪnˈɝʃəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "relating to or denoting inertia, the property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force",
+      "chineseTranslation": "惯性的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical/neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inertial frame",
+      "meaning": "惯性参考系",
+      "example": "In physics, an inertial frame is a reference frame in which a body at rest remains at rest.",
+      "exampleTranslation": "在物理学中，惯性参考系是一个物体处于静止状态时保持静止的参考系。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "inertial navigation",
+      "meaning": "惯性导航",
+      "example": "Inertial navigation systems are used in aircraft to determine position without external references.",
+      "exampleTranslation": "惯性导航系统用于飞机中，通过不依赖外部参考来确定位置。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The rocket's inertial guidance system ensured it stayed on course despite external forces.",
+      "translation": "火箭的惯性导航系统确保它尽管有外部力量干扰仍保持航向。",
+      "source": "Scientific literature (e.g., from aerospace engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, we experience inertial forces when a car suddenly stops.",
+      "translation": "在日常生活中，当汽车突然停下时，我们会感受到惯性力。",
+      "source": "Educational materials (e.g., physics textbooks)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The concept of inertial mass is fundamental to understanding Newton's laws of motion.",
+      "translation": "惯性质量的概念是理解牛顿运动定律的基础。",
+      "source": "Academic articles (e.g., from journals like Nature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "iners",
+        "meaning": "idle or sluggish",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'iners'，意为惰性或迟钝。17世纪开始在英语中用于物理学，指物体抵抗速度变化的特性。19世纪，随着牛顿力学的普及，该词演变为现代科学术语。",
+    "firstKnownUse": "约1704年",
+    "relatedWords": [
+      "inertia",
+      "inert"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，利用视觉想象将 'inertial' 与物体在运动中保持原有状态的场景关联，以增强记忆；建议通过重复练习物理实验视频来强化语义理解，避免抽象概念的认知负荷过高。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inert",
+        "similarity": "0.8",
+        "context": "在科学语境中，用于描述物体抵抗加速的特性，例如物理实验"
+      },
+      {
+        "word": "stationary",
+        "similarity": "0.6",
+        "context": "在非技术语境中，表示相对静止的状态，但不完全等同于惯性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "active",
+        "context": "在动态系统中，用于对比，表示物体易于改变运动状态"
+      },
+      {
+        "word": "dynamic",
+        "context": "在工程或物理语境中，表示能量或运动的活跃性"
+      }
+    ],
+    "hypernyms": [
+      "physical"
+    ],
+    "hyponyms": [
+      "Newtonian"
+    ],
+    "collocations": [
+      {
+        "pattern": "inertial + noun (e.g., frame, force)",
+        "examples": [
+          "inertial frame",
+          "inertial force"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + inertial (e.g., pure inertial)",
+        "examples": [
+          "pure inertial system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征现代物理学的核心概念，体现了启蒙时代对自然规律的理性探索，但在非西方文化中，可能更多作为教育工具而非文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和技术语境",
+        "usage": "在美国英语中，常出现在航天和军事领域，如GPS系统"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调理论物理的学术性",
+        "usage": "在英国英语中，常与历史科学理论（如牛顿定律）相关联"
+      }
+    ],
+    "historicalContext": "与17世纪的科学革命相关联，特别是在牛顿的著作中，该词体现了欧洲启蒙运动对宇宙秩序的认知。",
+    "modernUsage": "在当代社交媒体和科技传播中，常用于讨论AI和自动驾驶技术，但可能被简化以适应大众理解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个球在平滑表面上滚动，当你试图改变其方向时，它会抵抗，这就是惯性。",
+      "keyElements": [
+        "球体",
+        "滚动",
+        "抵抗力"
+      ],
+      "emotionalConnection": "联结个人经验，如骑自行车时的惯性感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'inertial' 联想为 'inert-ial'，意为像惰性动物一样缓慢。",
+        "explanation": "通过声音和图像联想，帮助记忆词根和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-E-R-T-I-A-L：I for inertia, N for Newton。",
+        "explanation": "使用首字母缩写结合历史人物，强化认知连接"
+      }
+    ],
+    "wordAssociations": [
+      "inertia",
+      "motion",
+      "force"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more inertial",
+      "superlative": "most inertial"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + inertial",
+        "description": "用于描述主语的属性，例如 'The system is inertial.'",
+        "examples": [
+          "The frame is inertial in this context."
+        ]
+      },
+      {
+        "pattern": "Inertial + noun",
+        "description": "作为定语修饰名词",
+        "examples": [
+          "Inertial forces affect the object's path."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'inertial' with 'inert'",
+        "correction": "Use 'inertial' for physics-related inertia",
+        "explanation": "二者虽相关，但 'inert' 更泛指无活性"
+      },
+      {
+        "mistake": "Incorrect collocation, e.g., 'inertial system' as verb",
+        "correction": "Treat as adjective, e.g., 'the inertial system works'",
+        "explanation": "该词仅为形容词，不能直接用作动词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "physics",
+      "mechanics",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

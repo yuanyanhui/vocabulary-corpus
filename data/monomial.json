@@ -1,0 +1,245 @@
+{
+  "word": "monomial",
+  "phonetics": {
+    "british": "/mɒˈnəʊmiəl/",
+    "american": "/mɑːˈnoʊmiəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An algebraic expression consisting of a single term, such as 5x or 3xy².",
+      "chineseTranslation": "单项式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or consisting of a single term in algebra.",
+      "chineseTranslation": "单项式的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "monomial expression",
+      "meaning": "单项式表达式",
+      "example": "A monomial expression like 4a³b is used in simplifying algebraic equations.",
+      "exampleTranslation": "像4a³b这样的单项式表达式用于简化代数方程。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "binomial vs. monomial",
+      "meaning": "二项式与单项式的对比",
+      "example": "Understanding the difference between a binomial and a monomial is essential in polynomial factorization.",
+      "exampleTranslation": "理解二项式和单项式的区别对于多项式因式分解至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, a monomial can be multiplied by another to form a polynomial.",
+      "translation": "在数学中，单项式可以与其他相乘形成多项式。",
+      "source": "Educational textbook (e.g., from algebra curricula)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The teacher explained that 7x⁴y is a classic example of a monomial.",
+      "translation": "老师解释说，7x⁴y是一个典型的单项式例子。",
+      "source": "Academic lecture notes",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers often deal with monomials in complex calculations for circuit design.",
+      "translation": "工程师在电路设计复杂的计算中经常处理单项式。",
+      "source": "Technical article in engineering journals",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "mono-",
+        "meaning": "one",
+        "language": "Greek"
+      },
+      {
+        "root": "nomial",
+        "meaning": "term or name",
+        "language": "Latin (derived from nomen, meaning 'name')"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'mono-'（意为 'one'）和拉丁语 'nomen'（意为 'name' 或 'term'），在19世纪数学代数的发展中演变为现代意义，用于描述仅有一个术语的表达式，早先在多项式理论中作为区分不同类型表达式的工具。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "binomial",
+      "trinomial",
+      "polynomial"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉化方法将 'monomial' 联想为 '一个单一的单元'，如想象一个孤立的方块；利用间隔重复法（spaced repetition）强化记忆；针对母语为中文的学习者，强调词根分析以连接已有知识，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "single-term expression",
+        "similarity": "0.8",
+        "context": "适用于技术语境中描述简单代数结构，例如在课堂教学或学术讨论中"
+      },
+      {
+        "word": "univariate term",
+        "similarity": "0.7",
+        "context": "在统计或高级数学中，用于强调变量的单一性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "polynomial",
+        "context": "适用于对比语境中，例如在代数课程中讨论多项式与单项式的区别"
+      },
+      {
+        "word": "binomial",
+        "context": "在多项式分类中，用于突出多于一个术语的表达式"
+      }
+    ],
+    "hypernyms": [
+      "expression",
+      "term"
+    ],
+    "hyponyms": [
+      "constant term",
+      "variable term"
+    ],
+    "collocations": [
+      {
+        "pattern": "monomial + noun (e.g., monomial equation)",
+        "examples": [
+          "a monomial equation",
+          "simplifying a monomial expression"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + monomial (e.g., simple monomial)",
+        "examples": [
+          "a simple monomial",
+          "complex monomial"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学抽象思维的精确性，常用于学校和学术环境中体现理性主义，但在中国文化中可能更多与STEM教育相关联，作为全球数学标准的一部分。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在K-12教育体系中",
+        "usage": "在美国英语中，强调在初级代数课程中的实际应用，如标准化测试"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术语境中更正式",
+        "usage": "在英国英语中，常见于大学数学讲座，强调历史演变"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲数学革命相关联，如波利亚和伽罗瓦的工作，推动了代数结构的发展，在现代全球教育中成为基础知识。",
+    "modernUsage": "在社交媒体和在线学习平台（如Khan Academy）中流行，用于科普视频或论坛讨论，反映数字时代教育民主化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个孤立的方块或单一的树枝，代表 'monomial' 作为一个独立的实体。",
+      "keyElements": [
+        "孤立方块",
+        "单一术语"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如回想小学数学课上的简单表达式，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'mono' as 'one phone call' and 'nomial' as 'name it once'.",
+        "explanation": "通过视觉联想将 'monomial' 与 '一个单一的命名' 连接，基于认知科学中的双编码理论（dual coding），结合图像和语言以增强记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "M for 'mono' means 'one', N for 'nomial' means 'name'.",
+        "explanation": "使用首字母缩略法激发回忆，符合工作记忆模型，帮助母语为中文的学习者快速构建词汇网络。"
+      }
+    ],
+    "wordAssociations": [
+      "mono",
+      "one",
+      "term",
+      "algebra"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "monomials",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + monomial",
+        "description": "该结构用于主语后跟动词描述单项式，例如在句子中作为对象。",
+        "examples": [
+          "We studied the monomial in class."
+        ]
+      },
+      {
+        "pattern": "Adjective + monomial",
+        "description": "使用形容词修饰单项式，表示其特性。",
+        "examples": [
+          "This is a simple monomial."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing monomial with binomial",
+        "correction": "Use monomial for single-term expressions only",
+        "explanation": "学习者常混淆术语；正确区分基于术语数量，以避免在学术写作中的错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural (monomials)",
+        "explanation": "英文名词规则简单，但母语干扰可能导致遗漏。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium in academic domains)",
+    "domains": [
+      "education",
+      "mathematics",
+      "science"
+    ],
+    "tags": [
+      "mathematics",
+      "algebra",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

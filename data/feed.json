@@ -1,0 +1,275 @@
+{
+  "word": "feed",
+  "phonetics": {
+    "british": "/fiːd/",
+    "american": "/fiːd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To give food to a person or animal.",
+      "chineseTranslation": "喂养；给……喂食",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To eat food, especially used in the context of animals.",
+      "chineseTranslation": "进食；以……为食",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Food provided for animals, especially livestock.",
+      "chineseTranslation": "饲料；动物食物",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A supply or source of something, such as data in computing (e.g., RSS feed).",
+      "chineseTranslation": "供给；源（如数据源）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "feed on",
+      "meaning": "以……为食",
+      "example": "Some birds feed on insects during the summer.",
+      "exampleTranslation": "有些鸟类在夏天以昆虫为食。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "animal feed",
+      "meaning": "动物饲料",
+      "example": "Farmers buy animal feed from the local supplier.",
+      "exampleTranslation": "农民从当地供应商购买动物饲料。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "feed into",
+      "meaning": "输入或提供给",
+      "example": "The data will feed into the main system for analysis.",
+      "exampleTranslation": "这些数据将输入到主系统中进行分析。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She feeds her cat twice a day.",
+      "translation": "她每天喂猫两次。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The machine feeds paper into the printer automatically.",
+      "translation": "机器自动将纸张输入打印机。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the wild, wolves feed on small mammals and birds.",
+      "translation": "在野外，狼以小型哺乳动物和鸟类为食。",
+      "source": "Nature documentary",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media feeds are constantly updated with new content.",
+      "translation": "社交媒体源不断更新新内容。",
+      "source": "Modern journalism",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "fēdan",
+        "meaning": "to feed or nourish",
+        "language": "Old English"
+      },
+      {
+        "root": "*fōdjaną",
+        "meaning": "to give food",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "从古英语fēdan演变而来，该词源自原始日耳曼语*fōdjaną，意为提供食物或滋养。到了中古英语时期，该词扩展到比喻意义，如精神或信息的供给。在现代英语中，它发展为包括技术语境，如数据源。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "food",
+      "fodder",
+      "forage"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用重复曝光法（spaced repetition）来记忆feed的多重含义，例如通过每日例句练习强化其作为动词和名词的区分；",
+      "使用视觉联想，将feed与进食场景关联，以增强记忆痕迹；",
+      "针对中文母语学习者，强调音节对比，避免将feed误读为类似发音的词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nourish",
+        "similarity": "0.8",
+        "context": "在营养或成长语境中适用，如喂养孩子"
+      },
+      {
+        "word": "sustain",
+        "similarity": "0.7",
+        "context": "在持续供给语境中适用，如能源供给"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "starve",
+        "context": "在缺乏食物或供给的语境中适用"
+      },
+      {
+        "word": "deprive",
+        "context": "在剥夺资源或食物的语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "provide",
+      "supply"
+    ],
+    "hyponyms": [
+      "breastfeed",
+      "hand-feed"
+    ],
+    "collocations": [
+      {
+        "pattern": "feed + object (e.g., feed the baby)",
+        "examples": [
+          "She feeds the baby every morning."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "feed on + source (e.g., feed on plants)",
+        "examples": [
+          "Insects feed on leaves."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征养育和持续供给，常与农业和家庭生活相关联，隐含对资源共享的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如'news feed'",
+        "usage": "在美国英语中，强调数字媒体的实时更新"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重传统意义，如'livestock feed'",
+        "usage": "在英国英语中，常与乡村生活和农业实践相关联"
+      }
+    ],
+    "historicalContext": "该词与工业革命时期的农业发展有关，在文学作品如狄更斯的著作中，代表社会不公，如饥饿与供给不均。",
+    "modernUsage": "在现代社交媒体中，广泛用于'feed'表示信息流，反映数字时代的信息过载趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个农场场景：农民正在喂养动物，同时手机屏幕显示新闻源。",
+      "keyElements": [
+        "农场",
+        "动物",
+        "手机屏幕"
+      ],
+      "emotionalConnection": "联结个人用餐经历，触发对家庭温馨或饥饿感的回忆，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Feed sounds like 'free eat', imagining free food for animals.",
+        "explanation": "通过声音联想帮助记忆动词含义，结合认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "F-E-E-D: Food-Energy-Every-Day",
+        "explanation": "使用首字母缩略法强化日常供给的概念。"
+      }
+    ],
+    "wordAssociations": [
+      "eat",
+      "nourish",
+      "supply"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "fed",
+      "pastParticiple": "fed",
+      "presentParticiple": "feeding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + feed + object",
+        "description": "主语直接喂养对象的结构",
+        "examples": [
+          "The mother feeds the child."
+        ]
+      },
+      {
+        "pattern": "feed on + noun",
+        "description": "表示以某物为食的结构",
+        "examples": [
+          "Animals feed on grass."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'feed' as a noun without context",
+        "correction": "Specify the type, e.g., 'animal feed'",
+        "explanation": "中文母语学习者常忽略名词的特定语境，导致歧义。"
+      },
+      {
+        "mistake": "Confusing past tense with present",
+        "correction": "Use 'fed' for past actions",
+        "explanation": "由于feed的过去式不规则，需通过练习避免错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "agriculture",
+      "daily life",
+      "technology"
+    ],
+    "tags": [
+      "verb",
+      "noun",
+      "daily routine",
+      "digital media"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

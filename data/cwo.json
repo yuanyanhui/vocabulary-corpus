@@ -1,0 +1,272 @@
+{
+  "word": "cow",
+  "phonetics": {
+    "british": "/kaʊ/",
+    "american": "/kaʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fully grown female animal of the cattle family, which has had calves and is used for milk production or breeding.",
+      "chineseTranslation": "母牛",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Informally, any animal of the cattle family, regardless of gender, in certain contexts.",
+      "chineseTranslation": "牛（泛指）",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To intimidate or subdue someone, often by staring aggressively (slang, rare usage).",
+      "chineseTranslation": "恐吓或威慑某人",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sacred cow",
+      "meaning": "指在文化或社会中被视为不可触碰或神圣的事物",
+      "example": "In many companies, the old policies are treated as sacred cows that no one dares to challenge.",
+      "exampleTranslation": "在许多公司中，旧的政策被视为神圣的母牛，没有人敢挑战。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "cash cow",
+      "meaning": "指为公司或个人带来稳定收入的业务或资产",
+      "example": "The smartphone division has become the company's cash cow in recent years.",
+      "exampleTranslation": "智能手机部门近年来已成为公司的摇钱树。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "holy cow",
+      "meaning": "用于表达惊讶或震惊",
+      "example": "Holy cow! I can't believe we won the lottery.",
+      "exampleTranslation": "哇哦！真不敢相信我们中了彩票。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmer milked the cow early in the morning.",
+      "translation": "农民一大早就给母牛挤奶。",
+      "source": "Common everyday language, as seen in agricultural contexts (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In some cultures, the cow is revered as a symbol of wealth and prosperity.",
+      "translation": "在某些文化中，母牛被视为财富和繁荣的象征。",
+      "source": "Cultural discussions, such as in literature or news articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company decided to sell its cash cow to invest in new technologies.",
+      "translation": "公司决定出售其摇钱树业务，以投资新技术。",
+      "source": "Business news, e.g., from financial reports (e.g., Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He tried to cow his opponent with a fierce glare during the debate.",
+      "translation": "他在辩论中试图用凶狠的眼神来威慑对手。",
+      "source": "Informal narrative, e.g., from modern fiction (e.g., contemporary novels)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "cū",
+        "meaning": "cow",
+        "language": "Old English"
+      },
+      {
+        "root": "*kōuz",
+        "meaning": "cow or bovine animal",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "*gʷōws",
+        "meaning": "cattle",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'cū'，该词从原始日耳曼语 '*kōuz' 演变而来，进一步追溯到原始印欧语 '*gʷōws'，最初指牛类动物。从中世纪英语开始，'cow' 专指成年雌性牛，以区别于 'bull'。在现代英语中，它保持了核心含义，但也扩展到比喻用法，如商业术语。",
+    "firstKnownUse": "Before 12th century (as recorded in Old English texts)",
+    "relatedWords": [
+      "bovine",
+      "cattle",
+      "bull",
+      "calf"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1 (CEFR)",
+    "pronunciationDifficulty": "3 (out of 10, as the diphthong /aʊ/ is common and straightforward for intermediate learners)",
+    "spellingDifficulty": "2 (out of 10, simple CVC structure with no silent letters)",
+    "meaningComplexity": "4 (out of 10, basic literal meaning but with idiomatic extensions that require context)",
+    "usageComplexity": "5 (out of 10, straightforward in basic sentences but challenging in cultural or metaphorical contexts)",
+    "learningTips": [
+      "结合认知科学，建议使用图像记忆法：将 'cow' 与农场场景联结，激发视觉和情感记忆；对于中国学习者，可关联本土文化，如对比中国农耕中的牛角色，以增强迁移学习；重复暴露于真实语料中以强化神经元路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bovine",
+        "similarity": "0.7",
+        "context": "在正式或科学语境中，用于泛指牛类动物"
+      },
+      {
+        "word": "heifer",
+        "similarity": "0.6",
+        "context": "特指尚未产犊的年轻母牛，常在农业语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bull",
+        "context": "在动物分类中，指成年雄性牛"
+      },
+      {
+        "word": "calf",
+        "context": "指幼年牛，无论性别"
+      }
+    ],
+    "hypernyms": [
+      "animal",
+      "mammal",
+      "livestock"
+    ],
+    "hyponyms": [
+      "dairy cow",
+      "beef cow"
+    ],
+    "collocations": [
+      {
+        "pattern": "cow + verb (e.g., grazes, moos)",
+        "examples": [
+          "The cow grazes in the field."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + cow (e.g., sacred cow)",
+        "examples": [
+          "They treated the tradition as a sacred cow."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在印度教文化中，母牛象征纯洁和神圣，常被视为不可杀害的动物；在西方文化中，它代表农业和日常生计，但也用于比喻如 'sacred cow' 表示顽固的传统。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于农业语境，强调家畜角色",
+        "usage": "在英国英语中，'cow' 可能与地方方言结合，如在乡村故事中"
+      },
+      {
+        "region": "United States",
+        "variation": "常用于商业比喻，如 'cash cow' 在企业语境",
+        "usage": "在美国英语中，扩展到经济讨论，以反映资本主义文化"
+      }
+    ],
+    "historicalContext": "在欧洲中世纪，母牛与农业社会紧密相关，出现在文学如乔叟的作品中；在殖民时代，牛被引入全球，影响了如印度的文化融合。",
+    "modernUsage": "在社交媒体和流行文化中，'cow' 常用于表情包或 meme，表示惊讶或幽默趋势，如在 TikTok 上。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个绿色农场的场景：一只母牛在草地上吃草，旁边有小牛和农民 milking it。",
+      "keyElements": [
+        "农场",
+        "草地",
+        "挤奶"
+      ],
+      "emotionalConnection": "联结到童年经历，如中国农村的牛耕田，触发 nostalgia 和熟悉感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'cow' 联想到 'cow' sounds like 'now'，想象 'now' 是挤奶的时间",
+        "explanation": "通过声音联想强化发音记忆，基于认知科学的声音-视觉整合"
+      },
+      {
+        "type": "缩略",
+        "content": "COW = C for Cattle, O for Offspring, W for Wealth",
+        "explanation": "使用缩略词构建结构化记忆路径，促进长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "milk",
+      "farm",
+      "moo",
+      "bovine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cows",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object (e.g., The cow eats grass)",
+        "description": "作为主语的典型结构，用于简单陈述",
+        "examples": [
+          "The cow stands in the field."
+        ]
+      },
+      {
+        "pattern": "Adjective + Noun (e.g., sacred cow)",
+        "description": "在比喻用法中，常与形容词搭配",
+        "examples": [
+          "That idea is a sacred cow in our family."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'cow' with 'bull' in gender-specific contexts",
+        "correction": "Use 'cow' only for females",
+        "explanation": "中国学习者可能因母语影响而混淆动物性别术语"
+      },
+      {
+        "mistake": "Overusing in metaphorical phrases without context",
+        "correction": "Limit to appropriate registers",
+        "explanation": "初级学习者易误用比喻，导致语义偏差"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus, with approximately 50 occurrences per million words)",
+    "domains": [
+      "agriculture",
+      "business",
+      "culture"
+    ],
+    "tags": [
+      "animal",
+      "idiomatic",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

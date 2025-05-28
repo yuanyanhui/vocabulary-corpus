@@ -1,0 +1,239 @@
+{
+  "word": "maxima",
+  "phonetics": {
+    "british": "/ˈmæk.sɪ.mə/",
+    "american": "/ˈmæk.sə.mə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The plural form of 'maximum', referring to the highest values, points, or amounts in a set or function.",
+      "chineseTranslation": "最大值或极值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics and science, a point or value on a curve or function that is greater than the values at nearby points.",
+      "chineseTranslation": "函数或曲线的局部最大点",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "local maxima",
+      "meaning": "局部最大值",
+      "example": "The graph of the function shows several local maxima.",
+      "exampleTranslation": "该函数的图形显示了几个局部最大值。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "global maxima",
+      "meaning": "全局最大值",
+      "example": "In optimization problems, finding global maxima is essential.",
+      "exampleTranslation": "在优化问题中，找到全局最大值至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The data set includes multiple maxima, indicating peaks in temperature over the year.",
+      "translation": "数据集包括多个最大值，表示一年中温度的峰值。",
+      "source": "Scientific report",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must identify the maxima and minima to ensure the structure's stability.",
+      "translation": "工程师必须识别最大值和最小值，以确保结构的稳定性。",
+      "source": "Engineering textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In economics, maxima represent the highest points of utility in consumer behavior models.",
+      "translation": "在经济学中，最大值代表消费者行为模型中的效用最高点。",
+      "source": "Academic article",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "maximum",
+        "meaning": "greatest or largest",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 maximum（最大），是 maximus 的中性形式，意为'最大的'。该词在17世纪传入英语，用于数学和科学语境中，随着微积分的兴起，其含义扩展到函数的极值点。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "maximum",
+      "maximal",
+      "minima"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将 'maxima' 与数学概念关联，例如通过可视化图形函数来记忆；结合母语类比，如将它与中文 '极值' 对应，以增强语义记忆；重复练习在上下文中使用，以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "peaks",
+        "similarity": "0.8",
+        "context": "在数学或数据分析语境中，用于描述最高点，例如统计图表"
+      },
+      {
+        "word": "high points",
+        "similarity": "0.7",
+        "context": "在非正式描述中，用于泛指成就或顶峰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "minima",
+        "context": "在数学函数中，表示最低点，与 maxima 相对"
+      },
+      {
+        "word": "low points",
+        "context": "在一般语境中，表示下降或最低值"
+      }
+    ],
+    "hypernyms": [
+      "extrema"
+    ],
+    "hyponyms": [
+      "absolute maximum",
+      "relative maximum"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + maxima",
+        "examples": [
+          "local maxima",
+          "global maxima"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "maxima + preposition + noun",
+        "examples": [
+          "maxima in the data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和优化，常用于数学、物理和工程领域，体现理性主义传统；在跨文化语境中，中国学习者可能将其与 '极值' 或 '优化问题' 关联，反映现代科技全球共享。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如软件或数据科学",
+        "usage": "在美国英语中，'maxima' 在学术和专业语境中频率较高，与创新文化相关"
+      },
+      {
+        "region": "英国",
+        "variation": "发音和使用更接近传统数学语境",
+        "usage": "在英国英语中，可能更强调历史学术传承"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，如牛顿和莱布尼茨的微积分发展，该词反映了西方对定量分析的重视；在中文文化中，可与古代数学传统如《九章算术》对比。",
+    "modernUsage": "在现代社交媒体和在线教育中，'maxima' 常出现在数据可视化和AI讨论中，体现了数字时代的流行趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一座山脉的顶峰，代表函数的最高点。",
+      "keyElements": [
+        "山峰",
+        "曲线图形",
+        "数据点"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆登山经历的成就感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Maxima 像 'maximum adventure'，想象探险到最高点。",
+        "explanation": "通过视觉联想和个人经验触发，基于认知科学中的双编码理论，提高记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-X-I-M-A = Most Absolute eXtreme In Math And Analysis",
+        "explanation": "使用首字母缩略法结合语义扩展，帮助中级学习者构建词汇网络。"
+      }
+    ],
+    "wordAssociations": [
+      "maximum",
+      "peak",
+      "extremum",
+      "optimize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + maxima",
+        "description": "作为名词用在主语或宾语位置，常描述数学实体。",
+        "examples": [
+          "The maxima occur at specific intervals."
+        ]
+      },
+      {
+        "pattern": "Adjective + maxima + in + noun",
+        "description": "用于限定语境，如在数据或函数中。",
+        "examples": [
+          "Local maxima in the waveform are critical."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'maximum' as singular",
+        "correction": "Use 'maxima' only for plural contexts",
+        "explanation": "学习者常将它误用为单数；需注意英语名词复数规则。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /mækˈsiːmə/",
+        "correction": "Pronounce as /ˈmæk.sɪ.mə/",
+        "explanation": "中级学习者可能受拼写影响，错误强调音节；通过听力练习修正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "数学",
+      "商业"
+    ],
+    "tags": [
+      "数学术语",
+      "科学词汇",
+      "优化"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

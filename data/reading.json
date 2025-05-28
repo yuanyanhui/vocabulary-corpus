@@ -1,0 +1,262 @@
+{
+  "word": "reading",
+  "phonetics": {
+    "british": "/ˈriːdɪŋ/",
+    "american": "/ˈriːdɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or skill of reading written or printed matter silently or aloud.",
+      "chineseTranslation": "阅读的行为",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A piece of writing or other material intended for reading, such as a book or article.",
+      "chineseTranslation": "读物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An interpretation or version of something, especially in a literary or performative context.",
+      "chineseTranslation": "解读或读法",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "gerund",
+      "definition": "The present participle form used as a noun, referring to the activity of perusing text.",
+      "chineseTranslation": "作为动名词的阅读活动",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reading comprehension",
+      "meaning": "阅读理解",
+      "example": "Improving reading comprehension is essential for academic success.",
+      "exampleTranslation": "提高阅读理解对学术成功至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "speed reading",
+      "meaning": "快速阅读",
+      "example": "Speed reading techniques can help you finish books faster.",
+      "exampleTranslation": "快速阅读技巧能帮助你更快地读完书籍。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "reading glasses",
+      "meaning": "阅读眼镜",
+      "example": "He uses reading glasses to read small print.",
+      "exampleTranslation": "他使用阅读眼镜来阅读小字体。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Daily reading of newspapers keeps me informed about current events.",
+      "translation": "每天阅读报纸让我了解时事。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her reading of the poem brought out its emotional depth.",
+      "translation": "她对这首诗的解读突显了其情感深度。",
+      "source": "Literary work (e.g., based on Shakespearean analysis)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the library, silent reading is encouraged to maintain a peaceful atmosphere.",
+      "translation": "在图书馆，鼓励安静阅读以保持宁静氛围。",
+      "source": "Educational context (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "rǣdan",
+        "meaning": "to advise, consider, or read",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "The word derives from Old English 'rǣding', a nominal form of 'rǣdan', which originally meant 'to counsel or interpret'. Over time, through Middle English evolution, it narrowed to focus on interpreting written texts, reflecting the spread of literacy in medieval Europe.",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "reader",
+      "readable",
+      "reread"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2 (1-10)",
+    "spellingDifficulty": "3 (1-10)",
+    "meaningComplexity": "5 (1-10)",
+    "usageComplexity": "4 (1-10)",
+    "learningTips": [
+      "结合认知科学，建议通过间隔重复法（spaced repetition）记忆词汇的多义性；将'reading'与个人阅读经历关联，以加强 episodic memory；对于中文母语学习者，比较英语和中文阅读概念以减少跨语言干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "perusal",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述仔细阅读文件"
+      },
+      {
+        "word": "study",
+        "similarity": "0.7",
+        "context": "在教育语境中表示深入阅读和学习"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignorance",
+        "context": "在文化语境中，表示缺乏阅读或知识"
+      },
+      {
+        "word": "illiteracy",
+        "context": "在社会语境中，与阅读能力缺失相对"
+      }
+    ],
+    "hypernyms": [
+      "activity",
+      "interpretation"
+    ],
+    "hyponyms": [
+      "silent reading",
+      "loud reading"
+    ],
+    "collocations": [
+      {
+        "pattern": "reading + noun (e.g., reading material)",
+        "examples": [
+          "reading list",
+          "reading habit"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + reading (e.g., enjoy reading)",
+        "examples": [
+          "practice reading"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征教育和知识获取，在中国文化中与'读书'类似，代表个人修养和道德提升。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调文学阅读，如'public reading' in British libraries",
+        "usage": "在英国，常用于正式文化活动，如诗歌朗诵"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重实用阅读，如'educational reading' in schools",
+        "usage": "在美国，常见于日常学习语境中，促进独立思考"
+      }
+    ],
+    "historicalContext": "与欧洲文艺复兴时期 literacy 运动相关，在中国则联结到古代科举制度，强调阅读作为社会阶梯。",
+    "modernUsage": "在社交媒体时代，'reading' 常用于数字语境，如在线阅读或电子书，在全球青年文化中推广为休闲活动。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个安静的图书馆场景，一个人手持书籍，灯光柔和地照在页面上。",
+      "keyElements": [
+        "书籍",
+        "灯光",
+        "安静环境"
+      ],
+      "emotionalConnection": "联结到个人童年阅读经历的温暖回忆，以触发积极情绪强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'reading' as 'reed-ing', like reeds in a river flowing with words.",
+        "explanation": "通过视觉联想将词汇与自然意象连接，运用认知联想原理增强长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-A-D: Reading Enhances All Development.",
+        "explanation": "使用首字母缩略词结合个人目标，基于认知科学的空间记忆策略。"
+      }
+    ],
+    "wordAssociations": [
+      "book",
+      "learn",
+      "knowledge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "readings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "reading (as verb form)",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + reading",
+        "description": "主语 + 动词 + reading 作为宾语",
+        "examples": [
+          "I enjoy reading novels."
+        ]
+      },
+      {
+        "pattern": "Reading + as gerund",
+        "description": "reading 作为动名词置于句首",
+        "examples": [
+          "Reading is fundamental to learning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'reading' with 'redding' (a proper noun)",
+        "correction": "Use 'reading' for the activity",
+        "explanation": "中文学习者常因音似错误混淆，需注意语音区分。"
+      },
+      {
+        "mistake": "Incorrectly using as verb without context",
+        "correction": "Ensure proper gerund usage",
+        "explanation": "在句法中，reading 需与上下文匹配，避免孤立使用。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "教育",
+      "文学",
+      "日常生活"
+    ],
+    "tags": [
+      "教育",
+      "认知",
+      "文化"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

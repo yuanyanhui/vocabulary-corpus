@@ -1,0 +1,235 @@
+{
+  "word": "percentile",
+  "phonetics": {
+    "british": "/pərˈsɛntaɪl/",
+    "american": "/pərˈsɛntl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure used in statistics that indicates the value below which a given percentage of observations in a group fall; for example, the 90th percentile is the value below which 90% of the observations may be found.",
+      "chineseTranslation": "百分位数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "50th percentile",
+      "meaning": "第五十百分位数，通常表示中位数",
+      "example": "The 50th percentile of the test scores is 75, meaning half the students scored below this.",
+      "exampleTranslation": "测试成绩的第五十百分位数是75，这意味着一半的学生得分低于这个数。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "percentile rank",
+      "meaning": "百分位数排名，表示在群体中的相对位置",
+      "example": "Her percentile rank in the class is 85, showing she performed better than 85% of her peers.",
+      "exampleTranslation": "她在班级的百分位数排名是85，这表明她比85%的同学表现更好。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In educational assessments, the 95th percentile often indicates exceptional performance.",
+      "translation": "在教育评估中，第九十五百分位数通常表示出色的表现。",
+      "source": "Educational psychology texts, such as from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The doctor explained that my child's height is in the 75th percentile for his age group.",
+      "translation": "医生解释说，我孩子的身高处于他这个年龄组的第七十五百分位数。",
+      "source": "Health and medical literature, e.g., from PubMed",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Economists use percentiles to analyze income distribution in a population.",
+      "translation": "经济学家使用百分位数来分析人口中的收入分布。",
+      "source": "News articles, e.g., from BBC or The New York Times",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and English",
+    "rootWords": [
+      {
+        "root": "percent",
+        "meaning": "per hundred",
+        "language": "Latin (from 'per centum')"
+      },
+      {
+        "root": "-ile",
+        "meaning": "a suffix indicating a statistical division",
+        "language": "English (derived from French or Latin influences in statistics)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪初的统计学领域，由'percent'（源自拉丁语，表示每百）与'-ile'（表示分位，如quartile）结合而成，早先用于描述数据分布的量化方法，随着统计学的现代化发展，它从单纯的数学概念演变为社会科学和教育中的标准术语。",
+    "firstKnownUse": "Early 20th century (around 1910, as per OED records)",
+    "relatedWords": [
+      "quartile",
+      "decile",
+      "quintile"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR标准，根据统计和学术词汇的复杂性)",
+    "pronunciationDifficulty": "6 (1-10 量表，涉及元音和辅音组合如 /ˈsɛntaɪl/，对中文母语者可能因英式与美式差异而增加难度)",
+    "spellingDifficulty": "5 (拼写相对直观，但 '-ile' 结尾易与类似词混淆)",
+    "meaningComplexity": "7 (语义依赖统计背景，需理解百分比和分布概念)",
+    "usageComplexity": "6 (多用于正式语境，需要正确搭配数字和语境)",
+    "learningTips": [
+      "使用分块记忆法将'percent'与日常生活中的百分比关联，并通过认知科学原理如重复间隔学习来强化统计语境的理解；建议结合视觉图表如直方图来构建心智模型，以提升记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quantile",
+        "similarity": "0.8",
+        "context": "适用于统计分析中数据分位的语境，例如在研究数据分布时"
+      },
+      {
+        "word": "percentile point",
+        "similarity": "0.9",
+        "context": "在教育或健康评估中，表示具体百分位值"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mean",
+        "context": "在统计中，'mean'表示平均值，与'percentile'的分布位置概念相对"
+      },
+      {
+        "word": "median",
+        "context": "虽然相关，但'percentile'可用于描述中位数以外的分布，而'median'具体指50th percentile"
+      }
+    ],
+    "hypernyms": [
+      "statistical measure"
+    ],
+    "hyponyms": [
+      "25th percentile",
+      "75th percentile"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + percentile (e.g., 90th percentile)",
+        "examples": [
+          "the 90th percentile of income"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Percentile + in + context",
+        "examples": [
+          "percentile in a dataset"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征数据驱动决策，尤其在教育和健康领域，体现出对量化分析的重视；在中文文化中，类似概念用于高考排名或经济增长分析，隐含竞争和比较的语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于教育和商业语境",
+        "usage": "例如，在标准化测试中描述学生表现"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向学术和研究语境",
+        "usage": "如在社会科学报告中"
+      }
+    ],
+    "historicalContext": "与19世纪的统计学革命相关，源于高斯和Pearson等科学家的贡献，在工业革命后成为社会阶层和教育评估的工具。",
+    "modernUsage": "在社交媒体和数字时代，常见于数据可视化和AI算法中，如Netflix推荐系统的用户行为分析。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个百格图表，其中每一格代表1%，'percentile'就像标记特定格子的指针。",
+      "keyElements": [
+        "百格图表",
+        "指针标记",
+        "百分比标签"
+      ],
+      "emotionalConnection": "联结到个人经历，如查看考试成绩排名时感受到的成就感或压力"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'percentile'想象为'percent tile'，如瓷砖（tile）铺满100%的地板。",
+        "explanation": "通过视觉联想强化记忆，利用认知科学中的双编码效应（视觉与语言结合）"
+      },
+      {
+        "type": "缩略",
+        "content": "P for Percent and Position",
+        "explanation": "简化为首字母缩写，帮助快速回想其在数据位置中的作用"
+      }
+    ],
+    "wordAssociations": [
+      "percentage",
+      "rank",
+      "distribution"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "percentiles",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Determiner + Ordinal Number + Percentile + of + Noun",
+        "description": "典型结构用于指定分位，例如'the 90th percentile of scores'",
+        "examples": [
+          "The 75th percentile of heights is above average."
+        ]
+      },
+      {
+        "pattern": "Subject + Verb + Percentile",
+        "description": "用于描述语境，例如'Her score falls in the 90th percentile.'",
+        "examples": [
+          "Data points are analyzed using percentiles."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing percentile with percentage",
+        "correction": "Use percentile for statistical ranking, not just ratios",
+        "explanation": "中文学习者常混淆，因为两者都涉及百分比；需理解percentile表示分布位置而非简单比例"
+      },
+      {
+        "mistake": "Incorrect ordinal usage",
+        "correction": "Always use with correct ordinal numbers, e.g., '90th' not '90'",
+        "explanation": "错误可能源于数字表达习惯，导致语义模糊"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in academic domains)",
+    "domains": [
+      "statistics",
+      "education",
+      "health",
+      "business"
+    ],
+    "tags": [
+      "mathematics",
+      "data analysis",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

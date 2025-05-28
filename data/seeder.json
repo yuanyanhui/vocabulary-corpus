@@ -1,0 +1,255 @@
+{
+  "word": "seeder",
+  "phonetics": {
+    "british": "/ˈsiːdər/",
+    "american": "/ˈsiːdər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine or device used for sowing seeds in agriculture.",
+      "chineseTranslation": "播种机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a user or node that uploads data to a peer-to-peer network, such as in file sharing.",
+      "chineseTranslation": "种子用户（在P2P网络中提供数据的用户）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A plant or entity that produces seeds.",
+      "chineseTranslation": "种子生产者",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hand seeder",
+      "meaning": "手动播种机",
+      "example": "The gardener used a hand seeder to plant flower seeds in the pots.",
+      "exampleTranslation": "园丁使用手动播种机在花盆中播种花籽。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "seed seeder",
+      "meaning": "种子播种装置",
+      "example": "The seed seeder was adjusted for optimal planting depth.",
+      "exampleTranslation": "种子播种装置被调整到最佳播种深度。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "torrent seeder",
+      "meaning": "种子用户（在文件共享中）",
+      "example": "A torrent seeder must keep their connection active to share the file.",
+      "exampleTranslation": "种子用户必须保持连接活跃以分享文件。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmer attached the seeder to the tractor for efficient planting.",
+      "translation": "农民将播种机连接到拖拉机上以实现高效播种。",
+      "source": "Agricultural manual (based on modern farming literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In online communities, a seeder helps distribute large files quickly.",
+      "translation": "在在线社区中，种子用户帮助快速分发大文件。",
+      "source": "Tech blog (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She designed a simple seeder for her community garden project.",
+      "translation": "她为社区花园项目设计了一个简单的播种机。",
+      "source": "Contemporary literature",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语",
+    "rootWords": [
+      {
+        "root": "seed",
+        "meaning": "种子",
+        "language": "古英语（Old English）"
+      }
+    ],
+    "historicalDevelopment": "源自古英语的 'sǣd'，意为 '种子'，逐渐演变为现代英语 'seeder'，表示播种或提供种子的工具或实体。从中世纪农业实践演变而来，在工业革命期间与机械化农业相关联。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "sower",
+      "seeding",
+      "seedling"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR等级，适合中等水平学习者)",
+    "pronunciationDifficulty": "4 (1-10 评分体系，基于音节简单且常见发音模式)",
+    "spellingDifficulty": "3 (拼写规则常规，无不寻常字母组合)",
+    "meaningComplexity": "6 (语义可能涉及多个领域，如农业或技术，需要上下文理解)",
+    "usageComplexity": "5 (使用时需考虑语境，但句法简单)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'seeder' 与 'seed' 关联，创建视觉图像如农民操作机器；使用间隔重复系统（spaced repetition）强化记忆，避免混淆与类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sower",
+        "similarity": "0.8",
+        "context": "适用于农业语境中，表示播种工具或人"
+      },
+      {
+        "word": "planter",
+        "similarity": "0.7",
+        "context": "在园艺或农业中，表示类似功能的设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harvester",
+        "context": "适用于农业语境中，表示收获而非播种的工具"
+      },
+      {
+        "word": "reaper",
+        "context": "在技术或农业中，表示收集而非提供数据的实体"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "device"
+    ],
+    "hyponyms": [
+      "mechanical seeder",
+      "hand-held seeder"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + seeder (e.g., grain seeder)",
+        "examples": [
+          "grain seeder",
+          "lawn seeder"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + seeder (e.g., use a seeder)",
+        "examples": [
+          "operate a seeder"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方农业文化中，'seeder' 象征现代化农业的进步，代表从手工劳作向机械化的转变，常与工业革命和乡村生活相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于农业机械语境",
+        "usage": "在美国中西部农场文化中，'seeder' 是日常工具，常出现在农业展览或社区活动中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于园艺或小规模农业",
+        "usage": "在英国乡村语境中，'seeder' 与传统园艺实践相关联，较少用于大规模技术应用"
+      }
+    ],
+    "historicalContext": "与18世纪英国的农业革命相关，'seeder' 反映了从手工播种到机械化的历史演变，在文学作品如托马斯·哈代的著作中出现，象征社会变革。",
+    "modernUsage": "在当代社交媒体和科技平台上，'seeder' 常用于在线共享语境，如BitTorrent，常在数字文化中传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个农民在田地里使用机器播种种子，机器像雨点般洒下种子。",
+      "keyElements": [
+        "农民",
+        "机器",
+        "种子",
+        "田地"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年观看农业视频，触发积极的成长和收获情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'seeder' 联想为 'seed + er'，表示 '种子的人' 或 '种子机器'。",
+        "explanation": "通过词根分解增强记忆，符合认知联想原则，帮助初级学习者建立直观连接。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈsiːdər/' 听起来像 'see + der'，想象 '看到种子落下'。",
+        "explanation": "利用多感官学习，结合视觉和听觉以强化长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "seed",
+      "sow",
+      "plant"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "seeders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + seeder",
+        "description": "主语 + 动词 + seeder 的结构，常用于描述使用工具的句子。",
+        "examples": [
+          "The farmer uses a seeder."
+        ]
+      },
+      {
+        "pattern": "Adjective + seeder",
+        "description": "形容词 + seeder 的结构，用于修饰工具的特性。",
+        "examples": [
+          "An efficient seeder was purchased."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'cedar' (a type of tree)",
+        "correction": "Use 'seeder' only for sowing devices",
+        "explanation": "错误源于发音相似，学习者应注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "seeders",
+        "explanation": "作为可数名词，需正确添加 -s，但避免与其他词汇混淆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA语料库中排名约中等水平，在农业和科技领域）",
+    "domains": [
+      "农业",
+      "技术",
+      "园艺"
+    ],
+    "tags": [
+      "工具",
+      "机械",
+      "数字共享"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

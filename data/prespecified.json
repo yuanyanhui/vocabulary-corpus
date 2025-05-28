@@ -1,0 +1,235 @@
+{
+  "word": "prespecified",
+  "phonetics": {
+    "british": "/ˌpriːˈspɛsɪfaɪd/",
+    "american": "/ˌpriːˈspɛsəˌfaɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "determined or specified in advance, often in a planned or predetermined manner",
+      "chineseTranslation": "预先指定的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prespecified parameters",
+      "meaning": "预先指定的参数",
+      "example": "The system uses prespecified parameters to optimize performance.",
+      "exampleTranslation": "系统使用预先指定的参数来优化性能。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "prespecified conditions",
+      "meaning": "预先指定的条件",
+      "example": "The experiment followed prespecified conditions to ensure accuracy.",
+      "exampleTranslation": "实验遵循预先指定的条件以确保准确性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In software development, prespecified requirements help avoid scope creep.",
+      "translation": "在软件开发中，预先指定的要求有助于避免范围蔓延。",
+      "source": "Technical documentation (e.g., from software engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The contract included prespecified deadlines for all project milestones.",
+      "translation": "合同中包含了所有项目里程碑的预先指定截止日期。",
+      "source": "Business and legal contexts (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers must adhere to prespecified protocols in clinical trials.",
+      "translation": "研究人员必须遵守临床试验中的预先指定协议。",
+      "source": "Scientific literature (e.g., academic papers)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "pre-",
+        "meaning": "before, in advance",
+        "language": "Latin (from 'prae-')"
+      },
+      {
+        "root": "specify",
+        "meaning": "to name or state explicitly",
+        "language": "Latin (from 'specificare', meaning to make specific)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪晚期英语，由'pre-'（表示提前）和'specify'（源自拉丁语specere，意为查看或指定）组合而成。它在20世纪随着技术语言的发展而普及，用于描述预先确定的过程，从最初的科学和技术语境扩展到现代商业和管理领域。",
+    "firstKnownUse": "Late 19th century",
+    "relatedWords": [
+      "specify",
+      "specified",
+      "specification",
+      "preschedule"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经验关联，例如想象一个'pre-'表示提前准备的场景，如预订机票，然后联结'specified'的明确性，以增强记忆；使用间隔重复法（spaced repetition）来强化词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "predetermined",
+        "similarity": "0.8",
+        "context": "适用于正式语境中需要强调提前决定的情况，如计划或协议"
+      },
+      {
+        "word": "predefined",
+        "similarity": "0.9",
+        "context": "常用于技术或计算机语境中，表示事先设定的规则或值"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unspecified",
+        "context": "适用于需要表示未明确定义或随机的语境"
+      },
+      {
+        "word": "ad hoc",
+        "context": "在临时决策或非预先计划的商业或技术语境中使用"
+      }
+    ],
+    "hypernyms": [
+      "specified"
+    ],
+    "hyponyms": [
+      "preset"
+    ],
+    "collocations": [
+      {
+        "pattern": "prespecified + noun (e.g., parameters, conditions)",
+        "examples": [
+          "prespecified parameters",
+          "prespecified rules"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + prespecified (e.g., follow prespecified)",
+        "examples": [
+          "adhere to prespecified protocols"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要体现为技术和管理领域的实用性象征，强调计划性和精确性，与西方文化中注重效率和预见性的价值观相呼应，但无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业，如软件和工程",
+        "usage": "在美国英语中，常见于商业文件和科技报告中，以突出预先设定的标准"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，常出现在学术和法律语境，以强调结构化过程"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学管理（如泰勒制）相关，反映了19世纪末以来英语文化对系统化和预先规划的强调。",
+    "modernUsage": "在社交媒体和数字平台上，常见于专业讨论，如AI和数据科学，但较少在非正式对话中使用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一位工程师在会议前提前标记好所有项目细节，就如同在地图上预先指定路线。",
+      "keyElements": [
+        "提前标记",
+        "地图路线",
+        "项目细节"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己预订旅行计划时的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pre-指定：Pre像准备（prepare），specified像指定（specify），所以prespecified就是提前指定。",
+        "explanation": "通过视觉联想将'pre-'与准备行动连接，增强词汇在认知网络中的位置。"
+      },
+      {
+        "type": "缩略",
+        "content": "PS为Prespecified，联想到'Plan Something'。",
+        "explanation": "利用缩略词创建简易记忆钩子，基于认知负荷理论减少学习压力。"
+      }
+    ],
+    "wordAssociations": [
+      "predefined",
+      "preset",
+      "planned"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more prespecified",
+      "superlative": "most prespecified"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，强调预先确定的属性",
+        "examples": [
+          "prespecified requirements"
+        ]
+      },
+      {
+        "pattern": "In + prespecified + context",
+        "description": "用于描述特定语境中的使用",
+        "examples": [
+          "in prespecified scenarios"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'specified' without 'pre-'",
+        "correction": "Use 'prespecified' for advance specification",
+        "explanation": "学习者常忽略'pre-'的前缀，导致语义不精确；建议通过词根分析避免。"
+      },
+      {
+        "mistake": "Incorrect word order",
+        "correction": "Place before the noun it modifies",
+        "explanation": "在句法结构中，形容词应置于名词前，以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "工程"
+    ],
+    "tags": [
+      "技术术语",
+      "管理",
+      "规划"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

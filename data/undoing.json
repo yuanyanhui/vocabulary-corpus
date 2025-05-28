@@ -1,0 +1,243 @@
+{
+  "word": "undoing",
+  "phonetics": {
+    "british": "/ʌnˈduːɪŋ/",
+    "american": "/ʌnˈduɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the process of reversing or canceling an action, often used in computing or everyday contexts",
+      "chineseTranslation": "撤销或取消过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "something that leads to a person's downfall or ruin",
+      "chineseTranslation": "导致某人毁灭或失败的事物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be one's undoing",
+      "meaning": "成为某人毁灭的原因",
+      "example": "His gambling habit was his undoing.",
+      "exampleTranslation": "他的赌博习惯导致了他的毁灭。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "undoing a mistake",
+      "meaning": "纠正错误的过程",
+      "example": "In editing software, undoing a mistake is as simple as pressing Ctrl+Z.",
+      "exampleTranslation": "在编辑软件中，撤销错误只需按Ctrl+Z即可。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software allows users to perform an undoing of their last action with a single click.",
+      "translation": "该软件允许用户通过单击来撤销上一个操作。",
+      "source": "Technical manual (e.g., from software documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Pride can be a person's undoing if it blinds them to their weaknesses.",
+      "translation": "骄傲可能成为某人的毁灭，如果它使他们忽略了自己的弱点。",
+      "source": "Literature (e.g., inspired by Shakespearean themes)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the meeting, she regretted her words but found no way of undoing the damage.",
+      "translation": "在会议中，她后悔自己的话，但找不到办法撤销造成的伤害。",
+      "source": "Modern fiction",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not or reversal",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "dōn",
+        "meaning": "to do",
+        "language": "Old English (from Proto-Germanic *dōną)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'undōn'，最初意为 '取消或破坏某事'。在中古英语时期，该词演变为动词形式，并衍生出名词 'undoing'，用于表示逆转过程或导致毁灭的事物。在现代英语中，它常用于计算环境和比喻意义上，如在莎士比亚作品中描述个人缺陷。",
+    "firstKnownUse": "约公元1000年，在古英语文献中",
+    "relatedWords": [
+      "undo",
+      "undone",
+      "redoing"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于音节结构简单，但元音和重音可能对中文母语者造成混淆)",
+    "spellingDifficulty": "3 (拼写规则直观，但 'u' 和 'i' 的组合需注意)",
+    "meaningComplexity": "6 (语义多层，包括字面和比喻义，需理解上下文)",
+    "usageComplexity": "5 (常用于不同语域，但比喻用法需文化背景)",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将 'undoing' 与 'undo' 关联；通过视觉想象一个 '撤销按钮' 的场景，以强化神经路径；建议初级学习者从重复例句入手，逐步构建语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reversal",
+        "similarity": "0.8",
+        "context": "适用于技术语境中，表示撤销动作"
+      },
+      {
+        "word": "downfall",
+        "similarity": "0.7",
+        "context": "适用于比喻语境中，表示导致失败"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "achievement",
+        "context": "在成功与失败对比的语境中"
+      },
+      {
+        "word": "confirmation",
+        "context": "在技术语境中，表示确认而非撤销"
+      }
+    ],
+    "hypernyms": [
+      "action",
+      "process"
+    ],
+    "hyponyms": [
+      "error correction",
+      "ruin"
+    ],
+    "collocations": [
+      {
+        "pattern": "be + undoing + of",
+        "examples": [
+          "It was the undoing of his career."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "undoing + action",
+        "examples": [
+          "Undoing the changes in the document."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常用于文学和戏剧中象征个人缺陷或命运转折，例如在莎士比亚作品中，'undoing' 隐含宿命论，提醒人们行为后果。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或文学语境",
+        "usage": "在英国英语中，常见于历史小说中强调道德教训"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于日常和技术语境",
+        "usage": "在美式英语中，特别是在科技领域，如软件界面，常以简洁方式使用"
+      }
+    ],
+    "historicalContext": "与英国文艺复兴时期文学相关，如莎士比亚戏剧中描述人物的悲剧性缺陷；在现代社会中，与个人责任和数字时代纠错文化相关。",
+    "modernUsage": "在社交媒体和科技语境下流行，例如 TikTok 或 Twitter 上讨论 'life's undoing'，反映当代心理健康话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电脑屏幕上有一个大的 '撤销' 按钮，旁边是一个人物因错误而跌倒的场景。",
+      "keyElements": [
+        "撤销按钮",
+        "跌倒人物",
+        "错误符号"
+      ],
+      "emotionalConnection": "联结个人经历，如曾经犯错并改正，触发后悔与救赎的情绪，以增强记忆持久性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'undoing' 联想为 'un-doing'，就像用魔术擦除笔误。",
+        "explanation": "通过视觉联想强化词根记忆，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ʌnˈduɪŋ/' 联想为 'un-do-ring'，像摘掉一个戒指象征去除错误。",
+        "explanation": "利用声音与动作的联结，促进海马体记忆形成"
+      }
+    ],
+    "wordAssociations": [
+      "undo",
+      "ruin",
+      "correct"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "undoings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + undoing + of + object",
+        "description": "用于比喻结构，表示某事导致毁灭",
+        "examples": [
+          "Greed was his undoing."
+        ]
+      },
+      {
+        "pattern": "Verb + undoing + object",
+        "description": "用于动作结构，表示撤销过程",
+        "examples": [
+          "She performed the undoing of the knot."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'undoing' with 'undo'",
+        "correction": "Use 'undoing' as a noun for the process",
+        "explanation": "中文母语者常混淆动词和名词形式；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add '-s' for plural, e.g., 'undoings'",
+        "explanation": "英语名词规则需记忆，避免直接翻译"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约 5000 以内",
+    "domains": [
+      "文学",
+      "技术",
+      "心理学"
+    ],
+    "tags": [
+      "动作",
+      "比喻",
+      "纠错"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

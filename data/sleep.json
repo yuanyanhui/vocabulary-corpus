@@ -1,0 +1,282 @@
+{
+  "word": "sleep",
+  "phonetics": {
+    "british": "/sliːp/",
+    "american": "/sliːp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A natural periodic state of rest for the mind and body, during which voluntary muscles are relaxed, consciousness is suspended, and there is a decrease in metabolic activity.",
+      "chineseTranslation": "睡眠",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To be in a state of sleep; to rest with the eyes closed in a state of reduced consciousness, typically for several hours.",
+      "chineseTranslation": "睡觉",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide sleeping accommodation for someone; to accommodate in a place for rest.",
+      "chineseTranslation": "提供住宿或休息场所",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to sleep",
+      "meaning": "入睡或开始睡觉",
+      "example": "The children go to sleep after reading a bedtime story.",
+      "exampleTranslation": "孩子们在听完睡前故事后入睡。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "get some sleep",
+      "meaning": "得到一些睡眠或休息",
+      "example": "You should get some sleep before the long drive tomorrow.",
+      "exampleTranslation": "在明天长途驾驶前，你应该得到一些睡眠。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sleep in",
+      "meaning": "睡懒觉或比平时晚起床",
+      "example": "On weekends, I like to sleep in and relax.",
+      "exampleTranslation": "在周末，我喜欢睡懒觉并放松。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lose sleep over",
+      "meaning": "为某事担心而失眠",
+      "example": "Don't lose sleep over the small mistakes; they'll be fixed.",
+      "exampleTranslation": "不要为小错误而失眠；它们会得到修复。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After a long day at work, I need a good night's sleep to recharge.",
+      "translation": "工作一天后，我需要一个良好的夜晚睡眠来充电。",
+      "source": "Modern everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The doctor advised him to get at least eight hours of sleep per night for better health.",
+      "translation": "医生建议他每晚至少睡眠八小时以改善健康。",
+      "source": "Health and wellness articles (e.g., from WebMD)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some cultures, people sleep outdoors during festivals to connect with nature.",
+      "translation": "在某些文化中，人们在节日期间睡在户外以与自然连接。",
+      "source": "Cultural anthropology texts (e.g., based on ethnographic studies)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The research on sleep patterns reveals how REM sleep affects memory consolidation.",
+      "translation": "关于睡眠模式的研究揭示了快速眼动睡眠如何影响记忆巩固。",
+      "source": "Scientific literature (e.g., from journals like Nature)",
+      "difficulty": "academic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "slēpan",
+        "meaning": "to sleep",
+        "language": "Old English"
+      },
+      {
+        "root": "slēp",
+        "meaning": "sleep (noun)",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "The word 'sleep' evolved from the Proto-Germanic root '*slēpaną', meaning 'to sleep', which traces back to the Proto-Indo-European '*slēb-', related to slipping or sliding into a state of rest. In Old English, it appeared as 'slēpan' for the verb and 'slēp' for the noun. Over time, through Middle English 'slepen', it standardized to modern English 'sleep', expanding from a physical state to include metaphorical uses in literature and psychology.",
+    "firstKnownUse": "Before 12th century (as recorded in Old English texts)",
+    "relatedWords": [
+      "asleep",
+      "sleepless",
+      "dormant"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过认知科学原理，如重复间隔学习，将 'sleep' 与日常生活场景结合，例如每天回顾与睡眠相关的例句，以加强记忆路径；",
+      "使用双编码技术，将词汇与视觉图像配对，例如想象一个床铺场景来关联发音和含义；",
+      "针对母语为中文的学习者，比较 'sleep' 与 '睡觉' 的异同，以减少干扰效应"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nap",
+        "similarity": "0.7",
+        "context": "适用于短暂休息的语境，例如午睡"
+      },
+      {
+        "word": "rest",
+        "similarity": "0.6",
+        "context": "在放松或恢复体力的语境中，例如日常对话"
+      },
+      {
+        "word": "doze",
+        "similarity": "0.8",
+        "context": "轻度睡眠的语境，例如在交通工具上"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wake",
+        "context": "从睡眠中醒来的语境"
+      },
+      {
+        "word": "awaken",
+        "context": "表示警觉或活跃状态的语境"
+      }
+    ],
+    "hypernyms": [
+      "rest"
+    ],
+    "hyponyms": [
+      "REM sleep",
+      "deep sleep"
+    ],
+    "collocations": [
+      {
+        "pattern": "sleep + adverb/preposition",
+        "examples": [
+          "sleep deeply",
+          "sleep through the night"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + sleep",
+        "examples": [
+          "get sleep",
+          "need sleep"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在许多文化中，'sleep' 象征休息、恢复和梦境，隐含语义包括精神健康；在西方文化中，它常与个人主义相关，而在东方文化如中国，可能与家庭和谐或传统习俗（如午睡）相关。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常使用 'kipping' 在非正式语境",
+        "usage": "在英国俚语中，'kipping' 表示快速入睡，常用于口语"
+      },
+      {
+        "region": "United States",
+        "variation": "强调 'power nap' 的现代用法",
+        "usage": "在美国商业环境中，'sleep' 常与效率相关，如短暂午睡以提升生产力"
+      }
+    ],
+    "historicalContext": "在文学作品中，如莎士比亚的《哈姆雷特》，'sleep' 与死亡或永恒休息相关；在工业革命时期，它与劳工权利（如睡眠时间）有关。",
+    "modernUsage": "在社交媒体上，'sleep' 常用于讨论心理健康趋势，如 #SleepHygiene，在数字时代强调了其与工作生活平衡的关联。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个安静的卧室场景，床上有一张舒适的床铺，周围是柔和的灯光和枕头。",
+      "keyElements": [
+        "床铺",
+        "枕头",
+        "灯光"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年入睡的温暖感觉，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'sleep' 联想为 'S-L-E-E-P' 代表 'Soft bed, Lovely dreams, Every Evening, Peaceful rest'",
+        "explanation": "通过视觉和语义联想，帮助学习者建立多维记忆路径，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "聆听 'sleep' 的发音时，想象轻柔的雨声，因为两者都给人平静感。",
+        "explanation": "利用联觉原理，将声音与感官体验结合，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "dream",
+      "bed",
+      "rest",
+      "nap"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "slept",
+      "pastParticiple": "slept",
+      "presentParticiple": "sleeping",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + adverb",
+        "description": "主语 + 动词 + 副词结构，用于描述睡眠方式",
+        "examples": [
+          "She sleeps deeply."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "动词 + 宾语结构，用于表示提供睡眠",
+        "examples": [
+          "The hotel sleeps up to 100 guests."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'sleeps' instead of 'slept' in past tense",
+        "correction": "Use 'slept' for past tense",
+        "explanation": "学习者常混淆不规则动词形式；通过练习过去时句子可避免"
+      },
+      {
+        "mistake": "Confusing with 'asleep' as a verb",
+        "correction": "Use 'sleep' as the verb; 'asleep' is an adjective",
+        "explanation": "中文学习者可能受母语影响，将形容词误用为动词；需区分词性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 100 in general corpora (e.g., COCA rank: 85)",
+    "domains": [
+      "health",
+      "daily life",
+      "psychology",
+      "literature"
+    ],
+    "tags": [
+      "verb",
+      "noun",
+      "basic vocabulary",
+      "well-being"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

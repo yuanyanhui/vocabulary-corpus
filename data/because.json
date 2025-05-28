@@ -1,0 +1,266 @@
+{
+  "word": "because",
+  "phonetics": {
+    "british": "/bɪˈkɒz/",
+    "american": "/bɪˈkɔːz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used to introduce a clause that gives the reason for something.",
+      "chineseTranslation": "因为",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "In informal contexts, used to explain or justify an action or state.",
+      "chineseTranslation": "由于",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "preposition (in phrases like 'because of')",
+      "definition": "On account of; due to.",
+      "chineseTranslation": "因为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "because of",
+      "meaning": "由于……的原因",
+      "example": "The game was canceled because of the rain.",
+      "exampleTranslation": "比赛因为雨水而取消了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "just because",
+      "meaning": "仅仅因为",
+      "example": "Just because you're tired doesn't mean you can skip the meeting.",
+      "exampleTranslation": "仅仅因为你累了并不意味着你可以跳过会议。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "because why",
+      "meaning": "为什么，因为什么（常用于非正式对话中寻求解释）",
+      "example": "You didn't go? Because why?",
+      "exampleTranslation": "你没去？因为什么？",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She stayed home because she was feeling ill.",
+      "translation": "她待在家里因为她感觉不舒服。",
+      "source": "Everyday conversation (based on COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The project failed because of poor planning and lack of resources.",
+      "translation": "项目失败了因为规划不当和资源不足。",
+      "source": "Business report (from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Because the evidence was inconclusive, the jury could not reach a verdict.",
+      "translation": "因为证据不充分，陪审团无法得出结论。",
+      "source": "Legal text (inspired by OED examples)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "I love this city because it's vibrant and full of surprises.",
+      "translation": "我喜欢这个城市因为它充满活力和惊喜。",
+      "source": "Travel blog (from modern online corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "by",
+        "meaning": "By means of or through",
+        "language": "Old English"
+      },
+      {
+        "root": "cause",
+        "meaning": "A reason or motive",
+        "language": "Old French (from Latin 'causa')"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的短语 'by cause'，逐渐演变为单一词 'because'，反映了英语中词汇简化的趋势。从最初表示 'by the cause of' 到现代用于引入原因从句，这种演变在14世纪后开始显现，随着印刷术的兴起而标准化。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "since",
+      "as",
+      "for"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复暴露法，将 'because' 与个人经历相关联，例如在日记中记录原因从句；结合视觉记忆，通过绘图展示因果关系以强化神经路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "since",
+        "similarity": "0.8",
+        "context": "适用于正式语境中解释原因，例如在学术写作中"
+      },
+      {
+        "word": "as",
+        "similarity": "0.7",
+        "context": "常用于非正式或叙述性语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "although",
+        "context": "用于表示对比或让步，例如在辩论中"
+      },
+      {
+        "word": "though",
+        "context": "在口语中表示例外情况"
+      }
+    ],
+    "hypernyms": [
+      "conjunctions indicating reason"
+    ],
+    "hyponyms": [
+      "causal conjunctions"
+    ],
+    "collocations": [
+      {
+        "pattern": "because + clause",
+        "examples": [
+          "because I said so",
+          "because of the weather"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "because of + noun",
+        "examples": [
+          "because of delays",
+          "because of him"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征因果逻辑的表达，常用于强调理性思考，但在跨文化语境中，中国学习者可能需注意其在西方辩论中的隐含语义，即直接陈述原因以推动讨论。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用在正式或书面语中",
+        "usage": "在英国英语中，常与复杂从句结合，体现历史文学传统"
+      },
+      {
+        "region": "美国",
+        "variation": "在口语中更随意，常用于日常对话",
+        "usage": "美国英语中，'because' 可能简化成 'cuz' 在非正式场合"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关的理性主义文化背景有关，在莎士比亚时代已广泛使用，体现了英语中因果关系的哲学重要性。",
+    "modernUsage": "在社交媒体如Twitter上，'because' 常用于幽默或简短解释，例如 'adulting because life'，反映当代数字文化的碎片化表达趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个链条连接两个事件：一个事件导致另一个，例如一个雨云导致雨伞打开。",
+      "keyElements": [
+        "链条",
+        "因果事件",
+        "连接符号"
+      ],
+      "emotionalConnection": "联结到个人童年经历，如父母解释原因的时刻，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'because' as 'B-Cause' – B for beginning, Cause for reason.",
+        "explanation": "通过词根联想增强记忆路径，基于认知科学中的语义网络理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /bɪˈkɒz/ 像 'big cause'，联想到一个重大事件。",
+        "explanation": "利用声音与视觉的联觉来强化短期记忆转化为长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "reason",
+      "why",
+      "cause",
+      "therefore"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + because + clause",
+        "description": "主句后跟原因从句",
+        "examples": [
+          "I am happy because it is Friday."
+        ]
+      },
+      {
+        "pattern": "Because + clause, + main clause",
+        "description": "原因从句置于句首",
+        "examples": [
+          "Because of the storm, the flight was delayed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'because' instead of 'because of' with nouns",
+        "correction": "Use 'because of' for nouns",
+        "explanation": "例如，错误地说 'Because the rain' 而非 'Because of the rain'；这源于对介词和连词的混淆"
+      },
+      {
+        "mistake": "Overusing in complex sentences",
+        "correction": "Balance with other conjunctions",
+        "explanation": "中国学习者可能过度依赖 'because' 翻译 '因为'，导致句子冗长；建议结合多样化连接词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 100 in general corpora (e.g., COCA rank: 50)",
+    "domains": [
+      "education",
+      "daily conversation",
+      "business",
+      "literature"
+    ],
+    "tags": [
+      "causal",
+      "conjunction",
+      "reasoning"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

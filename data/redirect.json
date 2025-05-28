@@ -1,0 +1,244 @@
+{
+  "word": "redirect",
+  "phonetics": {
+    "british": "/ˌriːdaɪˈrɛkt/",
+    "american": "/ˌriːdɪˈrɛkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send or direct something to a different place, path, or purpose, often in a literal or figurative sense.",
+      "chineseTranslation": "重定向；使转向",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An action or instance of redirecting, especially in computing or traffic management.",
+      "chineseTranslation": "重定向操作",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "redirect traffic",
+      "meaning": "引导交通流向另一条道路",
+      "example": "The police had to redirect traffic around the accident site.",
+      "exampleTranslation": "警察不得不将交通引导绕过事故现场。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "redirect a URL",
+      "meaning": "将网址重定向到另一个网址",
+      "example": "Web developers often redirect a URL to improve user experience.",
+      "exampleTranslation": "网页开发者经常将网址重定向以提升用户体验。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The website will automatically redirect you to the login page if you're not authenticated.",
+      "translation": "如果您未认证，网站将自动将您重定向到登录页面。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the meeting, the manager decided to redirect the team's efforts toward a new project.",
+      "translation": "在会议中，经理决定将团队的努力转向一个新项目。",
+      "source": "Business communication (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She tried to redirect the conversation away from sensitive topics.",
+      "translation": "她试图将对话从敏感话题上转移开。",
+      "source": "Informal dialogue (e.g., from everyday corpora)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "又，再",
+        "language": "Latin"
+      },
+      {
+        "root": "directus",
+        "meaning": "直的，引导",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 're-'（表示重复或返回）和 'directus'（源自 'dirigere'，意为引导或直行）。在中世纪拉丁语中演变为 'redirectus'，用于表示改变方向。17世纪进入英语，最初用于物理方向的改变，19世纪扩展到抽象和技术语境，如交通和计算。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "direct",
+      "redirection",
+      "redirector"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将 'redirect' 与视觉图像（如箭头转向）结合，并与母语词汇 '重定向' 建立双语联想；通过间隔重复系统复习以加强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reroute",
+        "similarity": "0.8",
+        "context": "适用于交通或数据传输语境，例如在道路规划中"
+      },
+      {
+        "word": "divert",
+        "similarity": "0.7",
+        "context": "常用于紧急情况或注意力转移"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maintain",
+        "context": "保持原有方向或路径的语境"
+      },
+      {
+        "word": "straighten",
+        "context": "纠正或直接化的语境"
+      }
+    ],
+    "hypernyms": [
+      "direct",
+      "guide"
+    ],
+    "hyponyms": [
+      "URL redirect",
+      "traffic redirect"
+    ],
+    "collocations": [
+      {
+        "pattern": "redirect + noun (e.g., traffic, attention)",
+        "examples": [
+          "redirect attention",
+          "redirect resources"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be redirected to",
+        "examples": [
+          "You will be redirected to the homepage."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征适应性和灵活性，尤其在技术领域代表数字导航的便利；在跨文化语境中，中国学习者可能将其与互联网审查或流量管理联系起来。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如网页重定向",
+        "usage": "在日常对话中强调效率和即时性"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于正式交通管理",
+        "usage": "在正式语境中更注重礼貌表达，如 'kindly redirect'"
+      }
+    ],
+    "historicalContext": "与工业革命时期的交通发展和现代互联网时代相关，反映了英语社会对效率和变革的强调。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于描述内容推送或用户引导趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头从一条路径转向另一条路径，比如道路上的交通标志。",
+      "keyElements": [
+        "箭头",
+        "转向",
+        "路径"
+      ],
+      "emotionalConnection": "联结到个人经历，如GPS导航时的 rerouting，触发成就感或挫败感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 're-' as 'again' and 'direct' as 'pointing finger', so redirect means pointing again in a new way.",
+        "explanation": "通过视觉联想建立神经连接，促进认知加工"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌriːdɪˈrɛkt/ 听起来像 'read a direct'，联想为阅读一个新方向的地图。",
+        "explanation": "利用声音与图像的联结，基于多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "reroute",
+      "divert",
+      "guide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "redirected",
+      "pastParticiple": "redirected",
+      "presentParticiple": "redirecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + redirect + object + to + location",
+        "description": "主语 + 重定向 + 宾语 + 到 + 地点",
+        "examples": [
+          "We redirect calls to the main office."
+        ]
+      },
+      {
+        "pattern": "Be redirected from + source",
+        "description": "被从来源重定向",
+        "examples": [
+          "The page was redirected from the old URL."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'redirect' without a preposition when needed",
+        "correction": "Add the appropriate preposition, e.g., 'redirect to'",
+        "explanation": "在英语中，'redirect' 常需搭配介词以表示方向，避免语义模糊"
+      },
+      {
+        "mistake": "Confusing with 'direct'",
+        "correction": "Use 'redirect' for changes in direction",
+        "explanation": "区分 'direct'（直接引导）和 'redirect'（重新引导），基于语境精确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "transportation",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "navigation",
+      "change"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

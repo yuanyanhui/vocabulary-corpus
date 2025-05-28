@@ -1,0 +1,265 @@
+{
+  "word": "dropout",
+  "phonetics": {
+    "british": "/ˈdrɒp.aʊt/",
+    "american": "/ˈdrɑːp.aʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who leaves school, college, or another educational program before completing it.",
+      "chineseTranslation": "辍学者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A technique in machine learning and neural networks where certain neurons are randomly ignored during training to prevent overfitting.",
+      "chineseTranslation": "丢弃法（在机器学习中）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who withdraws from conventional society or a particular activity.",
+      "chineseTranslation": "脱离者",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "high school dropout",
+      "meaning": "高中辍学者",
+      "example": "Many successful entrepreneurs were high school dropouts who pursued their passions instead.",
+      "exampleTranslation": "许多成功的企业家都是高中辍学者，他们转而追求自己的热情。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dropout rate",
+      "meaning": "辍学率",
+      "example": "The dropout rate in urban schools has decreased due to new educational policies.",
+      "exampleTranslation": "城市学校的辍学率由于新的教育政策而有所下降。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "neural network dropout",
+      "meaning": "神经网络中的丢弃法",
+      "example": "Implementing neural network dropout can significantly improve model generalization.",
+      "exampleTranslation": "实施神经网络丢弃法可以显著提高模型的泛化能力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After becoming a high school dropout, he started his own business and became a millionaire.",
+      "translation": "成为高中辍学者后，他创办了自己的企业并成为百万富翁。",
+      "source": "Biographical literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In deep learning, dropout is used to reduce the risk of overfitting on the training data.",
+      "translation": "在深度学习中，丢弃法用于减少训练数据过拟合的风险。",
+      "source": "Technical articles from sources like arXiv",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She's considered a social dropout because she prefers living off the grid.",
+      "translation": "她被视为社会脱离者，因为她更喜欢过离网生活。",
+      "source": "Modern fiction novels",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语",
+    "rootWords": [
+      {
+        "root": "drop",
+        "meaning": "落下或放弃",
+        "language": "古英语（Old English）"
+      },
+      {
+        "root": "out",
+        "meaning": "向外或离开",
+        "language": "古英语（Old English）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于古英语 'drop'（意为落下或放弃）和 'out'（意为离开），在19世纪中期开始用于教育语境中描述辍学行为。20世纪，随着机器学习的兴起，该词扩展到技术领域。最初用于比喻性地表示从系统中退出或排除。",
+    "firstKnownUse": "19世纪中期",
+    "relatedWords": [
+      "dropoutism",
+      "dropper",
+      "outcast"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个学生从学校大门走出去的场景，以增强记忆；对于中文学习者，建议通过比较相似词汇如 'quitter' 来建立语义网络，避免混淆多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quitter",
+        "similarity": "0.8",
+        "context": "在教育或个人发展语境中，表示主动放弃者"
+      },
+      {
+        "word": "withdrawer",
+        "similarity": "0.7",
+        "context": "在社会或心理语境中，表示从群体中脱离"
+      },
+      {
+        "word": "regularization technique",
+        "similarity": "0.9",
+        "context": "在技术语境中，指机器学习中的方法"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "graduate",
+        "context": "教育语境中，表示完成学业"
+      },
+      {
+        "word": "perseverer",
+        "context": "个人发展语境中，表示坚持者"
+      }
+    ],
+    "hypernyms": [
+      "failure",
+      "technique"
+    ],
+    "hyponyms": [
+      "school dropout",
+      "neural dropout"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + dropout (e.g., school dropout)",
+        "examples": [
+          "high school dropout",
+          "college dropout"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Dropout + in + context (e.g., dropout in machine learning)",
+        "examples": [
+          "dropout in neural networks"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与教育不平等和社会流动性相关，象征个人选择与系统失败的张力；在中文文化中，可能联想到'啃老族'或'创业者'的隐含语义，强调社会期望与个人自由的冲突。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于教育统计和励志故事",
+        "usage": "在美国英语中，常在政策讨论中出现，如针对贫困社区的辍学问题"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于社会排斥的含义",
+        "usage": "在英国英语中，与历史上的阶级系统相关，常见于文学作品中"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的教育改革相关，在20世纪的美国教育运动中流行，用于讨论青少年犯罪和社会问题；在现代，中国文化中，通过翻译引入，关联到高考压力和创业文化。",
+    "modernUsage": "在社交媒体和在线论坛中，'dropout' 常用于自嘲或励志分享，例如成功人士的'辍学故事'；在技术社区如GitHub上，指机器学习算法的流行趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个学生从学校大楼中走出的场景，身后留下一串掉落的书本，代表放弃。",
+      "keyElements": [
+        "学生",
+        "学校",
+        "掉落的书本"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年时的学习压力，触发共鸣以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Drop + out = 丢下输出",
+        "explanation": "通过视觉联想'丢下'和'输出'，帮助区分教育和技术的含义，利用认知科学中的空间记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "D-O: Drop Out – 代表'Detach and Overcome'",
+        "explanation": "创建缩略语以构建积极联想，基于情绪编码理论增强长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "quit",
+      "leave",
+      "overfitting",
+      "neural"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dropouts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + dropout",
+        "description": "用作主语或表语描述身份",
+        "examples": [
+          "He is a dropout from Harvard."
+        ]
+      },
+      {
+        "pattern": "Dropout + of + noun",
+        "description": "表示从特定环境中退出",
+        "examples": [
+          "Dropout of society is not uncommon in modern times."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'drop out' as a phrasal verb",
+        "correction": "Use 'dropout' as a noun, not as a verb form",
+        "explanation": "学习者常将之误解为动词短语；正确区分名词用法以避免语义错误"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify context, e.g., educational vs. technical",
+        "explanation": "中级学习者易混淆多义性；通过语境练习增强辨识"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "教育",
+      "技术",
+      "社会学"
+    ],
+    "tags": [
+      "教育术语",
+      "机器学习",
+      "社会行为"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

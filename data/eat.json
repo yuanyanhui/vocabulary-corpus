@@ -1,0 +1,272 @@
+{
+  "word": "eat",
+  "phonetics": {
+    "british": "/iːt/",
+    "american": "/iːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to take food into the mouth and swallow it for nourishment; to consume food",
+      "chineseTranslation": "吃；进食",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to have a meal or consume specific types of food, often in a social or habitual context",
+      "chineseTranslation": "进餐；食用特定食物",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to erode or wear away something gradually, as in corrosion (figurative use)",
+      "chineseTranslation": "侵蚀；腐蚀（比喻用法）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "eat out",
+      "meaning": "外出就餐",
+      "example": "We decided to eat out at a Italian restaurant last night.",
+      "exampleTranslation": "我们昨晚决定去一家意大利餐厅外出就餐。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "eat in",
+      "meaning": "在家进餐",
+      "example": "Due to the bad weather, we chose to eat in and order takeout.",
+      "exampleTranslation": "由于天气恶劣，我们选择在家进餐并叫外卖。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "eat up",
+      "meaning": "吃光；全部吃掉",
+      "example": "The children were told to eat up their vegetables before dessert.",
+      "exampleTranslation": "孩子们被告知要在吃甜点前吃光蔬菜。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I usually eat breakfast at 7 a.m. every day.",
+      "translation": "我通常每天早上7点吃早餐。",
+      "source": "Daily conversation (common in everyday English corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She doesn't eat meat for ethical reasons.",
+      "translation": "她出于道德原因不吃肉。",
+      "source": "Modern lifestyle discussions (e.g., from news articles in The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The acid will eat through the metal over time.",
+      "translation": "酸会随着时间侵蚀金属。",
+      "source": "Scientific literature (e.g., from academic texts in Corpus of Contemporary American English)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "They eat together as a family every Sunday to maintain traditions.",
+      "translation": "他们每周日作为家庭一起进餐以保持传统。",
+      "source": "Cultural narratives (e.g., from British National Corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "etan",
+        "meaning": "to eat",
+        "language": "Old English"
+      },
+      {
+        "root": "*etaną",
+        "meaning": "to eat",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "*ed-",
+        "meaning": "to eat or bite",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 etan，演变为中古英语 eten，最终发展为现代英语 eat。该词的含义从最初的简单进食行为扩展到比喻性的侵蚀过程，这反映了英语在工业革命后的语义扩展。",
+    "firstKnownUse": "Before 12th century (as recorded in the Oxford English Dictionary)",
+    "relatedWords": [
+      "edible",
+      "comestible",
+      "devour"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2 (out of 10, as the IPA /iːt/ is straightforward with common vowel sounds)",
+    "spellingDifficulty": "1 (out of 10, simple three-letter word with no irregularities)",
+    "meaningComplexity": "3 (out of 10, basic literal meaning but can extend to figurative uses for intermediate learners)",
+    "usageComplexity": "4 (out of 10, common in daily contexts but requires attention to collocations and idiomatic phrases)",
+    "learningTips": [
+      "利用认知科学中的重复间隔学习法，将'eat'与个人饮食习惯联想；例如，创建心智图，将其与日常餐食场景结合，以增强记忆编码和检索效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "consume",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如讨论饮食习惯"
+      },
+      {
+        "word": "devour",
+        "similarity": "0.7",
+        "context": "适用于强调快速或贪婪进食的非正式语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fast",
+        "context": "在饮食或宗教语境中，表示禁食"
+      },
+      {
+        "word": "starve",
+        "context": "在描述饥饿或禁食的极端情况下"
+      }
+    ],
+    "hypernyms": [
+      "ingest"
+    ],
+    "hyponyms": [
+      "devour",
+      "nibble",
+      "gorge"
+    ],
+    "collocations": [
+      {
+        "pattern": "eat + meal type (e.g., eat breakfast)",
+        "examples": [
+          "eat breakfast",
+          "eat dinner"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "eat + food type (e.g., eat fruit)",
+        "examples": [
+          "eat fruit",
+          "eat vegetables"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'eat' 象征社交互动和家庭纽带，如 Thanksgiving 晚餐；在东方文化中，可能隐含共享食物的礼仪，如中国家庭聚餐强调和谐。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于快餐文化语境",
+        "usage": "在美国英语中，常与 'grab a bite' 搭配，表示快速进食"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调正式用餐礼仪",
+        "usage": "在英国英语中，常用于 'have a meal' 的替代，体现社交规范"
+      }
+    ],
+    "historicalContext": "与农业革命和工业化相关，'eat' 在文学如莎士比亚作品中出现，反映食物短缺与丰裕的对比；在现代，关联到全球化的快餐文化。",
+    "modernUsage": "在社交媒体如 Twitter 和 Instagram 上，'eat' 常用于分享食物照片，体现健康饮食趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个生动的厨房场景：一个人正拿着一个红苹果在吃，周围是色彩鲜艳的食物。",
+      "keyElements": [
+        "苹果",
+        "厨房",
+        "进食动作"
+      ],
+      "emotionalConnection": "联结个人童年进餐回忆，触发积极情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'eat' 联想为 'Eagle Eating Apple' (鹰吃苹果)",
+        "explanation": "通过视觉联想将发音 /iːt/ 与鹰的形象结合，利用认知科学中的双编码效应增强记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /iːt/ 听起来像 'eat' 的动作声",
+        "explanation": "利用声音与动作的联觉，帮助初级学习者通过感官整合改善记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "food",
+      "meal",
+      "dinner",
+      "consume"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "ate",
+      "pastParticiple": "eaten",
+      "presentParticiple": "eating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + eat + object",
+        "description": "主语 + 动词 + 宾语结构，常用于简单陈述",
+        "examples": [
+          "I eat an apple."
+        ]
+      },
+      {
+        "pattern": "eat + adverbial phrase",
+        "description": "动词 + 状语短语结构，用于添加时间或方式",
+        "examples": [
+          "They eat quickly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'eated' as past tense",
+        "correction": "ate",
+        "explanation": "因为 'eat' 是不规则动词，学习者需记住其变化形式以避免错误"
+      },
+      {
+        "mistake": "Confusing with 'ate' (past tense of eat) and 'eight' (number)",
+        "correction": "Distinguish based on context",
+        "explanation": "发音相似可能导致混淆，通过语境练习可改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 100 in COCA corpus)",
+    "domains": [
+      "daily life",
+      "health",
+      "culture"
+    ],
+    "tags": [
+      "verb",
+      "action",
+      "food-related"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

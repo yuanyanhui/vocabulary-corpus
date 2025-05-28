@@ -1,0 +1,260 @@
+{
+  "word": "differential",
+  "phonetics": {
+    "british": "/ˌdɪfəˈrɛnʃəl/",
+    "american": "/ˌdɪfəˈrɛnʃəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "of or relating to a difference; showing or making a distinction",
+      "chineseTranslation": "差别的；区分的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a difference or the amount of difference between two things",
+      "chineseTranslation": "差异；差值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "in mathematics, an infinitesimal change in a variable; or in mechanics, a device that allows wheels to rotate at different speeds",
+      "chineseTranslation": "微分；差速器",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "differential equation",
+      "meaning": "微分方程",
+      "example": "The physicist used a differential equation to model the motion.",
+      "exampleTranslation": "物理学家使用微分方程来模拟运动。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "differential pay",
+      "meaning": "差异工资",
+      "example": "Companies often implement differential pay based on experience.",
+      "exampleTranslation": "公司经常根据经验实施差异工资。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "differential treatment",
+      "meaning": "差别待遇",
+      "example": "The law prohibits differential treatment based on gender.",
+      "exampleTranslation": "法律禁止基于性别的差别待遇。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study highlighted the differential in educational outcomes between urban and rural areas.",
+      "translation": "这项研究突出了城乡之间教育成果的差异。",
+      "source": "Academic journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In calculus, a differential is used to approximate changes in functions.",
+      "translation": "在微积分中，微分用于近似函数的变化。",
+      "source": "Textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The car's differential allows for smoother turns on uneven roads.",
+      "translation": "汽车的差速器允许在不平坦的道路上更平稳转弯。",
+      "source": "Engineering article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She received differential treatment at work due to her seniority.",
+      "translation": "由于她的资历，她在工作中受到了差别待遇。",
+      "source": "News report",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "differentia",
+        "meaning": "difference or distinction",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'differentia'，意为'区别'或'差异'，通过古法语 'differentiel' 演变为英语，最初用于哲学和逻辑领域表示区分概念，17世纪扩展到数学和科学中，逐渐发展为现代意义。",
+    "firstKnownUse": "Around 1600",
+    "relatedWords": [
+      "difference",
+      "differentiate",
+      "different"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 6,
+    "spellingDifficulty": 5,
+    "meaningComplexity": 7,
+    "usageComplexity": 8,
+    "learningTips": [
+      "结合认知科学原理，使用分层记忆法：先从基本形容词含义开始联想日常生活中的差异，然后逐步扩展到技术语境；建议通过重复间隔法（spaced repetition）强化词汇在不同领域的应用，以避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "distinctive",
+        "similarity": 0.7,
+        "context": "在描述特征或差异时使用，例如在正式报告中"
+      },
+      {
+        "word": "discrepancy",
+        "similarity": 0.6,
+        "context": "强调数值或数量上的差异，例如在商业分析中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "identical",
+        "context": "当表示完全相同或无差异时，例如在科学比较中"
+      },
+      {
+        "word": "uniform",
+        "context": "在描述一致性或标准化时，例如在政策讨论中"
+      }
+    ],
+    "hypernyms": [
+      "difference"
+    ],
+    "hyponyms": [
+      "partial differential",
+      "total differential"
+    ],
+    "collocations": [
+      {
+        "pattern": "differential + noun (e.g., differential pay)",
+        "examples": [
+          "differential equation",
+          "differential treatment"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + differential (e.g., cultural differential)",
+        "examples": [
+          "economic differential"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常隐含平等与公正的主题，例如在社会学中用于讨论种族或性别差异，象征对不平等的关注；在科学文化中，代表创新和精确性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如汽车工程",
+        "usage": "在美国英语中，常在商业和科技语境下出现，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于数学和学术语境",
+        "usage": "在英国英语中，常与历史科学传统相关联"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，早期在哲学家如亚里士多德的作品中出现差异概念，后来在牛顿的微积分中发展；在现代社会运动中，用于推动平等议题。",
+    "modernUsage": "在社交媒体和数字时代，常用于讨论经济不平等或AI算法中的偏差趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，一边是苹果，另一边是橘子，突出两者的差异。",
+      "keyElements": [
+        "天平秤",
+        "苹果和橘子",
+        "差异符号"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆童年时比较成绩的感受，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'differential' 联想为 'diff' + 'rential'，像 'different + essential'，表示本质上的差异。",
+        "explanation": "通过视觉联想帮助建立长时记忆，避免混淆类似词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌdɪfəˈrɛnʃəl/ 时，想象 'diff' 的声音像差异的回响。",
+        "explanation": "利用认知科学中的多模态学习，结合听觉和视觉提升保留率"
+      }
+    ],
+    "wordAssociations": [
+      "difference",
+      "divide",
+      "distinct"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "differentials",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the differential in rates)",
+        "description": "作为名词时，常用于描述具体差异的结构。",
+        "examples": [
+          "The differential between the two groups was significant."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier (e.g., differential analysis)",
+        "description": "作为形容词时，用于修饰名词，表示相关性。",
+        "examples": [
+          "This requires differential treatment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'deferential' (meaning respectful)",
+        "correction": "Use 'differential' for differences and 'deferential' for respect.",
+        "explanation": "错误源于发音相似，建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'differentials' for plural forms.",
+        "explanation": "中文学习者可能遗漏复数形式，需注意英语名词规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "business",
+      "social studies"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "comparative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

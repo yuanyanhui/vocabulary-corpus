@@ -1,0 +1,227 @@
+{
+  "word": "adsorption",
+  "phonetics": {
+    "british": "/ædˈzɔːpʃən/",
+    "american": "/ædˈzɔrpʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process by which atoms, ions, or molecules from a gas, liquid, or dissolved solid adhere to the surface of another substance.",
+      "chineseTranslation": "吸附",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A surface phenomenon in which one substance is attracted to and held on the surface of another, often distinguished from absorption.",
+      "chineseTranslation": "吸附现象",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "physical adsorption",
+      "meaning": "物理吸附，指物质通过范德华力等弱力附着在表面",
+      "example": "Physical adsorption occurs at low temperatures and is reversible.",
+      "exampleTranslation": "物理吸附发生在低温条件下，并且是可逆的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "chemical adsorption",
+      "meaning": "化学吸附，指物质通过化学键附着在表面",
+      "example": "Chemical adsorption involves the formation of chemical bonds between the adsorbate and the adsorbent.",
+      "exampleTranslation": "化学吸附涉及吸附质和吸附剂之间化学键的形成。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In water treatment, adsorption is used to remove impurities from contaminated water.",
+      "translation": "在水处理中，吸附被用于去除受污染水中的杂质。",
+      "source": "Scientific literature (e.g., environmental engineering texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The adsorption of gases on solid surfaces is a key process in catalysis.",
+      "translation": "气体在固体表面上的吸附是催化过程中的关键步骤。",
+      "source": "Chemistry textbooks (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers are studying adsorption mechanisms to improve battery efficiency.",
+      "translation": "研究人员正在研究吸附机制以提高电池效率。",
+      "source": "News articles (e.g., from BBC Science)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ad-",
+        "meaning": "to, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "sorbere",
+        "meaning": "to suck in",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'ad-' (表示 '到' 或 '朝向') 和 'sorbere' (表示 '吸入')，该词在19世纪由德国化学家发展而来，以区别于 'absorption'，最初用于描述分子附着于表面的过程，随着化学和物理学的发展，演变为现代技术术语。",
+    "firstKnownUse": "Circa 1882",
+    "relatedWords": [
+      "absorption",
+      "adsorbent",
+      "adsorbate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'adsorption' 想象为分子 '吸附' 于表面，如尘埃粘附在墙壁上，以强化空间记忆；建议通过重复曝光于科学语境中以提升词汇保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sorption",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于泛指吸附或吸收过程"
+      },
+      {
+        "word": "adhesion",
+        "similarity": "0.6",
+        "context": "在物理学语境中，指物质间的附着，但不如吸附精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "desorption",
+        "context": "在化学实验语境中，指物质从表面释放的过程，与吸附相反"
+      }
+    ],
+    "hypernyms": [
+      "sorption"
+    ],
+    "hyponyms": [
+      "physisorption",
+      "chemisorption"
+    ],
+    "collocations": [
+      {
+        "pattern": "adsorption of [substance] on [surface]",
+        "examples": [
+          "adsorption of nitrogen on charcoal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "surface adsorption",
+        "examples": [
+          "surface adsorption in nanotechnology"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和环境应用，如水净化和药物递送，但在中国文化中，常与传统中医的 '吸附疗法' 隐含关联，体现跨文化科学交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和环境科学语境",
+        "usage": "在美国英语中，强调实际应用，如工业过程"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于理论化学解释",
+        "usage": "在英国英语中，常出现在学术出版物中"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和化学发展相关，如英国科学家在殖民时代的研究影响了全球科学术语的标准化。",
+    "modernUsage": "在社交媒体和在线教育中，常见于科学普及视频和环保讨论中，反映了全球可持续发展的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个分子如小吸盘吸附在墙壁表面上，形成牢固的连接。",
+      "keyElements": [
+        "分子",
+        "表面",
+        "吸盘"
+      ],
+      "emotionalConnection": "联结到日常经验，如雨水吸附在窗户上，触发个人记忆以增强情感联想。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'ad' as 'attach' and 'sorption' as 'sucking on'",
+        "explanation": "通过词根联想，将 'ad-' 视为 '附着'，并与 'sorption' 结合，创建视觉图像以辅助记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "A-D-S: Attach, Draw, Stick",
+        "explanation": "使用首字母缩写来分解词汇，结合动作记忆以提高认知保留。"
+      }
+    ],
+    "wordAssociations": [
+      "absorb",
+      "attach",
+      "surface"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "adsorptions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrases",
+        "description": "常用于名词短语中，伴随介词如 'of' 或 'on'",
+        "examples": [
+          "The adsorption of pollutants on filters"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'absorption'",
+        "correction": "Use 'adsorption' for surface processes only",
+        "explanation": "吸附仅指表面现象，而吸收涉及整体渗透；这常见于初级学习者中。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "chemistry",
+      "engineering",
+      "environmental"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "process"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

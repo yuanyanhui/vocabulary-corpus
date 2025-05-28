@@ -1,0 +1,260 @@
+{
+  "word": "guarantee",
+  "phonetics": {
+    "british": "/ˌɡærənˈtiː/",
+    "american": "/ˌɡɛrənˈti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A formal promise or assurance, especially in writing, that a particular thing will be done or that a product will meet certain standards.",
+      "chineseTranslation": "保证；担保",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide a guarantee for something or to promise with certainty that something will happen or be done.",
+      "chineseTranslation": "保证；担保；确保",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To act as a guarantor for a loan or debt, ensuring repayment if the primary party fails.",
+      "chineseTranslation": "为某事提供担保（如贷款）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "money-back guarantee",
+      "meaning": "退款保证",
+      "example": "This product comes with a full money-back guarantee if you're not satisfied.",
+      "exampleTranslation": "如果您不满意，这个产品提供全额退款保证。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "performance guarantee",
+      "meaning": "性能保证",
+      "example": "The contract includes a performance guarantee to ensure the project is completed on time.",
+      "exampleTranslation": "合同中包含性能保证，以确保项目按时完成。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "guarantee against defects",
+      "meaning": "针对缺陷的保证",
+      "example": "The manufacturer offers a one-year guarantee against defects in materials or workmanship.",
+      "exampleTranslation": "制造商提供一年的针对材料或工艺缺陷的保证。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company provides a five-year guarantee on all its appliances.",
+      "translation": "公司为其所有电器提供五年保证。",
+      "source": "Consumer product manuals (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "I can guarantee that the event will be a success if we plan it carefully.",
+      "translation": "如果我们仔细规划，我可以保证这个活动会成功。",
+      "source": "Informal conversation (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The bank refused to guarantee the loan without additional collateral.",
+      "translation": "银行在没有额外抵押品的情况下拒绝为贷款提供担保。",
+      "source": "Financial news article (e.g., from The Guardian)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "从法语和古法语",
+    "rootWords": [
+      {
+        "root": "garant",
+        "meaning": "warrant or security",
+        "language": "Old French"
+      },
+      {
+        "root": "werjan",
+        "meaning": "to defend or protect",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'garant'，意为'保人'或'担保'，最终追溯到日耳曼语系的'werjan'，意思是'捍卫'。在中世纪英语中演变为'garantien'，到16世纪标准化为'guarantee'，从单纯的法律担保扩展到现代的商业和一般承诺。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "warranty",
+      "assure",
+      "ensure"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个锁上的箱子代表'guarantee'的安全性；使用间隔重复法来强化记忆，避免混淆与类似词如'warranty'的区别。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "warranty",
+        "similarity": "0.8",
+        "context": "在商业或产品背景下使用，强调正式承诺"
+      },
+      {
+        "word": "assurance",
+        "similarity": "0.7",
+        "context": "在保险或一般承诺的语境中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disavow",
+        "context": "否认或放弃责任的语境中"
+      },
+      {
+        "word": "renounce",
+        "context": "正式放弃权利或承诺的语境中"
+      }
+    ],
+    "hypernyms": [
+      "promise",
+      "assurance"
+    ],
+    "hyponyms": [
+      "warranty",
+      "bond"
+    ],
+    "collocations": [
+      {
+        "pattern": "guarantee + noun (e.g., guarantee a right)",
+        "examples": [
+          "guarantee a loan",
+          "guarantee quality"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + guarantee (e.g., provide a guarantee)",
+        "examples": [
+          "offer a guarantee",
+          "back a guarantee"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着信任和可靠性，尤其在商业和法律领域，隐含语义为对消费者权益的保护，如在美国消费者保护法中。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式法律语境",
+        "usage": "在英国英语中，常用于合同和保险领域，以强调书面承诺"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于日常商业广告",
+        "usage": "在美国英语中，常在营销语境中使用，以增强产品吸引力"
+      }
+    ],
+    "historicalContext": "与英国的合同法和工业革命相关，最初用于贸易协议；在美国独立战争后，扩展到宪法权利的'guarantee'，如权利保障。",
+    "modernUsage": "在社交媒体和在线购物中流行，用于营销策略，以建立品牌信任"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个坚固的保险箱，里面存放着重要的承诺文件。",
+      "keyElements": [
+        "保险箱",
+        "锁链",
+        "文件"
+      ],
+      "emotionalConnection": "联结到个人经历，如购买有保修的产品时的安心感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Guarantee 听起来像 'guard tea'，想象守卫在保护茶杯不破损。",
+        "explanation": "通过声音联想和视觉化帮助记忆词汇的保护含义"
+      },
+      {
+        "type": "缩略",
+        "content": "G-U-A-R-D：Guarantee Under Assured Reliability Daily",
+        "explanation": "使用首字母缩略词结合日常生活场景强化词汇记忆"
+      }
+    ],
+    "wordAssociations": [
+      "insurance",
+      "promise",
+      "security"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "guarantees",
+      "pastTense": "guaranteed",
+      "pastParticiple": "guaranteed",
+      "presentParticiple": "guaranteeing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., We guarantee quality)",
+        "description": "主语 + 动词 + 宾语结构，常用于陈述承诺",
+        "examples": [
+          "They guarantee the results."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a money-back guarantee)",
+        "description": "作为名词短语，用于描述正式保证",
+        "examples": [
+          "This comes with a guarantee."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'guarantee' with 'guaranty'",
+        "correction": "Use 'guarantee' for general promises; 'guaranty' for legal financial contexts",
+        "explanation": "在美式英语中，'guaranty' 专指金融担保，避免混淆以保持精确性"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'I guaranteed' instead of 'I guarantee' for past actions",
+        "explanation": "学习者常忽略动词时态，导致语义模糊"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "商业",
+      "法律",
+      "日常生活"
+    ],
+    "tags": [
+      "承诺",
+      "保障",
+      "金融"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

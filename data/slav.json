@@ -1,0 +1,247 @@
+{
+  "word": "slave",
+  "phonetics": {
+    "british": "/sleɪv/",
+    "american": "/sleɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who is the legal property of another and is forced to obey them.",
+      "chineseTranslation": "奴隶",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or part of a machine that is controlled by another.",
+      "chineseTranslation": "从属设备或部件",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "Work excessively hard.",
+      "chineseTranslation": "过度劳作",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "slave labor",
+      "meaning": "强制劳动或低薪劳工",
+      "example": "The company was accused of using slave labor in its overseas factories.",
+      "exampleTranslation": "该公司被指控在其海外工厂使用强制劳动。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "slave to something",
+      "meaning": "某事物的奴隶或受其控制",
+      "example": "She became a slave to her smartphone, checking it every few minutes.",
+      "exampleTranslation": "她成为智能手机的奴隶，每隔几分钟就查看一次。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Throughout history, many societies have practiced slavery, leading to profound human rights abuses.",
+      "translation": "在历史上，许多社会都实行奴隶制，导致了严重的人权侵犯。",
+      "source": "Historical texts, such as those from the American Civil War era",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern technology, a slave drive in a computer system follows the commands of the master drive.",
+      "translation": "在现代技术中，计算机系统中的从属驱动器遵循主驱动器的命令。",
+      "source": "Technical manuals, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He slaves away at his desk every night to meet the deadline.",
+      "translation": "他每晚在办公桌前过度劳作以赶上截止期限。",
+      "source": "Contemporary fiction, e.g., from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English (from Old French esclave, via Medieval Latin sclavus)",
+    "rootWords": [
+      {
+        "root": "sclavus",
+        "meaning": "Slav (referring to the ethnic group)",
+        "language": "Medieval Latin"
+      }
+    ],
+    "historicalDevelopment": "最初指斯拉夫人，因为在中世纪早期，许多斯拉夫人被 enslave 作为囚犯。词义逐渐扩展到一般意义上的奴隶，反映了从种族特定到普遍社会制度的演变过程。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "serf",
+      "bondman",
+      "thrall"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，辅音和元音组合易掌握)",
+    "spellingDifficulty": "4 (拼写规则标准，但可能与类似词如 'slav' 混淆)",
+    "meaningComplexity": "7 (语义多层，包括历史、社会和技术含义，需上下文理解)",
+    "usageComplexity": "6 (在不同语域中使用，需要注意敏感性)",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法：先记忆核心含义，再通过视觉联想（如历史图像）构建情感连接；对于中文母语学习者，比较 '奴隶' 与 'slave' 的文化差异以增强记忆深度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "serf",
+        "similarity": "0.8",
+        "context": "历史或封建语境中，表示类似强制劳动的从属关系"
+      },
+      {
+        "word": "bondman",
+        "similarity": "0.7",
+        "context": "法律或历史语境中，用于描述被束缚的个体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "freeman",
+        "context": "社会语境中，表示不受奴役的自由个体"
+      },
+      {
+        "word": "master",
+        "context": "权力关系语境中，表示主人的对立面"
+      }
+    ],
+    "hypernyms": [
+      "servant",
+      "worker"
+    ],
+    "hyponyms": [
+      "chattel slave",
+      "indentured servant"
+    ],
+    "collocations": [
+      {
+        "pattern": "slave + noun (e.g., slave trade)",
+        "examples": [
+          "the slave trade flourished in the 18th century"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be a slave to + noun (e.g., slave to fashion)",
+        "examples": [
+          "She is a slave to fashion trends."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词与奴隶制历史密切相关，在西方文化中象征不平等和人权斗争；在跨文化语境中，可能触发敏感话题，如美国内战或全球殖民主义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于历史和人权讨论",
+        "usage": "在正式语域中，避免直接使用以示尊重多元文化"
+      },
+      {
+        "region": "英国",
+        "variation": "历史语境中常见，如大英帝国的奴隶贸易",
+        "usage": "在教育和媒体中用于反思殖民遗产"
+      }
+    ],
+    "historicalContext": "与奴隶贸易、美国南北战争和废奴运动相关，体现了社会不公的演变。",
+    "modernUsage": "在社交媒体和新闻中，常用于比喻过度依赖（如科技奴隶），反映当代生活压力"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个历史场景：一个锁链束缚的个体在田地劳作，象征束缚和自由的对比。",
+      "keyElements": [
+        "锁链",
+        "劳作",
+        "主人"
+      ],
+      "emotionalConnection": "联结个人经历，如现代工作压力，触发对自由的渴望以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'slave' 联想为 'slavery leaves a void'，表示奴隶制留下空虚。",
+        "explanation": "通过声音和意义联想，结合认知科学中的双编码理论，使用视觉和情感元素加深记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-L-A-V-E: Subjugated Life Always Very Enslaving",
+        "explanation": "创建缩略词以分解词汇，运用工作记忆策略便于中级学习者重复练习"
+      }
+    ],
+    "wordAssociations": [
+      "bondage",
+      "freedom",
+      "oppression"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "slaves",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + slave + to + noun",
+        "description": "表示对某事物的依赖或从属",
+        "examples": [
+          "He is a slave to his habits."
+        ]
+      },
+      {
+        "pattern": "Verb form: slave away",
+        "description": "表示过度努力工作",
+        "examples": [
+          "They slave away in the office."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'slave' with 'Slav' (ethnic group)",
+        "correction": "Use 'slave' for the concept of enslavement and 'Slav' for the people",
+        "explanation": "中文学习者可能因发音相似而混淆，确保区分文化和历史语境"
+      },
+      {
+        "mistake": "Incorrect verb usage, e.g., 'slaving' without context",
+        "correction": "Use 'slave away' for intensive work",
+        "explanation": "注意动词搭配，以避免语义偏差"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "历史",
+      "社会",
+      "技术",
+      "商业"
+    ],
+    "tags": [
+      "历史术语",
+      "社会议题",
+      "比喻表达"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

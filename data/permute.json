@@ -1,0 +1,238 @@
+{
+  "word": "permute",
+  "phonetics": {
+    "british": "/pəˈmjuːt/",
+    "american": "/pɚˈmjuːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to change the order of a set of items or elements, especially in a systematic way",
+      "chineseTranslation": "排列，置换",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to rearrange the positions of elements in a sequence",
+      "chineseTranslation": "重新排列",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "permute a list",
+      "meaning": "排列列表",
+      "example": "In programming, you can permute a list to generate all possible orders.",
+      "exampleTranslation": "在编程中，你可以排列列表以生成所有可能的顺序。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "permute elements",
+      "meaning": "置换元素",
+      "example": "The function permutes elements in the array for sorting purposes.",
+      "exampleTranslation": "该函数为排序目的而置换数组中的元素。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mathematician used a formula to permute the numbers and solve the puzzle.",
+      "translation": "数学家使用公式来排列数字并解决谜题。",
+      "source": "Academic text (e.g., mathematics textbook)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In data science, algorithms often permute datasets to avoid bias.",
+      "translation": "在数据科学中，算法经常排列数据集以避免偏差。",
+      "source": "Technical article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to permute the furniture in her room for a fresh look.",
+      "translation": "她决定重新排列房间里的家具以获得新颖的外观。",
+      "source": "Informal writing (e.g., everyday blog)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "permutare",
+        "meaning": "to change thoroughly or exchange",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'permutare' (from 'per-' meaning 'through' and 'mutare' meaning 'to change'), it entered Middle English via Old French 'permuter' in the 15th century, evolving from a term for exchanging goods to a modern mathematical concept of rearrangement.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "permutation",
+      "mutate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 5,
+    "usageComplexity": 6,
+    "learningTips": [
+      "将词汇与实际重排物体联系起来，如洗牌卡片，利用视觉和运动记忆增强认知保留；根据认知语言学，使用重复性练习来巩固语义网络，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rearrange",
+        "similarity": 0.8,
+        "context": "适用于日常或技术语境中顺序变化的场景"
+      },
+      {
+        "word": "shuffle",
+        "similarity": 0.7,
+        "context": "多用于非正式语境，如随机排列物品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fix",
+        "context": "适用于顺序不变的语境，如固定位置"
+      },
+      {
+        "word": "preserve",
+        "context": "多见于保持原有顺序的文化或科学讨论中"
+      }
+    ],
+    "hypernyms": [
+      "change",
+      "alter"
+    ],
+    "hyponyms": [
+      "shuffle",
+      "transpose"
+    ],
+    "collocations": [
+      {
+        "pattern": "permute + noun (e.g., permute the array)",
+        "examples": [
+          "permute the data",
+          "permute the sequence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "permute in + context",
+        "examples": [
+          "permute in algorithms"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数学和计算机科学领域具有象征意义，代表系统性创新和问题解决，但在西方文化中无强烈隐含语义，常用于中性技术讨论。",
+    "regionalVariations": [
+      {
+        "region": "American English",
+        "variation": "发音略微卷舌（/pɚˈmjuːt/），但词汇使用无显著差异",
+        "usage": "在美国英语中，常见于科技和教育语境"
+      },
+      {
+        "region": "British English",
+        "variation": "发音更接近标准英式（/pəˈmjuːt/），词汇使用一致",
+        "usage": "在英国英语中，常见于学术写作"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期数学发展相关，源自欧洲科学革命，在现代全球化语境中用于计算机编程，体现了工业革命后的理性主义文化。",
+    "modernUsage": "在社交媒体和在线论坛中，流行于编程社区，如Reddit或Stack Overflow，常用于讨论算法优化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一副扑克牌被彻底洗牌的过程。",
+      "keyElements": [
+        "扑克牌",
+        "洗牌动作"
+      ],
+      "emotionalConnection": "联结到个人经历，如玩牌时的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Permute 听起来像 'per mute'，想象彻底改变声音的顺序。",
+        "explanation": "通过声音联觉和视觉联想，帮助记忆词汇的核心含义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "acronym",
+        "content": "P-E-R-M-U-T-E: Picture Every Rearrangement Makes Unique Things Exciting",
+        "explanation": "使用缩略词创建故事，强化词汇在语义网络中的位置"
+      }
+    ],
+    "wordAssociations": [
+      "permutation",
+      "reorder",
+      "shuffle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "permuted",
+      "pastParticiple": "permuted",
+      "presentParticiple": "permuting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + permute + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "The software permutes the files."
+        ]
+      },
+      {
+        "pattern": "Permute + in + context",
+        "description": "动词后接介词短语，表示语境",
+        "examples": [
+          "Permute in a mathematical model."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'permutation' (noun form)",
+        "correction": "Use 'permute' for the verb action",
+        "explanation": "学习者常混淆动词和名词形式；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper conjugation, e.g., 'permuted' for past",
+        "explanation": "基于英语时态规则，避免非母语学习者常见错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Computer Science",
+      "Linguistics"
+    ],
+    "tags": [
+      "verb",
+      "technical",
+      "mathematical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

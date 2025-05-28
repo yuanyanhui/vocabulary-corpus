@@ -1,0 +1,242 @@
+{
+  "word": "weighted",
+  "phonetics": {
+    "british": "/ˈweɪ.tɪd/",
+    "american": "/ˈweɪ.t̬əd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Adjusted or treated by assigning greater importance or value to certain elements, often in calculations or measurements.",
+      "chineseTranslation": "加权的；权重的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (past participle of 'weight')",
+      "definition": "Having been made heavier or given additional weight, either physically or metaphorically.",
+      "chineseTranslation": "加重的；赋予重量的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "weighted average",
+      "meaning": "加权平均值",
+      "example": "The weighted average of the students' scores takes into account the difficulty of each exam.",
+      "exampleTranslation": "学生的分数加权平均值考虑了每场考试的难度。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "weighted decision",
+      "meaning": "加权决策",
+      "example": "In business, a weighted decision process assigns more value to factors like cost and risk.",
+      "exampleTranslation": "在商业中，加权决策过程赋予成本和风险等因素更高的价值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The survey results were weighted to reflect the demographic distribution of the population.",
+      "translation": "调查结果被加权以反映人口的 demographic 分布。",
+      "source": "Academic research (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She wore weighted clothing during her workout to increase resistance.",
+      "translation": "她在锻炼时穿着加重衣物以增加阻力。",
+      "source": "Fitness articles (e.g., from general media)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In statistics, a weighted mean is used when data points have varying levels of importance.",
+      "translation": "在统计学中，当数据点具有不同重要性时，使用加权平均数。",
+      "source": "Technical literature (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "weight",
+        "meaning": "A measure of heaviness or importance",
+        "language": "Old English (from Proto-Germanic *wihtiz)"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'wiht' 或 'gewiht' 演变而来，原指物理重量，逐渐扩展到抽象概念如重要性或影响。14 世纪开始用于数学和统计语境中，表示赋予权重。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "weight",
+      "weigh",
+      "counterweight"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'weighted' 与常见短语如 'weighted average' 关联，以减少工作记忆负载；",
+      "使用视觉图像联想 'weight' 的物理概念来强化抽象含义，例如想象天平上的砝码；",
+      "针对中文母语学习者，建议通过双语对照练习，避免混淆与 '重量' 的直接翻译"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "adjusted",
+        "similarity": "0.7",
+        "context": "在统计或数据分析语境中，用于表示已进行修正"
+      },
+      {
+        "word": "balanced",
+        "similarity": "0.6",
+        "context": "在决策或分配资源时，表示已考虑平衡因素"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unweighted",
+        "context": "在计算中，表示未赋予额外重要性，例如 'unweighted data'"
+      },
+      {
+        "word": "equal",
+        "context": "表示所有元素均等对待，而非加权"
+      }
+    ],
+    "hypernyms": [
+      "modified",
+      "adjusted"
+    ],
+    "hyponyms": [
+      "statistically weighted",
+      "physically weighted"
+    ],
+    "collocations": [
+      {
+        "pattern": "weighted + noun (e.g., weighted score)",
+        "examples": [
+          "weighted score",
+          "weighted index"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be weighted by + factor",
+        "examples": [
+          "results weighted by age"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征公正性和数据客观性，尤其在统计学和决策中，体现了对平等与修正的追求，但在中国语境中，可能与 '平衡' 或 '公正' 的社会 metaphors 相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域如数据科学",
+        "usage": "在美国英语中，'weighted' 在商业和科技报告中频繁出现，以强调数据驱动决策"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更注重正式语境",
+        "usage": "在英国英语中，常用于学术写作中，强调精确性和历史连续性"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的计量系统和统计学发展相关联，例如 19 世纪的英国统计学家使用它来分析社会数据。",
+    "modernUsage": "在现代社交媒体和数字时代，'weighted' 常用于算法（如社交平台的内容推荐），反映全球化的数据处理趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中某些物品被额外加重，以代表 'weighted' 的概念。",
+      "keyElements": [
+        "天平",
+        "砝码",
+        "不平衡的状态"
+      ],
+      "emotionalConnection": "联结个人经验，如回想体育训练中使用的加重装备，触发成就感或挑战情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'weighted' 联想为 'wait + ed'，想象等待时需要 'weight' 来平衡。",
+        "explanation": "通过声音和语义联想，帮助中文学习者建立音形义的连接，避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "W-E-I-G-H-T-E-D = 'We Increase Gravity Here To Emphasize Differences'",
+        "explanation": "使用首字母缩略法结合故事，基于认知科学中的叙事记忆增强保留"
+      }
+    ],
+    "wordAssociations": [
+      "weight",
+      "balance",
+      "average",
+      "adjust"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more weighted",
+      "superlative": "most weighted"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + weighted + by/for",
+        "description": "用于描述某事被赋予权重，例如 'The data is weighted by population size'。",
+        "examples": [
+          "The votes are weighted by district."
+        ]
+      },
+      {
+        "pattern": "weighted + noun phrase",
+        "description": "作为形容词修饰名词。",
+        "examples": [
+          "a weighted blanket"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'waited'",
+        "correction": "Use 'weighted' for adding weight, not 'waited' which means to delay.",
+        "explanation": "中文学习者常因发音相似而误用；建议通过发音练习区分"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for situations involving adjustment or importance.",
+        "explanation": "在中间水平，避免泛化使用；结合语境练习提升准确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "business",
+      "statistics"
+    ],
+    "tags": [
+      "mathematics",
+      "adjustment",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

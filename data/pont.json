@@ -1,0 +1,291 @@
+{
+  "word": "point",
+  "phonetics": {
+    "british": "/pɔɪnt/",
+    "american": "/pɔɪnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sharp or tapering end of something, such as a pencil or a weapon.",
+      "chineseTranslation": "尖端或尖锐部分",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A particular place or position, often used in directions or locations.",
+      "chineseTranslation": "特定地点或位置",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mark or unit used in scoring, as in games or competitions.",
+      "chineseTranslation": "得分或分数单位",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An idea, argument, or opinion expressed briefly and clearly.",
+      "chineseTranslation": "观点、论点或意见",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To direct or aim something at someone or something.",
+      "chineseTranslation": "指向或瞄准某物",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To indicate the direction or position of something.",
+      "chineseTranslation": "指示或显示方向",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "point out",
+      "meaning": "指出或强调某事",
+      "example": "She pointed out the errors in the report.",
+      "exampleTranslation": "她指出了报告中的错误。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "make a point",
+      "meaning": "表达一个观点或论点",
+      "example": "He made a point about the importance of education.",
+      "exampleTranslation": "他表达了关于教育重要性的观点。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "on the point of",
+      "meaning": "即将发生或正要做某事",
+      "example": "We were on the point of leaving when the phone rang.",
+      "exampleTranslation": "我们正要离开时，电话响了。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "point to",
+      "meaning": "表明或暗示某事",
+      "example": "The evidence points to a possible conspiracy.",
+      "exampleTranslation": "证据表明可能存在阴谋。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The compass needle always points north.",
+      "translation": "指南针的指针总是指向北方。",
+      "source": "Scientific literature, e.g., from educational texts",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "What's your point in arguing about this?",
+      "translation": "你争论这个的观点是什么？",
+      "source": "Conversational dialogue, e.g., from modern novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She earned ten points for her essay in the competition.",
+      "translation": "她在比赛中为她的文章获得了十点分数。",
+      "source": "Sports or academic contexts, e.g., from COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The lecture made a strong point about climate change impacts.",
+      "translation": "讲座有力地阐述了气候变化的影响。",
+      "source": "Formal discourse, e.g., from TED talks",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "punctum",
+        "meaning": "A prick or dot",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'punctum'（意思是刺戳或点）演变而来，通过古法语 'point' 进入英语，最初指物理上的尖端或标记，逐渐扩展到抽象概念如观点或位置，在中世纪英语中开始广泛使用。",
+    "firstKnownUse": "约 13 世纪",
+    "relatedWords": [
+      "puncture",
+      "punctuation",
+      "appoint"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "使用分块学习法将不同语义分组，避免认知 overload；结合视觉辅助如绘图表示物理点和抽象观点，以增强海马体记忆；根据认知语言学，重复在上下文中使用以强化神经通路。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "indicate",
+        "similarity": "0.8",
+        "context": "在指示方向的语境中使用"
+      },
+      {
+        "word": "argue",
+        "similarity": "0.6",
+        "context": "在表达观点的正式语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在忽略某事而非指向的语境中"
+      },
+      {
+        "word": "conceal",
+        "context": "在隐藏观点而非明确的语境中"
+      }
+    ],
+    "hypernyms": [
+      "location",
+      "idea"
+    ],
+    "hyponyms": [
+      "decimal point",
+      "bullet point"
+    ],
+    "collocations": [
+      {
+        "pattern": "point + preposition (e.g., to, at)",
+        "examples": [
+          "He pointed to the map.",
+          "She pointed at the door."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + point (e.g., make a point)",
+        "examples": [
+          "They made a point during the debate."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征精确性和方向感，例如在英国的航海传统中，'point' 常用于指北极星或罗盘，隐含着探索和导向的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史语境，如 'point of a sword'",
+        "usage": "在正式或文学语境中强调传统"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于现代用法，如体育得分",
+        "usage": "在非正式对话中，如体育评论"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关，如牛顿的物理学中使用 'point' 表示精确测量；在文学中，莎士比亚作品中常用于象征转折点。",
+    "modernUsage": "在社交媒体上，'point' 常用于辩论或 meme，如 Twitter 上的观点表达，反映数字时代的信息碎片化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头指向地图上的一个点，代表方向和精确。",
+      "keyElements": [
+        "箭头",
+        "地图",
+        "精确标记"
+      ],
+      "emotionalConnection": "联结到个人旅行经历的兴奋感，以触发长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Point like a pointer dog pointing at prey.",
+        "explanation": "通过视觉联想将 'point' 与狗的指向行为关联，增强空间记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sound of 'point' rhymes with 'joint', imagine a joint arrow.",
+        "explanation": "利用音似词创建图像，帮助音形结合记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "arrow",
+      "dot",
+      "score"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "points",
+      "pastTense": "pointed",
+      "pastParticiple": "pointed",
+      "presentParticiple": "pointing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + point + object",
+        "description": "主语 + 动词 + point + 宾语结构",
+        "examples": [
+          "He points the way."
+        ]
+      },
+      {
+        "pattern": "Point as a noun in prepositional phrases",
+        "description": "point 用作名词，在介词短语中",
+        "examples": [
+          "At that point, we decided."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'point' with 'appoint'",
+        "correction": "Use 'point' for indicating, 'appoint' for assigning.",
+        "explanation": "二者虽同源，但语义不同，'point' 强调方向而非任命。"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'pointed' for past.",
+        "explanation": "学习者常忽略时态一致性，导致句子不完整。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 100 in COCA corpus",
+    "domains": [
+      "education",
+      "sports",
+      "business"
+    ],
+    "tags": [
+      "direction",
+      "measurement",
+      "argument"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

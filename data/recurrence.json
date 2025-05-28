@@ -1,0 +1,265 @@
+{
+  "word": "recurrence",
+  "phonetics": {
+    "british": "/rɪˈkʌrəns/",
+    "american": "/rɪˈkɝrəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The fact or process of something happening again, often repeatedly or after a period of absence.",
+      "chineseTranslation": "复发；再现；反复发生",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In medical contexts, the return of a disease or symptoms after a period of improvement.",
+      "chineseTranslation": "疾病复发",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, a relation that defines a sequence where each term is defined based on previous terms.",
+      "chineseTranslation": "递归；循环关系",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "recurrence of events",
+      "meaning": "事件的重现或反复",
+      "example": "The recurrence of events in history often provides valuable lessons.",
+      "exampleTranslation": "历史事件的反复经常提供宝贵的教训。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "risk of recurrence",
+      "meaning": "复发的风险",
+      "example": "Doctors monitor patients for the risk of recurrence after surgery.",
+      "exampleTranslation": "医生在手术后监测患者复发的风险。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "recurrence relation",
+      "meaning": "递归关系",
+      "example": "In computer science, a recurrence relation is used to solve complex algorithms.",
+      "exampleTranslation": "在计算机科学中，递归关系用于解决复杂的算法。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The recurrence of earthquakes in the region has led to improved building standards.",
+      "translation": "该地区的地震反复发生导致了建筑标准的改进。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After years of remission, the cancer's recurrence was a devastating blow to the patient.",
+      "translation": "经过数年的缓解期，癌症的复发对患者来说是毁灭性的打击。",
+      "source": "Medical literature (e.g., from The Lancet)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The recurrence of themes in her novels reflects her personal experiences.",
+      "translation": "她小说中主题的反复反映了她的个人经历。",
+      "source": "Literary analysis (e.g., from literary reviews)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "又，再",
+        "language": "Latin"
+      },
+      {
+        "root": "currere",
+        "meaning": "跑，流动",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'recurrere'，意为'跑回去'或'返回'。在中世纪拉丁语中演变为'recurrens'，用于表示重复或返回的概念。17世纪进入英语，最初用于描述事件的重复出现，逐渐扩展到医学和数学领域。",
+    "firstKnownUse": "1600s",
+    "relatedWords": [
+      "recurrent",
+      "recursion",
+      "recurringly"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经历关联，例如想象一个循环的时钟来记忆复发的概念；使用间隔重复法（spaced repetition）强化记忆；针对母语为中文的学习者，比较'复发'一词的相似性以建立跨语言联系。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "repetition",
+        "similarity": "0.8",
+        "context": "适用于描述日常事件反复的语境，例如会议或习惯"
+      },
+      {
+        "word": "relapse",
+        "similarity": "0.9",
+        "context": "主要在医疗语境中，用于疾病复发的场景"
+      },
+      {
+        "word": "return",
+        "similarity": "0.7",
+        "context": "泛指事物重新出现的非正式语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cessation",
+        "context": "适用于事件停止或结束的语境，例如'疾病的停止'"
+      },
+      {
+        "word": "disappearance",
+        "context": "用于事物完全消失的语境，例如'症状的消失'"
+      }
+    ],
+    "hypernyms": [
+      "occurrence",
+      "event"
+    ],
+    "hyponyms": [
+      "relapse",
+      "flashback"
+    ],
+    "collocations": [
+      {
+        "pattern": "high recurrence rate",
+        "examples": [
+          "The disease has a high recurrence rate in patients."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "prevent recurrence",
+        "examples": [
+          "Measures were taken to prevent recurrence of the issue."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与医学和心理健康相关，象征不确定性和韧性，例如癌症复发在流行文化中代表个人斗争；在中国文化中，类似概念可能与'轮回'或'周期'相关联，强调命运的反复性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如统计学",
+        "usage": "在美国英语中，强调数据分析中的'复发率'，如在公共卫生报告中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在正式语境中使用更频繁",
+        "usage": "在英国英语中，常见于历史和文学讨论中，表示事件的循环"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动时期的科学发展相关联，例如在达尔文进化论中用于描述自然现象的重复；在现代社会中，与心理疗法和环境问题（如气候变化的循环）相关。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于讨论心理健康问题，如抑郁的复发，或在商业中表示市场趋势的反复。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个不断旋转的轮子，代表事物反复出现。",
+      "keyElements": [
+        "轮子",
+        "循环",
+        "返回箭头"
+      ],
+      "emotionalConnection": "联结到个人经历，如季节更迭带来的情感共鸣，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'recurrence'联想为're-' (又) + 'currence' (像'current'的流动)",
+        "explanation": "通过视觉联想帮助记忆，适合母语为中文的学习者与'重复'一词关联"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/rɪˈkʌrəns/'听起来像'ri-cur-rents'，想象河流的回流。",
+        "explanation": "利用认知科学的声音-图像关联，强化发音和意义的记忆"
+      }
+    ],
+    "wordAssociations": [
+      "repeat",
+      "cycle",
+      "loop"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "recurrences",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Recurrence + Of + Noun",
+        "description": "主语 + 动词 + 复发 + 的 + 名词结构，常用于描述事件",
+        "examples": [
+          "The recurrence of the disease affected many lives."
+        ]
+      },
+      {
+        "pattern": "Noun Phrase with Recurrence",
+        "description": "名词短语中包含复发，常在正式句子中",
+        "examples": [
+          "High recurrence rates were observed in the study."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'recurrent'",
+        "correction": "Use 'recurrence' as a noun and 'recurrent' as an adjective",
+        "explanation": "学习者常混淆词性，导致句子结构错误；建议通过练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "由于英语复数规则的复杂性，母语中文的学习者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "medicine",
+      "mathematics",
+      "history",
+      "psychology"
+    ],
+    "tags": [
+      "repetition",
+      "cycle",
+      "health",
+      "science"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

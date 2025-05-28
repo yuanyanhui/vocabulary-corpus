@@ -1,0 +1,243 @@
+{
+  "word": "absorptivity",
+  "phonetics": {
+    "british": "/ˌæb.sɔːpˈtɪv.ɪ.ti/",
+    "american": "/ˌæb.sɔrpˈtɪv.ə.ti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The measure of the ability of a material or surface to absorb radiation, such as light or heat, often expressed as a fraction of incident energy.",
+      "chineseTranslation": "吸收率，指材料或表面吸收辐射（如光或热）的能力，通常表示为入射能量的分数。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, the constant that indicates how strongly a substance absorbs light at a given wavelength, also known as the molar absorptivity coefficient.",
+      "chineseTranslation": "在化学中，表示物质在特定波长下吸收光的强度常数，也称为摩尔吸收系数。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "molar absorptivity",
+      "meaning": "摩尔吸收率，指单位浓度物质吸收光的度量。",
+      "example": "The molar absorptivity of the compound was determined using UV spectroscopy.",
+      "exampleTranslation": "该化合物的摩尔吸收率使用紫外光谱法测定。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "spectral absorptivity",
+      "meaning": "光谱吸收率，指在不同波长下材料的吸收能力。",
+      "example": "Spectral absorptivity varies depending on the wavelength of the incident light.",
+      "exampleTranslation": "光谱吸收率随入射光的波长而变化。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The absorptivity of the black paint makes it ideal for solar panels.",
+      "translation": "黑色油漆的吸收率使其成为太阳能板的理想选择。",
+      "source": "Scientific article (e.g., from Nature journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In environmental science, absorptivity helps measure how pollutants are absorbed by soil.",
+      "translation": "在环境科学中，吸收率有助于测量污染物被土壤吸收的程度。",
+      "source": "Academic textbook (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers calculated the absorptivity to improve the efficiency of the heat exchanger.",
+      "translation": "工程师们计算吸收率以提高热交换器的效率。",
+      "source": "Technical report (e.g., BNC corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "absorbere",
+        "meaning": "to swallow up",
+        "language": "Latin"
+      },
+      {
+        "root": "absorpt-",
+        "meaning": "absorbed",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'absorbere'（意为吞没或吸收），在中世纪拉丁语中演变为表示物质吸收的科学概念，17世纪传入英语用于光学和热学领域，最终在19世纪标准化为现代科学术语。",
+    "firstKnownUse": "Circa 1860",
+    "relatedWords": [
+      "absorption",
+      "absorbent",
+      "adsorptivity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习词汇；将词汇与实际科学实验场景关联以增强语境记忆；通过视觉辅助如图表展示吸收过程，以降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "absorption coefficient",
+        "similarity": "0.85",
+        "context": "适用于技术语境中测量辐射吸收的场合"
+      },
+      {
+        "word": "extinction coefficient",
+        "similarity": "0.75",
+        "context": "在化学分析中用于光谱学领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reflectivity",
+        "context": "在光学领域，用于对比辐射被反射而非吸收的情况"
+      },
+      {
+        "word": "transmittance",
+        "context": "在材料科学中，表示辐射通过材料而非被吸收的语境"
+      }
+    ],
+    "hypernyms": [
+      "absorption",
+      "coefficient"
+    ],
+    "hyponyms": [
+      "molar absorptivity",
+      "spectral absorptivity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + absorptivity",
+        "examples": [
+          "measurement of absorptivity"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Absorptivity + in + context",
+        "examples": [
+          "absorptivity in solar energy"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征技术进步和环境可持续性，缺乏强烈情感象征，但在跨文化交流中（如国际科学会议）体现技术术语的全球通用性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和环境科学语境",
+        "usage": "在美国英语中，常与实际应用相结合，如在NASA报告中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向理论物理学表述",
+        "usage": "在英国英语中，常见于学术论文中，强调精确性"
+      }
+    ],
+    "historicalContext": "与工业革命和现代物理学发展相关，如19世纪的电磁理论；在文学中较少出现，但科学历史著作中体现科学术语的演化。",
+    "modernUsage": "在社交媒体和在线教育平台上（如YouTube科学频道）用于普及科学知识，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个黑洞吞噬光线的情景，代表词汇的吸收含义。",
+      "keyElements": [
+        "黑洞",
+        "光线",
+        "吞噬"
+      ],
+      "emotionalConnection": "联结个人经验，如观看日食时的惊奇感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Absorptivity 像 'absorb activity'，想象一个活跃的吸盘在吸收能量。",
+        "explanation": "通过视觉联想将抽象概念转化为生动图像，帮助认知加工"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌæb.sɔrpˈtɪv.ə.ti/ 听起来像 'absorb TV'，联想到电视屏幕吸收光线。",
+        "explanation": "利用声音与图像的联结，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "absorption",
+      "reflectivity",
+      "efficiency"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "absorptivities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + absorptivity",
+        "description": "作为主语或宾语的句法结构，常用于描述科学现象。",
+        "examples": [
+          "Absorptivity affects the material's performance."
+        ]
+      },
+      {
+        "pattern": "The absorptivity of + noun",
+        "description": "用于限定具体对象的句法。",
+        "examples": [
+          "The absorptivity of the surface was high."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing absorptivity with absorptance",
+        "correction": "Use absorptivity for the coefficient and absorptance for the ratio",
+        "explanation": "Absorptivity 特指系数，而 absorptance 指吸收率，避免混淆以确保技术准确性"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'absorptivities' for plural",
+        "explanation": "作为可数名词，需要正确添加复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "physics",
+      "chemistry",
+      "optics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

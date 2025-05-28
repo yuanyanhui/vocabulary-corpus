@@ -1,0 +1,259 @@
+{
+  "word": "compression",
+  "phonetics": {
+    "british": "/kəmˈprɛʃən/",
+    "american": "/kəmˈprɛʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of pressing something into a smaller space, or the state of being pressed together.",
+      "chineseTranslation": "压缩的过程或状态",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the reduction in size of data files to save storage space or transmission time.",
+      "chineseTranslation": "在计算机中，指数据文件的缩小以节省存储空间或传输时间",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, the reduction of volume under pressure, often applied to gases or materials.",
+      "chineseTranslation": "在物理学中，指在压力下体积的减少，常用于气体或材料",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data compression",
+      "meaning": "数据压缩",
+      "example": "Data compression is essential for efficient storage on modern devices.",
+      "exampleTranslation": "数据压缩对于现代设备的有效存储至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "compression ratio",
+      "meaning": "压缩比",
+      "example": "The engine's compression ratio affects its fuel efficiency.",
+      "exampleTranslation": "发动机的压缩比影响其燃油效率。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "under compression",
+      "meaning": "在压缩状态下",
+      "example": "The material behaves differently under compression.",
+      "exampleTranslation": "该材料在压缩状态下表现不同。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The compression of the file reduced its size from 10 MB to 2 MB.",
+      "translation": "该文件的压缩将其大小从 10 MB 减少到 2 MB。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, compression is used in zip files to save space.",
+      "translation": "在日常生活中，压缩用于 zip 文件以节省空间。",
+      "source": "Educational article",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The compression of gases in a cylinder is a key principle in thermodynamics.",
+      "translation": "气缸中气体的压缩是热力学中的关键原理。",
+      "source": "Scientific literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "com-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "primere",
+        "meaning": "to press",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'compressio'，意为压紧或挤压，源自动词 'comprimere'（com- 表示一起，primere 表示压）。在中世纪拉丁语中演变为表示物理压力的概念，17 世纪传入英语，用于科学和技术语境，最终扩展到现代计算机领域。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "compress",
+      "compressor",
+      "decompression"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉意象关联，例如想象一个被挤压的气球来强化记忆；使用间隔重复法复习以巩固长期记忆；将抽象概念与日常生活应用联系，如手机文件压缩，以提升语境理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "compaction",
+        "similarity": "0.8",
+        "context": "适用于物理或材料科学语境中，表示类似压紧的过程"
+      },
+      {
+        "word": "condensation",
+        "similarity": "0.7",
+        "context": "常用于气体转化为液体的语境，但需注意细微差异"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expansion",
+        "context": "适用于表示体积增加或扩展的语境中"
+      },
+      {
+        "word": "decompression",
+        "context": "常用于计算机或医疗语境，表示释放压力的过程"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "reduction"
+    ],
+    "hyponyms": [
+      "data compression",
+      "audio compression"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + compression",
+        "examples": [
+          "file compression",
+          "gas compression"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "under + compression",
+        "examples": [
+          "under high compression"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征效率和节省，尤其在科技革命中代表创新，但缺乏强烈文化象征；在中文语境中，常与现代化生活相关联，如数据存储。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如软件压缩",
+        "usage": "在日常英语中强调实用性，例如 IT 行业"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向科学语境，如物理学",
+        "usage": "在正式教育中更常见"
+      }
+    ],
+    "historicalContext": "与工业革命相关的蒸汽机和机械发明有关，在 19 世纪科学发展中普及；现代则与数字时代数据管理相联。",
+    "modernUsage": "在社交媒体和在线平台中，常见于讨论文件分享或视频压缩的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个气球被用力挤压，体积变小，同时联想到手机上压缩文件的图标。",
+      "keyElements": [
+        "气球",
+        "文件图标",
+        "压力符号"
+      ],
+      "emotionalConnection": "联结到日常生活节省空间的满足感，例如清理手机存储时产生的轻松情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'compression' 联想为 'com-pression'，如 'come press it'（来压它），帮助记忆压紧的概念。",
+        "explanation": "通过声音和动作联想，强化词汇与物理动作的连接，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-R-E-S-S（Compression Reduces Everything's Size Simply）",
+        "explanation": "使用首字母缩略词创建故事，辅助记忆语义复杂度。"
+      }
+    ],
+    "wordAssociations": [
+      "squeeze",
+      "shrink",
+      "zip"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "compressions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + compression",
+        "description": "作为主语或宾语出现，常用于描述过程",
+        "examples": [
+          "Compression saves space."
+        ]
+      },
+      {
+        "pattern": "In + compression",
+        "description": "表示在压缩状态下",
+        "examples": [
+          "The material changes in compression."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'comprehension'",
+        "correction": "Use 'compression' for physical or data reduction",
+        "explanation": "这两个词发音相似，但 'comprehension' 意为理解，常由拼写错误引起"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as noun only; for verb, use 'compress'",
+        "explanation": "'Compression' 是名词，不是动词形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "physics",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

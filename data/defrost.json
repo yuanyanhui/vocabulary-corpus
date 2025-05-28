@@ -1,0 +1,244 @@
+{
+  "word": "defrost",
+  "phonetics": {
+    "british": "/diːˈfrɒst/",
+    "american": "/diːˈfrɔːst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove frost, ice, or frozen state from something, especially food or a surface.",
+      "chineseTranslation": "解冻",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of removing frost or thawing something that is frozen.",
+      "chineseTranslation": "解冻过程",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "defrost the fridge",
+      "meaning": "清理冰箱中的霜或冰",
+      "example": "I need to defrost the fridge because it's full of ice.",
+      "exampleTranslation": "我需要解冻冰箱，因为里面全是冰。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "defrost food",
+      "meaning": "使冷冻食物解冻",
+      "example": "Always defrost food in the refrigerator to avoid bacterial growth.",
+      "exampleTranslation": "总是将食物在冰箱中解冻，以避免细菌滋生。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She forgot to defrost the chicken before cooking dinner.",
+      "translation": "她忘记在做晚饭前解冻鸡肉。",
+      "source": "Daily conversation (e.g., from everyday English corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In winter, we have to defrost the car windows every morning.",
+      "translation": "在冬天，我们每天早上必须解冻车窗。",
+      "source": "Informal narrative (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The technician used a special device to defrost the aircraft's wings during the storm.",
+      "translation": "技术员在风暴中使用了特殊设备来解冻飞机的机翼。",
+      "source": "Technical report (e.g., from aviation literature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "Removal or reversal",
+        "language": "Latin (from Latin 'de-' meaning 'from' or 'away')"
+      },
+      {
+        "root": "frost",
+        "meaning": "Frozen water or ice",
+        "language": "Old English (from Proto-Germanic '*frustaz')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于中古英语时期，结合了拉丁前缀 'de-'（表示移除）和古英语 'frost'（表示霜或冻结）。从14世纪开始用于描述移除冻结状态的过程，随着现代制冷技术的出现，在19世纪扩展到食物和设备语境中。",
+    "firstKnownUse": "Circa 14th century",
+    "relatedWords": [
+      "unfreeze",
+      "thaw",
+      "deice"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4 (基于语音学理论，该词的元音和辅音组合如 /fr/ 可能对中文母语者造成轻微困难，但整体简单)",
+    "spellingDifficulty": "3 (拼写规则常规，无不常见字母组合)",
+    "meaningComplexity": "5 (语义涉及物理过程，可能需要上下文理解，但对中级学习者较直观)",
+    "usageComplexity": "4 (常见于日常和技术语境，但需注意动词搭配)",
+    "learningTips": [
+      "使用认知科学中的双编码策略：将 'defrost' 与视觉图像（如冰块融化）结合，并联想到个人经验，如中国家庭的冰箱使用；重复练习以强化海马体记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "thaw",
+        "similarity": "0.8",
+        "context": "适用于自然环境或食物解冻的语境，例如天气变暖导致冰雪融化"
+      },
+      {
+        "word": "unfreeze",
+        "similarity": "0.7",
+        "context": "多用于金融或政治语境，如解除冻结资产"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "freeze",
+        "context": "在烹饪或天气语境中，表示使物体冻结"
+      },
+      {
+        "word": "ice over",
+        "context": "描述表面结冰的场景"
+      }
+    ],
+    "hypernyms": [
+      "melt"
+    ],
+    "hyponyms": [
+      "microwave defrost",
+      "refrigerator defrost"
+    ],
+    "collocations": [
+      {
+        "pattern": "defrost + noun (e.g., defrost the meat)",
+        "examples": [
+          "defrost the car",
+          "defrost food"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + defrost (e.g., quickly defrost)",
+        "examples": [
+          "slowly defrost",
+          "fully defrost"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词反映了现代工业化和日常生活中的技术依赖，尤其在西方文化中，象征着便利与效率，如美国文化中冰箱的使用体现了消费主义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于家电和食品语境",
+        "usage": "在日常对话中频繁出现，如 'defrost cycle' 在电器说明书中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于气候相关语境",
+        "usage": "在文学或新闻中用于描述冬季现象"
+      }
+    ],
+    "historicalContext": "与工业革命相关的制冷技术发展相连，在19世纪的英国文学中（如狄更斯作品）隐喻社会冷漠或变革。",
+    "modernUsage": "在社交媒体和科技语境下流行，例如TikTok视频中展示快速解冻技巧，体现跨文化共享"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个冰冻的鸡肉块在微波炉中慢慢解冻，周围有蒸汽升起。",
+      "keyElements": [
+        "冰块",
+        "热源",
+        "水滴"
+      ],
+      "emotionalConnection": "联想到中国春节家庭聚餐时解冻饺子的温暖场景，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "De-frost 像 'de' 去除 + 'frost' 霜，想象用火 'de' 走霜。",
+        "explanation": "通过视觉联想加强海马体编码，基于认知心理学中的图像记忆技术"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /diːˈfrɒst/ 听起来像 'dee-frost'，联想到 'deep frost' 深霜，然后移除它。",
+        "explanation": "利用声音与图像的联觉，帮助巩固短期记忆转为长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "freeze",
+      "melt",
+      "warm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "defrosted",
+      "pastParticiple": "defrosted",
+      "presentParticiple": "defrosting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., I defrost the food)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句或描述性句子",
+        "examples": [
+          "We defrost vegetables overnight."
+        ]
+      },
+      {
+        "pattern": "Verb + in + location (e.g., defrost in the fridge)",
+        "description": "表示解冻位置的介词短语",
+        "examples": [
+          "Defrost it in the microwave."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'defrost' as a noun without article",
+        "correction": "Use with article if needed, e.g., 'the defrost process'",
+        "explanation": "作为名词时需注意定冠词的使用，以符合英语语法规则"
+      },
+      {
+        "mistake": "Confusing with 'deforest'",
+        "correction": "Use 'defrost' for ice removal",
+        "explanation": "发音相似可能导致混淆，建议通过语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "日常家居",
+      "科技",
+      "烹饪"
+    ],
+    "tags": [
+      "技术术语",
+      "动词",
+      "环境"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

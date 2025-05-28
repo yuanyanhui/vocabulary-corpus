@@ -1,0 +1,258 @@
+{
+  "word": "intercepter",
+  "phonetics": {
+    "british": "/ɪn.təˈsep.tə(r)/",
+    "american": "/ɪnˈtɝː.sep.tɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or device that intercepts something, such as an aircraft designed to intercept enemy planes or a software program that captures data in transit.",
+      "chineseTranslation": "拦截者；截获器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In military contexts, a fast aircraft used for intercepting and engaging enemy aircraft.",
+      "chineseTranslation": "拦截机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or networking, a mechanism or program that intercepts signals, messages, or data flows for analysis or redirection.",
+      "chineseTranslation": "拦截程序",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air interceptor",
+      "meaning": "空中拦截器，指用于拦截敌方飞机的飞机",
+      "example": "The air interceptor was deployed to neutralize incoming threats.",
+      "exampleTranslation": "该空中拦截器被部署来中和传入的威胁。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "missile interceptor",
+      "meaning": "导弹拦截器，指用于摧毁来袭导弹的防御系统",
+      "example": "The missile interceptor system successfully destroyed the incoming warhead.",
+      "exampleTranslation": "导弹拦截器系统成功摧毁了来袭的弹头。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "signal intercepter",
+      "meaning": "信号拦截器，指用于捕捉和分析通信信号的设备",
+      "example": "The signal intercepter detected unauthorized transmissions in the network.",
+      "exampleTranslation": "信号拦截器在网络中检测到了未授权的传输。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The fighter jet acted as an intercepter, quickly engaging the enemy drones.",
+      "translation": "这架战斗机充当拦截者，迅速与敌方无人机交战。",
+      "source": "Military literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cybersecurity, an intercepter can monitor and block malicious code before it reaches the system.",
+      "translation": "在网络安全中，拦截器可以在恶意代码到达系统前监视并阻止它。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the Cold War, advanced intercepters were crucial for national defense strategies.",
+      "translation": "在冷战期间，先进的拦截器对国家防御策略至关重要。",
+      "source": "Historical texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "介于之间",
+        "language": "Latin"
+      },
+      {
+        "root": "capere",
+        "meaning": "抓住或捕获",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语 'inter-'（意思是 'between' 或 'among'）与 'capere'（意思是 'to take' 或 'to seize'）的组合。在中世纪拉丁语中演变为 'interceptare'，表示 'to seize between'。17世纪传入英语，用于军事和一般拦截概念，随着技术进步扩展到现代计算和通信领域。",
+    "firstKnownUse": "约 1611 年",
+    "relatedWords": [
+      "intercept",
+      "interception",
+      "captor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将词根 'inter-' 与 'capere' 联想为 '介入并抓住' 的场景；通过视觉化军事或网络拦截的图像增强记忆；建议初级学习者从简单上下文化起，避免抽象技术语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "blocker",
+        "similarity": "0.7",
+        "context": "适用于技术或体育语境中，表示阻挡或拦截"
+      },
+      {
+        "word": "defender",
+        "similarity": "0.6",
+        "context": "在军事或体育中，表示保护性拦截"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "transmitter",
+        "context": "在通信语境中，表示发送而非拦截"
+      },
+      {
+        "word": "evader",
+        "context": "在军事语境中，表示逃避而非拦截"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "aircraft"
+    ],
+    "hyponyms": [
+      "fighter jet",
+      "firewall"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + intercepter (e.g., missile intercepter)",
+        "examples": [
+          "The radar-guided intercepter was activated."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + intercepter (e.g., deploy an intercepter)",
+        "examples": [
+          "They deployed the intercepter swiftly."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与冷战时期的军事紧张和现代网络安全相关，象征保护与防御；在中国文化中，可能与国家安全和科技自主相联结，隐含防范外来威胁的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如网络安全",
+        "usage": "在美国英语中，强调创新和军事应用，例如在硅谷科技公司"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重历史军事含义",
+        "usage": "在英国英语中，常出现在历史或国防讨论中"
+      }
+    ],
+    "historicalContext": "与20世纪冷战和二战时期的航空技术相关，常出现在文学如Tom Clancy的小说中，反映社会对安全的焦虑。",
+    "modernUsage": "在社交媒体和数字平台上，流行于网络安全讨论中，如Twitter上的黑客事件报道。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个快速的战斗机在空中捕捉敌方物体，就像一个守门员拦截足球。",
+      "keyElements": [
+        "战斗机",
+        "捕捉",
+        "防御"
+      ],
+      "emotionalConnection": "联结个人对英雄主义或保护家庭安全的体验，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'intercepter' 联想为 'inter- (进入) + cept (抓住)'，如进入并抓住一个间谍。",
+        "explanation": "通过词根联想建立认知连接，帮助记忆语义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪn.təˈsep.tə(r)/ 听起来像 'enter cept her'，想象进入并抓住她。",
+        "explanation": "利用声音相似性创建有趣的故事情节"
+      }
+    ],
+    "wordAssociations": [
+      "intercept",
+      "guard",
+      "block"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "intercepters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Intercepter",
+        "description": "主语 + 动词 + 拦截者结构，常用于描述动作",
+        "examples": [
+          "The system uses an intercepter."
+        ]
+      },
+      {
+        "pattern": "Adjective + Intercepter",
+        "description": "形容词 + 拦截者结构，用于修饰",
+        "examples": [
+          "Advanced intercepter technology is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interceptor' (correct spelling)",
+        "correction": "Use 'intercepter' if intended, but standard is 'interceptor'",
+        "explanation": "可能由于拼写变体导致；建议查证语料库"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "该词为名词，非动词形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "military",
+      "technology",
+      "security"
+    ],
+    "tags": [
+      "defense",
+      "computing",
+      "aviation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

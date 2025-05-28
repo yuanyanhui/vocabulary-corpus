@@ -1,0 +1,270 @@
+{
+  "word": "porter",
+  "phonetics": {
+    "british": "/ˈpɔːtə(r)/",
+    "american": "/ˈpɔrtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person employed to carry luggage and other loads, especially in hotels, railway stations, or airports.",
+      "chineseTranslation": "门房；搬运工",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A dark brown beer brewed from malted barley, often with a strong, malty flavor.",
+      "chineseTranslation": "波特酒（一种深色啤酒）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a term related to stemming algorithms, such as the Porter stemmer, which reduces words to their root form.",
+      "chineseTranslation": "波特算法（用于词干提取）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "porter service",
+      "meaning": "搬运服务",
+      "example": "The hotel provides excellent porter service for arriving guests.",
+      "exampleTranslation": "酒店为抵达的客人提供一流的搬运服务。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "night porter",
+      "meaning": "夜班门房",
+      "example": "The night porter ensures the building is secure after hours.",
+      "exampleTranslation": "夜班门房确保大楼在营业时间外安全。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "glass of porter",
+      "meaning": "一杯波特酒",
+      "example": "He ordered a glass of porter to pair with his meal at the pub.",
+      "exampleTranslation": "他在酒吧点了一杯波特酒来配餐。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The porter at the station helped load the heavy suitcases onto the train.",
+      "translation": "车站的搬运工帮忙把沉重的行李装上火车。",
+      "source": "Daily conversation (based on British National Corpus - BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In Victorian England, porter was a popular drink among the working class.",
+      "translation": "在维多利亚时代的英国，波特酒是工人阶级的流行饮品。",
+      "source": "Historical literature (e.g., from Oxford English Dictionary - OED)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The Porter stemmer algorithm is widely used in natural language processing to normalize words.",
+      "translation": "波特算法在自然语言处理中广泛用于词干规范化。",
+      "source": "Technical documentation (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (from Latin)",
+    "rootWords": [
+      {
+        "root": "port",
+        "meaning": "gate, door, or carry",
+        "language": "Latin"
+      },
+      {
+        "root": "portier",
+        "meaning": "gatekeeper",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'porta'（门）演变而来，通过古法语 'portier' 发展为指代守门人或搬运工；14 世纪开始扩展到啤酒类型，受英国酿酒传统影响，代表工人阶级饮品；现代意义包括计算机术语，由 Martin Porter 在 1980 年代引入。",
+    "firstKnownUse": "14th century (as per OED records)",
+    "relatedWords": [
+      "doorman",
+      "bellhop",
+      "stout",
+      "stemmer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10 scale; simple vowel and consonant sounds, minimal regional variation)",
+    "spellingDifficulty": "2 (1-10 scale; straightforward phonetic spelling, easy for intermediate learners)",
+    "meaningComplexity": "5 (1-10 scale; multiple meanings require context disambiguation, based on polysemy in cognitive linguistics)",
+    "usageComplexity": "4 (1-10 scale; common in everyday and specific contexts, but needs cultural awareness)",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将不同含义分组，例如先学习职业相关含义，再扩展到文化或技术语境；",
+      "使用双编码理论，通过视觉图像（如想象门房携带行李的场景）与词汇关联；",
+      "针对中文学习者，练习语境切换以避免混淆多义词"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "baggage handler",
+        "similarity": "0.8",
+        "context": "在酒店或交通语境中，用于职业含义"
+      },
+      {
+        "word": "stout",
+        "similarity": "0.7",
+        "context": "在饮品语境中，指代类似啤酒类型"
+      },
+      {
+        "word": "stemmer",
+        "similarity": "0.6",
+        "context": "在技术语境中，用于算法相关"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "passenger",
+        "context": "在交通语境中，指非服务提供者"
+      },
+      {
+        "word": "teetotaler",
+        "context": "在饮品语境中，指戒酒者"
+      }
+    ],
+    "hypernyms": [
+      "worker",
+      "beverage",
+      "algorithm"
+    ],
+    "hyponyms": [
+      "hotel porter",
+      "railway porter",
+      "dark ale"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + preposition + noun (e.g., porter at the hotel)",
+        "examples": [
+          "porter at the hotel",
+          "glass of porter"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + noun (e.g., hire a porter)",
+        "examples": [
+          "hire a porter",
+          "brew porter"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英国文化中，'porter' 作为啤酒类型象征工业革命时期的工人阶级生活，隐含社会平等和传统聚会的含义；在现代美国，职业含义强调服务行业效率。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于啤酒语境，带有历史怀旧感",
+        "usage": "在社交场合如酒吧中常见，反映英国酒文化"
+      },
+      {
+        "region": "美国",
+        "variation": "偏向职业含义，如机场搬运工",
+        "usage": "在服务行业中流行，少见啤酒用法"
+      }
+    ],
+    "historicalContext": "起源于14世纪的欧洲封建社会，'porter' 最初指守门人；18世纪在英国酿酒业兴起，与文学作品如狄更斯的著作相关联，体现社会阶层；现代在技术领域扩展。",
+    "modernUsage": "在社交媒体上，'porter' 常用于美食博主讨论啤酒，或在职业平台如LinkedIn讨论服务角色，反映全球化语境"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个穿着制服的门房在火车站搬运行李的场景，同时旁边有一杯深色啤酒的图片。",
+      "keyElements": [
+        "行李、制服、啤酒杯"
+      ],
+      "emotionalConnection": "联结个人旅行经历的兴奋感或品酒的放松感，以增强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'porter' as 'port + er' – like carrying things through a port (gate), and for beer, it's a 'port' of dark flavor.",
+        "explanation": "通过语义联想建立词汇网络，基于认知科学的空间记忆模型"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈpɔːtər/ 听起来像 'pour terror' – pouring a drink that might be 'terrifyingly' dark, for the beer meaning.",
+        "explanation": "利用声音与图像的联觉原理，帮助中文学习者区分多义"
+      }
+    ],
+    "wordAssociations": [
+      "carrier",
+      "beer",
+      "gatekeeper",
+      "algorithm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "porters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., The porter carries bags)",
+        "description": "典型主谓宾结构，用于描述动作",
+        "examples": [
+          "The porter assists guests."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., porter at the hotel)",
+        "description": "用于指定位置或语境",
+        "examples": [
+          "The night porter works late."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'porter' as a verb (non-existent)",
+        "correction": "Use as a noun only",
+        "explanation": "英文中 'porter' 仅为名词，避免误用为动词"
+      },
+      {
+        "mistake": "Mixing meanings in context",
+        "correction": "Rely on context clues",
+        "explanation": "中文学习者常混淆多义，需练习语境辨析"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus (medium overall)",
+    "domains": [
+      "hospitality",
+      "beverage",
+      "technology"
+    ],
+    "tags": [
+      "occupation",
+      "beverage",
+      "computing",
+      "British English"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

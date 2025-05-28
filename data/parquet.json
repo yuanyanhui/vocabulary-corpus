@@ -1,0 +1,258 @@
+{
+  "word": "parquet",
+  "phonetics": {
+    "british": "/ˈpɑːkeɪ/",
+    "american": "/pɑrˈkeɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of flooring made from wooden blocks or strips arranged in a geometric pattern.",
+      "chineseTranslation": "镶木地板",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In theater, the part of the auditorium on the ground floor, often with tiered seating.",
+      "chineseTranslation": "剧院底层观众席",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A columnar storage file format used in big data processing, such as in Apache Hadoop.",
+      "chineseTranslation": "Parquet数据格式（列式存储文件格式）",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "parquet floor",
+      "meaning": "镶木地板",
+      "example": "The living room features a beautiful parquet floor.",
+      "exampleTranslation": "客厅铺设着美丽的镶木地板。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "install parquet",
+      "meaning": "安装镶木地板",
+      "example": "They decided to install parquet in the hallway for a classic look.",
+      "exampleTranslation": "他们决定在走廊安装镶木地板以营造经典氛围。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "Parquet file",
+      "meaning": "Parquet文件",
+      "example": "The dataset is stored as a Parquet file for efficient querying.",
+      "exampleTranslation": "数据集以Parquet文件形式存储，以实现高效查询。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old mansion had original parquet flooring that added to its charm.",
+      "translation": "这座老宅子有原装的镶木地板，增添了它的魅力。",
+      "source": "Literature (e.g., from historical novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern data engineering, using Parquet can significantly reduce storage costs.",
+      "translation": "在现代数据工程中，使用Parquet可以显著降低存储成本。",
+      "source": "Technical articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The theater's parquet level was filled with eager audience members.",
+      "translation": "剧院的底层观众席挤满了热切的观众。",
+      "source": "News and entertainment media",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "parquet",
+        "meaning": "small compartment or enclosure",
+        "language": "Old French"
+      },
+      {
+        "root": "parc",
+        "meaning": "park or enclosed space",
+        "language": "Latin (from 'parricus' or related forms)"
+      }
+    ],
+    "historicalDevelopment": "源自14世纪的法语'parquet'，最初指小围栏或分区。17世纪传入英语，指地板图案，源自法式建筑风格的设计。19世纪扩展到剧院术语。20世纪后期，在计算机领域被用作专有名词，指数据格式，基于其高效的结构化存储特性。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "parquetry (镶嵌地板工艺)",
+      "park (公园)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'parquet'与视觉图像关联，例如想象木地板图案，以增强记忆；对于中文学习者，建议通过比较法，将其与类似词汇如'flooring'进行对比，以减少混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "wood flooring",
+        "similarity": "0.8",
+        "context": "适用于家居装修语境中，指类似材料的地板"
+      },
+      {
+        "word": "mosaic floor",
+        "similarity": "0.7",
+        "context": "在艺术或建筑语境中，指图案化的地板设计"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "carpet",
+        "context": "在家居语境中，指柔软覆盖物，与硬质地板相对"
+      },
+      {
+        "word": "tile",
+        "context": "在建筑语境中，指陶瓷或石质地板，与木质镶嵌相对"
+      }
+    ],
+    "hypernyms": [
+      "flooring",
+      "data format"
+    ],
+    "hyponyms": [
+      "herringbone parquet",
+      "Apache Parquet"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + adjective (e.g., wooden parquet)",
+        "examples": [
+          "beautiful wooden parquet"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + noun (e.g., install parquet)",
+        "examples": [
+          "to lay parquet"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，parquet象征着优雅和传统建筑美学，常与法国巴洛克风格关联，隐含财富和精致生活的语义；在技术语境中，代表现代数据处理的效率。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于建筑历史语境",
+        "usage": "常用于描述历史建筑的地板"
+      },
+      {
+        "region": "美国",
+        "variation": "包括技术术语扩展",
+        "usage": "在科技领域更常见，如数据存储"
+      }
+    ],
+    "historicalContext": "parquet起源于17世纪法国宫廷建筑，与路易十四时代的奢华文化相关；在文学中，如狄更斯作品中出现，反映社会阶层；在当代，技术语境下与大数据革命关联。",
+    "modernUsage": "在社交媒体和数字平台上，parquet常用于家居设计分享或技术讨论，体现跨文化融合，如中文社交媒体上出现'parquet flooring'的流行。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个华丽的客厅，地板上铺满几何图案的木块，像一个公园（park）里的小围栏。",
+      "keyElements": [
+        "木块图案",
+        "公园围栏"
+      ],
+      "emotionalConnection": "联结个人经验，例如回忆童年房屋的地板，以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Parquet sounds like 'park it' – imagine parking a car on a wooden floor pattern.",
+        "explanation": "通过声音联想增强记忆，结合视觉化以利用认知加工"
+      },
+      {
+        "type": "缩略",
+        "content": "P for Pattern and Park – link to the word's origin.",
+        "explanation": "使用首字母缩略法，基于词源以加强长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "floor",
+      "wood",
+      "pattern",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "parquets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the parquet floor)",
+        "description": "作为名词使用，通常在描述性句子中",
+        "examples": [
+          "The parquet in the room is exquisite."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., on the parquet)",
+        "description": "与方位相关",
+        "examples": [
+          "She danced on the parquet."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'parakeet' (a bird)",
+        "correction": "Use 'parquet' for flooring or data format",
+        "explanation": "发音相似可能导致混淆；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'parquets' for multiple instances",
+        "explanation": "英语名词规则简单，但初级学习者易忽略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "architecture",
+      "interior design",
+      "technology",
+      "theater"
+    ],
+    "tags": [
+      "building materials",
+      "data storage",
+      "arts"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

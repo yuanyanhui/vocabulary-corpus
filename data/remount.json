@@ -1,0 +1,244 @@
+{
+  "word": "remount",
+  "phonetics": {
+    "british": "/riːˈmaʊnt/",
+    "american": "/riːˈmaʊnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mount or get on something, such as a horse or a vehicle, again after dismounting.",
+      "chineseTranslation": "重新骑上或登上（如马或车辆）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to make a filesystem or storage device accessible again after it has been unmounted.",
+      "chineseTranslation": "在计算机中，重新挂载文件系统或存储设备",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "remount a horse",
+      "meaning": "重新骑上马",
+      "example": "After falling off, the rider had to remount a horse carefully.",
+      "exampleTranslation": "摔下马后，骑手必须小心地重新骑上马。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "remount the filesystem",
+      "meaning": "重新挂载文件系统",
+      "example": "To fix the error, you need to remount the filesystem with read-write permissions.",
+      "exampleTranslation": "为了修复错误，您需要以读写权限重新挂载文件系统。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The jockey remounted his horse after a brief rest during the race.",
+      "translation": "骑师在比赛中短暂休息后重新骑上他的马。",
+      "source": "Sports commentary (e.g., from equestrian events in literature or news)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Linux, you can remount a partition using the command 'mount -o remount,rw /dev/sda1'.",
+      "translation": "在Linux中，您可以使用命令 'mount -o remount,rw /dev/sda1' 重新挂载分区。",
+      "source": "Technical documentation (e.g., from man pages or online tutorials)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the storm, the explorers had to remount their expedition with new supplies.",
+      "translation": "风暴过后，探险者们必须用新补给重新开始他们的探险。",
+      "source": "Literature (e.g., adventure novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "又，再",
+        "language": "Latin"
+      },
+      {
+        "root": "mount",
+        "meaning": "登上，爬上",
+        "language": "Old French (from Latin montare)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 're-'（表示重复）与 'montare'（源自 'mons'，意为山），通过古法语 'remonter' 演变为现代英语，最初用于物理动作如重新爬山或骑马，17世纪后扩展到比喻意义和技术领域如计算机操作。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "mount",
+      "dismount",
+      "remounting"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法，将 're-' 视为重复前缀，与 'mount' 结合，联想到日常重复动作；根据认知科学，结合个人经验如骑车重新启动，以增强语境记忆。",
+      "通过重复练习和语境暴露，减少混淆多义词的风险，利用间隔重复系统（SRS）来强化词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reascend",
+        "similarity": "0.7",
+        "context": "适用于物理攀登或重新开始的语境，如登山"
+      },
+      {
+        "word": "reattach",
+        "similarity": "0.6",
+        "context": "在技术语境中，类似于重新连接设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dismount",
+        "context": "适用于从马或设备上下来，与之相对的动作"
+      },
+      {
+        "word": "unmount",
+        "context": "在计算机语境中，表示取消挂载"
+      }
+    ],
+    "hypernyms": [
+      "mount"
+    ],
+    "hyponyms": [
+      "reboard",
+      "rehang"
+    ],
+    "collocations": [
+      {
+        "pattern": "remount + noun (e.g., horse, drive)",
+        "examples": [
+          "remount the horse",
+          "remount the drive"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "remount + preposition (e.g., on)",
+        "examples": [
+          "remount on the bicycle"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与骑士文化或探险文学相关，象征韧性和重新开始，如在中世纪文学中代表勇气的象征；在现代，技术语境下反映数字化生活。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于传统语境如马术",
+        "usage": "在英国英语中，常出现在乡村或历史语境，强调礼仪和传统"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于技术或日常语境",
+        "usage": "在美国英语中，偏向计算机领域，体现实用主义"
+      }
+    ],
+    "historicalContext": "与欧洲骑士时代和工业革命相关，文学作品如莎士比亚戏剧中隐含重新行动的主题；在当代，关联数字文化如开源社区。",
+    "modernUsage": "在社交媒体和科技论坛中流行，用于比喻个人成长或系统重启，体现快速恢复的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个骑手从马背上摔下，然后重新爬上去的场景",
+      "keyElements": [
+        "马匹",
+        "摔倒",
+        "重新爬上"
+      ],
+      "emotionalConnection": "联结到个人失败后重来的经历，触发韧劲和成就感的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re- + Mount = 重新登山",
+        "explanation": "通过视觉联想一个重复攀山的图像，利用认知科学中的双编码理论，将词汇与动作图像结合以提升记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "RE-MOUNT: Repeat Every Mount",
+        "explanation": "创建缩略语以强化重复概念，基于Elaborative Rehearsal原则"
+      }
+    ],
+    "wordAssociations": [
+      "restart",
+      "reclimb",
+      "reinstall"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "remounted",
+      "pastParticiple": "remounted",
+      "presentParticiple": "remounting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + remount + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "He remounts the horse."
+        ]
+      },
+      {
+        "pattern": "Remount + object + with + modifier",
+        "description": "动词 + 宾语 + 以 + 修饰语结构，用于添加细节",
+        "examples": [
+          "Remount the drive with new options."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'mount' without the 're-' prefix",
+        "correction": "Use 'remount' for repeated action",
+        "explanation": "学习者常忽略前缀 're-'，导致语义错误；通过语境练习可避免"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'remounts' instead of 'remounted'",
+        "correction": "Match the tense to the context",
+        "explanation": "中级学习者可能混淆时态，建议通过句子重构练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "体育",
+      "技术",
+      "文学"
+    ],
+    "tags": [
+      "动作动词",
+      "重复前缀",
+      "计算机术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

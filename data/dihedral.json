@@ -1,0 +1,248 @@
+{
+  "word": "dihedral",
+  "phonetics": {
+    "british": "/daɪˈhiːdrəl/",
+    "american": "/daɪˈhiːdrəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or forming an angle between two planes, often used in geometry or aviation.",
+      "chineseTranslation": "二面的；关于两个平面的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The angle formed between two planes, such as in crystallography or aircraft wing design.",
+      "chineseTranslation": "二面角；两个平面之间的角度",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dihedral angle",
+      "meaning": "两个平面之间的角度",
+      "example": "In geometry, the dihedral angle is crucial for understanding polyhedral structures.",
+      "exampleTranslation": "在几何学中，二面角对于理解多面体结构至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dihedral group",
+      "meaning": "一个表示二维旋转和反射的对称群",
+      "example": "The dihedral group D_n describes the symmetries of a regular polygon.",
+      "exampleTranslation": "二面群 D_n 描述了正多边形的对称性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The architect carefully calculated the dihedral angle to ensure the stability of the dome.",
+      "translation": "建筑师仔细计算了二面角，以确保圆顶的稳定性。",
+      "source": "Technical engineering literature (e.g., from academic journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In aviation, adjusting the dihedral of the wings can improve the aircraft's roll stability.",
+      "translation": "在航空领域，调整机翼的二面角可以改善飞机的滚转稳定性。",
+      "source": "News article on aerospace technology",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Crystallographers use dihedral measurements to analyze the molecular structure of proteins.",
+      "translation": "晶体学家使用二面角测量来分析蛋白质的分子结构。",
+      "source": "Scientific publication (e.g., from Nature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "di-",
+        "meaning": "two",
+        "language": "Greek"
+      },
+      {
+        "root": "hedra",
+        "meaning": "seat or base",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek words 'di-' meaning 'two' and 'hedra' meaning 'seat' or 'base', evolving through Latin as 'dihedrus' in the context of geometry. It entered English in the 19th century with the rise of modern mathematics, initially used in crystallography and later expanded to fields like aviation.",
+    "firstKnownUse": "1820s",
+    "relatedWords": [
+      "polyhedral",
+      "tetrahedral",
+      "hedral"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块技术（chunking）将 'dihedral' 与几何概念关联，例如想象两个平面的视觉图像，以减少认知负荷；",
+      "通过重复暴露（spaced repetition）在技术语境中练习发音和拼写；",
+      "结合双编码理论，使用视觉辅助如绘图软件来记忆语义，避免抽象概念的孤立学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "biaxial",
+        "similarity": "0.7",
+        "context": "主要在晶体学或材料科学中，用于描述类似角度结构"
+      },
+      {
+        "word": "planar angle",
+        "similarity": "0.6",
+        "context": "在几何学中，适用于二维平面相关讨论"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monhedral",
+        "context": "表示单一平面结构，通常在矿物学中"
+      },
+      {
+        "word": "aspherical",
+        "context": "在光学或几何中，指非球面或非平面结构"
+      }
+    ],
+    "hypernyms": [
+      "angle",
+      "geometric term"
+    ],
+    "hyponyms": [
+      "wing dihedral",
+      "crystal dihedral"
+    ],
+    "collocations": [
+      {
+        "pattern": "dihedral + noun (e.g., angle, group)",
+        "examples": [
+          "dihedral angle in architecture",
+          "dihedral symmetry in polygons"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + dihedral (e.g., positive dihedral)",
+        "examples": [
+          "positive dihedral for stability"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征精确性和技术创新，常与数学和工程领域的理性思维相关联；在非西方语境中，可能被视为西方科学术语的象征，强调跨文化技术交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in aerospace contexts with practical applications.",
+        "usage": "在美国英语中，常见于工程教育和行业报告中，以强调实际功能"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Often retains a more theoretical tone in academic settings.",
+        "usage": "在英国英语中，多用于数学和物理学文献，反映传统学术风格"
+      }
+    ],
+    "historicalContext": "该词与19世纪工业革命和科学发展的背景相关联，例如在达尔文时代用于晶体学，推动了现代科学方法；在文学中，如H.G. Wells的作品中，隐喻为技术进步的象征。",
+    "modernUsage": "在社交媒体和在线教育平台上，'dihedral' 常用于STEM教育视频或论坛讨论，反映数字时代的技术传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个平行的墙壁（代表两个平面）相互倾斜形成一个角度，就如鸟儿翅膀的张开。",
+      "keyElements": [
+        "两个平面",
+        "角度",
+        "翅膀"
+      ],
+      "emotionalConnection": "联结到个人经验，如回忆儿时玩折纸飞机，触发好奇和成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dihedral sounds like 'die-high-drawl', imagine a high-pitched drawl from two dying planes crashing at an angle.",
+        "explanation": "通过声音联想和视觉图像结合认知科学中的双编码原理，帮助记忆发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-H: Two (Di) Inclined (I) Halves (H)",
+        "explanation": "使用缩略形式简化词根记忆，基于工作记忆模型减少认知负担"
+      }
+    ],
+    "wordAssociations": [
+      "angle",
+      "plane",
+      "symmetry",
+      "wing"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase structure",
+        "description": "作为名词时，常与其他名词搭配形成短语，如 'the dihedral angle'",
+        "examples": [
+          "The dihedral in the aircraft design ensures better control."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier",
+        "description": "作为形容词时，用于修饰名词，表示相关属性",
+        "examples": [
+          "This dihedral measurement is critical for the experiment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'dihydral' or mispronouncing as /di:ˈheɪdrəl/",
+        "correction": "Use correct IPA /daɪˈhiːdrəl/ and spell as 'dihedral'",
+        "explanation": "错误源于相似发音的词汇混淆；通过发音练习避免"
+      },
+      {
+        "mistake": "Using in non-technical contexts inappropriately",
+        "correction": "Restrict to technical or scientific writing",
+        "explanation": "该词语域为技术性，避免在非专业语境中使用以防止语义误导"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "Science",
+      "Mathematics",
+      "Engineering",
+      "Aviation"
+    ],
+    "tags": [
+      "Geometry",
+      "Technical term",
+      "STEM"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

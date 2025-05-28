@@ -1,0 +1,257 @@
+{
+  "word": "genome",
+  "phonetics": {
+    "british": "/ˈdʒiːnəʊm/",
+    "american": "/ˈdʒiːnoʊm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The complete set of genes or genetic material present in a cell or organism.",
+      "chineseTranslation": "基因组",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The haploid set of chromosomes in a gamete or microorganism, or the complete genetic material of an organism.",
+      "chineseTranslation": "全套遗传物质",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "human genome",
+      "meaning": "人类基因组",
+      "example": "The human genome contains approximately 3 billion base pairs.",
+      "exampleTranslation": "人类基因组包含大约30亿个碱基对。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "genome sequencing",
+      "meaning": "基因组测序",
+      "example": "Genome sequencing has revolutionized medical diagnostics.",
+      "exampleTranslation": "基因组测序已经彻底改变了医疗诊断。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bacterial genome",
+      "meaning": "细菌基因组",
+      "example": "The bacterial genome is typically much smaller than that of eukaryotes.",
+      "exampleTranslation": "细菌基因组通常比真核生物的要小得多。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists mapped the entire genome of the virus in record time.",
+      "translation": "科学家们在创纪录的时间内绘制了该病毒的整个基因组。",
+      "source": "Scientific journal article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The human genome project was a landmark in biological research.",
+      "translation": "人类基因组计划是生物研究中的里程碑。",
+      "source": "News article from BBC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Understanding the genome of plants can lead to better crop yields.",
+      "translation": "了解植物基因组可以导致更好的作物产量。",
+      "source": "Agricultural report",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday conversation, people often discuss the genome in the context of genetic testing.",
+      "translation": "在日常对话中，人们经常在遗传测试的语境中讨论基因组。",
+      "source": "Informal media discussion",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "genos",
+        "meaning": "race or kind",
+        "language": "希腊语"
+      },
+      {
+        "root": "oma",
+        "meaning": "a mass or group",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪初的遗传学发展，由希腊词根 'genos'（意为种族或种类）和后缀 '-oma'（意为集合或体）组合而成。最初用于描述生物体的完整遗传物质，随着分子生物学的进步，该词的含义扩展到包括DNA序列的全面映射。",
+    "firstKnownUse": "1920s",
+    "relatedWords": [
+      "gene",
+      "genetics",
+      "chromosome"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用视觉辅助如DNA双螺旋图来构建心智图，帮助记忆抽象概念；",
+      "通过重复曝光和间隔重复法（spaced repetition）在科学语境中练习该词，以强化长期记忆；",
+      "将词汇与个人兴趣关联，例如联想基因组与家族遗传的故事，以提升情感连接和动机"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "genetic blueprint",
+        "similarity": "0.8",
+        "context": "在科学和技术语境中，用于描述遗传结构的整体蓝图"
+      },
+      {
+        "word": "DNA sequence",
+        "similarity": "0.7",
+        "context": "在分子生物学语境中，强调序列方面"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "phenotype",
+        "context": "在遗传学语境中，phenotype 指显性特征，而 genome 指潜在遗传物质"
+      }
+    ],
+    "hypernyms": [
+      "genetic material"
+    ],
+    "hyponyms": [
+      "mitochondrial genome",
+      "nuclear genome"
+    ],
+    "collocations": [
+      {
+        "pattern": "genome + noun (e.g., sequencing, editing)",
+        "examples": [
+          "genome sequencing",
+          "genome editing"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the + genome + of + noun",
+        "examples": [
+          "the genome of humans"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代文化中，该词象征着生物技术革命和伦理辩论，例如人类基因组计划引发了关于隐私和遗传工程的全球讨论，体现了科学与社会价值的交叉",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业语境，如基因组测序公司",
+        "usage": "在美国英语中，常与创新和技术进步相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重学术和历史语境",
+        "usage": "在英国英语中，常与历史性项目如Wellcome Trust Genome Campus相关"
+      }
+    ],
+    "historicalContext": "与20世纪的遗传学革命相关联，例如1953年Watson和Crick发现DNA结构，以及1990-2003年的人类基因组计划，这反映了科学进步对社会的影响",
+    "modernUsage": "在社交媒体和新闻中，该词常出现于COVID-19病毒基因组讨论中，体现了全球化的科学传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的蓝图卷轴，里面绘有螺旋状的DNA双链，代表基因组作为生物体的遗传蓝图",
+      "keyElements": [
+        "DNA双螺旋",
+        "蓝图卷轴",
+        "遗传代码"
+      ],
+      "emotionalConnection": "联结到个人家族历史或健康故事，以触发情感共鸣，例如回想祖先的遗传特征"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Genome 听起来像 'gene home'，意思是基因的家",
+        "explanation": "通过声音联想将抽象概念转化为熟悉的家庭意象，帮助强化记忆"
+      },
+      {
+        "type": "视觉化",
+        "content": "将genome视为一幅遗传地图，像GPS导航一样指引生物发展",
+        "explanation": "利用空间记忆技巧，将词汇与导航概念关联，提升认知保留"
+      }
+    ],
+    "wordAssociations": [
+      "gene",
+      "DNA",
+      "chromosome",
+      "heredity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "genomes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: the genome of [entity]",
+        "description": "该结构用于指定特定实体的基因组",
+        "examples": [
+          "the genome of the bacteria"
+        ]
+      },
+      {
+        "pattern": "Verb + genome (e.g., sequence the genome)",
+        "description": "常用于动作语境中描述对基因组的操作",
+        "examples": [
+          "Scientists sequence the genome regularly"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing genome with gene",
+        "correction": "Use genome for the entire set and gene for individual units",
+        "explanation": "基因组指整体遗传物质，而基因指单个单位；这种混淆源于相似词根"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'genomes' for plural",
+        "explanation": "作为可数名词，需正确添加复数形式以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in scientific corpora like COCA)",
+    "domains": [
+      "science",
+      "biology",
+      "medicine",
+      "technology"
+    ],
+    "tags": [
+      "genetics",
+      "DNA",
+      "biotechnology",
+      "heredity"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

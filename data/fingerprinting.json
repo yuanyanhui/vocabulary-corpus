@@ -1,0 +1,260 @@
+{
+  "word": "fingerprinting",
+  "phonetics": {
+    "british": "/ˈfɪŋɡəprɪntɪŋ/",
+    "american": "/ˈfɪŋɡərˌprɪntɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of recording and analyzing the unique patterns of ridges and valleys on the tips of a person's fingers for identification purposes.",
+      "chineseTranslation": "指纹识别过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "The act of using unique identifiers, such as digital patterns or biological markers, to track or identify individuals, objects, or data.",
+      "chineseTranslation": "指纹化处理",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To take or create a fingerprint record of someone or something for verification or tracking.",
+      "chineseTranslation": "进行指纹采集",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fingerprinting technology",
+      "meaning": "指纹识别技术",
+      "example": "Fingerprinting technology has revolutionized security systems worldwide.",
+      "exampleTranslation": "指纹识别技术彻底改变了全球的安全系统。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "DNA fingerprinting",
+      "meaning": "DNA指纹识别",
+      "example": "DNA fingerprinting is commonly used in forensic investigations to match suspects.",
+      "exampleTranslation": "DNA指纹识别常用于法医调查中匹配嫌疑人。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "browser fingerprinting",
+      "meaning": "浏览器指纹化",
+      "example": "Browser fingerprinting allows websites to track users without cookies.",
+      "exampleTranslation": "浏览器指纹化允许网站在没有使用cookies的情况下跟踪用户。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The police used fingerprinting to identify the suspect at the crime scene.",
+      "translation": "警方使用指纹识别来识别犯罪现场的嫌疑人。",
+      "source": "Forensic literature (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, fingerprinting helps in detecting fraudulent activities online.",
+      "translation": "在现代计算中，指纹化有助于检测在线欺诈活动。",
+      "source": "Technology news (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She underwent fingerprinting as part of the immigration process.",
+      "translation": "她作为移民程序的一部分进行了指纹采集。",
+      "source": "General news (e.g., from OED examples)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "英语",
+    "rootWords": [
+      {
+        "root": "finger",
+        "meaning": "手指",
+        "language": "古英语（Old English）"
+      },
+      {
+        "root": "print",
+        "meaning": "印刷或压印",
+        "language": "拉丁语（Latin）via 古法语（Old French）"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪的英语，指纹（fingerprint）一词最早用于描述手指上的独特模式，而fingerprinting作为动名词形式发展于1850s，用于法医背景。随着技术进步，该词扩展到数字和生物识别领域，从单纯的物理过程演变为更广泛的识别技术。",
+    "firstKnownUse": "1858年",
+    "relatedWords": [
+      "fingerprint",
+      "biometrics",
+      "identification"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR等级，根据语言学习理论，如Common European Framework)",
+    "pronunciationDifficulty": "4 (1-10，基于音节简单且常见辅音组合，但/ŋ/和/ɪŋ/可能对中文母语者造成轻微困难)",
+    "spellingDifficulty": "5 (1-10，拼写规则常规，但复合词结构需记忆)",
+    "meaningComplexity": "6 (1-10，语义可能扩展到多个领域，如法医和技术，需上下文理解)",
+    "usageComplexity": "5 (1-10，常见于正式语境，但搭配多样)",
+    "learningTips": [
+      "结合认知科学原理，使用间隔重复法记忆发音；将词汇与个人经历关联，如想象犯罪现场场景，以增强海马体记忆路径；通过多模态学习，如听录音并可视化指纹图案，提高保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "identification",
+        "similarity": "0.7",
+        "context": "适用于法医或安全语境中，需要唯一性验证"
+      },
+      {
+        "word": "biometric scanning",
+        "similarity": "0.8",
+        "context": "在技术领域，用于设备解锁或数据追踪"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "anonymization",
+        "context": "在隐私保护语境中，用于隐藏身份以避免追踪"
+      },
+      {
+        "word": "obfuscation",
+        "context": "在数据安全语境中，用于混淆信息以防止识别"
+      }
+    ],
+    "hypernyms": [
+      "identification process",
+      "tracking method"
+    ],
+    "hyponyms": [
+      "DNA fingerprinting",
+      "digital fingerprinting"
+    ],
+    "collocations": [
+      {
+        "pattern": "fingerprinting + noun (e.g., technology, system)",
+        "examples": [
+          "fingerprinting system",
+          "fingerprinting method"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + fingerprinting (e.g., use fingerprinting)",
+        "examples": [
+          "employ fingerprinting",
+          "apply fingerprinting"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着法律与秩序，常与犯罪侦查和个人隐私权相关联；在现代社会，代表技术监控的双刃剑，隐含对数据安全的担忧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如在线隐私讨论",
+        "usage": "在美国英语中，fingerprinting 常与网络安全法规（如GDPR）相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向传统法医含义",
+        "usage": "在英国英语中，常见于历史性犯罪小说或警方报告"
+      }
+    ],
+    "historicalContext": "该词与19世纪的刑事司法改革相关联，如谢里丹·A·史密斯在1858年的首次应用；在中国文化中，类似概念见于古代指纹使用，但现代语境受西方影响。",
+    "modernUsage": "在社交媒体和数字时代，fingerprinting 常讨论隐私问题，如TikTok或Facebook上的用户追踪趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探在犯罪现场用放大镜检查指纹的场景。",
+      "keyElements": [
+        "侦探",
+        "放大镜",
+        "指纹图案"
+      ],
+      "emotionalConnection": "联结到个人安全感或电影经历，触发好奇心以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将fingerprinting想象为'finger' (手指) + 'printing' (打印)，如手指在纸上留下独特印记。",
+        "explanation": "通过视觉联想增强海马体编码，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "fingerprinting听起来像'fingertip printing'，联想到指尖触摸屏幕。",
+        "explanation": "利用声音与触觉的联结，促进多感官学习"
+      }
+    ],
+    "wordAssociations": [
+      "detective",
+      "security",
+      "tracking"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "fingerprinted",
+      "pastParticiple": "fingerprinted",
+      "presentParticiple": "fingerprinting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + fingerprinting",
+        "description": "主语 + 动词 + fingerprinting 结构，常用于描述过程",
+        "examples": [
+          "The lab conducts fingerprinting regularly."
+        ]
+      },
+      {
+        "pattern": "fingerprinting + of + noun",
+        "description": "fingerprinting + of + 名词 结构，表示具体对象的识别",
+        "examples": [
+          "The fingerprinting of suspects is mandatory."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'finger pointing' (which means blaming)",
+        "correction": "Use 'fingerprinting' for identification processes",
+        "explanation": "二者发音相似，但语义不同；中文母语者需注意上下文区分"
+      },
+      {
+        "mistake": "Incorrect verb form, e.g., 'fingerprintings'",
+        "correction": "Use 'fingerprinting' as a gerund or noun",
+        "explanation": "作为动名词，不需加-s；基于英语动词规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（根据COCA语料库，排名约中位数）",
+    "domains": [
+      "科技",
+      "法医",
+      "安全"
+    ],
+    "tags": [
+      "技术术语",
+      "识别",
+      "隐私"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

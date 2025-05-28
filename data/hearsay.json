@@ -1,0 +1,244 @@
+{
+  "word": "hearsay",
+  "phonetics": {
+    "british": "/ˈhɪəseɪ/",
+    "american": "/ˈhɪrseɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Information received from other people that cannot be substantiated; rumor or gossip.",
+      "chineseTranslation": "传闻；道听途说",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral to formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Based on hearsay rather than personal knowledge or direct evidence.",
+      "chineseTranslation": "基于传闻的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hearsay evidence",
+      "meaning": "传闻证据，指法庭上基于他人陈述而非直接证人的证据",
+      "example": "The judge ruled that the hearsay evidence was inadmissible in court.",
+      "exampleTranslation": "法官裁定该传闻证据在法庭上不可采纳。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pure hearsay",
+      "meaning": "纯粹的传闻，指完全未经证实的二手信息",
+      "example": "The story about the celebrity's scandal was pure hearsay and lacked any factual basis.",
+      "exampleTranslation": "关于这位名人的丑闻故事完全是道听途说，没有任何事实依据。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In legal proceedings, hearsay is often excluded because it is unreliable.",
+      "translation": "在法律程序中，传闻通常被排除在外，因为它不可靠。",
+      "source": "Legal texts, such as from the Corpus of Contemporary American English (COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She dismissed the office gossip as mere hearsay and focused on her work.",
+      "translation": "她将办公室八卦视为单纯的传闻，并专注于自己的工作。",
+      "source": "Modern fiction or everyday conversation corpora, like British National Corpus (BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The historian cautioned against relying on hearsay from ancient texts without corroboration.",
+      "translation": "历史学家警告不要依赖古籍中的传闻，而应有佐证。",
+      "source": "Academic writing from JSTOR or academic corpora",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "hear",
+        "meaning": "To perceive sound with the ear",
+        "language": "Old English (from Proto-Germanic *hauzjaną)"
+      },
+      {
+        "root": "say",
+        "meaning": "To utter words",
+        "language": "Old English (from Proto-Germanic *sagjaną)"
+      }
+    ],
+    "historicalDevelopment": "从15世纪开始，源自中古英语的组合形式，最初用于描述口头转述的信息。在法律语境中演变为指非直接证词的证据，逐渐扩展到日常语言中表示未经证实的谣言，这反映了中世纪英语对口头传统的强调。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "gossip",
+      "rumor",
+      "testimony"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个链式传话游戏来记忆 'hearsay' 的含义；通过间隔重复系统 (Spaced Repetition Systems) 复习，以强化长期记忆；与母语 (中文) 中类似概念如 '道听途说' 建立跨语言联想，以降低认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rumor",
+        "similarity": "0.8",
+        "context": "在非正式语境中，用于描述未经证实的闲言碎语"
+      },
+      {
+        "word": "gossip",
+        "similarity": "0.7",
+        "context": "在社交或非正式场合，用于指代传播的小道消息"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fact",
+        "context": "在正式语境中，用于对比可证实的真相与传闻"
+      },
+      {
+        "word": "evidence",
+        "context": "在法律语境中，用于区分直接证据与传闻"
+      }
+    ],
+    "hypernyms": [
+      "information"
+    ],
+    "hyponyms": [
+      "rumor",
+      "gossip"
+    ],
+    "collocations": [
+      {
+        "pattern": "hearsay + noun (e.g., evidence, report)",
+        "examples": [
+          "hearsay evidence",
+          "hearsay report"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + hearsay (e.g., mere hearsay)",
+        "examples": [
+          "mere hearsay",
+          "unreliable hearsay"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'hearsay' 常象征信息传播中的不可靠性，反映了对个人证词和真相追求的文化价值，尤其在英美法律系统中被视为潜在的误导源。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于法律语境，如美国宪法修正案中的证据规则",
+        "usage": "在美国，'hearsay' 在法庭中严格定义，可能伴随特定例外规则"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英国普通法中类似使用，但可能更侧重于口头传统",
+        "usage": "在英国，'hearsay' 常出现在历史和文学中，强调社会 gossip 的负面影响"
+      }
+    ],
+    "historicalContext": "源自中世纪英语口头文化，与英国文学如莎士比亚作品中的谣言主题相关联；在现代，体现为对假新闻的警惕，特别是在后真相时代的社会媒体。",
+    "modernUsage": "在当代社交媒体和新闻语境下，'hearsay' 用于批评未经验证的信息传播趋势，体现了跨文化对事实性的强调。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电话游戏场景：一群人围成圈，每个人耳语一个消息，但消息在传递中扭曲。",
+      "keyElements": [
+        "耳语",
+        "链式传递",
+        "扭曲消息"
+      ],
+      "emotionalConnection": "联结到个人经历中被误传的八卦，触发幽默或警惕的情绪，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hear + Say = Hearsay (听 + 说 = 传闻)",
+        "explanation": "通过词根分解建立视觉联想，将 'hear' 想象为耳朵，'say' 为嘴巴，形成故事，帮助中文母语者记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "'Hearsay' 听起来像 'hear say'，类似于中文 '听说'",
+        "explanation": "利用声音相似性与母语词汇关联，基于认知语言学的镜像神经元理论"
+      }
+    ],
+    "wordAssociations": [
+      "rumor",
+      "gossip",
+      "whisper"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hearsays",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词使用，通常后接 of 或 in，例如 'hearsay of rumors'",
+        "examples": [
+          "The hearsay in the village spread quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier",
+        "description": "作为形容词修饰名词，例如 'hearsay evidence'",
+        "examples": [
+          "This is hearsay information."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'heresy' (异端邪说)",
+        "correction": "Use 'hearsay' for unverified information",
+        "explanation": "两者发音相似，但 'heresay' 涉及宗教或信念，而 'hearsay' 涉及信息可靠性"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for neutral or formal settings",
+        "explanation": "中文学习者可能错误地将它用于过于随意的对话中，影响语域适当性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "legal",
+      "social",
+      "media"
+    ],
+    "tags": [
+      "communication",
+      "evidence",
+      "rumor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "word": "subsumption",
+  "phonetics": {
+    "british": "/səbˈsʌmpʃn/",
+    "american": "/səbˈsʌmpʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of including or incorporating something under a more general category, especially in logic, philosophy, or computer science.",
+      "chineseTranslation": "包含或归入更广泛类别之下的行为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In artificial intelligence, a hierarchical control system where higher-level behaviors override lower-level ones.",
+      "chineseTranslation": "在人工智能中，指高层行为覆盖低层行为的层次控制系统",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subsumption architecture",
+      "meaning": "一种人工智能设计框架，其中高层任务控制低层任务",
+      "example": "Subsumption architecture is commonly used in robotics to manage complex behaviors.",
+      "exampleTranslation": "在机器人学中，包含架构常用于管理复杂行为。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "subsumption relation",
+      "meaning": "逻辑或分类学中的包含关系",
+      "example": "In taxonomy, the subsumption relation helps define hierarchical relationships between species.",
+      "exampleTranslation": "在分类学中，包含关系有助于定义物种之间的层次关系。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In philosophy, subsumption allows us to classify individual instances under universal concepts.",
+      "translation": "在哲学中，包含允许我们将个别实例归入通用概念之下。",
+      "source": "Philosophical texts, such as those by Aristotle",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The robot's subsumption system ensures that safety protocols override exploratory movements.",
+      "translation": "机器人的包含系统确保安全协议覆盖探索性动作。",
+      "source": "AI research articles from IEEE",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Legal experts often discuss subsumption in terms of how specific cases fall under general laws.",
+      "translation": "法律专家经常讨论特定案例如何归入一般法律之下。",
+      "source": "Academic law journals",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "subsumptio",
+        "meaning": "The act of taking under",
+        "language": "Latin"
+      },
+      {
+        "root": "subsumere",
+        "meaning": "To take under or subordinate",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'subsumere'，意思是 '拿取在之下'，在古罗马修辞学和逻辑学中演变为表示逻辑包含的概念；中世纪经由 Scholasticism 传入英语，在 17 世纪的哲学讨论中（如约翰·洛克的作品）得到现代应用，最终在 20 世纪扩展到计算机科学。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "subsumptive",
+      "subordinate",
+      "inclusion"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先将 'subsumption' 与视觉化层次图（如金字塔结构）关联，再通过重复练习将其与个人经验（如分类物品）连接，以增强长期记忆；避免一次性学习多个抽象概念，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inclusion",
+        "similarity": "0.8",
+        "context": "在逻辑或分类语境中，用于描述将特定项目归入一般类别"
+      },
+      {
+        "word": "subordination",
+        "similarity": "0.7",
+        "context": "在组织或层次结构中，表示较低级别的从属关系"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exclusion",
+        "context": "在分类语境中，表示将某物排除在外而非包含"
+      },
+      {
+        "word": "separation",
+        "context": "在结构语境中，表示独立或脱离关系"
+      }
+    ],
+    "hypernyms": [
+      "classification",
+      "categorization"
+    ],
+    "hyponyms": [
+      "taxonomic subsumption",
+      "logical subsumption"
+    ],
+    "collocations": [
+      {
+        "pattern": "subsumption of [noun] under [noun]",
+        "examples": [
+          "subsumption of details under a main idea"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in [field] subsumption",
+        "examples": [
+          "in AI subsumption"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方哲学和科学文化中象征理性分类和知识体系的构建，体现了古希腊-罗马传统对秩序的强调；在中文文化中，可与儒家分类学（如 '五行' 系统）类比，以促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于哲学和逻辑语境",
+        "usage": "在英国学术界，常用于形式逻辑讨论中"
+      },
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如人工智能",
+        "usage": "在美国，特别是在硅谷，应用于机器人和软件开发"
+      }
+    ],
+    "historicalContext": "与古希腊逻辑学（如亚里士多德的 '范畴'）和启蒙运动相关，在现代则与计算机革命相连，反映了西方对知识分层的需求。",
+    "modernUsage": "在社交媒体和在线教育中，经常出现在 AI 讨论中，体现数字时代对复杂系统的简化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个金字塔结构，其中小方块被放置在更大的方块之下，代表 'subsumption' 的包含关系。",
+      "keyElements": [
+        "金字塔",
+        "方块",
+        "层次"
+      ],
+      "emotionalConnection": "联结到个人分类经验，如整理书架时将书籍归入类别，以触发积极的成就感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub + Sumption = Something under the sum (总和之下)",
+        "explanation": "通过视觉联想，将 'sub' 视为 '在之下'，与 'sumption' 类似总和，帮助记忆抽象概念。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/səbˈsʌmpʃn/' 听起来像 'sub-sumption'，联想到潜水（sub）进入深层分类。",
+        "explanation": "利用声音与动作的联结，增强听觉记忆并减少发音错误。"
+      }
+    ],
+    "wordAssociations": [
+      "hierarchy",
+      "category",
+      "inclusion"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subsumptions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "该结构常用于描述包含关系，例如 'the subsumption of X under Y'",
+        "examples": [
+          "The subsumption of individual rights under national laws"
+        ]
+      },
+      {
+        "pattern": "In [context] + noun",
+        "description": "用于指定语境，例如 'in logical subsumption'",
+        "examples": [
+          "In AI subsumption, behaviors are layered."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'assumption'",
+        "correction": "Use 'subsumption' for inclusion, not 'assumption' for supposition",
+        "explanation": "错误源于相似发音；通过比较语义可避免混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'subsumptions' for plural",
+        "explanation": "作为可数名词，需要正确添加 -s，但初级学习者可能遗忘。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "Philosophy",
+      "Computer Science",
+      "Logic"
+    ],
+    "tags": [
+      "Abstract",
+      "Technical",
+      "Classification"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

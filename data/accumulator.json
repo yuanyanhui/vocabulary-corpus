@@ -1,0 +1,259 @@
+{
+  "word": "accumulator",
+  "phonetics": {
+    "british": "/əˈkjuːmjʊleɪtər/",
+    "american": "/əˈkjuːmjəleɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that stores energy, such as a battery, for later use.",
+      "chineseTranslation": "蓄电池",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a register in a CPU that temporarily holds arithmetic and logic data.",
+      "chineseTranslation": "累加器（计算机术语）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of bet in gambling where stakes and winnings are accumulated.",
+      "chineseTranslation": "累进式赌注",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hydraulic accumulator",
+      "meaning": "液压蓄能器",
+      "example": "The hydraulic accumulator in the system helps maintain pressure during peak demand.",
+      "exampleTranslation": "系统中的液压蓄能器有助于在高峰期维持压力。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "electrical accumulator",
+      "meaning": "电蓄电池",
+      "example": "An electrical accumulator is essential for renewable energy storage.",
+      "exampleTranslation": "电蓄电池对于可再生能源存储至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "accumulator bet",
+      "meaning": "累进式赌注",
+      "example": "He placed an accumulator bet on the football matches, hoping for a big payout.",
+      "exampleTranslation": "他在足球比赛上押了累进式赌注，希望获得大笔 payout。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The car's accumulator failed, leaving us stranded on the highway.",
+      "translation": "汽车的蓄电池故障了，让我们滞留在高速公路上。",
+      "source": "Modern automotive literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, the accumulator variable keeps track of the running total.",
+      "translation": "在编程中，累加器变量用于跟踪运行总数。",
+      "source": "Computer science textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers designed a new hydraulic accumulator to improve efficiency in the factory.",
+      "translation": "工程师设计了一个新的液压蓄能器，以提高工厂的效率。",
+      "source": "Engineering reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "accumulare",
+        "meaning": "to heap up or pile up",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'accumulare'，意为堆积或积累。17世纪传入英语，用于描述存储能量或物质的设备。在19世纪，随着工业革命，该词扩展到机械和电气领域；20世纪在计算机科学中演变为特定术语，描述数据存储机制。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "accumulate",
+      "accumulation",
+      "cumulative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过认知科学原理，将词汇与视觉图像关联，例如想象一个堆积如山的电池来强化记忆；使用间隔重复法复习，以巩固长期记忆；针对母语为中文的学习者，比较英语 'accumulator' 与中文 '蓄电池' 的相似性，以减少认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "battery",
+        "similarity": "0.8",
+        "context": "在能源存储语境中适用，常用于机械或汽车领域"
+      },
+      {
+        "word": "register",
+        "similarity": "0.6",
+        "context": "在计算机编程语境中适用，强调临时数据存储"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dispenser",
+        "context": "在存储与分配的对比语境中适用，通常在工业或日常用语中"
+      },
+      {
+        "word": "dissipator",
+        "context": "在能量管理语境中适用，强调能量释放而非积累"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "storage mechanism"
+    ],
+    "hyponyms": [
+      "lead-acid accumulator",
+      "lithium-ion accumulator"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + accumulator",
+        "examples": [
+          "energy accumulator",
+          "data accumulator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "accumulator + verb",
+        "examples": [
+          "accumulator stores",
+          "accumulator charges"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方工业文化中，该词象征技术进步和能量管理，常与可持续发展和创新相关；在中文文化中，可能联想到实用主义和工程应用，但缺乏强烈的象征性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于工程和体育博彩语境",
+        "usage": "在英国英语中，'accumulator' 在足球博彩中流行，反映了本土赌博文化"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于技术领域，如计算机和汽车",
+        "usage": "在美国英语中，强调实用性和创新，与硅谷文化相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和第二次世界大战时期的科技发展相关，该词在欧洲文学和历史文件中出现，体现机械化的社会变革；在现代中文语境中，通过翻译引入，关联到中国改革开放后的技术引进。",
+    "modernUsage": "在社交媒体和科技论坛中流行，用于讨论电动汽车和可再生能源，反映全球环保趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的仓库，里面堆满电池和数据文件，像一座小山一样积累起来。",
+      "keyElements": [
+        "仓库",
+        "电池",
+        "数据文件",
+        "小山"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆一次汽车故障的挫败感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'accumulator' 联想为 'a cumulus of items'，其中 'cumulus' 意为积云。",
+        "explanation": "通过声音和视觉联想加深记忆，结合认知科学中双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "ACCU = A Cumulative Container Unit",
+        "explanation": "使用首字母缩写创建简单口诀，帮助快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "battery",
+      "store",
+      "pile",
+      "compute"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "accumulators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Accumulator",
+        "description": "作为主语或宾语使用，常在描述性句子中",
+        "examples": [
+          "The accumulator stores energy efficiently."
+        ]
+      },
+      {
+        "pattern": "Accumulator + Prepositional Phrase",
+        "description": "与介词短语搭配，强调位置或功能",
+        "examples": [
+          "The accumulator in the circuit prevents overload."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'accumulator' in computing and battery contexts",
+        "correction": "Use context to differentiate, e.g., 'battery accumulator' vs. 'CPU accumulator'",
+        "explanation": "母语为中文的学习者可能混淆相似词汇，导致语义错误；通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'accumulators' for plural",
+        "explanation": "英语名词规则简单，但初级学习者易遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "engineering",
+      "computing",
+      "gambling"
+    ],
+    "tags": [
+      "technical",
+      "mechanical",
+      "energy",
+      "storage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

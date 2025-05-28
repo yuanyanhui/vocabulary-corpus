@@ -1,0 +1,240 @@
+{
+  "word": "dimerize",
+  "phonetics": {
+    "british": "/ˈdaɪ.mə.raɪz/",
+    "american": "/ˈdaɪ.mə.raɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To undergo or cause to undergo dimerization, where two molecules combine to form a single molecule known as a dimer.",
+      "chineseTranslation": "使形成二聚体",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dimerize under specific conditions",
+      "meaning": "在特定条件下形成二聚体",
+      "example": "The protein can dimerize under specific conditions to enhance its stability.",
+      "exampleTranslation": "这种蛋白质可以在特定条件下二聚化以增强其稳定性。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "chemically induced dimerize",
+      "meaning": "通过化学诱导形成二聚体",
+      "example": "Chemists often chemically induce proteins to dimerize in laboratory settings.",
+      "exampleTranslation": "化学家经常在实验室环境中通过化学诱导使蛋白质二聚化。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In biochemistry, enzymes may dimerize to perform catalytic functions more efficiently.",
+      "translation": "在生物化学中，酶可能二聚化以更有效地执行催化功能。",
+      "source": "Scientific literature, such as articles from PubMed",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The monomers dimerize when exposed to ultraviolet light, forming a stable compound.",
+      "translation": "单体在暴露于紫外光时二聚化，形成稳定的化合物。",
+      "source": "Chemistry textbooks, e.g., from American Chemical Society publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers observed that the compound would not dimerize at room temperature without a catalyst.",
+      "translation": "研究人员观察到，这种化合物在室温下没有催化剂不会二聚化。",
+      "source": "Academic journals, e.g., COCA corpus",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "di-",
+        "meaning": "two",
+        "language": "Greek"
+      },
+      {
+        "root": "meros",
+        "meaning": "part",
+        "language": "Greek"
+      },
+      {
+        "root": "-ize",
+        "meaning": "to make or cause to become",
+        "language": "English (from Greek via Latin)"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'di-' (意为 'two') 和 'meros' (意为 'part')，组合形成 'dimer' (二聚体)，后缀 '-ize' 来自古希腊语，通过拉丁语和法语进入英语，用于表示过程或状态变化。从19世纪开始在化学语境中使用，最初描述分子结合的过程，随着有机化学的发展，演变为现代技术术语。",
+    "firstKnownUse": "Early 20th century, around 1920, in chemical literature",
+    "relatedWords": [
+      "dimer",
+      "polymerize",
+      "monomer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (上进中高级，根据 CEFR 标准)",
+    "pronunciationDifficulty": "5 (1-10 规模；音标相对简单，但多音节可能对中文母语者造成轻微挑战)",
+    "spellingDifficulty": "6 (1-10 规模；包含不常见的后缀 '-ize'，易与 '-ise' 混淆)",
+    "meaningComplexity": "8 (1-10 规模；语义高度专业化，需要化学背景理解)",
+    "usageComplexity": "7 (1-10 规模；主要限于技术语境，使用需结合特定科学术语)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'dimerize' 与基本词汇如 'dimer' 关联；通过视觉化想象分子结合过程以增强记忆；建议使用间隔重复系统，如 Anki，针对中级学习者逐步增加语境复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dimerise",
+        "similarity": "0.95",
+        "context": "主要在英国英语中作为变体使用，适用于技术语境"
+      },
+      {
+        "word": "form a dimer",
+        "similarity": "0.80",
+        "context": "在非正式科学讨论中作为同义表达"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monomerize",
+        "context": "在化学反应语境中，表示分子分解为单体"
+      },
+      {
+        "word": "dissociate",
+        "context": "在更广泛的科学语境中，表示分子分离"
+      }
+    ],
+    "hypernyms": [
+      "react",
+      "combine"
+    ],
+    "hyponyms": [
+      "protein dimerization",
+      "nucleic acid dimerization"
+    ],
+    "collocations": [
+      {
+        "pattern": "dimerize with [something]",
+        "examples": [
+          "The enzyme dimerizes with its substrate."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "induce to dimerize",
+        "examples": [
+          "Light can induce the molecules to dimerize."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征分子生物学和化学的进步，无显著隐含语义，但在跨文化语境中强调科学全球性，例如在国际会议中用于知识共享。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用 '-ize' 拼写",
+        "usage": "在美国英语中，特别是在学术出版物中作为标准技术术语"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔使用 '-ise' 变体，如 'dimerise'",
+        "usage": "在英国英语中，语境类似，但更注重历史拼写传统"
+      }
+    ],
+    "historicalContext": "与20世纪化学革命相关，例如聚合反应的发展，在工业革命后科学语境中兴起，与文学或社会背景关联较少。",
+    "modernUsage": "在现代社交媒体和在线教育平台中，如YouTube科学频道或Twitter学术讨论，常用于传播科学知识，促进全球科学合作。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个积木块（代表分子）在实验室中结合形成一个更大的结构。",
+      "keyElements": [
+        "分子",
+        "结合",
+        "实验室"
+      ],
+      "emotionalConnection": "联结个人经验，如玩拼图游戏的乐趣，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dimerize 像 'die more eyes'，想象两个眼睛合并成一个，以代表两个部分结合。",
+        "explanation": "通过声音联想和视觉图像，利用认知科学中的双编码理论，将听觉和视觉元素结合以提升记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-M-E-R-I-Z-E: 'Double It, Make Even, React In Zone, End Strong'",
+        "explanation": "使用首字母缩略法，结合故事构建，帮助中级学习者通过叙事结构组织词汇。"
+      }
+    ],
+    "wordAssociations": [
+      "dimer",
+      "polymer",
+      "catalyze"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "dimerized",
+      "pastParticiple": "dimerized",
+      "presentParticiple": "dimerizing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + dimerize + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述化学过程",
+        "examples": [
+          "The molecules dimerize quickly."
+        ]
+      },
+      {
+        "pattern": "Cause + to dimerize",
+        "description": "使用 'to' 引导的不定式，表示原因或条件",
+        "examples": [
+          "Heat causes the compound to dimerize."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polymerize'",
+        "correction": "Use 'dimerize' for two molecules only",
+        "explanation": "中文母语者常混淆类似词汇；需注意语义精确性以避免科学错误。"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper tense, e.g., 'dimerized' for past",
+        "explanation": "中级学习者可能忽略动词时态；通过练习句法模式改进。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "化学",
+      "生物学"
+    ],
+    "tags": [
+      "科学术语",
+      "化学反应",
+      "分子生物学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "word": "minuend",
+  "phonetics": {
+    "british": "/ˈmɪn.juː.ɛnd/",
+    "american": "/ˈmɪn.ju.ɛnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number from which another number is subtracted in a subtraction operation.",
+      "chineseTranslation": "被减数",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the minuend in subtraction",
+      "meaning": "减法中的被减数",
+      "example": "In the equation 15 - 7, 15 is the minuend.",
+      "exampleTranslation": "在方程15 - 7中，15是被减数。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "identify the minuend",
+      "meaning": "识别被减数",
+      "example": "To solve the problem, first identify the minuend and subtrahend.",
+      "exampleTranslation": "为了解决这个问题，首先识别被减数和减数。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In basic arithmetic, the minuend is always the larger number in a subtraction equation.",
+      "translation": "在基本算术中，被减数总是减法方程中的较大数字。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "When programming algorithms, programmers must clearly define the minuend to avoid errors in computation.",
+      "translation": "在编写算法时，程序员必须明确定义被减数，以避免计算错误。",
+      "source": "Technical article from a computer science journal",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The teacher explained that in 20 - 5, the minuend represents the total amount before deduction.",
+      "translation": "老师解释道，在20 - 5中，被减数代表扣除前的总数。",
+      "source": "Lesson plan from an online education platform",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "minuendus",
+        "meaning": "that which is to be diminished",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语“minuendus”，是“minuere”（意为减少）的动名词形式。在19世纪晚期，数学领域采用此词来表示减法运算中被减去数字的角色，随着数学标准化演变为现代英语术语。",
+    "firstKnownUse": "Late 19th century",
+    "relatedWords": [
+      "subtrahend",
+      "difference",
+      "addend"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "将词汇与减法运算的视觉图像联系起来，例如用物体减少的场景来强化记忆；根据认知科学原理，利用重复练习和语境关联，以提升长期保留效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "deductee",
+        "similarity": "0.7",
+        "context": "在特定技术语境中用于描述类似概念，但不常用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subtrahend",
+        "context": "减法中的减数，与被减数相对"
+      }
+    ],
+    "hypernyms": [
+      "number"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "the minuend in [subtraction operation]",
+        "examples": [
+          "In 10 - 3, the minuend is 10."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "identify [the] minuend",
+        "examples": [
+          "Students must identify the minuend in each equation."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为数学术语，在全球教育体系中通用，没有特定文化象征，主要体现科学理性的普世价值。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常见于教育和科技语境",
+        "usage": "在美国中小学数学教育中标准化使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美式英语类似，但可能在历史数学文本中略有不同表达",
+        "usage": "在英国教育体系中作为标准术语"
+      }
+    ],
+    "historicalContext": "与欧洲数学传统相关，起源于19世纪的数学标准化运动，与工业革命时期的计算需求有关。",
+    "modernUsage": "在当代数字教育和编程领域中流行，尤其在在线学习平台和科技文章中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个篮子中有10个苹果，然后拿走3个；篮子中的10个苹果代表被减数。",
+      "keyElements": [
+        "篮子",
+        "苹果",
+        "减少过程"
+      ],
+      "emotionalConnection": "联结到童年学习减法的个人经历，以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Minuend 听起来像 'menu end' – 菜单结束时剩下的项目，就像被减数是剩余的部分。",
+        "explanation": "通过声音联想和视觉比喻，基于认知科学中的双编码理论，帮助强化记忆路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "M for 'Main number' in subtraction.",
+        "explanation": "使用首字母缩略与关键概念关联，运用工作记忆策略以简化学习过程。"
+      }
+    ],
+    "wordAssociations": [
+      "subtract",
+      "minus",
+      "arithmetic"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "minuends",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject in a sentence",
+        "description": "作为句子的主语或宾语出现，常用于描述数学运算",
+        "examples": [
+          "The minuend determines the result of the subtraction."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词短语结合，如 'in the minuend'",
+        "examples": [
+          "Errors often occur in the minuend of complex equations."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing minuend with subtrahend",
+        "correction": "Remember that the minuend is the number being subtracted from.",
+        "explanation": "由于两者在减法中的角色相似，学习者易混淆；通过区分语义边界可避免。"
+      },
+      {
+        "mistake": "Using in non-mathematical contexts",
+        "correction": "Restrict to technical or educational contexts.",
+        "explanation": "该词专用于数学，避免在日常对话中误用，以维护语域一致性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low; ranked below 20,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "education",
+      "science"
+    ],
+    "tags": [
+      "arithmetic",
+      "subtraction",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Merriam-Webster Dictionary",
+      "COCA corpus",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

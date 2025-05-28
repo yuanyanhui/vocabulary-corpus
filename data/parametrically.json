@@ -1,0 +1,241 @@
+{
+  "word": "parametrically",
+  "phonetics": {
+    "british": "/ˌpær.əˈmɛt.rɪ.kli/",
+    "american": "/ˌpær.əˈmɛt.rɪ.kli/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adverb",
+      "definition": "In a manner that relates to or involves parameters, especially in mathematics, statistics, or engineering, where parameters are variables that define a system or function.",
+      "chineseTranslation": "以参数方式；通过参数地",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "defined parametrically",
+      "meaning": "以参数方式定义",
+      "example": "The curve is defined parametrically using x and y coordinates.",
+      "exampleTranslation": "该曲线通过 x 和 y 坐标以参数方式定义。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "modeled parametrically",
+      "meaning": "以参数模型方式建模",
+      "example": "The software models the data parametrically to predict trends.",
+      "exampleTranslation": "该软件以参数模型方式对数据进行建模以预测趋势。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In computer graphics, objects are often rendered parametrically to allow for dynamic changes.",
+      "translation": "在计算机图形学中，物体通常以参数方式渲染以允许动态变化。",
+      "source": "Technical literature, such as computer science textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The engineer analyzed the system parametrically to optimize its performance under varying conditions.",
+      "translation": "工程师以参数方式分析系统，以在不同条件下优化其性能。",
+      "source": "Engineering reports from sources like IEEE",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Parametrically speaking, the equation simplifies the relationship between time and position.",
+      "translation": "从参数角度来说，该方程简化了时间与位置之间的关系。",
+      "source": "Academic papers in mathematics",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "para-",
+        "meaning": "beside or beyond",
+        "language": "Greek"
+      },
+      {
+        "root": "metron",
+        "meaning": "measure",
+        "language": "Greek"
+      },
+      {
+        "root": "-ic",
+        "meaning": "pertaining to",
+        "language": "Latin/Greek"
+      },
+      {
+        "root": "-ally",
+        "meaning": "in the manner of",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'para-' (意为 'beside') 和 'metron' (意为 'measure')，形成 'parameter' 一词，最初用于几何学中描述辅助测量。17 世纪传入英语，18 世纪扩展到数学领域。'Parametrically' 作为副词形式在 19 世纪发展，用于描述以参数为基础的过程。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "parameter",
+      "parametric",
+      "metrology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学，将词汇与实际数学或工程情境可视化联系，利用分块学习法（chunking）将 'parametrically' 与 'parameter' 的概念分组记忆；对于中文母语学习者，建议使用双语对照图表强化语义关联，以减少认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "parameter-wise",
+        "similarity": "0.8",
+        "context": "主要在技术语境中，用于描述基于参数的分析"
+      },
+      {
+        "word": "in terms of parameters",
+        "similarity": "0.7",
+        "context": "在科学讨论中，表示以参数为基础的解释"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-parametrically",
+        "context": "在统计学中，用于对比，表示不依赖参数的模型"
+      }
+    ],
+    "hypernyms": [
+      "adverbially"
+    ],
+    "hyponyms": [
+      "mathematically",
+      "statistically"
+    ],
+    "collocations": [
+      {
+        "pattern": "adverb + verb (e.g., defined parametrically)",
+        "examples": [
+          "The function is defined parametrically."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + adjective (e.g., modeled parametrically)",
+        "examples": [
+          "The data is modeled parametrically."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和系统性，常与现代技术创新相关联，如在人工智能和数据科学中的参数化建模。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和科技领域",
+        "usage": "在美国英语中，经常出现在学术和专业报告中，以强调数据驱动的方法"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在数学语境中更正式",
+        "usage": "在英国英语中，可能与历史数学传统结合使用，如牛顿力学"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，反映了欧洲启蒙运动对量化和参数化的强调。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于技术讨论和 YouTube 教程中，体现数字化时代的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个参数化的图形，如一条曲线在计算机屏幕上根据滑动条（parameters）动态变化。",
+      "keyElements": [
+        "曲线",
+        "滑动条",
+        "动态变化"
+      ],
+      "emotionalConnection": "联结到个人编程经历或科学实验的兴奋感，以增强记忆痕迹"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'parametrically' 联想为 'para' (像 'parallel') + 'metric' (测量)，表示 '并行测量方式'",
+        "explanation": "通过视觉联想，构建词汇与概念的认知桥梁，便于中级学习者快速回忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌpær.əˈmɛt.rɪ.kli/' 听起来像 'pair of metrics'，代表一组测量。",
+        "explanation": "利用声音相似性强化记忆，结合认知科学中的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "parameter",
+      "model",
+      "equation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adverb modifying verb",
+        "description": "副词修饰动词，表示方式",
+        "examples": [
+          "The system operates parametrically."
+        ]
+      },
+      {
+        "pattern": "Adverb in introductory phrase",
+        "description": "在句首用作引导语",
+        "examples": [
+          "Parametrically, we can adjust the variables."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'parametrical'",
+        "correction": "Use 'parametrically' as the adverb form",
+        "explanation": " 'Parametrical' is not standard; ensure correct adverbial form for proper sentence structure"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for technical discussions",
+        "explanation": "This avoids misuse and maintains register appropriateness for intermediate learners"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 0.05 per million words in technical domains)",
+    "domains": [
+      "科技",
+      "数学",
+      "工程",
+      "商业"
+    ],
+    "tags": [
+      "技术术语",
+      "数学词汇",
+      "科学语言"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "word": "typescript",
+  "phonetics": {
+    "british": "/ˈtaɪp.skript/",
+    "american": "/ˈtaɪp.skript/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statically typed superset of JavaScript that compiles to plain JavaScript, developed by Microsoft to enhance code scalability and error detection.",
+      "chineseTranslation": "TypeScript 是 JavaScript 的静态类型超集，由 Microsoft 开发，用于提升代码的可扩展性和错误检测。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "A programming language and its associated ecosystem, including tools and libraries for software development.",
+      "chineseTranslation": "TypeScript 作为一个编程语言及其生态系统，包括用于软件开发的工具和库。",
+      "level": "advanced",
+      "frequency": "high in technical domains",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "code in TypeScript",
+      "meaning": "用 TypeScript 编写代码",
+      "example": "Many developers choose to code in TypeScript for better type safety.",
+      "exampleTranslation": "许多开发人员选择用 TypeScript 编写代码，以获得更好的类型安全性。",
+      "frequency": "high in tech contexts"
+    },
+    {
+      "phrase": "compile TypeScript",
+      "meaning": "编译 TypeScript 代码",
+      "example": "You need to compile TypeScript files to JavaScript before deployment.",
+      "exampleTranslation": "在部署前，您需要将 TypeScript 文件编译成 JavaScript。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "TypeScript introduces static types to prevent runtime errors in applications.",
+      "translation": "TypeScript 通过引入静态类型来防止应用程序中的运行时错误。",
+      "source": "Programming tutorials (e.g., MDN Web Docs)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern web development, TypeScript is increasingly used alongside frameworks like Angular.",
+      "translation": "在现代 Web 开发中，TypeScript 越来越多地与 Angular 等框架一起使用。",
+      "source": "Technical articles (e.g., from GitHub or Stack Overflow)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Learning TypeScript can significantly improve your coding efficiency.",
+      "translation": "学习 TypeScript 可以显著提升您的编码效率。",
+      "source": "Educational resources (e.g., online courses)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "type",
+        "meaning": "A category or classification, often referring to data types in programming.",
+        "language": "English (from Greek 'typos' via Old French)"
+      },
+      {
+        "root": "script",
+        "meaning": "A written text or a sequence of instructions, as in scripting languages.",
+        "language": "English (from Latin 'scriptum', meaning 'written')"
+      }
+    ],
+    "historicalDevelopment": "The term 'TypeScript' was coined in 2012 by Microsoft as an extension of JavaScript to incorporate static typing, evolving from the need for more robust web development tools in the era of complex applications.",
+    "firstKnownUse": "2012",
+    "relatedWords": [
+      "JavaScript",
+      "ECMAScript",
+      "C#"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过视觉编码图表将 TypeScript 与 JavaScript 进行比较，以建立认知连接；利用间隔重复系统强化记忆词汇在编程语境中的应用；结合个人编程经验创建情感联想，如回想第一次调试代码的成就感，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "TS",
+        "similarity": "0.9",
+        "context": "在编程社区中作为缩写，常用于非正式技术讨论"
+      },
+      {
+        "word": "typed JavaScript",
+        "similarity": "0.8",
+        "context": "强调其类型系统的技术语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dynamic languages",
+        "context": "与动态类型语言如 Python 相对，在需要严格类型检查的场景中"
+      }
+    ],
+    "hypernyms": [
+      "programming language"
+    ],
+    "hyponyms": [
+      "static typed language"
+    ],
+    "collocations": [
+      {
+        "pattern": "develop with TypeScript",
+        "examples": [
+          "We develop applications with TypeScript for better maintainability."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "use TypeScript in projects",
+        "examples": [
+          "Teams use TypeScript in large-scale projects to reduce bugs."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "TypeScript 在科技文化中象征着高效和可靠的软件开发，尤其在企业环境中，代表了对代码质量的重视，并隐含着创新与适应性的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常见于硅谷技术社区，使用频率较高",
+        "usage": "常在正式技术会议和文档中使用，以突出 Microsoft 的影响力"
+      },
+      {
+        "region": "Global (e.g., Asia)",
+        "variation": "在中文技术社区中，常与本土框架结合使用，如在中国的开发环境中",
+        "usage": "适应本地化需求，例如在教育和开源项目中推广"
+      }
+    ],
+    "historicalContext": "TypeScript 的兴起与 2010s 后的 Web 技术革命相关联，特别是在移动和云计算的背景下，其发展反映了从脚本语言向结构化编程的转变。",
+    "modernUsage": "在社交媒体如 Twitter 和开发平台如 GitHub 上，TypeScript 的使用趋势不断上升，特别是在年轻一代程序员中，体现出对高效工具的需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个类型化的脚本场景：一个打字机（代表 'type'）在编写代码脚本（代表 'script'），最终形成一个安全的编程环境。",
+      "keyElements": [
+        "打字机",
+        "代码脚本",
+        "类型检查"
+      ],
+      "emotionalConnection": "联结到您第一次编写无错误代码的成就感，以激发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Type + Script = TypeScript",
+        "explanation": "通过将 'type'（类型）和 'script'（脚本） mentally 组合，创建简单联想以辅助记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈtaɪp.skript/ 像 'type a script'，想象打字的声音。",
+        "explanation": "利用声音与动作的联觉，强化发音和意义的关联。"
+      }
+    ],
+    "wordAssociations": [
+      "JavaScript",
+      "Type safety",
+      "Microsoft",
+      "Code compilation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "as a subject in a sentence",
+        "description": "用作句子的主语，常出现在技术描述中",
+        "examples": [
+          "TypeScript enhances JavaScript functionality."
+        ]
+      },
+      {
+        "pattern": "in prepositional phrases",
+        "description": "用在介词短语中，表示工具或方法",
+        "examples": [
+          "Development with TypeScript is efficient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing TypeScript with JavaScript",
+        "correction": "Treat TypeScript as a superset of JavaScript",
+        "explanation": "学习者常错误地认为两者互换，但 TypeScript 添加了类型系统。"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always capitalize as 'TypeScript'",
+        "explanation": "作为专有名词，需要大写首字母以符合技术规范。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical corpora (e.g., ranked among top 10 programming languages on TIOBE Index, with frequent appearances in COCA subsets for tech domains)",
+    "domains": [
+      "Technology",
+      "Programming",
+      "Software Development"
+    ],
+    "tags": [
+      "programming",
+      "language",
+      "typescript",
+      "static typing"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED for etymology, COCA for frequency analysis, MDN Web Docs and official TypeScript documentation for definitions and usage, BNC for general language patterns"
+    ]
+  }
+}

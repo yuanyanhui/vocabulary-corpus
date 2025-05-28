@@ -1,0 +1,248 @@
+{
+  "word": "if",
+  "phonetics": {
+    "british": "/ɪf/",
+    "american": "/ɪf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used to introduce a conditional clause, indicating a situation or event that must occur for another to happen.",
+      "chineseTranslation": "如果",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A conditional statement in programming or logic, typically used to make decisions based on certain conditions.",
+      "chineseTranslation": "如果语句（用于编程）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "In a manner that suggests or supposes something, often used in expressions like 'as if'.",
+      "chineseTranslation": "仿佛；好像",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "if necessary",
+      "meaning": "如果必要",
+      "example": "Please call me if necessary.",
+      "exampleTranslation": "如果必要，请打电话给我。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "as if",
+      "meaning": "好像；仿佛",
+      "example": "He acted as if nothing had happened.",
+      "exampleTranslation": "他表现得好像什么都没发生过一样。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "if only",
+      "meaning": "要是……就好了",
+      "example": "If only I had studied harder.",
+      "exampleTranslation": "要是我当时更努力学习就好了。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If it rains tomorrow, we will cancel the picnic.",
+      "translation": "如果明天下雨，我们将取消野餐。",
+      "source": "Conversational English (e.g., daily dialogue)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In programming, you use an if statement to check if a variable is greater than zero.",
+      "translation": "在编程中，你使用if语句来检查变量是否大于零。",
+      "source": "Technical documentation (e.g., from coding tutorials)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She looked at me as if I were a stranger.",
+      "translation": "她看着我，好像我是陌生人一样。",
+      "source": "Literary fiction (e.g., novels by Jane Austen)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "gif",
+        "meaning": "whether or if",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'gif'，最初用于表示条件或疑问，逐渐演变为现代英语 'if'，在中古英语时期标准化，主要受日耳曼语系影响，并通过诺曼征服后与法语互动而简化。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "whether",
+      "suppose"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "1",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法（chunking）将 'if' 与条件句结构关联，例如通过视觉化一个 'if-then' 因果链条来增强长期记忆；",
+      "使用间隔重复系统（spaced repetition）复习不同语境下的 'if'，以强化神经元连接，避免混淆类似词。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "provided that",
+        "similarity": "0.7",
+        "context": "在正式语境中用于条件表达，例如合同或法律文件"
+      },
+      {
+        "word": "in case",
+        "similarity": "0.6",
+        "context": "在非正式语境中用于预防性条件，如日常对话"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unless",
+        "context": "表示否定条件，与 'if' 相反，常用于假设情景"
+      }
+    ],
+    "hypernyms": [
+      "conjunction"
+    ],
+    "hyponyms": [
+      "conditional conjunction"
+    ],
+    "collocations": [
+      {
+        "pattern": "if + clause + then + clause",
+        "examples": [
+          "If you go, then I will follow."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "as if + clause",
+        "examples": [
+          "As if by magic, the door opened."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征条件性和假设思维，常用于文学和哲学中表达不确定性，例如莎士比亚作品中频繁出现，体现西方理性主义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "在英国英语中，'if' 常用于礼貌假设，如 'If you wouldn't mind...'",
+        "usage": "在社交场合增强谦虚感"
+      },
+      {
+        "region": "美国",
+        "variation": "在美国英语中，'if' 更直接，常用于商业决策语境，如 'If sales increase, we expand.'",
+        "usage": "反映实用主义文化"
+      }
+    ],
+    "historicalContext": "与英国启蒙运动相关，'if' 在17世纪科学革命中用于假设实验，如牛顿的著作，体现了理性与经验主义的文化背景。",
+    "modernUsage": "在社交媒体和数字通信中，'if' 常用于条件性表情包或缩写，如网络语言 'ifb' (I follow back)，反映全球数字文化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个道路岔口，'if' 代表选择的方向，每个分支显示不同结果。",
+      "keyElements": [
+        "岔口",
+        "方向箭头",
+        "结果图标"
+      ],
+      "emotionalConnection": "联结个人决策经历，如童年游戏中的 'if I choose left, what happens?'，触发好奇心和回忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'if' as a fork in the road.",
+        "explanation": "通过视觉联想将 'if' 与分支场景连接，利用空间记忆提升词汇保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce '/ɪf/' like a soft 'if' sound in a whisper, linking to uncertainty.",
+        "explanation": "利用多感官学习原理，将声音与情感不确定性关联，促进深度编码"
+      }
+    ],
+    "wordAssociations": [
+      "condition",
+      "suppose",
+      "hypothesis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "If + subject + verb, then + clause",
+        "description": "用于条件句结构，表示假设结果",
+        "examples": [
+          "If I win, I will celebrate."
+        ]
+      },
+      {
+        "pattern": "As if + clause",
+        "description": "用于比喻或假设描述",
+        "examples": [
+          "As if it were true."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'if' interchangeably with 'whether'",
+        "correction": "Use 'if' for conditions and 'whether' for alternatives",
+        "explanation": "因为 'if' 强调条件，而 'whether' 强调选择，二者语义不同"
+      },
+      {
+        "mistake": "Omitting comma in complex sentences",
+        "correction": "Add comma after introductory 'if' clause",
+        "explanation": "在英语语法中，引导从句的 'if' 通常需要逗号以清晰分隔主从句"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 10 in general corpora (e.g., COCA rank: 5)",
+    "domains": [
+      "general",
+      "education",
+      "technology",
+      "literature"
+    ],
+    "tags": [
+      "conjunction",
+      "conditional",
+      "logic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

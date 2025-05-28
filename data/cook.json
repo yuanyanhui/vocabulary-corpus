@@ -1,0 +1,275 @@
+{
+  "word": "cook",
+  "phonetics": {
+    "british": "/kʊk/",
+    "american": "/kʊk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To prepare food for eating by applying heat, such as by boiling, baking, or frying.",
+      "chineseTranslation": "烹饪食物，通过加热方式如煮、烤或煎来准备食物。",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To falsify or manipulate data, accounts, or information, often dishonestly.",
+      "chineseTranslation": "篡改或伪造数据、账目或信息，通常带有欺骗性。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person whose job is to prepare and cook food, especially in a restaurant or for an institution.",
+      "chineseTranslation": "厨师，从事烹饪食物的人，尤其是在餐厅或机构中。",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or act of cooking, often referring to a style or method.",
+      "chineseTranslation": "烹饪过程或方式，通常指一种风格或方法。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cook up",
+      "meaning": "编造或快速准备某事，通常是非正式的",
+      "example": "He cooked up an excuse to avoid the meeting.",
+      "exampleTranslation": "他编造了一个借口来避免参加会议。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "home cook",
+      "meaning": "家庭厨师或自制食物",
+      "example": "She's a talented home cook who makes delicious meals every day.",
+      "exampleTranslation": "她是一个天才的家庭厨师，每天都做美味的饭菜。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cook the books",
+      "meaning": "伪造账目",
+      "example": "The company was accused of cooking the books to hide losses.",
+      "exampleTranslation": "公司被指控伪造账目来隐藏亏损。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She loves to cook Italian dishes on weekends.",
+      "translation": "她喜欢在周末烹饪意大利菜肴。",
+      "source": "Daily conversation (informal register)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The chef can cook a three-course meal in under an hour.",
+      "translation": "这位厨师能在不到一小时内烹饪一顿三道菜的餐。",
+      "source": "Restaurant review (neutral register)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Accountants were found to have cooked the financial reports.",
+      "translation": "会计师被发现伪造了财务报告。",
+      "source": "News article (formal register)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many cultures, to cook is not just a necessity but an art form.",
+      "translation": "在许多文化中，烹饪不仅仅是一种必需，而是一种艺术形式。",
+      "source": "Cultural essay (academic register)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "cōc",
+        "meaning": "Cook or chef",
+        "language": "Old English"
+      },
+      {
+        "root": "cocus",
+        "meaning": "Cook",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'cōc'，该词又源于拉丁语 'cocus'，最初指职业厨师。随时间演变为动词形式，扩展到一般烹饪含义，并在现代英语中发展出比喻义，如伪造信息。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "cookery",
+      "cuisine",
+      "kitchen"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与日常生活场景关联，例如通过可视化厨房活动来强化记忆；使用间隔重复法复习多义词，以避免混淆；对于中国学习者，比较英语 'cook' 与中文 '煮' 或 '做饭' 的相似性，以建立跨语言联想。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "prepare",
+        "similarity": "0.8",
+        "context": "适用于烹饪语境中，例如在描述食物准备时"
+      },
+      {
+        "word": "falsify",
+        "similarity": "0.7",
+        "context": "适用于伪造语境中，例如在财务或数据操纵时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "burn",
+        "context": "在烹饪语境中，指食物被烧焦而非正确烹饪"
+      },
+      {
+        "word": "reveal",
+        "context": "在伪造语境中，指公开真相而非隐藏"
+      }
+    ],
+    "hypernyms": [
+      "prepare"
+    ],
+    "hyponyms": [
+      "bake",
+      "fry",
+      "boil"
+    ],
+    "collocations": [
+      {
+        "pattern": "cook + food type",
+        "examples": [
+          "cook dinner",
+          "cook vegetables"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "cook + up",
+        "examples": [
+          "cook up a plan"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'cook' 象征家庭温暖和创意表达，例如在美国感恩节，烹饪火鸡是家庭团聚的象征；在中文文化中，与 '做饭' 类似，但英语词汇强调专业性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用在正式或专业语境，如 'chef' 的同义",
+        "usage": "在英国英语中，常与传统菜肴如 'roast' 搭配"
+      },
+      {
+        "region": "United States",
+        "variation": "更 casual，常用于日常对话",
+        "usage": "在美国英语中，'cook' 常与 'BBQ' 或 'home cooking' 关联，强调休闲生活"
+      }
+    ],
+    "historicalContext": "在中世纪欧洲，'cook' 与社会阶级相关，仅为贵族服务；工业革命后，成为大众技能，与文学如莎士比亚作品中出现。",
+    "modernUsage": "在社交媒体如Instagram上，'cook' 常用于分享食谱视频，反映全球化饮食趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个温暖的厨房场景，一个人戴着厨师帽在炒菜。",
+      "keyElements": [
+        "厨师帽",
+        "锅铲",
+        "热气腾腾的食物"
+      ],
+      "emotionalConnection": "联结到个人童年回忆，如与家人一起做饭的温暖感觉，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cook sounds like 'hook', imagine hooking food onto a pan to cook it.",
+        "explanation": "通过声音联想帮助记忆发音和含义，基于认知科学的声音-图像关联原则"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-O-K: Create, Oven, Operate, Kitchen.",
+        "explanation": "使用首字母缩写来分解词汇，结合视觉记忆以提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "chef",
+      "kitchen",
+      "meal",
+      "recipe"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "cooked",
+      "pastParticiple": "cooked",
+      "presentParticiple": "cooking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于简单陈述",
+        "examples": [
+          "I cook dinner."
+        ]
+      },
+      {
+        "pattern": "Verb + adverbial phrase",
+        "description": "动词 + 状语短语结构，用于添加细节",
+        "examples": [
+          "She cooks quickly in the morning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'book' in pronunciation",
+        "correction": "Pronounce as /kʊk/ with a short 'u' sound",
+        "explanation": "中国学习者常混淆元音发音，需练习口型区分"
+      },
+      {
+        "mistake": "Using as noun without article",
+        "correction": "Use with articles like 'a cook'",
+        "explanation": "英语中名词需适当使用冠词，而中文中无此要求"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Food and beverage",
+      "Daily life",
+      "Business"
+    ],
+    "tags": [
+      "Verb",
+      "Noun",
+      "Daily activity",
+      "Professional"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

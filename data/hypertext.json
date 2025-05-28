@@ -1,0 +1,231 @@
+{
+  "word": "hypertext",
+  "phonetics": {
+    "british": "/ˈhaɪpərtɛkst/",
+    "american": "/ˈhaɪpərˌtɛkst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Text displayed on a computer or other electronic device with references (hyperlinks) to other text that the reader can immediately access, typically by a point-and-click interface.",
+      "chineseTranslation": "超文本",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hypertext link",
+      "meaning": "超文本链接",
+      "example": "Click on the hypertext link to navigate to the next page.",
+      "exampleTranslation": "点击超文本链接以导航到下一页。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hypertext markup language",
+      "meaning": "超文本标记语言",
+      "example": "HTML is the standard hypertext markup language for creating web pages.",
+      "exampleTranslation": "HTML 是创建网页的标准超文本标记语言。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The World Wide Web relies on hypertext to connect documents across the internet.",
+      "translation": "万维网依赖超文本来连接互联网上的文档。",
+      "source": "Technical literature, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In her research paper, she discussed the evolution of hypertext in digital communication.",
+      "translation": "在她的研究论文中，她讨论了超文本在数字通信中的演变。",
+      "source": "Academic writing, e.g., from BNC",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Students often use hypertext features in e-books to jump between chapters.",
+      "translation": "学生们经常在电子书中使用超文本功能在章节之间跳转。",
+      "source": "Educational contexts, e.g., from everyday usage",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "hyper",
+        "meaning": "over, beyond",
+        "language": "Greek"
+      },
+      {
+        "root": "text",
+        "meaning": "written or printed words",
+        "language": "Latin (from 'textus', meaning woven)"
+      }
+    ],
+    "historicalDevelopment": "该词由计算机先驱 Ted Nelson 在 1960 年代创造，源自希腊词根 'hyper'（意为超越）和英语 'text'（文本），最初用于描述非线性文本链接系统。随着互联网的兴起，它演变为现代网页链接的核心概念，从概念到实际应用的转变反映了数字革命。",
+    "firstKnownUse": "1965",
+    "relatedWords": [
+      "hyperlink",
+      "hypermedia",
+      "HTML"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，利用分块学习法将 'hypertext' 与 'hyperlink' 等相关词汇分组记忆，以增强语义网络；通过视觉化想象互联网链接的网络结构，触发个人经验联想，提高长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "linked text",
+        "similarity": "0.8",
+        "context": "适用于技术语境中描述数字链接的非正式表达"
+      },
+      {
+        "word": "interactive text",
+        "similarity": "0.7",
+        "context": "在教育或数字媒体语境中，用于强调用户互动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "linear text",
+        "context": "适用于对比语境中，强调传统顺序阅读而非跳转"
+      }
+    ],
+    "hypernyms": [
+      "digital text",
+      "electronic document"
+    ],
+    "hyponyms": [
+      "HTML document",
+      "web link"
+    ],
+    "collocations": [
+      {
+        "pattern": "hypertext + noun (e.g., hypertext system)",
+        "examples": [
+          "a hypertext system for online learning"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + hypertext (e.g., create hypertext)",
+        "examples": [
+          "developers create hypertext for websites"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数字文化中象征着信息自由流动和非线性导航，隐含着全球互联的隐喻，常与互联网革命关联，代表现代社会的信息民主化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在技术行业和教育中",
+        "usage": "在美国英语中，常与硅谷创新文化相关联，强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术语境中更正式",
+        "usage": "在英国英语中，常出现在历史和技术文献中，反映后工业时代的影响"
+      }
+    ],
+    "historicalContext": "超文本与 20 世纪后期的计算机发展相关联，例如 Tim Berners-Lee 的万维网发明，推动了全球通信革命，并在文学和社会理论中被视为后现代叙事工具。",
+    "modernUsage": "在社交媒体和在线平台上，超文本已成为日常用语，特别是在推特或微信等应用中，用于描述链接分享的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的蜘蛛网，网线代表链接，中心点是 'hypertext'，展示从一个文本跳跃到另一个的动态过程。",
+      "keyElements": [
+        "蜘蛛网",
+        "链接箭头",
+        "数字屏幕"
+      ],
+      "emotionalConnection": "联结个人上网经验的兴奋感，如发现新网页时的惊喜，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hypertext 像 'hyper jump' 在游戏中一样快速跳转。",
+        "explanation": "通过将 'hyper' 联想为 '超级跳跃'，帮助记忆其超越线性文本的特性，基于认知联想原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈhaɪpərtɛkst/ 听起来像 'high per text'，代表 '高度超越的文本'。",
+        "explanation": "利用声音与含义的联觉，强化发音和语义记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "web",
+      "link",
+      "navigate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hypertexts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the hypertext system)",
+        "description": "作为名词使用，通常在句子中作主语或宾语",
+        "examples": [
+          "The hypertext enables easy access to information."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., through hypertext)",
+        "description": "用于描述方式或工具",
+        "examples": [
+          "Information is shared through hypertext networks."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing hypertext with hyperlink",
+        "correction": "Hypertext refers to the overall system, while hyperlink is a specific link.",
+        "explanation": "学习者常混淆二者语义；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /haɪpərtext/ without stress",
+        "correction": "Emphasize the first syllable: /ˈhaɪpərtɛkst/",
+        "explanation": "基于音标规则，错误发音可能导致交流障碍。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "数字媒体",
+      "互联网",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

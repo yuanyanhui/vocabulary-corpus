@@ -1,0 +1,228 @@
+{
+  "word": "intron",
+  "phonetics": {
+    "british": "/ˈɪntrɒn/",
+    "american": "/ˈɪntrɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A segment of a DNA or RNA molecule that does not code for proteins and is transcribed into the primary RNA transcript but is removed during RNA processing.",
+      "chineseTranslation": "内含子",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intron splicing",
+      "meaning": "内含子剪接",
+      "example": "Intron splicing is essential for producing mature mRNA in eukaryotic cells.",
+      "exampleTranslation": "内含子剪接对于产生真核细胞中的成熟mRNA至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "intron retention",
+      "meaning": "内含子保留",
+      "example": "Intron retention can lead to alternative splicing events in gene expression.",
+      "exampleTranslation": "内含子保留可能导致基因表达中的替代剪接事件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists discovered that the intron in the gene sequence was responsible for regulating protein synthesis.",
+      "translation": "科学家发现，该基因序列中的内含子负责调控蛋白质合成。",
+      "source": "Scientific journal (e.g., Nature Genetics)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During transcription, the intron is removed to form the functional exon structure.",
+      "translation": "在转录过程中，内含子被移除以形成功能性的外显子结构。",
+      "source": "Biology textbook (e.g., Molecular Biology of the Cell)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Mutations in the intron can sometimes affect the efficiency of splicing in human genomes.",
+      "translation": "人类基因组中内含子的突变有时会影响剪接的效率。",
+      "source": "Research article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, coined from Latin roots",
+    "rootWords": [
+      {
+        "root": "intra-",
+        "meaning": "within",
+        "language": "Latin"
+      },
+      {
+        "root": "gene",
+        "meaning": "origin or production",
+        "language": "Greek (via English)"
+      }
+    ],
+    "historicalDevelopment": "该术语由分子生物学家Walter Gilbert于1977年提出，用于描述DNA中非编码区域，这些区域在RNA处理过程中被移除。它源于对基因结构的深入研究，当时的发现揭示了DNA中编码和非编码部分的区分，从最初的'intragenic region'概念演变为现代的'intron'，反映了分子生物学的快速发展。",
+    "firstKnownUse": "1977",
+    "relatedWords": [
+      "exon",
+      "spliceosome",
+      "transcript"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉化记忆法结合，例如想象DNA链如一本书的'章节间隙'，其中内含子是'被删除的草稿'，以增强空间记忆；对于中文母语学习者，建议通过重复暴露于科学文本中，逐步构建语义网络，避免孤立记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "intervening sequence",
+        "similarity": "0.8",
+        "context": "适用于分子生物学语境中描述DNA非编码部分的早期术语"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exon",
+        "context": "在基因结构中，exon是编码部分，与intron相对，通常在RNA处理后保留"
+      }
+    ],
+    "hypernyms": [
+      "gene sequence"
+    ],
+    "hyponyms": [
+      "group I intron",
+      "group II intron"
+    ],
+    "collocations": [
+      {
+        "pattern": "intron + verb (e.g., is removed, splicing)",
+        "examples": [
+          "The intron is removed during processing."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + intron (e.g., conserved intron)",
+        "examples": [
+          "Conserved introns are found in many species."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征分子生物学的核心概念，体现了人类对遗传密码的解码，但缺乏强烈的社会隐喻；在跨文化语境中，它反映了全球科学合作的普适性，而非特定文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常见于学术和研究语境，使用标准化术语",
+        "usage": "在美国英语中，常在生物技术行业中使用，强调创新应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似标准化，但可能在教育语境中更注重历史演变",
+        "usage": "在英国英语中，经常与进化生物学结合讨论"
+      }
+    ],
+    "historicalContext": "与20世纪中叶的分子生物学革命相关，例如Watson和Crick的DNA双螺旋模型，以及后续的基因编辑技术；它体现了科学进步如何影响全球文化认知。",
+    "modernUsage": "在社交媒体和在线教育平台中，intron常用于科普视频或讨论基因工程，如CRISPR技术，但其使用主要限于专业社区。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个DNA链如一本厚重的古书，intron是书中的'隐藏页'，被编辑器(像剪接体)移除后，只留下关键内容。",
+      "keyElements": [
+        "DNA链",
+        "隐藏页",
+        "编辑过程"
+      ],
+      "emotionalConnection": "联结到个人经历，如编辑一篇文章删除多余部分，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Intron sounds like 'in train' – think of it as the 'non-essential cars' in a train that get detached.",
+        "explanation": "通过声音联想和比喻，帮助构建认知桥接，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-T-R-O-N: Internal Non-coding To Remove Or Nullify.",
+        "explanation": "使用首字母缩写创建故事，增强重复回忆和语义加工"
+      }
+    ],
+    "wordAssociations": [
+      "exon",
+      "splice",
+      "RNA",
+      "gene"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "introns",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object (e.g., The intron is removed)",
+        "description": "该词作为主语或宾语出现于简单句中，常与动词如'is removed'或'spliced'搭配",
+        "examples": [
+          "The intron affects gene expression."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., in the intron)",
+        "description": "用于描述位置或组成部分",
+        "examples": [
+          "Mutations occur in the intron."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing intron with exon",
+        "correction": "Use intron for non-coding regions and exon for coding regions",
+        "explanation": "这可能是由于两者在基因结构中的相似性导致，对于中间水平学习者，建议通过对比图表区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'introns' for plural",
+        "explanation": "英文名词规则简单，但中文母语者可能遗漏s后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 150,000 in general corpora (e.g., COCA), but high in scientific domains",
+    "domains": [
+      "science",
+      "biology",
+      "genetics",
+      "medicine"
+    ],
+    "tags": [
+      "molecular biology",
+      "genetics terminology",
+      "RNA processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Scientific sources like PubMed and Nature"
+    ]
+  }
+}

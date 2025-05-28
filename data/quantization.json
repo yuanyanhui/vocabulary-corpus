@@ -1,0 +1,240 @@
+{
+  "word": "quantization",
+  "phonetics": {
+    "british": "/ˌkwɒn.taɪˈzeɪ.ʃən/",
+    "american": "/ˌkwɑːn.təˈzeɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of converting a continuous range of values into a discrete set of values, often used in physics, signal processing, and digital technology to approximate or limit data.",
+      "chineseTranslation": "量化",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In quantum mechanics, the concept where physical quantities are restricted to discrete values rather than being continuous.",
+      "chineseTranslation": "量子化",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quantization error",
+      "meaning": "量化误差，即在量化过程中产生的误差",
+      "example": "The quantization error in digital audio can lead to noticeable distortion.",
+      "exampleTranslation": "数字音频中的量化误差可能导致明显的失真。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "analog-to-digital quantization",
+      "meaning": "模拟到数字的量化过程",
+      "example": "Analog-to-digital quantization is essential for converting signals in modern electronics.",
+      "exampleTranslation": "模拟到数字的量化过程对于现代电子设备中的信号转换至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In quantum physics, quantization explains why electrons occupy specific energy levels.",
+      "translation": "在量子物理中，量化解释了电子为什么占据特定的能量水平。",
+      "source": "Scientific literature, e.g., from physics textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers use quantization to reduce the file size of images without losing much quality.",
+      "translation": "工程师使用量化来减小图像文件大小，同时不损失太多质量。",
+      "source": "Technical articles, e.g., from IEEE publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The concept of quantization has revolutionized fields like computing and telecommunications.",
+      "translation": "量化的概念已经彻底改变了计算和电信等领域。",
+      "source": "Educational resources, e.g., Khan Academy",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "quant-",
+        "meaning": "how much or how great",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'quantus'（意为多少），在19世纪物理学中发展而来，最初由马克斯·普朗克在量子理论中推广，用于描述能量和物质的离散化。从词源到现代，'quantization' 演变为表示将连续变量转化为离散值的过程，尤其在科学和技术领域。",
+    "firstKnownUse": "Early 20th century, around 1900 in quantum mechanics contexts",
+    "relatedWords": [
+      "quantify",
+      "quantity",
+      "quantum"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化图表（如波形图）记忆词汇，关联个人经验如手机摄影中的像素化；使用间隔重复法强化技术语境下的理解，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "discretization",
+        "similarity": "0.8",
+        "context": "适用于数学和计算机科学中，将连续数据转化为离散数据的语境"
+      },
+      {
+        "word": "digitization",
+        "similarity": "0.7",
+        "context": "在信号处理领域，表示将模拟信号转化为数字信号的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analogization",
+        "context": "适用于强调连续性而非离散化的技术或科学语境"
+      },
+      {
+        "word": "continuization",
+        "context": "在理论物理中，表示保持连续变量的语境"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "conversion"
+    ],
+    "hyponyms": [
+      "quantum quantization",
+      "signal quantization"
+    ],
+    "collocations": [
+      {
+        "pattern": "quantization of [noun]",
+        "examples": [
+          "quantization of energy",
+          "quantization of signals"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] quantization",
+        "examples": [
+          "apply quantization",
+          "reduce quantization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征现代技术进步，尤其在量子物理和数字革命中隐含了对精确性和效率的追求；在跨文化语境中，中国学习者可能将其与本土科技发展（如量子计算研究）关联，以增强文化包容性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在工程和技术语境中",
+        "usage": "在美国英语中，常与计算机科学结合，使用频率较高"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于物理学理论",
+        "usage": "在英国英语中，常出现在学术讨论中，与历史科学传统相关"
+      }
+    ],
+    "historicalContext": "与20世纪初的量子革命相关，涉及爱因斯坦和普朗克的理论；在文学和社会中，象征科学与人文的交融，如在科幻小说中代表技术变革。",
+    "modernUsage": "在社交媒体和在线教育中，'quantization' 常用于AI和大数据讨论，反映数字时代的信息处理趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个连续的波形（如水波）被分成离散的方块，就像像素化照片的过程。",
+      "keyElements": [
+        "波形",
+        "方块",
+        "像素"
+      ],
+      "emotionalConnection": "联结到个人经验，如手机拍照时看到像素化效果，触发好奇心和实际应用兴趣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Quantization 像 'quantity in bits'，将大量连续数据压缩成有限位数。",
+        "explanation": "通过联想词根 'quant-' 与 'quantity'，帮助建立语义网络，减少记忆负担"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌkwɒn.taɪˈzeɪ.ʃən/ 听起来像 'quant eyes on'，想象眼睛在量化事物。",
+        "explanation": "利用声音与视觉联结，增强认知加工，根据认知科学原理促进长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "quantum",
+      "digitize",
+      "discrete"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "quantizations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语的句法结构，常用于描述过程",
+        "examples": [
+          "Quantization improves data efficiency."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "出现在介词短语中，表示具体应用",
+        "examples": [
+          "The process involves quantization of signals."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'quantification'",
+        "correction": "Use 'quantization' for discrete conversion",
+        "explanation": "二者虽相关，但 'quantization' 特指离散化，而 'quantification' 更泛指量化测量"
+      },
+      {
+        "mistake": "Incorrect pronunciation",
+        "correction": "Emphasize the second syllable as /zeɪ/",
+        "explanation": "中文学习者常误读为第一音节重音，需练习IPA以改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "physics",
+      "mathematics",
+      "digital processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

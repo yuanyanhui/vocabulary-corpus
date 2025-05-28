@@ -1,0 +1,282 @@
+{
+  "word": "transposition",
+  "phonetics": {
+    "british": "/ˌtrænspəˈzɪʃən/",
+    "american": "/ˌtrænspəˈzɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of changing the position, order, or arrangement of something, such as elements in a sequence.",
+      "chineseTranslation": "移位；转位",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In music, the process of rewriting a piece in a different key.",
+      "chineseTranslation": "（音乐中的）变调；移调",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linguistics, the alteration of word order in a sentence for stylistic or grammatical reasons.",
+      "chineseTranslation": "（语言学中的）词序转换",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, a permutation of elements or a matrix operation involving swapping rows and columns.",
+      "chineseTranslation": "（数学中的）置换；转置",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "musical transposition",
+      "meaning": "音乐变调",
+      "example": "The composer used musical transposition to adapt the piece for different instruments.",
+      "exampleTranslation": "作曲家使用音乐变调来适应不同的乐器。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "genetic transposition",
+      "meaning": "遗传移位",
+      "example": "Genetic transposition can lead to mutations in DNA sequences.",
+      "exampleTranslation": "遗传移位可能导致DNA序列的突变。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "key transposition",
+      "meaning": "键位转换",
+      "example": "In cryptography, key transposition enhances security by rearranging encryption keys.",
+      "exampleTranslation": "在密码学中，键位转换通过重新排列加密键来增强安全性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The transposition of the melody into a higher key made it easier for the singer to perform.",
+      "translation": "将旋律移调到更高的键位，使歌手更容易表演。",
+      "source": "Music theory text",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In poetry, transposition of words can create a more rhythmic flow.",
+      "translation": "在诗歌中，词序转换可以创造出更富有节奏的流动。",
+      "source": "Literary analysis",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The data analyst performed a transposition on the matrix to simplify the calculations.",
+      "translation": "数据分析师对矩阵进行了转置以简化计算。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Transposition in language learning involves practicing sentence restructuring for better fluency.",
+      "translation": "在语言学习中，转位涉及练习句子重组以提高流利度。",
+      "source": "Language education resource",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "transpositio",
+        "meaning": "A placing across or beyond",
+        "language": "Latin"
+      },
+      {
+        "root": "transponere",
+        "meaning": "To place across",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'transpositio', from 'transponere' (trans- meaning 'across' and ponere meaning 'to place'). It evolved through Old French 'transposicion' in the 14th century to Middle English, initially used in musical contexts, and later expanded to general rearrangement in the 16th century.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "transpose",
+      "transportation",
+      "position"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知关联法，将 'transposition' 与日常生活中的 '移动' 或 '交换' 联系起来，以增强记忆；",
+      "通过重复练习不同语境下的句子，帮助建立语义网络，避免混淆类似词汇；",
+      "根据Krashen的输入假设，暴露学习者在多领域语料中接触该词，以促进自然习得"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "permutation",
+        "similarity": "0.8",
+        "context": "适用于数学或排列语境中，表示元素重新排序"
+      },
+      {
+        "word": "rearrangement",
+        "similarity": "0.7",
+        "context": "在一般语境中，表示重新安排结构"
+      },
+      {
+        "word": "shift",
+        "similarity": "0.6",
+        "context": "在非正式语境中，表示位置变化"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "retention",
+        "context": "在保持原有顺序的语境中，对比表示不改变"
+      },
+      {
+        "word": "fixation",
+        "context": "在固定位置的语境中，表示不移动"
+      }
+    ],
+    "hypernyms": [
+      "change",
+      "alteration"
+    ],
+    "hyponyms": [
+      "musical transposition",
+      "genetic transposition"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + transposition",
+        "examples": [
+          "musical transposition",
+          "key transposition"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transposition of + noun",
+        "examples": [
+          "transposition of elements",
+          "transposition of words"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与音乐和艺术创新相关，象征创造性和适应性；在教育语境中，代表语言灵活性，但在中国文化中可能较少直接使用，需通过比喻如 '易位' 来理解。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in formal musical education",
+        "usage": "在英国，常见于古典音乐讨论中"
+      },
+      {
+        "region": "United States",
+        "variation": "Applied broadly in technical fields like computing",
+        "usage": "在美国，更多用于科技和数学语境"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的音乐理论相关联，如巴赫的作品中常见变调；在现代，关联到数字时代的数据处理和社会流动性。",
+    "modernUsage": "在社交媒体和在线教育中，'transposition' 常用于讨论创意内容改编或AI算法"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个棋盘上棋子在交换位置的场景，代表 'transposition' 的移动概念。",
+      "keyElements": [
+        "棋子",
+        "交换",
+        "位置"
+      ],
+      "emotionalConnection": "联结到个人经历，如玩拼图游戏时的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Transposition 像 'transport position'，意思是运输或移动位置。",
+        "explanation": "通过词根分解和视觉联想，帮助记忆者建立直观连接"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /trænspəˈzɪʃən/ 听起来像 'train position'，想象火车在轨道上转轨。",
+        "explanation": "利用声音相似性触发图像记忆，基于Paivio的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "swap",
+      "switch",
+      "reorder"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "transpositions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + transposition + of + object",
+        "description": "主语 + 动词 + transposition + of + 宾语，表示动作结构",
+        "examples": [
+          "The editor performed transposition of the paragraphs."
+        ]
+      },
+      {
+        "pattern": "Transposition in + context",
+        "description": "在特定语境中使用，表示领域应用",
+        "examples": [
+          "Transposition in music requires skill."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'transportation'",
+        "correction": "Use 'transposition' for rearrangement, not physical movement",
+        "explanation": "两者词根相似，但语义不同，避免语义混淆"
+      },
+      {
+        "mistake": "Incorrect word order in sentences",
+        "correction": "Ensure proper placement in sentence structure",
+        "explanation": "由于该词涉及位置变化，学习者常错误应用句法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "music",
+      "mathematics",
+      "linguistics",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "process"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

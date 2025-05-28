@@ -1,0 +1,239 @@
+{
+  "word": "entity",
+  "phonetics": {
+    "british": "/ˈɛntɪti/",
+    "american": "/ˈɛntəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thing with distinct and independent existence, such as an object, concept, or organization.",
+      "chineseTranslation": "实体；存在物",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An individual unit or element in a system, often used in computing or philosophy.",
+      "chineseTranslation": "单位；元素",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "legal entity",
+      "meaning": "法律实体，指具有法律人格的组织或个人",
+      "example": "The company is registered as a separate legal entity.",
+      "exampleTranslation": "该公司注册为一个独立的法律实体。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "business entity",
+      "meaning": "商业实体，指从事商业活动的组织",
+      "example": "Startups often begin as small business entities.",
+      "exampleTranslation": "初创企业通常从小型商业实体开始。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In philosophy, an entity is anything that exists and can be identified as a distinct thing.",
+      "translation": "在哲学中，实体是任何存在并能被识别为独特事物的东西。",
+      "source": "Philosophical texts, such as those by Aristotle",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The database stores information about each entity, including customers and products.",
+      "translation": "数据库存储了每个实体的信息，包括客户和产品。",
+      "source": "Technical documentation from software engineering",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a corporate entity, it must comply with all regulatory requirements.",
+      "translation": "作为一家公司实体，它必须遵守所有监管要求。",
+      "source": "Business news articles from The Economist",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "entitas",
+        "meaning": "being or existence",
+        "language": "Latin"
+      },
+      {
+        "root": "ens",
+        "meaning": "present participle of esse (to be)",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'entitas'，最初用于哲学语境中描述存在或本质的概念。从中世纪经由 Scholasticism 传入英语，在17世纪开始广泛用于形而上学和科学领域，逐渐扩展到现代商业和信息技术中。",
+    "firstKnownUse": "约 1590 年",
+    "relatedWords": [
+      "entityhood",
+      "entityness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'entity' 与具体情境（如哲学或商业场景）关联，以增强长期记忆；建议通过重复曝光和语境练习，避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "being",
+        "similarity": "0.8",
+        "context": "适用于抽象存在或哲学讨论的语境"
+      },
+      {
+        "word": "object",
+        "similarity": "0.7",
+        "context": "适用于具体物理实体或计算机科学语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "nonentity",
+        "context": "适用于不存在或无重要性的事物的语境"
+      }
+    ],
+    "hypernyms": [
+      "thing",
+      "existence"
+    ],
+    "hyponyms": [
+      "person",
+      "organization",
+      "concept"
+    ],
+    "collocations": [
+      {
+        "pattern": "entity + noun (e.g., entity management)",
+        "examples": [
+          "entity management in databases"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + entity (e.g., legal entity)",
+        "examples": [
+          "corporate entity in business contexts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与哲学（如笛卡尔的 '我思故我在'）和商业管理相关，象征独立性和真实性；在跨文化语境中，中国学习者可能将其与 '实体经济' 关联，以突出虚拟 vs. 现实的对比。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在美国英语中，常见于法律和 IT 领域，例如 'business entity' 在公司注册中的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向哲学和正式语境",
+        "usage": "在英国英语中，常用于学术讨论，如 'metaphysical entity'"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，在文学和社会理论中体现存在主义主题，如狄更斯的小说中对社会实体的描绘。",
+    "modernUsage": "在社交媒体和数字时代，经常出现在 AI 和数据隐私讨论中，例如 'data entity' 在全球网络语境下的流行趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个独立的物体，如一棵树，矗立在广阔的森林中，代表其作为实体的独特存在。",
+      "keyElements": [
+        "树木",
+        "森林背景",
+        "独立性"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆童年中的一棵熟悉的树，以触发情感共鸣并加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Entity 像 'energy' 但更注重 'thing'，想象一个有能量的物体。",
+        "explanation": "通过声音联想和视觉化，帮助学习者区分相似词汇，提高认知编码效率"
+      },
+      {
+        "type": "缩略",
+        "content": "E-N-T-I-T-Y: Each New Thing Is Truly Yours",
+        "explanation": "使用首字母缩略词创建故事，基于认知心理学中的叙事记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "being",
+      "object",
+      "existence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "entities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + entity",
+        "description": "作为主语或宾语使用",
+        "examples": [
+          "The entity exists independently."
+        ]
+      },
+      {
+        "pattern": "Adjective + entity",
+        "description": "修饰实体以指定类型",
+        "examples": [
+          "A legal entity must register."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'energy'",
+        "correction": "Use 'entity' for things or beings, not physical force",
+        "explanation": "源自语音相似性；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -ies for plural",
+        "explanation": "英语名词规则；针对中国学习者，强调元音变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "philosophy",
+      "business",
+      "technology"
+    ],
+    "tags": [
+      "abstract",
+      "existence",
+      "organization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

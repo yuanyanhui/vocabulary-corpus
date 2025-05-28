@@ -1,0 +1,266 @@
+{
+  "word": "waiting",
+  "phonetics": {
+    "british": "/ˈweɪtɪŋ/",
+    "american": "/ˈweɪtɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb (present participle)",
+      "definition": "The act of staying in a place or delaying an action until a particular time, event, or person arrives.",
+      "chineseTranslation": "等待",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (gerund)",
+      "definition": "A period of time spent in anticipation or delay.",
+      "chineseTranslation": "等待期",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In a state of readiness or anticipation.",
+      "chineseTranslation": "等待中的",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "while waiting",
+      "meaning": "在等待期间",
+      "example": "While waiting for the bus, she read a book.",
+      "exampleTranslation": "在等待公共汽车时，她读了一本书。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "waiting for something",
+      "meaning": "等待某事发生",
+      "example": "He was waiting for the right opportunity to speak.",
+      "exampleTranslation": "他正在等待合适的时机说话。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "worth waiting for",
+      "meaning": "值得等待的",
+      "example": "The concert was worth waiting for; it was spectacular.",
+      "exampleTranslation": "那场音乐会值得等待；它非常壮观。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She has been waiting patiently for her turn.",
+      "translation": "她耐心地等待着她的轮到。",
+      "source": "Modern fiction (e.g., from contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Waiting in line at the airport can be tedious.",
+      "translation": "在机场排队等待可能很乏味。",
+      "source": "Travel blogs (e.g., COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The doctor is waiting to see you now.",
+      "translation": "医生现在正在等着见你。",
+      "source": "Daily conversation (e.g., BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the digital age, waiting for information is becoming obsolete.",
+      "translation": "在数字时代，等待信息正在变得过时。",
+      "source": "Technology articles (e.g., from academic sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "waitian",
+        "meaning": "to watch, guard, or wait",
+        "language": "Old English"
+      },
+      {
+        "root": "waiten",
+        "meaning": "to watch or observe",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "从古英语的'waitian'演变而来，该词源自古法兰克语，最初指监视或守护，逐渐扩展到现代英语中的延迟或期待含义。通过中古英语时期的发展，它从军事或观察语境转向日常等待。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "wait",
+      "await",
+      "watcher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复间隔学习法来记忆'waiting'的不同语境；将词汇与个人经历关联，例如回想日常生活中的等待场景，以增强长期记忆；对于中文母语学习者，注意区分'waiting'与类似词汇如'waiting for'的结构，以避免句法干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "awaiting",
+        "similarity": "0.9",
+        "context": "适用于正式语境，如商业或法律文件"
+      },
+      {
+        "word": "anticipating",
+        "similarity": "0.8",
+        "context": "适用于期望未来的事件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "proceeding",
+        "context": "在快速行动的语境中"
+      },
+      {
+        "word": "hurrying",
+        "context": "强调立即性的情况"
+      }
+    ],
+    "hypernyms": [
+      "delaying",
+      "pausing"
+    ],
+    "hyponyms": [
+      "queueing",
+      "lingering"
+    ],
+    "collocations": [
+      {
+        "pattern": "waiting for + noun",
+        "examples": [
+          "waiting for the bus",
+          "waiting for results"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be waiting + to-infinitive",
+        "examples": [
+          "be waiting to leave"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'waiting'常象征耐心和时间管理，与东方文化中的'等待'类似，可能体现忍耐的美德，但在现代快节奏社会中，它也代表 frustration 或 inefficiency。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用'queuing'作为特定形式",
+        "usage": "在英国，'waiting in a queue'是常见表达，强调有序等待"
+      },
+      {
+        "region": "美国",
+        "variation": "更随意，使用'waiting in line'",
+        "usage": "在美国，'waiting'常与日常活动结合，如'waiting at a drive-thru'"
+      }
+    ],
+    "historicalContext": "在文学作品中，如莎士比亚的戏剧，'waiting'与命运或爱情相关；在工业革命后，它反映了都市生活中的延误问题。",
+    "modernUsage": "在社交媒体上，'waiting'常用于表达焦虑，如#WaitingForUpdate，在全球疫情期间流行，突显即时沟通的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人站在车站，看着时钟滴答作响，周围是匆忙的人群。",
+      "keyElements": [
+        "时钟",
+        "车站",
+        "人群"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年等待父母接送的焦虑，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'waiting' as 'weigh-ting' – weighing time on a scale.",
+        "explanation": "通过声音联想将'waiting'与'weighing'连接，利用认知中的声音-视觉关联增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "W-A-I-T: Watch And Idle Time.",
+        "explanation": "使用首字母缩略词结合日常生活场景，帮助构建结构化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "wait",
+      "patience",
+      "delay",
+      "anticipate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "waiting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + waiting + for + object",
+        "description": "主语处于等待状态，强调对象",
+        "examples": [
+          "She is waiting for the train."
+        ]
+      },
+      {
+        "pattern": "While + waiting + clause",
+        "description": "用于描述同时进行的动作",
+        "examples": [
+          "While waiting, he checked his phone."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'wait' without 'for' in contexts requiring it",
+        "correction": "Use 'waiting for'",
+        "explanation": "中文母语学习者常省略介词'for'，导致句子不完整"
+      },
+      {
+        "mistake": "Confusing with 'weight'",
+        "correction": "Distinguish phonetically and semantically",
+        "explanation": "由于发音相似，易混淆；通过练习发音可避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "文学"
+    ],
+    "tags": [
+      "动词形式",
+      "时间相关",
+      "情感表达"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

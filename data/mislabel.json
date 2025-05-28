@@ -1,0 +1,242 @@
+{
+  "word": "mislabel",
+  "phonetics": {
+    "british": "/ˌmɪsˈleɪbəl/",
+    "american": "/ˌmɪsˈleɪbəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To attach an incorrect label to something, leading to misrepresentation or error in identification.",
+      "chineseTranslation": "错误标记",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To classify or describe something inaccurately, often in a way that misleads.",
+      "chineseTranslation": "错误分类或描述",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mislabel a product",
+      "meaning": "对产品进行错误标记",
+      "example": "The company had to recall the toys because they were mislabeled as non-toxic.",
+      "exampleTranslation": "公司不得不召回这些玩具，因为它们被错误标记为无毒的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mislabel data",
+      "meaning": "对数据进行错误标记",
+      "example": "In machine learning, mislabeling data can significantly affect the accuracy of the model.",
+      "exampleTranslation": "在机器学习中，对数据进行错误标记会显著影响模型的准确性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The museum accidentally mislabeled the artifact, leading to confusion among visitors.",
+      "translation": "博物馆意外地错误标记了文物，导致访客感到困惑。",
+      "source": "Educational literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Food manufacturers must ensure they do not mislabel ingredients to comply with regulations.",
+      "translation": "食品制造商必须确保不对成分进行错误标记，以符合规定。",
+      "source": "News article from BBC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In social media, users often mislabel images, which can spread misinformation.",
+      "translation": "在社交媒体上，用户经常对图像进行错误标记，这可能传播错误信息。",
+      "source": "Modern digital context",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（English）",
+    "rootWords": [
+      {
+        "root": "mis-",
+        "meaning": "错误地或不良地",
+        "language": "古英语（Old English）"
+      },
+      {
+        "root": "label",
+        "meaning": "标签或标记",
+        "language": "古法语（Old French）"
+      }
+    ],
+    "historicalDevelopment": "该词源自古英语的'mis-'（意为错误或不良），结合古法语的'label'（意为带子或标记），在16世纪的英语中演变为表示错误标记的动词形式。随着工业化和现代标签技术的兴起，该词在19世纪开始广泛用于产品和分类语境中。",
+    "firstKnownUse": "16世纪",
+    "relatedWords": [
+      "misname",
+      "misidentify",
+      "label"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将'mis-'视为错误前缀，与类似词汇如'misunderstand'关联；通过视觉图像联想错误标签的场景，以增强长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "misidentify",
+        "similarity": "0.8",
+        "context": "在识别或分类语境中，例如错误识别物体"
+      },
+      {
+        "word": "misname",
+        "similarity": "0.7",
+        "context": "在命名或称呼语境中，例如错误称呼某人"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "label correctly",
+        "context": "在准确标记或分类语境中，例如正确标签产品"
+      },
+      {
+        "word": "accurately describe",
+        "context": "在精确描述语境中，例如正确描述事件"
+      }
+    ],
+    "hypernyms": [
+      "misrepresent"
+    ],
+    "hyponyms": [
+      "mislabel products",
+      "mislabel data"
+    ],
+    "collocations": [
+      {
+        "pattern": "mislabel + noun (e.g., product, data)",
+        "examples": [
+          "mislabel a product",
+          "mislabel historical artifacts"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be mislabeled as",
+        "examples": [
+          "The painting was mislabeled as a forgery."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代社会中象征着信息失真或诚信问题，常与消费者保护和媒体伦理相关联，在西方文化中强调准确性以避免误导。",
+    "regionalVariations": [
+      {
+        "region": "美国（American English）",
+        "variation": "更常用于商业和科技语境",
+        "usage": "例如，在FDA法规中讨论产品标记错误"
+      },
+      {
+        "region": "英国（British English）",
+        "variation": "偶尔用于正式或学术语境",
+        "usage": "如在博物馆或历史记录中"
+      }
+    ],
+    "historicalContext": "在工业革命期间，该词与产品标记的兴起相关联，反映了19世纪的诚信和标准化运动；在当代，关联于数字化时代的信息传播问题。",
+    "modernUsage": "在社交媒体和在线平台中，该词的趋势增加，用于讨论假新闻或AI错误分类。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个标签上写着'苹果'，但实际是'橘子'，这代表了错误标记。",
+      "keyElements": [
+        "错误标签",
+        "混淆物体"
+      ],
+      "emotionalConnection": "联结个人购物经历中购买错误标记产品的挫败感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "mislabel 像 'miss the label'，意思是错过正确的标签。",
+        "explanation": "通过声音和意义联想，帮助记忆词根'mis-'表示错误。"
+      },
+      {
+        "type": "缩略",
+        "content": "M-I-S：Mistake In Sign",
+        "explanation": "使用首字母缩略法结合认知科学中的重复强化，以加深词汇记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "misunderstand",
+      "mislabeled products",
+      "error"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "mislabelled (British) or mislabeled (American)",
+      "pastParticiple": "mislabelled (British) or mislabeled (American)",
+      "presentParticiple": "mislabeling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + mislabel + object",
+        "description": "主语直接错误标记宾语的结构",
+        "examples": [
+          "They mislabel the boxes."
+        ]
+      },
+      {
+        "pattern": "Be + mislabeled + as",
+        "description": "被动语态结构，表示被错误标记为某物",
+        "examples": [
+          "The file was mislabeled as confidential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'mislabel' as a noun",
+        "correction": "Use as a verb only, e.g., 'mislabeling error'",
+        "explanation": "该词仅为动词，避免将其误用为名词，以符合英语语法规则。"
+      },
+      {
+        "mistake": "Confusing with 'label'",
+        "correction": "Add the prefix 'mis-' for incorrect action",
+        "explanation": "学习者常忽略前缀'mis-'，导致语义偏差；通过前缀分析可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（根据COCA语料库，排名中等，在科技和商业领域出现频率较高）",
+    "domains": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "错误",
+      "标记",
+      "分类"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

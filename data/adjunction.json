@@ -1,0 +1,256 @@
+{
+  "word": "adjunction",
+  "phonetics": {
+    "british": "/əˈdʒʌŋkʃən/",
+    "american": "/əˈdʒʌŋkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, the process of extending a mathematical structure by adding new elements or operations.",
+      "chineseTranslation": "在数学中，通过添加新元素或运算来扩展结构的过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linguistics, a syntactic construction where a phrase or clause is added to another to modify or expand it.",
+      "chineseTranslation": "在语言学中，将一个短语或从句附加到另一个短语或从句上以修改或扩展的句法结构",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The general act of joining or adding something to another.",
+      "chineseTranslation": "一般意义上的加入或附加行为",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "free adjunction",
+      "meaning": "自由附加",
+      "example": "In category theory, free adjunction is a fundamental concept for constructing new categories.",
+      "exampleTranslation": "在范畴论中，自由附加是构建新范畴的基本概念。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "adjunction of elements",
+      "meaning": "元素的附加",
+      "example": "The adjunction of elements to the set changes its properties significantly.",
+      "exampleTranslation": "将元素附加到集合中会显著改变其属性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In algebraic geometry, adjunction is used to relate the canonical bundle of a variety to its subvarieties.",
+      "translation": "在代数几何中，附加用于将一个变体的规范丛与其子变体相关联。",
+      "source": "Mathematical literature, e.g., from academic papers in journals like the Journal of Algebra",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The linguist explained the adjunction of the relative clause to the main sentence for better clarity.",
+      "translation": "语言学家解释了将关系从句附加到主句以提高清晰度。",
+      "source": "Linguistic texts, e.g., from Chomsky's syntactic theories",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Simple adjunction of a new feature can enhance the product's appeal in the market.",
+      "translation": "简单地附加一个新功能可以增强产品在市场中的吸引力。",
+      "source": "General business contexts, e.g., product development articles",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ad-",
+        "meaning": "to, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "iungere",
+        "meaning": "to join",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'adiunctio'，意为 '连接或附加'，通过古法语 'adjonction' 传入英语，并在17世纪的数学和哲学语境中演变为现代技术术语，用于描述结构扩展的过程。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "adjoin",
+      "junction",
+      "conjunction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将词汇与熟悉的数学或语言概念关联，以减少认知负荷；",
+      "使用重复间隔法（spaced repetition）复习词汇在不同语境中的应用；",
+      "通过视觉映射创建心智图，将 'adjunction' 与 'join' 或 'add' 的图像连接，促进长时记忆形成。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "addition",
+        "similarity": "0.7",
+        "context": "在非技术语境中，用于描述简单加入行为的场景"
+      },
+      {
+        "word": "annexation",
+        "similarity": "0.6",
+        "context": "在政治或领土语境中，表示附加或合并"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "separation",
+        "context": "表示分隔或移除的语境，与附加相反"
+      },
+      {
+        "word": "detachment",
+        "context": "在结构或关系的语境中，表示分离"
+      }
+    ],
+    "hypernyms": [
+      "connection",
+      "extension"
+    ],
+    "hyponyms": [
+      "free adjunction",
+      "proper adjunction"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjunction of [noun]",
+        "examples": [
+          "adjunction of elements",
+          "adjunction of a clause"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] adjunction",
+        "examples": [
+          "free adjunction",
+          "categorical adjunction"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方学术文化中象征结构扩展和创新，常用于数学和语言学领域，体现了理性主义和分析性思维的隐含语义；在跨文化语境中，中国学习者可能将其与本土概念如 '附加' 或 '联结' 关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于学术和正式语境",
+        "usage": "在英国英语中，偏好于数学教育和哲学讨论"
+      },
+      {
+        "region": "United States",
+        "variation": "在应用科学中更常见",
+        "usage": "在美国英语中，常见于计算机科学和AI领域的专业文献"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代科学革命相关，源自欧洲理性主义传统，如Newton和Descartes的作品中隐含的结构主义思想。",
+    "modernUsage": "在社交媒体和在线教育平台上，词汇传播趋势显示其主要用于专业社区，如Stack Exchange或学术论坛，而非日常对话。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拼图游戏，其中一块拼图被附加到主图案上，象征词汇的扩展含义。",
+      "keyElements": [
+        "拼图",
+        "连接线",
+        "扩展结构"
+      ],
+      "emotionalConnection": "联结个人经验，如组装模型玩具时的成就感，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'adjunction' 联想为 'a junction'，即 '一个连接点'。",
+        "explanation": "通过声音和意义联想，帮助记忆词汇的核心概念。"
+      },
+      {
+        "type": "缩略",
+        "content": "AD-JOIN-TION: A for add, Join for connect, Tion for action.",
+        "explanation": "使用首字母缩写分解词汇，结合认知科学中的编码策略以提升回忆效率。"
+      }
+    ],
+    "wordAssociations": [
+      "join",
+      "add",
+      "link",
+      "extend"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "adjunctions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "典型结构为 'the adjunction of [object]'，用于描述附加行为。",
+        "examples": [
+          "The adjunction of new data improved the model."
+        ]
+      },
+      {
+        "pattern": "In compound sentences",
+        "description": "常用于技术描述中，作为主语或宾语。",
+        "examples": [
+          "Adjunction plays a key role in this theory."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'adjection' (non-existent word)",
+        "correction": "Use 'adjunction' correctly as a noun",
+        "explanation": "学习者常误拼写为类似词，确保查阅词典以避免混淆。"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for technical usage",
+        "explanation": "由于其专业性，在日常语言中易被误用为一般 'addition'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 20,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "linguistics",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "structural"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

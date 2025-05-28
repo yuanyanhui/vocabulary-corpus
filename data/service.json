@@ -1,0 +1,289 @@
+{
+  "word": "service",
+  "phonetics": {
+    "british": "/ˈsɜːvɪs/",
+    "american": "/ˈsɝvɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of helping or doing work for someone",
+      "chineseTranslation": "服务；帮助",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system or organization that provides something needed by the public, such as transport or utilities",
+      "chineseTranslation": "公共服务；系统",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The work done by someone in the armed forces",
+      "chineseTranslation": "服役；军事服务",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To perform maintenance on a machine or vehicle",
+      "chineseTranslation": "维修；保养",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide a service to someone",
+      "chineseTranslation": "提供服务",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "customer service",
+      "meaning": "客户服务部门或活动",
+      "example": "The customer service team resolved the issue quickly.",
+      "exampleTranslation": "客户服务团队迅速解决了问题。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "public service",
+      "meaning": "公共服务，如政府提供的福利",
+      "example": "Working in public service can be very rewarding.",
+      "exampleTranslation": "从事公共服务工作非常有意义。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "at your service",
+      "meaning": "随时为您效劳",
+      "example": "I'm at your service if you need any assistance.",
+      "exampleTranslation": "如果您需要任何帮助，我随时为您效劳。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "service industry",
+      "meaning": "服务业，指提供服务的行业",
+      "example": "The service industry has grown rapidly in recent years.",
+      "exampleTranslation": "服务业近年来迅速发展。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The hotel offers excellent room service.",
+      "translation": "这家酒店提供一流的客房服务。",
+      "source": "Hospitality industry context, from TripAdvisor reviews",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He served in the military for ten years.",
+      "translation": "他在军队服役了十年。",
+      "source": "Biographical literature, e.g., from modern novels",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The mechanic will service your car next week.",
+      "translation": "机械师下周会保养你的汽车。",
+      "source": "Daily conversation, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Public services like healthcare are essential for society.",
+      "translation": "像医疗这样的公共服务对社会至关重要。",
+      "source": "News articles, e.g., from BBC News",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "serv-",
+        "meaning": "to serve or be a slave",
+        "language": "Latin"
+      },
+      {
+        "root": "servitium",
+        "meaning": "slavery or duty",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'servus'（奴隶），经由古法语 'servise' 演变为中世纪英语，最初指奴役或职责，逐渐扩展到现代意义上的帮助或服务行为；在工业革命后，扩展到商业和公共领域。",
+    "firstKnownUse": "约12世纪",
+    "relatedWords": [
+      "serve",
+      "servant",
+      "servitude"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议通过重复性练习建立词汇网络，例如将 'service' 与个人经历如餐厅用餐联系起来，利用情节记忆增强保留；使用间隔重复系统如Anki来优化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assistance",
+        "similarity": "0.8",
+        "context": "在需要帮助的非正式语境中使用"
+      },
+      {
+        "word": "aid",
+        "similarity": "0.7",
+        "context": "强调支持或救援的正式场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "neglect",
+        "context": "在服务缺失的语境中，如 'The neglect of public services led to problems.'"
+      },
+      {
+        "word": "abandonment",
+        "context": "在责任放弃的语境中，如商业服务领域"
+      }
+    ],
+    "hypernyms": [
+      "activity",
+      "system"
+    ],
+    "hyponyms": [
+      "customer service",
+      "military service"
+    ],
+    "collocations": [
+      {
+        "pattern": "service + noun",
+        "examples": [
+          "service industry",
+          "service provider"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + service",
+        "examples": [
+          "provide service",
+          "offer service"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中象征高效和客户导向的服务经济；在英国文化中，常与公共服务（如NHS）相关，隐含社会福利的价值观。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式公共服务表达",
+        "usage": "在英国，'service' 常用于政府语境，如 'civil service'，反映历史君主制下的行政传统。"
+      },
+      {
+        "region": "美国",
+        "variation": "更强调商业服务",
+        "usage": "在美国，'service' 在商业语境中频繁出现，如服务业驱动经济，体现了资本主义文化。"
+      }
+    ],
+    "historicalContext": "与工业革命相关的社会变革有关，19世纪的服务概念从封建义务演变为现代商业服务；在文学中，如狄更斯的作品中，体现社会阶层服务。",
+    "modernUsage": "在社交媒体和数字时代，'service' 常用于在线服务，如Netflix，常反映全球化的消费趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个服务员在餐厅中为客人提供帮助的场景",
+      "keyElements": [
+        "服务员",
+        "盘子",
+        "微笑"
+      ],
+      "emotionalConnection": "联结个人用餐经历的积极情绪，如享受美食时的感激感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'service' 联想为 'serve ice'（提供冰块），代表提供服务",
+        "explanation": "通过声音联想帮助初级学习者快速回忆词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-R-V-I-C-E 代表 'Something Everyone Really Values In Customer Experience'",
+        "explanation": "利用缩略词构建故事性记忆，基于认知科学的故事框架"
+      }
+    ],
+    "wordAssociations": [
+      "help",
+      "support",
+      "maintenance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "services",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词时，常用于主语或宾语位置",
+        "examples": [
+          "The service was excellent."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "作为动词时，需跟随直接宾语",
+        "examples": [
+          "They service the equipment regularly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'service' with 'serve'",
+        "correction": "Use 'service' as a noun or specific verb; 'serve' as a general verb",
+        "explanation": "学习者常混淆词性，导致句法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing in formal contexts",
+        "correction": "Match register appropriately",
+        "explanation": "中级学习者可能在非正式语境中过度使用正式表达"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "government",
+      "daily life"
+    ],
+    "tags": [
+      "service-oriented",
+      "utility",
+      "maintenance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

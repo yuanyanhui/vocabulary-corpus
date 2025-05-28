@@ -1,0 +1,272 @@
+{
+  "word": "bay",
+  "phonetics": {
+    "british": "/beɪ/",
+    "american": "/beɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A broad inlet of the sea where the land curves inward; an area of water partially enclosed by land.",
+      "chineseTranslation": "海湾",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A recessed section or compartment, such as in a building or garage.",
+      "chineseTranslation": "凹进部分或隔间（如车库隔间）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To bark or howl loudly, typically used for dogs.",
+      "chineseTranslation": "（狗等）大声吠叫",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of horse with a reddish-brown coat and a black mane, tail, and lower legs.",
+      "chineseTranslation": "一种红棕色毛的马",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bay window",
+      "meaning": "带窗台的突出窗",
+      "example": "The living room features a large bay window that offers a panoramic view of the garden.",
+      "exampleTranslation": "客厅有一个大海湾窗，可以欣赏花园的全景。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "keep at bay",
+      "meaning": "保持距离或阻止",
+      "example": "She managed to keep her fears at bay during the storm.",
+      "exampleTranslation": "她在风暴中设法控制住自己的恐惧。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "San Francisco Bay",
+      "meaning": "旧金山海湾",
+      "example": "San Francisco Bay is famous for its bridge and foggy weather.",
+      "exampleTranslation": "旧金山海湾以其桥梁和多雾天气而闻名。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ship sailed into the calm bay at dawn.",
+      "translation": "船在黎明时驶入平静的海湾。",
+      "source": "Literature (e.g., nautical novels)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The mechanic worked in the bay of the garage, fixing the engine.",
+      "translation": "机械师在车库的隔间里修理引擎。",
+      "source": "News (e.g., everyday reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The hound began to bay loudly as the intruder approached.",
+      "translation": "当入侵者接近时，猎犬开始大声吠叫。",
+      "source": "Literature (e.g., adventure stories)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In equestrian terms, a bay horse is often preferred for its striking appearance.",
+      "translation": "在马术术语中，红棕色马因其醒目的外貌而常受欢迎。",
+      "source": "Technical articles (e.g., from equestrian corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French and Old English",
+    "rootWords": [
+      {
+        "root": "baie",
+        "meaning": "An opening or inlet",
+        "language": "Old French"
+      },
+      {
+        "root": "bægan",
+        "meaning": "To bark",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'baie'，意为开口或海湾，可能追溯到拉丁语 'bāia'，表示一个低洼或海湾区域；动词形式则来自古英语 'bægan'，表示狗叫声；这些词源在中世纪英语中融合演变为现代意义，反映了从地理描述到动物行为的扩展。",
+    "firstKnownUse": "约 1300 年",
+    "relatedWords": [
+      "embayment",
+      "bight",
+      "bark"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，将 'bay' 与视觉图像关联，例如想象一个海湾的曲线形状来强化记忆；使用间隔重复法复习多义词，以避免混淆；将词汇与个人经历连接，如回想一次海边旅行，以增强情绪联结。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cove",
+        "similarity": "0.8",
+        "context": "在地理语境中，用于描述较小的海湾"
+      },
+      {
+        "word": "inlet",
+        "similarity": "0.7",
+        "context": "在海洋或河流语境中，表示陆地凹进的水域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "promontory",
+        "context": "在地理语境中，表示陆地突出部分，与海湾相对"
+      },
+      {
+        "word": "silence",
+        "context": "在动词语境中，表示安静，与吠叫相对"
+      }
+    ],
+    "hypernyms": [
+      "inlet",
+      "body of water"
+    ],
+    "hyponyms": [
+      "San Francisco Bay",
+      "Hudson Bay"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + bay (e.g., horse bay)",
+        "examples": [
+          "a bay horse"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + at bay (e.g., keep at bay)",
+        "examples": [
+          "hold at bay"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常象征安全或庇护，如海湾代表避风港；在文学中，海湾可能隐含探索与冒险的主题，例如美国文化中旧金山海湾与淘金热的关联。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于地理描述，如 'Bristol Bay'",
+        "usage": "在正式语境中强调历史地理"
+      },
+      {
+        "region": "美国",
+        "variation": "常与特定地标结合，如 'Bay Area' 指旧金山地区",
+        "usage": "在非正式对话中表示区域身份"
+      }
+    ],
+    "historicalContext": "与英国殖民历史相关，如探险家对海湾的命名反映了航海时代；在现代，美国西海岸的海湾成为技术创新中心的象征，如硅谷。",
+    "modernUsage": "在社交媒体和科技语境下，常用于比喻性表达，如 'keeping problems at bay' 在心理健康讨论中流行。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个平静的海湾，周围是弯曲的陆地，一只狗在岸边吠叫。",
+      "keyElements": [
+        "海湾曲线",
+        "狗吠叫声",
+        "马的颜色"
+      ],
+      "emotionalConnection": "联结个人海滩回忆或宠物经历，以触发正面情绪，帮助记忆多义性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bay sounds like 'beigh' which rhymes with 'weigh' – think of weighing anchor in a bay.",
+        "explanation": "通过声音联想加强发音记忆，并与视觉场景结合。"
+      },
+      {
+        "type": "缩略",
+        "content": "B-A-Y: Bay as Body of water, Animal bark, Yellowish horse.",
+        "explanation": "使用首字母缩写帮助区分多义词，基于认知分块原理。"
+      }
+    ],
+    "wordAssociations": [
+      "beach",
+      "bark",
+      "horse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bays",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Prepositional phrase with bay",
+        "description": "在句子中作为地点或描述部分使用",
+        "examples": [
+          "The boat is in the bay."
+        ]
+      },
+      {
+        "pattern": "Verb usage",
+        "description": "作为动词时，常与主语如动物结合",
+        "examples": [
+          "The dog bays at the moon."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bay' with 'bey' (a Turkish title)",
+        "correction": "Use 'bay' correctly in English contexts",
+        "explanation": "错误源于拼写相似；学习者应注意语境区分。"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify the part of speech",
+        "explanation": "中级学习者常混淆名词和动词含义；通过语境练习避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "geography",
+      "animals",
+      "architecture"
+    ],
+    "tags": [
+      "nature",
+      "geographical feature",
+      "animal behavior"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

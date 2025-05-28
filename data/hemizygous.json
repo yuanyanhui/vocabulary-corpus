@@ -1,0 +1,224 @@
+{
+  "word": "hemizygous",
+  "phonetics": {
+    "british": "/ˌhɛmɪˈzaɪɡəs/",
+    "american": "/ˌhɛmɪˈzaɪɡəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having only one copy of a gene in a diploid cell or organism, typically due to the gene being located on a sex chromosome.",
+      "chineseTranslation": "半合子性的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hemizygous gene",
+      "meaning": "半合子性基因",
+      "example": "The hemizygous gene on the X chromosome can lead to expression of recessive traits in males.",
+      "exampleTranslation": "X染色体上的半合子性基因可能导致男性表现隐性特征。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hemizygous state",
+      "meaning": "半合子状态",
+      "example": "In Drosophila, the hemizygous state for certain genes results from chromosomal deletions.",
+      "exampleTranslation": "在果蝇中，某些基因的半合子状态源于染色体缺失。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Males are often hemizygous for X-linked genes because they possess only one X chromosome.",
+      "translation": "男性通常对X连锁基因是半合子性的，因为他们只有一个X染色体。",
+      "source": "Genetics textbook (e.g., from educational resources like Khan Academy)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The mutation is hemizygous in this patient, making the phenotype more pronounced.",
+      "translation": "这个患者的突变是半合子性的，这使得表现型更加明显。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers identified the gene as hemizygous in the study population.",
+      "translation": "研究人员在研究人群中识别出该基因为半合子性。",
+      "source": "Academic paper (e.g., from Nature Genetics)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "hemi-",
+        "meaning": "half",
+        "language": "Greek"
+      },
+      {
+        "root": "zygous",
+        "meaning": "yoked or paired",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'hemi'（意为一半）和 'zygon'（意为轭或配对），在遗传学中发展为描述染色体上基因只有一份拷贝的情况，早于现代遗传学理论的形成。",
+    "firstKnownUse": "Early 20th century",
+    "relatedWords": [
+      "homozygous",
+      "heterozygous",
+      "diploid"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 7,
+    "spellingDifficulty": 8,
+    "meaningComplexity": 9,
+    "usageComplexity": 8,
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图表（如染色体模型）关联，以加强空间记忆；使用重复暴露策略，如在遗传学上下文中重复使用该词，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hemizygote",
+        "similarity": 0.8,
+        "context": "在遗传学讨论中，尤指涉及单拷贝基因的场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "homozygous",
+        "context": "当基因有两份相同的拷贝时"
+      },
+      {
+        "word": "heterozygous",
+        "context": "当基因有两份不同的拷贝时"
+      }
+    ],
+    "hypernyms": [
+      "genetic adjective"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "hemizygous for [gene or allele]",
+        "examples": [
+          "hemizygous for the recessive allele"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in a hemizygous state",
+        "examples": [
+          "The cell is in a hemizygous state due to deletion."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征遗传学研究的精确性，与文化无关的隐含语义，主要体现为对生物多样性和性别差异的理解。",
+    "regionalVariations": [
+      {
+        "region": "Global (e.g., United States and United Kingdom)",
+        "variation": "无显著表达差异",
+        "usage": "在英语科学文献中一致使用，强调跨文化通用性"
+      }
+    ],
+    "historicalContext": "与19世纪孟德尔遗传学理论和20世纪DNA发现相关，在现代生物医学中用于解释性别连锁疾病。",
+    "modernUsage": "在社交媒体和在线教育平台中常见，用于讨论基因编辑和个性化医学趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个染色体对，其中一个染色体缺失，只剩下一半，代表基因的单拷贝状态。",
+      "keyElements": [
+        "染色体",
+        "一半拷贝",
+        "基因表达"
+      ],
+      "emotionalConnection": "联结到个人家族健康历史或对科学发现的兴趣，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hemi-zygous: 'Hemi' like half a pizza, 'zygous' like a pair, so only half of the pair exists.",
+        "explanation": "通过简单比喻和词根联想，帮助建立视觉和语义连接。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌhɛmɪˈzaɪɡəs/ 听起来像 'hemi-size guess'，联想到猜测一半的大小。",
+        "explanation": "利用声音相似性强化听觉记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "half",
+      "gene",
+      "X-linked",
+      "chromosome"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + hemizygous",
+        "description": "用于描述基因或生物体的状态",
+        "examples": [
+          "The gene is hemizygous in males."
+        ]
+      },
+      {
+        "pattern": "hemizygous + for + object",
+        "description": "指定基因或等位基因的具体情况",
+        "examples": [
+          "The patient is hemizygous for the mutation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'homozygous'",
+        "correction": "Use 'hemizygous' for single copy situations",
+        "explanation": "这可能是由于相似词根导致的混淆；通过比较概念可避免。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /hiːmɪˈzaɪɡəs/",
+        "correction": "Pronounce as /ˌhɛmɪˈzaɪɡəs/",
+        "explanation": "强调短元音 /ɛ/ 而非长元音，以匹配标准IPA。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rare in general corpora like COCA, with occurrences primarily in scientific texts)",
+    "domains": [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    "tags": [
+      "genetics",
+      "chromosomes",
+      "allele",
+      "molecular biology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

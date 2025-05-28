@@ -1,0 +1,265 @@
+{
+  "word": "duality",
+  "phonetics": {
+    "british": "/djuːˈælɪti/",
+    "american": "/duˈæləti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being double or having two parts, elements, or aspects.",
+      "chineseTranslation": "双重性；两面性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In philosophy or science, the concept of two fundamental principles or entities coexisting.",
+      "chineseTranslation": "二元性；二重原理",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A duality in a specific context, such as in mathematics, referring to a principle where two systems are isomorphic.",
+      "chineseTranslation": "对偶性",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wave-particle duality",
+      "meaning": "波粒二重性",
+      "example": "In quantum mechanics, wave-particle duality describes how particles can exhibit both wave and particle properties.",
+      "exampleTranslation": "在量子力学中，波粒二重性描述了粒子可以同时表现出波和粒子的特性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mind-body duality",
+      "meaning": "身心二元性",
+      "example": "Descartes' philosophy introduces the mind-body duality as a fundamental aspect of human existence.",
+      "exampleTranslation": "笛卡尔的哲学引入了身心二元性作为人类存在的基本方面。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "moral duality",
+      "meaning": "道德两面性",
+      "example": "The character's moral duality makes him both a hero and a villain in the story.",
+      "exampleTranslation": "这个角色的道德两面性使他在故事中既是英雄又是反派。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of duality in physics helps explain the behavior of subatomic particles.",
+      "translation": "物理学中的二元性概念有助于解释亚原子粒子的行为。",
+      "source": "Scientific literature, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, we often experience the duality of emotions, feeling both joy and sorrow simultaneously.",
+      "translation": "在日常生活中，我们经常体验到情感的双重性，同时感受到喜悦和悲伤。",
+      "source": "Modern novels or essays, e.g., from BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Philosophers have debated the duality of good and evil for centuries.",
+      "translation": "哲学家们几个世纪以来一直在辩论善恶的二元性。",
+      "source": "Historical texts, e.g., from OED references",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The film's plot revolves around the duality of the protagonist's identity.",
+      "translation": "这部电影的情节围绕主角身份的双重性展开。",
+      "source": "Contemporary media, e.g., film reviews",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dualis",
+        "meaning": "double or twofold",
+        "language": "Latin"
+      },
+      {
+        "root": "duo",
+        "meaning": "two",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'dualis'，意为双重的，源自 'duo'（二）。在中世纪拉丁语中演变为 'dualitas'，用于表示二重性。在17世纪传入英语，通过哲学和科学语境发展为现代含义，强调两方面或原则的共存。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "dual",
+      "duality",
+      "duplicate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'duality' 与常见二元概念（如阴阳）联想；通过视觉映射创建心智图，将抽象语义与具体图像连接，以增强长时记忆；对于中国学习者，关联本土文化元素，如中国哲学中的阴阳理论，以降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "binary opposition",
+        "similarity": "0.8",
+        "context": "在哲学或文学语境中，用于描述两种对立力量的共存"
+      },
+      {
+        "word": "dichotomy",
+        "similarity": "0.7",
+        "context": "在分析性讨论中，表示两分法或分裂"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unity",
+        "context": "当强调单一性或整体性时，例如在强调和谐而非分裂的语境中"
+      },
+      {
+        "word": "singularity",
+        "context": "在科学或哲学中，表示唯一性而非二重性的语境"
+      }
+    ],
+    "hypernyms": [
+      "concept",
+      "principle"
+    ],
+    "hyponyms": [
+      "wave-particle duality",
+      "mind-body duality"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + noun",
+        "examples": [
+          "duality of nature",
+          "duality of identity"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + duality",
+        "examples": [
+          "fundamental duality",
+          "inherent duality"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征哲学和科学中的二元论，例如笛卡尔的二元论，隐含了对立统一的思想；在东方文化中，与中国阴阳哲学类似，代表平衡与和谐。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于哲学语境的使用",
+        "usage": "在英国英语中，常用于学术讨论，如文学分析"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重科学和技术语境",
+        "usage": "在美国英语中，常见于量子物理或心理学领域"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代科学革命相关，例如笛卡尔的思想影响了西方哲学；在中国文化中，与道家阴阳观有相似性，体现了跨文化二元概念的演变。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论心理健康或身份认同，如TikTok上的心理二元性话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个平衡的跷跷板，一端是光波，另一端是粒子，象征波粒二重性。",
+      "keyElements": [
+        "跷跷板",
+        "光波",
+        "粒子"
+      ],
+      "emotionalConnection": "联结个人经验，如经历过内心冲突的情感，触发对双重性的共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Duality 听起来像 'dual city'，想象两个城市的双重生活。",
+        "explanation": "通过空间联想强化记忆，基于认知科学的空间记忆优势"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Double, U for Unity of two.",
+        "explanation": "使用首字母缩写创建简单口诀，促进重复回忆"
+      }
+    ],
+    "wordAssociations": [
+      "binary",
+      "opposition",
+      "yin-yang"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dualities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + duality + of + noun",
+        "description": "主语 + 动词 + duality + of + 名词结构，常用于描述概念",
+        "examples": [
+          "The duality of light confuses many students."
+        ]
+      },
+      {
+        "pattern": "In + context, + noun + involves + duality",
+        "description": "在特定语境中，名词涉及二重性的结构",
+        "examples": [
+          "In quantum theory, matter involves duality."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing duality with dual",
+        "correction": "Use 'duality' for the concept and 'dual' for the adjective",
+        "explanation": "Duality 是名词，指状态；dual 是形容词，指双重的"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for formal or academic writing",
+        "explanation": "在非正式语境中，可能显得过于正式，导致语域不匹配"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "philosophy",
+      "science",
+      "psychology"
+    ],
+    "tags": [
+      "abstract concepts",
+      "philosophical terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

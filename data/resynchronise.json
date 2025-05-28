@@ -1,0 +1,236 @@
+{
+  "word": "resynchronise",
+  "phonetics": {
+    "british": "/ˌriː.sɪŋ.krəˈnaɪz/",
+    "american": "/ˌriːˈsɪŋ.krə.naɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To synchronize again, especially in technical contexts such as computing, telecommunications, or timing systems.",
+      "chineseTranslation": "重新同步",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "resynchronise clocks",
+      "meaning": "重新使时钟同步",
+      "example": "The system will resynchronise clocks across all servers to ensure accurate timing.",
+      "exampleTranslation": "系统将重新同步所有服务器上的时钟，以确保时间准确。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "resynchronise data",
+      "meaning": "重新同步数据",
+      "example": "After the network outage, we need to resynchronise data between the primary and backup databases.",
+      "exampleTranslation": "网络中断后，我们需要重新同步主数据库和备份数据库之间的数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software automatically resynchronises files when a connection is restored.",
+      "translation": "软件在连接恢复时会自动重新同步文件。",
+      "source": "Technical manual (e.g., from software documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In live broadcasting, technicians must resynchronise audio and video streams to avoid delays.",
+      "translation": "在直播中，技术人员必须重新同步音频和视频流以避免延迟。",
+      "source": "News article (e.g., BBC Technology section)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the power failure, the atomic clocks in the observatory resynchronise with global time standards.",
+      "translation": "断电后，天文台的原子钟会重新与全球时间标准同步。",
+      "source": "Scientific literature (e.g., from a physics journal)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Greek and Latin roots",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "Again or back",
+        "language": "Latin"
+      },
+      {
+        "root": "synchronise",
+        "meaning": "To occur at the same time",
+        "language": "Greek (from 'syn' meaning together, and 'chronos' meaning time)"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪中叶的英语技术术语演变，起初基于希腊词根 'syn' 和 'chronos' 形成 'synchronize'，后添加拉丁前缀 're-' 以表示重复动作。随着计算机和通信技术的兴起，该词在1960年代开始流行，用于描述数据或系统的重复同步过程。",
+    "firstKnownUse": "1960s (first documented in technical contexts, as per Oxford English Dictionary)",
+    "relatedWords": [
+      "synchronize",
+      "resynchronization",
+      "asynchronous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于包含多个音节和元音转换，初级学习者可能混淆 /sɪŋ/ 和 /naɪz/ 的发音)",
+    "spellingDifficulty": "7 (中等偏高难度，因为 'synchronise' 的拼写与美国英语 'synchronize' 不同，且 're-' 前缀易被遗忘)",
+    "meaningComplexity": "5 (中等难度，语义直观但需理解技术背景)",
+    "usageComplexity": "6 (中等难度，常用于特定语境，如技术或专业领域)",
+    "learningTips": [
+      "使用间隔重复系统 (Spaced Repetition System) 来强化记忆；将词汇与个人经验关联，例如想象手机重新连接Wi-Fi时的同步过程；结合视觉辅助，如绘图软件同步图标，以提升认知加工深度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "resynchronize",
+        "similarity": "0.95",
+        "context": "主要在美国英语中使用，适用于技术语境，如数据传输"
+      },
+      {
+        "word": "realign",
+        "similarity": "0.70",
+        "context": "在更广泛的语境中表示重新调整，但不限于时间同步"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "desynchronize",
+        "context": "用于表示使不同步的场景，例如在音乐或系统故障中"
+      },
+      {
+        "word": "asynchronize",
+        "context": "技术语境中，表示异步操作，如非实时处理"
+      }
+    ],
+    "hypernyms": [
+      "synchronize"
+    ],
+    "hyponyms": [
+      "data resynchronisation",
+      "clock resynchronisation"
+    ],
+    "collocations": [
+      {
+        "pattern": "resynchronise + noun (e.g., files, systems)",
+        "examples": [
+          "resynchronise files",
+          "resynchronise networks"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + resynchronise (e.g., automatically resynchronise)",
+        "examples": [
+          "automatically resynchronise",
+          "manually resynchronise"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代技术文化中象征效率和可靠性，尤其在全球化数字时代，体现出对实时连接的需求；它反映了西方文化对时间管理和同步的强调，但在非西方文化中，可能与集体协调（如中国传统节日活动）相关联。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用 'resynchronise' 作为标准拼写",
+        "usage": "在正式技术文档中常见，强调精确性"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用 'resynchronize'",
+        "usage": "在商业和科技语境中，拼写差异反映了美式英语的简化趋势"
+      }
+    ],
+    "historicalContext": "与20世纪工业革命和数字革命相关，源自钟表和通信技术的历史演进；在文学中，如科幻作品中出现，象征人类与机器的互动。",
+    "modernUsage": "在社交媒体和在线平台中流行，例如视频会议软件如Zoom中的重新同步功能，反映了后疫情时代远程协作的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时钟在风暴后重新与全球时间对齐的场景",
+      "keyElements": [
+        "时钟",
+        "风暴",
+        "全球网络"
+      ],
+      "emotionalConnection": "联结到个人经历，如手机重新连接互联网后的解脱感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re-sync 像重新连接的链条",
+        "explanation": "通过视觉联想 're-' 代表重复链条，'sync' 代表连接，帮助记忆词汇结构"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /riːˈsɪŋ/ 像 're-sing' (重新歌唱)，想象合唱团重新同步歌声",
+        "explanation": "利用声音相似性增强听觉记忆，基于认知心理学中的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "synchronize",
+      "refresh",
+      "reconnect"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "resynchronised",
+      "pastParticiple": "resynchronised",
+      "presentParticiple": "resynchronising",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + resynchronise + object",
+        "description": "主语 + 动词 + 宾语结构，常用于命令或描述性句子",
+        "examples": [
+          "The system resynchronises the data."
+        ]
+      },
+      {
+        "pattern": "Modal verb + resynchronise",
+        "description": "情态动词 + 动词结构，表示可能性或必要性",
+        "examples": [
+          "You should resynchronise the clocks now."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'synchronize' without 're-'",
+        "correction": "Use 'resynchronise' for repeated action",
+        "explanation": "学习者常遗漏 're-' 前缀，导致语义不准确；建议通过对比练习避免"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper irregular past forms",
+        "explanation": "如将 'resynchronised' 误用为 'resynchronizeed'，可通过规则记忆法纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "telecommunications"
+    ],
+    "tags": [
+      "technical",
+      "verb",
+      "synchronization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

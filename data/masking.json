@@ -1,0 +1,265 @@
+{
+  "word": "masking",
+  "phonetics": {
+    "british": "/ˈmɑːskɪŋ/",
+    "american": "/ˈmæskɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of covering, concealing, or disguising something to prevent it from being seen or detected.",
+      "chineseTranslation": "掩盖、隐藏或伪装某事物的行为或过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "In psychology or signal processing, the phenomenon where one stimulus interferes with the perception of another, such as auditory masking where a louder sound obscures a quieter one.",
+      "chineseTranslation": "在心理学或信号处理中，一种刺激干扰另一种刺激感知的现象，例如声音掩盖，其中较响的声音遮蔽较弱的声音",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "gerund",
+      "definition": "The present participle form of the verb 'mask', referring to the ongoing action of hiding or protecting.",
+      "chineseTranslation": "动名词形式，表示隐藏或保护的持续行为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data masking",
+      "meaning": "数据掩盖",
+      "example": "Data masking is essential for protecting sensitive information during software testing.",
+      "exampleTranslation": "数据掩盖在软件测试过程中对保护敏感信息至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "auditory masking",
+      "meaning": "听觉掩盖",
+      "example": "Auditory masking occurs when background noise prevents us from hearing faint sounds.",
+      "exampleTranslation": "听觉掩盖发生在背景噪音阻止我们听到微弱声音时。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "social masking",
+      "meaning": "社交掩盖",
+      "example": "In everyday interactions, social masking can help individuals hide their true emotions.",
+      "exampleTranslation": "在日常互动中，社交掩盖可以帮助个人隐藏真实情绪。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist used masking tape to create sharp edges in the painting.",
+      "translation": "艺术家使用掩盖胶带在画作中创建锐利的边缘。",
+      "source": "Art and design literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In psychology, masking can refer to how strong memories suppress weaker ones.",
+      "translation": "在心理学中，掩盖可以指强记忆抑制弱记忆的现象。",
+      "source": "Academic psychology texts, e.g., from cognitive science journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the pandemic, masking became a common practice to prevent virus spread.",
+      "translation": "在疫情期间，戴口罩成为防止病毒传播的常见做法。",
+      "source": "News articles and public health reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French and Italian",
+    "rootWords": [
+      {
+        "root": "masque",
+        "meaning": "a covering for the face",
+        "language": "Old French"
+      },
+      {
+        "root": "maschera",
+        "meaning": "mask or disguise",
+        "language": "Italian"
+      }
+    ],
+    "historicalDevelopment": "The term 'masking' derives from the Middle French 'masquer', meaning to cover the face, which evolved from the Italian 'maschera'. It originally referred to theatrical masks in the 16th century and later extended metaphorically to concealment in various fields like psychology and technology by the 19th century, reflecting shifts in cultural practices from performance arts to scientific applications.",
+    "firstKnownUse": "Late 16th century",
+    "relatedWords": [
+      "mask",
+      "unmask",
+      "disguise",
+      "conceal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 6,
+    "usageComplexity": 5,
+    "learningTips": [
+      "使用认知科学中的双编码策略：将词汇与视觉图像结合，例如想象戴面具的场景来记忆 'masking' 的含义，以增强海马体对词汇的存储；",
+      "针对中文母语学习者，练习通过对比母语的 '掩盖' 一词建立语义桥接，避免混淆其技术语境；",
+      "采用间隔重复系统（Spaced Repetition System）来复习，基于遗忘曲线优化记忆保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "concealing",
+        "similarity": 0.8,
+        "context": "适用于中性或正式语境中隐藏信息的场合，例如数据保护"
+      },
+      {
+        "word": "disguising",
+        "similarity": 0.7,
+        "context": "常用于视觉或社会互动的伪装场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "revealing",
+        "context": "在揭示真相的语境中，例如 'unmasking corruption'"
+      },
+      {
+        "word": "exposing",
+        "context": "用于公开隐藏事物的场合，如媒体报道"
+      }
+    ],
+    "hypernyms": [
+      "concealment",
+      "interference"
+    ],
+    "hyponyms": [
+      "auditory masking",
+      "visual masking"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + masking (e.g., data masking)",
+        "examples": [
+          "effective data masking",
+          "psychological masking effects"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + masking (e.g., prevent masking)",
+        "examples": [
+          "avoid auditory masking"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'masking' 象征着隐藏真实身份或情感，常与戏剧、节日（如威尼斯面具嘉年华）相关；在现代语境中，它代表了疫情时期的卫生措施，隐含对个人隐私和公共健康的张力。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical and health contexts, such as 'masking in COVID-19 protocols'",
+        "usage": "在美国，强调预防性使用，常在非正式对话中出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with a slight formal tone, e.g., in psychological literature",
+        "usage": "在英国，更常与历史戏剧传统关联"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的欧洲面具文化有关，并延伸到20世纪的心理学（如Freud的理论中作为防御机制），反映社会对隐私和身份的认知演变。",
+    "modernUsage": "在社交媒体和数字时代，'masking' 常用于讨论在线匿名或AI数据保护的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个戴着面具的演员在舞台上表演，同时背景有噪音干扰，这代表了 'masking' 的隐藏和干扰含义。",
+      "keyElements": [
+        "面具",
+        "舞台",
+        "噪音"
+      ],
+      "emotionalConnection": "联结到个人经历，如疫情中戴口罩的感受，以触发情绪记忆增强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Masking sounds like 'mask king' – think of a king hiding behind a mask to rule secretly.",
+        "explanation": "通过视觉联想建立词汇与故事情节的连接，基于认知心理学中的叙事记忆技术"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Associate the 'sk' sound in masking with 'sneak', implying secretive hiding.",
+        "explanation": "利用声音相似性创建感官联想，促进大脑的多模态处理"
+      }
+    ],
+    "wordAssociations": [
+      "hide",
+      "cover",
+      "interfere",
+      "protect"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "masking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "As a noun in a phrase",
+        "description": "用作名词时，常出现在短语中，如 'the masking of information'",
+        "examples": [
+          "The masking of emotions can lead to stress."
+        ]
+      },
+      {
+        "pattern": "As a gerund in a sentence",
+        "description": "用作动名词时，可作主语或宾语",
+        "examples": [
+          "Masking personal data is crucial for privacy."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'masking' with 'masked' as adjectives",
+        "correction": "Use 'masking' for the process and 'masked' for the state",
+        "explanation": "中文学习者常混淆动名词和过去分词形式，导致句法错误"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Restrict to appropriate registers",
+        "explanation": "中级学习者可能在非技术语境中错误应用技术术语"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus, indicating moderate usage",
+    "domains": [
+      "technology",
+      "psychology",
+      "health",
+      "arts"
+    ],
+    "tags": [
+      "concealment",
+      "interference",
+      "protection",
+      "signal processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

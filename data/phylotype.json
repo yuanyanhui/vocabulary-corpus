@@ -1,0 +1,231 @@
+{
+  "word": "phylotype",
+  "phonetics": {
+    "british": "/ˈfaɪlətaɪp/",
+    "american": "/ˈfaɪləˌtaɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A phylotype is a taxonomic unit or operational taxonomic unit (OTU) defined based on molecular sequencing data, such as 16S rRNA genes, used in microbial ecology to represent a group of organisms with similar evolutionary relationships.",
+      "chineseTranslation": "基于分子序列数据定义的分类单位，常用于微生物生态学中代表进化关系相似的生物群",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "identify phylotypes",
+      "meaning": "识别分类单位",
+      "example": "Scientists use DNA sequencing to identify phylotypes in soil samples.",
+      "exampleTranslation": "科学家使用DNA测序来识别土壤样本中的分类单位。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "phylotype diversity",
+      "meaning": "分类单位的多样性",
+      "example": "The study analyzed phylotype diversity in coral reef ecosystems.",
+      "exampleTranslation": "该研究分析了珊瑚礁生态系统中的分类单位多样性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In metagenomic studies, phylotypes are often determined by clustering sequences at a certain similarity threshold.",
+      "translation": "在宏基因组研究中，分类单位通常通过在特定相似度阈值下聚类序列来确定。",
+      "source": "Scientific literature (e.g., from journals like Nature Microbiology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The research team discovered new phylotypes in the human gut microbiome that could influence health.",
+      "translation": "研究团队在人类肠道微生物组中发现了新的分类单位，这些单位可能影响健康。",
+      "source": "Academic papers (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Phylotypes provide a way to classify bacteria without relying on traditional morphological methods.",
+      "translation": "分类单位提供了一种无需依赖传统形态学方法来分类细菌的方式。",
+      "source": "Educational resources (e.g., BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "phylon",
+        "meaning": "race or tribe",
+        "language": "Greek"
+      },
+      {
+        "root": "type",
+        "meaning": "a kind or category",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪后期分子生物学的兴起，源自希腊语 'phylon'（意为种族或部落），结合英语 'type'，最初用于描述基于进化关系的分类单位。随着DNA测序技术的进步，从传统的形态分类演变为分子水平的分类，以适应微生物生态学的需求。",
+    "firstKnownUse": "Late 20th century (approximately 1980s)",
+    "relatedWords": [
+      "phylogeny",
+      "phylogram",
+      "taxon"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，将新词与已知概念如 'taxonomy' 关联，利用视觉记忆法绘制进化树图来强化理解；对于中文母语学习者，建议通过重复暴露于科学文献中来构建语境记忆，避免孤立记忆导致的遗忘。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "OTU (Operational Taxonomic Unit)",
+        "similarity": "0.9",
+        "context": "在微生物生态学中，用于描述基于序列相似度的分类单位"
+      },
+      {
+        "word": "clade",
+        "similarity": "0.7",
+        "context": "在进化生物学中，指进化上紧密相关的群组，常与phylotype互换使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "morphotype",
+        "context": "强调基于形态特征的分类，而非分子数据"
+      }
+    ],
+    "hypernyms": [
+      "taxon"
+    ],
+    "hyponyms": [
+      "16S phylotype"
+    ],
+    "collocations": [
+      {
+        "pattern": "phylotype + noun (e.g., diversity, analysis)",
+        "examples": [
+          "phylotype diversity",
+          "phylotype analysis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + phylotype (e.g., identify, analyze)",
+        "examples": [
+          "identify phylotypes",
+          "analyze phylotypes"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征现代生物学向分子水平的转向，与文化无关，但反映了全球科学合作的文化，如在国际会议中推广。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在学术和研究语境中",
+        "usage": "在美国英语中，常见于生物技术产业和大学研究报告"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在正式出版物中更强调历史演变",
+        "usage": "在英国英语中，常与进化生物学历史背景结合"
+      }
+    ],
+    "historicalContext": "与达尔文进化论和现代DNA技术的发展相关，体现了科学革命对语言的影响，在20世纪后期的微生物学中兴起。",
+    "modernUsage": "在社交媒体和在线论坛中，phylotype 常用于科学传播，如Twitter上的研究分享，或教育视频平台，反映了科学民主化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个进化树图，其中不同分支代表各种phylotype，如树枝上的标签表示微生物群。",
+      "keyElements": [
+        "进化树",
+        "DNA序列",
+        "微生物"
+      ],
+      "emotionalConnection": "联结到个人经验，如观看纪录片中的生态系统，触发对生物多样性的好奇心"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Phylotype sounds like 'file a type' – think of filing organisms into types based on DNA files.",
+        "explanation": "通过声音联想，将 'phylo' 联想到 'file'，帮助记忆其分类功能"
+      },
+      {
+        "type": "视觉化",
+        "content": "Draw a family tree for microbes.",
+        "explanation": "利用家族树的概念强化phylotype的进化关系，基于认知科学的空间记忆原理"
+      }
+    ],
+    "wordAssociations": [
+      "phylogeny",
+      "genome",
+      "ecosystem"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "phylotypes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object (e.g., Scientists study phylotypes)",
+        "description": "作为主语或宾语出现，常用于科学描述句",
+        "examples": [
+          "Phylotypes are essential in biodiversity research."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases (e.g., in phylotype analysis)",
+        "description": "常与介词短语结合，表示具体语境",
+        "examples": [
+          "The diversity of phylotypes in the sample was remarkable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing phylotype with phenotype",
+        "correction": "Use phylotype for molecular-based classification and phenotype for observable characteristics",
+        "explanation": "phylotype 强调分子层面，而phenotype 指外在特征；中文学习者可能因音似混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'phylotypes' for plural",
+        "explanation": "英语名词规则简单，但技术词可能导致不熟悉"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "biology",
+      "ecology"
+    ],
+    "tags": [
+      "microbiology",
+      "taxonomy",
+      "molecular biology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

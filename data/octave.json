@@ -1,0 +1,264 @@
+{
+  "word": "octave",
+  "phonetics": {
+    "british": "/ˈɒk.tɪv/",
+    "american": "/ˈɑːk.tɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A musical interval embracing eight notes of the diatonic scale, from one note to another of the same name.",
+      "chineseTranslation": "八度音程，即从一个音符到另一个同名音符之间的八个音符区间。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a base-8 numbering system.",
+      "chineseTranslation": "在计算机中，指八进制数系统。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A set of eight lines of verse, especially in a sonnet.",
+      "chineseTranslation": "一组八行诗，尤其是十四行诗的前八行。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of eight.",
+      "chineseTranslation": "由八个组成的。",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "octave higher",
+      "meaning": "高八度",
+      "example": "The singer performed the note an octave higher to showcase her range.",
+      "exampleTranslation": "这位歌手将音符提高八度来展示她的音域。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "octave leap",
+      "meaning": "八度跳跃",
+      "example": "In piano music, an octave leap can add dramatic effect.",
+      "exampleTranslation": "在钢琴音乐中，八度跳跃可以增加戏剧效果。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "in octaves",
+      "meaning": "以八度形式",
+      "example": "The orchestra played the melody in octaves for a fuller sound.",
+      "exampleTranslation": "管弦乐队以八度形式演奏旋律，以获得更饱满的声音。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pianist effortlessly played the octave passage in Beethoven's Fifth Symphony.",
+      "translation": "钢琴家毫不费力地演奏了贝多芬第五交响曲中的八度段落。",
+      "source": "Music literature (e.g., from classical music analyses)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In binary and hexadecimal systems, understanding octaves is crucial for programmers.",
+      "translation": "在二进制和十六进制系统中，理解八进制对程序员至关重要。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Shakespeare's sonnets often begin with an octave that sets the scene.",
+      "translation": "莎士比亚的十四行诗通常以八行诗开头来设定场景。",
+      "source": "Literary works (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She sang the high note an octave above the original key.",
+      "translation": "她将高音唱得比原调高八度。",
+      "source": "Modern media (e.g., pop music lyrics)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "octavus",
+        "meaning": "eighth",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'octavus'（意思是第八）演变而来，最初用于音乐中表示八个音符的间隔。在中世纪拉丁语中扩展到诗歌结构，并在17世纪进入英语。在现代英语中，它发展为包括数学和计算机领域的含义。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "octet",
+      "octagon",
+      "octave"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'octave' 与八个音阶的阶梯图像关联，以增强空间记忆；对于中国学习者，建议与汉语中的 '八度' 进行双语映射，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "eighth",
+        "similarity": "0.7",
+        "context": "在音乐上下文中，指第八个音符或间隔"
+      },
+      {
+        "word": "interval",
+        "similarity": "0.6",
+        "context": "仅限于音乐语境中的音高差异"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unison",
+        "context": "音乐中，表示相同音高而非八度间隔"
+      }
+    ],
+    "hypernyms": [
+      "interval"
+    ],
+    "hyponyms": [
+      "perfect octave",
+      "diminished octave"
+    ],
+    "collocations": [
+      {
+        "pattern": "octave + adjective (e.g., higher, lower)",
+        "examples": [
+          "an octave higher",
+          "a perfect octave"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + octaves",
+        "examples": [
+          "played in octaves"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方音乐文化中，'octave' 象征和谐与完整，常用于表达情感深度；在诗歌中，它代表结构平衡。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于古典音乐语境",
+        "usage": "在英国英语中，常与古典文学和音乐教育相关联"
+      },
+      {
+        "region": "United States",
+        "variation": "在流行音乐和科技领域更常见",
+        "usage": "在美国英语中，常出现在现代音乐制作和编程讨论中"
+      }
+    ],
+    "historicalContext": "起源于古希腊音乐理论，并通过罗马时代传入欧洲文艺复兴；在文学中，如莎士比亚的作品中，它体现了文艺复兴时期的诗歌形式。",
+    "modernUsage": "在社交媒体和数字平台上，'octave' 常用于音乐软件应用或在线教程中，反映了全球数字文化的融合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯有八个台阶，每一个台阶代表一个音符，从底部到顶部形成一个完整的循环。",
+      "keyElements": [
+        "阶梯",
+        "音符",
+        "循环"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆儿时弹奏钢琴时的兴奋感，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Octave sounds like 'octo' which means eight in Latin; picture eight octopuses playing music.",
+        "explanation": "通过视觉联想和数字关联，帮助记忆词汇的词源和含义，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'octave' 的发音与八个音阶的上升声音联系。",
+        "explanation": "利用听觉和视觉的多模态记忆，以增强长期保留。"
+      }
+    ],
+    "wordAssociations": [
+      "eight",
+      "scale",
+      "music",
+      "poem"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "octaves",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'an octave higher')",
+        "description": "作为名词用于描述间隔或结构",
+        "examples": [
+          "The melody jumps an octave."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'in octaves')",
+        "description": "表示方式或形式",
+        "examples": [
+          "The choir sang in octaves."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'octet' (meaning a group of eight)",
+        "correction": "Use 'octave' for musical intervals",
+        "explanation": "两者虽同源，但语义不同；中国学习者可能因音似而混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "octaves",
+        "explanation": "简单添加 -s，但需注意在上下文中保持一致"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "Music",
+      "Computing",
+      "Literature"
+    ],
+    "tags": [
+      "Music terminology",
+      "Mathematical concept",
+      "Poetic structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

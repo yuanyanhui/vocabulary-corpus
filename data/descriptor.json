@@ -1,0 +1,236 @@
+{
+  "word": "descriptor",
+  "phonetics": {
+    "british": "/dɪˈskrɪptə/",
+    "american": "/dɪˈskrɪptər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word, phrase, or symbol that identifies or describes a particular person, object, or concept.",
+      "chineseTranslation": "描述符",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data value or identifier that provides information about another data element, such as a file or memory address.",
+      "chineseTranslation": "在计算机中，指提供关于其他数据元素信息的标识符",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "file descriptor",
+      "meaning": "文件描述符，表示操作系统中用于标识文件的整数或标识符",
+      "example": "In Unix systems, a file descriptor is an integer that represents an open file.",
+      "exampleTranslation": "在 Unix 系统中，文件描述符是一个表示已打开文件的整数。",
+      "frequency": "high in technical contexts"
+    },
+    {
+      "phrase": "data descriptor",
+      "meaning": "数据描述符，指描述数据结构或属性的元素",
+      "example": "The data descriptor in the database helps in organizing metadata.",
+      "exampleTranslation": "数据库中的数据描述符有助于组织元数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The descriptor 'vibrant' perfectly captures the energy of the city streets.",
+      "translation": "描述符 'vibrant' 完美捕捉了城市街道的活力。",
+      "source": "Literary text",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers use a file descriptor to manage input and output operations efficiently.",
+      "translation": "程序员使用文件描述符来高效管理输入和输出操作。",
+      "source": "Technical documentation",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In linguistics, a descriptor can be a key term that defines the core attributes of a language feature.",
+      "translation": "在语言学中，描述符可以是定义语言特征核心属性的关键术语。",
+      "source": "Academic article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "descript",
+        "meaning": "described",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'descriptus'，是 'describere'（描述）的过去分词，通过中世纪法语演变为英语，在17世纪开始用于现代意义，最初在科学和描述性写作中发展为表示标识或说明的术语。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "description",
+      "describe",
+      "descriptive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将 'descriptor' 与其在计算机或语言学中的具体情境分块记忆；结合图像联想，例如将词汇与标签贴纸的视觉化场景关联，以增强长期记忆；根据母语干扰，注意避免将 'descriptor' 与中文 '描述' 的相似性混淆，通过重复练习强化语境区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "identifier",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于标识数据或对象的场合"
+      },
+      {
+        "word": "label",
+        "similarity": "0.7",
+        "context": "在一般描述性语境中，用于标记或分类的场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "obfuscator",
+        "context": "在技术语境中，指隐藏或混淆信息的术语，与清晰描述相反"
+      }
+    ],
+    "hypernyms": [
+      "term",
+      "identifier"
+    ],
+    "hyponyms": [
+      "attribute descriptor",
+      "field descriptor"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + descriptor",
+        "examples": [
+          "file descriptor",
+          "data descriptor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "descriptor + of + noun",
+        "examples": [
+          "descriptor of the process"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要体现技术性和描述性，无显著象征意义，但在科技驱动的社会中，代表了信息时代对精确标识的需求，隐含语义强调清晰性和组织性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如编程和数据科学",
+        "usage": "在美国英语中，'descriptor' 在IT行业流行，常见于软件开发文档"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于学术和正式写作，但较少在口语中",
+        "usage": "在英国英语中，可能更侧重于语言学语境，以保持中性语域"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，17世纪的英语发展中，'descriptor' 反映了分类和描述的理性主义传统，在文学和社会科学中用于精确表达。",
+    "modernUsage": "在现代社交媒体和数字平台上，'descriptor' 常用于元数据标签，如社交网络的个人资料描述，体现了全球数字化趋势的跨文化传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件柜，上面贴有标签 'descriptor'，每个标签描述文件的内容。",
+      "keyElements": [
+        "标签",
+        "文件柜",
+        "描述内容"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆整理照片时使用标签的满足感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'descriptor' 联想为 'desk +criptor'，仿佛办公桌上描述事物的工具。",
+        "explanation": "通过声音和视觉联想，结合认知科学中的双编码理论，将听觉和图像记忆相结合，提升词汇保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-S-C：Describe Every Single Characteristic.",
+        "explanation": "使用缩略形式创建短语，帮助母语为中文的学习者通过重复和结构化记忆克服语义复杂性。"
+      }
+    ],
+    "wordAssociations": [
+      "describe",
+      "identify",
+      "label",
+      "tag"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "descriptors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + descriptor",
+        "description": "作为名词直接用在主语或宾语位置",
+        "examples": [
+          "The descriptor identifies the key feature."
+        ]
+      },
+      {
+        "pattern": "Descriptor + of + noun",
+        "description": "表示所属或描述关系",
+        "examples": [
+          "Descriptor of the system is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'describer'",
+        "correction": "Use 'descriptor' for the noun meaning a describing element",
+        "explanation": "母语干扰可能导致词形混淆；正确区分 'describer'（描述者）与 'descriptor'（描述符）的语义差异。"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for appropriate registers",
+        "explanation": "中级学习者常错误地在非技术语境中使用，建议结合语域分析避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "linguistics",
+      "science"
+    ],
+    "tags": [
+      "technical term",
+      "noun",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

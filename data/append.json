@@ -1,0 +1,250 @@
+{
+  "word": "append",
+  "phonetics": {
+    "british": "/əˈpɛnd/",
+    "american": "/əˈpɛnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To add something to the end of a document, list, or sequence.",
+      "chineseTranslation": "附加；追加",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To attach or affix as an addition.",
+      "chineseTranslation": "附上；添加",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An addition or attachment to something, often in computing contexts.",
+      "chineseTranslation": "附加物；附录",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "append to",
+      "meaning": "附加到某物末尾",
+      "example": "You can append to the file using the command line.",
+      "exampleTranslation": "您可以使用命令行将内容附加到文件末尾。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "file append",
+      "meaning": "文件附加操作",
+      "example": "The program performs a file append operation to update the log.",
+      "exampleTranslation": "程序执行文件附加操作以更新日志。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "append mode",
+      "meaning": "附加模式",
+      "example": "Open the document in append mode to add new content.",
+      "exampleTranslation": "以附加模式打开文档以添加新内容。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She decided to append a new section to her research paper.",
+      "translation": "她决定在她的研究论文中附加一个新部分。",
+      "source": "Academic writing (e.g., from journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you can append elements to an array easily.",
+      "translation": "在编程中，您可以轻松地将元素附加到数组中。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The editor asked the author to append footnotes for clarity.",
+      "translation": "编辑要求作者附加脚注以提高清晰度。",
+      "source": "Literary context (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "appendere",
+        "meaning": "to hang upon or attach",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'appendere'，意为 '悬挂或附加'，通过古法语 'appender' 演变为现代英语，最初用于描述物理附加行为，后来扩展到抽象和数字上下文，如文档或数据处理。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "appendix",
+      "pendant"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'append' 与常见编程或写作场景关联，例如想象 'append' 如 '添加一页纸到书末'，以增强语境记忆；同时，利用重复间隔法（spaced repetition）复习其在不同语域中的应用，以优化中级学习者的长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "add",
+        "similarity": "0.8",
+        "context": "适用于中性语境，如列表或文档中添加内容"
+      },
+      {
+        "word": "attach",
+        "similarity": "0.7",
+        "context": "适用于正式语境，如文件附加"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "remove",
+        "context": "适用于移除内容的语境，例如从列表中删除项"
+      },
+      {
+        "word": "delete",
+        "context": "适用于技术语境，如从文件中删除数据"
+      }
+    ],
+    "hypernyms": [
+      "add"
+    ],
+    "hyponyms": [
+      "concatenate"
+    ],
+    "collocations": [
+      {
+        "pattern": "append + noun (e.g., append a file)",
+        "examples": [
+          "Append a document to the email."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "append to + object",
+        "examples": [
+          "Append to the end of the list."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与信息时代和技术创新相关联，象征效率和扩展性，但在跨文化语境中，中国学习者可能将其与编程文化联系，如在软件开发中的常见用法，以突出西方技术话语的全球影响。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'append' 在科技领域频率较高，例如在软件文档中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式书面语",
+        "usage": "在英国英语中，常用于学术或出版语境，以保持中性语域"
+      }
+    ],
+    "historicalContext": "与工业革命和现代出版业相关，该词反映了英语文化中对知识积累和扩展的重视，例如在18世纪的文学作品中用于描述书籍附录。",
+    "modernUsage": "在当代社交媒体和数字平台上，'append' 常用于在线讨论和代码共享中，体现技术全球化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一本书的末尾附加了一页新内容，就如在链条上挂上一个新环节。",
+      "keyElements": [
+        "书本",
+        "链条",
+        "附加页"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己添加笔记到课本的经历，以触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Append 像 'a + pend'，pend 意为悬挂，所以像悬挂东西在末尾。",
+        "explanation": "通过视觉联想增强记忆，基于认知联想原理，帮助中级学习者快速回忆词义"
+      },
+      {
+        "type": "缩略",
+        "content": "A for Add, P for Pend (hang)",
+        "explanation": "使用首字母缩略结合词根记忆，符合认知科学中的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "add",
+      "attach",
+      "extend"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "appended",
+      "pastParticiple": "appended",
+      "presentParticiple": "appending",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + append + object",
+        "description": "主语 + 动词 + 直接宾语的结构，常用于简单陈述",
+        "examples": [
+          "I append the file."
+        ]
+      },
+      {
+        "pattern": "Append + to + object",
+        "description": "表示附加关系的介词短语结构",
+        "examples": [
+          "Append to the document."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'appendix'",
+        "correction": "Use 'append' as a verb, not to be confused with the noun 'appendix'.",
+        "explanation": "学习者常混淆词性，导致语义错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect preposition use",
+        "correction": "Always use 'to' with 'append' when indicating attachment.",
+        "explanation": "中文母语学习者可能遗漏介词；通过句法模式训练避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "academics"
+    ],
+    "tags": [
+      "computing",
+      "addition",
+      "extension"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

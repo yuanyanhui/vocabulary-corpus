@@ -1,0 +1,234 @@
+{
+  "word": "interpretable",
+  "phonetics": {
+    "british": "/ɪnˈtɜːprɪtəbl/",
+    "american": "/ɪnˈtɝːprətəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being interpreted, explained, or understood, often in contexts like data analysis, law, or literature.",
+      "chineseTranslation": "可解释的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "interpretable model",
+      "meaning": "可解释的模型（如在人工智能中，指模型的决策过程可以被人类理解）",
+      "example": "In machine learning, an interpretable model allows users to understand how predictions are made.",
+      "exampleTranslation": "在机器学习中，可解释的模型允许用户理解预测是如何做出的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "easily interpretable",
+      "meaning": "容易解释的",
+      "example": "The artist's work is easily interpretable, making it accessible to a wide audience.",
+      "exampleTranslation": "这位艺术家的作品很容易解释，使其对广大观众易于理解。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The results of the experiment were interpretable, revealing clear patterns in user behavior.",
+      "translation": "实验的结果是可解释的，揭示了用户行为的清晰模式。",
+      "source": "Scientific article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In legal terms, the contract must be interpretable to all parties involved.",
+      "translation": "在法律术语中，该合同必须对所有相关方可解释。",
+      "source": "Legal document (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her poetry is highly interpretable, with layers of meaning that change based on the reader's perspective.",
+      "translation": "她的诗歌高度可解释，具有根据读者视角变化的意义层级。",
+      "source": "Literary work (e.g., modern fiction)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "interpret-",
+        "meaning": "to explain or translate",
+        "language": "Latin"
+      },
+      {
+        "root": "inter-",
+        "meaning": "between or among",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'interpretari'（解释），通过古法语演变为中古英语，最终在17世纪标准化为现代英语形式。最初用于翻译和解释语境，后来扩展到抽象概念如数据或艺术解释。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "interpret",
+      "interpretation",
+      "interpreter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学，将词汇与视觉图像关联，例如想象一个'钥匙'打开'黑箱模型'，以强化记忆；使用间隔重复法复习以巩固语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "explainable",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如人工智能模型的设计"
+      },
+      {
+        "word": "understandable",
+        "similarity": "0.7",
+        "context": "适用于日常交流和教育语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uninterpretable",
+        "context": "适用于复杂或模糊的语境，如难以解释的艺术作品"
+      },
+      {
+        "word": "opaque",
+        "context": "适用于技术领域，如不透明的算法"
+      }
+    ],
+    "hypernyms": [
+      "explicable"
+    ],
+    "hyponyms": [
+      "machine-interpretable"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., interpretable data)",
+        "examples": [
+          "interpretable results",
+          "interpretable code"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + adjective (e.g., easily interpretable)",
+        "examples": [
+          "highly interpretable text"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征透明度和可访问性，尤其在科技和法律领域，体现了对民主和理解的重视，例如在人工智能伦理中强调模型的可解释性以避免偏见。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如AI和数据科学",
+        "usage": "在美国英语中，强调实际应用，如' interpretable AI models in business decisions'"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重学术和文学语境",
+        "usage": "在英国英语中，常用于历史或艺术分析，如' interpretable historical texts'"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，强调理性解释；在现代，关联到后现代主义对文本多重解释的讨论。",
+    "modernUsage": "在社交媒体和数字平台上，流行于AI辩论中，反映了对技术伦理的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙打开一个黑箱，里面是清晰的图表和说明。",
+      "keyElements": [
+        "钥匙（象征解释）",
+        "黑箱（象征复杂事物）",
+        "图表（象征清晰结果）"
+      ],
+      "emotionalConnection": "联结到个人经历，如解开谜题的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Interpretable 像 'inter'（中间）+ 'pretable'（可读表），想象中间有可读的桥梁。",
+        "explanation": "通过视觉联想建立语义网络，促进长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪnˈtɜːprɪtəbl/ 听起来像 'in turn, printable'，联想到打印出解释。",
+        "explanation": "利用声音相似性强化听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "explain",
+      "clear",
+      "understand"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more interpretable",
+      "superlative": "most interpretable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + interpretable + object",
+        "description": "典型结构用于描述事物可解释性",
+        "examples": [
+          "The data is interpretable."
+        ]
+      },
+      {
+        "pattern": "Adverb + interpretable + noun",
+        "description": "用于强调程度",
+        "examples": [
+          "Easily interpretable instructions are provided."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interpretive' (meaning related to interpretation)",
+        "correction": "Use 'interpretable' for capability of being interpreted",
+        "explanation": "二者虽相关，但前者强调可解释性，后者强调解释性的"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɪnˈtɛrprɪteɪbl/",
+        "correction": "Correct to /ɪnˈtɜːprɪtəbl/ (British)",
+        "explanation": "错误音标可能导致语义混淆，影响沟通"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "法律",
+      "教育"
+    ],
+    "tags": [
+      "技术术语",
+      "形容词",
+      "AI相关"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

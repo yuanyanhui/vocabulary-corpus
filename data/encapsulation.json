@@ -1,0 +1,237 @@
+{
+  "word": "encapsulation",
+  "phonetics": {
+    "british": "/ɪnˌkæpsjʊˈleɪʃən/",
+    "american": "/ɪnˌkæpsəˈleɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In object-oriented programming, the bundling of data with the methods that operate on that data, while restricting direct access to some of the object's components.",
+      "chineseTranslation": "在面向对象编程中，将数据与操作这些数据的函数捆绑在一起，并限制对某些组件的直接访问。",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of enclosing something in a capsule or protective covering.",
+      "chineseTranslation": "将某物封装在胶囊或保护层中的过程。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data encapsulation",
+      "meaning": "数据封装",
+      "example": "Data encapsulation is a fundamental concept in object-oriented programming.",
+      "exampleTranslation": "数据封装是面向对象编程中的基本概念。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "information encapsulation",
+      "meaning": "信息封装",
+      "example": "Information encapsulation helps in maintaining system integrity.",
+      "exampleTranslation": "信息封装有助于维护系统完整性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Encapsulation in software design ensures that internal details are hidden from external users.",
+      "translation": "在软件设计中，封装确保内部细节对外部用户隐藏。",
+      "source": "Technical documentation, such as programming tutorials",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The encapsulation of vitamins in gel capsules improves their stability and absorption.",
+      "translation": "将维生素封装在凝胶胶囊中提高了它们的稳定性和吸收率。",
+      "source": "Scientific articles on pharmaceuticals",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern networking relies on encapsulation to manage data packets efficiently.",
+      "translation": "现代网络依赖封装来高效管理数据包。",
+      "source": "News articles on technology",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "capsula",
+        "meaning": "a small box or container",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'capsula', a diminutive of 'capsa' meaning 'box' or 'case'. It entered English via French 'encapsuler' in the 19th century, initially referring to physical enclosure. In the 20th century, it evolved in computing contexts to denote abstract bundling of data and functions, influenced by developments in object-oriented programming.",
+    "firstKnownUse": "1830s in general sense; 1960s in computing",
+    "relatedWords": [
+      "capsule",
+      "encapsulate",
+      "capsulation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用视觉比喻将词汇与现实物体关联，例如想象将数据放入一个锁定的盒子中，以强化记忆；结合间隔重复法复习多义词以提升认知持久性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "wrapping",
+        "similarity": "0.7",
+        "context": "在编程中用作隐藏实现的手段"
+      },
+      {
+        "word": "bundling",
+        "similarity": "0.8",
+        "context": "在技术语境中表示数据整合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exposure",
+        "context": "在技术语境中表示公开或暴露信息"
+      },
+      {
+        "word": "disclosure",
+        "context": "与封装相反的揭示过程"
+      }
+    ],
+    "hypernyms": [
+      "abstraction"
+    ],
+    "hyponyms": [
+      "information hiding"
+    ],
+    "collocations": [
+      {
+        "pattern": "data + encapsulation",
+        "examples": [
+          "Data encapsulation is essential in secure systems."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "process of encapsulation",
+        "examples": [
+          "The process of encapsulation involves sealing the contents."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征保护和模块化设计，体现现代软件工程的效率与安全原则；在西方教育中，常用于强调隐私与数据保护的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如计算机科学",
+        "usage": "在美国英语中，强调在编程和商业语境下的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于一般科学语境",
+        "usage": "在英国英语中，可能更侧重于物理封装的概念"
+      }
+    ],
+    "historicalContext": "与20世纪的计算机革命相关，尤其在对象-oriented编程兴起期间，如Smalltalk语言的开发；它反映了工业革命后对封装和保护概念的演变。",
+    "modernUsage": "在社交媒体和数字平台上，常见于技术讨论和在线教育，常与数据隐私趋势相结合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象将重要数据放入一个坚固的胶囊中，然后密封起来。",
+      "keyElements": [
+        "胶囊",
+        "密封",
+        "保护"
+      ],
+      "emotionalConnection": "联结到个人经验，如保存秘密文件，触发安全感和责任感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "analogy",
+        "content": "Like putting medicine in a capsule",
+        "explanation": "就像将药物放入胶囊中保护它，封装用于保护数据免受外部干扰。"
+      },
+      {
+        "type": "association",
+        "content": "Cap + protection",
+        "explanation": "将 'cap' 联想为盖子，结合保护概念，帮助记忆词汇的核心含义。"
+      }
+    ],
+    "wordAssociations": [
+      "capsule",
+      "protect",
+      "hide",
+      "bundle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "encapsulations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + encapsulation",
+        "description": "作为名词用在句中，表示过程或概念",
+        "examples": [
+          "Encapsulation improves code security."
+        ]
+      },
+      {
+        "pattern": "The encapsulation of + noun",
+        "description": "用于描述封装动作",
+        "examples": [
+          "The encapsulation of data is crucial."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing encapsulation with encryption",
+        "correction": "Use encapsulation for bundling data; use encryption for securing data with keys.",
+        "explanation": "封装关注数据组织，而非加密的安全机制。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural: encapsulations",
+        "explanation": "作为可数名词，需要正确添加复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "Computer Science",
+      "Technology",
+      "Engineering"
+    ],
+    "tags": [
+      "programming",
+      "OOP",
+      "data protection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

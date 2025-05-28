@@ -1,0 +1,230 @@
+{
+  "word": "magnetron",
+  "phonetics": {
+    "british": "/ˈmæɡnɪtrɒn/",
+    "american": "/ˈmæɡnɪtrɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A high-power vacuum tube that generates microwaves by the interaction of electrons with a magnetic field, commonly used in radar systems and microwave ovens.",
+      "chineseTranslation": "磁控管",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cavity magnetron",
+      "meaning": "腔体磁控管，指一种特定类型的磁控管，用于产生高功率微波。",
+      "example": "The cavity magnetron is essential for the operation of microwave ovens.",
+      "exampleTranslation": "腔体磁控管是微波炉运作的核心组件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "magnetron tube",
+      "meaning": "磁控管真空管，常用于电子设备中。",
+      "example": "Engineers replaced the faulty magnetron tube in the radar system.",
+      "exampleTranslation": "工程师更换了雷达系统中的故障磁控管真空管。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The magnetron in the microwave oven converts electrical energy into microwaves.",
+      "translation": "微波炉中的磁控管将电能转化为微波。",
+      "source": "Technical manual (e.g., from electronics engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During World War II, the invention of the magnetron revolutionized radar technology.",
+      "translation": "在二战期间，磁控管的发明彻底改变了雷达技术。",
+      "source": "Historical account (e.g., from science history books)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern electronics, the magnetron is often found in high-frequency applications.",
+      "translation": "在现代电子学中，磁控管常用于高频应用。",
+      "source": "Scientific article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, from 'magnet' (Latin) + 'tron' (Greek)",
+    "rootWords": [
+      {
+        "root": "magnet",
+        "meaning": "A piece of material that attracts iron, from Latin 'magnes' meaning 'lodestone'.",
+        "language": "Latin"
+      },
+      {
+        "root": "tron",
+        "meaning": "A suffix derived from Greek 'ēlektron' meaning 'amber', relating to electron tubes.",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪20年代的电子学发展，结合了'magnet'（磁铁）和'tron'（电子管后缀），用于描述一种利用磁场控制电子的真空管。从最初的雷达应用演变为现代消费电子设备。",
+    "firstKnownUse": "1920s",
+    "relatedWords": [
+      "klystron",
+      "traveling wave tube",
+      "electron gun"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学建议：通过可视化技术设备（如微波炉内部）来记忆词汇，利用间隔重复法复习以强化长期记忆，并将词汇与实际应用场景关联以提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "microwave generator",
+        "similarity": "0.8",
+        "context": "适用于技术语境中描述产生微波的设备，例如在工程讨论中。"
+      },
+      {
+        "word": "oscillator tube",
+        "similarity": "0.6",
+        "context": "在电子学语境中，指类似振荡器的设备，但精确度较低。"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "receiver",
+        "context": "在通信系统中，磁控管用于发射，而接收器用于接受信号，因此形成对比。"
+      }
+    ],
+    "hypernyms": [
+      "vacuum tube"
+    ],
+    "hyponyms": [
+      "cavity magnetron"
+    ],
+    "collocations": [
+      {
+        "pattern": "in microwave ovens",
+        "examples": [
+          "The magnetron functions in microwave ovens."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "for radar systems",
+        "examples": [
+          "The magnetron is used for radar systems."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征现代科技进步，尤其与日常生活（如厨房电器）和军事技术（如雷达）相关，体现了工业革命后的创新精神。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "使用更常见于消费电子语境",
+        "usage": "在美国英语中，常在日常技术讨论中出现，例如家电维修手册。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与历史军事背景更紧密相关",
+        "usage": "在英国英语中，常联结到二战雷达发明的历史语境。"
+      }
+    ],
+    "historicalContext": "与二战时期的科技发展相关，磁控管由英国科学家发明，用于盟军雷达系统，对战争结局产生重大影响。",
+    "modernUsage": "在现代社交媒体和在线论坛中，常见于科技爱好者讨论，如YouTube视频或Reddit帖子中解释家电工作原理。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个微波炉内部，一个磁铁状的设备在产生微波波浪。",
+      "keyElements": [
+        "微波炉",
+        "磁铁",
+        "电子波"
+      ],
+      "emotionalConnection": "联结到个人经验，如回忆在家加热食物的场景，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Mag-net-ron 像 'Magnetic Net for Electrons'（磁网捕获电子）。",
+        "explanation": "通过联想词汇与图像，将 'magnetron' 与磁场网捕电子的画面连接，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈmæɡnɪtrɒn/ 听起来像 'magic tron'，暗示神奇的电子管。",
+        "explanation": "利用声音相似性创建有趣联想，帮助初级学习者通过幽默方式记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "magnet",
+      "electron",
+      "microwave",
+      "radar"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "magnetrons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + magnetron",
+        "description": "作为句中主语或宾语使用，常在技术描述中。",
+        "examples": [
+          "The magnetron generates microwaves."
+        ]
+      },
+      {
+        "pattern": "In + context + magnetron",
+        "description": "用于指定语境的介词短语。",
+        "examples": [
+          "In radar technology, the magnetron plays a key role."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'magnet'",
+        "correction": "Use 'magnetron' for the specific device",
+        "explanation": "学习者常将该词误认作简单磁铁；需强调其技术特定性以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "magnetrons",
+        "explanation": "作为可数名词，需正确添加 -s，但初学者可能遗忘。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "物理学",
+      "工程学"
+    ],
+    "tags": [
+      "电子学",
+      "微波技术",
+      "军事历史"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

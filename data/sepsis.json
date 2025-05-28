@@ -1,0 +1,240 @@
+{
+  "word": "sepsis",
+  "phonetics": {
+    "british": "/ˈsɛpsɪs/",
+    "american": "/ˈsɛpsəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A life-threatening condition that arises when the body's response to infection causes injury to its own tissues and organs.",
+      "chineseTranslation": "败血症",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The presence of pathogenic microorganisms or their toxins in the blood or tissues, leading to systemic inflammation.",
+      "chineseTranslation": "全身感染引起的炎症反应",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "septic shock",
+      "meaning": "败血性休克",
+      "example": "Septic shock is a severe complication of sepsis that requires immediate medical intervention.",
+      "exampleTranslation": "败血性休克是败血症的严重并发症，需要立即医疗干预。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bacterial sepsis",
+      "meaning": "细菌性败血症",
+      "example": "Bacterial sepsis can develop rapidly in immunocompromised patients.",
+      "exampleTranslation": "细菌性败血症在免疫力低下患者中可能迅速发展。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hospitals are implementing new protocols to detect sepsis early in patients with infections.",
+      "translation": "医院正在实施新协议，以早期发现感染患者的败血症。",
+      "source": "Medical journal (e.g., The Lancet)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The doctor diagnosed the patient with sepsis after observing symptoms like fever and rapid heart rate.",
+      "translation": "医生在观察到发热和心跳加快等症状后诊断患者为败血症。",
+      "source": "Clinical case study",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In global health reports, sepsis is highlighted as a leading cause of death in intensive care units.",
+      "translation": "在全球健康报告中，败血症被列为重症监护室的主要死亡原因。",
+      "source": "News article (e.g., WHO reports)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "sēpsis",
+        "meaning": "decay or putrefaction",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 sēpsis，意为腐烂或腐败，由动词 sēpein（使腐烂）演变而来。该词在19世纪传入英语，最初用于描述感染引起的组织分解，随着医学细菌理论的发展（如巴斯德和科赫的工作），其含义扩展到现代系统性感染反应。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "septic",
+      "septicemia",
+      "sepsometer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象感染扩散的画面；通过间隔重复法复习与医疗场景相关的例句，以加强长期记忆；对于中文学习者，关联母语词汇如'感染'来构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "blood poisoning",
+        "similarity": "0.8",
+        "context": "在非正式或日常医疗语境中，常用于描述类似症状"
+      },
+      {
+        "word": "systemic inflammatory response syndrome",
+        "similarity": "0.7",
+        "context": "在专业医学语境中，强调炎症反应"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asepsis",
+        "context": "在医疗环境中，指无菌状态，与感染相对"
+      }
+    ],
+    "hypernyms": [
+      "infection"
+    ],
+    "hyponyms": [
+      "septicemia",
+      "urosepsis"
+    ],
+    "collocations": [
+      {
+        "pattern": "sepsis due to [cause]",
+        "examples": [
+          "sepsis due to pneumonia"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "treat sepsis with [treatment]",
+        "examples": [
+          "treat sepsis with antibiotics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方医学文化中，败血症象征紧急公共卫生问题，常与医院感染和抗生素滥用相关，隐含对现代医疗系统的反思；在全球语境中，它突显健康不平等，如在发展中国家更常见。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "标准用法，无显著差异",
+        "usage": "在美国英语中，常在临床和公共卫生讨论中使用，强调预防策略"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能更强调历史医学遗产",
+        "usage": "在英国英语中，常见于NHS（国家健康服务）报告中，保持技术性"
+      },
+      {
+        "region": "Other regions (e.g., Asia)",
+        "variation": "翻译为本地语如中文'败血症'，但在国际医学会议中使用英语原词",
+        "usage": "在跨文化语境中，可能与本地疾病认知结合，如在中国与传统医学概念对比"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲医学革命相关，例如巴斯德细菌理论和弗洛伊德的手术无菌技术；在中国文化中，类似于传统医学的'热毒'概念，但现代用法受西方影响。",
+    "modernUsage": "在社交媒体和新闻中，常与COVID-19等流行病相关，用于讨论全球卫生危机；在中文社交平台上，可能与'抗疫'话题结合，反映当代健康意识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个医院场景，其中细菌从伤口扩散，导致全身警报，如火警蔓延。",
+      "keyElements": [
+        "细菌",
+        "扩散",
+        "警报"
+      ],
+      "emotionalConnection": "联结个人经历，如生病或看病过程，激发紧迫感和保护欲以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sepsis 听起来像 'septic' 和 'crisis'，联想为 'septic crisis' 表示紧急感染。",
+        "explanation": "通过声音和语义联想，帮助建立词汇与概念的直接连接，符合认知心理学中的关联学习原则"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'S-E-P-S-I-S' 代表 'Systemic Emergency from Pathogens Spreading Internally and Systemically'。",
+        "explanation": "缩略法创建叙事，帮助分解复杂词汇，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "infection",
+      "fever",
+      "hospital",
+      "emergency"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sepses",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject in medical sentences",
+        "description": "作为主语用于描述疾病状态",
+        "examples": [
+          "Sepsis requires immediate treatment."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases with sepsis",
+        "description": "与介词短语结合，表示原因或来源",
+        "examples": [
+          "Death from sepsis is preventable with early intervention."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing sepsis with septicemia",
+        "correction": "Use sepsis for the broader condition and septicemia for blood infection specifically.",
+        "explanation": "这些术语有重叠，但sepsis更全面；中文学习者常混淆类似词汇，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'sepses' for plural, though it's rare; often treated as uncountable.",
+        "explanation": "作为医学术语，通常不需复数形式；注意英语中名词的可数性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., COCA rank: 15,000+), high in medical domains (e.g., PubMed frequency: top 1,000)",
+    "domains": [
+      "Medicine",
+      "Health",
+      "Science"
+    ],
+    "tags": [
+      "Medical terminology",
+      "Disease",
+      "Infection"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

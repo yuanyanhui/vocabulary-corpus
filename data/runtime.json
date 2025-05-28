@@ -1,0 +1,245 @@
+{
+  "word": "runtime",
+  "phonetics": {
+    "british": "/ˈrʌn.taɪm/",
+    "american": "/ˈrʌn.taɪm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The period during which a computer program is executing, including the environment and resources used.",
+      "chineseTranslation": "运行时",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, the actual time taken for a process or operation to occur in real-time systems.",
+      "chineseTranslation": "运行时间",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "runtime environment",
+      "meaning": "运行时环境",
+      "example": "The runtime environment provides the necessary libraries for the application to function.",
+      "exampleTranslation": "运行时环境为应用程序提供必要的库以实现功能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "runtime error",
+      "meaning": "运行时错误",
+      "example": "A runtime error occurred when the program tried to access invalid memory.",
+      "exampleTranslation": "当程序尝试访问无效内存时，发生了运行时错误。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Developers must test the software thoroughly at runtime to catch any unexpected issues.",
+      "translation": "开发人员必须在运行时彻底测试软件以捕捉任何意外问题。",
+      "source": "Technical documentation (e.g., from software engineering manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In real-time applications, runtime performance is critical for user experience.",
+      "translation": "在实时应用程序中，运行时性能对用户体验至关重要。",
+      "source": "Academic article (e.g., from computer science journals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The game's runtime was extended with additional downloadable content.",
+      "translation": "游戏的运行时间通过额外的可下载内容进行了延长。",
+      "source": "Informal review (e.g., gaming forums)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "run",
+        "meaning": "to move swiftly or execute a process",
+        "language": "Old English (from Proto-Germanic *rinnaną)"
+      },
+      {
+        "root": "time",
+        "meaning": "a measurable period or duration",
+        "language": "Old English (from Proto-Germanic *tīmô)"
+      }
+    ],
+    "historicalDevelopment": "The term 'runtime' evolved in the mid-20th century with the rise of computer programming. It combines 'run' (meaning to execute) and 'time' (referring to a specific period), reflecting the shift from mechanical to digital processes. Initially used in early computing contexts like assembly language, it gained prominence in the 1950s and 1960s with languages such as Fortran and COBOL, where distinguishing between compilation and execution phases became essential.",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "compile time",
+      "execution time",
+      "load time"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "将词汇与具体编程场景联系起来，利用视觉辅助如流程图来增强记忆；根据认知科学原理，通过重复暴露于真实语境来巩固理解，避免抽象概念的孤立学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "execution time",
+        "similarity": "0.8",
+        "context": "在计算机编程中，指程序执行期间的语境"
+      },
+      {
+        "word": "run time",
+        "similarity": "0.9",
+        "context": "在技术文档中，作为等价表达使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "compile time",
+        "context": "在软件开发中，指程序编译阶段，与运行时相对"
+      },
+      {
+        "word": "design time",
+        "context": "在系统工程中，指规划和设计阶段，与实际执行相对"
+      }
+    ],
+    "hypernyms": [
+      "period",
+      "phase"
+    ],
+    "hyponyms": [
+      "runtime error",
+      "runtime library"
+    ],
+    "collocations": [
+      {
+        "pattern": "runtime + noun",
+        "examples": [
+          "runtime error",
+          "runtime environment"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "at runtime",
+        "examples": [
+          "detected at runtime"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方技术文化中，该词象征软件开发的动态性和即时性，体现了效率与创新的核心价值，尤其在硅谷文化中被视为数字时代的关键概念。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在非正式技术讨论中",
+        "usage": "在美国英语中，广泛用于软件行业和教育语境，常见于科技公司和在线课程"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国英语类似，但有时更偏向正式表述",
+        "usage": "在英国英语中，常见于学术和专业出版物中，强调精确性"
+      }
+    ],
+    "historicalContext": "该词与20世纪中叶的计算机革命相关联，如二战后的图灵机发展和社会对自动化需求的推动；在文学和媒体中，如科幻小说中，代表了人类与机器互动的主题。",
+    "modernUsage": "在社交媒体和数字平台上，常见于编程论坛和YouTube教程中，反映了全球数字化转型的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个程序如同一辆赛车，'runtime' 是赛车在赛道上行驶的时刻，强调动态过程。",
+      "keyElements": [
+        "赛车",
+        "赛道",
+        "行驶"
+      ],
+      "emotionalConnection": "联结到成功运行程序的成就感或兴奋，触发个人编程经历的回忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Run + Time = Program's active moment",
+        "explanation": "通过分解词汇成分并与执行过程关联，利用认知科学中的分块编码技术来强化记忆。"
+      },
+      {
+        "type": "visualization",
+        "content": "Picture a clock starting when a program begins",
+        "explanation": "使用图像记忆法，将抽象概念转化为具体视觉，帮助建立长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "execute",
+      "program",
+      "debug",
+      "environment"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "runtimes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in prepositional phrases",
+        "description": "用作名词，常出现在介词短语中，如 'at runtime'",
+        "examples": [
+          "Errors are handled at runtime."
+        ]
+      },
+      {
+        "pattern": "As part of compound nouns",
+        "description": "与其他名词结合形成复合结构",
+        "examples": [
+          "The runtime environment is secure."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "将 'runtime' 误写为 'run time' 或混淆为动词",
+        "correction": "始终用作单字名词 'runtime' 在技术语境",
+        "explanation": "由于其合成词性质，学习者需注意在编程领域中的标准化用法，以避免语义模糊。"
+      },
+      {
+        "mistake": "错误地将 'runtime' 用于非技术语境",
+        "correction": "限制在相关领域使用",
+        "explanation": "这可能导致语域不当，影响交流的精确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in the top 10% in COCA for computing domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Software Engineering"
+    ],
+    "tags": [
+      "Computer Science",
+      "Programming",
+      "Digital Technology"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

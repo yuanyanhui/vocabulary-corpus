@@ -1,0 +1,257 @@
+{
+  "word": "login",
+  "phonetics": {
+    "british": "/ˈlɒɡ.ɪn/",
+    "american": "/ˈlɔːɡ.ɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of gaining access to a computer system by entering a username and password.",
+      "chineseTranslation": "登录过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gain access to a computer system by entering a username and password.",
+      "chineseTranslation": "登录",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A combination of a username and password used to access a system.",
+      "chineseTranslation": "登录凭证",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "log in",
+      "meaning": "进行登录",
+      "example": "Please log in to your account to access the features.",
+      "exampleTranslation": "请登录您的账户以访问功能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "login page",
+      "meaning": "登录页面",
+      "example": "The login page requires a secure password.",
+      "exampleTranslation": "登录页面需要一个安全的密码。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "automatic login",
+      "meaning": "自动登录",
+      "example": "Enable automatic login for faster access.",
+      "exampleTranslation": "启用自动登录以获得更快的访问。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to login to my email account every morning.",
+      "translation": "我每天早上都需要登录我的电子邮件账户。",
+      "source": "Daily conversation (informal usage)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After entering your credentials, click the login button to proceed.",
+      "translation": "输入您的凭证后，点击登录按钮继续。",
+      "source": "Technical manual (formal usage)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The system failed to login due to an incorrect password.",
+      "translation": "系统因密码错误而无法登录。",
+      "source": "News article on cybersecurity (neutral usage)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "log",
+        "meaning": "A record or journal, as in a ship's logbook",
+        "language": "Middle English (from Old Norse 'lag', meaning 'something laid down')"
+      },
+      {
+        "root": "in",
+        "meaning": "Into or toward an interior",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的计算机术语，由'log'（记录）和'in'（进入）组合而成，最初用于描述记录进入系统的事件。随着计算机技术的发展，从1960年代的早起计算系统演变为现代数字身份验证过程。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "logout",
+      "logon",
+      "sign in"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学中的间隔重复法（spaced repetition）来记忆发音和拼写；将'login'与日常生活中的登录动作（如手机解锁）进行关联，以增强语境记忆；"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sign in",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于网络或应用登录"
+      },
+      {
+        "word": "authenticate",
+        "similarity": "0.6",
+        "context": "在技术或安全语境中使用，强调验证过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "logout",
+        "context": "在结束会话时使用，表示退出系统"
+      },
+      {
+        "word": "sign out",
+        "context": "在正式或社交媒体语境中，表示登出"
+      }
+    ],
+    "hypernyms": [
+      "access",
+      "entry"
+    ],
+    "hyponyms": [
+      "two-factor login",
+      "biometric login"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun (e.g., perform a login)",
+        "examples": [
+          "Perform a login to secure your data."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + noun (e.g., secure login)",
+        "examples": [
+          "Use a secure login method."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征着个人隐私和网络安全的隐含语义，尤其在全球化背景下，强调了在线身份的保护。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用'log in'作为分词形式",
+        "usage": "在美国英语中，常用于日常科技语境，如社交媒体"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向于'login'作为名词",
+        "usage": "在英国英语中，常出现在正式技术文档中"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，起源于军事和科研领域，如早期ARPAnet系统，现在扩展到社会媒体和电子商务。",
+    "modernUsage": "在社交媒体和移动应用中流行，反映了数字时代的信息共享趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙插入锁孔的场景，其中钥匙代表用户名和密码，锁孔代表系统入口。",
+      "keyElements": [
+        "钥匙（username/password）",
+        "锁孔（system）"
+      ],
+      "emotionalConnection": "联结到个人首次上网的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Login 像 'log in'，想象在日志本上签入（log in the book）。",
+        "explanation": "通过视觉联想将词与实际动作连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Login 听起来像 'lock in'，意味着锁定进入。",
+        "explanation": "利用声音相似性增强记忆，符合记忆科学中的听觉-视觉整合"
+      }
+    ],
+    "wordAssociations": [
+      "password",
+      "account",
+      "access"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "logins",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "logging in",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句",
+        "examples": [
+          "You must login now."
+        ]
+      },
+      {
+        "pattern": "Phrasal verb",
+        "description": "短语动词结构，如 'log in to'",
+        "examples": [
+          "Log in to your profile."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'login' with 'log in'",
+        "correction": "Use 'login' as a noun and 'log in' as a verb",
+        "explanation": "在英语中，'login' 作为名词，'log in' 作为动词；初级学习者常混淆拼写"
+      },
+      {
+        "mistake": "Omitting prepositions",
+        "correction": "Always include 'to' or 'into' where necessary",
+        "explanation": "如 'log in to the system'，遗漏介词会导致句法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Daily life"
+    ],
+    "tags": [
+      "Computing",
+      "Security",
+      "Digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

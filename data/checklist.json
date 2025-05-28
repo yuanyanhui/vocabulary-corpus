@@ -1,0 +1,246 @@
+{
+  "word": "checklist",
+  "phonetics": {
+    "british": "/ˈtʃɛklɪst/",
+    "american": "/ˈtʃɛklɪst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A list of items, tasks, or points that need to be checked or verified, often used for ensuring completeness or accuracy in procedures.",
+      "chineseTranslation": "检查表；清单",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To create or use a checklist for organizing or verifying items.",
+      "chineseTranslation": "制作或使用检查表",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "safety checklist",
+      "meaning": "安全检查表，用于确保安全程序的完整性",
+      "example": "The airline crew reviews the safety checklist before every flight.",
+      "exampleTranslation": "航空公司机组在每次飞行前都会审查安全检查表。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "packing checklist",
+      "meaning": "打包清单，用于帮助整理行李或物品",
+      "example": "I always use a packing checklist when preparing for a trip to avoid forgetting essentials.",
+      "exampleTranslation": "我每次准备旅行时都会使用打包清单，以避免遗忘 essentials。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor went through the checklist to ensure all patient symptoms were noted.",
+      "translation": "医生通过检查表确保所有患者症状都被记录。",
+      "source": "Medical literature (e.g., from healthcare guidelines)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In project management, a checklist helps teams stay on track and meet deadlines.",
+      "translation": "在项目管理中，检查表帮助团队保持进度并按时完成。",
+      "source": "Business articles (e.g., from Harvard Business Review)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A simple checklist can prevent errors in everyday tasks, like grocery shopping.",
+      "translation": "一个简单的检查表可以防止日常任务中的错误，比如购物。",
+      "source": "Daily life contexts (e.g., general corpora like COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "英语",
+    "rootWords": [
+      {
+        "root": "check",
+        "meaning": "检查或验证",
+        "language": "英语（源自古法语 eschec，意为国际象棋中的王位威胁）"
+      },
+      {
+        "root": "list",
+        "meaning": "列表或目录",
+        "language": "英语（源自古英语 liste，源自拉丁语 lista）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪早期，源自“check”（检查）和“list”（列表）的结合，最初用于航空和军事领域以标准化程序，如1920年代的飞行检查表。随着工业化和现代管理的兴起，它演变为更广泛的工具，用于确保效率和减少错误。",
+    "firstKnownUse": "约1929年（根据Oxford English Dictionary记录）",
+    "relatedWords": [
+      "inventory",
+      "register",
+      "logbook"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR等级)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法（chunking）将检查表与日常生活任务联系；例如，通过视觉图像将'checklist'与实际清单图片关联，以增强海马体记忆路径；建议初级学习者通过重复练习和语境关联，避免抽象概念的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inventory",
+        "similarity": "0.8",
+        "context": "适用于正式语境中列出物品或资产的场合，例如库存管理"
+      },
+      {
+        "word": "tally",
+        "similarity": "0.7",
+        "context": "适用于非正式语境中快速计数或核对的场合，例如体育赛事"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disorder",
+        "context": "适用于描述无组织或混乱状态的语境中，与检查表的系统性相对"
+      },
+      {
+        "word": "chaos",
+        "context": "适用于强调缺乏结构的环境，例如在管理讨论中"
+      }
+    ],
+    "hypernyms": [
+      "list",
+      "document"
+    ],
+    "hyponyms": [
+      "to-do list",
+      "audit checklist"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + checklist (e.g., safety + checklist)",
+        "examples": [
+          "safety checklist",
+          "maintenance checklist"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + checklist (e.g., follow + checklist)",
+        "examples": [
+          "follow a checklist",
+          "create a checklist"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征效率和风险管理，常与现代工业化社会（如美国航空业）相关，隐含语义强调预防错误和标准化过程。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式使用，如在行政语境中",
+        "usage": "英国英语中常与官僚程序关联，例如政府文件"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于日常和商业语境",
+        "usage": "在美国英语中，常用于创业和科技领域，如硅谷的启动清单"
+      }
+    ],
+    "historicalContext": "该词与20世纪初的航空安全运动相关，例如Atul Gawande的著作《清单宣言》讨论了其在医疗和工程中的作用，体现了工业革命后的风险控制文化。",
+    "modernUsage": "在社交媒体和数字时代，'checklist' 常用于在线工具如Trello或Google Docs，推动生产力文化；在跨文化语境中，中国学习者可能将其与本土工具如微信清单类比，以增强文化包容性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有复选框的纸质列表，代表有序的生活场景",
+      "keyElements": [
+        "复选框",
+        "笔迹",
+        "有序项目"
+      ],
+      "emotionalConnection": "联结个人经验，如旅行打包时使用清单的成就感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'checklist'联想为'check + list'，想象检查员拿着列表在超市核对物品",
+        "explanation": "通过视觉联想强化词根记忆，减少认知负荷"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈtʃɛklɪst/'听起来像'tick list'，想象打勾的声音",
+        "explanation": "利用声音与动作的联觉，帮助记忆发音和含义"
+      }
+    ],
+    "wordAssociations": [
+      "todo",
+      "verify",
+      "organize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "checklists",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + checklist",
+        "description": "主语+动词+检查表结构，常用于描述使用行为",
+        "examples": [
+          "We use a checklist daily."
+        ]
+      },
+      {
+        "pattern": "Checklist of + noun",
+        "description": "检查表+of+名词结构，用于指定内容",
+        "examples": [
+          "A checklist of safety measures."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'check list' as two words",
+        "correction": "Use as one word: 'checklist'",
+        "explanation": "在现代英语中，它是一个合成词，非分离式"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for structured scenarios",
+        "explanation": "中国学习者可能误用在非正式对话中，建议结合语域分析"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "technology",
+      "healthcare",
+      "education"
+    ],
+    "tags": [
+      "management",
+      "organization",
+      "tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "word": "petabyte",
+  "phonetics": {
+    "british": "/ˈpɛtəbaɪt/",
+    "american": "/ˈpɛtəˌbaɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of digital information storage equivalent to 1,000,000,000,000,000 bytes or 10^15 bytes, often used to measure large-scale data storage.",
+      "chineseTranslation": "拍字节",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one petabyte of data",
+      "meaning": "一拍字节的数据",
+      "example": "The new data center can handle one petabyte of data per day.",
+      "exampleTranslation": "这个新数据中心每天可以处理一拍字节的数据。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "petabyte scale",
+      "meaning": "拍字节级别",
+      "example": "Cloud storage solutions are designed for petabyte scale operations.",
+      "exampleTranslation": "云存储解决方案是为拍字节级别的操作而设计的。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "With the rise of big data, companies are now dealing with petabytes of information on a daily basis.",
+      "translation": "随着大数据的兴起，公司现在每天都要处理拍字节的信息。",
+      "source": "Technology news articles",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The library's digital archive contains several petabytes of historical documents.",
+      "translation": "图书馆的数字档案包含几拍字节的历史文件。",
+      "source": "Academic literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, a petabyte might represent the total storage needs of a large enterprise.",
+      "translation": "在现代计算中，一拍字节可能代表大型企业的总存储需求。",
+      "source": "Business reports",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语和英语",
+    "rootWords": [
+      {
+        "root": "peta-",
+        "meaning": "意为10^15，表示万亿",
+        "language": "希腊语（源自pente，意为五，但扩展为表示10^15的计量前缀）"
+      },
+      {
+        "root": "byte",
+        "meaning": "一个由八位二进制数字组成的存储单位",
+        "language": "英语"
+      }
+    ],
+    "historicalDevelopment": "这个词起源于20世纪中叶的计算机科学发展时期，其中'peta-'前缀是国际单位制（SI）的一部分，用于表示10^15的量级，而'byte'则源自早期计算存储术语。起初用于描述大规模数据存储，随着互联网和大数据的兴起，该词从专业领域逐步进入主流技术语言。",
+    "firstKnownUse": "约1970s",
+    "relatedWords": [
+      "byte",
+      "kilobyte",
+      "megabyte",
+      "gigabyte",
+      "terabyte",
+      "exabyte"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化联想将'petabyte'与实际数据存储场景联系，如想象一个巨大的数据仓库；使用间隔重复法（spaced repetition）来强化记忆；将词汇与个人经验关联，例如与智能手机存储对比，以降低抽象性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quadrillion bytes",
+        "similarity": "0.9",
+        "context": "在技术语境中用于精确描述大规模存储"
+      },
+      {
+        "word": "PB",
+        "similarity": "0.8",
+        "context": "缩写形式，常用于非正式的数字通信中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "byte",
+        "context": "表示最小存储单位，与petabyte的规模形成对比"
+      }
+    ],
+    "hypernyms": [
+      "data unit",
+      "storage measurement"
+    ],
+    "hyponyms": [
+      "zettabyte"
+    ],
+    "collocations": [
+      {
+        "pattern": "petabyte of [noun]",
+        "examples": [
+          "petabyte of data",
+          "petabyte of storage"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] petabyte",
+        "examples": [
+          "massive petabyte",
+          "single petabyte"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着信息爆炸和大数据革命，隐含着技术进步和社会变革的语义，尤其在西方文化中代表创新和效率。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在美国英语中，经常与云计算和服务相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更注重科学精确性",
+        "usage": "在英国英语中，常出现在学术和研究报告中"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命相关联，如互联网兴起和大型数据库的出现，在文学和社会评论中象征信息过载问题，例如在科幻小说中描述未来存储需求。",
+    "modernUsage": "在社交媒体和数字平台上，该词常用于讨论AI、云计算和数据隐私趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的虚拟仓库，里面堆满10^15个微小的数据方块，每个方块代表一个字节。",
+      "keyElements": [
+        "数据仓库",
+        "方块堆积",
+        "数字规模"
+      ],
+      "emotionalConnection": "联结到个人对大数据的好奇或担忧，例如回忆一次手机存储不足的经历，以增强记忆情感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Petabyte 听起来像 'pet a byte'，想象在抚摸一个巨大的字节宠物。",
+        "explanation": "通过声音联想和幽默视觉化，帮助初级学习者记住词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "P-B: P代表庞大（huge），B代表字节（byte）。",
+        "explanation": "利用首字母缩写结合认知映射，强化词汇与概念的关联"
+      }
+    ],
+    "wordAssociations": [
+      "gigabyte",
+      "terabyte",
+      "data",
+      "storage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "petabytes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with quantifier",
+        "description": "作为名词使用，常与数量词或形容词搭配",
+        "examples": [
+          "A single petabyte is enormous."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "出现在介词短语中描述存储量",
+        "examples": [
+          "Storage of several petabytes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with terabyte",
+        "correction": "Use petabyte for 10^15 bytes",
+        "explanation": "学习者常混淆存储单位规模；建议通过比较图表学习"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "petabytes (not petabyts)",
+        "explanation": "英语名词复数规则需注意，直接加-s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 in technical corpora like COCA",
+    "domains": [
+      "technology",
+      "computing",
+      "data science"
+    ],
+    "tags": [
+      "digital storage",
+      "measurement",
+      "information technology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

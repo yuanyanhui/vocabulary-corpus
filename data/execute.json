@@ -1,0 +1,261 @@
+{
+  "word": "execute",
+  "phonetics": {
+    "british": "/ɪɡˈzɛkjʊt/",
+    "american": "/ˈɛɡ.zə.kjuːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To carry out or perform a plan, order, or course of action.",
+      "chineseTranslation": "执行或实施计划、命令或行动",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put someone to death as a legal punishment.",
+      "chineseTranslation": "作为法律惩罚处死某人",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To run or perform a computer program or command.",
+      "chineseTranslation": "运行或执行计算机程序或命令",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A command or instruction in computing to run a program.",
+      "chineseTranslation": "在计算机中用于运行程序的命令",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "execute a plan",
+      "meaning": "执行一个计划",
+      "example": "The team will execute a plan to launch the new product next month.",
+      "exampleTranslation": "团队将在下个月执行一个推出新产品的计划。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "execute an order",
+      "meaning": "执行一个命令",
+      "example": "The soldier must execute an order from his superior immediately.",
+      "exampleTranslation": "士兵必须立即执行上级的命令。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "execute a contract",
+      "meaning": "签署或执行合同",
+      "example": "Both parties need to execute a contract before proceeding with the deal.",
+      "exampleTranslation": "双方需要在交易前签署合同。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The CEO decided to execute the merger strategy despite the risks.",
+      "translation": "首席执行官决定执行合并策略，尽管存在风险。",
+      "source": "Business news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some countries, the state still executes criminals for heinous crimes.",
+      "translation": "在某些国家，政府仍然对严重罪犯执行死刑。",
+      "source": "Legal and historical text (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "You need to execute the code in the terminal to see the output.",
+      "translation": "你需要在终端中运行代码才能看到输出。",
+      "source": "Technical documentation (e.g., from programming tutorials)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "exsequor",
+        "meaning": "to follow out, execute",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'exsequor'，意为'跟随或完成'，在中世纪拉丁语中演变为法律和行政语境下的'执行'，到现代英语中扩展到一般行动和计算机指令。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "prosecutor",
+      "sequel"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先将词汇与个人经历关联，如将'execute a plan'联想到日常生活计划；然后通过重复间隔复习，避免认知 overload；对于中文母语学习者，注意避免词汇混淆，如与'execute'相似的中文词汇'执行'，通过视觉联想加强区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "implement",
+        "similarity": "0.8",
+        "context": "在商业或计划语境中适用，例如项目管理"
+      },
+      {
+        "word": "carry out",
+        "similarity": "0.9",
+        "context": "在一般行动或命令语境中适用，例如日常指令"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abandon",
+        "context": "在计划或行动语境中，表示放弃而非执行"
+      },
+      {
+        "word": "neglect",
+        "context": "在责任或命令语境中，表示忽略而非执行"
+      }
+    ],
+    "hypernyms": [
+      "perform",
+      "accomplish"
+    ],
+    "hyponyms": [
+      "enforce",
+      "run (in computing)"
+    ],
+    "collocations": [
+      {
+        "pattern": "execute + noun (e.g., plan, order)",
+        "examples": [
+          "execute a plan",
+          "execute an order"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + execute (e.g., properly execute)",
+        "examples": [
+          "properly execute the task"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与法律正义（如死刑）和商业效率（如执行策略）相关，隐含语义强调责任和后果；在中文文化中，可能与'执行力'概念关联，象征个人或组织效能。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在日常英语中，美国变体更倾向于非正式使用，例如商业会议"
+      },
+      {
+        "region": "英国",
+        "variation": "更正式，常用于法律语境",
+        "usage": "英国英语中可能更强调历史和正式语域"
+      }
+    ],
+    "historicalContext": "与西方历史中的法律体系相关，如中世纪的刑罚制度；在文学中，如莎士比亚作品中出现，体现社会道德。",
+    "modernUsage": "在社交媒体和数字时代，常见于商业帖子或技术论坛，趋势显示其在全球商业语境中传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个指挥官在战场上执行计划的场景：他手持地图，发出命令，士兵们行动起来。",
+      "keyElements": [
+        "指挥官",
+        "地图",
+        "行动"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己完成任务的成就感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'execute'联想为'ex'（前缀，意思是'出'）+ 'cute'（可爱），想象'走出可爱'的场景，代表执行行动。",
+        "explanation": "通过声音和视觉联想帮助记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-E-C-U-T-E：Each eXpert Executes Carefully Under Tension's Eye",
+        "explanation": "使用首字母缩写故事增强词汇保留，避免遗忘"
+      }
+    ],
+    "wordAssociations": [
+      "implement",
+      "action",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "executed",
+      "pastParticiple": "executed",
+      "presentParticiple": "executing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + execute + object",
+        "description": "主语 + 执行 + 宾语结构，常用于陈述行动",
+        "examples": [
+          "They execute the plan."
+        ]
+      },
+      {
+        "pattern": "Execute + in + context",
+        "description": "执行 + 在 + 语境结构，表示具体条件",
+        "examples": [
+          "Execute it in a secure environment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'exacute' (non-word)",
+        "correction": "Use 'execute' correctly",
+        "explanation": "中文母语学习者可能因拼写相似而误写，需注意元音发音"
+      },
+      {
+        "mistake": "Using as noun without context",
+        "correction": "Specify in technical contexts",
+        "explanation": "在非技术语境中，避免混淆动词和名词用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 2000 words in COCA corpus",
+    "domains": [
+      "business",
+      "law",
+      "technology"
+    ],
+    "tags": [
+      "action",
+      "legal",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

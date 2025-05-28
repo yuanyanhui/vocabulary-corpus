@@ -1,0 +1,218 @@
+{
+  "word": "unsigned",
+  "phonetics": {
+    "british": "/ʌnˈsaɪnd/",
+    "american": "/ʌnˈsaɪnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not bearing a signature or mark of authentication.",
+      "chineseTranslation": "未签名的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, representing numbers that are positive or zero without a sign bit, allowing for larger positive values.",
+      "chineseTranslation": "无符号的（计算机术语，指不区分正负的数值表示）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unsigned contract",
+      "meaning": "未签名的合同",
+      "example": "The unsigned contract was declared invalid by the court.",
+      "exampleTranslation": "该未签名的合同被法院宣布无效。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "unsigned integer",
+      "meaning": "无符号整数",
+      "example": "In C++, an unsigned integer can store values up to 4 billion.",
+      "exampleTranslation": "在C++中，无符号整数可以存储高达40亿的值。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist refused to sell the unsigned painting.",
+      "translation": "那位艺术家拒绝出售那幅未签名的画作。",
+      "source": "文学作品",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often use unsigned variables to avoid negative values in calculations.",
+      "translation": "程序员经常使用无符号变量来避免计算中的负值。",
+      "source": "科技新闻",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She left the room with an unsigned letter on the table.",
+      "translation": "她离开了房间，桌子上留着一封未签名的信。",
+      "source": "小说",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not or without",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "signed",
+        "meaning": "marked with a sign or signature",
+        "language": "Middle English (from Old French 'signer', from Latin 'signum')"
+      }
+    ],
+    "historicalDevelopment": "源自古英语的前缀un-（表示否定），与中古英语的signed结合；最初用于表示未标记或未签名的事物，17世纪后扩展到计算领域，指无符号数值。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "sign",
+      "resign",
+      "assign"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过可视化联想，如想象一个没有签名的文件来强化记忆；结合认知科学，重复在不同语境中使用以加强神经连接。",
+      "针对多义词，利用间隔重复法复习基本和专业含义，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unsubscribed",
+        "similarity": "0.5",
+        "context": "在订阅或注册上下文中，用于表示未确认的参与"
+      },
+      {
+        "word": "unmarked",
+        "similarity": "0.6",
+        "context": "在标记或标识上下文中，用于表示未加标签的事物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "signed",
+        "context": "在合同或文件上下文中，表示已签名或已认证"
+      }
+    ],
+    "hypernyms": [
+      "unqualified"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "unsigned + noun",
+        "examples": [
+          "unsigned contract",
+          "unsigned integer"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与法律有效性或诚信相关，象征未正式确认的协议；在数字时代，体现了对数据安全和认证的强调。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在法律和科技语境中更常见",
+        "usage": "常用于商业合同和技术文档中，强调正式性的缺失"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但更注重历史法律传统",
+        "usage": "在正式文件中出现，关联到英美法系的签名要求"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期书面协议的兴起相关，在工业革命后扩展到商业；现代与数字签名技术（如区块链）关联。",
+    "modernUsage": "在社交媒体和在线平台上，指未经认证的内容，反映数字隐私和信任趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个空白的合同文件，桌上有一支笔，但文件未签名。",
+      "keyElements": [
+        "空白文件",
+        "笔",
+        "桌子"
+      ],
+      "emotionalConnection": "联想到忘记签字的挫败感或松懈，触发个人经历以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "un- signed = not signed",
+        "explanation": "通过前缀un-表示否定，联想日常生活中的未签名文件来记忆核心含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'un-sy-ned'，联想 'unseen' 的未见，扩展到未签名",
+        "explanation": "利用声音相似性，结合视觉想象以加强认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "sign",
+      "document",
+      "integer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more unsigned",
+      "superlative": "most unsigned"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Attributive position before a noun",
+        "description": "用作定语，置于名词前",
+        "examples": [
+          "an unsigned letter"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'unassigned'",
+        "correction": "Use 'unsigned' for lack of signature, 'unassigned' for not allocated",
+        "explanation": "注意语义差异，避免在专业语境中混用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Legal",
+      "Computing",
+      "Business"
+    ],
+    "tags": [
+      "adjective",
+      "negative prefix",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary",
+      "Merriam-Webster",
+      "COCA corpus"
+    ]
+  }
+}

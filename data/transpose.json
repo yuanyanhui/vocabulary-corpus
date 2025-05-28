@@ -1,0 +1,259 @@
+{
+  "word": "transpose",
+  "phonetics": {
+    "british": "/trænsˈpəʊz/",
+    "american": "/trænsˈpoʊz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To change the positions of two or more things with each other; to transfer something to a different place, context, or form.",
+      "chineseTranslation": "移位；转置；变换位置",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In music, to rewrite or perform a piece in a different key.",
+      "chineseTranslation": "移调",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of transposing, especially a matrix in mathematics or a shift in music.",
+      "chineseTranslation": "转置；移调",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "transpose a matrix",
+      "meaning": "转置一个矩阵",
+      "example": "In linear algebra, you can transpose a matrix by swapping its rows and columns.",
+      "exampleTranslation": "在线性代数中，你可以通过交换矩阵的行和列来转置一个矩阵。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "transpose music",
+      "meaning": "移调音乐",
+      "example": "The composer decided to transpose the music to a lower key for the singer's range.",
+      "exampleTranslation": "作曲家决定将音乐移调到较低的调门，以适应歌手的音域。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "transpose data",
+      "meaning": "转置数据",
+      "example": "When analyzing datasets, it's common to transpose data for better visualization.",
+      "exampleTranslation": "在分析数据集时，常用转置数据以获得更好的可视化效果。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pianist had to transpose the piece into a higher key to match the orchestra.",
+      "translation": "钢琴家必须将这首曲子移调到更高的调门，以匹配管弦乐队。",
+      "source": "Music literature (e.g., from classical music texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, we often transpose arrays to reorganize the data structure.",
+      "translation": "在编程中，我们经常转置数组来重新组织数据结构。",
+      "source": "Technical documentation (e.g., from software engineering contexts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The editor suggested transposing the chapters to improve the narrative flow.",
+      "translation": "编辑建议交换章节顺序以改善叙述流畅度。",
+      "source": "Literary writing (e.g., from publishing guidelines)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "trans-",
+        "meaning": "across or beyond",
+        "language": "Latin"
+      },
+      {
+        "root": "ponere",
+        "meaning": "to put or place",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'transponere'，意为 '移除到另一个地方'。该词经由古法语 'transposer' 传入英语，在14世纪开始用于音乐和一般转置含义中。现代英语中，它扩展到数学和数据处理领域，反映了科学术语的演变。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "transport",
+      "postpone",
+      "compose"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法：将 'transpose' 想象为 'transport' 的变形，联想一个物体从一个位置 '跨过' 到另一个位置；重复练习不同语境下的使用，以强化海马体记忆路径；对于中文母语学习者，关联 '转置' 的概念以减少认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "transfer",
+        "similarity": "0.7",
+        "context": "适用于正式语境中表示移动或变换位置，例如商业或数据处理领域"
+      },
+      {
+        "word": "switch",
+        "similarity": "0.6",
+        "context": "适用于非正式语境中表示简单交换，例如日常对话"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maintain",
+        "context": "适用于保持原有位置或结构的语境，例如在技术或文学中"
+      },
+      {
+        "word": "preserve",
+        "context": "适用于保护原有形式的语境，例如在艺术或历史讨论中"
+      }
+    ],
+    "hypernyms": [
+      "change",
+      "alter"
+    ],
+    "hyponyms": [
+      "modulate (in music)"
+    ],
+    "collocations": [
+      {
+        "pattern": "transpose + noun (e.g., matrix, key)",
+        "examples": [
+          "transpose a matrix",
+          "transpose the key"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transpose + preposition (e.g., into)",
+        "examples": [
+          "transpose into a new key"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词在音乐领域象征创新和适应，例如贝多芬的作品中常涉及移调，隐含灵活性和创造力的含义；在跨文化语境中，中国学习者可能将其与传统音乐的调式变化（如中国戏曲的调门调整）关联，以增强文化包容性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，'transpose' 在编程和数据分析中更频繁，体现了科技主导的文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于音乐和文学语境",
+        "usage": "在英国英语中，常用于古典音乐讨论，反映历史文学传统"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的音乐理论相关联，例如巴赫的作品中常见移调；社会背景中，它反映了工业革命后的科学演进，在现代则与数字化转型有关。",
+    "modernUsage": "在社交媒体和在线平台上，'transpose' 常用于视频编辑或数据可视化讨论，趋势显示其在全球数字文化中普及"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个物体如钥匙从一个位置 '跨过' 到另一个位置，就像在音乐中调整调门。",
+      "keyElements": [
+        "钥匙（key，作为双关语）",
+        "跨过（crossing over）",
+        "位置交换"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次音乐表演中的适应性调整，以触发积极情绪和长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trans-pose: Think of 'trans' as transport and 'pose' as position, so it's like transporting a position.",
+        "explanation": "通过视觉联想强化神经路径，帮助中文母语者避免混淆类似词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /trænsˈpoʊz/ 像 'trance pose'，想象一种恍惚状态下的姿势变化。",
+        "explanation": "利用声音与图像的联结，基于认知科学的多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "transport",
+      "position",
+      "switch"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "transposed",
+      "pastParticiple": "transposed",
+      "presentParticiple": "transposing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + transpose + object",
+        "description": "主语 + 转置 + 宾语的结构，常用于主动语态",
+        "examples": [
+          "She transposed the notes."
+        ]
+      },
+      {
+        "pattern": "Transpose + preposition + object",
+        "description": "转置 + 介词 + 宾语的结构，用于指定目标",
+        "examples": [
+          "Transpose it into a new key."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'transport'",
+        "correction": "Use 'transpose' for changing positions, not for moving goods.",
+        "explanation": "中文学习者常混淆音似词；通过语境区分以避免错误"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper use of 'transposed' in past contexts.",
+        "explanation": "由于英语时态系统与中文不同，需练习句法模式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "music",
+      "mathematics",
+      "literature"
+    ],
+    "tags": [
+      "technical",
+      "musical",
+      "transformation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

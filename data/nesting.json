@@ -1,0 +1,255 @@
+{
+  "word": "nesting",
+  "phonetics": {
+    "british": "/ˈnɛstɪŋ/",
+    "american": "/ˈnɛstɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of building or inhabiting a nest, often used in biological contexts.",
+      "chineseTranslation": "筑巢或居住巢穴的行为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "In computing and programming, the practice of placing one structure or command inside another, such as nested loops or functions.",
+      "chineseTranslation": "在计算机编程中，将一个结构嵌入另一个结构的行为",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "The present participle of 'nest', meaning to settle or fit one thing inside another.",
+      "chineseTranslation": "作为动词的现在分词形式，表示将事物安置或嵌入",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bird nesting",
+      "meaning": "鸟类筑巢行为",
+      "example": "Bird nesting season is a critical time for conservation efforts.",
+      "exampleTranslation": "鸟类筑巢季节是保护工作的关键时期。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "nesting dolls",
+      "meaning": "套娃玩具",
+      "example": "Russian nesting dolls are a popular souvenir.",
+      "exampleTranslation": "俄罗斯套娃是一种受欢迎的纪念品。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "nesting loops",
+      "meaning": "嵌套循环",
+      "example": "In programming, nesting loops can handle complex data structures.",
+      "exampleTranslation": "在编程中，嵌套循环可以处理复杂的数据结构。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The robins are nesting in the old oak tree.",
+      "translation": "知更鸟正在老橡树上筑巢。",
+      "source": "Natural history literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Nesting functions in this code improves readability and efficiency.",
+      "translation": "在该代码中嵌套函数提高了可读性和效率。",
+      "source": "Programming tutorials (e.g., from Stack Overflow)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She observed the nesting habits of eagles during her fieldwork.",
+      "translation": "她在野外工作中观察了鹰的筑巢习惯。",
+      "source": "Scientific articles",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "nest",
+        "meaning": "A structure for birds or animals",
+        "language": "Proto-Germanic (*nistaz)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'nest'，意为鸟巢或居所，起源于原始印欧语系的 *nisdos，意思是'巢穴'。历史演变中，从字面意义扩展到比喻性使用，如家庭或结构嵌入，并于现代技术语境中发展为计算机术语。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "nest",
+      "nested",
+      "nestle"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法（chunking）将 'nesting' 的生物学和编程含义分开记忆，避免混淆；",
+      "通过视觉联想将词汇与个人经验联系，例如想象鸟巢来强化生物学语境，或用代码结构图表辅助编程语境；",
+      "根据Krashen的输入假设，通过反复暴露于真实语料中（如新闻或代码示例）来降低语义复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "embedding",
+        "similarity": "0.8",
+        "context": "在技术语境中，适用于编程或结构嵌入场景"
+      },
+      {
+        "word": "settling",
+        "similarity": "0.6",
+        "context": "在生物学语境中，表示筑巢或安顿"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "separating",
+        "context": "在编程中，表示结构分离，而非嵌套"
+      },
+      {
+        "word": "dispersing",
+        "context": "在生物学中，表示散开而非筑巢"
+      }
+    ],
+    "hypernyms": [
+      "structuring",
+      "arranging"
+    ],
+    "hyponyms": [
+      "loop nesting",
+      "function nesting"
+    ],
+    "collocations": [
+      {
+        "pattern": "Nesting + noun (e.g., nesting site)",
+        "examples": [
+          "The nesting site was carefully chosen."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + nesting (e.g., bird nesting)",
+        "examples": [
+          "Bird nesting behaviors vary by species."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'nesting' 常象征家庭温暖和保护，如鸟巢代表安全港湾；在东方文化如中国，可能与'安居乐业'的理念相关联，隐含社会稳定的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于生物学和自然语境",
+        "usage": "在英国英语中，常用于环境保护讨论"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于技术语境，如软件开发",
+        "usage": "在美国英语中，'nesting' 在编程社区中频繁出现"
+      }
+    ],
+    "historicalContext": "与19世纪的自然主义文学相关，如达尔文的进化论讨论了动物筑巢行为；在现代，关联到信息技术革命，体现了从自然到数字化的文化演变。",
+    "modernUsage": "在社交媒体和在线社区中，'nesting' 常用于讨论远程工作或家庭生活趋势，如'home nesting' 表示居家隔离时期的现象"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个鸟巢里嵌套着小鸟，同时内部有一个小型的代码结构图",
+      "keyElements": [
+        "鸟巢",
+        "小鸟",
+        "代码循环"
+      ],
+      "emotionalConnection": "联结到个人童年经历，如玩套娃玩具，触发温暖和好奇的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Nesting 像鸟的 Nest 里套着的 String",
+        "explanation": "通过视觉联想将 'nesting' 与 'nest' 连接，强化多重层级记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈnɛstɪŋ/ 听起来像 'next thing'，帮助回忆到下一个层级的结构",
+        "explanation": "利用Paivio的双编码理论，将声音与图像结合，提升长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "nest",
+      "embed",
+      "layer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "nesting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + nesting",
+        "description": "用于描述进行时的结构，例如在句中作为动名词短语",
+        "examples": [
+          "The program is nesting functions efficiently."
+        ]
+      },
+      {
+        "pattern": "Nesting + object",
+        "description": "表示动作的对象，例如在技术语境中",
+        "examples": [
+          "Nesting loops requires careful planning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'nesting' as a verb without context",
+        "correction": "Use as a noun or gerund appropriately",
+        "explanation": "中文学习者常混淆词性，导致句法错误；需注意语境区分"
+      },
+      {
+        "mistake": "Mispronouncing as /ˈnɛs tɪŋ/",
+        "correction": "Correct to /ˈnɛstɪŋ/",
+        "explanation": "发音错误可能源于母语干扰，如中文音节结构"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "biology",
+      "computing",
+      "daily life"
+    ],
+    "tags": [
+      "nature",
+      "technology",
+      "structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

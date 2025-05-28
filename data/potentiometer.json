@@ -1,0 +1,240 @@
+{
+  "word": "potentiometer",
+  "phonetics": {
+    "british": "/pəʊˌtɛnʃiˈɒmɪtə/",
+    "american": "/poʊˌtɛnʃiˈɑːmɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instrument used for measuring electrical potential or for varying the resistance in an electrical circuit.",
+      "chineseTranslation": "电位器",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A three-terminal resistor with a sliding or rotating contact that functions as a voltage divider.",
+      "chineseTranslation": "可变电阻器",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "variable potentiometer",
+      "meaning": "可变电位器",
+      "example": "The variable potentiometer allows for precise adjustment of the audio volume.",
+      "exampleTranslation": "可变电位器允许对音频音量进行精确调整。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "potentiometer circuit",
+      "meaning": "电位器电路",
+      "example": "In this potentiometer circuit, the output voltage is controlled by the position of the wiper.",
+      "exampleTranslation": "在这个电位器电路中，输出电压由滑动触点的位子控制。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use a potentiometer to fine-tune the sensitivity of sensors in automotive systems.",
+      "translation": "工程师使用电位器来微调汽车系统中的传感器灵敏度。",
+      "source": "Technical manual (e.g., from engineering textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The potentiometer in the old radio was worn out, causing the sound to fluctuate unpredictably.",
+      "translation": "旧收音机中的电位器已磨损，导致声音不稳定地波动。",
+      "source": "Literature (e.g., modern fiction describing everyday technology)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In laboratory experiments, a potentiometer measures the electromotive force with high accuracy.",
+      "translation": "在实验室实验中，电位器以高精度测量电动势。",
+      "source": "Scientific article (e.g., from academic journals like IEEE)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "potentia",
+        "meaning": "power or potential",
+        "language": "Latin"
+      },
+      {
+        "root": "metron",
+        "meaning": "measure",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪的电气工程领域，结合拉丁语 'potentia'（意为力量或潜力）和希腊语 'metron'（意为测量）。最初用于描述一种测量电势的设备，随着电子学的发展，其含义扩展到可变电阻器。",
+    "firstKnownUse": "1868",
+    "relatedWords": [
+      "potentiate",
+      "potential",
+      "meter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将词汇与电子元件图示关联；通过重复练习电子电路的实际操作来强化记忆；使用间隔重复法（spaced repetition）以改善长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rheostat",
+        "similarity": "0.8",
+        "context": "适用于电子工程语境中需要调整电阻的场合"
+      },
+      {
+        "word": "variable resistor",
+        "similarity": "0.9",
+        "context": "在电路设计和测试中作为替代术语使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fixed resistor",
+        "context": "在电路中表示固定电阻，与可变电位器的可调节特性相反"
+      }
+    ],
+    "hypernyms": [
+      "instrument",
+      "device"
+    ],
+    "hyponyms": [
+      "linear potentiometer",
+      "rotary potentiometer"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjust with a potentiometer",
+        "examples": [
+          "Adjust the volume with a potentiometer."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "use in a circuit",
+        "examples": [
+          "Use a potentiometer in a circuit for voltage control."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征科技进步和工程创新，常与工业革命及现代电子设备相关联；在非西方文化中，可能代表西方技术的影响，但缺乏强烈象征意义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用方式与美国类似，但可能在正式技术文献中更强调精确性",
+        "usage": "在英国英语中，常见于学术和工程报告"
+      },
+      {
+        "region": "美国",
+        "variation": "在日常技术讨论中更常见，特别是在消费电子产品语境",
+        "usage": "在美国英语中，经常出现在DIY电子爱好者社区"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和电气工程发展相关，首次出现于科学发明时代，如反映在爱迪生等发明家的作品中。",
+    "modernUsage": "在现代社交媒体和在线教程中，常见于YouTube视频或Reddit讨论，体现科技普及趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个音量旋钮在收音机上旋转，控制声音大小的场景。",
+      "keyElements": [
+        "旋钮",
+        "电路",
+        "调整"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩电子玩具的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'potentiometer' 联想为 'potential meter'，即 '潜力测量器'。",
+        "explanation": "通过词根分解，结合认知科学中的双编码理论，使用视觉和语义联想来加深记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/poʊˌtɛnʃiˈɑːmɪtər/' 类似 'phone ten she a meter'，想象打电话时测量信号强度。",
+        "explanation": "利用声音联想帮助初级学习者克服发音障碍。"
+      }
+    ],
+    "wordAssociations": [
+      "potential",
+      "voltage",
+      "resistor",
+      "meter"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "potentiometers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + potentiometer",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "The potentiometer controls the output."
+        ]
+      },
+      {
+        "pattern": "In + potentiometer + context",
+        "description": "在短语中表示位置或功能",
+        "examples": [
+          "In the potentiometer circuit, adjustments are necessary."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'potentiate'",
+        "correction": "Use 'potentiometer' for the device and 'potentiate' for increasing potential",
+        "explanation": "二者虽同源，但前者为名词，后者为动词，常因词根相似导致混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural",
+        "explanation": "作为可数名词，需正确添加复数形式以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 10,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "工程",
+      "电子学"
+    ],
+    "tags": [
+      "电子设备",
+      "测量",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "word": "locus",
+  "phonetics": {
+    "british": "/ˈləʊkəs/",
+    "american": "/ˈloʊkəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A particular position or point in a chromosome where a gene is located.",
+      "chineseTranslation": "染色体上特定位置或基因所在点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A set of points that satisfy a particular condition, especially in geometry.",
+      "chineseTranslation": "在几何学中满足特定条件的点集",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place or locality, especially one where something originates or is focused.",
+      "chineseTranslation": "地点或场所，特别是某事起源或集中的地方",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "locus of control",
+      "meaning": "控制中心的含义，指个人对事件控制感的认知",
+      "example": "In psychology, the locus of control refers to the extent to which individuals believe they can control events that affect them.",
+      "exampleTranslation": "在心理学中，控制中心指的是个体相信他们能控制影响自己的事件程度的程度。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "locus classicus",
+      "meaning": "经典引用的含义，指某领域的标准或权威来源",
+      "example": "The locus classicus for this debate is found in Aristotle's works.",
+      "exampleTranslation": "这个辩论的经典引用可以在亚里士多德的作品中找到。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The gene's locus on chromosome 5 has been identified by researchers.",
+      "translation": "研究人员已经识别出该基因在第5染色体上的位置。",
+      "source": "Scientific journal (e.g., Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In mathematics, a circle is the locus of points equidistant from a fixed center.",
+      "translation": "在数学中，圆是距离固定中心等距离的点的集合。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The village served as the locus for the annual festival traditions.",
+      "translation": "这个村庄作为年度节日传统的中心场所。",
+      "source": "Literature (e.g., regional novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "locus",
+        "meaning": "place",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'locus'，意为 '地方' 或 '位置'。在中世纪拉丁语中，该词被用于指代特定点或场所，并在17世纪的科学和数学语境中演变为现代含义，如几何学中的点集或生物学中的基因位置。这种演变反映了从一般空间概念到专业术语的转变。",
+    "firstKnownUse": "约公元前1世纪",
+    "relatedWords": [
+      "local",
+      "locate",
+      "location"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'locus' 与类似词汇如 'location' 进行分组记忆；使用视觉映射将抽象概念与实际位置图像关联，以增强海马体记忆路径；对于中文母语学习者，建议通过双语对照练习避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "site",
+        "similarity": "0.8",
+        "context": "在一般语境中用于指代物理位置，例如建筑或事件发生地"
+      },
+      {
+        "word": "point",
+        "similarity": "0.7",
+        "context": "在数学语境中用于指代坐标或特定点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "diffusion",
+        "context": "表示扩散或无固定位置的状态，与 'locus' 的集中含义相对"
+      },
+      {
+        "word": "dispersion",
+        "context": "在科学语境中表示散布，与基因或点的固定位置相对"
+      }
+    ],
+    "hypernyms": [
+      "place",
+      "position"
+    ],
+    "hyponyms": [
+      "gene locus",
+      "geometric locus"
+    ],
+    "collocations": [
+      {
+        "pattern": "locus of [noun]",
+        "examples": [
+          "locus of control",
+          "locus of power"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the [adjective] locus",
+        "examples": [
+          "the central locus"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学和哲学中象征精确性和定位，常用于表达知识或权力的集中点；在跨文化语境中，中国学习者可能将之与中医的 '穴位' 概念关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向学术和历史语境的使用",
+        "usage": "在英国英语中，常见于古典文学或科学讨论中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于现代科学和技术领域",
+        "usage": "在美国英语中，强调实用应用，如心理学或生物学"
+      }
+    ],
+    "historicalContext": "与古罗马和希腊哲学背景相关，例如亚里士多德的 '地点' 概念；在文学和社会中，代表稳定与起源的象征。",
+    "modernUsage": "在社交媒体和在线教育中，'locus' 常用于讨论心理健康或数据分析趋势，例如 TikTok 或 LinkedIn 中的心理学内容。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个地图上的固定标记点，代表 'locus' 的位置概念。",
+      "keyElements": [
+        "地图标记",
+        "基因链",
+        "几何圆"
+      ],
+      "emotionalConnection": "联结到个人旅行经历中的 ' landmark '，触发积极回忆以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'locus' 联想为 'lock us'，表示锁定位置。",
+        "explanation": "通过声音联觉和视觉联想，帮助记忆词汇的发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "L-O-C-U-S: Location Of Certain Unique Spot",
+        "explanation": "使用首字母缩写结合故事方法，基于认知负荷理论减少记忆负担"
+      }
+    ],
+    "wordAssociations": [
+      "location",
+      "spot",
+      "center"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "loci",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] is the locus of [noun]",
+        "description": "该结构用于描述某物作为中心的角色",
+        "examples": [
+          "The city is the locus of innovation."
+        ]
+      },
+      {
+        "pattern": "[Noun] at the locus",
+        "description": "用于指定位置",
+        "examples": [
+          "The gene at the locus."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'locus' as a verb",
+        "correction": "Use as a noun only",
+        "explanation": " 'Locus' 仅为名词，常被误用为动词；正确时需搭配介词如 'of'。"
+      },
+      {
+        "mistake": "Confusing plural form",
+        "correction": "Use 'loci' for plural",
+        "explanation": "中文学习者可能错误使用 'locuses'；参考拉丁语规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 5 per million words (based on COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "psychology"
+    ],
+    "tags": [
+      "technical",
+      "spatial",
+      "biological"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

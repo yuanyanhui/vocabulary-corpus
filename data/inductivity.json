@@ -1,0 +1,236 @@
+{
+  "word": "inductivity",
+  "phonetics": {
+    "british": "/ɪnˌdʌkˈtɪvɪti/",
+    "american": "/ɪnˌdʌkˈtɪvəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being inductive, particularly in logical reasoning, where it refers to the process of deriving general principles from specific observations, or in physics, relating to the property similar to inductance in electromagnetic contexts.",
+      "chineseTranslation": "归纳性",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "logical inductivity",
+      "meaning": "逻辑归纳性",
+      "example": "The logical inductivity of scientific methods allows for hypothesis formation based on empirical evidence.",
+      "exampleTranslation": "科学方法的逻辑归纳性允许基于经验证据形成假设。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "electromagnetic inductivity",
+      "meaning": "电磁归纳性",
+      "example": "Electromagnetic inductivity plays a crucial role in transformer design.",
+      "exampleTranslation": "电磁归纳性在变压器设计中发挥关键作用。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In philosophy, inductivity is often contrasted with deductivity to highlight different approaches to knowledge.",
+      "translation": "在哲学中，归纳性常常与演绎性相对，以突出获取知识的不同方法。",
+      "source": "Philosophical texts, such as works by David Hume (18th century)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must consider inductivity when designing circuits to prevent energy loss.",
+      "translation": "工程师在设计电路时必须考虑归纳性以防止能量损失。",
+      "source": "Technical manuals from engineering corpora like IEEE publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The concept of inductivity in machine learning algorithms helps in pattern recognition.",
+      "translation": "机器学习算法中的归纳性概念有助于模式识别。",
+      "source": "Modern AI literature, such as from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inducere",
+        "meaning": "to lead in or introduce",
+        "language": "Latin"
+      },
+      {
+        "root": "duct",
+        "meaning": "to lead",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'inducere'，意为 '引导进入'。该词在17世纪通过英语演变而来，受启发于归纳逻辑的哲学发展（如弗朗西斯·培根的著作），并在19世纪扩展到物理学领域，与电磁感应相关。现代使用中，它作为 'inductive' 的派生形式出现，但较少见，常被 'inductance' 取代。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "inductive",
+      "inductance",
+      "deductivity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经验关联，例如将 'inductivity' 想象为 'induction' 的扩展形式，利用视觉化记忆法如心智映射；通过间隔重复系统（Spaced Repetition System）强化对技术语境的回忆，以降低遗忘曲线的影响。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inductance",
+        "similarity": "0.8",
+        "context": "在物理学语境中，用于描述电磁属性的相似概念"
+      },
+      {
+        "word": "induction",
+        "similarity": "0.7",
+        "context": "在逻辑或科学推理中，强调从具体到一般的推理过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deductivity",
+        "context": "在逻辑语境中，表示从一般到具体的演绎推理，与归纳性相对"
+      },
+      {
+        "word": "deduction",
+        "context": "在科学或哲学中，用于强调基于已有原则的推理"
+      }
+    ],
+    "hypernyms": [
+      "abstraction",
+      "inference"
+    ],
+    "hyponyms": [
+      "electromagnetic induction",
+      "logical induction"
+    ],
+    "collocations": [
+      {
+        "pattern": "inductivity in [context]",
+        "examples": [
+          "inductivity in logic",
+          "inductivity in physics"
+        ],
+        "strength": "weak"
+      },
+      {
+        "pattern": "[adjective] inductivity",
+        "examples": [
+          "logical inductivity"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征理性主义和经验主义传统，尤其在英国启蒙运动中（如牛顿的归纳法），隐含语义强调从观察到理论的进步，但在东方文化如中国，可能与儒家经验主义相呼应，促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常使用 'inductance' 在技术语境",
+        "usage": "在美国英语中，偏向工程和科技领域，避免抽象哲学讨论"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "保留更多历史哲学含义",
+        "usage": "在英国英语中，可能与学术讨论相关联，如在大学讲座中"
+      }
+    ],
+    "historicalContext": "与17世纪科学革命相关，特别是在 Francis Bacon 的归纳方法中，该词反映了从中世纪演绎主导向现代经验科学的转变。",
+    "modernUsage": "在社交媒体和在线教育中，'inductivity' 较少出现，常被简化词汇取代，但在专业论坛如 Reddit 的科学子版块中，用于讨论 AI 和机器学习趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家在实验室中从单个苹果观察到万有引力定律的场景，象征从具体到一般的归纳过程。",
+      "keyElements": [
+        "苹果",
+        "实验室",
+        "闪光灯 bulb"
+      ],
+      "emotionalConnection": "联结到个人童年实验经历，触发好奇心和成就感，以增强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Inductivity 像 'induction cooktop'，从热源引出能量。",
+        "explanation": "通过视觉和感觉联想，将抽象概念与日常物体连接，基于认知心理学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ɪnˌdʌkˈtɪvɪti/' 听起来像 'in duck activity'，想象鸭子在水里归纳路径。",
+        "explanation": "利用声音与图像的联结，促进海马体记忆编码。"
+      }
+    ],
+    "wordAssociations": [
+      "induction",
+      "deduction",
+      "hypothesis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "常用于技术语境中，如 'inductivity in [field]'。",
+        "examples": [
+          "The inductivity in physics is essential."
+        ]
+      },
+      {
+        "pattern": "Subject in sentence",
+        "description": "作为主语出现，强调其属性。",
+        "examples": [
+          "Inductivity drives innovation in science."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'conductivity'",
+        "correction": "Use 'inductivity' for induction-related contexts",
+        "explanation": "二者虽听似相似，但 'conductivity' 指传导性，常混淆于物理术语中"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɪnˈdʌktɪv/",
+        "correction": "Pronounce as /ɪnˌdʌkˈtɪvɪti/",
+        "explanation": "强调重音位置以避免与 'inductive' 混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "philosophy",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "logical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

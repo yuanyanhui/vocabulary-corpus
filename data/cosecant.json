@@ -1,0 +1,226 @@
+{
+  "word": "cosecant",
+  "phonetics": {
+    "british": "/kəʊˈsiːkənt/",
+    "american": "/koʊˈsiːkənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The reciprocal of the sine of an angle, defined as 1 divided by the sine of that angle in trigonometry.",
+      "chineseTranslation": "余割",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cosecant function",
+      "meaning": "余割函数",
+      "example": "The cosecant function is essential for solving certain trigonometric equations.",
+      "exampleTranslation": "余割函数对于解决某些三角方程式至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cosecant of an angle",
+      "meaning": "角度的余割",
+      "example": "Calculate the cosecant of an angle greater than 90 degrees.",
+      "exampleTranslation": "计算大于90度的角度的余割。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In trigonometry, the cosecant of θ is used to find the hypotenuse when the opposite side is known.",
+      "translation": "在三角学中，θ 的余割用于在知道对边时求出斜边。",
+      "source": "Mathematics textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers often rely on the cosecant value in wave analysis for signal processing.",
+      "translation": "工程师们经常在波形分析中依赖余割值来进行信号处理。",
+      "source": "Technical article from IEEE",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The cosecant graph has vertical asymptotes where the sine function equals zero.",
+      "translation": "余割图形的垂直渐近线出现在正弦函数等于零的地方。",
+      "source": "Online educational resource",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "secans",
+        "meaning": "cutting",
+        "language": "Latin"
+      },
+      {
+        "root": "co-",
+        "meaning": "with or together (as in complement)",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term 'cosecant' evolved in the 17th century from Latin roots, combining 'co-' (complement) with 'secans' (from secare, meaning to cut), as part of the development of trigonometric functions by mathematicians like John Napier and others, adapting from earlier Arabic and Greek traditions.",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "secant",
+      "cosine",
+      "tangent",
+      "sine"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将余割与其他三角函数（如正弦）通过视觉图表如单位圆进行空间联想；使用间隔重复法回顾数学公式以强化记忆路径；将新词与个人学习经历关联，如回想课堂演示，以提升情绪记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "csc",
+        "similarity": "0.9",
+        "context": "在数学公式和缩写中作为余割的简写使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sine",
+        "context": "在三角函数中，余割是正弦的倒数，因此在计算方向上相反"
+      }
+    ],
+    "hypernyms": [
+      "trigonometric function"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "cosecant of [angle]",
+        "examples": [
+          "cosecant of 30 degrees",
+          "cosecant of θ"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "inverse cosecant",
+        "examples": [
+          "the inverse cosecant function"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球科学教育中象征精确性和逻辑推理，没有特定文化象征，但反映了数学作为跨文化工具的普世性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "标准英式发音和用法",
+        "usage": "在英国教育体系中，常用于A-level数学课程"
+      },
+      {
+        "region": "United States",
+        "variation": "美式发音略有差异，但用法一致",
+        "usage": "在美国高中和大学课程中，常见于AP Calculus和工程专业"
+      }
+    ],
+    "historicalContext": "与古希腊（如Euclid）和印度（如Aryabhata）的数学传统相关联，在文艺复兴时期通过欧洲学者传播。",
+    "modernUsage": "在社交媒体和在线教育平台如Khan Academy中流行，用于STEM领域讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个右三角形，其中余割表示从对边到斜边的倒数关系。",
+      "keyElements": [
+        "三角形",
+        "角度θ",
+        "倒数符号"
+      ],
+      "emotionalConnection": "联结到学校实验或个人成功解决数学问题的成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "SOH CAH TOA reminds us that cosecant is 1/SOH (Sine Over Hypotenuse)",
+        "explanation": "使用三角函数的经典记忆口诀，增强词汇与公式的认知关联。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'cosecant' 的声音与 'sea' 联想，因为它涉及波形和海洋工程。",
+        "explanation": "通过声音相似性创建感官记忆，帮助回想在科学语境中的应用。"
+      }
+    ],
+    "wordAssociations": [
+      "sine",
+      "reciprocal",
+      "trigonometry",
+      "hypotenuse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in mathematical expressions",
+        "description": "作为名词出现在公式或句子中，表示三角函数",
+        "examples": [
+          "The cosecant value is calculated as follows."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases",
+        "description": "与介词短语结合，如 'of an angle'",
+        "examples": [
+          "Cosecant of 45 degrees equals √2."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing cosecant with secant",
+        "correction": "Use cosecant for the reciprocal of sine, and secant for cosine",
+        "explanation": "三角函数易混淆，因此需通过比较表格或图表区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /koʊˈsɛkənt/",
+        "correction": "Pronounce as /koʊˈsiːkənt/ in American English",
+        "explanation": "元音发音错误常见于非母语者，需练习IPA音标"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked low in general corpora (e.g., COCA: approximately 0.01 per million words), but high in academic domains",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Engineering"
+    ],
+    "tags": [
+      "Trigonometry",
+      "Functions",
+      "Calculus"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "MathWorld by Wolfram"
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "word": "anova",
+  "phonetics": {
+    "british": "/əˈnɒvə/",
+    "american": "/əˈnoʊvə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statistical method used to analyze the differences among group means in a sample and to determine whether any of those differences are significant.",
+      "chineseTranslation": "方差分析",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one-way ANOVA",
+      "meaning": "单因素方差分析",
+      "example": "Researchers conducted a one-way ANOVA to compare the effects of three different treatments.",
+      "exampleTranslation": "研究人员进行单因素方差分析来比较三种不同处理的效应。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "two-way ANOVA",
+      "meaning": "双因素方差分析",
+      "example": "A two-way ANOVA was used to examine the interaction between age and gender on test scores.",
+      "exampleTranslation": "双因素方差分析被用来检查年龄和性别对测试分数的影响。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The psychologist applied ANOVA to assess whether the new therapy led to significant improvements in patient outcomes.",
+      "translation": "心理学家应用方差分析来评估新疗法是否导致患者结果的显著改善。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the biology lab, students learned how to perform an ANOVA on their experimental data.",
+      "translation": "在生物实验室，学生们学习如何对实验数据进行方差分析。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "ANOVA is a key tool in data analysis for identifying variance in large datasets.",
+      "translation": "方差分析是识别大型数据集差异的关键工具。",
+      "source": "Academic lecture",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "analysis",
+        "meaning": "a breaking down or separating",
+        "language": "Greek (via Latin)"
+      },
+      {
+        "root": "variance",
+        "meaning": "a state of difference or variation",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "一词起源于20世纪早期统计学，由Ronald Fisher在1920年代开发，作为对数据集差异进行系统分析的方法；从农业统计演变为现代数据科学中的标准工具。",
+    "firstKnownUse": "1920s",
+    "relatedWords": [
+      "t-test",
+      "regression analysis",
+      "chi-square test"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 6,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 8,
+    "usageComplexity": 7,
+    "learningTips": [
+      "将ANOVA与实际实验场景联想起来，例如比较不同肥料对作物产量的影响，以强化空间记忆；使用间隔重复法复习统计概念，避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "variance analysis",
+        "similarity": 0.9,
+        "context": "统计学中用于比较多个组均值的测试场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "correlation analysis",
+        "context": "侧重于变量之间关系而非组间差异的统计场景"
+      }
+    ],
+    "hypernyms": [
+      "statistical test"
+    ],
+    "hyponyms": [
+      "one-way ANOVA",
+      "two-way ANOVA",
+      "repeated measures ANOVA"
+    ],
+    "collocations": [
+      {
+        "pattern": "conduct an ANOVA",
+        "examples": [
+          "Scientists conduct an ANOVA to evaluate data."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "apply ANOVA to data",
+        "examples": [
+          "Apply ANOVA to the experimental results."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和学术社区中象征数据驱动决策和实证研究，体现了西方文化中对量化分析的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于数据科学和商业分析",
+        "usage": "例如，在硅谷的技术会议中，ANOVA经常与AI算法结合使用。"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，可能更强调其在传统统计学历史中的根源",
+        "usage": "如在大学课程中，结合Ronald Fisher的贡献进行教学。"
+      }
+    ],
+    "historicalContext": "与20世纪统计学革命相关，特别是在农业和生物学领域，由英国统计学家Ronald Fisher推广。",
+    "modernUsage": "在社交媒体和在线平台如Twitter或LinkedIn上，ANOVA常用于数据科学讨论，反映了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中科学家使用图表比较不同组的实验结果。",
+      "keyElements": [
+        "图表",
+        "数据比较",
+        "实验室设备"
+      ],
+      "emotionalConnection": "联结个人经历，如回想大学统计课的挫败感，转为成就感以增强动机。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "缩略词",
+        "content": "A-N-O-V-A: Analysis of Various Averages",
+        "explanation": "通过简单缩略词帮助记忆核心含义，基于认知联想原理。"
+      },
+      {
+        "type": "联想",
+        "content": "将ANOVA视为'分析差异的工具'，联想日常生活中的比较行为。",
+        "explanation": "利用视觉和情感联想强化长期记忆，避免抽象概念的遗忘。"
+      }
+    ],
+    "wordAssociations": [
+      "statistics",
+      "data variance",
+      "hypothesis testing"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + ANOVA",
+        "description": "作为名词出现在句子主语或宾语位置，常用于描述过程。",
+        "examples": [
+          "ANOVA revealed significant differences."
+        ]
+      },
+      {
+        "pattern": "Use ANOVA in + context",
+        "description": "表示应用场景。",
+        "examples": [
+          "Use ANOVA in experimental design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing ANOVA with t-test",
+        "correction": "Use ANOVA for three or more groups; use t-test for two groups",
+        "explanation": "ANOVA适合多组比较，而t-test仅限两组，以避免统计错误。"
+      },
+      {
+        "mistake": "Mispronouncing as 'a-nova'",
+        "correction": "Pronounce as /əˈnoʊvə/",
+        "explanation": "错误发音可能导致沟通障碍，需练习IPA音标。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 7500 in COCA corpus for technical domains",
+    "domains": [
+      "Science",
+      "Statistics",
+      "Research",
+      "Education"
+    ],
+    "tags": [
+      "statistics",
+      "data analysis",
+      "quantitative methods"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary",
+      "COCA",
+      "BNC",
+      "Statistical textbooks by Ronald Fisher"
+    ]
+  }
+}

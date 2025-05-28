@@ -1,0 +1,257 @@
+{
+  "word": "fuzzy",
+  "phonetics": {
+    "british": "/ˈfʌzi/",
+    "american": "/ˈfʌzi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not clear or sharply defined; lacking precision or detail, often used for images, thoughts, or concepts.",
+      "chineseTranslation": "模糊的，不清晰的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Covered with a soft, fluffy material; having a texture like fine hairs or fibers.",
+      "chineseTranslation": "毛茸茸的，绒状的",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing and mathematics, referring to systems or logic that deal with approximate rather than precise values.",
+      "chineseTranslation": "模糊的（在计算或数学中，指处理近似值的）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fuzzy logic",
+      "meaning": "模糊逻辑，指处理不确定性和近似值的计算方法",
+      "example": "Fuzzy logic is used in washing machines to adjust water levels based on load size.",
+      "exampleTranslation": "模糊逻辑用于洗衣机中，根据衣物量调整水位。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fuzzy boundaries",
+      "meaning": "模糊的边界，指不明确的界限或范围",
+      "example": "In modern societies, fuzzy boundaries between work and personal life have become common.",
+      "exampleTranslation": "在现代社会中，工作和个人生活之间的模糊边界已很常见。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fuzzy feeling",
+      "meaning": "模糊的感觉，通常指温暖或不确定的情感",
+      "example": "She had a fuzzy feeling of nostalgia when revisiting her childhood home.",
+      "exampleTranslation": "当 revisited 她童年故居时，她有一种模糊的怀旧感觉。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The image on the old television was fuzzy due to poor signal quality.",
+      "translation": "老式电视上的图像因信号质量差而模糊。",
+      "source": "Daily life description, similar to common usage in media",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After a long day, his thoughts became fuzzy, making it hard to focus.",
+      "translation": "经过漫长的一天后，他的思绪变得模糊，难以集中注意力。",
+      "source": "Literature, e.g., contemporary novels",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In artificial intelligence, fuzzy systems help manage imprecise data effectively.",
+      "translation": "在人工智能中，模糊系统有助于有效管理不精确的数据。",
+      "source": "Technical articles, e.g., from IEEE publications",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "fuzz",
+        "meaning": "Fine light particles or fibers, often referring to fluff",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "从中古英语的 'fuzz'（意为细软纤维）演变而来，最初描述物质纹理，如毛发或织物。17世纪开始扩展到抽象含义，如不清晰的概念，受启蒙时代科学和哲学的影响，19世纪在技术领域（如光学）中广泛使用。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "fuzz",
+      "fuzzy-wuzzy",
+      "defuzzify"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将 'fuzzy' 的发音与视觉图像（如模糊照片）结合；对于中文母语者，联想汉字 '模糊' 以建立语义桥接；重复暴露于不同语境中以强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "blurry",
+        "similarity": "0.8",
+        "context": "视觉相关语境中，例如描述图像或视觉效果"
+      },
+      {
+        "word": "vague",
+        "similarity": "0.7",
+        "context": "抽象概念语境中，例如思想或定义"
+      },
+      {
+        "word": "hazy",
+        "similarity": "0.6",
+        "context": "天气或记忆相关语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clear",
+        "context": "清晰的视觉或概念语境"
+      },
+      {
+        "word": "precise",
+        "context": "精确的技术或科学语境"
+      }
+    ],
+    "hypernyms": [
+      "indistinct"
+    ],
+    "hyponyms": [
+      "blurred",
+      "woolly"
+    ],
+    "collocations": [
+      {
+        "pattern": "fuzzy + noun (e.g., fuzzy image)",
+        "examples": [
+          "fuzzy image",
+          "fuzzy memory"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + fuzzy (e.g., slightly fuzzy)",
+        "examples": [
+          "slightly fuzzy logic"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'fuzzy' 常象征不确定性或温暖的模糊性，例如在文学中代表情感的暧昧；在东方文化如中国，可能与 '模糊思维' 类似，强调非二元逻辑。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如人工智能",
+        "usage": "在美国英语中，'fuzzy' 在科技和日常对话中频率较高，体现实用主义文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向于描述物理纹理，如 'fuzzy jumper'",
+        "usage": "在英国英语中，更注重非正式语境，反映传统英语的细腻表达"
+      }
+    ],
+    "historicalContext": "与工业革命相关的光学和纺织发展有关；在20世纪，'fuzzy logic' 成为日本和西方科技合作的象征，体现跨文化创新。",
+    "modernUsage": "在社交媒体上，常用于描述情绪或视觉效果，如 TikTok 视频的 'fuzzy filter'，反映数字时代的非正式传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个毛茸茸的玩具熊在雾中，轮廓模糊",
+      "keyElements": [
+        "毛茸茸的玩具",
+        "雾气模糊"
+      ],
+      "emotionalConnection": "联结到童年温暖回忆，触发正面情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'fuzzy' as 'fuzz + y', like a fuzzy peach with unclear edges",
+        "explanation": "通过视觉联想将词根与常见物体连接，利用认知科学中的图像记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈfʌzi/' 听起来像轻柔的风声，联想到模糊的画面",
+        "explanation": "利用声音与视觉的联觉原理，帮助记忆语义"
+      }
+    ],
+    "wordAssociations": [
+      "blurry",
+      "hazy",
+      "soft"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "fuzzier",
+      "superlative": "fuzziest"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "a fuzzy photo"
+        ]
+      },
+      {
+        "pattern": "Be + fuzzy",
+        "description": "用在系表结构中描述主语状态",
+        "examples": [
+          "The idea is fuzzy"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'fussy' (meaning picky)",
+        "correction": "Use 'fuzzy' for unclear or textured meanings",
+        "explanation": "两者发音相似，但语义不同；中文学习者需注意语境区分"
+      },
+      {
+        "mistake": "Overusing in formal writing",
+        "correction": "Replace with precise synonyms in technical contexts",
+        "explanation": "在正式语域中，'fuzzy' 可能显得不专业"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "daily life",
+      "science"
+    ],
+    "tags": [
+      "adjective",
+      "descriptive",
+      "abstract"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

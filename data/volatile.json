@@ -1,0 +1,270 @@
+{
+  "word": "volatile",
+  "phonetics": {
+    "british": "/ˈvɒlətaɪl/",
+    "american": "/ˈvɑːlətaɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Liable to change rapidly and unpredictably, especially in reference to substances that evaporate quickly.",
+      "chineseTranslation": "易挥发的；不稳定的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, describing memory that loses its contents when power is turned off.",
+      "chineseTranslation": "易失的（尤指计算机内存）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Figuratively, tending to erupt into violence or exhibit unpredictable behavior.",
+      "chineseTranslation": "易爆发的；多变的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "volatile memory",
+      "meaning": "易失内存，指断电后数据会丢失的计算机内存",
+      "example": "RAM is a type of volatile memory that requires constant power to retain data.",
+      "exampleTranslation": "RAM 是一种易失内存，需要持续供电才能保留数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "volatile market",
+      "meaning": "波动性强的市场，指价格变化频繁且不可预测的市场",
+      "example": "Investors are cautious in a volatile market due to sudden price swings.",
+      "exampleTranslation": "投资者在波动性强的市场中保持谨慎，因为价格可能突然变动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "volatile substance",
+      "meaning": "易挥发物质，指容易蒸发或变化的化学物质",
+      "example": "Ethanol is a volatile substance commonly used in laboratories.",
+      "exampleTranslation": "乙醇是一种易挥发物质，常用于实验室。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The volatile nature of the chemical made it dangerous to handle without proper ventilation.",
+      "translation": "这种化学物质的易挥发特性使其在没有适当通风的情况下处理起来很危险。",
+      "source": "Scientific literature (e.g., chemistry textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In today's volatile economy, stock prices can fluctuate wildly based on global events.",
+      "translation": "在当今不稳定的经济环境中，股票价格可能会根据全球事件剧烈波动。",
+      "source": "Financial news (e.g., The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The programmer ensured that the data was saved to non-volatile storage to prevent loss.",
+      "translation": "程序员确保数据保存到非易失存储中以防止丢失。",
+      "source": "Computing articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her volatile temper often led to arguments with colleagues.",
+      "translation": "她易爆发的脾气经常导致与同事发生争执。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "volatilis",
+        "meaning": "Flying or fleeting",
+        "language": "Latin"
+      },
+      {
+        "root": "volare",
+        "meaning": "To fly",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'volatilis'（意为飞行或飞逝）演变而来，17 世纪传入英语，首先用于描述易蒸发的物质，后来扩展到计算机术语和比喻性含义，如不稳定或易变的行为。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "volatility",
+      "evaporate",
+      "instability"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将 'volatile' 与视觉意象（如飞翔的鸟）联想，结合个人经验如天气变化来强化记忆；建议通过间隔重复法复习多义词以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unstable",
+        "similarity": "0.8",
+        "context": "适用于描述不稳定的市场或情绪，例如经济语境"
+      },
+      {
+        "word": "fickle",
+        "similarity": "0.7",
+        "context": "适用于比喻性语境，如人物性格的多变"
+      },
+      {
+        "word": "evanescent",
+        "similarity": "0.6",
+        "context": "适用于化学或文学语境，强调快速消失"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stable",
+        "context": "适用于对比不稳定的情况，如稳定的市场环境"
+      },
+      {
+        "word": "constant",
+        "context": "适用于强调持久性的语境，如恒定的温度"
+      }
+    ],
+    "hypernyms": [
+      "changeable",
+      "unpredictable"
+    ],
+    "hyponyms": [
+      "explosive",
+      "evaporative"
+    ],
+    "collocations": [
+      {
+        "pattern": "volatile + noun (e.g., market, substance)",
+        "examples": [
+          "volatile market",
+          "volatile compound"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + volatile (e.g., highly volatile)",
+        "examples": [
+          "highly volatile liquid"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含风险和不确定性的象征，尤其在金融和科技领域，反映出现代社会对快速变化的焦虑。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和金融语境",
+        "usage": "在美国英语中，'volatile' 在股票市场讨论中频繁出现，强调经济波动"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于化学含义",
+        "usage": "在英国英语中，常用于科学教育和正式报告中"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，象征快速工业化和科技进步带来的不稳定性，如在19世纪文学中用于描述社会变革。",
+    "modernUsage": "在社交媒体和新闻中流行，用于描述政治事件或气候变化的不可预测性，体现跨文化对全球不确定性的共识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个易飞走的鸟群，代表快速变化和不稳定性。",
+      "keyElements": [
+        "鸟群飞走",
+        "快速蒸发的液体"
+      ],
+      "emotionalConnection": "联结个人经历，如经历过股市波动的情绪紧张，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'volatile' 联想为 'fly away tile'，因为它听起来像易飞走的瓦片。",
+        "explanation": "通过声音联想和视觉意象，帮助 intermediate 水平的中文母语者记住发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "V for Volatile and Vanishing",
+        "explanation": "使用首字母缩写结合认知科学中的重复编码，强化词汇与消失概念的关联"
+      }
+    ],
+    "wordAssociations": [
+      "fly",
+      "change",
+      "explode"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more volatile",
+      "superlative": "most volatile"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + volatile",
+        "description": "用于描述主语的状态，例如 'The market is volatile.'",
+        "examples": [
+          "The substance is highly volatile."
+        ]
+      },
+      {
+        "pattern": "Volatile + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A volatile mixture can be dangerous."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'volatile' in computing and general use",
+        "correction": "Use context to distinguish meanings",
+        "explanation": "中文母语者可能混淆多义，建议通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect pronunciation of vowels",
+        "correction": "Practice IPA /ˈvɒlətaɪl/",
+        "explanation": "由于元音差异，intermediate 水平学习者易出错"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 words in COCA corpus, with high occurrence in technical domains",
+    "domains": [
+      "science",
+      "technology",
+      "finance",
+      "general English"
+    ],
+    "tags": [
+      "adjective",
+      "technical term",
+      "abstract concept"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

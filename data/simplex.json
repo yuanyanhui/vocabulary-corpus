@@ -1,0 +1,245 @@
+{
+  "word": "simplex",
+  "phonetics": {
+    "british": "/ˈsɪm.plɛks/",
+    "american": "/ˈsɪm.plɛks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A simple or uncomplicated figure or structure, especially in mathematics, referring to the convex hull of a set of points in n-dimensional space, such as a line segment in 1D, a triangle in 2D, or a tetrahedron in 3D.",
+      "chineseTranslation": "在数学中，指n维空间中一组点的凸包，如一维的线段、二维的三角形或三维的四面体。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of or involving only one part or element; not complex or compound.",
+      "chineseTranslation": "由单一部分或元素组成；不复杂或复合的。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A virus that causes diseases such as cold sores, as in herpes simplex.",
+      "chineseTranslation": "一种病毒，如单纯疱疹病毒，会引起疾病如口疱疹。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "herpes simplex",
+      "meaning": "单纯疱疹病毒",
+      "example": "Herpes simplex virus type 1 is commonly associated with oral infections.",
+      "exampleTranslation": "单纯疱疹病毒1型通常与口腔感染相关。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "simplex method",
+      "meaning": "单纯形法",
+      "example": "The simplex method is an algorithm used in linear programming to find the optimal solution.",
+      "exampleTranslation": "单纯形法是一种用于线性规划中寻找最优解的算法。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In geometry, a simplex is the simplest possible polytope.",
+      "translation": "在几何学中，单纯形是最简单的多面体。",
+      "source": "Mathematical textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The doctor diagnosed the patient with herpes simplex.",
+      "translation": "医生诊断患者患有单纯疱疹。",
+      "source": "Medical journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This simplex design makes the machine easy to operate.",
+      "translation": "这种简单的设计使机器易于操作。",
+      "source": "Engineering article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "simplex",
+        "meaning": "single, simple",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语simplex，意为'单一的'或'简单的'，由sim-（意为'一个'或'单一'）和-plex（意为'折叠'或'层'）组成。在历史演变中，从古罗马时代用于描述简单事物，发展到现代数学和科学领域，如17世纪开始在几何学中被使用。",
+    "firstKnownUse": "1590s",
+    "relatedWords": [
+      "complex",
+      "duplex"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将词汇与数学或生物背景关联；通过视觉图像如几何图形记忆核心含义，以增强长期记忆；对于中国母语学习者，强调与汉字'简单'的对比以建立语义桥接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "simple",
+        "similarity": "0.8",
+        "context": "适用于描述非复杂事物的语境，如日常或技术领域"
+      },
+      {
+        "word": "uncomplicated",
+        "similarity": "0.7",
+        "context": "在医疗或工程语境中，表示不复杂的结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "complex",
+        "context": "在数学或科学语境中，表示多维或复杂的结构"
+      },
+      {
+        "word": "compound",
+        "context": "用于描述由多个部分组成的系统"
+      }
+    ],
+    "hypernyms": [
+      "figure",
+      "structure"
+    ],
+    "hyponyms": [
+      "triangle",
+      "tetrahedron"
+    ],
+    "collocations": [
+      {
+        "pattern": "simplex + noun (e.g., simplex method)",
+        "examples": [
+          "The simplex algorithm is widely used."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + simplex (e.g., geometric simplex)",
+        "examples": [
+          "A geometric simplex forms the basis of higher dimensions."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征简单性和基础结构，常用于数学和医学领域，无显著隐含语义，但在跨文化交流中，可能被视为技术术语而非日常词汇。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，更常用于技术语境如计算机科学。",
+        "usage": "在美国学术和专业环境中频繁出现，例如在编程算法中"
+      },
+      {
+        "region": "英国",
+        "variation": "英式英语中可能更侧重于数学起源。",
+        "usage": "在英国教育体系中，常用于几何学教学"
+      }
+    ],
+    "historicalContext": "与启蒙时代科学发展相关，如牛顿和莱布尼茨的数学贡献；在中国文化中，与'简单'概念类似，但需注意在翻译文学中可能被用于哲学讨论。",
+    "modernUsage": "在现代社交媒体和在线教育中，经常出现在STEM（科学、技术、工程、数学）内容中，如YouTube教程或Twitter讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个简单的三角形漂浮在空中的场景，代表数学中的单纯形。",
+      "keyElements": [
+        "三角形",
+        "几何形状",
+        "单一结构"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年玩积木的简单乐趣，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Simplex sounds like 'simple X', where X is a basic shape.",
+        "explanation": "通过声音联想，将词汇与'简单'的概念连接，增强词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "S-I-M-P-L-E-X: Single In Many Planes, Linking Every eXample.",
+        "explanation": "使用首字母缩写创建故事，帮助中国学习者通过叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "simple",
+      "triangle",
+      "virus"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "simplices",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a simplex in geometry)",
+        "description": "作为名词，用于描述特定结构。",
+        "examples": [
+          "The simplex is defined as..."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier (e.g., simplex design)",
+        "description": "作为形容词，修饰名词表示简单性。",
+        "examples": [
+          "This is a simplex approach."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'complex'",
+        "correction": "Use 'simplex' for simple structures only",
+        "explanation": "学习者常混淆相似词汇；通过语境练习区分语义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'simplices' for plural",
+        "explanation": "英语名词复数规则需记忆，特别是拉丁词源"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "medicine",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "geometry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

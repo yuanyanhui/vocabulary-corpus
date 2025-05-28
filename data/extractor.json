@@ -1,0 +1,240 @@
+{
+  "word": "extractor",
+  "phonetics": {
+    "british": "/ɪkˈstræktə/",
+    "american": "/ɪkˈstræktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or machine used to remove or draw out something, such as a substance or data.",
+      "chineseTranslation": "提取器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a program or tool that extracts files from an archive.",
+      "chineseTranslation": "解压器或提取程序",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "juice extractor",
+      "meaning": "榨汁机",
+      "example": "She used a juice extractor to make fresh orange juice.",
+      "exampleTranslation": "她用榨汁机榨了新鲜的橙汁。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data extractor",
+      "meaning": "数据提取工具",
+      "example": "The data extractor pulled information from the database quickly.",
+      "exampleTranslation": "数据提取工具快速从数据库中提取信息。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The kitchen extractor fan effectively removes odors and steam.",
+      "translation": "厨房的抽油烟机有效地去除异味和蒸汽。",
+      "source": "Daily household contexts, e.g., from British National Corpus (BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, an extractor is essential for handling compressed files.",
+      "translation": "在软件开发中，提取器对于处理压缩文件至关重要。",
+      "source": "Technical manuals, e.g., from Corpus of Contemporary American English (COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The mechanic installed a new oil extractor to maintain the engine.",
+      "translation": "机械师安装了一个新的油提取器来维护引擎。",
+      "source": "Industrial contexts, e.g., from engineering literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "extract",
+        "meaning": "To draw out",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'extrahere'，意思是 '抽出' 或 '提取'。在英语中，从中世纪晚期开始演变为名词形式，用于指代用于提取的工具或装置，随着工业革命的推进，其含义扩展到机械和数字领域。",
+    "firstKnownUse": "约 15 世纪",
+    "relatedWords": [
+      "extract",
+      "extraction",
+      "extricate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (中等难度，因为包含辅音集群如 /str/，对中文母语者可能需要练习)",
+    "spellingDifficulty": "4 (相对直接，但容易与 'extract' 混淆)",
+    "meaningComplexity": "6 (语义多样，涉及不同领域，如机械或数字)",
+    "usageComplexity": "5 (常见于技术语境，但需理解搭配)",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法将 'extractor' 与其功能图像关联，如想象抽油烟机抽走烟雾；重复暴露法通过多领域例句强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "remover",
+        "similarity": "0.7",
+        "context": "适用于去除物质的语境，如清洁工具"
+      },
+      {
+        "word": "puller",
+        "similarity": "0.6",
+        "context": "在机械或物理提取的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inserter",
+        "context": "适用于添加或插入的语境，如在制造过程中"
+      },
+      {
+        "word": "compressor",
+        "context": "适用于压缩或压紧的语境"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "device"
+    ],
+    "hyponyms": [
+      "juice extractor",
+      "data extractor"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + extractor",
+        "examples": [
+          "oil extractor",
+          "vacuum extractor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Extractor + verb",
+        "examples": [
+          "extractor operates",
+          "extractor functions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和效率，通常与工业化社会相关，但在中文文化中可能更侧重实用性，如厨房设备。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于数字和技术语境，如软件工具",
+        "usage": "在美式英语中，常见于科技行业报告"
+      },
+      {
+        "region": "英国",
+        "variation": "更常用于家居和机械语境，如厨房抽气扇",
+        "usage": "在英式英语中，强调日常实用性"
+      }
+    ],
+    "historicalContext": "与工业革命相关，19 世纪的英国和美国机械发明推动了该词的使用；在现代，关联数字时代的数据处理。",
+    "modernUsage": "在社交媒体和在线平台上，常见于产品评论和科技讨论，如 TikTok 或 Reddit 中的设备推荐"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个厨房场景，其中一个风扇状设备像吸尘器一样抽出烟雾。",
+      "keyElements": [
+        "风扇",
+        "抽出",
+        "设备"
+      ],
+      "emotionalConnection": "联结到个人烹饪经历的挫败感，如烟雾弥漫时使用提取器的解脱"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Extract + or = 像 'extract' 的动作加上 'or' 声音，联想为 'or' 像抽取东西的动作。",
+        "explanation": "通过声音联想强化记忆，帮助中文母语者将音标与含义连接"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-T: Extract, eXtract, Tool",
+        "explanation": "使用首字母缩写结合视觉化，基于认知科学的分块编码"
+      }
+    ],
+    "wordAssociations": [
+      "extract",
+      "pull",
+      "machine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "extractors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + extractor",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The extractor works efficiently."
+        ]
+      },
+      {
+        "pattern": "Extractor + of + noun",
+        "description": "表示所属或类型的结构",
+        "examples": [
+          "Extractor of data from archives."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'extract'",
+        "correction": "Use 'extractor' for the noun form of the device",
+        "explanation": "中文母语者常混淆动词和名词形式，导致语法错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "由于英语复数规则，容易遗漏尾缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "daily life"
+    ],
+    "tags": [
+      "mechanical",
+      "digital",
+      "tool"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

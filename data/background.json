@@ -1,0 +1,294 @@
+{
+  "word": "background",
+  "phonetics": {
+    "british": "/ˈbækɡraʊnd/",
+    "american": "/ˈbækɡraʊnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The part of a scene, picture, or design that is furthest from the viewer or forms an area of less importance.",
+      "chineseTranslation": "背景（如场景或图片中较远的部分）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The circumstances or situation prevailing at a particular time or underlying a particular event.",
+      "chineseTranslation": "背景（指事件的上下文或情况）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person's social or professional origins and history.",
+      "chineseTranslation": "背景（指个人的社会或职业历史）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide with a background or to form a background for something.",
+      "chineseTranslation": "作为背景或提供背景",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the hidden or secondary execution of a process that does not interact directly with the user.",
+      "chineseTranslation": "后台（计算机术语，指后台进程）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the background",
+      "meaning": "在背景中，不引人注意",
+      "example": "She prefers to work in the background, avoiding the spotlight.",
+      "exampleTranslation": "她更喜欢在背景中工作，避免成为焦点。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "background check",
+      "meaning": "背景调查",
+      "example": "Employers often conduct a background check before hiring.",
+      "exampleTranslation": "雇主在雇用前经常进行背景调查。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "background noise",
+      "meaning": "背景噪音",
+      "example": "The background noise in the cafe made it hard to concentrate.",
+      "exampleTranslation": "咖啡馆里的背景噪音使集中注意力变得困难。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "family background",
+      "meaning": "家庭背景",
+      "example": "His family background influenced his career choices.",
+      "exampleTranslation": "他的家庭背景影响了他的职业选择。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist painted the mountains in the background of the portrait.",
+      "translation": "艺术家在肖像画的背景中画了山脉。",
+      "source": "Art literature (e.g., from descriptions in museum catalogs)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In her job interview, she discussed her educational background.",
+      "translation": "在求职面试中，她讨论了她的教育背景。",
+      "source": "Professional contexts (e.g., career advice articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The software runs in the background to update files automatically.",
+      "translation": "软件在后台运行以自动更新文件。",
+      "source": "Technology news (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Political tensions formed the background to the economic crisis.",
+      "translation": "政治紧张局势形成了经济危机的背景。",
+      "source": "News articles (e.g., from BBC or CNN)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "bak",
+        "meaning": "back",
+        "language": "Old English"
+      },
+      {
+        "root": "ground",
+        "meaning": "the solid surface of the earth",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的 'bakground'，最初指物理空间中的后部区域（如风景画中），逐渐扩展到比喻意义，如社会或历史情境的背景。在17世纪开始用于抽象概念，并在20世纪计算机术语中演变为 '后台'。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "foreground",
+      "backdrop",
+      "setting"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'background' 的不同含义分组记忆，例如先学习名词形式，再扩展到动词；通过视觉图像将词汇与个人经历关联，如回想一张照片的背景，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "setting",
+        "similarity": "0.8",
+        "context": "在描述故事或事件的环境时使用"
+      },
+      {
+        "word": "context",
+        "similarity": "0.7",
+        "context": "在学术或正式讨论中指外围情况"
+      },
+      {
+        "word": "backstory",
+        "similarity": "0.9",
+        "context": "在叙事文学中指人物的历史背景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "foreground",
+        "context": "强调主要元素，而非次要背景"
+      },
+      {
+        "word": "focus",
+        "context": "在注意力集中在核心事物时"
+      }
+    ],
+    "hypernyms": [
+      "environment",
+      "context"
+    ],
+    "hyponyms": [
+      "family background",
+      "educational background"
+    ],
+    "collocations": [
+      {
+        "pattern": "background + noun (e.g., background information)",
+        "examples": [
+          "background information",
+          "background music"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in the + background",
+        "examples": [
+          "in the background of the photo"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含个人身份和社会流动的概念，例如在英语国家，'background' 用于简历中反映阶级或教育影响，象征机会平等或阶层差异。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于社会阶级含义，如 'class background'",
+        "usage": "在正式场合如学术讨论中常见"
+      },
+      {
+        "region": "美国",
+        "variation": "更强调移民或多样性背景，如 'cultural background'",
+        "usage": "在多元文化语境中用于促进包容"
+      }
+    ],
+    "historicalContext": "在工业革命后的英国文学中（如狄更斯的作品），'background' 与社会背景相关，反映了阶级斗争；在美国，20世纪移民浪潮中，该词用于描述文化融合。",
+    "modernUsage": "在社交媒体如Twitter或Instagram上，常用于标签#backgroundcheck，反映隐私和安全趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个舞台场景，其中 'background' 是舞台后面的部分，人物在前面表演。",
+      "keyElements": [
+        "舞台",
+        "人物",
+        "后部区域"
+      ],
+      "emotionalConnection": "联结到个人经历，如回想童年照片的背景，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'background' 联想为 'back' + 'ground'，想象返回（back）到地面（ground）的场景。",
+        "explanation": "通过空间联想增强视觉记忆，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "B-A-C-K G-R-O-U-N-D 代表 'Back Area Creates Knowledge Ground'",
+        "explanation": "使用首字母缩写创建故事，帮助中间水平学习者巩固词汇"
+      }
+    ],
+    "wordAssociations": [
+      "backdrop",
+      "setting",
+      "history"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "backgrounds",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + background + [of + noun]",
+        "description": "用作名词时，常与限定词和介词短语结合",
+        "examples": [
+          "the background of the story"
+        ]
+      },
+      {
+        "pattern": "Verb usage: background + object",
+        "description": "作为动词时，表示提供背景",
+        "examples": [
+          "They backgrounded the issue in the report"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'back ground' as two words",
+        "correction": "Always write as one word 'background'",
+        "explanation": "这是英语复合词的常见错误，源自历史拼写演变"
+      },
+      {
+        "mistake": "Using as verb without context",
+        "correction": "Ensure proper context for verb form",
+        "explanation": "动词形式较少见，可能导致在非技术语境中的误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "technology",
+      "social sciences",
+      "arts"
+    ],
+    "tags": [
+      "abstract concepts",
+      "contextual",
+      "descriptive"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

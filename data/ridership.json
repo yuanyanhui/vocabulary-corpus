@@ -1,0 +1,245 @@
+{
+  "word": "ridership",
+  "phonetics": {
+    "british": "/ˈraɪdəʃɪp/",
+    "american": "/ˈraɪdərʃɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The total number of people who use a particular public transportation system or service over a given period.",
+      "chineseTranslation": "乘客量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or state of being a rider, often in the context of public or shared transport metrics.",
+      "chineseTranslation": "乘车者身份或状态",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "daily ridership",
+      "meaning": "每日乘客量",
+      "example": "The city's subway system reported an increase in daily ridership during the holiday season.",
+      "exampleTranslation": "这座城市的地铁系统报告假期期间每日乘客量有所增加。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "public transit ridership",
+      "meaning": "公共交通乘客量",
+      "example": "Factors like fare reductions can boost public transit ridership in urban areas.",
+      "exampleTranslation": "票价降低等因素可以提升城市地区的公共交通乘客量。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new bike-sharing program has significantly increased ridership in the downtown area.",
+      "translation": "新的共享单车计划显著增加了市中心地区的乘客量。",
+      "source": "Urban planning reports, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Despite the pandemic, overall ridership on buses and trains has started to recover.",
+      "translation": "尽管有大流行病，公共汽车和火车的整体乘客量已开始恢复。",
+      "source": "News articles, e.g., The New York Times",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "City officials are analyzing ridership data to optimize bus routes for better efficiency.",
+      "translation": "市政府官员正在分析乘客量数据，以优化公交路线提高效率。",
+      "source": "Academic papers, e.g., from BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "rider",
+        "meaning": "One who rides",
+        "language": "Old English (from 'ridan', meaning 'to ride')"
+      },
+      {
+        "root": "ship",
+        "meaning": "State or condition of",
+        "language": "Old English (from 'scipe', meaning 'shape or condition')"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'ridan'（骑乘），结合后缀 '-ship' 表示状态或身份，形成现代词汇 'ridership'，最初用于19世纪的交通语境中，逐渐演变为统计公共交通使用者的数量，反映了工业革命后城市化进程。",
+    "firstKnownUse": "Early 20th century, around 1900, in American English contexts related to railways.",
+    "relatedWords": [
+      "rider",
+      "leadership",
+      "membership"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word involves common vowel sounds like /aɪ/ which are straightforward for intermediate learners)",
+    "spellingDifficulty": "5 (out of 10, with potential confusion between 'rider' and 'ship' components, but no irregular spellings)",
+    "meaningComplexity": "6 (out of 10, as it requires understanding of contextual metrics in transportation, which may involve abstract concepts for second language learners)",
+    "usageComplexity": "5 (out of 10, typically used in formal reports, but straightforward in sentence structure)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'ridership' 与 'rider' 和 'ship' 分离记忆；使用图像联想，如想象公共汽车上的人群来强化语义关联；通过重复暴露于真实语料中提升记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "passenger volume",
+        "similarity": "0.8",
+        "context": "适用于统计公共交通使用量的语境，例如交通报告中"
+      },
+      {
+        "word": "usage rate",
+        "similarity": "0.7",
+        "context": "在更广泛的资源利用语境中，例如共享经济领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decline in users",
+        "context": "表示乘客量减少的语境，例如经济衰退时期"
+      },
+      {
+        "word": "low patronage",
+        "context": "在评估交通系统表现不佳的语境中"
+      }
+    ],
+    "hypernyms": [
+      "transportation metrics",
+      "usage statistics"
+    ],
+    "hyponyms": [
+      "bus ridership",
+      "train ridership"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + ridership (e.g., city ridership)",
+        "examples": [
+          "urban ridership",
+          "peak-hour ridership"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Ridership + verb (e.g., ridership increases)",
+        "examples": [
+          "Ridership fluctuates seasonally"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代城市文化中象征可持续交通和城市规划的效率，常隐含环境保护和社会公平的语义，例如在美国和欧洲，ridership 被视为衡量公共政策成功的关键指标。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于统计数据和政策讨论中",
+        "usage": "在美国语境中，常与地铁或巴士系统相关，强调数据驱动决策"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向正式报告，使用类似 'passenger numbers'",
+        "usage": "在英国，ridership 常出现在交通政策文件中，但较少在日常对话中"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和20世纪城市化浪潮相关，ridership 反映了从马车到现代公共交通的演变，在文学如狄更斯的作品中，间接体现为社会流动性主题。",
+    "modernUsage": "在社交媒体和新闻中，ridership 常讨论疫情后交通恢复趋势，例如Twitter上的实时数据分享，或环保运动中推广公共交通。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拥挤的公交车站，成群的人在排队上车，代表 'ridership' 的动态场景。",
+      "keyElements": [
+        "公交车",
+        "人群",
+        "计数器"
+      ],
+      "emotionalConnection": "联结个人经验，如回想在北京或纽约的地铁高峰期，触发熟悉感和紧迫感以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'ridership' 联想为 'rider + ship'，想象一群骑手在船上，表示多人乘载。",
+        "explanation": "通过视觉联想增强词汇与概念的连接，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "R-I-D-E-R-S-H-I-P: Ride In Daily, Everyone Rides Safely, Hop In Public.",
+        "explanation": "使用首字母缩略法创建故事，帮助构建叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "passenger",
+      "traffic",
+      "commute",
+      "statistics"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "riderships (though rarely used, as it is often uncountable)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + ridership",
+        "description": "作为主语或宾语的句法结构，常用于描述数量变化",
+        "examples": [
+          "Ridership has grown rapidly."
+        ]
+      },
+      {
+        "pattern": "Adjective + ridership",
+        "description": "用形容词修饰以强调特征",
+        "examples": [
+          "High ridership indicates success."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'leadership'",
+        "correction": "Use 'ridership' for transportation context",
+        "explanation": "错误源于语音相似，学习者应注意语境区分"
+      },
+      {
+        "mistake": "Treating as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "ridership 是名词，非动词，避免在句中误用为动作"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; ranked around 15,000 in COCA corpus",
+    "domains": [
+      "transportation",
+      "urban planning",
+      "economics"
+    ],
+    "tags": [
+      "noun",
+      "metrics",
+      "public services"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

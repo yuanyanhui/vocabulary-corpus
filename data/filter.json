@@ -1,0 +1,280 @@
+{
+  "word": "filter",
+  "phonetics": {
+    "british": "/ˈfɪl.tə/",
+    "american": "/ˈfɪl.tɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or material used to separate solids from liquids or gases by allowing the liquid or gas to pass through while retaining the solids.",
+      "chineseTranslation": "过滤器",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a program or routine that processes data to select or exclude certain items based on specified criteria.",
+      "chineseTranslation": "筛选器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To pass a substance through a filter in order to remove impurities or unwanted elements.",
+      "chineseTranslation": "过滤",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To select or exclude data based on specific criteria, often in digital contexts.",
+      "chineseTranslation": "筛选",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "filter out",
+      "meaning": "过滤掉不想要的部分",
+      "example": "You need to filter out the background noise to hear the speaker clearly.",
+      "exampleTranslation": "你需要过滤掉背景噪音才能清楚地听到演讲者。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "oil filter",
+      "meaning": "用于过滤油的装置",
+      "example": "The mechanic replaced the oil filter in the car engine.",
+      "exampleTranslation": "机械师更换了汽车引擎中的油过滤器。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "water filter",
+      "meaning": "用于净化水的过滤装置",
+      "example": "Install a water filter under the sink to improve drinking water quality.",
+      "exampleTranslation": "在水槽下安装一个水过滤器来改善饮用水质量。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The coffee maker has a built-in filter to remove grounds from the brew.",
+      "translation": "咖啡机有一个内置过滤器来去除咖啡渣。",
+      "source": "Daily life context, e.g., from household appliance manuals",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In photography, a polarizing filter can enhance colors and reduce glare.",
+      "translation": "在摄影中，偏光过滤器可以增强颜色并减少反光。",
+      "source": "Technical writing, e.g., from photography guides like those in National Geographic",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media algorithms filter content based on user preferences and engagement.",
+      "translation": "社交媒体算法根据用户偏好和互动来筛选内容。",
+      "source": "Modern digital media, e.g., from articles in The New York Times",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Scientists use filters to analyze data sets in climate research.",
+      "translation": "科学家们在气候研究中使用过滤器来分析数据集。",
+      "source": "Academic literature, e.g., from scientific journals like Nature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "filtrum",
+        "meaning": "felt or cloth used for straining",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 filtrum（意为毛毡或用于过滤的布料）演变而来，通过古法语 filtere 传入中世纪英语，最终在现代英语中扩展到 broader 应用，如数字筛选和光线过滤。该词在 14 世纪开始用于液体过滤，17 世纪扩展到科学和技术领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "filtrate",
+      "filtration",
+      "filterable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 5,
+    "usageComplexity": 4,
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'filter' 的不同含义分组，例如先学习名词形式再到动词形式，以减少认知负荷；",
+      "使用双编码（dual coding）方法，将词汇与视觉图像配对，如想象一个咖啡过滤器来强化记忆；",
+      "基于斯宾塞-范·特龙克学习理论，定期复习 'filter' 在不同语境中的使用，以巩固长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sieve",
+        "similarity": 0.8,
+        "context": "适用于物理过滤语境，如液体分离"
+      },
+      {
+        "word": "screen",
+        "similarity": 0.7,
+        "context": "适用于数字或视觉筛选语境，如内容过滤"
+      },
+      {
+        "word": "strain",
+        "similarity": 0.6,
+        "context": "适用于去除杂质的语境，如化学过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "contaminate",
+        "context": "在过滤语境中，表示增加杂质而非去除"
+      },
+      {
+        "word": "mix",
+        "context": "在筛选语境中，表示混合而非分离"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "process"
+    ],
+    "hyponyms": [
+      "air filter",
+      "email filter"
+    ],
+    "collocations": [
+      {
+        "pattern": "filter + noun (e.g., filter water)",
+        "examples": [
+          "filter water",
+          "filter coffee"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + filter (e.g., use a filter)",
+        "examples": [
+          "apply a filter",
+          "install a filter"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征净化和选择，常用于隐喻社会或数字环境中的信息筛选，例如在民主社会中，'filter bubble' 代表算法导致的信息回音室效应，强调媒体素养的重要性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件过滤",
+        "usage": "在美国英语中，'filter' 经常出现在科技和日常消费品中，例如手机应用过滤"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向传统物理意义",
+        "usage": "在英国英语中，'filter' 常用于交通语境，如 'filter lane' 表示合并车道"
+      }
+    ],
+    "historicalContext": "与工业革命相关的过滤技术在欧洲发展，影响了现代科学和文化；在文学中，如狄更斯的作品中，'filter' 象征社会阶层过滤。",
+    "modernUsage": "在当代社交媒体中，'filter' 指Instagram等平台的美容工具，反映了数字时代对理想化的追求和文化多样性挑战。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个漏斗状的过滤器，将浊水转化为清澈水流，同时屏幕上显示数据筛选过程。",
+      "keyElements": [
+        "漏斗形状",
+        "水流变化",
+        "数字图标"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用家用过滤器的时刻，触发安全和纯净的情绪，以增强记忆情感锚点。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'filter' as 'fil-ter' where 'fil' sounds like 'feel', imagining feeling clean water after filtering.",
+        "explanation": "通过声音联想和感官记忆，结合多模态学习原理，帮助学习者将词汇与触觉体验连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "F-I-L-T-E-R: Fresh, In, Liquid, To, Extract, Residue.",
+        "explanation": "使用首字母缩写记忆关键含义，基于艾宾浩斯遗忘曲线的间隔重复策略。"
+      }
+    ],
+    "wordAssociations": [
+      "sieve",
+      "purify",
+      "screen",
+      "select"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "filters",
+      "pastTense": "filtered",
+      "pastParticiple": "filtered",
+      "presentParticiple": "filtering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., We filter the water)",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作过程。",
+        "examples": [
+          "We filter the data daily."
+        ]
+      },
+      {
+        "pattern": "Noun + preposition + filter (e.g., through a filter)",
+        "description": "名词 + 介词 + 过滤器结构，用于表示工具或方式。",
+        "examples": [
+          "The light passes through a filter."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'filter' as an adjective without modification",
+        "correction": "Use 'filtered' as the adjective form",
+        "explanation": "学习者常错误地将 'filter' 用作形容词；正确形式为 'filtered water'，以符合英语词性转换规则。"
+      },
+      {
+        "mistake": "Confusing with 'filler'",
+        "correction": "Distinguish by context and spelling",
+        "explanation": "'Filler' 意为填充物，与 'filter' 发音相似但含义不同；注意语境以避免混淆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "science",
+      "daily life",
+      "computing"
+    ],
+    "tags": [
+      "tool",
+      "process",
+      "purification",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

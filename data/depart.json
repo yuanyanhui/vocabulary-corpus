@@ -1,0 +1,243 @@
+{
+  "word": "depart",
+  "phonetics": {
+    "british": "/dɪˈpɑːt/",
+    "american": "/dɪˈpɑrt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to leave a place, especially to begin a journey",
+      "chineseTranslation": "离开，出发",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to deviate from a standard or expected course",
+      "chineseTranslation": "偏离，脱离",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "depart from",
+      "meaning": "从某处离开或出发",
+      "example": "The flight departs from Gate 12.",
+      "exampleTranslation": "航班从12号登机口出发。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "depart for",
+      "meaning": "前往某地",
+      "example": "They departed for Paris at dawn.",
+      "exampleTranslation": "他们黎明时分前往巴黎。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The train departs from the station at 8 AM sharp.",
+      "translation": "火车在早上8点准时从车站出发。",
+      "source": "Transportation announcement (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In his speech, the speaker departed from the script to address current events.",
+      "translation": "在他的演讲中，演讲者偏离了稿子来讨论时事。",
+      "source": "News article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "We must depart now if we want to catch the last ferry.",
+      "translation": "如果我们想赶上最后一班渡轮，我们必须现在就离开。",
+      "source": "Daily conversation (e.g., from everyday English corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "departir",
+        "meaning": "to divide or separate",
+        "language": "Old French"
+      },
+      {
+        "root": "dispartire",
+        "meaning": "to divide into parts",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'dispartire'，意为分开或分配，在中世纪法语中演变为 'departir'，用于表示分离或离开的过程。到14世纪英语中，扩展到旅行和偏离的含义，反映了中世纪社会中旅行和分隔的常见主题。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "departure",
+      "department",
+      "part"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学原理，使用重复暴露法将 'depart' 与个人旅行记忆关联；例如，通过Spaced Repetition System (SRS) 重复练习发音和用法，以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "leave",
+        "similarity": "0.85",
+        "context": "在日常对话中，表示从地点离开"
+      },
+      {
+        "word": "set off",
+        "similarity": "0.75",
+        "context": "在非正式语境中，用于开始旅程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "arrive",
+        "context": "在交通或旅行语境中，表示到达而非离开"
+      },
+      {
+        "word": "stay",
+        "context": "在决策语境中，表示逗留而非偏离"
+      }
+    ],
+    "hypernyms": [
+      "go"
+    ],
+    "hyponyms": [
+      "embark",
+      "set sail"
+    ],
+    "collocations": [
+      {
+        "pattern": "depart from [location]",
+        "examples": [
+          "The ship departs from the harbor."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "depart on [journey]",
+        "examples": [
+          "They departed on a road trip."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常象征分离或新开始，特别是在文学和旅行叙事中隐含情感，如莎士比亚作品中对离别的描写，体现西方文化对个人冒险的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式交通用语",
+        "usage": "在英国英语中，常用于火车或航班公告，如 'The service departs promptly.'"
+      },
+      {
+        "region": "美国",
+        "variation": "更灵活，融入日常口语",
+        "usage": "在美国英语中，可能在非正式场合使用，如 'Let's depart early to avoid traffic.'"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的航海和探险时代相关，如在乔叟的作品中出现，反映社会流动性增加的背景。",
+    "modernUsage": "在当代社交媒体和全球旅行语境中流行，例如机场应用或在线预订系统中，用于快速沟通，体现全球化下的文化融合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一辆火车从车站缓缓离开，烟雾缭绕。",
+      "keyElements": [
+        "火车",
+        "车站",
+        "离开动作"
+      ],
+      "emotionalConnection": "联结到个人首次旅行的兴奋或离别感，以激发情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'depart' 联想为 'deep part'，想象深入旅程的一部分。",
+        "explanation": "通过声音和视觉联想，利用认知科学中的双编码理论（dual coding），将听觉和图像结合以提升记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-P-A-R-T：Direction, Exit, Path, Adventure, Route, Travel。",
+        "explanation": "使用首字母缩略法，基于Elaborative Rehearsal原则，将词汇分解为相关概念，促进深度加工。"
+      }
+    ],
+    "wordAssociations": [
+      "leave",
+      "journey",
+      "exit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "departed",
+      "pastParticiple": "departed",
+      "presentParticiple": "departing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + depart + from + object",
+        "description": "主语 + 动词 + from + 地点，表示从某处离开",
+        "examples": [
+          "The plane departs from the airport."
+        ]
+      },
+      {
+        "pattern": "Subject + depart + adverbial phrase",
+        "description": "主语 + 动词 + 状语短语，表示时间或方式",
+        "examples": [
+          "We departed quietly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Depart to somewhere",
+        "correction": "Depart from somewhere",
+        "explanation": "错误使用 'to' 而非 'from'，因为 'depart' 强调起点而非终点；基于语料库数据，这是初级学习者常见的介词错误。"
+      },
+      {
+        "mistake": "Departed is a noun",
+        "correction": "Departed is primarily a verb or adjective",
+        "explanation": "混淆词性，常因缺乏语境分析；建议通过句子练习区分。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 3500 in COCA corpus",
+    "domains": [
+      "Travel",
+      "Transportation",
+      "Business",
+      "Literature"
+    ],
+    "tags": [
+      "verb",
+      "movement",
+      "action"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

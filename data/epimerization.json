@@ -1,0 +1,230 @@
+{
+  "word": "epimerization",
+  "phonetics": {
+    "british": "/ɪˌpɪməraɪˈzeɪʃən/",
+    "american": "/ɪˌpɪmərəˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The chemical process by which one epimer is converted into another, typically involving the inversion of configuration at a specific chiral center in a molecule.",
+      "chineseTranslation": "表异构化",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acid-catalyzed epimerization",
+      "meaning": "酸催化表异构化",
+      "example": "Acid-catalyzed epimerization is commonly used in carbohydrate chemistry.",
+      "exampleTranslation": "酸催化表异构化在碳水化合物化学中很常见。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "base-induced epimerization",
+      "meaning": "碱诱导表异构化",
+      "example": "Base-induced epimerization can lead to racemization in certain compounds.",
+      "exampleTranslation": "碱诱导表异构化可能导致某些化合物的外消旋化。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Epimerization of D-glucose under alkaline conditions produces D-mannose.",
+      "translation": "D-葡萄糖在碱性条件下发生表异构化产生D-甘露糖。",
+      "source": "Chemistry textbook (e.g., Organic Chemistry by Clayden)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In biochemistry, epimerization plays a key role in the interconversion of sugars.",
+      "translation": "在生物化学中，表异构化在糖类互变中发挥关键作用。",
+      "source": "Scientific article (e.g., from Journal of Biological Chemistry)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The epimerization process requires specific enzymes in metabolic pathways.",
+      "translation": "表异构化过程在代谢途径中需要特定的酶。",
+      "source": "Academic lecture notes",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "epi-",
+        "meaning": "upon or above",
+        "language": "Greek"
+      },
+      {
+        "root": "meros",
+        "meaning": "part (as in isomer)",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'epi-'（意为“在…之上”）和 'meros'（意为“部分”），通过“epimer”一词发展而来，该词最初用于描述立体异构体中的一种。随后，在19世纪化学发展中，特别是在立体化学的兴起中，演变为表示一种特定的异构化过程，即在手性中心处构型的翻转。从词源到现代，epimerization 已成为有机化学和生物化学中的标准术语。",
+    "firstKnownUse": "Early 20th century (circa 1920s)",
+    "relatedWords": [
+      "epimer",
+      "isomerization",
+      "racemization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (根据 CEFR 标准，适合高级学习者，因为它涉及专业科学术语)",
+    "pronunciationDifficulty": "6 (1-10 规模；由于包含多个音节和元音组合，如 /aɪˈzeɪʃən/，对中文母语者可能造成发音混淆)",
+    "spellingDifficulty": "7 (1-10 规模；长词根和后缀容易拼写错误，尤其是在科学背景下)",
+    "meaningComplexity": "8 (1-10 规模；语义依赖化学知识，涉及抽象的立体化学概念)",
+    "usageComplexity": "7 (1-10 规模；主要限于技术语境，需理解特定科学背景)",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法将词汇分解为 'epi-' 和 '-merization'，并与熟悉的化学概念关联；使用视觉辅助如分子模型图来加强语义记忆；通过重复性练习和间隔复习，优化海马体对专业术语的保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "isomerization",
+        "similarity": "0.7",
+        "context": "适用于更广泛的异构过程语境中，例如在有机合成中"
+      },
+      {
+        "word": "mutarotation",
+        "similarity": "0.6",
+        "context": "特别在糖类化学中，指环形和开链形式的互变"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "racemization",
+        "context": "虽然相关，但 racemization 涉及完全外消旋，而 epimerization 只影响特定手性中心"
+      }
+    ],
+    "hypernyms": [
+      "isomerization"
+    ],
+    "hyponyms": [
+      "carbohydrate epimerization"
+    ],
+    "collocations": [
+      {
+        "pattern": "epimerization of [substance]",
+        "examples": [
+          "epimerization of glucose"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[catalyst]-catalyzed epimerization",
+        "examples": [
+          "acid-catalyzed epimerization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征现代化学的精确性和创新，尤其在制药和生物技术领域代表分子操控的技术进步；在跨文化语境中，它反映了全球科学合作的隐含语义，但对非科学背景的中文学习者可能缺乏直接文化关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和工业语境中",
+        "usage": "在美国英语中，常见于化学教育和专利文件中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在语音上略有差异",
+        "usage": "在英国英语中，常见于科学出版物，如皇家化学协会的期刊"
+      }
+    ],
+    "historicalContext": "与19世纪末立体化学的兴起相关联，例如路易斯·巴斯德的工作；在中国文化中，与现代科学引进相连，体现20世纪教育改革。",
+    "modernUsage": "在社交媒体和在线教育平台上，epimerization 出现在科学传播中，如YouTube教程或Twitter上的学术讨论，趋势显示其在STEM教育中的普及。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个分子如葡萄糖在实验室中翻转手性中心，就如一个旋转的拼图块。",
+      "keyElements": [
+        "分子模型",
+        "翻转动作",
+        "实验室场景"
+      ],
+      "emotionalConnection": "联结到个人经历，如解决谜题的兴奋感，以强化记忆痕迹"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Epi-merization 像 'Epi' 的故事（希腊神话中的 'upon') 加 'merization' 像合并变化。",
+        "explanation": "通过视觉联想将词根与故事连接，基于认知科学中的双编码理论，提高长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪˌpɪməraɪˈzeɪʃən/ 听起来像 'epic mirror station'，想象一面镜子反射分子。",
+        "explanation": "利用声音与图像的联结，增强海马体加工"
+      }
+    ],
+    "wordAssociations": [
+      "epimer",
+      "isomer",
+      "glucose",
+      "chemistry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject in scientific sentences",
+        "description": "作为主语用于描述过程的句子中",
+        "examples": [
+          "Epimerization occurs rapidly in this reaction."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with 'of'",
+        "description": "与 'of' 短语结合表示具体对象",
+        "examples": [
+          "The epimerization of the compound was observed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'isomerization'",
+        "correction": "Use 'epimerization' for specific chiral inversion",
+        "explanation": "epimerization 仅涉及特定手性中心，而 isomerization 更广泛"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɛpɪməraɪzeɪʃən/",
+        "correction": "/ɪˌpɪməraɪˈzeɪʃən/",
+        "explanation": "元音错误可能源于母语干扰，需练习音节强调"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (COCA corpus rank: approximately 99,999; not in top 10,000 words)",
+    "domains": [
+      "science",
+      "chemistry",
+      "biochemistry"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "organic chemistry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

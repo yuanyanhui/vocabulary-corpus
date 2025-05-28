@@ -1,0 +1,280 @@
+{
+  "word": "circuit",
+  "phonetics": {
+    "british": "/ˈsɜː.kɪt/",
+    "american": "/ˈsɝː.kət/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A closed path or loop through which an electric current flows.",
+      "chineseTranslation": "电路",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A regular or scheduled journey or route, often in a loop, such as in racing or legal proceedings.",
+      "chineseTranslation": "巡回路线",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An established series of events or places visited in a sequence, like a performance tour.",
+      "chineseTranslation": "巡回表演或系列活动",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move in a circuit or make a circular journey.",
+      "chineseTranslation": "绕行；巡回",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "closed circuit",
+      "meaning": "封闭电路",
+      "example": "The security system uses a closed circuit to monitor the premises.",
+      "exampleTranslation": "安全系统使用封闭电路来监控场所。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "integrated circuit",
+      "meaning": "集成电路",
+      "example": "Modern smartphones rely on advanced integrated circuits for processing power.",
+      "exampleTranslation": "现代智能手机依赖先进的集成电路来提供处理能力。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "short circuit",
+      "meaning": "短路",
+      "example": "A short circuit in the wiring caused the fire alarm to go off.",
+      "exampleTranslation": "线路中的短路导致火警响起。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "circuit board",
+      "meaning": "电路板",
+      "example": "The technician replaced the faulty circuit board in the computer.",
+      "exampleTranslation": "技术员更换了计算机中故障的电路板。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The electrical circuit in the house was overloaded, causing a power outage.",
+      "translation": "房子里的电路过载，导致停电。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Formula 1 drivers race around the circuit at high speeds during the Grand Prix.",
+      "translation": "一级方程式赛车手在 Grand Prix 期间以高速在赛道上行驶。",
+      "source": "Sports news (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The judge travels on the circuit to hear cases in rural areas.",
+      "translation": "法官在巡回路线上旅行，以审理农村地区的案件。",
+      "source": "Legal literature (e.g., from OED examples)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to circuit the park for her daily exercise routine.",
+      "translation": "她决定绕着公园散步作为日常锻炼。",
+      "source": "General fiction (e.g., from contemporary novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "circu",
+        "meaning": "围绕",
+        "language": "拉丁语"
+      },
+      {
+        "root": "itus",
+        "meaning": "去",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'circuitus'，意为'绕行或环绕'，在中世纪英语中演变为表示物理路径或旅行的意思，并在工业革命期间扩展到电气上下文。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "circulate",
+      "circumference",
+      "circuitous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 由于元音变化可能对中文母语者造成混淆)",
+    "spellingDifficulty": "3 (1-10, 拼写简单，但需注意双音节)",
+    "meaningComplexity": "6 (1-10, 多义词需要语境区分)",
+    "usageComplexity": "5 (1-10, 常用于技术语境，但基础句法易学)",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法，将词汇与视觉图像（如电路图）关联；重复暴露于不同语境以强化语义网络；针对中文母语者，强调元音发音差异以避免母语干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "loop",
+        "similarity": "0.8",
+        "context": "在电气或路径语境中，例如电路设计"
+      },
+      {
+        "word": "route",
+        "similarity": "0.7",
+        "context": "在旅行或巡回语境中，例如赛车路线"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "straight line",
+        "context": "与环形路径相对，在几何或路径规划中"
+      },
+      {
+        "word": "dead end",
+        "context": "表示无循环的路径，在导航语境中"
+      }
+    ],
+    "hypernyms": [
+      "path",
+      "system"
+    ],
+    "hyponyms": [
+      "electrical circuit",
+      "racing circuit"
+    ],
+    "collocations": [
+      {
+        "pattern": "circuit + noun (e.g., circuit board)",
+        "examples": [
+          "an integrated circuit board"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + circuit (e.g., break a circuit)",
+        "examples": [
+          "to short a circuit"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和效率，尤其在电子工程领域；隐含语义包括循环与重复的主题，在文学中常用于描述人生循环。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于体育语境，如 'motor racing circuit'",
+        "usage": "在英国英语中，常与历史赛事相关联，如 Silverstone Circuit"
+      },
+      {
+        "region": "美国",
+        "variation": "更强调技术应用，如 'circuit court' 在法律系统中",
+        "usage": "在美国英语中，与日常科技和法律语境紧密结合"
+      }
+    ],
+    "historicalContext": "在工业革命期间，该词与蒸汽机和电气化相关联；在现代，体现于数字时代如互联网电路。",
+    "modernUsage": "在社交媒体和科技语境下，常见于讨论电子产品或虚拟巡回事件，如在线会议"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个圆圈状的跑道，里面有电线连接成回路。",
+      "keyElements": [
+        "圆圈",
+        "电线",
+        "跑道"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时玩电子玩具的兴奋感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Circuit 像 'circle it'，表示绕圈。",
+        "explanation": "通过声音和视觉联想帮助记忆词汇的多义性"
+      },
+      {
+        "type": "缩略",
+        "content": "C-I-R-C-U-I-T: Circle In Round Circle Under Infinite Track",
+        "explanation": "使用首字母缩写结合图像以强化认知路径"
+      }
+    ],
+    "wordAssociations": [
+      "loop",
+      "wire",
+      "race",
+      "path"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "circuits",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: 'the circuit'",
+        "description": "用作名词，表示具体路径或系统",
+        "examples": [
+          "The circuit operates efficiently."
+        ]
+      },
+      {
+        "pattern": "Verb usage: 'to circuit'",
+        "description": "用作动词，表示绕行",
+        "examples": [
+          "They circuit the area daily."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'circuit' with 'circus'",
+        "correction": "Use 'circuit' for paths or systems",
+        "explanation": "中文母语者可能因发音相似而混淆，确保语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural",
+        "explanation": "英语名词规则简单，但需练习以避免遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "体育",
+      "法律"
+    ],
+    "tags": [
+      "电子学",
+      "路径",
+      "循环"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

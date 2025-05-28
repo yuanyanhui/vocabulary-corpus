@@ -1,0 +1,264 @@
+{
+  "word": "header",
+  "phonetics": {
+    "british": "/ˈhɛd.ər/",
+    "american": "/ˈhɛd.ɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The top section of a page or document that contains information such as titles, dates, or page numbers.",
+      "chineseTranslation": "页眉",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a block of data at the beginning of a file, message, or protocol that provides metadata or control information.",
+      "chineseTranslation": "标题（计算机术语）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports, such as soccer, the act of hitting the ball with one's head.",
+      "chineseTranslation": "头球",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To strike or play (a ball) with the head, as in soccer.",
+      "chineseTranslation": "用头击球",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "header file",
+      "meaning": "头文件",
+      "example": "You need to include the header file to use the library functions.",
+      "exampleTranslation": "你需要包含头文件来使用库函数。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "email header",
+      "meaning": "电子邮件标题部分",
+      "example": "The email header includes details like the subject and sender.",
+      "exampleTranslation": "电子邮件标题部分包括主题和发送者等细节。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "page header",
+      "meaning": "页面页眉",
+      "example": "Designers often customize the page header for better readability.",
+      "exampleTranslation": "设计师经常自定义页面页眉以提高可读性。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The document's header displays the company logo and date.",
+      "translation": "文档的页眉显示公司标志和日期。",
+      "source": "Business writing (e.g., corporate reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the code, the header contains essential metadata for the program.",
+      "translation": "在代码中，标题部分包含程序的基本元数据。",
+      "source": "Technical documentation (e.g., programming forums)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He scored a brilliant header in the final minutes of the game.",
+      "translation": "他在比赛最后几分钟打入了一个精彩的头球。",
+      "source": "Sports commentary (e.g., BBC Sports)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Web developers must ensure the HTTP header is properly configured for security.",
+      "translation": "网页开发者必须确保HTTP标题部分正确配置以保障安全。",
+      "source": "Online tutorials (e.g., tech blogs)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "heafod",
+        "meaning": "head",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'heafod'（意为头部）演变而来，最初用于指物体的前端或顶部部分；到中世纪英语时期扩展到文件或文档的顶部；17世纪起在技术语境中用于计算和通信，以表示起始部分。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "head",
+      "header in architecture"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "将词汇与 'head' 关联，利用认知联想来记忆多重含义；通过视觉化练习，如画出页面结构，帮助强化语境记忆；结合间隔重复法（spaced repetition）来处理技术语境下的使用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "title",
+        "similarity": "0.7",
+        "context": "在文档或网页中，表示顶部信息"
+      },
+      {
+        "word": "banner",
+        "similarity": "0.6",
+        "context": "在设计或广告语境中，表示视觉顶部元素"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "footer",
+        "context": "在文档中，适用于底部信息"
+      }
+    ],
+    "hypernyms": [
+      "section",
+      "component"
+    ],
+    "hyponyms": [
+      "page header",
+      "email header",
+      "HTTP header"
+    ],
+    "collocations": [
+      {
+        "pattern": "at the top of",
+        "examples": [
+          "The header is at the top of the page."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "include in code",
+        "examples": [
+          "Include the header in your program."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征组织和结构的起点，常用于专业环境如出版和科技，无特定隐含语义，但反映了西方对信息分类的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "与美国英语类似，但更常用于体育语境如足球",
+        "usage": "在英国英语中，'header' 在足球文化中更流行，例如在BBC报道中"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术语境，如软件开发",
+        "usage": "在美国英语中，常与计算相关联，例如在硅谷公司文档中"
+      }
+    ],
+    "historicalContext": "与印刷术和数字革命相关，起源于中世纪手稿的页面布局，并于20世纪扩展到计算领域，体现了工业革命后信息组织的演变。",
+    "modernUsage": "在社交媒体和数字平台上流行，如Twitter标题或网页设计，反映了当代全球数字文化的快速传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件页面，顶部有一个皇冠般的装饰，表示 'header' 如头部的王冠。",
+      "keyElements": [
+        "顶部",
+        "皇冠",
+        "头部"
+      ],
+      "emotionalConnection": "联结到个人经验，如观看足球比赛时的兴奋，触发对 'header' 在体育中的记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Header 听起来像 'head-er'，就像头部的扩展。",
+        "explanation": "通过声音联想将词汇与 'head' 连接，利用认知科学中的双编码效应（dual coding）来增强记忆。"
+      },
+      {
+        "type": "visualization",
+        "content": "画一个页面，顶部写着 'header'，底部写着 'footer'。",
+        "explanation": "使用空间记忆技巧，帮助区分相关词汇，避免混淆。"
+      }
+    ],
+    "wordAssociations": [
+      "head",
+      "top",
+      "title",
+      "banner"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "headers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "用作名词的主语或宾语结构",
+        "examples": [
+          "The header provides key information."
+        ]
+      },
+      {
+        "pattern": "Verb in action",
+        "description": "用作动词的句法结构，常与体育相关",
+        "examples": [
+          "He will header the ball towards the goal."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'header' with 'heder' or misusing in technical contexts",
+        "correction": "Use 'header' correctly as per context",
+        "explanation": "错误源于拼写相似或语境混淆；建议通过语境练习避免。"
+      },
+      {
+        "mistake": "Using as verb without proper object",
+        "correction": "Always pair with an object, e.g., 'header the ball'",
+        "explanation": "动词形式需要直接宾语，以符合英语句法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus for technical domains)",
+    "domains": [
+      "Computing",
+      "Publishing",
+      "Sports"
+    ],
+    "tags": [
+      "Technology",
+      "Document",
+      "Sports terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

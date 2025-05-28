@@ -1,0 +1,226 @@
+{
+  "word": "creepage",
+  "phonetics": {
+    "british": "/ˈkriːpɪdʒ/",
+    "american": "/ˈkripɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The shortest path along the surface of a solid insulating material between two conductive parts, often used in electrical engineering to prevent current leakage.",
+      "chineseTranslation": "爬电距离",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "creepage distance",
+      "meaning": "爬电距离",
+      "example": "Engineers must calculate the creepage distance to ensure safety in high-voltage circuits.",
+      "exampleTranslation": "工程师必须计算爬电距离，以确保高压电路的安全。",
+      "frequency": "medium in technical contexts"
+    },
+    {
+      "phrase": "minimum creepage",
+      "meaning": "最小爬电距离",
+      "example": "The standard specifies a minimum creepage of 6mm for outdoor electrical equipment.",
+      "exampleTranslation": "标准规定户外电气设备的最小爬电距离为6mm。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the design of circuit boards, creepage plays a vital role in preventing short circuits.",
+      "translation": "在电路板设计中，爬电在防止短路方面发挥着重要作用。",
+      "source": "Engineering textbook (e.g., from IEEE standards)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Failure to account for creepage can lead to electrical failures in humid environments.",
+      "translation": "未能考虑爬电可能导致潮湿环境中的电气故障。",
+      "source": "Technical report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The creepage requirements are outlined in international safety regulations like IEC 60950.",
+      "translation": "爬电要求在国际安全法规如IEC 60950中有所规定。",
+      "source": "Professional standards document",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "creep",
+        "meaning": "to move slowly or stealthily",
+        "language": "Old English (from Proto-Germanic *kreupanan)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语'creopan'，意为缓慢移动，逐渐演变为现代技术术语，在19世纪电气工程兴起时用于描述电流沿绝缘表面路径的泄漏现象。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "creep",
+      "leakage",
+      "clearance"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，将词汇与视觉图像关联，例如想象电流像'爬行'的小虫子在表面移动；使用间隔重复法来强化记忆，避免混淆类似技术术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "clearance",
+        "similarity": "0.7",
+        "context": "在电学语境中，指导体之间通过空气的距离，与爬电的表面路径类似"
+      },
+      {
+        "word": "leakage path",
+        "similarity": "0.8",
+        "context": "强调潜在的电流泄漏路线，适用于安全评估场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "direct contact",
+        "context": "直接接触场景中，指导体无隔离，直接连接"
+      }
+    ],
+    "hypernyms": [
+      "distance",
+      "path"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "creepage distance",
+        "examples": [
+          "The creepage distance must comply with safety standards."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "minimum creepage",
+        "examples": [
+          "Regulations require a minimum creepage for high-voltage devices."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在技术领域象征安全和可靠性，尤其在电气工程中，体现了现代工业社会的风险管理文化，而非一般文化象征。",
+    "regionalVariations": [
+      {
+        "region": "国际（例如美国和欧洲）",
+        "variation": "术语标准化",
+        "usage": "在全球标准如IEC或UL中一致使用，可能在美国英语中更常与工程法规关联"
+      },
+      {
+        "region": "英国",
+        "variation": "较强调历史技术语境",
+        "usage": "在英国英语中，可能更多出现在历史电气文献中"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和电气化浪潮相关，特别是在西方文化中，体现了从机械到电子技术的演进。",
+    "modernUsage": "在现代社交媒体和技术论坛（如Reddit或LinkedIn）中，用于讨论电子产品安全趋势，跨文化传播强调全球标准化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个微小的电流像一条缓慢爬行的蚂蚁，在绝缘表面的路径上移动。",
+      "keyElements": [
+        "电流",
+        "绝缘表面",
+        "路径"
+      ],
+      "emotionalConnection": "联结到日常生活中的安全意识，例如担心电器故障，触发个人防范情绪以加强记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Creepage 听起来像 'creeping age'，想象时间缓慢'爬行'，类似于电流的移动。",
+        "explanation": "通过声音和视觉联想，利用认知科学中的双编码效应来提升词汇保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-R-E-E-P (Current Running on External Edge Path)",
+        "explanation": "创建缩写以分解词汇，结合语义联系，帮助中级学习者逐步构建记忆网络。"
+      }
+    ],
+    "wordAssociations": [
+      "creep",
+      "leak",
+      "distance",
+      "circuit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "creepages",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in prepositional phrase",
+        "description": "作为名词出现在短语中，描述特定距离或路径。",
+        "examples": [
+          "The engineer measured the creepage in the design."
+        ]
+      },
+      {
+        "pattern": "Subject in technical sentences",
+        "description": "用作句子主语，强调其重要性。",
+        "examples": [
+          "Creepage affects the overall safety of the device."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing creepage with clearance",
+        "correction": "Use creepage for surface paths and clearance for air gaps",
+        "explanation": "这两个术语在电学中指不同概念，混淆可能导致设计错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'creepages' for plural forms",
+        "explanation": "作为可数名词，需要正确添加复数后缀以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low; ranked below 50,000 in COCA corpus",
+    "domains": [
+      "Engineering",
+      "Electrical",
+      "Safety",
+      "Technology"
+    ],
+    "tags": [
+      "Technical",
+      "Science",
+      "Engineering terminology"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster",
+      "IEC Standards"
+    ]
+  }
+}

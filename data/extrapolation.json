@@ -1,0 +1,240 @@
+{
+  "word": "extrapolation",
+  "phonetics": {
+    "british": "/ɪkˌstræpəˈleɪʃən/",
+    "american": "/ɪkˌstræpəˈleɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of estimating or inferring values that lie outside the range of observed data, based on patterns or trends in that data.",
+      "chineseTranslation": "外推法；推断",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics and mathematics, the extension of a graph, curve, or trend beyond the observed data points.",
+      "chineseTranslation": "数据外推",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "linear extrapolation",
+      "meaning": "线性外推",
+      "example": "Linear extrapolation is often used in forecasting economic trends.",
+      "exampleTranslation": "线性外推常用于预测经济趋势。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "extrapolation of data",
+      "meaning": "数据外推",
+      "example": "The extrapolation of data from the sample to the entire population can lead to inaccuracies.",
+      "exampleTranslation": "将样本数据外推到整个总体可能会导致不准确。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists used extrapolation to predict the climate changes for the next century based on historical temperature records.",
+      "translation": "科学家们使用外推法基于历史温度记录预测下个世纪的气候变化。",
+      "source": "Scientific literature (e.g., IPCC reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In business, extrapolation helps in projecting future sales from current market trends.",
+      "translation": "在商业中，外推有助于根据当前市场趋势预测未来的销售额。",
+      "source": "Business articles (e.g., Harvard Business Review)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The novel's plot involves the extrapolation of artificial intelligence beyond human control.",
+      "translation": "小说的情节涉及人工智能超出人类控制的外推。",
+      "source": "Literature (e.g., science fiction novels)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "extra",
+        "meaning": "outside",
+        "language": "Latin"
+      },
+      {
+        "root": "polare",
+        "meaning": "to smooth or polish",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'extra'（意为 'outside'）和 'polare'（意为 'to smooth'），最初用于数学和科学语境中表示从已知数据平滑扩展到未知区域的过程。19世纪时，该词在英语中发展为现代含义，尤其在统计学和预测领域普及。",
+    "firstKnownUse": "1819",
+    "relatedWords": [
+      "interpolation",
+      "projection",
+      "inference"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将 'extrapolation' 与已知数学概念关联，例如将其可视化为延长直线的图像，以增强长期记忆；对于中文母语学习者，建议通过双语对照练习避免混淆类似词汇的语义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "inference",
+        "similarity": "0.8",
+        "context": "在科学和统计语境中，用于推断未知数据时"
+      },
+      {
+        "word": "projection",
+        "similarity": "0.7",
+        "context": "在商业预测或未来趋势分析中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "interpolation",
+        "context": "与内插法相对，用于填充已知数据之间的空白，而非扩展到外部"
+      }
+    ],
+    "hypernyms": [
+      "estimation",
+      "prediction"
+    ],
+    "hyponyms": [
+      "linear extrapolation",
+      "non-linear extrapolation"
+    ],
+    "collocations": [
+      {
+        "pattern": "extrapolation of [data/trends]",
+        "examples": [
+          "extrapolation of historical data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[method/technique] of extrapolation",
+        "examples": [
+          "linear method of extrapolation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征理性预测和数据驱动决策，常与启蒙运动以来的实证主义相关联；在跨文化语境中，中国学习者可能将其与本土预测工具（如易经）对比，以理解其在现代科技中的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术性和商业语境",
+        "usage": "在美国英语中，常在数据科学和AI领域频繁出现，强调实用预测"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "语调更正式，常用于学术讨论",
+        "usage": "在英国英语中，可能在历史和科学文献中以更精确的方式使用"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和统计学兴起相关，反映了西方社会对数据分析的重视；在文学中，如H.G. Wells的作品中，体现了对未来主义预测的探索。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线讨论和AI工具中，例如COVID-19疫情预测模型的传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一根直线从已知点延伸到未知区域，就如同从地图上的一条路外推到新领地。",
+      "keyElements": [
+        "直线延伸",
+        "已知到未知",
+        "预测图像"
+      ],
+      "emotionalConnection": "联结个人经验，如预测旅行路线，帮助触发积极探索情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Extra + Pole: Think of going 'extra' miles with a 'pole' to extend beyond.",
+        "explanation": "通过词根联想，将 'extra' 视为 '额外'，'pole' 视为 '延伸工具'，以增强词汇记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Extrapolation sounds like 'extra pollution' in a graph.",
+        "explanation": "利用声音相似性，将其与图表中的 '额外污染' 场景关联，强化认知。"
+      }
+    ],
+    "wordAssociations": [
+      "prediction",
+      "forecast",
+      "extension"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "extrapolations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject in a sentence",
+        "description": "作为主语的典型结构，常用于描述过程",
+        "examples": [
+          "Extrapolation requires accurate data."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，表示方法或工具",
+        "examples": [
+          "The study relied on extrapolation from previous experiments."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interpolation'",
+        "correction": "Use 'extrapolation' for extending beyond data, not filling gaps.",
+        "explanation": "许多学习者混淆二者语义；需注意语境区分以避免错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural.",
+        "explanation": "作为可数名词，需正确添加复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "business",
+      "mathematics"
+    ],
+    "tags": [
+      "statistics",
+      "prediction",
+      "data analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "word": "thermocouple",
+  "phonetics": {
+    "british": "/ˈθɜːməʊkʌpl/",
+    "american": "/ˈθɝmoʊˌkʌpl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device consisting of two dissimilar metals joined at one end, which produces a voltage when the temperature of the junction changes, used for measuring temperature.",
+      "chineseTranslation": "热电偶",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "type K thermocouple",
+      "meaning": "K型热电偶，常用于高温测量",
+      "example": "The type K thermocouple is commonly used in industrial furnaces.",
+      "exampleTranslation": "K型热电偶常用于工业炉中。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "thermocouple sensor",
+      "meaning": "热电偶传感器，用于检测温度变化",
+      "example": "Install the thermocouple sensor in the engine to monitor heat levels.",
+      "exampleTranslation": "在引擎中安装热电偶传感器以监测热量水平。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use a thermocouple to measure the temperature inside the reactor.",
+      "translation": "工程师使用热电偶来测量反应器内部的温度。",
+      "source": "Scientific literature (e.g., from IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In automotive applications, a thermocouple can detect overheating in the exhaust system.",
+      "translation": "在汽车应用中，热电偶可以检测排气系统的过热。",
+      "source": "Technical manuals (e.g., from engineering textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The scientist calibrated the thermocouple before conducting the experiment.",
+      "translation": "科学家在进行实验前校准了热电偶。",
+      "source": "Academic research papers (e.g., from journals like Nature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and French",
+    "rootWords": [
+      {
+        "root": "thermo",
+        "meaning": "heat",
+        "language": "Greek (from θερμός, thermós)"
+      },
+      {
+        "root": "couple",
+        "meaning": "pair or junction",
+        "language": "French (from couple, meaning a link or pair)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪的热电效应发现，由Thomas Johann Seebeck在1821年首次观察到不同金属接合点的温差产生电压现象。'Thermocouple'一词结合了希腊词根'thermo'（热）和法语词根'couple'（配对），逐渐演变为现代温度测量术语，从最初的科学实验扩展到工业应用。",
+    "firstKnownUse": "约1821年",
+    "relatedWords": [
+      "thermometer",
+      "thermostat",
+      "pyrometer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合認知科學的間隔重複法來學習此詞，將其與實際溫度測量情境聯繫；使用視覺化工具如圖像展示熱電偶結構，以增強記憶痕跡；建議初學者從簡單的句子開始練習，避免一次性接觸複雜技術語境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "temperature probe",
+        "similarity": "0.7",
+        "context": "適用於一般溫度測量情境，如實驗室或工業環境"
+      },
+      {
+        "word": "thermoelement",
+        "similarity": "0.8",
+        "context": "適用於更技術化的科學討論中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "thermometer",
+        "context": "雖然thermometer也測量溫度，但thermocouple更精準用於動態變化，而thermometer可能為靜態測量"
+      }
+    ],
+    "hypernyms": [
+      "sensor",
+      "measuring device"
+    ],
+    "hyponyms": [
+      "K-type thermocouple",
+      "J-type thermocouple"
+    ],
+    "collocations": [
+      {
+        "pattern": "thermocouple + verb (e.g., measure, detect)",
+        "examples": [
+          "The thermocouple measures temperature accurately."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + thermocouple (e.g., accurate, embedded)",
+        "examples": [
+          "An embedded thermocouple monitors the system."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在西方科學文化中象徵現代工程和技術進步，代表了工業革命後的溫度測量創新，無明顯隱含語義，但反映了全球科學合作的普世性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英語中，強調其在航天和汽車工業中的應用",
+        "usage": "例如，在美國技術手冊中，常見於NASA文件"
+      },
+      {
+        "region": "英国",
+        "variation": "英式英語可能更注重其在傳統製造業中的使用",
+        "usage": "如在英國的工程教育中，作為標準術語"
+      }
+    ],
+    "historicalContext": "與19世紀科學發展相關，如Seebeck效應的發現，體現了歐洲科學界的貢獻，在現代則與全球暖化議題連結。",
+    "modernUsage": "在社交媒體和科技論壇中，頻繁出現於DIY電子項目或氣候變化討論中，趨勢顯示其在可持續能源領域的增長。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像兩個不同金屬線連接在一起的圖像，當火靠近時產生電流，就如一對'熱情配對'在工作。",
+      "keyElements": [
+        "金屬連接",
+        "溫度變化",
+        "電壓產生"
+      ],
+      "emotionalConnection": "聯想到日常廚房溫度計，喚起烹飪時的興奮感，以強化個人經驗連結"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'thermo' as 'thermal' heat and 'couple' as a pair dancing when hot.",
+        "explanation": "通過視覺聯想強化記憶，將抽象概念轉化為生動場景，基於認知科學的雙重編碼理論。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "The word sounds like 'thermal couple' – a couple in a hot situation.",
+        "explanation": "利用音似聯想來建立神經連接，促進長期記憶保留。"
+      }
+    ],
+    "wordAssociations": [
+      "heat",
+      "sensor",
+      "voltage",
+      "measurement"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "thermocouples",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + thermocouple",
+        "description": "主語 + 動詞 + 熱電偶結構，常見於描述使用情境",
+        "examples": [
+          "The thermocouple detects changes."
+        ]
+      },
+      {
+        "pattern": "Thermocouple + in + location",
+        "description": "熱電偶 + 在 + 位置，表示安裝位置",
+        "examples": [
+          "Thermocouple in the engine."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'thermometer'",
+        "correction": "Use 'thermocouple' for electronic temperature measurement",
+        "explanation": "二者雖均測量溫度，但熱電偶基於電壓變化，需區分以避免技術誤用"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "thermocouples (simply add -s)",
+        "explanation": "作為可數名詞，需正確加s，但初學者可能忘記"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "工业"
+    ],
+    "tags": [
+      "技术术语",
+      "物理学",
+      "测量工具"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

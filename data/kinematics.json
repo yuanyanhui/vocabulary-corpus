@@ -1,0 +1,235 @@
+{
+  "word": "kinematics",
+  "phonetics": {
+    "british": "/ˌkɪnəˈmætɪks/",
+    "american": "/ˌkɪnəˈmætɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The branch of physics that studies the motion of objects without considering the forces that cause the motion.",
+      "chineseTranslation": "运动学",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "particle kinematics",
+      "meaning": "粒子运动学",
+      "example": "Particle kinematics helps in understanding the motion of subatomic particles.",
+      "exampleTranslation": "粒子运动学有助于理解亚原子粒子的运动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "basic kinematics",
+      "meaning": "基础运动学",
+      "example": "Basic kinematics equations are essential for introductory physics courses.",
+      "exampleTranslation": "基础运动学方程是入门物理课程的必需内容。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Kinematics provides the tools to describe the position and velocity of an object over time.",
+      "translation": "运动学提供了描述物体位置和速度随时间变化的工具。",
+      "source": "Educational textbook (e.g., from physics curricula)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In robotics, kinematics is used to model the movement of mechanical arms.",
+      "translation": "在机器人学中，运动学被用于模拟机械臂的运动。",
+      "source": "Scientific article (e.g., from engineering journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The teacher explained kinematics with simple examples from everyday life, like a rolling ball.",
+      "translation": "老师用日常生活中的简单例子，如滚动球，来解释运动学。",
+      "source": "General education context",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "kinesis",
+        "meaning": "movement",
+        "language": "Greek"
+      },
+      {
+        "root": "kinematikos",
+        "meaning": "of motion",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'kinesis'，意为运动。19世纪初，该词被引入现代科学，特别是物理学中，以描述物体运动的研究。最初与力学相关，后来演变为专注于运动描述而不涉及原因的独立分支。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "dynamics",
+      "mechanics",
+      "kinesthetic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象物体在运动中轨迹的图表，以增强记忆；",
+      "通过间隔重复法复习相关物理概念，帮助中文母语学习者克服抽象语义的挑战；",
+      "将新词与母语类似概念（如'运动'）建立桥接，以减少认知负荷"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "motion study",
+        "similarity": "0.8",
+        "context": "在物理学或工程语境中，用于描述物体运动的分析"
+      },
+      {
+        "word": "mechanics of motion",
+        "similarity": "0.7",
+        "context": "在学术讨论中，强调运动的数学模型"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "statics",
+        "context": "在物理学中，指静力学，与运动学相对，专注于静止物体"
+      }
+    ],
+    "hypernyms": [
+      "physics"
+    ],
+    "hyponyms": [
+      "linear kinematics",
+      "rotational kinematics"
+    ],
+    "collocations": [
+      {
+        "pattern": "kinematics of [object]",
+        "examples": [
+          "kinematics of particles",
+          "kinematics of rigid bodies"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] kinematics",
+        "examples": [
+          "basic kinematics",
+          "advanced kinematics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方教育文化中，该词象征科学理性与技术进步，常与牛顿力学传统相关联，隐含语义强调对自然现象的客观分析；在中文文化中，可能与古代力学思想（如墨子机械学）相呼应，但现代使用更受西方科学影响。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和计算机科学语境",
+        "usage": "在美国教育系统中，常在高中物理课程中引入，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向理论物理的学术表达",
+        "usage": "在英国，如剑桥大学课程中，强调其在数学物理中的历史演变"
+      }
+    ],
+    "historicalContext": "与17世纪科学革命相关，特别是在牛顿和伽利略的著作中，该概念的雏形出现；在中文文化中，20世纪引入，伴随西方科学传播，与中国现代教育改革相关联。",
+    "modernUsage": "在社交媒体和在线教育平台上（如YouTube或Khan Academy），常用于科普视频，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个动画场景，其中一个球体在直线或曲线路径上运动，伴随速度和位置的图表。",
+      "keyElements": [
+        "球体运动",
+        "轨迹线条",
+        "速度向量"
+      ],
+      "emotionalConnection": "联结个人经验，如观看体育比赛中的球员奔跑，触发对运动的兴奋感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'kinematics' 联想为 'kinetic energy' 的基础，因为二者都涉及运动。",
+        "explanation": "通过语义联想建立网络，帮助学习者从已知概念扩展到新词，基于认知联想理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌkɪnəˈmætɪks/' 联想为 'king in motion'，想象国王在移动。",
+        "explanation": "利用声音与图像的联觉增强记忆，减少遗忘率"
+      }
+    ],
+    "wordAssociations": [
+      "motion",
+      "physics",
+      "velocity",
+      "trajectory"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "kinematics (unchanged, as it is often uncountable)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + kinematics",
+        "description": "作为主语或宾语出现，常在描述性句子中",
+        "examples": [
+          "Kinematics explains motion."
+        ]
+      },
+      {
+        "pattern": "In + field + kinematics",
+        "description": "用于指定领域",
+        "examples": [
+          "In robotics, kinematics is crucial."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing kinematics with dynamics",
+        "correction": "Use kinematics for motion without forces, and dynamics for motion with forces",
+        "explanation": "中文学习者常混淆二者，因为母语中缺乏精确对应词"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Treat as uncountable unless specifying branches",
+        "explanation": "作为技术术语，通常不需变复数"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in scientific corpora (e.g., COCA frequency: approximately 0.02 per million words)",
+    "domains": [
+      "science",
+      "engineering",
+      "education"
+    ],
+    "tags": [
+      "physics",
+      "mechanics",
+      "technical terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "word": "disallow",
+  "phonetics": {
+    "british": "/ˌdɪsəˈlaʊ/",
+    "american": "/ˌdɪsəˈlaʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to refuse to allow or accept something, such as a request, claim, or action",
+      "chineseTranslation": "禁止，不允许",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disallow a claim",
+      "meaning": "拒绝认可或批准某项索赔",
+      "example": "The insurance company decided to disallow the claim due to lack of evidence.",
+      "exampleTranslation": "保险公司因缺乏证据而决定拒绝该索赔。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "disallow access",
+      "meaning": "禁止进入或使用",
+      "example": "The system will disallow access to unauthorized users.",
+      "exampleTranslation": "系统将禁止未授权用户进入。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The referee had to disallow the goal because the player was offside.",
+      "translation": "裁判不得不取消该进球，因为球员处于越位位置。",
+      "source": "Sports commentary (e.g., from BBC Sports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the meeting, the chairman disallowed any further discussion on the controversial topic.",
+      "translation": "在会议中，主席禁止就这个有争议的话题进行进一步讨论。",
+      "source": "Business communication (e.g., from corporate reports in COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The court disallowed the evidence as it was obtained illegally.",
+      "translation": "法院拒绝采纳该证据，因为它是非法获得的。",
+      "source": "Legal texts (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "中古英语",
+    "rootWords": [
+      {
+        "root": "dis-",
+        "meaning": "表示否定或相反",
+        "language": "拉丁语"
+      },
+      {
+        "root": "allow",
+        "meaning": "允许或认可",
+        "language": "古法语（源自拉丁语）"
+      }
+    ],
+    "historicalDevelopment": "该词源自中古英语 disallowen，源自古法语 desalouer，最终追溯到拉丁语 dis- (否定前缀) 和 alouer (允许)。在中世纪英语中，它用于法律和行政语境，表示正式拒绝。从16世纪开始，在正式和法律文件中广泛使用，逐渐演变为现代意义，强调官方或权威的禁止。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "allow",
+      "disapprove",
+      "forbid"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'disallow' 与 'allow' 进行对比记忆，以强化否定前缀的作用；",
+      "使用视觉联想，将 'dis-' 想象为一个 '停止' 标志，与日常禁止场景关联，提高长期记忆保留；",
+      "根据语言学习理论，重复在上下文中使用该词，以减少语义混淆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "forbid",
+        "similarity": "0.8",
+        "context": "适用于正式禁止行为的情景，如法律或规则制定"
+      },
+      {
+        "word": "prohibit",
+        "similarity": "0.9",
+        "context": "常用于法规或政策语境中，表示严格限制"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "allow",
+        "context": "适用于许可或批准的情景，例如日常决策或法律许可"
+      },
+      {
+        "word": "permit",
+        "context": "在正式授权语境中，表示给予权利"
+      }
+    ],
+    "hypernyms": [
+      "restrict"
+    ],
+    "hyponyms": [
+      "veto",
+      "ban"
+    ],
+    "collocations": [
+      {
+        "pattern": "disallow + noun (e.g., disallow a goal)",
+        "examples": [
+          "The judge will disallow the testimony."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "disallow + infinitive (e.g., disallow someone to enter)",
+        "examples": [
+          "The policy disallows employees to work overtime without approval."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常与法律、体育和行政决策相关，象征权威和秩序，例如在英美文化中，'disallow' 隐含了对公平和规则遵守的强调。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于体育和议会语境",
+        "usage": "在英国英语中，常见于足球比赛中取消进球"
+      },
+      {
+        "region": "美国",
+        "variation": "更偏向法律和商业语境",
+        "usage": "在美国英语中，常见于法庭判决或公司政策中"
+      }
+    ],
+    "historicalContext": "在英国历史上，该词与君主制和议会制度相关，例如17世纪的英国法律文件中用于表示王室或议会的否决；在美国，则与独立战争后的宪法框架有关，强调权利限制。",
+    "modernUsage": "在现代社交媒体和数字语境中，该词用于讨论在线内容审查，例如社交平台对不当帖文的禁止趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有 '停止' 标志的门，门上写着 'disallow'，代表进入被禁止",
+      "keyElements": [
+        "停止标志",
+        "关闭的门",
+        "否定符号"
+      ],
+      "emotionalConnection": "联结个人经历，如童年被父母禁止做某事，触发负面情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'disallow' 联想为 'dis-' (不) + 'allow' (允许) = 不允许，就像关掉开关",
+        "explanation": "通过视觉和概念联想，利用认知科学中的双编码理论，将词汇与图像结合，提高回忆效率"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌdɪsəˈlaʊ/ 听起来像 'diss a loud'，想象大声拒绝某事",
+        "explanation": "利用声音联想增强听觉记忆，根据Elaboration Likelihood Model 理论加深处理深度"
+      }
+    ],
+    "wordAssociations": [
+      "forbid",
+      "block",
+      "deny"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "disallowed",
+      "pastParticiple": "disallowed",
+      "presentParticiple": "disallowing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + disallow + object",
+        "description": "主语 + 动词 + 宾语结构，常用于正式陈述",
+        "examples": [
+          "The committee disallows such behavior."
+        ]
+      },
+      {
+        "pattern": "disallow + someone + to + infinitive",
+        "description": "表示禁止某人做某事",
+        "examples": [
+          "The rules disallow players to use performance-enhancing drugs."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'disallow' as a noun",
+        "correction": "Use it as a verb, e.g., 'The disallowal is final' should be 'The disallowance is final'",
+        "explanation": "该词主要是动词，避免将其误用为名词；根据语言学习理论，这是词类混淆的常见错误"
+      },
+      {
+        "mistake": "Confusing with 'dislike'",
+        "correction": "Use 'disallow' for prohibition, not personal preference",
+        "explanation": "二者语义不同，'disallow' 强调正式拒绝，而 'dislike' 表示不喜欢"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约 5000 以内",
+    "domains": [
+      "法律",
+      "体育",
+      "商业",
+      "行政"
+    ],
+    "tags": [
+      "否定",
+      "禁止",
+      "正式语言"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

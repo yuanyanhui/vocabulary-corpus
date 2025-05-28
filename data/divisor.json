@@ -1,0 +1,224 @@
+{
+  "word": "divisor",
+  "phonetics": {
+    "british": "/dɪˈvaɪzə/",
+    "american": "/dɪˈvaɪzər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A number by which another number is divided in a division operation; specifically, the number that divides the dividend.",
+      "chineseTranslation": "除数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "greatest common divisor",
+      "meaning": "最大公约数",
+      "example": "The greatest common divisor of 12 and 18 is 6.",
+      "exampleTranslation": "12 和 18 的最大公约数是 6。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "common divisor",
+      "meaning": "公约数",
+      "example": "A common divisor of 10 and 15 is 5.",
+      "exampleTranslation": "10 和 15 的公约数是 5。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the division problem 20 divided by 4, 4 is the divisor.",
+      "translation": "在除法问题 20 除以 4 中，4 是除数。",
+      "source": "Mathematics textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm requires identifying the largest divisor of a given integer.",
+      "translation": "该算法需要识别给定整数的最大除数。",
+      "source": "Computer science article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Teachers often explain the concept of a divisor using everyday examples like sharing candies.",
+      "translation": "教师经常用分享糖果的日常例子来解释除数概念。",
+      "source": "Educational resource",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "divisor",
+        "meaning": "one that divides",
+        "language": "Latin"
+      },
+      {
+        "root": "dividere",
+        "meaning": "to separate or divide",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'divisor'，由 'dividere'（意为分离或划分）派生。在16世纪进入英语，用于数学语境中表示除法运算的组成部分，随着数学发展的演变，它从一般划分概念演变为特定数学术语。",
+    "firstKnownUse": "1550s",
+    "relatedWords": [
+      "divide",
+      "division",
+      "divisible"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用视觉图像如除法算式来加强记忆；",
+      "将词汇与个人经历关联，例如回想学校数学课上的除法练习，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "denominator",
+        "similarity": "0.7",
+        "context": "在分数或除法运算中，特别是在表示分母的语境"
+      },
+      {
+        "word": "factor",
+        "similarity": "0.6",
+        "context": "在讨论整数因子的数学语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dividend",
+        "context": "在除法运算中，除数（divisor）与被除数（dividend）的对立关系"
+      }
+    ],
+    "hypernyms": [
+      "number"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "greatest common",
+        "examples": [
+          "greatest common divisor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "common",
+        "examples": [
+          "common divisor"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数学教育中象征基础运算能力，无特定文化象征意义，但反映了西方数学传统的理性与精确性。",
+    "regionalVariations": [
+      {
+        "region": "Global (e.g., United States and United Kingdom)",
+        "variation": "使用一致，无重大差异",
+        "usage": "在英语国家中标准化于教育和科技领域，强调数学的通用性"
+      }
+    ],
+    "historicalContext": "与古希腊和罗马的数学传统相关联，如Euclid的元素一书，早于现代英语使用。",
+    "modernUsage": "在现代教育、科技和数字媒体中广泛传播，例如在线学习平台和编程语言中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一群孩子在分发苹果，除数代表分苹果的组数。",
+      "keyElements": [
+        "苹果",
+        "分组",
+        "计算"
+      ],
+      "emotionalConnection": "联结到童年分糖果的快乐经历，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Divisor 听起来像 'divider'，所以联想到一个分割东西的工具。",
+        "explanation": "通过声音和视觉联想，帮助建立持久的认知连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Divide and Separate.",
+        "explanation": "使用首字母缩略来强化词汇与动作的关联。"
+      }
+    ],
+    "wordAssociations": [
+      "divide",
+      "factor",
+      "multiple"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "divisors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + is + the divisor",
+        "description": "用作主语或补语，表示数学关系",
+        "examples": [
+          "In this equation, 3 is the divisor."
+        ]
+      },
+      {
+        "pattern": "Divisor + of + noun",
+        "description": "表示所属关系",
+        "examples": [
+          "The divisor of 10 is 2."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing divisor with dividend",
+        "correction": "Use divisor for the number that divides, and dividend for the number being divided.",
+        "explanation": "由于两者在除法中的相似性，初学者易混淆；通过重复练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'divisors' for plural.",
+        "explanation": "英语名词规则简单，但非母语者可能遗忘添加 -s。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Education"
+    ],
+    "tags": [
+      "Math",
+      "Arithmetic",
+      "Technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

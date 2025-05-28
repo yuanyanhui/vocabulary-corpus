@@ -1,0 +1,284 @@
+{
+  "word": "terminal",
+  "phonetics": {
+    "british": "/ˈtɜːmɪnl/",
+    "american": "/ˈtɝːmɪnl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point or station at which transportation lines end or connect, such as an airport or bus station.",
+      "chineseTranslation": "终点站或交通枢纽，如机场或公交站",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a device or software interface that allows users to interact with a computer system, often via command-line input.",
+      "chineseTranslation": "在计算机中，指允许用户与系统交互的设备或软件接口，通常通过命令行",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The end stage of a disease or condition, especially one that is fatal.",
+      "chineseTranslation": "疾病或状况的末期，尤其是致命的阶段",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of, forming, or situated at an end, boundary, or extremity.",
+      "chineseTranslation": "位于末端、边界或尽头的",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Causing or ending in death; fatal.",
+      "chineseTranslation": "导致死亡的；致命的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "terminal illness",
+      "meaning": "指一种不可治愈的、通常是致命的疾病",
+      "example": "She was diagnosed with a terminal illness and had only months to live.",
+      "exampleTranslation": "她被诊断出患有绝症，只剩几个月的时间了。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "computer terminal",
+      "meaning": "计算机系统的输入输出设备",
+      "example": "The old computer terminal in the lab is still used for basic programming tasks.",
+      "exampleTranslation": "实验室里的那台旧计算机终端仍然用于基本的编程任务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "terminal velocity",
+      "meaning": "物体在重力作用下达到的最大速度",
+      "example": "Skydivers experience terminal velocity after falling for a certain distance.",
+      "exampleTranslation": "跳伞者下落一定距离后会达到终端速度。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The train arrived at the terminal station just before midnight.",
+      "translation": "火车在午夜前到达了终点站。",
+      "source": "Modern travel literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, a terminal window allows users to execute commands directly.",
+      "translation": "在编程中，终端窗口允许用户直接执行命令。",
+      "source": "Technology tutorial from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The doctor explained that the patient's condition was terminal.",
+      "translation": "医生解释说病人的状况是绝症。",
+      "source": "Medical narrative from BNC corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "This road leads to a terminal point at the edge of the forest.",
+      "translation": "这条路通向森林边缘的尽头。",
+      "source": "Environmental writing",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "terminus",
+        "meaning": "boundary or end",
+        "language": "Latin"
+      },
+      {
+        "root": "terminalis",
+        "meaning": "pertaining to a boundary",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'terminus'（意为边界或终点），在古罗马时代用于指代土地或旅程的尽头。进入中世纪英语时，通过法语演变为 'terminal'，逐渐扩展到现代含义，包括交通枢纽和计算机接口。这种演变反映了从物理边界到抽象终结的概念扩展。",
+    "firstKnownUse": "约 15 世纪",
+    "relatedWords": [
+      "terminate",
+      "termination",
+      "terminology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'terminal' 的多义性分解为视觉图像，如想象机场作为物理终点，再联想到电脑屏幕作为数字终点，以增强记忆保留；通过重复暴露于真实语境中，强化神经元连接以改善长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "endpoint",
+        "similarity": "0.8",
+        "context": "适用于交通或过程结束的语境，如 'The endpoint of the journey was the terminal.'"
+      },
+      {
+        "word": "station",
+        "similarity": "0.7",
+        "context": "常用于交通相关语境，如火车或机场"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "initial",
+        "context": "适用于开始或起始的语境，如与 'terminal' 相对的起点"
+      },
+      {
+        "word": "origin",
+        "context": "在历史或旅程语境中，表示起点的反义"
+      }
+    ],
+    "hypernyms": [
+      "station",
+      "device"
+    ],
+    "hyponyms": [
+      "bus terminal",
+      "airport terminal"
+    ],
+    "collocations": [
+      {
+        "pattern": "terminal + noun (e.g., terminal illness)",
+        "examples": [
+          "terminal disease",
+          "terminal point"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + terminal (e.g., busy terminal)",
+        "examples": [
+          "main terminal",
+          "digital terminal"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着结束或转折，常在科技和医疗语境中体现现代生活节奏，如计算机终端代表数字时代的信息枢纽，而终端疾病则隐含对生命无常的反思。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技语境，如 'terminal' 在硅谷文化中指代命令行工具",
+        "usage": "在美国英语中，强调实用性和技术应用"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向交通语境，如 'terminal' 在伦敦地铁系统中常见",
+        "usage": "英国英语中，常与历史建筑或公共交通相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关，19 世纪的铁路发展使 'terminal' 成为交通象征；在20 世纪的计算机革命中，又扩展到数字领域，反映社会从机械到信息化的转变。",
+    "modernUsage": "在社交媒体和在线平台中，'terminal' 常用于科技讨论，如 GitHub 或 Reddit，用户分享编程经验，体现全球数字文化的包容性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机场终点站，周围有电脑终端和一位患者等待，这融合了多重含义。",
+      "keyElements": [
+        "机场图标",
+        "电脑屏幕",
+        "时钟象征结束"
+      ],
+      "emotionalConnection": "联结个人旅行经历或电脑使用的情绪，以触发情感记忆路径"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'terminal' 联想为 'end of the line'，想象一条铁路线结束于一个站台。",
+        "explanation": "通过视觉联想加强认知编码，基于认知科学的双编码理论（dual-coding theory）"
+      },
+      {
+        "type": "缩略",
+        "content": "T for 'End' (Terminal ends things)",
+        "explanation": "使用首字母缩略帮助快速回忆多义词，结合重复练习以强化海马体记忆"
+      }
+    ],
+    "wordAssociations": [
+      "end",
+      "station",
+      "computer",
+      "fatal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "terminals",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more terminal (as adjective)",
+      "superlative": "most terminal (as adjective)"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the terminal building)",
+        "description": "作为名词，常用于描述具体位置或设备",
+        "examples": [
+          "The terminal is located downtown."
+        ]
+      },
+      {
+        "pattern": "Adjective + noun (e.g., terminal disease)",
+        "description": "作为形容词，修饰名词表示最终状态",
+        "examples": [
+          "It is a terminal condition."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'terminal' with 'terminator'",
+        "correction": "Use 'terminal' for endpoints or devices",
+        "explanation": "学习者常混淆相似词汇；建议通过语境区分以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization in technical contexts",
+        "correction": "Always use 'terminals' for multiple devices",
+        "explanation": "中文学习者可能遗漏复数形式；通过模式练习强化语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "transportation",
+      "medicine",
+      "general"
+    ],
+    "tags": [
+      "computing",
+      "transport",
+      "medical terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

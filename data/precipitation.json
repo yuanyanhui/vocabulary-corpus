@@ -1,0 +1,268 @@
+{
+  "word": "precipitation",
+  "phonetics": {
+    "british": "/prɪˌsɪpɪˈteɪʃən/",
+    "american": "/prəˌsɪpɪˈteɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process by which atmospheric water vapor condenses and falls to the earth as rain, snow, sleet, or hail.",
+      "chineseTranslation": "降水",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The chemical process in which a substance comes out of solution and forms a solid.",
+      "chineseTranslation": "沉淀",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action of precipitating something; haste or rashness.",
+      "chineseTranslation": "仓促行动",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "annual precipitation",
+      "meaning": "一年中的总降水量",
+      "example": "The annual precipitation in this region is about 1000 mm.",
+      "exampleTranslation": "这个地区的年降水量约为1000毫米。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "chemical precipitation",
+      "meaning": "化学沉淀过程",
+      "example": "Chemical precipitation is used to remove impurities from water.",
+      "exampleTranslation": "化学沉淀用于去除水中的杂质。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "precipitation of events",
+      "meaning": "事件的突然发生",
+      "example": "The precipitation of events led to an unexpected crisis.",
+      "exampleTranslation": "事件的突然发生导致了意想不到的危机。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Heavy precipitation caused flooding in the coastal areas.",
+      "translation": "大降水导致沿海地区洪水泛滥。",
+      "source": "News article (e.g., BBC Weather Reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In chemistry, precipitation occurs when two solutions are mixed and a solid forms.",
+      "translation": "在化学中，当两种溶液混合时会发生沉淀。",
+      "source": "Scientific textbook (e.g., from educational corpora like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The precipitation of his decision without consultation angered his colleagues.",
+      "translation": "他未经协商就仓促做出决定，这激怒了他的同事。",
+      "source": "Literary work (e.g., modern novels)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "praecipitare",
+        "meaning": "to throw headlong or headfirst",
+        "language": "Latin"
+      },
+      {
+        "root": "precipitatio",
+        "meaning": "a falling headlong",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'praecipitare'，最初指快速下落或仓促行动。15世纪传入英语，首先用于描述快速行动；17世纪扩展到化学领域，指物质从溶液中分离；18世纪起在气象学中用于降水现象。今天，该词的多重含义反映了从物理运动到抽象过程的演变。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "precipitate",
+      "precipitous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分层记忆法：先学习核心气象学含义，然后逐步扩展到化学和抽象用法，以避免语义混淆；使用间隔重复系统（Spaced Repetition System）强化多义词的区分。",
+      "通过视觉联想将发音与图像关联，例如想象雨滴落下时发音 '/prɪˌsɪpɪˈteɪʃən/' 的节奏，以提升语音记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rainfall",
+        "similarity": "0.8",
+        "context": "主要用于气象学语境中，指降水形式"
+      },
+      {
+        "word": "sedimentation",
+        "similarity": "0.7",
+        "context": "在化学或地质学中，指类似沉淀的过程"
+      },
+      {
+        "word": "haste",
+        "similarity": "0.6",
+        "context": "在抽象语境中，指仓促行动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "evaporation",
+        "context": "在气象或化学语境中，指相反的过程"
+      },
+      {
+        "word": "deliberation",
+        "context": "在抽象语境中，指仔细考虑而非仓促"
+      }
+    ],
+    "hypernyms": [
+      "weather phenomenon",
+      "chemical process"
+    ],
+    "hyponyms": [
+      "rain",
+      "snow",
+      "hail"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + precipitation (e.g., heavy precipitation)",
+        "examples": [
+          "Heavy precipitation",
+          "Annual precipitation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Precipitation of + noun (e.g., precipitation of events)",
+        "examples": [
+          "Precipitation of crystals"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与天气预报和环境问题相关联，象征自然力量的不可预测性；在文学中，可能隐含仓促决策的负面后果，体现英美文化对规划和审慎的重视。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于气象语境，如 BBC 报道",
+        "usage": "英国英语中强调降水量对农业的影响"
+      },
+      {
+        "region": "United States",
+        "variation": "在科学和技术语境中更常见，如 NOAA 报告",
+        "usage": "美国英语中常与气候变化讨论结合"
+      }
+    ],
+    "historicalContext": "与工业革命相关，在19世纪的英国文学（如狄更斯作品）中，'precipitation' 象征社会变革的突然性；在现代，关联气候变化讨论，如联合国报告。",
+    "modernUsage": "在社交媒体和新闻中，频率增加，常用于气候紧急事件；例如，Twitter 上讨论极端降水事件，反映全球环保意识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个雨云从天而降的场景，雨滴快速落下，代表降水；背景中添加化学烧瓶中的沉淀物，以覆盖多重含义。",
+      "keyElements": [
+        "雨滴",
+        "化学烧瓶",
+        "快速下落动作"
+      ],
+      "emotionalConnection": "联结个人经历，如在中国南方经历的暴雨，触发对'precipitation'的即时回忆，增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'precipitation' 联想为 'pre' (提前) + 'cipitation' (如 capillary 的流动)，想象提前流动的雨水。",
+        "explanation": "通过词根联想强化记忆，基于认知科学中的视觉-语义关联。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/prɪˌsɪpɪˈteɪʃən/' 听起来像 'pre-see-pitation'，想象提前看到下落的雨。",
+        "explanation": "利用声音模拟视觉场景，帮助初级学习者避免发音错误。"
+      }
+    ],
+    "wordAssociations": [
+      "rain",
+      "storm",
+      "settle",
+      "hasty"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "precipitations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + precipitation",
+        "description": "作为名词使用在句子主语或宾语位置",
+        "examples": [
+          "Precipitation fell heavily last night."
+        ]
+      },
+      {
+        "pattern": "Adjective + precipitation",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "Heavy precipitation is expected tomorrow."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'precipitate' (verb)",
+        "correction": "Use 'precipitation' as a noun only",
+        "explanation": "中国学习者常混淆动词和名词形式，导致语法错误；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify context for each meaning",
+        "explanation": "初级学习者可能将气象学含义应用到化学语境；使用语义网络图帮助澄清。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "meteorology",
+      "chemistry",
+      "environment"
+    ],
+    "tags": [
+      "weather",
+      "process",
+      "action",
+      "natural phenomenon"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

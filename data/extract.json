@@ -1,0 +1,261 @@
+{
+  "word": "extract",
+  "phonetics": {
+    "british": "/ɪkˈstrækt/ (作為動詞) 或 /ˈɛkstrækt/ (作為名詞)",
+    "american": "/ɪkˈstrækt/ (作為動詞) 或 /ˈiːkˌstrækt/ (作為名詞)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or take out something, especially by using effort, a process, or a tool.",
+      "chineseTranslation": "提取；取出",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A short section or passage taken from a longer work, such as a book, film, or piece of music.",
+      "chineseTranslation": "摘錄；精華提取物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A concentrated substance obtained by extracting a component from a mixture, often used in medicine or cooking.",
+      "chineseTranslation": "萃取物；提取精華",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "extract information",
+      "meaning": "提取資訊",
+      "example": "The software can extract information from large datasets quickly.",
+      "exampleTranslation": "該軟體能快速從大型數據集中提取資訊。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "liquid extract",
+      "meaning": "液體提取物",
+      "example": "Vanilla liquid extract is commonly used in baking recipes.",
+      "exampleTranslation": "香草液體提取物常用於烘焙食譜中。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "extract a tooth",
+      "meaning": "拔牙",
+      "example": "The dentist had to extract a tooth due to severe decay.",
+      "exampleTranslation": "由於嚴重蛀牙，牙醫不得不拔牙。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists use solvents to extract essential oils from plants.",
+      "translation": "科學家使用溶劑從植物中提取精油。",
+      "source": "Scientific literature, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She read an extract from the novel during the book club meeting.",
+      "translation": "她在讀書俱樂部會議上朗讀了小說的一段摘錄。",
+      "source": "Literary works, e.g., from BNC",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The company aims to extract maximum value from its resources.",
+      "translation": "該公司旨在從其資源中提取最大價值。",
+      "source": "Business news, e.g., from news articles",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ex-",
+        "meaning": "out of",
+        "language": "Latin"
+      },
+      {
+        "root": "trahere",
+        "meaning": "to draw or pull",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁語 'extractus'，意思是「拉出或抽出」，後演變為中世紀拉丁語用於化學和文學上下文，逐漸在英語中發展為動詞和名詞形式，從14世紀開始廣泛使用，以反映提取過程或精華的觀念。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "traction",
+      "tractor",
+      "abstract"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (基於音節變化和重音差異，可能導致非母語者混淆重音位置)",
+    "spellingDifficulty": "4 (拼寫相對直接，但容易與類似詞如 'exact' 混淆)",
+    "meaningComplexity": "7 (多義性高，需要理解上下文以區分動詞和名詞含義)",
+    "usageComplexity": "5 (常見於多領域，但需注意搭配)",
+    "learningTips": [
+      "使用認知科學的間隔重複法來記憶多義詞；將詞彙與視覺化場景聯繫，如想像從書籍中「拉出」一段文字，以增強記憶痕跡；鼓勵學習者通過實踐句子創作來鞏固語境應用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "remove",
+        "similarity": "0.8",
+        "context": "在物理或數字提取上下文中使用，例如移除物件 (在正式語境中適用)"
+      },
+      {
+        "word": "excerpt",
+        "similarity": "0.9",
+        "context": "作為名詞時，指摘錄文本 (在文學或學術語境中適用)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insert",
+        "context": "與插入或添加對立，例如在編輯過程中 (在技術或文學語境中)"
+      },
+      {
+        "word": "discard",
+        "context": "表示放棄而非提取，例如在資源管理中 (在商業語境中)"
+      }
+    ],
+    "hypernyms": [
+      "obtain",
+      "derive"
+    ],
+    "hyponyms": [
+      "distill",
+      "abstract"
+    ],
+    "collocations": [
+      {
+        "pattern": "extract from [source]",
+        "examples": [
+          "extract oil from seeds",
+          "extract data from files"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "key extract",
+        "examples": [
+          "a key extract from the speech"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'extract' 常象徵知識或精華的提煉，如文學摘錄代表文化遺產的傳承；在科學領域，則隱含對自然資源的利用，可能涉及環境倫理討論。",
+    "regionalVariations": [
+      {
+        "region": "英國",
+        "variation": "更偏向正式文學用法",
+        "usage": "在英國英語中，常見於學術寫作，如書籍摘錄"
+      },
+      {
+        "region": "美國",
+        "variation": "更常見於技術和商業語境",
+        "usage": "在美國英語中，強調提取過程，如數據或資源提取"
+      }
+    ],
+    "historicalContext": "該詞與文藝復興時期的知識爆炸相關，當時的歐洲學者從古籍中提取知識；在現代，與工業革命的資源提取相聯繫，反映了社會對效率和創新的追求。",
+    "modernUsage": "在社交媒體和數字時代，'extract' 用於內容摘要或AI數據處理，體現快速資訊消費的趨勢。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個科學家從一株植物中「拉出」精油的過程，或從一本書中抽出頁面。",
+      "keyElements": [
+        "拉出動作",
+        "精華物體",
+        "來源容器"
+      ],
+      "emotionalConnection": "聯繫個人經驗，如回憶童年從水果中提取汁液的快樂，以強化情感記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Extract sounds like 'exact track' – think of tracking exactly what you need and pulling it out.",
+        "explanation": "通過聲音聯想強化記憶，將詞與精確追蹤的概念連接，基於認知科學的圖像化記憶技術。"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-T-R-A-C-T: Each eXtract Takes Resource And Creates Treasure.",
+        "explanation": "使用首字母縮寫來建立故事性記憶，幫助學習者將抽象含義轉化為具體寶藏概念。"
+      }
+    ],
+    "wordAssociations": [
+      "pull",
+      "essence",
+      "summary"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "extracts (for noun)",
+      "pastTense": "extracted",
+      "pastParticiple": "extracted",
+      "presentParticiple": "extracting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + extract + object + from + source",
+        "description": "主語 + 提取 + 對象 + 從 + 來源結構，常見於描述過程",
+        "examples": [
+          "We extract juice from fruits."
+        ]
+      },
+      {
+        "pattern": "Extract of [noun]",
+        "description": "提取物 + 介詞片語結構，用於名詞形式",
+        "examples": [
+          "An extract of vanilla."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing extract with exact",
+        "correction": "Use extract for removal or essence, and exact for precise.",
+        "explanation": "容易因發音相似而誤用；建議通過語境練習區分。"
+      },
+      {
+        "mistake": "Incorrect stress in pronunciation",
+        "correction": "Emphasize the second syllable for verb form.",
+        "explanation": "非母語者常忽略重音差異，影響流暢性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "science",
+      "literature",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "extraction",
+      "removal",
+      "summary",
+      "essence"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

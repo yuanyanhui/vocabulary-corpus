@@ -1,0 +1,250 @@
+{
+  "word": "programming",
+  "phonetics": {
+    "british": "/ˈprəʊɡræmɪŋ/",
+    "american": "/ˈproʊɡræmɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of designing, writing, testing, and maintaining the source code of computer programs.",
+      "chineseTranslation": "编程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (gerund form)",
+      "definition": "The act of instructing a machine or device to perform specific tasks through coded instructions.",
+      "chineseTranslation": "程序设计",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computer programming",
+      "meaning": "计算机编程",
+      "example": "Computer programming is essential for developing software applications.",
+      "exampleTranslation": "计算机编程对于开发软件应用程序至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "programming language",
+      "meaning": "编程语言",
+      "example": "Python is a popular programming language for beginners.",
+      "exampleTranslation": "Python 是一种流行的初学者编程语言。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "object-oriented programming",
+      "meaning": "面向对象编程",
+      "example": "Object-oriented programming helps in creating modular and reusable code.",
+      "exampleTranslation": "面向对象编程有助于创建模块化和可重用代码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She spends hours each day on programming projects to improve her skills.",
+      "translation": "她每天花几个小时在编程项目上以提高技能。",
+      "source": "Educational content, such as online coding tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programming has revolutionized the way we interact with technology in daily life.",
+      "translation": "编程已经彻底改变了我们日常生活与技术的互动方式。",
+      "source": "Technology articles, e.g., from Wired magazine",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the tech industry, programming is often seen as a foundational skill for innovation.",
+      "translation": "在科技行业，编程通常被视为创新的基础技能。",
+      "source": "Professional discourse, e.g., from TED talks",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "program",
+        "meaning": "A public notice or plan",
+        "language": "Latin (from Greek 'programma')"
+      },
+      {
+        "root": "gram",
+        "meaning": "To write or record",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊的'programma'，意为公共公告或计划，通过拉丁语和法语演变为现代意义。17世纪开始用于指一系列活动或计划，19世纪扩展到机械指令，20世纪中叶与计算机科学相关联，最终成为编写代码的过程。",
+    "firstKnownUse": "约17世纪",
+    "relatedWords": [
+      "program",
+      "programme",
+      "algorithm"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将编程概念分解为小部分；通过重复实践和视觉编码（如绘图表示代码结构）增强记忆；针对中文母语学习者，强调音节相似词的区分，如'programming'与'program'的差异，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coding",
+        "similarity": "0.8",
+        "context": "在技术语境中，尤用于软件开发领域"
+      },
+      {
+        "word": "scripting",
+        "similarity": "0.7",
+        "context": "适用于自动化任务的编程子集"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "debugging",
+        "context": "调试是修正错误的过程，与编程的创建阶段相对"
+      },
+      {
+        "word": "decompiling",
+        "context": "反编译涉及从代码逆向工程，与编程的正向过程相反"
+      }
+    ],
+    "hypernyms": [
+      "software development",
+      "computing"
+    ],
+    "hyponyms": [
+      "web programming",
+      "mobile app programming"
+    ],
+    "collocations": [
+      {
+        "pattern": "programming + language",
+        "examples": [
+          "learning a programming language"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "advanced programming techniques",
+        "examples": [
+          "applying advanced programming techniques"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征创新和技术进步，尤其在硅谷文化中代表个人赋权和数字时代的核心技能。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更强调实用性和创业应用",
+        "usage": "在美国英语中，常与科技产业和教育改革相关联，如在学校课程中推广编程教育。"
+      },
+      {
+        "region": "英国",
+        "variation": "可能使用'programme'作为相关词汇，但'programming'保持一致",
+        "usage": "在英国英语中，强调历史与学术背景，如牛津大学的计算机科学历史。"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机时代的兴起相关联，例如二战期间的ENIAC计算机，推动了编程作为一门学科的发展。",
+    "modernUsage": "在社交媒体和在线平台上，如GitHub或TikTok教程中，编程代表数字化生活方式和全球协作趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个程序员在屏幕前编写代码的场景，代码像建筑蓝图一样构建出虚拟世界。",
+      "keyElements": [
+        "键盘",
+        "代码行",
+        "屏幕界面"
+      ],
+      "emotionalConnection": "联结到个人成就感，如完成第一个程序时的兴奋，以增强长期记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'programming'联想为'pro' (专业) + 'gram' (文法或写作)，代表专业写作代码。",
+        "explanation": "通过视觉联想帮助记忆词汇结构，基于认知科学的空间记忆原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈproʊɡræmɪŋ/'听起来像'pro gaming'，但转化为'pro programming'以强调专业性。",
+        "explanation": "利用声音相似性创建有趣联想，减少记忆负担。"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "algorithm",
+      "debug"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "programming",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词用于描述过程，常置于句子主语或宾语位置。",
+        "examples": [
+          "Programming requires logical thinking."
+        ]
+      },
+      {
+        "pattern": "Gerund in sentences",
+        "description": "用作动名词，连接动词和名词功能。",
+        "examples": [
+          "I enjoy programming."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'program'",
+        "correction": "Use 'programming' for the process, 'program' for the software.",
+        "explanation": "中文学习者常混淆相似词汇；建议通过上下文练习区分。"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Avoid using as a verb without proper conjugation.",
+        "explanation": "由于它是动名词形式，非母语者可能误用为一般动词。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "computer science",
+      "software",
+      "digital skills"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

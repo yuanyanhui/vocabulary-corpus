@@ -1,0 +1,233 @@
+{
+  "word": "vertices",
+  "phonetics": {
+    "british": "/ˈvɜːtɪsiːz/",
+    "american": "/ˈvɝːtəsiːz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The plural form of vertex, referring to the points where two or more lines, edges, or curves meet, commonly used in geometry, graph theory, and related fields.",
+      "chineseTranslation": "顶点；角点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "graph vertices",
+      "meaning": "图形的顶点",
+      "example": "In a directed graph, the graph vertices represent nodes with incoming and outgoing edges.",
+      "exampleTranslation": "在有向图中，图形顶点代表具有传入和传出边的节点。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "polyhedral vertices",
+      "meaning": "多面体顶点",
+      "example": "The polyhedral vertices of a cube are where three faces intersect.",
+      "exampleTranslation": "立方体的多面体顶点是三个面相交的地方。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The vertices of the triangle are connected by straight lines.",
+      "translation": "三角形的顶点通过直线连接。",
+      "source": "Geometry textbook (e.g., from educational corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer graphics, vertices are used to define the shape of 3D models.",
+      "translation": "在计算机图形学中，顶点用于定义3D模型的形状。",
+      "source": "Technical article (e.g., from academic sources like IEEE)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The network's vertices represent cities, and the edges show the connections between them.",
+      "translation": "网络的顶点代表城市，边显示它们之间的连接。",
+      "source": "Scientific literature (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "vertex",
+        "meaning": "top, peak, or whirl",
+        "language": "Latin"
+      },
+      {
+        "root": "vertere",
+        "meaning": "to turn",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'vertex'，最初意为 '漩涡' 或 '顶部'，在古罗马时代用于描述物理高点；17世纪传入英语后，演变为几何学中线条或面相交的点，反映了从物理描述到抽象数学概念的演变过程。",
+    "firstKnownUse": "约1550年",
+    "relatedWords": [
+      "vertex",
+      "vertice (archaic form)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用视觉空间记忆将 'vertices' 联想成几何图形中的点位；通过重复练习几何问题增强语境记忆；建议初级学习者从简单图形入手，逐步增加复杂度，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nodes",
+        "similarity": "0.8",
+        "context": "在图论或网络语境中，常用于表示连接点的相似概念"
+      },
+      {
+        "word": "points",
+        "similarity": "0.6",
+        "context": "在几何学中，作为一般化描述，但不如 'vertices' 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "edges",
+        "context": "在图论中，'edges' 表示连接顶点的线条，与 'vertices' 形成互补关系"
+      }
+    ],
+    "hypernyms": [
+      "points"
+    ],
+    "hyponyms": [
+      "apex",
+      "corner points"
+    ],
+    "collocations": [
+      {
+        "pattern": "vertices of [noun]",
+        "examples": [
+          "vertices of a polygon",
+          "vertices of a graph"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] vertices",
+        "examples": [
+          "multiple vertices",
+          "adjacent vertices"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方教育文化中，该词象征数学和科学逻辑的精确性，常在STEM领域体现理性思维；隐含语义涉及从古希腊罗马几何学传承到现代科技的应用。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，更常用于技术语境，如计算机科学",
+        "usage": "例如，在硅谷的科技讨论中，'vertices' 频繁出现于算法描述"
+      },
+      {
+        "region": "英国",
+        "variation": "英式英语可能更注重历史语境，使用时强调几何学传统",
+        "usage": "在学术讲座中，常与拉丁语根源关联"
+      }
+    ],
+    "historicalContext": "与古希腊数学家如欧几里得的著作相关，体现了从文艺复兴时期科学复兴到当代数字时代的文化演变。",
+    "modernUsage": "在社交媒体和在线教育平台如YouTube或Khan Academy中，'vertices' 常用于虚拟现实和游戏开发讨论，反映了全球数字化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多边形，如三角形，其顶点如山峰般突出",
+      "keyElements": [
+        "山峰",
+        "连接线条",
+        "几何形状"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年画几何图形的乐趣，以增强积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'vertices' 联想为 'very tips'，表示 '非常顶端'",
+        "explanation": "通过声音和意义联想，强化词根记忆，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "V for Vertex Points",
+        "explanation": "使用首字母缩写创建简单口诀，帮助初级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "vertex",
+      "points",
+      "nodes",
+      "edges"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "vertices (irregular plural of vertex)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with prepositional phrase",
+        "description": "常作为主语或宾语出现，并与介词短语结合，如 'of a shape'",
+        "examples": [
+          "The vertices connect to form a network."
+        ]
+      },
+      {
+        "pattern": "In compound sentences",
+        "description": "用于复杂句中描述关系",
+        "examples": [
+          "Vertices and edges define the graph's structure."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'vertex' and using incorrectly in singular context",
+        "correction": "Use 'vertices' only for plural forms",
+        "explanation": "由于词形相似，学习者易混淆单复数；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Misplacing in sentence structure",
+        "correction": "Ensure proper placement as a noun in technical descriptions",
+        "explanation": "中文学习者可能受母语影响，错误地将它用作动词；结合句法分析可避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "教育",
+      "数学"
+    ],
+    "tags": [
+      "几何学",
+      "图论",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster",
+      "BNC"
+    ]
+  }
+}

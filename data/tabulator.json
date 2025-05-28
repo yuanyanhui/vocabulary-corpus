@@ -1,0 +1,233 @@
+{
+  "word": "tabulator",
+  "phonetics": {
+    "british": "/təˈbjʊleɪtə/",
+    "american": "/ˈtæbjəˌleɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine or device used for tabulating data, such as in accounting or early computing.",
+      "chineseTranslation": "制表机或数据整理设备",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a key or function that advances the cursor to the next tab stop, used for aligning text.",
+      "chineseTranslation": "在计算机中，用于跳到下一个制表位的键或功能",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tabulator key",
+      "meaning": "键盘上的制表键，用于文本对齐",
+      "example": "Press the tabulator key to indent the paragraph.",
+      "exampleTranslation": "按制表键来缩进段落。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mechanical tabulator",
+      "meaning": "机械式的制表机，常用于历史上的数据处理",
+      "example": "The mechanical tabulator revolutionized data processing in the early 20th century.",
+      "exampleTranslation": "机械制表机在20世纪初革新了数据处理。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The tabulator was an essential tool in the punch card era of computing.",
+      "translation": "制表机是计算机打孔卡片时代的重要工具。",
+      "source": "Historical computing texts, such as from the IBM archives",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In word processors, the tabulator function helps organize data into columns.",
+      "translation": "在文字处理器中，制表功能有助于将数据组织成列。",
+      "source": "Modern software documentation, e.g., Microsoft Word guides",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Early tabulators were invented to automate census data collection.",
+      "translation": "早期的制表机被发明用来自动化人口普查数据收集。",
+      "source": "Historical records from the U.S. Census Bureau",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "tabula",
+        "meaning": "A board or tablet, often used for writing or computing",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'tabula', meaning a flat board or tablet. It evolved through Middle English and French influences in the 19th century to refer to devices for arranging data in tables. By the late 19th century, it specifically denoted mechanical devices for tabulation, and in the 20th century, it adapted to computing contexts.",
+    "firstKnownUse": "1888, in reference to early calculating machines",
+    "relatedWords": [
+      "tabulate",
+      "table",
+      "tablet"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象一个老式计算机器来强化记忆；通过间隔重复法复习，关联到个人经验如使用键盘的场景，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "calculator",
+        "similarity": "0.7",
+        "context": "在历史计算设备语境中，常用于类似数据处理任务"
+      },
+      {
+        "word": "compiler",
+        "similarity": "0.5",
+        "context": "在编程语境中，部分重叠但不精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "manual processor",
+        "context": "强调自动化与手动处理的对比，常在效率讨论中"
+      }
+    ],
+    "hypernyms": [
+      "computing device"
+    ],
+    "hyponyms": [
+      "punch card tabulator"
+    ],
+    "collocations": [
+      {
+        "pattern": "tabulator + noun (e.g., key, machine)",
+        "examples": [
+          "tabulator key",
+          "tabulator function"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + tabulator (e.g., use a tabulator)",
+        "examples": [
+          "operate the tabulator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征工业革命和早期计算技术的进步，在西方文化中代表效率和数据管理的里程碑，尤其在美国，关联到像Hollerith卡片系统这样的发明。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in historical and technical contexts due to inventions like those by Herman Hollerith.",
+        "usage": "在美国英语中，常与商业和政府数据处理相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage but less frequent, often in academic discussions.",
+        "usage": "在英国英语中，更倾向于正式或历史语境"
+      }
+    ],
+    "historicalContext": "与19世纪末的统计学和计算历史相关，如用于1890年美国人口普查的设备，体现了科技对社会的影响。",
+    "modernUsage": "在现代社交媒体和数字工具中，更多用于编程讨论，如在Twitter或Stack Overflow上提到制表功能，但频率较低。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个老式办公室场景，里面有一台巨大的机械制表机在处理 punch cards，同时键盘上的制表键在闪烁。",
+      "keyElements": [
+        "机械装置",
+        "键盘键",
+        "数据卡片"
+      ],
+      "emotionalConnection": "联结到个人对科技进化的好奇或童年玩计算机的回忆，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tabulator sounds like 'table creator'; picture a machine building tables.",
+        "explanation": "通过视觉联想将词汇与创建表格的图像连接，运用认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "T-A-B: Think of 'Table Aligning Button'.",
+        "explanation": "使用首字母缩略来简化记忆，结合重复练习以强化神经通路。"
+      }
+    ],
+    "wordAssociations": [
+      "table",
+      "compute",
+      "align"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tabulators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + tabulator + [modifier]",
+        "description": "典型名词短语结构，用于描述设备或功能",
+        "examples": [
+          "the tabulator key"
+        ]
+      },
+      {
+        "pattern": "In sentences: Subject + verb + tabulator",
+        "description": "作为主语或宾语出现",
+        "examples": [
+          "The tabulator processes data efficiently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'tabulator' as a verb",
+        "correction": "Use as a noun only; for actions, use 'tabulate'",
+        "explanation": "该词是名词，非动词；错误可能源于词形相似，建议通过语境区分"
+      },
+      {
+        "mistake": "Misspelling as 'tabulater'",
+        "correction": "Correct spelling is 'tabulator'",
+        "explanation": "拼写错误常由于元音混淆；通过发音练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked low in COCA corpus (approximately 0.01 per million words)",
+    "domains": [
+      "technology",
+      "computing",
+      "history"
+    ],
+    "tags": [
+      "computing terminology",
+      "historical device",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

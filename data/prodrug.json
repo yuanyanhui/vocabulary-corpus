@@ -1,0 +1,226 @@
+{
+  "word": "prodrug",
+  "phonetics": {
+    "british": "/ˈprəʊdrʌɡ/",
+    "american": "/ˈproʊdrʌɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A compound that, after administration, is converted into a pharmacologically active drug within the body through metabolic processes.",
+      "chineseTranslation": "前药",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prodrug activation",
+      "meaning": "前药活化过程",
+      "example": "The prodrug activation occurs in the liver, transforming the inactive compound into its active form.",
+      "exampleTranslation": "前药活化发生在肝脏，将非活性化合物转化为其活性形式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "prodrug design",
+      "meaning": "前药设计",
+      "example": "Prodrug design is a key strategy in pharmaceutical research to improve drug solubility and bioavailability.",
+      "exampleTranslation": "前药设计是制药研究中的关键策略，用于改善药物溶解度和生物利用度。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many anticancer therapies rely on prodrugs that are activated specifically in tumor cells to minimize side effects.",
+      "translation": "许多抗癌疗法依赖于前药，这些前药在肿瘤细胞中特异性活化，以最小化副作用。",
+      "source": "Medical literature (e.g., from PubMed articles)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The physician prescribed a prodrug for the patient to ensure better absorption in the gastrointestinal tract.",
+      "translation": "医生为患者开了一种前药，以确保在胃肠道中更好地吸收。",
+      "source": "Health education materials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern pharmacology, prodrugs are engineered to enhance drug delivery and reduce toxicity.",
+      "translation": "在现代药理学中，前药被设计以增强药物递送并降低毒性。",
+      "source": "Scientific journals (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Old English",
+    "rootWords": [
+      {
+        "root": "pro-",
+        "meaning": "before or forward",
+        "language": "Greek"
+      },
+      {
+        "root": "drug",
+        "meaning": "a substance used in the treatment, cure, prevention, or diagnosis of disease",
+        "language": "Old English (from Old French 'droge')"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语前缀 'pro-'（意为'之前'或'前置'），结合英语 'drug'，在20世纪中叶的制药领域发展而成。最初用于描述需要在体内代谢转化为活性物质的化合物，随着药物化学的进步，该术语在1950年代被正式采用，以解决药物递送的挑战。",
+    "firstKnownUse": "1957",
+    "relatedWords": [
+      "precursor",
+      "metabolite",
+      "bioprecursor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'prodrug' 与其代谢过程关联，例如想象一个'前置步骤'的视觉流程图，以增强记忆保留；",
+      "通过重复暴露（spaced repetition）在医疗语境中练习该词，以利用长期记忆形成；",
+      "使用双编码（dual coding）方法，将英文定义与中文翻译配对，并结合个人经验，如回想药物广告，以提高语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "precursor drug",
+        "similarity": "0.8",
+        "context": "适用于药物开发语境中，指代需要活化的化合物"
+      },
+      {
+        "word": "bioprecursor",
+        "similarity": "0.7",
+        "context": "在生物制药领域中使用，强调生物转化过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "active drug",
+        "context": "在药物分类中，指代无需进一步代谢即可发挥作用的直接活性物质"
+      }
+    ],
+    "hypernyms": [
+      "drug",
+      "compound"
+    ],
+    "hyponyms": [
+      "ester prodrug",
+      "amide prodrug"
+    ],
+    "collocations": [
+      {
+        "pattern": "prodrug + activation/noun",
+        "examples": [
+          "prodrug activation mechanism"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "design + prodrug/verb",
+        "examples": [
+          "design a prodrug for cancer treatment"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征着创新药物递送技术，隐含语义强调安全性和效率，但在跨文化语境中，如中国传统医学中，可能与草药前体概念类似，体现了现代科学与传统疗法的融合。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于FDA法规语境",
+        "usage": "在美国英语中，强调在临床试验中的应用，以突出药物监管"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能与欧洲药品局（EMA）标准相关联",
+        "usage": "在英国英语中，常见于学术出版物中，关注历史制药发展"
+      }
+    ],
+    "historicalContext": "与20世纪后期的制药革命相关联，如青霉素的改进，反映了二战后科学进步和社会对医疗革新的需求。",
+    "modernUsage": "在社交媒体和在线健康论坛中，该词的传播趋势增加，特别是在COVID-19疫苗开发讨论中，用于解释mRNA疫苗的前体形式。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁着的药瓶（代表非活性状态），通过钥匙（代谢过程）打开后释放出光辉的活性药物。",
+      "keyElements": [
+        "锁着的瓶子",
+        "钥匙",
+        "光辉药物"
+      ],
+      "emotionalConnection": "联结个人经验，如回想吃药后的效果变化，以触发积极的情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Prodrug sounds like 'pro' as in 'before drug', so think of it as the 'before version' of a medicine.",
+        "explanation": "通过声音联想和概念映射，帮助学习者将词汇与时间序列关联，基于认知心理学中的心智模型理论"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O: Precursor-Ready-Only, meaning it's ready only after processing.",
+        "explanation": "使用缩略形式创建简易记忆钩子，结合工作记忆容量限制以提升长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "precursor",
+      "metabolism",
+      "pharmacology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "prodrugs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词使用，常与形容词或动词短语搭配，如 'a specific prodrug for treatment'",
+        "examples": [
+          "The prodrug is administered orally."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing prodrug with active drug",
+        "correction": "Use prodrug only for compounds that require metabolism",
+        "explanation": "学习者常混淆语义复杂度，需通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "prodrugs (simply add -s)",
+        "explanation": "由于英语名词规则简单，但非母语者可能遗忘常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 150,000 in COCA corpus (medium in medical domains)",
+    "domains": [
+      "medicine",
+      "pharmacology",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "health",
+      "chemistry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

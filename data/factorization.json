@@ -1,0 +1,240 @@
+{
+  "word": "factorization",
+  "phonetics": {
+    "british": "/ˌfæktəraɪˈzeɪʃ(ə)n/",
+    "american": "/ˌfæktərəˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of breaking down a number, expression, or quantity into its constituent factors, especially in mathematics.",
+      "chineseTranslation": "因式分解",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prime factorization",
+      "meaning": "质因式分解",
+      "example": "The prime factorization of 12 is 2 × 2 × 3.",
+      "exampleTranslation": "12 的质因式分解是 2 × 2 × 3。",
+      "frequency": "high in mathematical contexts"
+    },
+    {
+      "phrase": "matrix factorization",
+      "meaning": "矩阵分解",
+      "example": "Matrix factorization is used in data compression algorithms.",
+      "exampleTranslation": "矩阵分解用于数据压缩算法。",
+      "frequency": "medium in technical fields"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Factorization is essential for solving quadratic equations in algebra.",
+      "translation": "因式分解是求解代数中二次方程的关键。",
+      "source": "Educational textbook (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cryptography, factorization of large primes underpins the security of RSA algorithms.",
+      "translation": "在密码学中，大质数的因式分解是 RSA 算法安全性的基础。",
+      "source": "Scientific article (e.g., from a computer science journal)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The teacher explained the factorization of polynomials during the lecture.",
+      "translation": "老师在讲座中解释了多项式的因式分解。",
+      "source": "Academic lecture notes",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "factor",
+        "meaning": "one who acts or makes",
+        "language": "Latin"
+      },
+      {
+        "root": "-ization",
+        "meaning": "process of forming or creating",
+        "language": "Greek via Latin suffix"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'factor'，意为 '制造者' 或 '行动者'，源自 'facere' (意为 'to make')。该词通过添加后缀 '-ization' 演变为表示过程的抽象名词形式，在19世纪数学发展中用于描述分解数字或表达式的过程。",
+    "firstKnownUse": "Mid-19th century",
+    "relatedWords": [
+      "factor",
+      "factorize",
+      "factorisation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用视觉映射将词汇与数学图表关联；通过重复练习实际问题来强化记忆路径，避免抽象概念的认知负载过高。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "factoring",
+        "similarity": "0.9",
+        "context": "在数学领域分解数字或表达式时，尤其在美式英语中"
+      },
+      {
+        "word": "decomposition",
+        "similarity": "0.7",
+        "context": "更广泛的语境中表示分解过程，但不限于数学"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "synthesis",
+        "context": "与分解相对的合成或组合过程，在科学或数学语境中"
+      },
+      {
+        "word": "integration",
+        "context": "表示整合或合并的概念，在技术领域"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "decomposition"
+    ],
+    "hyponyms": [
+      "prime factorization",
+      "integer factorization",
+      "polynomial factorization"
+    ],
+    "collocations": [
+      {
+        "pattern": "of [noun]",
+        "examples": [
+          "factorization of numbers",
+          "factorization of matrices"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] factorization",
+        "examples": [
+          "complete factorization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征分析和逻辑思维的核心能力，常与数学教育和科学创新相关联；在中文文化中，与传统数学教学类似，但强调实际应用如工程问题解决。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "使用 'factorization' 作为标准拼写。",
+        "usage": "在美式英语中常见于教育和科技语境，无显著差异"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "有时使用 'factorisation' (带有 's') 的英式拼写变体。",
+        "usage": "在正式学术写作中可能出现，但 'factorization' 亦被接受"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲数学革命相关联，例如在代数和数论的发展中；在文学和社会中，象征理性分析，如在科学小说中出现。",
+    "modernUsage": "在社交媒体和在线教育平台上，如 YouTube 教程或 Reddit 讨论中，常用以解释算法和 AI 应用，反映数字时代的技术趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂车间（factory）将大块材料分解成小部件的过程。",
+      "keyElements": [
+        "工厂",
+        "分解",
+        "部件"
+      ],
+      "emotionalConnection": "联结个人学习数学时的成就感或解决难题的兴奋，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Factorization 听起来像 'factory station'，表示一个分解站。",
+        "explanation": "通过声音和视觉联想帮助建立长期记忆路径，基于认知联想原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "F-A-C-T：Factors Are Crucial To Decomposition.",
+        "explanation": "使用首字母缩略词强化词汇结构，结合重复回忆以优化工作记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "factor",
+      "decompose",
+      "multiply"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "factorizations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [factorization] of [object]",
+        "description": "描述特定对象的分解过程，常用于名词短语。",
+        "examples": [
+          "The factorization of 100 reveals its prime factors."
+        ]
+      },
+      {
+        "pattern": "[Subject] involves [factorization]",
+        "description": "表示过程或方法的句法结构。",
+        "examples": [
+          "Algebra involves factorization techniques."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'factorization' with 'factorisation'",
+        "correction": "Use 'factorization' in American English contexts.",
+        "explanation": "英式英语可能使用 'factorisation'，但在国际语境中标准化为 'factorization' 以避免拼写错误。"
+      },
+      {
+        "mistake": "Misusing as a verb",
+        "correction": "Treat it as a noun only.",
+        "explanation": "该词为名词，不能直接用作动词；应使用 'factorize' 表示动作。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank 15,000 in COCA), high in specialized domains like math corpora",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Education",
+      "Technology"
+    ],
+    "tags": [
+      "Algebra",
+      "Decomposition",
+      "Numerical Analysis",
+      "Cryptography"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Merriam-Webster Dictionary",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

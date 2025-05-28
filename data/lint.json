@@ -1,0 +1,263 @@
+{
+  "word": "lint",
+  "phonetics": {
+    "british": "/lɪnt/",
+    "american": "/lɪnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A soft, fleecy substance made from scraped linen or other fibers, often used for medical dressings or as a filter material.",
+      "chineseTranslation": "棉绒",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a program or tool that analyzes source code for potential errors, style issues, or bugs.",
+      "chineseTranslation": "代码检查工具",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To check or clean something, such as code, for errors or to remove lint.",
+      "chineseTranslation": "检查或清除棉绒",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lint roller",
+      "meaning": "用于去除衣服上棉绒的滚筒工具",
+      "example": "She used a lint roller to remove pet hair from her jacket.",
+      "exampleTranslation": "她用棉绒滚筒去除夹克上的宠物毛发。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lint trap",
+      "meaning": "捕捉棉绒的装置，通常用于洗衣机",
+      "example": "Always clean the lint trap in the dryer to prevent fires.",
+      "exampleTranslation": "总是清洁烘干机的棉绒陷阱以防止火灾。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "run lint",
+      "meaning": "运行代码检查工具",
+      "example": "Developers should run lint on their code before committing changes.",
+      "exampleTranslation": "开发人员在提交更改前应运行代码检查工具。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old sweater was covered in lint after being in the dryer.",
+      "translation": "旧毛衣在烘干机里后布满了棉绒。",
+      "source": "Everyday conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, lint tools help maintain code quality.",
+      "translation": "在软件开发中，代码检查工具有助于维护代码质量。",
+      "source": "Technical article from sources like Stack Overflow",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He carefully applied the lint to the wound to stop the bleeding.",
+      "translation": "他小心地将棉绒敷在伤口上以止血。",
+      "source": "Medical literature, e.g., from historical texts",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "lins",
+        "meaning": "Flax (a plant fiber)",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "The word 'lint' derives from Old English 'lins', meaning flax, and evolved through Middle English to refer to the soft fibers produced from processing flax or similar materials. By the 17th century, it extended metaphorically to medical contexts for dressings and later to computing in the 20th century as a term for code analysis tools, reflecting technological advancements.",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "flax",
+      "linen",
+      "fuzz"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": 2,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 5,
+    "usageComplexity": 4,
+    "learningTips": [
+      "利用认知关联法，将 'lint' 与日常生活中的棉绒或编程工具联系起来，例如想象 'lint' 像是一张网捕捉错误，这有助于强化记忆；",
+      "根据双编码理论，结合视觉图像和听觉重复，如绘制 'lint' 在衣服上的图片并大声朗读；",
+      "采用间隔重复系统（Spaced Repetition System）来复习词汇在不同语境下的用法，以提升长期保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fuzz",
+        "similarity": 0.8,
+        "context": "在日常语境中，用于描述软质纤维，如衣服上的棉绒"
+      },
+      {
+        "word": "fluff",
+        "similarity": 0.7,
+        "context": "在非正式语境中，指轻盈的纤维物质"
+      },
+      {
+        "word": "linter",
+        "similarity": 0.9,
+        "context": "在技术语境中，指代码分析工具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "smooth",
+        "context": "在描述材质时，指光滑无纤维的表面"
+      },
+      {
+        "word": "error-free",
+        "context": "在编程语境中，指没有错误的代码"
+      }
+    ],
+    "hypernyms": [
+      "fiber",
+      "tool"
+    ],
+    "hyponyms": [
+      "cotton lint",
+      "code linter"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + lint (e.g., dryer lint)",
+        "examples": [
+          "Dryer lint accumulates quickly."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + lint (e.g., remove lint)",
+        "examples": [
+          "Always remove lint from clothes."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'lint' 作为棉绒象征实用性和日常维护，常出现在家庭或医疗语境中，无显著隐含语义；在技术文化中，它代表代码质量控制，体现现代编程社区的规范性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in everyday contexts like laundry.",
+        "usage": "在美国英语中，强调实用工具，如 'lint roller' 在家庭清洁中的流行"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with historical ties to textile industries.",
+        "usage": "在英国英语中，可能与历史纺织工业相关联，常用于医疗或历史语境"
+      }
+    ],
+    "historicalContext": " historically associated with the textile industry in Britain during the Industrial Revolution, where lint was a byproduct; in modern times, it links to digital culture through programming, reflecting shifts from manual to technological societies.",
+    "modernUsage": "在社交媒体和在线社区中，'lint' 常用于技术讨论，如 GitHub 帖子中；其使用趋势显示了从传统家居词汇向数字领域的扩展"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个毛衣上粘满棉绒的画面，旁边有一台电脑屏幕显示代码检查工具在捕捉错误。",
+      "keyElements": [
+        "棉绒图像",
+        "代码屏幕",
+        "捕捉网的概念"
+      ],
+      "emotionalConnection": "联结到个人经验，如清理衣服时的 frustration 或修复代码时的成就感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Lint like a net: catches fuzz and bugs.",
+        "explanation": "通过视觉联想将 'lint' 比作一个网，捕捉棉绒或代码错误，帮助初级学习者建立直观连接"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sound like 'lint' rhymes with 'hint' – a hint to clean up.",
+        "explanation": "利用 rhymes 和声音相似性，提醒用户 'lint' 暗示清理或检查，基于认知语音记忆原理"
+      }
+    ],
+    "wordAssociations": [
+      "fuzz",
+      "clean",
+      "code",
+      "fiber"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lints (though rarely used; typically uncountable)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the lint on the clothes')",
+        "description": "作为名词出现在短语中，表示物质或工具",
+        "examples": [
+          "The lint in the dryer caused a blockage."
+        ]
+      },
+      {
+        "pattern": "Verb usage in imperative (e.g., 'Lint the code')",
+        "description": "在技术语境中用作动词，命令式结构",
+        "examples": [
+          "Please lint the file before submitting."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'lint' with 'lent' in spelling.",
+        "correction": "Use 'lint' for fibers or tools, not 'lent' which means borrowed.",
+        "explanation": "源自语音相似性；通过练习发音区分 /lɪnt/ 和 /lɛnt/"
+      },
+      {
+        "mistake": "Using 'lint' incorrectly in non-technical contexts.",
+        "correction": "Ensure context matches, e.g., not using it for code in casual talk.",
+        "explanation": "由于语义模糊性；学习者应注意语域以避免误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "Household",
+      "Medical",
+      "Technology",
+      "Textiles"
+    ],
+    "tags": [
+      "Material",
+      "Tool",
+      "Programming",
+      "Daily life"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "atomicity",
+  "phonetics": {
+    "british": "/ˌæt.əˈmɪs.ɪ.ti/",
+    "american": "/ˌæt̬.əˈmɪs.ə.t̬i/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being composed of indivisible units; in computing, the property that ensures a series of operations is completed as a single, indivisible action, or not at all.",
+      "chineseTranslation": "原子性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, the number of atoms in a molecule of an element.",
+      "chineseTranslation": "原子度",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ensure atomicity",
+      "meaning": "确保操作的原子性，即操作要么完全成功，要么完全失败",
+      "example": "In database transactions, we must ensure atomicity to maintain data integrity.",
+      "exampleTranslation": "在数据库事务中，我们必须确保原子性以维护数据完整性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "atomicity of transactions",
+      "meaning": "交易的原子性，指一系列操作作为一个不可分割的整体",
+      "example": "The atomicity of transactions is a key principle in ACID properties.",
+      "exampleTranslation": "交易的原子性是ACID属性中的关键原则。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The atomicity of the database operation prevents partial updates that could lead to errors.",
+      "translation": "数据库操作的原子性可以防止部分更新导致的错误。",
+      "source": "Technical documentation (e.g., from software engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, atomicity ensures that money transfers are either fully completed or not at all.",
+      "translation": "在现代计算中，原子性确保资金转账要么完全完成，要么完全不发生。",
+      "source": "News articles on technology",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Chemists study the atomicity of elements to understand molecular structures.",
+      "translation": "化学家研究元素的原子度来理解分子结构。",
+      "source": "Academic literature (e.g., chemistry textbooks)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "atomos",
+        "meaning": "indivisible",
+        "language": "Ancient Greek"
+      },
+      {
+        "root": "icity",
+        "meaning": "state or quality of",
+        "language": "Latin (suffix derived from -itas)"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'atomos'，意为'不可分割的'，最初用于哲学和科学讨论物质的基本单位。17世纪传入英语，指化学中的原子概念；20世纪扩展到计算机科学中，指操作的不可分割性，尤其在数据库和并发编程领域的发展。",
+    "firstKnownUse": "1660s",
+    "relatedWords": [
+      "atomic",
+      "atom",
+      "molecule"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块编码策略，将 'atomicity' 与 'atom' 的视觉图像（如原子模型）关联，构建心智图以增强记忆；对于中文母语学习者，建议通过重复练习技术语境下的句子，以降低语义抽象性的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "indivisibility",
+        "similarity": "0.8",
+        "context": "适用于技术语境中强调操作完整性的情况，例如数据库事务"
+      },
+      {
+        "word": "all-or-nothing",
+        "similarity": "0.7",
+        "context": "在非正式讨论中，用于描述必须完全执行或完全不执行的操作"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "divisibility",
+        "context": "适用于强调可分割操作的语境，如非原子性事务处理"
+      },
+      {
+        "word": "fragmentation",
+        "context": "在数据存储或化学分解的语境中，表示可分割性"
+      }
+    ],
+    "hypernyms": [
+      "property",
+      "quality"
+    ],
+    "hyponyms": [
+      "transaction atomicity",
+      "database atomicity"
+    ],
+    "collocations": [
+      {
+        "pattern": "ensure + atomicity",
+        "examples": [
+          "We ensure atomicity in our system."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "atomicity in + context",
+        "examples": [
+          "Atomicity in transactions is crucial."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科技文化中象征现代计算和数据完整性的核心原则，体现出对可靠性和效率的追求；在跨文化语境中，中国学习者可能将其与量子物理或编程文化关联，隐含了对全球数字化转型的适应。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于软件工程和IT行业",
+        "usage": "在美国英语中，强调在商业应用中的实际性，如金融交易"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术和理论讨论中更常见",
+        "usage": "英国英语可能更注重其化学起源和历史语境"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪计算机科学的发展相关，源自希腊哲学传统，通过启蒙运动传播；在文学和社会中，如科幻作品中代表科技进步。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于编程讨论和教育视频，反映数字时代的语言演变"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个坚不可摧的原子球体，内部包含多个齿轮，只有全部齿轮转动才完成整个过程。",
+      "keyElements": [
+        "原子球体",
+        "齿轮机制",
+        "完整性"
+      ],
+      "emotionalConnection": "联结到个人经验，如完成一个项目必须所有步骤都成功，以触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'atomicity' 联想为 'atom + city'，想象一个由原子组成的城市，只有整体运转才稳定。",
+        "explanation": "通过视觉联想增强记忆痕迹，基于认知科学的空间编码原理"
+      },
+      {
+        "type": "缩略",
+        "content": "A for Atomic, T for Total, O for Operation, M for Must, I for Indivisible, C for Complete, I for Integrity, T for Transaction – 形成 'ATOMICITY' 的首字母缩略词。",
+        "explanation": "利用重复和结构化编码，帮助中级学习者降低词汇保留的认知负担"
+      }
+    ],
+    "wordAssociations": [
+      "atom",
+      "integrity",
+      "transaction",
+      "indivisible"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "atomicities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与形容词或介词短语搭配，表示具体属性",
+        "examples": [
+          "The atomicity of the process ensures safety."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词结构中，强调语境",
+        "examples": [
+          "Atomicity in computing is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'atomic'",
+        "correction": "Use 'atomicity' for the abstract concept, not 'atomic'",
+        "explanation": "学习者常混淆形容词和名词形式，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'atomicities' for plural, but it's rare",
+        "explanation": "由于英语名词规则的多样性，中级学习者可能遗忘添加 '-ies'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus for general use, but high in technical sub-corpora)",
+    "domains": [
+      "科技",
+      "计算机",
+      "化学"
+    ],
+    "tags": [
+      "技术术语",
+      "科学词汇",
+      "抽象概念"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

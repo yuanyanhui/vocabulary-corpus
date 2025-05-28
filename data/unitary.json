@@ -1,0 +1,263 @@
+{
+  "word": "unitary",
+  "phonetics": {
+    "british": "/ˈjuːnɪtəri/",
+    "american": "/ˈjuːnɪtɛri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of or relating to a single unit or whole; uniform and not divided into parts.",
+      "chineseTranslation": "单一的；统一的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In political contexts, referring to a system of government where power is centralized in a single authority rather than being divided among regional entities.",
+      "chineseTranslation": "中央集权的；在政治中指权力集中在单一权威的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In mathematics, describing an element that has a multiplicative inverse, such as a unitary matrix.",
+      "chineseTranslation": "幺正的；在数学中指具有乘法逆元的",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unitary state",
+      "meaning": "单一制国家，指中央政府拥有主要权力的国家结构",
+      "example": "France is often cited as a classic example of a unitary state.",
+      "exampleTranslation": "法国通常被视为单一制国家的典型例子。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "unitary government",
+      "meaning": "统一政府，指权力集中在中央而非地方的治理体系",
+      "example": "The unitary government system can lead to more efficient decision-making.",
+      "exampleTranslation": "统一政府体系可以导致更高效的决策。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "unitary matrix",
+      "meaning": "幺正矩阵，指在数学中满足特定性质的矩阵",
+      "example": "In linear algebra, a unitary matrix preserves the norm of vectors.",
+      "exampleTranslation": "在线性代数中，幺正矩阵保持向量的范数。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The unitary structure of the organization ensures that all departments work towards a common goal.",
+      "translation": "该组织的单一结构确保所有部门朝着共同目标努力。",
+      "source": "Business management literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a unitary system, local governments have limited autonomy compared to federal systems.",
+      "translation": "在单一制系统中，地方政府相对于联邦制具有有限的自治权。",
+      "source": "Political science texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers designed a unitary component to simplify the assembly process.",
+      "translation": "工程师设计了一个单一组件来简化组装过程。",
+      "source": "Technical engineering reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "unitas",
+        "meaning": "unity or oneness",
+        "language": "Latin"
+      },
+      {
+        "root": "unus",
+        "meaning": "one",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'unus'（意为 'one'），演变为 'unitas'（意为 'unity'），在14世纪传入英语，通过中世纪拉丁语 'unitarius' 发展为现代形容词形式，用于描述单一或统一的实体，在17世纪开始在政治和科学语境中广泛使用。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "unity",
+      "unit",
+      "unite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'unitary' 与 'unit' 的基本概念联系起来；通过视觉联想，如想象一个完整的拼图，帮助强化语义记忆；对于初级学习者，建议从日常语境开始，避免直接进入技术领域以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "single",
+        "similarity": "0.8",
+        "context": "适用于描述简单或非分化的语境，例如 'a single entity'（一个单一实体）"
+      },
+      {
+        "word": "whole",
+        "similarity": "0.7",
+        "context": "适用于强调完整性的语境，例如 'a whole system'（一个完整系统）"
+      },
+      {
+        "word": "uniform",
+        "similarity": "0.9",
+        "context": "适用于描述一致性的语境，例如 'uniform standards'（统一的标准）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "divided",
+        "context": "适用于政治或结构语境中，表示分裂或分散的，例如 'a divided government'（一个分裂的政府）"
+      },
+      {
+        "word": "federal",
+        "context": "适用于政府结构语境中，表示权力分散的，例如 'a federal system'（一个联邦制系统）"
+      }
+    ],
+    "hypernyms": [
+      "adjective descriptors of structure"
+    ],
+    "hyponyms": [
+      "unitary state",
+      "unitary matrix"
+    ],
+    "collocations": [
+      {
+        "pattern": "unitary + noun (e.g., state, system)",
+        "examples": [
+          "unitary state",
+          "unitary government"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + unitary (e.g., fully unitary)",
+        "examples": [
+          "fully unitary system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含中央集权的象征意义，特别是在英国和法国等单一制国家的政治 discourse 中，代表国家统一与效率，但在中国文化语境中，可能与强调集中的社会和谐概念相关联。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于描述政治结构，如英国的单一制传统",
+        "usage": "在英国英语中，强调历史上的君主制影响"
+      },
+      {
+        "region": "United States",
+        "variation": "较少使用于本土语境，而更多对比联邦制",
+        "usage": "在美国英语中，常用于学术讨论中以突出差异"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的历史背景有关，例如18世纪的法国大革命推动了单一制政府的兴起；在文学中，如狄更斯的作品中，隐喻社会统一的主题。",
+    "modernUsage": "在现代社交媒体和全球政治讨论中，常见于辩论中央 vs. 地方权力的趋势，例如在Twitter或新闻报道中讨论欧盟的治理模式。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个完整的圆环或单一的拼图块，表示没有分裂的整体结构。",
+      "keyElements": [
+        "圆环",
+        "拼图块",
+        "整体"
+      ],
+      "emotionalConnection": "联结到个人经验，如完成一个团队项目时的成就感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'unitary' 联想为 'one-itary'，像 'one' 加 'military' 的结合，代表单一的指挥系统。",
+        "explanation": "通过声音联想和视觉化，帮助学习者快速回忆词根和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-I-T (One Nation In Total)",
+        "explanation": "使用首字母缩写创建短语，结合认知科学中的重复强化法"
+      }
+    ],
+    "wordAssociations": [
+      "unity",
+      "unified",
+      "one"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more unitary",
+      "superlative": "most unitary"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + unitary",
+        "description": "用于描述主语的单一特性，例如在句子中作表语",
+        "examples": [
+          "The system is unitary."
+        ]
+      },
+      {
+        "pattern": "Unitary + noun",
+        "description": "用于修饰名词，表示整体结构",
+        "examples": [
+          "a unitary approach"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'unit'",
+        "correction": "Use 'unitary' for adjectives describing unity",
+        "explanation": "学习者常将 'unitary' 与 'unit' 混淆，因为词根相似；建议通过语境区分"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for formal or technical use",
+        "explanation": "作为正式词汇，在非正式对话中易被误用；结合语域意识进行练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Politics",
+      "Science",
+      "Business"
+    ],
+    "tags": [
+      "Adjective",
+      "Structure",
+      "Unity"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "word": "incremental",
+  "phonetics": {
+    "british": "/ˌɪnkrəˈmɛnt(ə)l/",
+    "american": "/ˌɪnkrəˈmɛntl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a gradual increase or addition, often in a series or step-by-step manner.",
+      "chineseTranslation": "渐进的；增量的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Characterized by small, successive improvements or changes rather than radical ones.",
+      "chineseTranslation": "逐步的；累进的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "incremental change",
+      "meaning": "逐步变化",
+      "example": "The company implemented incremental changes to its policies to avoid disruption.",
+      "exampleTranslation": "公司对政策进行了逐步变化，以避免中断。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "incremental backup",
+      "meaning": "增量备份",
+      "example": "An incremental backup only saves the files that have changed since the last backup.",
+      "exampleTranslation": "增量备份只保存自上次备份以来发生变化的文件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "incremental improvement",
+      "meaning": "逐步改进",
+      "example": "Through incremental improvement, the software became more efficient over time.",
+      "exampleTranslation": "通过逐步改进，软件在一段时间内变得更高效。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The project's success was due to incremental progress made over several months.",
+      "translation": "项目的成功归功于几个月来的逐步进展。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, incremental updates help save storage space by only adding new data.",
+      "translation": "在计算中，增量更新通过仅添加新数据来节省存储空间。",
+      "source": "Technical documentation (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She preferred incremental learning methods, building skills one step at a time.",
+      "translation": "她更喜欢逐步学习方法，一步一步地构建技能。",
+      "source": "Educational texts (e.g., from academic sources)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "incrementum",
+        "meaning": "growth or increase",
+        "language": "Latin"
+      },
+      {
+        "root": "increscere",
+        "meaning": "to grow or increase",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'incrementum'，意为增长或增加，由 'in-'（进入）和 'crescere'（增长）组成。在中世纪拉丁语中演变为技术术语，17世纪进入英语，主要用于数学和科学语境，逐渐扩展到现代管理和技术领域，表示逐步累积的过程。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "increment",
+      "decrement"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "5",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将词汇与实际步骤关联，例如将 'incremental' 与日常生活中的小改进联系；使用重复间隔法（spaced repetition）复习技术语境；创建个人叙事以增强语义记忆，例如想象一个逐步攀登阶梯的场景以强化词汇含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "gradual",
+        "similarity": "0.8",
+        "context": "适用于描述缓慢、逐步的过程，如教育或改革领域"
+      },
+      {
+        "word": "step-by-step",
+        "similarity": "0.7",
+        "context": "常用于指导性语境，如教学或技术指南"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sudden",
+        "context": "适用于快速或突发的变化，与渐进过程相对"
+      },
+      {
+        "word": "abrupt",
+        "context": "常在商业或社会变化中，表示非渐进式的转变"
+      }
+    ],
+    "hypernyms": [
+      "progressive",
+      "cumulative"
+    ],
+    "hyponyms": [
+      "iterative"
+    ],
+    "collocations": [
+      {
+        "pattern": "incremental + noun (e.g., change, improvement)",
+        "examples": [
+          "incremental change",
+          "incremental development"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + incremental (e.g., fully incremental)",
+        "examples": [
+          "fully incremental approach"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征效率和可持续性，尤其在科技和商业领域，体现出注重渐进改进的文化价值观，如硅谷创业文化强调的迭代发展。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，常与创新相关联，例如在商业会议中讨论 'incremental innovation'"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向正式学术语境",
+        "usage": "在英国英语中，常用于政策改革，强调逐步实施以减少风险"
+      }
+    ],
+    "historicalContext": "与工业革命和现代管理理论相关联，如泰勒制强调的效率改进；在文学和社会评论中，代表理性主义对激进变革的反思。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论个人发展或技术更新，例如TikTok上的学习视频中出现 'incremental habits'"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯，每一步代表一个小增量，通往山顶的成功。",
+      "keyElements": [
+        "阶梯",
+        "逐步上升",
+        "增长过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己的学习进步，触发成就感和动机"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'Incremental' 听起来像 'increase mental'，表示逐步增加心理技能。",
+        "explanation": "通过声音联想强化词汇与增长概念的连接，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-C-R-E-A-S-E (Incremental as a form of increase)",
+        "explanation": "使用首字母缩写创建易记序列，运用工作记忆模式"
+      }
+    ],
+    "wordAssociations": [
+      "gradual",
+      "build-up",
+      "stepwise"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more incremental",
+      "superlative": "most incremental"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + incremental + in + noun",
+        "description": "描述某事在某个方面是渐进的",
+        "examples": [
+          "The process is incremental in nature."
+        ]
+      },
+      {
+        "pattern": "Incremental + noun phrase",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "Incremental changes were made to the design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'incremental' as a verb",
+        "correction": "Use as an adjective only",
+        "explanation": "该词仅为形容词，非动词；错误可能源于误解其词源"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for formal or technical discussions",
+        "explanation": "在非正式语境中，可能被误用为过于正式的术语，影响交流流畅性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "progressive"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "word": "endotoxemia",
+  "phonetics": {
+    "british": "/ˌɛn.doʊ.tɒkˈsiː.mi.ə/",
+    "american": "/ˌɛn.doʊ.tɑkˈsiː.mi.ə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A condition characterized by the presence of endotoxins in the blood, often resulting from bacterial infections and leading to systemic inflammatory responses.",
+      "chineseTranslation": "内毒血症",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acute endotoxemia",
+      "meaning": "急性内毒血症",
+      "example": "The patient developed acute endotoxemia after the surgery.",
+      "exampleTranslation": "患者在手术后出现了急性内毒血症。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "septic endotoxemia",
+      "meaning": "败血性内毒血症",
+      "example": "Septic endotoxemia is a common complication in intensive care units.",
+      "exampleTranslation": "败血性内毒血症是重症监护室常见的并发症。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Endotoxemia can lead to severe organ failure if not treated promptly.",
+      "translation": "如果不及时治疗，内毒血症可能导致严重的器官衰竭。",
+      "source": "Medical literature (e.g., journals like The Lancet)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The research team studied the effects of endotoxemia on immune responses in animal models.",
+      "translation": "研究团队研究了内毒血症对动物模型免疫反应的影响。",
+      "source": "Scientific publications (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In cases of endotoxemia, antibiotics are often administered to eliminate the source of endotoxins.",
+      "translation": "在内毒血症病例中，通常使用抗生素来消除内毒素的来源。",
+      "source": "Clinical guidelines (e.g., WHO reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "endo-",
+        "meaning": "内部、内侧",
+        "language": "希腊语"
+      },
+      {
+        "root": "toxo-",
+        "meaning": "毒素、毒药",
+        "language": "希腊语"
+      },
+      {
+        "root": "-emia",
+        "meaning": "血液",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的微生物学发展时期，源自希腊语词汇组合而成。'Endo-' 表示内部，'toxo-' 表示毒素，'-emia' 表示血液状态。随着细菌学和毒理学的进步，该词逐渐用于描述细菌内毒素进入血流的病理过程，从最初的实验室术语演变为现代医学标准术语。",
+    "firstKnownUse": "约1950s",
+    "relatedWords": [
+      "endotoxin",
+      "toxemia",
+      "septicemia"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "将词汇分解为词根进行记忆，例如 'endo-' 与 '内部' 联想；结合认知科学原理，通过重复暴露于医疗语境中增强记忆；使用间隔重复系统 (Spaced Repetition System) 来巩固专业术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "septicemia",
+        "similarity": "0.7",
+        "context": "适用于感染性疾病语境中，通常在临床诊断时互换使用"
+      },
+      {
+        "word": "blood poisoning",
+        "similarity": "0.6",
+        "context": "在非正式医疗讨论中用于泛指类似情况，但精确性较低"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asepsis",
+        "context": "适用于无菌或无感染状态的语境中，表示相反的健康状况"
+      }
+    ],
+    "hypernyms": [
+      "disease",
+      "condition"
+    ],
+    "hyponyms": [
+      "gram-negative endotoxemia"
+    ],
+    "collocations": [
+      {
+        "pattern": "cause + endotoxemia",
+        "examples": [
+          "Bacterial infections can cause endotoxemia."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "treat + endotoxemia",
+        "examples": [
+          "Doctors treat endotoxemia with intravenous fluids."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球医学文化中象征细菌感染的严重后果，强调预防和早期干预的重要性，并无特定文化象征，但反映了现代医学对传染病的关注。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "使用频率较高，在临床实践中标准化",
+        "usage": "在美国英语中，常与流行病学研究结合使用"
+      },
+      {
+        "region": "英国",
+        "variation": "术语可能与 'endotoxic shock' 互相关联",
+        "usage": "在英国英语中，更强调历史医学文献中的使用"
+      }
+    ],
+    "historicalContext": "与20世纪细菌学革命相关，例如巴斯德和科赫的工作，该词体现了医学从经验向科学化的演变。",
+    "modernUsage": "在社交媒体和在线健康论坛中，偶尔出现于科普内容，但主要限于专业医学讨论和数字健康应用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象血液中漂浮的毒素分子，如同内部入侵者破坏身体系统。",
+      "keyElements": [
+        "毒素分子",
+        "血液流动",
+        "细菌入侵"
+      ],
+      "emotionalConnection": "联结个人经历，如观看医疗纪录片时产生的紧张感，以增强记忆保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Endo (内部) + Tox (毒药) + Emia (血液) = 内部毒药在血液中",
+        "explanation": "通过词根联想帮助构建语义网络，符合认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'end of toxemia'，想象毒素结束生命。",
+        "explanation": "利用声音相似性创建情感触发点，促进长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "endotoxin",
+      "infection",
+      "sepsis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "endotoxemias",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语用于描述疾病状态",
+        "examples": [
+          "Endotoxemia requires immediate medical attention."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于表示原因或结果的介词短语",
+        "examples": [
+          "Due to endotoxemia, the patient's condition worsened."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'endothelioma'",
+        "correction": "Use 'endotoxemia' for blood toxin condition",
+        "explanation": "二者均是医学术语，但前者指血症，后者指肿瘤；学习时需区分词根。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "endotoxemias",
+        "explanation": "英文名词通常添加 -s 形成复数，避免遗漏。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., COCA corpus rank: below 50,000)",
+    "domains": [
+      "医疗",
+      "生物学",
+      "科学"
+    ],
+    "tags": [
+      "医学术语",
+      "传染病",
+      "毒理学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster Medical Dictionary"
+    ]
+  }
+}

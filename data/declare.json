@@ -1,0 +1,284 @@
+{
+  "word": "declare",
+  "phonetics": {
+    "british": "/dɪˈkleə(r)/",
+    "american": "/dɪˈkler/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make known formally or officially, especially in words or writing",
+      "chineseTranslation": "宣布；声明",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to state emphatically or openly",
+      "chineseTranslation": "断言；宣称",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make a declaration in a game, such as in bridge or cricket, indicating the end of play",
+      "chineseTranslation": "在游戏中宣布（如桥牌或板球）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "in computing, a statement that specifies the properties of a variable or function",
+      "chineseTranslation": "声明（如在计算机编程中）",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "declare war",
+      "meaning": "宣布战争",
+      "example": "The president decided to declare war on the neighboring country.",
+      "exampleTranslation": "总统决定对邻国宣布战争。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "declare independence",
+      "meaning": "宣布独立",
+      "example": "In 1776, the American colonies voted to declare independence from Britain.",
+      "exampleTranslation": "1776年，美国殖民地投票宣布从英国独立。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "declare bankruptcy",
+      "meaning": "宣布破产",
+      "example": "The company had to declare bankruptcy after years of financial losses.",
+      "exampleTranslation": "该公司因多年财务亏损不得不宣布破产。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "declare an emergency",
+      "meaning": "宣布紧急状态",
+      "example": "The government was forced to declare an emergency due to the natural disaster.",
+      "exampleTranslation": "政府因自然灾害被迫宣布紧急状态。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist declared the discovery of a new element in the periodic table.",
+      "translation": "科学家宣布了周期表中新元素的发现。",
+      "source": "Scientific journal (e.g., Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She declared her love for him during the wedding speech.",
+      "translation": "她在婚礼演讲中宣称了对他的爱。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In a formal press conference, the CEO declared the company's new policy on environmental sustainability.",
+      "translation": "在正式的新闻发布会上，首席执行官宣布了公司关于环境可持续性的新政策。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The player declared his hand in the card game, surprising everyone.",
+      "translation": "玩家在纸牌游戏中亮出了他的手牌，震惊了大家。",
+      "source": "Recreational context (e.g., games)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "declarare",
+        "meaning": "to make clear",
+        "language": "Latin"
+      },
+      {
+        "root": "clarare",
+        "meaning": "to make clear or bright",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'declarare'，由 'de-'（加强含义）和 'clarare'（使清晰）组成。通过古法语 'declarer' 传入中古英语，并演变为现代英语 'declare'，其含义从最初的 '使清晰' 扩展到正式宣布或声明。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "clarify",
+      "declaration",
+      "declarative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合间隔重复法复习词汇；将 'declare' 与真实生活中的宣布事件关联，如新闻事件，以增强记忆；使用视觉化技巧，将词联想为 'de-' 表示加强，'clear' 表示清晰，从而构建认知框架。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "announce",
+        "similarity": "0.8",
+        "context": "在正式场合使用，如新闻发布"
+      },
+      {
+        "word": "state",
+        "similarity": "0.7",
+        "context": "在一般对话中表达观点"
+      },
+      {
+        "word": "proclaim",
+        "similarity": "0.6",
+        "context": "在公共或正式声明中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conceal",
+        "context": "隐瞒信息或不公开"
+      },
+      {
+        "word": "hide",
+        "context": "避免暴露事实"
+      }
+    ],
+    "hypernyms": [
+      "communicate"
+    ],
+    "hyponyms": [
+      "confess",
+      "testify"
+    ],
+    "collocations": [
+      {
+        "pattern": "declare + noun (e.g., declare victory)",
+        "examples": [
+          "He declared victory in the election."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "declare + that clause (e.g., declare that it is true)",
+        "examples": [
+          "She declared that it was true."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与政治和法律事件相关联，例如美国独立宣言（Declaration of Independence），象征自由和自治；在中国文化中，类似概念可能涉及官方公告，但强调集体和谐而非个人声明。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于政治和法律语境",
+        "usage": "在美国英语中，'declare' 经常出现在历史性事件中，如独立战争"
+      },
+      {
+        "region": "英国",
+        "variation": "在游戏和正式场合中使用更频繁",
+        "usage": "在英国英语中，'declare' 在板球等体育项目中有特定含义"
+      }
+    ],
+    "historicalContext": "与历史事件如法国大革命和美国独立战争相关，体现正式声明在社会变革中的作用；在现代中国，类似词汇用于官方文件，但受儒家文化影响，更注重间接表达。",
+    "modernUsage": "在社交媒体和数字平台上，'declare' 用于个人声明，如在Twitter上宣布观点，但需注意语境以避免误解跨文化规范。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一位政治家站在讲台上大声宣布重要消息。",
+      "keyElements": [
+        "讲台",
+        "麦克风",
+        "人群"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆学校毕业典礼上的宣布，触发成就感或兴奋情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'Declare' 听起来像 'de-clear'，意思是 '彻底清除' 模糊，代表清楚地表达。",
+        "explanation": "通过声音联想帮助记忆词根含义，增强认知连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-C-L-A-R-E：Declare Every Clear Line And Reveal Everything。",
+        "explanation": "使用首字母缩写创建故事，基于认知科学中的叙事记忆技巧。"
+      }
+    ],
+    "wordAssociations": [
+      "announce",
+      "proclaim",
+      "statement"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "declared",
+      "pastParticiple": "declared",
+      "presentParticiple": "declaring",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + declare + object",
+        "description": "主语 + 声明 + 宾语结构，常用于正式陈述",
+        "examples": [
+          "The government declares a holiday."
+        ]
+      },
+      {
+        "pattern": "Subject + declare + that clause",
+        "description": "主语 + 声明 + 从句结构，用于表达信念或事实",
+        "examples": [
+          "He declares that he is innocent."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'declare' interchangeably with 'say'",
+        "correction": "Use 'declare' for formal or official statements",
+        "explanation": "许多学习者错误地将 'declare' 用于非正式场合；'declare' 更强调正式性。"
+      },
+      {
+        "mistake": "Confusing with 'decline'",
+        "correction": "Distinguish based on meaning: declare means to state, decline means to refuse",
+        "explanation": "词形相似可能导致混淆；通过语境区分以避免错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "politics",
+      "law",
+      "business",
+      "computing"
+    ],
+    "tags": [
+      "verb",
+      "communication",
+      "formal language"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

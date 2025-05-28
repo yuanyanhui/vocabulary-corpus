@@ -1,0 +1,239 @@
+{
+  "word": "algebra",
+  "phonetics": {
+    "british": "/ˈældʒɪbrə/",
+    "american": "/ˈældʒəbrə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A branch of mathematics that deals with symbols and the rules for manipulating them to solve equations and study relationships between variables.",
+      "chineseTranslation": "代数",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system of algebraic equations or expressions used in various fields such as physics or computer science.",
+      "chineseTranslation": "代数系统",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abstract algebra",
+      "meaning": "抽象代数",
+      "example": "Abstract algebra deals with structures like groups and rings.",
+      "exampleTranslation": "抽象代数处理如群和环这样的结构。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "linear algebra",
+      "meaning": "线性代数",
+      "example": "Linear algebra is essential for understanding vector spaces.",
+      "exampleTranslation": "线性代数对于理解向量空间至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "algebraic equation",
+      "meaning": "代数方程",
+      "example": "Solving an algebraic equation requires isolating the variable.",
+      "exampleTranslation": "解决代数方程需要隔离变量。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In high school, students often begin with basic algebra to solve for unknown variables.",
+      "translation": "在高中，学生通常从基础代数开始解决未知变量。",
+      "source": "Educational textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern physics relies heavily on algebra to model complex systems.",
+      "translation": "现代物理学严重依赖代数来建模复杂系统。",
+      "source": "Scientific article (e.g., from academic journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She used algebra to calculate the trajectory of the projectile in her engineering project.",
+      "translation": "她在工程项目中使用代数计算抛射体的轨迹。",
+      "source": "News article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Arabic",
+    "rootWords": [
+      {
+        "root": "al-jabr",
+        "meaning": "the restoration or reunion",
+        "language": "Arabic"
+      }
+    ],
+    "historicalDevelopment": "源自9世纪阿拉伯数学家al-Khwarizmi的著作《al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala》，其中'al-jabr'意为'还原'，指代解决方程的过程。该词经由拉丁语传入欧洲，在文艺复兴时期演变为现代意义上的代数，强调符号运算和变量关系。",
+    "firstKnownUse": "9th century",
+    "relatedWords": [
+      "algorithm",
+      "algebraic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将代数概念与日常生活问题联想，如使用视觉图像将方程视为天平；采用间隔重复法记忆符号运算，以强化长期记忆；通过分组学习将抽象概念与具体应用关联，减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mathematics",
+        "similarity": "0.7",
+        "context": "在一般教育语境中，当讨论基础数学时使用"
+      },
+      {
+        "word": "calculus",
+        "similarity": "0.6",
+        "context": "在高级数学领域中，作为相关分支"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "geometry",
+        "context": "在数学分类中，代数侧重符号运算，而几何侧重形状和空间"
+      }
+    ],
+    "hypernyms": [
+      "mathematics"
+    ],
+    "hyponyms": [
+      "linear algebra",
+      "abstract algebra"
+    ],
+    "collocations": [
+      {
+        "pattern": "algebra + noun (e.g., algebra class)",
+        "examples": [
+          "She excels in algebra class."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + algebra (e.g., basic algebra)",
+        "examples": [
+          "Basic algebra is taught in middle school."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词反映了阿拉伯-伊斯兰文化在数学领域的贡献，象征着知识传播和科学进步；在西方文化中，代数代表理性思维和问题解决能力。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更强调形式化教学",
+        "usage": "在英国教育系统中，常用于GCSE课程中"
+      },
+      {
+        "region": "United States",
+        "variation": "更注重实际应用",
+        "usage": "在美国高中课程中，与SAT考试相关联"
+      }
+    ],
+    "historicalContext": "与中世纪伊斯兰金色时代相关，al-Khwarizmi的著作促进了欧洲文艺复兴；在现代，代数与工业革命和数字时代紧密相连。",
+    "modernUsage": "在社交媒体和在线教育平台上，代数常用于讨论STEM教育趋势，如Khan Academy上的视频教程。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中一侧是未知变量，另一侧是已知数字，通过调整平衡来解决问题。",
+      "keyElements": [
+        "天平秤",
+        "变量符号",
+        "数字平衡"
+      ],
+      "emotionalConnection": "联结到个人经历，如小时候玩耍的平衡玩具，触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'algebra'联想为'al-jabr'，想象阿拉伯数学家修复方程，如修复破损的桥梁。",
+        "explanation": "通过视觉联想增强记忆痕迹，利用认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "A-L-G-E-B-R-A代表'A Lot of Great Equations Build Real Answers'。",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者构建语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "equation",
+      "variables",
+      "polynomials"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + algebra",
+        "description": "名词作为主语或宾语的结构",
+        "examples": [
+          "Algebra is challenging."
+        ]
+      },
+      {
+        "pattern": "Adjective + algebra",
+        "description": "用于修饰名词的形容词结构",
+        "examples": [
+          "Advanced algebra requires practice."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing algebra with geometry",
+        "correction": "Use algebra for symbolic manipulation",
+        "explanation": "代数专注于符号和方程，而几何专注于形状；错误源于概念混淆"
+      },
+      {
+        "mistake": "Mispronouncing as /ælˈdʒebrə/",
+        "correction": "/ˈældʒəbrə/",
+        "explanation": "美式发音强调第一个音节；通过听力练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "tags": [
+      "mathematics",
+      "STEM",
+      "abstract concepts"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

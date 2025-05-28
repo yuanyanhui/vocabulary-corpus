@@ -1,0 +1,243 @@
+{
+  "word": "concatenation",
+  "phonetics": {
+    "british": "/kɒnˌkætɪˈneɪʃən/",
+    "american": "/kɑnˌkætəˈneɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action of linking things together in a series, especially in computing where it refers to joining strings or data sequences.",
+      "chineseTranslation": "连接；串联",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A series of things or events that are linked together.",
+      "chineseTranslation": "连锁；连续体",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "string concatenation",
+      "meaning": "字符串的连接",
+      "example": "String concatenation is a common operation in programming languages.",
+      "exampleTranslation": "字符串连接是编程语言中的常见操作。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "file concatenation",
+      "meaning": "文件合并",
+      "example": "File concatenation can be used to combine multiple documents into one.",
+      "exampleTranslation": "文件合并可用于将多个文档组合成一个。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In programming, concatenation allows developers to combine two strings, such as 'Hello' and 'World' to form 'HelloWorld'.",
+      "translation": "在编程中，连接允许开发人员将两个字符串（如'Hello'和'World'）组合成'HelloWorld'。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The concatenation of historical events in that era led to significant social changes.",
+      "translation": "那个时代历史事件的连锁导致了重大的社会变革。",
+      "source": "Academic literature (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She explained the concatenation process in the data pipeline during the team meeting.",
+      "translation": "她在团队会议中解释了数据管道中的连接过程。",
+      "source": "Professional contexts (e.g., business reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "catena",
+        "meaning": "chain",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'concatenare'，意为'用链连接'，在中世纪拉丁语中演变为表示系列连接的概念。17世纪传入英语，用于描述物理或抽象的链接过程，随着计算机科学的发展，在20世纪后期扩展到技术领域。",
+    "firstKnownUse": "1611",
+    "relatedWords": [
+      "concatenate",
+      "chain",
+      "link"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将词汇与编程情境关联，例如想象'concatenation'如链条连接物体，以增强记忆；",
+      "通过重复暴露于真实语料中（如代码示例），结合母语干扰分析，帮助中文学习者克服音节复杂性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "linking",
+        "similarity": "0.8",
+        "context": "适用于技术或一般描述连接过程的语境"
+      },
+      {
+        "word": "joining",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于简单连接描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "separation",
+        "context": "适用于表示拆分或断开的语境"
+      },
+      {
+        "word": "division",
+        "context": "在技术或数学语境中表示分割"
+      }
+    ],
+    "hypernyms": [
+      "connection"
+    ],
+    "hyponyms": [
+      "string joining",
+      "data merging"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + noun",
+        "examples": [
+          "concatenation of strings"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + concatenation",
+        "examples": [
+          "perform concatenation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中无特定象征意义，主要作为技术术语，体现现代科技驱动的社会隐含语义，例如在编程文化中代表效率和整合。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技行业，拼写和发音标准化",
+        "usage": "在美国英语中，常见于软件开发语境，如硅谷文化"
+      },
+      {
+        "region": "英国",
+        "variation": "发音略有差异，更倾向于学术语境",
+        "usage": "在英国英语中，可能与历史语言学关联，如在文学中描述事件连锁"
+      }
+    ],
+    "historicalContext": "与工业革命相关的'链条'概念相连，在20世纪计算机革命中演变，与西方科技文化背景相关。",
+    "modernUsage": "在社交媒体和在线教育中流行，例如编程论坛或YouTube教程中频繁出现，反映数字时代的信息整合趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个链条将多个物体连接起来，如珠子串成项链。",
+      "keyElements": [
+        "链条",
+        "连接物体",
+        "系列"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆编程时的挫败感，转为成就感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'concatenation'联想为'con' (一起) + 'cat' (像猫爪抓取链条)",
+        "explanation": "通过视觉联想增强词汇记忆，基于认知科学的空间记忆原则"
+      },
+      {
+        "type": "缩略",
+        "content": "Con-Cat-Nation：Con为一起，Cat为链，Nation为系列国家",
+        "explanation": "使用首字母缩写创建故事，辅助重复回忆"
+      }
+    ],
+    "wordAssociations": [
+      "chain",
+      "link",
+      "merge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "concatenations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + concatenation + of + object",
+        "description": "主语 + 动词 + 连接 + 的 + 对象结构，常用于描述过程",
+        "examples": [
+          "The system handles concatenation of data."
+        ]
+      },
+      {
+        "pattern": "In + context + , + concatenation + occurs",
+        "description": "在特定语境中，连接发生",
+        "examples": [
+          "In programming, concatenation occurs frequently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'concentration'",
+        "correction": "Use 'concatenation' for linking, not 'concentration' which means focusing.",
+        "explanation": "中文学习者常因音似混淆，确保通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural as 'concatenations'",
+        "explanation": "英语名词规则简单，但需注意后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "academics"
+    ],
+    "tags": [
+      "technical",
+      "computing",
+      "linguistics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

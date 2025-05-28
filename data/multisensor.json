@@ -1,0 +1,237 @@
+{
+  "word": "multisensor",
+  "phonetics": {
+    "british": "/ˌmʌltiˈsɛnsə/",
+    "american": "/ˌmʌltiˈsɛnsər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or system equipped with multiple sensors to detect, measure, or respond to various physical stimuli such as light, sound, temperature, or motion.",
+      "chineseTranslation": "多传感器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "multisensor system",
+      "meaning": "多传感器系统",
+      "example": "The multisensor system in the robot allows it to navigate complex environments effectively.",
+      "exampleTranslation": "机器人中的多传感器系统使其能够有效地导航复杂环境。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "multisensor integration",
+      "meaning": "多传感器整合",
+      "example": "Multisensor integration is crucial for accurate data fusion in autonomous vehicles.",
+      "exampleTranslation": "在自动驾驶车辆中，多传感器整合对于精确的数据融合至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers designed a multisensor array to monitor environmental changes in real-time.",
+      "translation": "工程师设计了一个多传感器阵列来实时监控环境变化。",
+      "source": "Technical literature (e.g., IEEE journals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The smartphone's multisensor capabilities include accelerometers, gyroscopes, and GPS for enhanced user experience.",
+      "translation": "智能手机的多传感器功能包括加速度计、陀螺仪和GPS，以提升用户体验。",
+      "source": "Consumer technology reviews (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In medical diagnostics, a multisensor device can detect multiple biomarkers simultaneously.",
+      "translation": "在医疗诊断中，多传感器设备可以同时检测多个生物标记物。",
+      "source": "Scientific articles (e.g., PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "multi-",
+        "meaning": "Many or multiple",
+        "language": "Latin (from multus, meaning 'much' or 'many')"
+      },
+      {
+        "root": "sensor",
+        "meaning": "A device that detects or senses stimuli",
+        "language": "Latin (from sensus, meaning 'feeling' or 'perception')"
+      }
+    ],
+    "historicalDevelopment": "该词是现代英语合成词，起源于20世纪中叶的电子和传感器技术发展时期。'Multi-' 前缀源自拉丁语，用于表示倍数或多样性，而'sensor' 则从19世纪的科学术语演变而来，最初指感知器官或设备。20世纪，随着计算机和自动化技术的兴起，该词逐渐用于描述整合多个传感器的系统，从单纯的技术描述演变为广泛的工程应用。",
+    "firstKnownUse": "Mid-20th century (approximately 1960s, as per OED records)",
+    "relatedWords": [
+      "multisensory",
+      "sensor",
+      "multimeter",
+      "transducer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化技术图表来记忆词汇结构；使用间隔重复系统（Spaced Repetition System）强化对合成词的分解和重组；将词汇与个人经验关联，例如联想日常生活中的智能设备，以增强长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multisensory device",
+        "similarity": "0.8",
+        "context": "适用于技术领域，指整合多种感官输入的设备"
+      },
+      {
+        "word": "sensor array",
+        "similarity": "0.7",
+        "context": "在工程语境中，指多个传感器组合，常用于数据采集"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "single-sensor",
+        "context": "适用于对比语境，指仅使用一个传感器的简单系统"
+      },
+      {
+        "word": "monosensor",
+        "context": "在技术讨论中，指单一传感器的设备，与多传感器形成对比"
+      }
+    ],
+    "hypernyms": [
+      "sensor",
+      "device"
+    ],
+    "hyponyms": [
+      "multisensor camera",
+      "multisensor network"
+    ],
+    "collocations": [
+      {
+        "pattern": "multisensor + noun (e.g., system, technology)",
+        "examples": [
+          "multisensor technology enhances precision in robotics."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + multisensor (e.g., advanced multisensor)",
+        "examples": [
+          "Advanced multisensor applications are revolutionizing healthcare."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科技文化中象征创新和集成化，隐含语义强调现代社会对高效数据处理的依赖，常与人工智能和物联网相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在硅谷文化中，该词频繁出现在产品描述中，突出创新性"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式化，使用时强调工程精确性",
+        "usage": "在学术和工业报告中，常与欧洲标准（如欧盟法规）结合"
+      }
+    ],
+    "historicalContext": "与20世纪后期的工业革命和数字时代相关，特别是在第二次世界大战后的技术发展中，该词反映了从机械到电子传感器的演变，并与文学如科幻小说（如艾萨克·阿西莫夫的作品）中对未来科技的描绘相呼应。",
+    "modernUsage": "在社交媒体和在线论坛中，该词的传播趋势增加，尤其在科技博客和YouTube视频中，用于讨论智能家居和可穿戴设备"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人手臂上安装了多个传感器，如摄像头、温度计和麦克风，共同工作以探测环境。",
+      "keyElements": [
+        "机器人",
+        "传感器阵列",
+        "探测环境"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用智能手机的兴奋感，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Multi-sensor 像 'multi-tasker' 的传感器版本",
+        "explanation": "通过将词汇与多任务处理的概念联想，帮助学习者基于日常多任务行为的认知模式记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "M-S for Many Senses",
+        "explanation": "使用首字母缩写结合视觉联想，依据认知科学中的视觉记忆原理简化复杂词汇"
+      }
+    ],
+    "wordAssociations": [
+      "sensor",
+      "multi-task",
+      "array",
+      "integration"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "multisensors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + multisensor",
+        "description": "作为主语或宾语的典型结构，常用于描述技术应用",
+        "examples": [
+          "The multisensor detects changes in the environment."
+        ]
+      },
+      {
+        "pattern": "Adjective + multisensor + in + context",
+        "description": "修饰性结构，用于指定功能或环境",
+        "examples": [
+          "An advanced multisensor in the car improves safety."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'multisensory' (which relates to senses rather than sensors)",
+        "correction": "Use 'multisensor' for devices and 'multisensory' for perceptual experiences",
+        "explanation": "错误源于词汇相似性，学习者需注意语义区分以避免技术语境中的误用"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'multisensor's'",
+        "correction": "Use 'multisensors'",
+        "explanation": "英语名词复数规则简单，但合成词易出错，强调标准形态"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "科技",
+      "工程",
+      "医疗"
+    ],
+    "tags": [
+      "技术术语",
+      "电子设备",
+      "数据处理"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

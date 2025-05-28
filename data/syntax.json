@@ -1,0 +1,249 @@
+{
+  "word": "syntax",
+  "phonetics": {
+    "british": "/ˈsɪntæks/",
+    "american": "/ˈsɪntæks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The set of rules, principles, and processes that govern the structure of sentences in a language, including word order, phrase formation, and grammatical relationships.",
+      "chineseTranslation": "句法",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the arrangement of symbols and commands in a programming language that must be followed to write valid code.",
+      "chineseTranslation": "语法（计算机语境）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "syntax error",
+      "meaning": "语法错误",
+      "example": "The program won't run because there's a syntax error in line 10.",
+      "exampleTranslation": "程序无法运行，因为第10行有一个语法错误。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "programming syntax",
+      "meaning": "编程语法",
+      "example": "Understanding programming syntax is essential for writing efficient code.",
+      "exampleTranslation": "理解编程语法对于编写高效代码至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "syntactic structure",
+      "meaning": "句法结构",
+      "example": "Linguists analyze the syntactic structure of sentences to understand language patterns.",
+      "exampleTranslation": "语言学家分析句子的句法结构以理解语言模式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The syntax of English allows for flexible word order in questions.",
+      "translation": "英语的句法允许在疑问句中灵活调整词序。",
+      "source": "Linguistic textbooks (e.g., from Cambridge Grammar)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A syntax error occurred when I forgot to close the bracket in my code.",
+      "translation": "当我忘记关闭括号时，发生了语法错误。",
+      "source": "Programming forums (e.g., Stack Overflow)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In generative grammar, syntax is studied through rules that generate infinite sentences.",
+      "translation": "在生成语法中，句法通过生成无限句子的规则来研究。",
+      "source": "Academic linguistics (e.g., Noam Chomsky's works)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "σύν (syn-)",
+        "meaning": "一起，一同",
+        "language": "希腊语"
+      },
+      {
+        "root": "τάξις (taxis)",
+        "meaning": "安排，秩序",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词源自古希腊语 'syntaxis'，意为'安排'或'组合'，通过拉丁语 'syntaxis' 传入英语，早先用于修辞学和逻辑学中描述句子结构。从17世纪起，在现代语言学中演变为当前含义，尤其在Noam Chomsky的生成语法理论中得到扩展。",
+    "firstKnownUse": "约公元前4世纪（古希腊时期）",
+    "relatedWords": [
+      "synthesis",
+      "syntaxes",
+      "syntactic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象'句法'如建筑蓝图的结构，以增强记忆；通过重复性练习和语境关联，减少认知负荷；建议初级学习者从简单句子分析开始，逐步增加复杂度，以符合斯宾塞的间隔重复理论。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "grammar",
+        "similarity": "0.8",
+        "context": "适用于语言学语境中，指整体规则系统"
+      },
+      {
+        "word": "structure",
+        "similarity": "0.7",
+        "context": "适用于描述句子或代码的组织方式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "semantics",
+        "context": "适用于区分句法（结构）与语义（意义）的语言学语境"
+      },
+      {
+        "word": "pragmatics",
+        "context": "适用于强调实际使用与上下文，而非纯结构"
+      }
+    ],
+    "hypernyms": [
+      "linguistics"
+    ],
+    "hyponyms": [
+      "phrase structure",
+      "clause structure"
+    ],
+    "collocations": [
+      {
+        "pattern": "syntax + of + language",
+        "examples": [
+          "the syntax of English"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "analyze + syntax",
+        "examples": [
+          "analyze the syntax of a sentence"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征语言和逻辑的秩序，尤其在英语教育中体现理性思维；在中文文化中，类似概念见于古典文学的文法分析，但缺乏相同程度的显性强调。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于传统语言学语境",
+        "usage": "在英国英语中，常用于学术讨论，如在牛津英语词典中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于计算机科学",
+        "usage": "在美国英语中，常见于编程教育，如在硅谷的技术术语"
+      }
+    ],
+    "historicalContext": "该词与古希腊哲学（如亚里士多德）和现代结构主义语言学（如索绪尔和乔姆斯基）相关，反映了西方对语言系统化的追求；在中文历史中，与儒家文本的文法分析相呼应，但未形成独立学科。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于编程社区，如Twitter上的#syntaxhelp，或教育App中讨论语言学习趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个精密的建筑框架，代表句子的结构，每条梁柱对应单词的排列。",
+      "keyElements": [
+        "框架",
+        "排列",
+        "结构"
+      ],
+      "emotionalConnection": "联结个人编程经历的挫败感，例如修复语法错误时的成就感，以触发积极情绪强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'syntax'联想为'sin + tax'，想象'罪恶的税收'需要严格的规则来安排。",
+        "explanation": "通过幽默联想增强认知连接，基于心理学家Paivio的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈsɪntæks/'听起来像'sin-tacks'，想象钉子固定句子的部分。",
+        "explanation": "利用声音与视觉的联觉，帮助记忆发音和含义。"
+      }
+    ],
+    "wordAssociations": [
+      "grammar",
+      "code",
+      "structure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "syntaxes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + syntax + of + object",
+        "description": "典型结构用于描述句法所属",
+        "examples": [
+          "The syntax of this language is complex."
+        ]
+      },
+      {
+        "pattern": "Analyze + syntax + in + context",
+        "description": "用于分析语境中的句法",
+        "examples": [
+          "We analyze syntax in computational linguistics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing syntax with semantics",
+        "correction": "Distinguish syntax as structure and semantics as meaning",
+        "explanation": "句法专注于结构，而非意义；常见于初学者混淆语言学概念。"
+      },
+      {
+        "mistake": "Incorrect use in programming",
+        "correction": "Follow language-specific syntax rules",
+        "explanation": "编程中，错误排列符号会导致运行失败；需练习标准模式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "linguistics",
+      "computer science",
+      "education"
+    ],
+    "tags": [
+      "language structure",
+      "grammar",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "word": "factorial",
+  "phonetics": {
+    "british": "/fækˈtɔːrɪəl/",
+    "american": "/fækˈtɔriəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The product of an integer and all the integers below it; for example, factorial of n (denoted as n!) is the product of all positive integers from 1 to n.",
+      "chineseTranslation": "阶乘，例如 n! 表示从 1 到 n 的所有正整数的乘积",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or involving a factorial, often used in mathematical or statistical contexts.",
+      "chineseTranslation": "与阶乘相关的或涉及阶乘的，通常用于数学或统计学语境",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "factorial function",
+      "meaning": "阶乘函数",
+      "example": "The factorial function is defined for non-negative integers.",
+      "exampleTranslation": "阶乘函数定义于非负整数。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "n factorial",
+      "meaning": "n 的阶乘",
+      "example": "Calculate 5 factorial, which equals 120.",
+      "exampleTranslation": "计算 5 的阶乘，结果为 120。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the factorial of a number is used in permutations and combinations.",
+      "translation": "在数学中，阶乘用于排列和组合。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She struggled with the concept of factorial during her statistics class.",
+      "translation": "她在统计课上挣扎于阶乘的概念。",
+      "source": "Modern educational narrative",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm includes a loop to compute the factorial efficiently.",
+      "translation": "该算法包括一个循环来高效计算阶乘。",
+      "source": "Programming documentation",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "factor",
+        "meaning": "maker or doer",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'factor'，意为 '制造者' 或 '做者'，通过法语演变为数学术语。在 19 世纪初，数学家开始使用它来表示整数的乘积形式，从一般意义扩展到特定数学计算。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "factor",
+      "factory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块法，将阶乘概念分解为简单乘法步骤，并与日常生活中的计数联系，如计算排列组合；",
+      "通过重复练习和视觉辅助，如绘图阶乘过程，来增强记忆痕迹。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "productorial",
+        "similarity": "0.8",
+        "context": "主要在数学文献中用于类似阶乘的概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inverse",
+        "context": "在数学中，表示阶乘的反函数或逆运算"
+      }
+    ],
+    "hypernyms": [
+      "mathematical function"
+    ],
+    "hyponyms": [
+      "gamma function (for extensions)"
+    ],
+    "collocations": [
+      {
+        "pattern": "n!",
+        "examples": [
+          "5!",
+          "10!"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "factorial of",
+        "examples": [
+          "factorial of 7"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "阶乘在全球数学教育中象征精确计算和组合逻辑，没有特定文化象征，但反映了西方数学传统对现代科学的贡献。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常在教育和科技语境中使用",
+        "usage": "在美国英语中，常见于编程和数据科学讨论"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术论文中更正式",
+        "usage": "在英国英语中，常与历史数学理论相关联"
+      }
+    ],
+    "historicalContext": "与 18 世纪欧洲数学革命相关，如牛顿和莱布尼茨的贡献，阶乘在计算领域扮演关键角色。",
+    "modernUsage": "在社交媒体和在线教育中，阶乘常用于科普视频或编程教程中，体现数字时代的普及性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯状的阶乘场景，每个台阶代表一个乘法步骤，从 1 开始向上累乘。",
+      "keyElements": [
+        "阶梯",
+        "乘法符号",
+        "数字序列"
+      ],
+      "emotionalConnection": "联结到个人经验，如计算生日派对的排列方式，以激发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Factorial as 'Fact-orial' – facts multiplied together",
+        "explanation": "通过词根联想，将 'factorial' 视为 '事实的乘积'，帮助记忆其数学含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/fækˈtɔːrɪəl/' 联想到 'factory' 的声音，想象工厂生产线累积产品。",
+        "explanation": "利用声音相似增强记忆，通过视觉化工厂过程强化概念"
+      }
+    ],
+    "wordAssociations": [
+      "multiply",
+      "permutation",
+      "combination"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "factorials",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + factorial",
+        "description": "作为主语或宾语出现于句中",
+        "examples": [
+          "The factorial grows rapidly."
+        ]
+      },
+      {
+        "pattern": "Factorial of + noun",
+        "description": "用于指定数字的阶乘",
+        "examples": [
+          "Factorial of 4 is 24."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing factorial with exponentiation",
+        "correction": "Use factorial for products of integers, not repeated multiplication like exponents",
+        "explanation": "阶乘涉及所有整数的乘积，而指数是重复乘同一个数"
+      },
+      {
+        "mistake": "Mispronouncing as 'fac-tor-ial' with wrong stress",
+        "correction": "Stress on the second syllable: /fækˈtɔːrɪəl/",
+        "explanation": "错误重音可能导致听力误解，需练习 IPA"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "science",
+      "computing"
+    ],
+    "tags": [
+      "mathematics",
+      "function",
+      "calculation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

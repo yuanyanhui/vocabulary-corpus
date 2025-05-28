@@ -1,0 +1,234 @@
+{
+  "word": "microcontroller",
+  "phonetics": {
+    "british": "/ˌmaɪkrəʊkənˈtrəʊlə/",
+    "american": "/ˌmaɪkroʊkənˈtroʊlər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A compact integrated circuit that contains a processor core, memory, and programmable input/output peripherals, used for controlling electronic devices.",
+      "chineseTranslation": "微控制器",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "embedded microcontroller",
+      "meaning": "嵌入式微控制器",
+      "example": "The embedded microcontroller optimizes energy consumption in smart devices.",
+      "exampleTranslation": "嵌入式微控制器优化智能设备中的能源消耗。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "program a microcontroller",
+      "meaning": "编程微控制器",
+      "example": "Engineers program a microcontroller to handle sensor data in real-time.",
+      "exampleTranslation": "工程师们编程微控制器以实时处理传感器数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern automobiles, the microcontroller manages engine performance and safety features.",
+      "translation": "在现代汽车中，微控制器管理引擎性能和安全功能。",
+      "source": "Technology article from IEEE Spectrum",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Students use a microcontroller to build a simple robot for their science project.",
+      "translation": "学生们使用微控制器来为他们的科学项目构建一个简单机器人。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The latest IoT devices rely on a powerful microcontroller for data processing.",
+      "translation": "最新的物联网设备依赖于一个强大的微控制器来进行数据处理。",
+      "source": "News article from The New York Times",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "英语和希腊语",
+    "rootWords": [
+      {
+        "root": "micro",
+        "meaning": "small",
+        "language": "Greek"
+      },
+      {
+        "root": "controller",
+        "meaning": "one who controls or regulates",
+        "language": "English (from Latin)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪70年代，随着集成电路技术的进步而发展；最初由希腊语 'micros'（意为小）和英语 'controller'（源自拉丁语 'control'，意为控制）组合而成，反映了电子工程中小型化设备的演变过程，从早期的计算机组件到现代嵌入式系统。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "microprocessor",
+      "MCU",
+      "embedded system"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与实际电子设备（如Arduino板）的视觉图像关联，以增强空间记忆；",
+      "使用间隔重复系统（spaced repetition）来复习技术术语，避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "MCU",
+        "similarity": "0.9",
+        "context": "在技术领域中作为缩写形式，常用于工程文档和编程环境"
+      },
+      {
+        "word": "microcomputer",
+        "similarity": "0.7",
+        "context": "在泛指小型计算设备时适用，但不如microcontroller精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "macrocontroller",
+        "context": "在对比大型控制系统时使用，通常在工业自动化语境中"
+      }
+    ],
+    "hypernyms": [
+      "computer",
+      "integrated circuit"
+    ],
+    "hyponyms": [
+      "Arduino microcontroller",
+      "PIC microcontroller"
+    ],
+    "collocations": [
+      {
+        "pattern": "use a microcontroller in",
+        "examples": [
+          "use a microcontroller in a project",
+          "use a microcontroller in automation systems"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "program the microcontroller for",
+        "examples": [
+          "program the microcontroller for sensor integration"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征创新和数字化转型，常与自动化、人工智能和物联网相关联，体现现代社会对高效控制系统的依赖",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于硬件开发和创业语境",
+        "usage": "在美国科技公司如Silicon Valley中，microcontroller 经常出现在产品设计和教育中"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能在学术语境中更强调历史演变",
+        "usage": "在英国的教育系统中，常与工程历史相关联，如BBC Micro的影响"
+      }
+    ],
+    "historicalContext": "与20世纪后半叶的计算机革命和电子工程发展相关，例如Intel和Texas Instruments的贡献，反映工业化社会的进步",
+    "modernUsage": "在社交媒体和在线社区中（如Reddit的r/electronics），microcontroller 常讨论IoT应用，体现了全球数字文化的传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个微小的芯片如一个小指挥官，控制着一个机器人手臂的动作",
+      "keyElements": [
+        "小型芯片",
+        "机器人",
+        "控制动作"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩电子套件，触发好奇和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Micro + Controller = 微小控制者",
+        "explanation": "通过将 'micro' 联想为微小事物（如显微镜），并与 'controller' 结合，创建视觉图像以增强长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'my crow controller'，想象乌鸦在控制小型设备",
+        "explanation": "利用声音相似性创建幽默联想，促进认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "chip",
+      "circuit",
+      "programming",
+      "automation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "microcontrollers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Microcontroller",
+        "description": "作为主语或宾语，常用于描述功能或应用",
+        "examples": [
+          "The microcontroller processes data quickly."
+        ]
+      },
+      {
+        "pattern": "Microcontroller + in + Context",
+        "description": "表示位置或应用语境",
+        "examples": [
+          "Microcontroller in embedded systems."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing microcontroller with microprocessor",
+        "correction": "Microcontroller includes built-in peripherals",
+        "explanation": "学习者常混淆两者；microcontroller 不仅有处理器，还包括内存和I/O端口"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'microcontrollers' for plural",
+        "explanation": "由于词长，初级学习者可能遗漏 's'，影响语法准确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical corpora (e.g., rank 5000 in COCA)",
+    "domains": [
+      "Technology",
+      "Engineering",
+      "Electronics"
+    ],
+    "tags": [
+      "computing",
+      "hardware",
+      "embedded systems"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

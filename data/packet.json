@@ -1,0 +1,254 @@
+{
+  "word": "packet",
+  "phonetics": {
+    "british": "/ˈpækɪt/",
+    "american": "/ˈpækət/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small container, envelope, or bag containing a quantity of something, such as food, seeds, or documents.",
+      "chineseTranslation": "小包；包裹",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and networking, a unit of data that is routed between an origin and a destination on the internet or other networks.",
+      "chineseTranslation": "数据包",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make up or enclose something in a packet or small package.",
+      "chineseTranslation": "打包；装入小包",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "packet of",
+      "meaning": "一包的",
+      "example": "She opened a packet of biscuits for the children.",
+      "exampleTranslation": "她为孩子们打开了一包饼干。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data packet",
+      "meaning": "数据包",
+      "example": "The router processes each data packet individually.",
+      "exampleTranslation": "路由器逐个处理每个数据包。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mail packet",
+      "meaning": "邮包",
+      "example": "The mail packet arrived late due to bad weather.",
+      "exampleTranslation": "邮包因恶劣天气而迟到。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I received a packet of letters from my pen pal in England.",
+      "translation": "我收到了笔友从英国寄来的一包信件。",
+      "source": "Personal correspondence (inspired by everyday communication)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern networking, a packet is transmitted across the internet in milliseconds.",
+      "translation": "在现代网络中，数据包能在几毫秒内传输。",
+      "source": "Technical article from COCA (Corpus of Contemporary American English)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The shopkeeper handed me a packet of sugar wrapped in colorful paper.",
+      "translation": "店主递给我一包用彩纸包装的糖。",
+      "source": "Literature, e.g., everyday scenarios in British novels",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "paquet",
+        "meaning": "A small pack or bundle",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "Originating from Old French 'paquet' in the 14th century, meaning a small pack or bundle, it evolved through Middle English to refer to physical containers in everyday use by the 15th century. In the 20th century, with the advent of computing, it extended metaphorically to mean units of data, reflecting technological advancements.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "package",
+      "pack",
+      "packetize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象一个实际的包裹来记忆名词含义；对于技术语境，结合间隔重复法复习以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "package",
+        "similarity": "0.8",
+        "context": "日常物品的容器语境中，例如购物或邮寄"
+      },
+      {
+        "word": "bundle",
+        "similarity": "0.7",
+        "context": "非正式的打包或集合语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "表示分散或不打包的语境中"
+      },
+      {
+        "word": "unpack",
+        "context": "解包或拆分的语境中"
+      }
+    ],
+    "hypernyms": [
+      "container",
+      "unit"
+    ],
+    "hyponyms": [
+      "data packet",
+      "mail packet"
+    ],
+    "collocations": [
+      {
+        "pattern": "packet of + noun",
+        "examples": [
+          "packet of seeds",
+          "packet of cigarettes"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transmit a packet",
+        "examples": [
+          "transmit a packet over the network"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着便利和组织，常用于表示日常消费品（如一包薯片），隐含着现代生活节奏快的语义；在技术文化中，它代表数字通信的基础，体现了后工业社会的连接性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in everyday contexts like 'packet of crisps'.",
+        "usage": "在英国英语中，更常用于非正式的购物和家庭语境"
+      },
+      {
+        "region": "United States",
+        "variation": "Often replaced by 'package' in some contexts, e.g., 'package of chips'.",
+        "usage": "在美国英语中，偏向技术或正式语境，使用频率略低"
+      }
+    ],
+    "historicalContext": " historically associated with trade and postal systems in the British Empire, as seen in 19th-century literature like Dickens' works, where packets symbolized global connectivity; in modern times, it links to the digital age through the internet's packet-switching technology.",
+    "modernUsage": "在社交媒体和在线购物平台上流行，例如Amazon的包裹描述或Twitter上的数据传输讨论，反映了全球化的消费和数字文化"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个明亮的邮局场景，一个小包裹被打包并发送出去，里面装满了物品。",
+      "keyElements": [
+        "包裹",
+        "包装纸",
+        "邮戳"
+      ],
+      "emotionalConnection": "联结到个人经历，如收到节日礼物时的兴奋，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'packet' as a 'pack-it' item, like packing a kit for travel.",
+        "explanation": "通过声音联想和视觉化，帮助记忆拼写和含义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "P-A-C-K-E-T: Pack A Container Keeping Everything Together.",
+        "explanation": "使用首字母缩略词创建故事，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "pack",
+      "wrap",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "packets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + packet + of + noun",
+        "description": "典型用于描述内容的容器结构",
+        "examples": [
+          "a packet of sugar"
+        ]
+      },
+      {
+        "pattern": "Verb usage: Subject + packet + object",
+        "description": "表示打包动作的句法",
+        "examples": [
+          "They packet the goods carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'packet' with 'package'",
+        "correction": "Use 'packet' for smaller, enclosed items and 'package' for larger ones.",
+        "explanation": "源自语境差异，中国学习者常混淆两者，由于词汇相似度高"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural, e.g., 'packets'.",
+        "explanation": "英语名词规则简单，但初学者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "commerce",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "noun",
+      "container",
+      "digital communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

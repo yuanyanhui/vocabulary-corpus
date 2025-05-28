@@ -1,0 +1,279 @@
+{
+  "word": "imperative",
+  "phonetics": {
+    "british": "/ɪmˈpɛrətɪv/",
+    "american": "/ɪmˈpɛrətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of vital importance; crucial; necessary.",
+      "chineseTranslation": "极其重要的；紧迫的；必要的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having the authority or power to give orders and make decisions.",
+      "chineseTranslation": "具有命令权的；权威性的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A grammatical mood that expresses a command or request.",
+      "chineseTranslation": "祈使语气（语法术语）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that demands attention or action; a necessity.",
+      "chineseTranslation": "紧要之事；必要条件",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "moral imperative",
+      "meaning": "道德上的必要要求",
+      "example": "Addressing climate change is a moral imperative for all nations.",
+      "exampleTranslation": "应对气候变化是所有国家的道德必要要求。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "imperative mood",
+      "meaning": "表示命令或请求的语法语气",
+      "example": "In English, the imperative mood is used for giving instructions, like 'Close the door.'",
+      "exampleTranslation": "在英语中，祈使语气用于给出指令，比如 'Close the door.'（关上门）。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "strategic imperative",
+      "meaning": "战略上的迫切需求",
+      "example": "Innovation is a strategic imperative in the tech industry.",
+      "exampleTranslation": "创新是科技行业的战略必要要求。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It is imperative that we act now to prevent further damage.",
+      "translation": "我们现在采取行动以防止进一步损害是极其必要的。",
+      "source": "News articles (e.g., The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company faces an imperative to reduce costs amid economic downturn.",
+      "translation": "公司在经济下滑中面临降低成本的迫切需求。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In grammar, the verb 'go' in 'Go away!' is in the imperative form.",
+      "translation": "在语法中，动词 'go' 在 'Go away!' 中是祈使形式。",
+      "source": "Educational texts (e.g., language textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Safety is an imperative consideration in all engineering projects.",
+      "translation": "安全是所有工程项目中一个极其重要的考虑因素。",
+      "source": "Technical literature (e.g., from BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "imperare",
+        "meaning": "to command or order",
+        "language": "Latin"
+      },
+      {
+        "root": "imperativus",
+        "meaning": "commanding",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'imperare'（命令），通过古法语 'empiratif' 演变为中古英语 'imperatif'，最终在现代英语中发展为表示必要性或命令的含义，尤其在17世纪开始广泛用于语法语境。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "imperial",
+      "emperor",
+      "command"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分层记忆法：先将词汇与日常命令场景关联（如祈使句），然后通过重复练习强化语义网络，避免混淆相近词汇；对于中文母语学习者，建议使用双语映射以增强词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "essential",
+        "similarity": "0.8",
+        "context": "在正式语境中，用于强调必要性，如商业决策"
+      },
+      {
+        "word": "urgent",
+        "similarity": "0.7",
+        "context": "在日常对话中，表示紧迫情况"
+      },
+      {
+        "word": "crucial",
+        "similarity": "0.9",
+        "context": "在学术或专业语境中，用于关键事项"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "optional",
+        "context": "非正式语境中，表示非必要的选择"
+      },
+      {
+        "word": "unnecessary",
+        "context": "在决策语境中，表示可避免的事项"
+      }
+    ],
+    "hypernyms": [
+      "necessary",
+      "important"
+    ],
+    "hyponyms": [
+      "moral imperative",
+      "strategic imperative"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun",
+        "examples": [
+          "moral imperative",
+          "strategic imperative"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "it is imperative that + clause",
+        "examples": [
+          "It is imperative that we leave now."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常隐含伦理或道德命令的含义，例如在西方哲学中，康德的道德律令（categorical imperative）象征普遍道德准则。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于在正式或学术语境中使用",
+        "usage": "英国英语中，常见于政策文件或教育讨论"
+      },
+      {
+        "region": "United States",
+        "variation": "在商业和政治语境中更频繁",
+        "usage": "美国英语中，常用于强调行动 urgency，如政治演讲"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，体现了西方文化对权威和必要性的强调；在文学中，如莎士比亚的作品中出现类似概念。",
+    "modernUsage": "在社交媒体和全球商业语境中，词语传播迅速，常用于气候变化或公共健康讨论以呼吁行动"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个指挥官在战场上发出命令的场景，强调行动的紧迫性。",
+      "keyElements": [
+        "指挥官",
+        "命令旗帜",
+        "紧迫时钟"
+      ],
+      "emotionalConnection": "联结个人经历，如回想儿时父母的指令，触发责任感和 urgency 的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Imperative 听起来像 'emperor' 的命令",
+        "explanation": "通过联想词根与皇帝的权威性，增强记忆；基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "I Must Perform Every Real Action To Ensure Victory",
+        "explanation": "使用首字母缩略法创建句子，帮助记忆多重含义；符合重复曝光原则"
+      }
+    ],
+    "wordAssociations": [
+      "command",
+      "urgent",
+      "essential"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more imperative",
+      "superlative": "most imperative"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "It is imperative that + subject + verb",
+        "description": "用于表达必要性的从句结构",
+        "examples": [
+          "It is imperative that you arrive on time."
+        ]
+      },
+      {
+        "pattern": "Adjective before noun",
+        "description": "作为形容词修饰名词",
+        "examples": [
+          "An imperative decision."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'impervious'",
+        "correction": "Use 'imperative' for necessity, not 'impervious' which means unaffected.",
+        "explanation": "中文学习者常混淆发音和含义；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect use in sentences",
+        "correction": "Ensure subjunctive mood in clauses, e.g., 'It is imperative that he go' not 'goes'.",
+        "explanation": "在从句中需使用虚拟语气；基于语法规则避免错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "education",
+      "politics",
+      "ethics"
+    ],
+    "tags": [
+      "necessity",
+      "command",
+      "grammar"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

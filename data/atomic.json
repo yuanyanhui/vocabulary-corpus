@@ -1,0 +1,252 @@
+{
+  "word": "atomic",
+  "phonetics": {
+    "british": "/əˈtɒmɪk/",
+    "american": "/əˈtɑːmɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to an atom or atoms; of or forming a single indivisible unit.",
+      "chineseTranslation": "与原子相关的；或形成单一不可分割的单位",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to nuclear energy or weapons, as in atomic power or atomic bombs.",
+      "chineseTranslation": "与核能或核武器相关的，例如原子能或原子弹",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, describing an operation that is performed as a single, uninterruptible unit.",
+      "chineseTranslation": "在计算机科学中，指作为一个单一、不可中断的单位执行的操作",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "atomic bomb",
+      "meaning": "原子弹",
+      "example": "The atomic bomb was dropped on Hiroshima in 1945.",
+      "exampleTranslation": "1945年，原子弹被投掷在广岛。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "atomic energy",
+      "meaning": "原子能",
+      "example": "Atomic energy has both peaceful and destructive applications.",
+      "exampleTranslation": "原子能有和平和破坏性的应用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "atomic structure",
+      "meaning": "原子结构",
+      "example": "Scientists study atomic structure to understand matter at the fundamental level.",
+      "exampleTranslation": "科学家研究原子结构以理解物质的基本层面。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist explained the atomic theory in detail during the lecture.",
+      "translation": "科学家在讲座中详细解释了原子理论。",
+      "source": "Academic textbook (e.g., from physics education)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the era of atomic power, we must consider the risks of radiation.",
+      "translation": "在原子能时代，我们必须考虑辐射的风险。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This software update includes atomic operations to ensure data integrity.",
+      "translation": "这个软件更新包括原子操作以确保数据完整性。",
+      "source": "Technical documentation (e.g., from tech blogs)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "atomos",
+        "meaning": "Indivisible",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语ἄτομος (átomos)，意为“不可分割的”。该词最初由古希腊哲学家如德谟克利特用于描述物质的基本单位。17世纪传入英语，随着现代物理学发展，特别是原子理论的提出（如约翰·道尔顿的工作），其含义扩展到核物理领域，包括原子能和武器。",
+    "firstKnownUse": "1661",
+    "relatedWords": [
+      "atom",
+      "molecule",
+      "subatomic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'atomic' 与原子模型的可视化图像关联，例如想象原子核和电子轨道，以增强空间记忆；对于中文母语学习者，比较英语 'atomic' 与中文 '原子' 的相似性，以建立跨语言联结，避免混淆核物理术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nuclear",
+        "similarity": "0.8",
+        "context": "在核物理语境中适用，例如讨论原子弹时"
+      },
+      {
+        "word": "subatomic",
+        "similarity": "0.7",
+        "context": "在粒子物理学语境中适用，例如描述比原子更小的粒子"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "molecular",
+        "context": "在化学语境中适用，指与分子相关的而非原子的概念"
+      },
+      {
+        "word": "macroscopic",
+        "context": "在科学语境中适用，指可见的宏观级别而非微观原子级别"
+      }
+    ],
+    "hypernyms": [
+      "physical"
+    ],
+    "hyponyms": [
+      "radioactive"
+    ],
+    "collocations": [
+      {
+        "pattern": "atomic + noun (e.g., atomic bomb, atomic energy)",
+        "examples": [
+          "atomic structure",
+          "atomic weight"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + atomic (e.g., highly atomic)",
+        "examples": [
+          "inherently atomic"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征现代科技与破坏力量的二元性，尤其与二战原子弹事件相关，代表人类科技进步的隐含风险；在跨文化语境中，中国文化可能将其与核威慑或和平利用原子能（如中国核工业发展）关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于军事和政治语境，如'atomic age'",
+        "usage": "在美国英语中，强调核武器的历史影响"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似美国，但更侧重科学和技术语境，如'atomic physics'",
+        "usage": "在英国英语中，常用于学术讨论"
+      }
+    ],
+    "historicalContext": "与20世纪初的核物理革命相关，例如爱因斯坦的相对论和曼哈顿计划，体现了科学与战争的交织；在文学和社会中，如乔治·奥威尔的作品中，'atomic' 象征 dystopian 未来。",
+    "modernUsage": "在现代社交媒体和科技语境下，常见于讨论气候变化、AI 和区块链（如原子交易），反映全球对可持续能源的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个微小的原子模型，中心是核，周围环绕电子轨道，像太阳系一样。",
+      "keyElements": [
+        "原子核",
+        "电子",
+        "轨道"
+      ],
+      "emotionalConnection": "联结到个人经验，如观看科幻电影中原子爆炸的场景，触发好奇和警示情绪，以加强长期记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'atomic' 联想为 'a tiny object making impact'（一个微小的物体制造影响）",
+        "explanation": "通过视觉联想，结合认知科学的空间记忆原理，帮助学习者记住其微观性质。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /əˈtɒmɪk/ 听起来像 'a topic'，联想到科学话题。",
+        "explanation": "利用声音相似性建立记忆路径，基于认知心理学中的双编码理论。"
+      }
+    ],
+    "wordAssociations": [
+      "atom",
+      "nucleus",
+      "energy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more atomic",
+      "superlative": "most atomic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + atomic",
+        "description": "用于描述事物的特性，例如 'The reaction is atomic.'",
+        "examples": [
+          "This process is atomic in nature."
+        ]
+      },
+      {
+        "pattern": "Atomic + noun phrase",
+        "description": "用于修饰名词，例如 'atomic energy production'",
+        "examples": [
+          "The lab focuses on atomic research."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'atomic' with 'nuclear'",
+        "correction": "Use 'atomic' for atom-related concepts and 'nuclear' for nucleus-specific ones",
+        "explanation": "二者虽相关，但 'atomic' 更广义；中文学习者常因翻译混淆。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ætɒmɪk/",
+        "correction": "Pronounce as /əˈtɒmɪk/ in British English",
+        "explanation": "元音差异导致错误；通过练习元音对比可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "military"
+    ],
+    "tags": [
+      "physics",
+      "chemistry",
+      "nuclear"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

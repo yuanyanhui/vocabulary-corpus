@@ -1,0 +1,235 @@
+{
+  "word": "nonempty",
+  "phonetics": {
+    "british": "/nɒnˈɛmpti/",
+    "american": "/nɑnˈɛmpti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not containing nothing; having some content, elements, or substance.",
+      "chineseTranslation": "非空的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal, technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nonempty set",
+      "meaning": "非空集合",
+      "example": "In mathematics, a nonempty set is one that contains at least one element.",
+      "exampleTranslation": "在数学中，非空集合是包含至少一个元素的集合。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nonempty string",
+      "meaning": "非空字符串",
+      "example": "Programmers must check if the input is a nonempty string before processing.",
+      "exampleTranslation": "程序员必须在处理前检查输入是否为非空字符串。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The array must be nonempty to avoid errors in the algorithm.",
+      "translation": "该数组必须是非空的，以避免算法中的错误。",
+      "source": "Technical documentation (e.g., from programming contexts like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She insisted on a nonempty response from the committee before proceeding.",
+      "translation": "她在继续之前坚持要求委员会给出非空回应。",
+      "source": "Formal writing (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday terms, a nonempty wallet means you have some money.",
+      "translation": "在日常用语中，非空钱包意味着你有一些钱。",
+      "source": "Informal contexts (e.g., contemporary media)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin and Old English",
+    "rootWords": [
+      {
+        "root": "non-",
+        "meaning": "not",
+        "language": "Latin"
+      },
+      {
+        "root": "empty",
+        "meaning": "containing nothing",
+        "language": "Old English (ǣmptiġ)"
+      }
+    ],
+    "historicalDevelopment": "The prefix 'non-' from Latin 'non' (not) combines with 'empty' from Old English 'ǣmptiġ' (vacant). This compound word emerged in modern English during the 19th century, particularly in scientific and mathematical contexts, evolving from literal meanings to abstract applications in logic and computing.",
+    "firstKnownUse": "Early 20th century (e.g., in mathematical texts)",
+    "relatedWords": [
+      "empty",
+      "nonexistent",
+      "nonzero"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it requires intermediate understanding of technical vocabulary)",
+    "pronunciationDifficulty": "4 (out of 10; straightforward syllable structure, but the 'non-' prefix may challenge non-native speakers with vowel sounds)",
+    "spellingDifficulty": "3 (out of 10; simple compounding, but learners may confuse with similar words like 'nonempty' vs. 'empty')",
+    "meaningComplexity": "5 (out of 10; abstract in technical contexts, but concrete in basic usage)",
+    "usageComplexity": "6 (out of 10; common in specific domains like math and computing, requiring context awareness)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'non-' 前缀与其他否定词如 'non-' 和 'un-' 进行比较，以增强记忆；通过重复暴露于真实语料中强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "non-empty",
+        "similarity": "1.0",
+        "context": "在技术语境中完全等同，常用于数学和编程"
+      },
+      {
+        "word": "populated",
+        "similarity": "0.7",
+        "context": "在数据结构语境中，表示含有元素，但较不正式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "empty",
+        "context": "在集合或容器语境中，表示无内容或元素"
+      },
+      {
+        "word": "vacant",
+        "context": "在物理或抽象空间语境中，表示空缺或未占用"
+      }
+    ],
+    "hypernyms": [
+      "adjective describing state"
+    ],
+    "hyponyms": [
+      "nonempty set",
+      "nonempty string"
+    ],
+    "collocations": [
+      {
+        "pattern": "nonempty + noun (e.g., set, array)",
+        "examples": [
+          "a nonempty list",
+          "nonempty data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + nonempty",
+        "examples": [
+          "The folder is nonempty."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征技术精确性，尤其在STEM领域，体现出对细节和逻辑的强调，但在日常对话中较少使用，隐含语义反映现代科技社会对非模糊性的追求。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术写作和编程",
+        "usage": "在美式英语中，常见于教育和商业语境，如软件文档"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能在学术论文中更正式",
+        "usage": "在英式英语中，常与数学理论结合"
+      }
+    ],
+    "historicalContext": "与工业革命和现代计算发展相关，源自19世纪科学语言的演变，在20世纪计算机科学兴起后普及。",
+    "modernUsage": "在社交媒体和在线论坛中，流行于技术讨论，如编程社区（Reddit、Stack Overflow），反映数字时代的语言趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个不空的盒子，里面有物品，代表 'nonempty' 的状态。",
+      "keyElements": [
+        "盒子",
+        "物品",
+        "非空状态"
+      ],
+      "emotionalConnection": "联结个人经验，如回想钱包里有钱时的安心感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Nonempty = Not + Empty; 想象 'non' 像一个屏障阻止 'empty'。",
+        "explanation": "通过视觉联想加强词汇记忆，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /nɒnˈɛmpti/ 像 'none empty'，联想到空荡荡的房间突然有东西。",
+        "explanation": "利用声音与图像的结合，促进海马体记忆 consolidation。"
+      }
+    ],
+    "wordAssociations": [
+      "full",
+      "occupied",
+      "populated"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "nonemptier",
+      "superlative": "nonemptiest"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + nonempty",
+        "description": "主语 + 系动词 + nonempty，描述状态",
+        "examples": [
+          "The set is nonempty."
+        ]
+      },
+      {
+        "pattern": "Nonempty + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "a nonempty array"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'non empty' instead of 'nonempty'",
+        "correction": "Use 'nonempty' as one word",
+        "explanation": "在英语中，复合形容词通常合并为一个词，以符合技术写作规范。"
+      },
+      {
+        "mistake": "Confusing with 'empty' in negative contexts",
+        "correction": "Ensure clear negation",
+        "explanation": "学习者可能遗漏 'non-' 前缀，导致语义反转。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked in the top 10,000 in COCA for technical domains)",
+    "domains": [
+      "科技",
+      "数学",
+      "计算机"
+    ],
+    "tags": [
+      "技术术语",
+      "形容词",
+      "否定前缀"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

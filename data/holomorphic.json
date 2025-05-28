@@ -1,0 +1,233 @@
+{
+  "word": "holomorphic",
+  "phonetics": {
+    "british": "/ˌhɒləˈmɒfɪk/",
+    "american": "/ˌhɑːləˈmɑːfɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In complex analysis, a function is holomorphic if it is complex differentiable at every point in its domain, meaning it is analytic and satisfies the Cauchy-Riemann equations.",
+      "chineseTranslation": "全纯的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "holomorphic function",
+      "meaning": "全纯函数",
+      "example": "A holomorphic function is one that is differentiable at every point in a complex domain.",
+      "exampleTranslation": "一个全纯函数是在复数域中每个点都可微的函数。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "holomorphic map",
+      "meaning": "全纯映射",
+      "example": "The holomorphic map preserves the structure of the complex plane.",
+      "exampleTranslation": "全纯映射保留了复平面的结构。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The exponential function e^z is holomorphic throughout the entire complex plane.",
+      "translation": "指数函数 e^z 在整个复平面上都是全纯的。",
+      "source": "Mathematical literature, such as textbooks on complex analysis",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In advanced calculus, we study whether a given function is holomorphic or not.",
+      "translation": "在高等微积分中，我们研究给定的函数是否是全纯的。",
+      "source": "Academic lectures or research papers",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Holomorphic functions play a crucial role in solving problems in physics and engineering.",
+      "translation": "全纯函数在物理和工程问题解决中发挥关键作用。",
+      "source": "Scientific articles from journals like Nature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "holo-",
+        "meaning": "whole or entire",
+        "language": "Greek (from 'holos')"
+      },
+      {
+        "root": "-morphic",
+        "meaning": "form or shape",
+        "language": "Greek (from 'morphe')"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Greek roots and was first used in the context of complex analysis in the 19th century. It evolved from earlier concepts in differential calculus, where functions needed to be differentiable in a 'whole' manner across domains, as formalized by mathematicians like Cauchy and Riemann.",
+    "firstKnownUse": "Early 20th century, with roots in 19th-century mathematical texts",
+    "relatedWords": [
+      "analytic",
+      "complex",
+      "differentiable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires advanced mathematical knowledge)",
+    "pronunciationDifficulty": "6 (out of 10, due to the vowel sounds like /ɒ/ in British English, which may confuse intermediate learners from Chinese backgrounds with different vowel systems)",
+    "spellingDifficulty": "7 (out of 10, as the combination of 'ph' and the less common '-omorphic' suffix can lead to errors for learners accustomed to phonetic spelling in Chinese)",
+    "meaningComplexity": "9 (out of 10, involving abstract mathematical concepts that build on prior knowledge of calculus and complex numbers)",
+    "usageComplexity": "8 (out of 10, primarily used in technical contexts, making it challenging for intermediate learners to apply without domain-specific exposure)",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个完整的复平面图来表示 'holomorphic' 的整体可微性；",
+      "通过间隔重复系统复习相关数学概念，以强化记忆痕迹；",
+      "将新词与母语类似概念关联，如用中文的 '全纯' 作为桥梁，结合个人经验如解决实际问题来建立情感连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "analytic",
+        "similarity": "0.9",
+        "context": "在复分析中，适用于描述函数在开集上处处可微的语境"
+      },
+      {
+        "word": "regular",
+        "similarity": "0.7",
+        "context": "在某些数学语境中，指函数的平滑性，但不如 'holomorphic' 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-holomorphic",
+        "context": "用于描述函数在某些点不可微的语境，例如有奇点的函数"
+      }
+    ],
+    "hypernyms": [
+      "complex function"
+    ],
+    "hyponyms": [
+      "entire function"
+    ],
+    "collocations": [
+      {
+        "pattern": "holomorphic + noun (e.g., function, map)",
+        "examples": [
+          "holomorphic function",
+          "holomorphic mapping"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + holomorphic (e.g., bounded holomorphic)",
+        "examples": [
+          "bounded holomorphic function"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词主要在科学和技术文化中象征数学严谨性和分析的精确性，体现了西方数学传统的逻辑思维，与东方数学哲学（如中国古代的代数方法）有潜在关联，但无直接象征意义",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和工程语境",
+        "usage": "在美国英语中，常出现在大学课程和科技报告中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更强调历史数学传统",
+        "usage": "在英国英语中，常与经典数学文本相关联"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲数学革命相关，如Cauchy和Riemann的工作，反映了工业革命时期对精确计算的需求",
+    "modernUsage": "在现代社交和数字媒体中，主要出现在在线教育平台和学术讨论中，如YouTube讲座或Reddit论坛"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个完整的、无瑕疵的复平面图景，如一个光滑的波浪状湖面，代表函数在整个域上都平滑可微",
+      "keyElements": [
+        "复平面",
+        "光滑波浪",
+        "完整性"
+      ],
+      "emotionalConnection": "联结到个人经历，如解决一个难题的成就感，以增强积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'holo' 联想为 'whole'，并想象一个完整的圆环 (hoop) 在平面上滚动",
+        "explanation": "通过视觉联想强化词汇与 '整体' 概念的连接，基于认知心理学中的图像记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌhɒləˈmɒfɪk/ 联想为 'holy morphic'，像一个神圣的形状，代表完美的数学形式",
+        "explanation": "利用声音和图像的联觉来创建生动记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "complex",
+      "analytic",
+      "differentiable",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + holomorphic",
+        "description": "用于描述函数的属性，例如 'The function is holomorphic.'",
+        "examples": [
+          "The function f(z) is holomorphic in this region."
+        ]
+      },
+      {
+        "pattern": "Holomorphic + noun phrase",
+        "description": "作为定语修饰名词",
+        "examples": [
+          "A holomorphic function exhibits certain properties."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'homomorphic' in algebra",
+        "correction": "Use 'holomorphic' only for complex analysis contexts",
+        "explanation": "These terms share similar roots but differ in meaning; learners should distinguish based on domain"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /hɒl-o-morphic/",
+        "correction": "Pronounce as /ˌhɒləˈmɒfɪk/",
+        "explanation": "Stress on the correct syllables to avoid miscommunication in technical discussions"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus for general use)",
+    "domains": [
+      "mathematics",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "complex analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Mathematical Association of America resources"
+    ]
+  }
+}

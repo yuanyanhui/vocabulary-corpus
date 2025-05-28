@@ -1,0 +1,238 @@
+{
+  "word": "centrifuge",
+  "phonetics": {
+    "british": "/ˈsɛntrɪfjuːdʒ/",
+    "american": "/ˈsɛntrəˌfjuːdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate substances of different densities, such as separating solids from liquids.",
+      "chineseTranslation": "离心机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To subject a material to centrifugal force, especially in a centrifuge, in order to separate its components.",
+      "chineseTranslation": "使离心；用离心机分离",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "centrifuge tube",
+      "meaning": "离心管",
+      "example": "The scientist placed the sample in a centrifuge tube before starting the machine.",
+      "exampleTranslation": "科学家在启动机器前将样本放入离心管中。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "centrifugal force",
+      "meaning": "离心力",
+      "example": "Centrifugal force is what keeps the objects moving outward in a spinning centrifuge.",
+      "exampleTranslation": "离心力是使物体在旋转的离心机中向外移动的因素。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the laboratory, we use a centrifuge to separate blood cells from plasma.",
+      "translation": "在实验室，我们使用离心机将血细胞与血浆分离。",
+      "source": "Scientific literature (e.g., from biology textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The industrial centrifuge processes large volumes of liquid to extract valuable minerals.",
+      "translation": "工业离心机处理大量液体以提取有价值的矿物。",
+      "source": "Technical manuals (e.g., engineering contexts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After centrifuging the mixture, the clearer liquid was poured into another container.",
+      "translation": "离心混合物后，更清澈的液体被倒入另一个容器。",
+      "source": "General scientific writing (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "centrum",
+        "meaning": "center",
+        "language": "Latin"
+      },
+      {
+        "root": "fugere",
+        "meaning": "to flee",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'centrum'（中心）和 'fugere'（逃离），组合形成现代英语词汇，最初在19世纪用于描述旋转分离装置的科学概念。从科学术语演变为广泛应用于物理学、化学和生物学的术语。",
+    "firstKnownUse": "1860s",
+    "relatedWords": [
+      "centripetal",
+      "centrifugation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想将 'centrifuge' 与旋转的轮子或陀螺仪联系起来，以增强记忆；通过重复练习发音，聚焦于元音和辅音组合，以避免母语干扰，如中文中缺乏类似音节。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "separator",
+        "similarity": "0.7",
+        "context": "在工业或实验室环境中用于分离物质时"
+      },
+      {
+        "word": "spinner",
+        "similarity": "0.6",
+        "context": "非正式语境中描述快速旋转设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "centripetal",
+        "context": "与向心力相对，在物理学中描述向中心运动"
+      }
+    ],
+    "hypernyms": [
+      "machine",
+      "device"
+    ],
+    "hyponyms": [
+      "ultracentrifuge"
+    ],
+    "collocations": [
+      {
+        "pattern": "centrifuge + noun (e.g., tube, process)",
+        "examples": [
+          "centrifuge machine",
+          "centrifuge process"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + centrifuge (e.g., use, operate)",
+        "examples": [
+          "operate a centrifuge"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和精确分离，常隐含在医疗、研究领域的创新精神；在跨文化语境中，中国学习者可能将其与中医或现代生物技术关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在日常科技语境",
+        "usage": "在美国英语中，常见于教育和工业描述"
+      },
+      {
+        "region": "英国",
+        "variation": "更正式的科学术语使用",
+        "usage": "在英国英语中，可能与历史科学文献相关联"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和科学发展相关，如Darwin的进化论研究中可能间接涉及；在中国文化中，与现代科学引进相连，体现东西方知识交流。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于科普视频或技术讨论，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个快速旋转的洗衣机，将衣服中的水甩出，代表离心过程。",
+      "keyElements": [
+        "旋转",
+        "分离",
+        "机器"
+      ],
+      "emotionalConnection": "联结个人洗衣经验或观看科学实验的兴奋感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Centrifuge sounds like 'center flee' – think of something fleeing from the center.",
+        "explanation": "通过词根联想，将 'centrum' 和 'fugere' 转化为视觉故事，帮助记忆词汇含义"
+      },
+      {
+        "type": "缩略",
+        "content": "C-Fuge: C for center, Fuge for flee quickly.",
+        "explanation": "使用缩写形式结合认知科学中的分块记忆技巧，便于中级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "spin",
+      "separate",
+      "lab"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "centrifuges",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "centrifuging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + centrifuge",
+        "description": "主语 + 动词 + 离心机（作为动词使用）",
+        "examples": [
+          "We centrifuge the sample."
+        ]
+      },
+      {
+        "pattern": "Centrifuge + object",
+        "description": "离心机 + 宾语（作为名词使用）",
+        "examples": [
+          "The centrifuge processes the mixture."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'centripetal'",
+        "correction": "Use 'centrifuge' for outward force",
+        "explanation": "许多学习者混淆向心力和离心力；建议通过对比学习避免"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'centrifuging' as present participle",
+        "explanation": "中文母语者常忽略动词变形；通过练习句型强化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "medicine"
+    ],
+    "tags": [
+      "physics",
+      "engineering",
+      "laboratory"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "word": "lidar",
+  "phonetics": {
+    "british": "/ˈlaɪdɑːr/",
+    "american": "/ˈlaɪdɑr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a remote sensing method that uses light in the form of a pulsed laser to measure variable distances to the Earth, often used for creating precise, three-dimensional information about the shape of the Earth's surface and objects on it",
+      "chineseTranslation": "激光雷达",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lidar technology",
+      "meaning": "激光雷达技术",
+      "example": "The development of lidar technology has revolutionized autonomous vehicles.",
+      "exampleTranslation": "激光雷达技术的开发彻底改变了自动驾驶车辆。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "lidar mapping",
+      "meaning": "激光雷达测绘",
+      "example": "Lidar mapping is essential for accurate environmental surveys.",
+      "exampleTranslation": "激光雷达测绘对于精确的环境调查至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "airborne lidar",
+      "meaning": "机载激光雷达",
+      "example": "Airborne lidar systems are used in forestry to measure tree heights.",
+      "exampleTranslation": "机载激光雷达系统用于林业测量树高。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists use lidar to create detailed maps of ancient ruins.",
+      "translation": "科学家使用激光雷达创建古代遗迹的详细地图。",
+      "source": "Scientific articles (e.g., from National Geographic)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The new smartphone features an integrated lidar sensor for improved augmented reality experiences.",
+      "translation": "这款新智能手机配备了集成的激光雷达传感器，以提升增强现实体验。",
+      "source": "Technology news (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In urban planning, lidar helps in detecting changes in city landscapes over time.",
+      "translation": "在城市规划中，激光雷达有助于检测城市景观随时间的变化。",
+      "source": "Academic publications (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "light",
+        "meaning": "electromagnetic radiation visible to the human eye",
+        "language": "English (from Old English 'lēoht')"
+      },
+      {
+        "root": "radar",
+        "meaning": "radio detection and ranging",
+        "language": "English (acronym from the 1940s)"
+      }
+    ],
+    "historicalDevelopment": "该词是 'light' 和 'radar' 的组合词（portmanteau），于20世纪60年代初由工程师创造，用于描述一种使用激光进行测距的技术。从词源来看，它源于对雷达技术的扩展，将无线电波替换为激光光波，随着激光技术的发展，该词的含义从单纯的测距扩展到现代的三维成像和遥感应用。",
+    "firstKnownUse": "1963",
+    "relatedWords": [
+      "radar",
+      "sonar",
+      "laser"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'lidar' 拆解为 'light' 和 'radar'，并通过视觉图像如激光光束扫描物体来加强记忆；建议初学者从技术语境入手，避免抽象概念的直接记忆，以降低认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "laser radar",
+        "similarity": "0.9",
+        "context": "主要用于技术领域，如遥感和自动驾驶"
+      },
+      {
+        "word": "light detection and ranging",
+        "similarity": "1.0",
+        "context": "正式定义语境中，常用于学术和专业解释"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "radar",
+        "context": "虽然不是严格反义，但 'radar' 使用无线电波，而 'lidar' 使用激光，因此在技术对比语境中形成对比"
+      }
+    ],
+    "hypernyms": [
+      "remote sensing technology"
+    ],
+    "hyponyms": [
+      "terrestrial lidar",
+      "airborne lidar"
+    ],
+    "collocations": [
+      {
+        "pattern": "lidar + noun (e.g., system, data)",
+        "examples": [
+          "lidar system",
+          "lidar data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + lidar (e.g., use lidar)",
+        "examples": [
+          "employ lidar",
+          "deploy lidar"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征创新和精确测量，尤其在人工智能和自动驾驶领域，具有隐含语义，如代表人类对环境的数字化掌控；在西方文化中，常与环境科学和军事技术相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，'lidar' 频繁出现在科技报道和产品描述中，如Tesla的自动驾驶系统"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向学术和环境科学语境",
+        "usage": "在英国英语中，'lidar' 常用于考古和地理调查"
+      }
+    ],
+    "historicalContext": "该词与20世纪冷战时期的军事技术发展相关联，起源于雷达的演进，并在后工业时代扩展到民用领域，如气候变化研究和城市规划。",
+    "modernUsage": "在社交媒体和数字平台上，'lidar' 常用于讨论新兴技术，如智能手机应用或太空探索趋势，体现了全球数字化转型。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个激光光束像雷达扫描一样照射在城市建筑上，形成三维地图。",
+      "keyElements": [
+        "激光光束",
+        "扫描物体",
+        "三维图像"
+      ],
+      "emotionalConnection": "联结到个人经验，如玩增强现实游戏时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'lidar' as 'light radar' – a radar that uses light instead of radio waves.",
+        "explanation": "通过词根联想强化记忆，符合认知科学中的双编码理论（dual coding），将视觉和语言信息结合。"
+      },
+      {
+        "type": "缩略",
+        "content": "LIght + RADAR = LIDAR",
+        "explanation": "使用首字母缩写法，帮助构建词汇网络，降低遗忘率。"
+      }
+    ],
+    "wordAssociations": [
+      "laser",
+      "radar",
+      "mapping",
+      "sensor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lidars",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the lidar system')",
+        "description": "作为名词使用，通常在技术描述中出现",
+        "examples": [
+          "The lidar provides accurate measurements."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., 'using lidar')",
+        "description": "常与动词连用，表示工具或方法",
+        "examples": [
+          "Engineers are using lidar for surveying."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'lidar' with 'radar'",
+        "correction": "Use 'lidar' specifically for laser-based systems",
+        "explanation": "由于词根相似，学习者可能混淆；建议通过对比学习区分技术差异。"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'lidars' vs. treating it as uncountable",
+        "correction": "Use 'lidars' for multiple devices",
+        "explanation": "在英语中，该词可数，但初学者常错误地视其为不可数名词。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "technology",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "tech",
+      "sensing",
+      "remote sensing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

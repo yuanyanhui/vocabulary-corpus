@@ -1,0 +1,244 @@
+{
+  "word": "jibe",
+  "phonetics": {
+    "british": "/dʒaɪb/",
+    "american": "/dʒaɪb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to be in agreement or accord; to fit or match",
+      "chineseTranslation": "一致；符合",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to shift a sail from one side of a vessel to the other",
+      "chineseTranslation": "（帆船）改变航向",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a taunting or mocking remark",
+      "chineseTranslation": "嘲讽；挖苦的话",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "jibe with",
+      "meaning": "与…一致",
+      "example": "His story doesn't jibe with the facts.",
+      "exampleTranslation": "他的故事与事实不一致。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "to jibe at someone",
+      "meaning": "嘲笑某人",
+      "example": "She couldn't resist jibing at his mistake.",
+      "exampleTranslation": "她忍不住嘲笑他的错误。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The data from the two reports doesn't jibe, so we need to investigate further.",
+      "translation": "两份报告的数据不一致，因此我们需要进一步调查。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In sailing, you must jibe carefully to avoid capsizing the boat.",
+      "translation": "在帆船运动中，必须小心改变航向以避免船 capsizing。",
+      "source": "Sports article (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "His constant jibes about her appearance made her uncomfortable at the party.",
+      "translation": "他对她外貌的不断嘲讽让她在派对上感到不舒服。",
+      "source": "Literature (e.g., modern novel)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Dutch",
+    "rootWords": [
+      {
+        "root": "gijpen",
+        "meaning": "to change direction (in sailing)",
+        "language": "Dutch"
+      }
+    ],
+    "historicalDevelopment": "源自17世纪的荷兰语'gijpen'，最初指帆船改变航向的动作；19世纪开始在美国英语中发展出比喻意义，表示一致或符合；20世纪，名词形式扩展为嘲讽的意思，受口语和俚语影响",
+    "firstKnownUse": "1690s (for sailing sense)",
+    "relatedWords": [
+      "gybe (British variant for sailing)",
+      "jive (related slang)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the IPA /dʒaɪb/ is straightforward but may confuse with similar sounds like /ʒ/ in some dialects)",
+    "spellingDifficulty": "5 (out of 10, spelling is simple but homophones like 'jive' can cause errors)",
+    "meaningComplexity": "6 (out of 10, multiple senses require context to disambiguate)",
+    "usageComplexity": "7 (out of 10, depends on register and context, common in informal or technical settings)",
+    "learningTips": [
+      "使用间隔重复系统来记忆不同语境下的含义；结合图像联想帆船场景以强化动词形式；根据认知科学，创建个人故事将'jibe'与日常生活中的一致性联系起来"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "accord",
+        "similarity": "0.8",
+        "context": "在正式语境中用于表示一致，例如商业讨论"
+      },
+      {
+        "word": "taunt",
+        "similarity": "0.7",
+        "context": "在非正式场合用于表示嘲讽"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disagree",
+        "context": "当含义为一致时，用于表示不一致的语境"
+      },
+      {
+        "word": "compliment",
+        "context": "当含义为嘲讽时，用于表示赞美的对比"
+      }
+    ],
+    "hypernyms": [
+      "agree (for verb sense)",
+      "remark (for noun sense)"
+    ],
+    "hyponyms": [
+      "synchronize (specific to agreement)"
+    ],
+    "collocations": [
+      {
+        "pattern": "jibe with + noun",
+        "examples": [
+          "The evidence jibes with the theory."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "jibe at + someone",
+        "examples": [
+          "He jibed at her ideas."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常用于强调逻辑一致性或社交互动中的幽默挖苦，反映了美国英语的非正式表达方式",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于同意的含义",
+        "usage": "在日常对话中，如新闻报道"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向帆船术语，常写作'gybe'",
+        "usage": "在航海或体育语境中"
+      }
+    ],
+    "historicalContext": "与18世纪的航海文化相关联，并通过20世纪的美国俚语演变为现代用法，体现社会讽刺在文学中的作用，如在马克·吐温的作品中",
+    "modernUsage": "在社交媒体上用于快速表达不一致或幽默，如Twitter讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一艘帆船在风中改变方向，与预期的路线一致",
+      "keyElements": [
+        "帆船",
+        "风向",
+        "一致性"
+      ],
+      "emotionalConnection": "联结到个人经历中追求和谐的时刻，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Jibe 像 'jive' 舞蹈，但要 'jibe' 必须步调一致",
+        "explanation": "通过视觉联想舞蹈的协调性来记忆一致的含义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /dʒaɪb/ 听起来像 'jab'（刺戳），联想到嘲讽的攻击性",
+        "explanation": "利用声音相似性强化名词含义，符合记忆编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "agree",
+      "mock",
+      "sail"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "jibed",
+      "pastParticiple": "jibed",
+      "presentParticiple": "jibing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + jibe + with + object",
+        "description": "主语与对象一致的结构",
+        "examples": [
+          "The accounts jibe with each other."
+        ]
+      },
+      {
+        "pattern": "Jibe at + object",
+        "description": "用于表达嘲讽的句法",
+        "examples": [
+          "She jibed at his efforts."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'jive'",
+        "correction": "Use 'jibe' for agreement or mockery",
+        "explanation": "中文学习者常混淆音似词；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'jibed'",
+        "explanation": "由于不是不规则动词，但拼写易错"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      " everyday conversation",
+      "sports",
+      "literature"
+    ],
+    "tags": [
+      "colloquial",
+      "nautical",
+      "informal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

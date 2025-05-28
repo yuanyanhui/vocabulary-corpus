@@ -1,0 +1,240 @@
+{
+  "word": "crudification",
+  "phonetics": {
+    "british": "/ˌkrʌdɪfɪˈkeɪʃən/",
+    "american": "/ˌkrʌdɪfəˈkeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of implementing or converting a system, application, or data management structure to include basic Create, Read, Update, and Delete (CRUD) operations, often in software development.",
+      "chineseTranslation": "CRUD 化的过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Informally, the act of making something more rudimentary, messy, or inefficient, derived from the slang term 'crud' meaning worthless or impure material.",
+      "chineseTranslation": "使某事变得杂乱或低效的过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "database crudification",
+      "meaning": "数据库的 CRUD 化",
+      "example": "The crudification of the database allowed for simpler user interactions.",
+      "exampleTranslation": "数据库的 CRUD 化使得用户互动更简单。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "application crudification process",
+      "meaning": "应用程序的 CRUD 化过程",
+      "example": "During the crudification process, we integrated basic data operations.",
+      "exampleTranslation": "在 CRUD 化过程中，我们整合了基本的数据操作。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern web development, crudification is often the first step in building a functional backend.",
+      "translation": "在现代网络开发中，CRUD 化通常是构建功能后端的第一步。",
+      "source": "Software engineering literature, such as articles from Stack Overflow or tech blogs",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The team's crudification efforts turned a complex system into something more manageable.",
+      "translation": "团队的 CRUD 化努力将一个复杂系统转变为更易管理的形式。",
+      "source": "Technical documentation from open-source projects",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Some critics argue that crudification leads to oversimplification in data handling.",
+      "translation": "一些批评者认为 CRUD 化会导致数据处理的过度简化。",
+      "source": "Academic papers on software architecture",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (modern, derived from acronym)",
+    "rootWords": [
+      {
+        "root": "CRUD",
+        "meaning": "An acronym for Create, Read, Update, Delete",
+        "language": "English"
+      },
+      {
+        "root": "-ification",
+        "meaning": "A suffix indicating the process of making or becoming",
+        "language": "Latin (via French)"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪60年代的计算机科学术语'CRUD'，用于描述基本数据库操作。'Crudification'作为派生词出现于21世纪初的软件开发语境中，结合了'crud'（源自古英语cruda，意为碎片或废物）和'-ification'后缀，逐渐演变为表示标准化或简化过程的含义。",
+    "firstKnownUse": "Early 2000s, in programming forums and documentation",
+    "relatedWords": [
+      "crud",
+      "simplification",
+      "standardization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it is a specialized term requiring contextual understanding)",
+    "pronunciationDifficulty": "6 (out of 10, due to the multisyllabic structure and potential confusion with similar-sounding words like 'crucifixion')",
+    "spellingDifficulty": "7 (out of 10, as it is a compound word with an uncommon suffix, prone to misspelling by non-native speakers)",
+    "meaningComplexity": "8 (out of 10, involving domain-specific knowledge and metaphorical extension from 'crud')",
+    "usageComplexity": "7 (out of 10, limited to technical contexts, requiring precise syntactic integration)",
+    "learningTips": [
+      "結合認知科學的分散重複學習法，將詞彙與實際編程項目聯繫；使用心智圖將'CRUD'縮寫視覺化，以增強記憶痕跡；避免一次性學習，改為分階段回顧以預防遺忘曲線效應。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "simplification",
+        "similarity": "0.7",
+        "context": "適用於軟件開發中的標準化過程"
+      },
+      {
+        "word": "standardization",
+        "similarity": "0.6",
+        "context": "當強調將系統轉化為基本操作時"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "complexification",
+        "context": "適用於使系統變得更複雜的語境"
+      },
+      {
+        "word": "elaboration",
+        "context": "在需要詳細化和擴展的技術討論中"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "transformation"
+    ],
+    "hyponyms": [
+      "database normalization"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + crudification (e.g., system crudification)",
+        "examples": [
+          "the crudification of APIs"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "Crudification + verb (e.g., crudification involves)",
+        "examples": [
+          "crudification involves basic operations"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在科技文化中象徵效率和簡化，反映了現代軟件工程對快速迭代的偏好，常隱含對過度複雜系統的批評。",
+    "regionalVariations": [
+      {
+        "region": "美國",
+        "variation": "更常見於矽谷和技術社區",
+        "usage": "在美國英語中，常與敏捷開發方法論相關"
+      },
+      {
+        "region": "英國",
+        "variation": "較少使用，更偏好正式術語如'CRUD implementation'",
+        "usage": "在英國英語中，可能出現在學術或企業培訓中"
+      }
+    ],
+    "historicalContext": "與20世紀後期的計算機革命相關，源自資料庫管理和軟件設計的歷史演進，在社交媒體和線上論壇中逐漸普及。",
+    "modernUsage": "在現代社交語境下，如GitHub或Reddit討論中，常用於表達對工具簡化的趨勢，但需注意跨文化差異，以避免在非技術環境中的誤解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個凌亂的房間（代表'crud'）逐漸被整理成簡單的架子（代表CRUD操作），最終變得井井有條。",
+      "keyElements": [
+        "房間、架子、CRUD縮寫圖標"
+      ],
+      "emotionalConnection": "聯結個人編程經歷的挫敗感，轉化為成就感，以強化積極記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "聯想",
+        "content": "將'crudification'聯想到'crud'如髒東西，加上'ification'如魔法變身",
+        "explanation": "通過視覺聯想強化詞根記憶，基於認知科學的雙重編碼理論"
+      },
+      {
+        "type": "縮略",
+        "content": "C-R-U-D-I-F-Y: Create-Read-Update-Delete-It-Finally-Works",
+        "explanation": "使用首字母縮寫轉化為故事，促進長期記憶保留"
+      }
+    ],
+    "wordAssociations": [
+      "simplify",
+      "database",
+      "automation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "crudifications",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + crudification",
+        "description": "作為名詞用於句中，表示過程或動作",
+        "examples": [
+          "The crudification improved efficiency."
+        ]
+      },
+      {
+        "pattern": "Crudification of + noun",
+        "description": "用於指定對象的CRUD化",
+        "examples": [
+          "Crudification of the system took weeks."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'crucifixion'",
+        "correction": "Use 'crudification' only in technical contexts",
+        "explanation": "源於發音相似，學習者需區分語境以避免語義混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add '-s' for plural",
+        "explanation": "英文名詞規則化，但初學者可能忘記添加"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (based on COCA corpus, appearing in less than 0.01% of texts)",
+    "domains": [
+      "technology",
+      "software development",
+      "computing"
+    ],
+    "tags": [
+      "technical jargon",
+      "programming",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED for etymology",
+      "COCA for frequency",
+      "BNC for usage patterns"
+    ]
+  }
+}

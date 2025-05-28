@@ -1,0 +1,289 @@
+{
+  "word": "field",
+  "phonetics": {
+    "british": "/fiːld/",
+    "american": "/fiːld/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An area of open land, especially one used for farming or sports.",
+      "chineseTranslation": "田地；场地",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A particular branch of study, activity, or sphere of knowledge.",
+      "chineseTranslation": "领域；专业",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A region where a particular condition or activity prevails, such as a magnetic field.",
+      "chineseTranslation": "场；区域（如磁场）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send out (a team or player) to play in a game or competition.",
+      "chineseTranslation": "布置；派遣（如在体育中）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To handle or respond to (a question or situation).",
+      "chineseTranslation": "处理；应对",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "field of study",
+      "meaning": "学习或研究的领域",
+      "example": "She chose physics as her field of study.",
+      "exampleTranslation": "她选择了物理学作为她的研究领域。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "playing field",
+      "meaning": "用于体育活动的场地",
+      "example": "The children ran across the playing field.",
+      "exampleTranslation": "孩子们跑过运动场。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "magnetic field",
+      "meaning": "磁力场",
+      "example": "The experiment measures the strength of the magnetic field.",
+      "exampleTranslation": "实验测量了磁场强度。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "field trip",
+      "meaning": "实地考察旅行",
+      "example": "The class went on a field trip to the museum.",
+      "exampleTranslation": "班级去博物馆进行实地考察。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmer plowed the field early in the morning.",
+      "translation": "农民一大早就耕犁田地。",
+      "source": "Literature (e.g., from novels depicting rural life)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the field of medicine, new discoveries are made every year.",
+      "translation": "在医学领域，每年都有新发现。",
+      "source": "Academic texts (e.g., from scientific journals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team fielded a strong lineup for the championship game.",
+      "translation": "球队为冠军赛布置了强大的阵容。",
+      "source": "Sports news (e.g., from BBC Sports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She had to field difficult questions during the press conference.",
+      "translation": "她在新闻发布会上不得不应对难题。",
+      "source": "News articles (e.g., from The New York Times)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "feld",
+        "meaning": "Open land",
+        "language": "Old English"
+      },
+      {
+        "root": "*felþuz",
+        "meaning": "Field or plain",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 feld，意为开阔土地或牧场，演变为现代英语中表示地理区域或抽象领域的含义。随农业社会演变，在中古英语时期扩展到抽象概念，如知识领域。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "feld (Middle English)",
+      "Feld (German cognate meaning field)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学原理，使用分层记忆法：先从基本名词意义开始，建立视觉联想（如田地图像），然后逐步扩展到抽象领域；针对中文母语学习者，建议通过比较英语和中文词汇差异（如'领域'与'field'的对应）来强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "domain",
+        "similarity": "0.8",
+        "context": "在学术或专业语境中，例如'field of expertise'可替换为'domain of expertise'"
+      },
+      {
+        "word": "area",
+        "similarity": "0.7",
+        "context": "在一般描述中，例如'field of study'可替换为'area of study'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "city",
+        "context": "在地理语境中，表示城市与田野的对比"
+      },
+      {
+        "word": "urban area",
+        "context": "在社会语境中，表示乡村与城市环境的对立"
+      }
+    ],
+    "hypernyms": [
+      "area",
+      "region"
+    ],
+    "hyponyms": [
+      "agricultural field",
+      "sports field"
+    ],
+    "collocations": [
+      {
+        "pattern": "field + of + noun",
+        "examples": [
+          "field of vision",
+          "field of interest"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + field",
+        "examples": [
+          "work in the field",
+          "enter the field"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征乡村生活、自由和自然，与工业化城市形成对比；在文学中，如英国田园诗 tradition，常隐含对田园牧歌的浪漫化。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于农业语境",
+        "usage": "在英国英语中，常与历史农业遗产相关，如'countryside fields'"
+      },
+      {
+        "region": "美国",
+        "variation": "扩展到更广泛的抽象含义",
+        "usage": "在美国英语中，常用于专业领域，如'business field'，反映多元文化背景"
+      }
+    ],
+    "historicalContext": "与英国工业革命相关，'field'从单纯的地理术语演变为社会 metaphors，代表非城市化生活；在文学作品如莎士比亚的戏剧中，出现作为冲突场景。",
+    "modernUsage": "在社交媒体和数字语境下，常用于虚拟领域，如'field of AI'，反映全球化的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个广阔的绿色田野，农民在耕作，远处有山丘。",
+      "keyElements": [
+        "绿色田野",
+        "农民",
+        "耕作工具"
+      ],
+      "emotionalConnection": "联结个人经验，如童年乡村回忆，以增强情感触发点"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'field'联想为'feel + d'，感觉广阔的空间。",
+        "explanation": "通过声音联想帮助记忆拼写和发音，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "F-I-E-L-D: Farm In Extensive Land Daily",
+        "explanation": "使用首字母缩略词强化词汇结构，促进长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "farm",
+      "domain",
+      "area"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "fields",
+      "pastTense": "fielded",
+      "pastParticiple": "fielded",
+      "presentParticiple": "fielding",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: the + field + of + noun",
+        "description": "用于表示所属领域",
+        "examples": [
+          "the field of biology"
+        ]
+      },
+      {
+        "pattern": "Verb usage: subject + field + object",
+        "description": "用于动作语境，如派遣或处理",
+        "examples": [
+          "The manager fielded the questions"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'field' with 'filed' (past tense of file)",
+        "correction": "Use 'field' for areas or actions, 'filed' for submitting documents",
+        "explanation": "中文学习者常混淆发音和拼写，建议通过语境区分"
+      },
+      {
+        "mistake": "Overusing in abstract contexts",
+        "correction": "Ensure context matches, e.g., use 'domain' if more precise",
+        "explanation": "中级学习者可能泛化词汇，影响精确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "agriculture",
+      "academics",
+      "sports",
+      "science"
+    ],
+    "tags": [
+      "nature",
+      "profession",
+      "abstract concept"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "word": "mainframe",
+  "phonetics": {
+    "british": "/ˈmeɪnfreɪm/",
+    "american": "/ˈmeɪnfreɪm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large, powerful computer used primarily by large organizations for critical applications, bulk data processing, and handling multiple users or tasks simultaneously.",
+      "chineseTranslation": "大型计算机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mainframe computer",
+      "meaning": "大型计算机系统",
+      "example": "The company relies on a mainframe computer for its daily operations.",
+      "exampleTranslation": "公司依赖大型计算机来处理日常运作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mainframe system",
+      "meaning": "大型计算机系统",
+      "example": "Updating the mainframe system improved the efficiency of data processing.",
+      "exampleTranslation": "更新大型计算机系统提升了数据处理的效率。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many banks still use mainframes to securely process millions of transactions each day.",
+      "translation": "许多银行仍然使用大型计算机来安全处理每天数百万的交易。",
+      "source": "Financial news articles (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The old mainframe was replaced with a more modern server to handle the growing data demands.",
+      "translation": "旧的大型计算机被更现代的服务器取代，以应对不断增长的数据需求。",
+      "source": "Technology blogs (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the 1960s, mainframes revolutionized business computing by enabling centralized data management.",
+      "translation": "在1960年代，大型计算机通过启用集中式数据管理 revolutionized 商业计算。",
+      "source": "Historical texts (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "main",
+        "meaning": "Principal or primary",
+        "language": "Old English (from Germanic roots)"
+      },
+      {
+        "root": "frame",
+        "meaning": "Structure or framework",
+        "language": "Old French (from Latin 'frangere', meaning to break or form)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的计算机术语，源自'main'（主要）和'frame'（框架）的组合，最初指大型计算机的物理框架结构。随计算机技术演变，它从描述硬件扩展到表示强大中央处理系统，尤其在企业环境中。",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "supercomputer",
+      "minicomputer",
+      "server"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学原理，如重复间隔学习，将'mainframe'与实际计算机场景关联；建议初级学习者使用视觉辅助工具（如图片）来强化词汇记忆，避免混淆于类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "supercomputer",
+        "similarity": "0.7",
+        "context": "适用于高性能计算语境，但mainframe更侧重于可靠性而非纯速度"
+      },
+      {
+        "word": "enterprise server",
+        "similarity": "0.8",
+        "context": "在商业和数据处理领域常用，强调大规模应用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "microcomputer",
+        "context": "适用于小型个人设备语境，与mainframe的规模和用途相反"
+      },
+      {
+        "word": "laptop",
+        "context": "在便携式计算语境中，与mainframe的固定大型系统形成对比"
+      }
+    ],
+    "hypernyms": [
+      "computer"
+    ],
+    "hyponyms": [
+      "IBM mainframe"
+    ],
+    "collocations": [
+      {
+        "pattern": "mainframe + noun (e.g., mainframe system)",
+        "examples": [
+          "mainframe architecture",
+          "mainframe processing"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + mainframe (e.g., operate a mainframe)",
+        "examples": [
+          "maintain a mainframe",
+          "upgrade the mainframe"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征20世纪后期的技术进步，在西方文化中代表企业稳定性和数据安全，尤其与IBM等公司相关，常隐含对大型机构效率的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业讨论",
+        "usage": "在美国英语中，强调商业应用，如金融和政府部门"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更侧重历史语境",
+        "usage": "在英国英语中，常与学术或历史计算机发展关联"
+      }
+    ],
+    "historicalContext": "mainframe与计算机革命相关，特别是在冷战时期推动了数据处理创新，并出现在文学如William Gibson的作品中，反映社会对技术的依赖。",
+    "modernUsage": "在现代社交媒体和科技新闻中，该词趋势于讨论云计算转型，但仍用于强调传统可靠性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的服务器房间，里面有许多闪烁的灯和电缆，代表一个庞大的计算中心。",
+      "keyElements": [
+        "大型机器",
+        "数据中心",
+        "闪烁灯"
+      ],
+      "emotionalConnection": "联结到个人对科技进步的兴奋感，或回想第一次接触计算机的经历，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Mainframe sounds like 'main frame' – think of the 'main' structure of a building, which is strong and central, just like the computer.",
+        "explanation": "通过视觉联想将词汇与建筑框架联系，运用认知科学中的双编码理论来加深印象。"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-I-N: Massive And Important Network",
+        "explanation": "使用首字母缩写创建简单口诀，帮助记忆词汇的核心特征。"
+      }
+    ],
+    "wordAssociations": [
+      "server",
+      "database",
+      "processing"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "mainframes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the mainframe computer)",
+        "description": "作为主语或宾语出现在句子中，常描述系统或设备",
+        "examples": [
+          "The mainframe handles all transactions."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., on the mainframe)",
+        "description": "用于表示位置或系统环境",
+        "examples": [
+          "Data is stored on the mainframe."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'framework'",
+        "correction": "Use 'mainframe' for computers and 'framework' for structures or software architectures",
+        "explanation": "学习者常因拼写相似而混淆；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "mainframes (not mainframe's)",
+        "explanation": "英文名词复数规则需注意，避免添加不必要的撇号。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "商业",
+      "计算"
+    ],
+    "tags": [
+      "计算机术语",
+      "技术",
+      "企业"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

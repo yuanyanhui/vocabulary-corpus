@@ -1,0 +1,250 @@
+{
+  "word": "dictionary",
+  "phonetics": {
+    "british": "/ˈdɪkʃənri/",
+    "american": "/ˈdɪkʃəneri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A book or electronic resource that lists the words of a language (typically in alphabetical order) and provides their meanings, pronunciations, etymologies, and other information; it can also refer to a reference work on a specific subject.",
+      "chineseTranslation": "字典",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data structure that stores data in pairs of keys and values for quick lookup.",
+      "chineseTranslation": "（计算机中的）字典数据结构",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look up in the dictionary",
+      "meaning": "在字典中查找单词或信息",
+      "example": "I always look up unfamiliar words in the dictionary.",
+      "exampleTranslation": "我总是会在字典中查找不熟悉的单词。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bilingual dictionary",
+      "meaning": "双语字典，提供两种语言之间的翻译",
+      "example": "A bilingual dictionary is essential for language learners.",
+      "exampleTranslation": "双语字典对语言学习者至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dictionary definition",
+      "meaning": "字典中的释义",
+      "example": "The dictionary definition of 'democracy' varies slightly across sources.",
+      "exampleTranslation": "“民主”的字典释义在不同来源中略有不同。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She consulted the dictionary to verify the spelling of the word.",
+      "translation": "她查阅字典来核实这个单词的拼写。",
+      "source": "Modern everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In programming, a dictionary allows for efficient data retrieval using keys.",
+      "translation": "在编程中，字典允许使用键进行高效的数据检索。",
+      "source": "Technical documentation, e.g., from Python tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The Oxford English Dictionary is a comprehensive resource for etymological research.",
+      "translation": "《牛津英语字典》是进行词源研究的全面资源。",
+      "source": "Academic writing",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Latin",
+    "rootWords": [
+      {
+        "root": "dictionarius",
+        "meaning": "A word book",
+        "language": "Latin"
+      },
+      {
+        "root": "dictio",
+        "meaning": "Saying or word",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'dictio'（意为“言辞”或“表达”），通过古法语演变为中世纪英语'dictionarie'，最初指一本书籍列出单词及其含义。从14世纪开始用于语言参考书籍，逐渐扩展到现代计算机术语中，以反映键值对的结构。",
+    "firstKnownUse": "约15世纪",
+    "relatedWords": [
+      "lexicon",
+      "vocabulary",
+      "glossary"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "2",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块编码法（chunking）将'dictionary'与日常生活中的工具（如书籍或手机应用）关联，以增强记忆；",
+      "使用重复间隔法（spaced repetition）复习不同语境下的用法，例如从基本名词到技术术语；",
+      "通过视觉想象将单词与实际字典图像连接，促进双编码（dual coding）效果"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "lexicon",
+        "similarity": "0.8",
+        "context": "适用于学术或正式语境中，指语言词汇集合"
+      },
+      {
+        "word": "thesaurus",
+        "similarity": "0.6",
+        "context": "适用于需要同义词和相关词汇的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "none directly applicable",
+        "context": "该词无直接反义词，但可与'ignorance'或'confusion'在隐喻语境中对比"
+      }
+    ],
+    "hypernyms": [
+      "reference book"
+    ],
+    "hyponyms": [
+      "bilingual dictionary",
+      "monolingual dictionary"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + dictionary (e.g., consult, use)",
+        "examples": [
+          "Consult the dictionary",
+          "Use a dictionary"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + dictionary (e.g., comprehensive, online)",
+        "examples": [
+          "Comprehensive dictionary",
+          "Online dictionary"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征知识获取和语言学习的工具，常隐含教育和启蒙的含义，例如在西方文学中，字典代表理性与探索精神。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用如'Oxford English Dictionary'等传统印刷版",
+        "usage": "在正式教育语境中常见，强调历史性和权威性"
+      },
+      {
+        "region": "美国",
+        "variation": "更常使用数字版，如Merriam-Webster在线字典",
+        "usage": "在日常和科技语境中流行，体现实用性和即时性"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，18世纪的字典编纂（如Samuel Johnson的字典）推动了标准化英语，并在现代全球化和数字时代中演变为在线资源。",
+    "modernUsage": "在社交媒体和教育App中流行，例如通过Google Dictionary进行即时搜索，反映了当代快速信息消费趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一本打开的书籍，页面上排列着字母和定义，旁边有一位学习者在使用它。",
+      "keyElements": [
+        "书籍图像",
+        "字母排列",
+        "查找动作"
+      ],
+      "emotionalConnection": "联结到个人第一次学习新语言的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'dictionary'联想为'dick'（像侦探）和'tory'（故事），即'侦探的故事书'，帮助记住它是查找信息的工具。",
+        "explanation": "通过视觉和故事联想增强海马体记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-C-T：Detect Information Clearly and Thoroughly",
+        "explanation": "利用首字母缩略法结合实际应用，促进工作记忆向长时记忆的转移"
+      }
+    ],
+    "wordAssociations": [
+      "book",
+      "words",
+      "lookup",
+      "reference"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dictionaries",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Dictionary",
+        "description": "典型主谓结构，用于描述使用行为",
+        "examples": [
+          "I use a dictionary daily."
+        ]
+      },
+      {
+        "pattern": "Adjective + Dictionary",
+        "description": "形容词修饰名词结构，常用于指定类型",
+        "examples": [
+          "This is a comprehensive dictionary."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'dictionary' with 'thesaurus'",
+        "correction": "Use 'dictionary' for definitions and 'thesaurus' for synonyms",
+        "explanation": "二者虽相关，但前者焦点在释义，后者在词汇关联"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-ies' for the plural form",
+        "explanation": "作为以-y结尾的单词，需遵循英语拼写规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Technology",
+      "Publishing"
+    ],
+    "tags": [
+      "Reference",
+      "Language",
+      "Data Structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

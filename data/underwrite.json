@@ -1,0 +1,265 @@
+{
+  "word": "underwrite",
+  "phonetics": {
+    "british": "/ˌʌndəˈraɪt/",
+    "american": "/ˌʌndərˈraɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To assume financial responsibility for (a project, insurance policy, or risk), often by guaranteeing against loss.",
+      "chineseTranslation": "承保；包销",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To agree to buy all the unsold shares in a public issue of stock if they are not purchased by investors.",
+      "chineseTranslation": "认购（股票）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To support or finance something, such as an event or publication.",
+      "chineseTranslation": "资助；支持",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "underwrite a policy",
+      "meaning": "承保一份保单",
+      "example": "The insurance company decided to underwrite a policy for the new car.",
+      "exampleTranslation": "保险公司决定为这辆新车承保一份保单。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "underwrite a loan",
+      "meaning": "为贷款提供担保",
+      "example": "Banks often underwrite loans for small businesses to encourage growth.",
+      "exampleTranslation": "银行经常为小企业提供贷款担保以促进增长。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "underwrite shares",
+      "meaning": "包销股票",
+      "example": "Investment firms underwrite shares to ensure the success of an IPO.",
+      "exampleTranslation": "投资公司包销股票以确保首次公开募股的成功。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bank agreed to underwrite the construction project, covering any potential financial shortfalls.",
+      "translation": "银行同意为这个建筑项目提供资金担保，覆盖任何潜在的财务缺口。",
+      "source": "Financial news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As a sponsor, the corporation will underwrite the costs of the charity event.",
+      "translation": "作为赞助商，公司将资助这个慈善活动的费用。",
+      "source": "Modern business literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the 19th century, insurers began to underwrite marine risks more aggressively due to expanding trade.",
+      "translation": "在19世纪，由于贸易的扩张，保险公司开始更积极地承保海上风险。",
+      "source": "Historical economic text",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "underwritan",
+        "meaning": "to write underneath or at the end",
+        "language": "Old English"
+      },
+      {
+        "root": "writan",
+        "meaning": "to write",
+        "language": "Old English (from Proto-Germanic)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'underwritan'，最初意为在文件末尾签名或书写，逐渐演变为现代意义上的金融担保或承保。这一演变反映了中世纪商业实践的演进，到17世纪在保险和金融领域广泛使用。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "overwrite",
+      "write",
+      "underwriter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'underwrite' 与金融情境关联；通过重复曝光于真实语料中增强记忆；建议创建个人故事，如想象自己作为银行家签署合同，以加强语义联系。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "finance",
+        "similarity": "0.7",
+        "context": "在资助项目的情境中，例如商业或慈善活动"
+      },
+      {
+        "word": "sponsor",
+        "similarity": "0.6",
+        "context": "在支持事件或活动的语境中"
+      },
+      {
+        "word": "guarantee",
+        "similarity": "0.8",
+        "context": "在提供财务担保的情境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "renounce",
+        "context": "在拒绝承担风险或责任的情境中"
+      },
+      {
+        "word": "withdraw",
+        "context": "在撤回支持或担保的情境中"
+      }
+    ],
+    "hypernyms": [
+      "support",
+      "fund"
+    ],
+    "hyponyms": [
+      "insure",
+      "endorse"
+    ],
+    "collocations": [
+      {
+        "pattern": "underwrite + noun (e.g., policy, loan)",
+        "examples": [
+          "underwrite a policy",
+          "underwrite a bond"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be underwritten by + entity",
+        "examples": [
+          "The event was underwritten by a major corporation."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征金融稳定性和风险管理，常与资本主义和商业伦理相关联，隐含语义强调责任与信任。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于金融和技术语境，如华尔街实践",
+        "usage": "在美国，'underwrite' 在股票市场和保险业中频繁出现，体现了美国商业文化的风险导向"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "语义更侧重于传统保险和担保",
+        "usage": "在英国，'underwrite' 常与历史悠久的保险公司（如劳埃德）相关联，反映殖民时代贸易遗产"
+      }
+    ],
+    "historicalContext": "与英国工业革命和全球贸易扩张相关，该词在19世纪金融改革中流行，出现在狄更斯等文学作品中，体现社会阶层和经济风险。",
+    "modernUsage": "在现代社交媒体和商业新闻中，'underwrite' 常用于讨论科技初创企业和在线融资平台，如Kickstarter上的赞助趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个银行家在合同下方签名，象征支持和担保。",
+      "keyElements": [
+        "签名",
+        "合同",
+        "金钱"
+      ],
+      "emotionalConnection": "联结个人财务经历，如购买保险时的安全感，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Underwrite 像 'under right'，意思是'在正确下方书写'，代表担保。",
+        "explanation": "通过声音联想帮助记忆词根和现代含义，基于认知联想原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "U-W-Rite (Under Write Right)",
+        "explanation": "使用缩略形式强化拼写和发音，结合视觉想象以改善长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "insurance",
+      "fund",
+      "sponsor",
+      "risk"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "underwrote",
+      "pastParticiple": "underwritten",
+      "presentParticiple": "underwriting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + underwrite + object",
+        "description": "主语直接执行动词动作的对象",
+        "examples": [
+          "The company underwrites policies."
+        ]
+      },
+      {
+        "pattern": "Be + underwritten + by",
+        "description": "被动语态，表示由某实体提供担保",
+        "examples": [
+          "The project is underwritten by investors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'overwrite'",
+        "correction": "Use 'underwrite' for financial contexts",
+        "explanation": "这两个词虽然听起来相似，但 'overwrite' 意为覆盖写入，避免混淆语境。"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper irregular forms like 'underwrote'",
+        "explanation": "作为不规则动词，学习者常错用常规过去式；建议通过重复练习掌握。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "finance",
+      "business",
+      "insurance"
+    ],
+    "tags": [
+      "finance",
+      "risk management",
+      "commerce"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

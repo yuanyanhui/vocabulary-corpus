@@ -1,0 +1,286 @@
+{
+  "word": "boot",
+  "phonetics": {
+    "british": "/buːt/",
+    "american": "/but/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sturdy covering for the foot and lower leg, typically made of leather or rubber.",
+      "chineseTranslation": "靴子",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The luggage compartment of a car, especially in British English.",
+      "chineseTranslation": "汽车后备箱（主要在英国英语中使用）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of starting a computer or other device.",
+      "chineseTranslation": "启动计算机的过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To kick something or someone.",
+      "chineseTranslation": "踢",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To start up a computer or other device.",
+      "chineseTranslation": "启动计算机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "boot up",
+      "meaning": "启动计算机",
+      "example": "I need to boot up my laptop before the meeting.",
+      "exampleTranslation": "我需要在会议前启动我的笔记本电脑。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "give someone the boot",
+      "meaning": "解雇某人",
+      "example": "The manager decided to give him the boot after the mistake.",
+      "exampleTranslation": "经理决定在犯错后解雇他。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "put on one's boots",
+      "meaning": "穿上靴子",
+      "example": "She put on her boots and went for a hike.",
+      "exampleTranslation": "她穿上靴子去远足了。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "He wore his new boots on the hiking trail.",
+      "translation": "他在远足小径上穿了新的靴子。",
+      "source": "Modern literature",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In British English, the boot is where you store your luggage in the car.",
+      "translation": "在英国英语中，汽车后备箱是存放行李的地方。",
+      "source": "News article (e.g., BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The technician had to boot the server to fix the issue.",
+      "translation": "技术员必须启动服务器来修复问题。",
+      "source": "Technical documentation (e.g., IT manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She decided to boot the ball into the goal during the game.",
+      "translation": "她在比赛中决定把球踢进球门。",
+      "source": "Sports commentary",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "bōt",
+        "meaning": "An advantage or remedy",
+        "language": "Old English"
+      },
+      {
+        "root": "bōt",
+        "meaning": "Footwear",
+        "language": "Old English (from Proto-Germanic *bōtą)"
+      }
+    ],
+    "historicalDevelopment": "起源于古英语 bōt，最初意为“补救”或“优势”，逐渐演变为指代 footwear 的意思；在19世纪，扩展到计算机启动语境，源自“bootstrap”概念，意为自助启动；汽车后备箱的含义则在20世纪发展而来，受制于英国英语的区域影响，从存储靴子的容器演变。",
+    "firstKnownUse": "约公元1000年（用于 footwear）",
+    "relatedWords": [
+      "boots",
+      "booting",
+      "bootstrap"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于元音 /uː/ 在英语中常见，但对中文母语者可能需练习唇形)",
+    "spellingDifficulty": "2 (1-10, 拼写简单，无不规则字母)",
+    "meaningComplexity": "6 (1-10, 多义词，需要区分语境，对中级学习者可能造成混淆)",
+    "usageComplexity": "5 (1-10, 受区域变体影响，如英式 vs. 美式)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象穿靴子远足的情景以强化记忆；使用间隔重复法复习多义词；针对中文学习者，强调语境区分以避免母语干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "shoe",
+        "similarity": "0.7",
+        "context": "适用于 footwear 语境，但不如 boot 正式（用于靴子时）"
+      },
+      {
+        "word": "trunk",
+        "similarity": "0.8",
+        "context": "在美国英语中用于汽车后备箱语境"
+      },
+      {
+        "word": "start up",
+        "similarity": "0.6",
+        "context": "用于计算机启动语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "barefoot",
+        "context": "在 footwear 语境中，表示不穿靴子"
+      },
+      {
+        "word": "shut down",
+        "context": "在计算机语境中，表示停止运行"
+      }
+    ],
+    "hypernyms": [
+      "footwear",
+      "compartment"
+    ],
+    "hyponyms": [
+      "work boot",
+      "ski boot"
+    ],
+    "collocations": [
+      {
+        "pattern": "boot + preposition (e.g., in the boot)",
+        "examples": [
+          "The tools are in the boot."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + boot (e.g., wear boots)",
+        "examples": [
+          "He wears boots for work."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，boot 象征实用性和冒险精神，例如在英国文化中与乡村生活或驾车相关；在现代数字文化中，代表技术启动，可能隐含效率或重启的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "特指汽车后备箱",
+        "usage": "在英国英语中常用，表示汽车存储空间，与美国英语的 'trunk' 相对"
+      },
+      {
+        "region": "美国",
+        "variation": "少用于汽车语境",
+        "usage": "更常用于 footwear 或技术语境"
+      }
+    ],
+    "historicalContext": "与工业革命相关，boot 作为 footwear 在文学如狄更斯作品中出现，象征工人阶级；计算机语境与20世纪科技发展关联。",
+    "modernUsage": "在社交媒体上，boot 常用于科技讨论或时尚博主分享；在跨文化语境下，中国学习者需注意英式和美式差异以避免误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人穿着靴子走在雨中的街道上，同时脑海中出现计算机启动画面。",
+      "keyElements": [
+        "靴子、雨街、计算机屏幕"
+      ],
+      "emotionalConnection": "联结个人远足经历或首次使用电脑的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Boot 像 'boot' 声音，联想踢足球的动作。",
+        "explanation": "通过声音和动作联想，帮助记忆 verb 含义"
+      },
+      {
+        "type": "缩略",
+        "content": "B-O-O-T: Big Outerwear On Toes",
+        "explanation": "为 footwear 含义创建缩略词，结合视觉想象强化认知"
+      }
+    ],
+    "wordAssociations": [
+      "shoe",
+      "car",
+      "start",
+      "kick"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "boots",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "booting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the boot of the car)",
+        "description": "名词短语结构，常与介词搭配",
+        "examples": [
+          "The boot is full of luggage."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., boot the computer)",
+        "description": "动词加宾语结构",
+        "examples": [
+          "They boot the system daily."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'boot' with 'boot up' in non-technical contexts",
+        "correction": "Use 'boot' alone for footwear or kicking",
+        "explanation": "中文学习者常混淆语境，导致不恰当使用；需强调语境区分"
+      },
+      {
+        "mistake": "Using 'boot' for car trunk in American English",
+        "correction": "Use 'trunk' in American contexts",
+        "explanation": "由于区域变体，可能会造成跨文化交流错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in general corpora (e.g., rank 5000 in COCA)",
+    "domains": [
+      "Fashion",
+      "Automotive",
+      "Technology",
+      "Sports"
+    ],
+    "tags": [
+      "Nouns",
+      "Verbs",
+      "British English",
+      "Technology terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

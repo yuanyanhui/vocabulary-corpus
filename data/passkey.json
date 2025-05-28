@@ -1,0 +1,240 @@
+{
+  "word": "passkey",
+  "phonetics": {
+    "british": "/ˈpɑːs.kiː/",
+    "american": "/ˈpæs.kiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a key that opens several locks or provides access to multiple secured areas, often used in physical or digital contexts",
+      "chineseTranslation": "万能钥匙",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "in computing, a unique code or token that grants access to a system or service, similar to a password",
+      "chineseTranslation": "通行密钥",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "master passkey",
+      "meaning": "主万能钥匙，用于打开多个锁",
+      "example": "The hotel manager carries the master passkey for emergencies.",
+      "exampleTranslation": "酒店经理携带主万能钥匙以备紧急情况。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "digital passkey",
+      "meaning": "数字通行密钥，用于在线访问",
+      "example": "You need a digital passkey to log into the secure network.",
+      "exampleTranslation": "你需要一个数字通行密钥来登录安全网络。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The passkey allowed the technician to enter all the restricted rooms without any issues.",
+      "translation": "万能钥匙让技术员能够毫无问题地进入所有限制区域。",
+      "source": "Technical manual (based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern security systems, a passkey is often a biometric identifier like a fingerprint.",
+      "translation": "在现代安全系统中，万能钥匙通常是生物识别标识，如指纹。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She lost her passkey and had to call the landlord for help.",
+      "translation": "她丢失了她的万能钥匙，不得不打电话给房东求助。",
+      "source": "Fiction literature (e.g., contemporary novels)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "pass",
+        "meaning": "to go through or beyond",
+        "language": "Old French (from Latin 'passus')"
+      },
+      {
+        "root": "key",
+        "meaning": "a device for opening locks",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪早期英语，源自'pass'（通行）和'key'（钥匙）的结合，最初指物理钥匙，后来扩展到隐喻意义，如数字安全领域的发展，反映了工业革命后安全机制的演变。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "keycard",
+      "master key",
+      "access code"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (相对简单，主要是元音差异，如英式和美式的/ɑː/ vs. /æ/)",
+    "spellingDifficulty": "3 (拼写直观，但可能与类似词混淆，如'password')",
+    "meaningComplexity": "6 (语义有物理和数字双重含义，需要上下文区分)",
+    "usageComplexity": "5 (在正式或技术语境中使用，初学者需注意搭配)",
+    "learningTips": [
+      "结合认知科学，使用分层记忆法：先可视化物理钥匙的图像，然后联想数字密码的场景，以强化语境关联；建议通过间隔重复系统（如Anki）复习，以提升长期记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "master key",
+        "similarity": "0.8",
+        "context": "适用于物理安全语境中，用于打开多个锁"
+      },
+      {
+        "word": "access key",
+        "similarity": "0.7",
+        "context": "常用于技术或数字安全语境中，提供系统访问权限"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lockout key",
+        "context": "在安全语境中，表示拒绝访问的工具，与passkey的访问功能相反"
+      }
+    ],
+    "hypernyms": [
+      "key",
+      "access tool"
+    ],
+    "hyponyms": [
+      "biometric passkey",
+      "digital token"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + passkey (e.g., master passkey)",
+        "examples": [
+          "He used the electronic passkey to unlock the door."
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "passkey + verb (e.g., passkey grants access)",
+        "examples": [
+          "The passkey grants immediate entry to the building."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征安全和访问权，隐含信任与责任的主题，常出现在文学和电影中，如侦探小说中万能钥匙代表秘密通道。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于物理语境",
+        "usage": "在英国英语中，强调传统安全工具，如房屋管理"
+      },
+      {
+        "region": "美国",
+        "variation": "更偏向数字语境",
+        "usage": "在美国英语中，常与科技相关，如智能手机的通行密钥"
+      }
+    ],
+    "historicalContext": "与工业革命和现代安全技术发展相关，在19世纪的英国文学中（如狄更斯作品）出现，象征社会阶层的流动性和隐私问题。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论网络安全，反映了全球化时代的信息保护趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个金色钥匙打开一连串的门，每个门代表不同区域，如家门、办公室和数字账户。",
+      "keyElements": [
+        "金色钥匙",
+        "一连串的门",
+        "安全图标"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆丢失钥匙的焦虑，以触发情绪记忆加深印象。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'passkey'联想为'pass through key'，想象钥匙像通行证一样通过障碍。",
+        "explanation": "通过视觉联想强化词汇与动作的关联，提升认知处理效率。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将/pass/的声音与快速通过的声音联系，如风声。",
+        "explanation": "利用多感官刺激，根据认知科学的多模态学习原则，提高记忆持久性。"
+      }
+    ],
+    "wordAssociations": [
+      "key",
+      "password",
+      "access",
+      "unlock"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "passkeys",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + passkey",
+        "description": "主语 + 动词 + passkey 结构，常用于描述使用场景。",
+        "examples": [
+          "The guard uses the passkey daily."
+        ]
+      },
+      {
+        "pattern": "Passkey + preposition + object",
+        "description": "passkey + 介词 + 宾语，用于表示访问关系。",
+        "examples": [
+          "Access is granted via the passkey."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'password'",
+        "correction": "Use 'passkey' for physical or specific access keys",
+        "explanation": "学习者常混淆两者语义；建议通过语境练习区分，以避免语用错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "passkeys (not passkey's)",
+        "explanation": "英语名词复数规则简单，但所有格形式易错；结合规则记忆可预防。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "安全",
+      "日常生活"
+    ],
+    "tags": [
+      "安全词汇",
+      "数字技术",
+      "物理工具"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

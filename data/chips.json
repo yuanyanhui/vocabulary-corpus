@@ -1,0 +1,290 @@
+{
+  "word": "chips",
+  "phonetics": {
+    "british": "/tʃɪps/",
+    "american": "/tʃɪps/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Thin slices of potato that are deep-fried until crisp, often eaten as a snack.",
+      "chineseTranslation": "薯片（美国英语常见）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Thick strips of potato that are deep-fried, typically served as a side dish.",
+      "chineseTranslation": "薯条（英国英语常见）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small wafer of semiconducting material used in electronic devices.",
+      "chineseTranslation": "芯片（如电子元件）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Small counters used in gambling for betting.",
+      "chineseTranslation": "筹码",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small piece or fragment of something, such as wood or stone.",
+      "chineseTranslation": "碎片",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fish and chips",
+      "meaning": "鱼和薯条的经典英式快餐",
+      "example": "I ordered fish and chips at the pub.",
+      "exampleTranslation": "我在酒吧点了鱼和薯条。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "potato chips",
+      "meaning": "薯片作为零食",
+      "example": "She snacked on potato chips while watching TV.",
+      "exampleTranslation": "她一边看电视一边吃薯片作为零食。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "silicon chips",
+      "meaning": "硅芯片在科技中的应用",
+      "example": "Silicon chips are essential for modern smartphones.",
+      "exampleTranslation": "硅芯片是现代智能手机的核心组件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "gaming chips",
+      "meaning": "赌博中的筹码",
+      "example": "He exchanged his money for gaming chips at the casino.",
+      "exampleTranslation": "他在赌场用钱兑换了赌博筹码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The children enjoyed eating chips at the beach.",
+      "translation": "孩子们在海滩上很享受吃薯条。",
+      "source": "Contemporary fiction (e.g., from British novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers are developing smaller chips for the next generation of computers.",
+      "translation": "工程师们正在为下一代计算机开发更小的芯片。",
+      "source": "Technology news (e.g., from BBC or COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In poker, players use chips to place their bets.",
+      "translation": "在扑克游戏中，玩家用筹码下注。",
+      "source": "Informal media (e.g., from entertainment sources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Wood chips are often used as mulch in gardening.",
+      "translation": "木屑常用于园艺中的覆盖物。",
+      "source": "General corpus (e.g., from BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "cipp",
+        "meaning": "A small piece or fragment",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'cipp'，意为小块或碎片。到了中古英语时期，演变为 'chip'，扩展到指切割或破碎的碎片。17 世纪开始用于食物（如薯片），19 世纪扩展到电子元件和赌博筹码，反映了工业革命和科技进步的影响。",
+    "firstKnownUse": "约 1325 年（根据 OED 记录）",
+    "relatedWords": [
+      "chippy",
+      "chipping"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "3 (简单，音标规则，/tʃɪps/ 易于初级学习者掌握)",
+    "spellingDifficulty": "4 (拼写直观，但多义可能导致混淆)",
+    "meaningComplexity": "6 (多义词，语义依赖语境，适合中级学习者)",
+    "usageComplexity": "5 (常见搭配多样，但语域变化需注意)",
+    "learningTips": [
+      "使用间隔重复系统（Spaced Repetition System）结合视觉图像，如想象薯条的形状来联结多义；根据认知科学，创建个人语境故事以增强记忆定型。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fries",
+        "similarity": "0.8",
+        "context": "主要在食物语境中，指薯条（美国英语）"
+      },
+      {
+        "word": "fragments",
+        "similarity": "0.7",
+        "context": "泛指碎片或小片"
+      },
+      {
+        "word": "microchips",
+        "similarity": "0.9",
+        "context": "技术语境中，指电子芯片"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "与碎片含义相反，指完整物体"
+      },
+      {
+        "word": "block",
+        "context": "与小片或筹码相反，指大块实体"
+      }
+    ],
+    "hypernyms": [
+      "food items",
+      "electronic components",
+      "objects"
+    ],
+    "hyponyms": [
+      "French fries",
+      "silicon chips",
+      "poker chips"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + chips (e.g., potato chips)",
+        "examples": [
+          "potato chips",
+          "silicon chips"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + chips (e.g., eat chips)",
+        "examples": [
+          "eat chips",
+          "design chips"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英国文化中，'chips' 常与 'fish and chips' 联系，象征传统街头美食和工人阶级生活；在美洲文化中，更常指 'potato chips' 作为休闲零食，代表快餐文化。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "'Chips' 特指厚薯条",
+        "usage": "常用于非正式场合，如街头小吃，与美国 'fries' 不同"
+      },
+      {
+        "region": "美国",
+        "variation": "'Chips' 特指薄薯片",
+        "usage": "在日常对话中常见，但技术语境中指电子芯片"
+      }
+    ],
+    "historicalContext": "源自19世纪工业革命时期的英国，'fish and chips' 成为工人阶层 staple food，与社会平等和街头文化相关；在现代，电子芯片象征科技革命。",
+    "modernUsage": "在社交媒体和全球传播中，'chips' 常用于食物 vlog 或科技讨论，体现跨文化融合"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个英国街头摊位上有热腾腾的薯条（chips），旁边是电子设备中的小芯片。",
+      "keyElements": [
+        "薯条形状",
+        "芯片电路板"
+      ],
+      "emotionalConnection": "联结个人经历，如儿时吃零食的快乐或科技产品的兴奋，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'chips' 联想为 'chip-shop'（薯条店）和 'chip-in-computer'（电脑芯片）",
+        "explanation": "通过双重联想帮助区分多义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "/tʃɪps/ 听起来像 'cheeps'（小鸟叫声），联想为小碎片如鸟食",
+        "explanation": "利用声音相似性增强听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "fries",
+      "fragments",
+      "technology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "chips (already plural form)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a bag of chips')",
+        "description": "用作可数名词，描述具体物体",
+        "examples": [
+          "A bag of chips is on the table."
+        ]
+      },
+      {
+        "pattern": "In collocations (e.g., 'eat chips')",
+        "description": "与动词搭配表示动作",
+        "examples": [
+          "They eat chips every weekend."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'chips' with 'fries' in British vs. American English",
+        "correction": "Use 'chips' for thick strips in UK contexts",
+        "explanation": "由于区域变体，学习者需注意语境以避免文化误解"
+      },
+      {
+        "mistake": "Using as verb incorrectly",
+        "correction": "Treat as noun primarily",
+        "explanation": "'Chips' 不是常用动词形式，避免误用为 'to chip' 的变形"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "food",
+      "technology",
+      "entertainment",
+      "daily life"
+    ],
+    "tags": [
+      "colloquial",
+      "technical",
+      "multilingual"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

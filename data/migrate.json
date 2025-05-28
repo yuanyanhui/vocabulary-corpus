@@ -1,0 +1,265 @@
+{
+  "word": "migrate",
+  "phonetics": {
+    "british": "/maɪˈɡreɪt/",
+    "american": "/ˈmaɪɡreɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move from one place to another, often across borders, in order to live or work in a new location, especially for better opportunities or conditions.",
+      "chineseTranslation": "迁移；移居",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In the context of animals, to travel regularly from one region to another, typically for seasonal reasons such as breeding or feeding.",
+      "chineseTranslation": "迁徙（如鸟类季节性迁移）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "intransitive verb",
+      "definition": "To change from one system, software, or environment to another, as in computing or technology.",
+      "chineseTranslation": "迁移（如数据或系统转移）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "migrate to",
+      "meaning": "迁移到某个地方",
+      "example": "Many families migrate to urban areas in search of better job opportunities.",
+      "exampleTranslation": "许多家庭迁移到城市地区以寻求更好的工作机会。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "mass migrate",
+      "meaning": "大规模迁移",
+      "example": "During the famine, people began to mass migrate to neighboring countries.",
+      "exampleTranslation": "在饥荒期间，人们开始大规模迁移到邻国。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "birds migrate",
+      "meaning": "鸟类迁徙",
+      "example": "Each autumn, birds migrate south to escape the cold winter.",
+      "exampleTranslation": "每年秋天，鸟类迁徙到南方以逃避寒冬。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Due to economic hardship, thousands of workers migrate from rural areas to cities every year.",
+      "translation": "由于经济困难，每年都有数以千计的工人从农村地区迁移到城市。",
+      "source": "News articles (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, it's essential to migrate data securely when upgrading to a new server.",
+      "translation": "在计算领域，升级到新服务器时，必须安全地迁移数据。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Monarch butterflies migrate over 2,000 miles to reach their wintering grounds in Mexico.",
+      "translation": "帝王蝶迁移超过2000英里到达墨西哥的越冬地。",
+      "source": "Scientific literature (e.g., National Geographic)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Refugees often migrate to countries with more stable political environments.",
+      "translation": "难民经常迁移到政治环境更稳定的国家。",
+      "source": "International reports (e.g., UNHCR documents)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "migrare",
+        "meaning": "to move from one place to another",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'migrare'，意为从一个地方移动到另一个地方。该词在14世纪中叶进入英语，通过法语影响，最初用于描述人群的移动，后来扩展到动物迁徙和现代技术领域的转移，反映了人类社会流动性的演变。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "migration",
+      "emigrate",
+      "immigrate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于音节简单，但元音 /aɪ/ 可能对中文母语者造成混淆)",
+    "spellingDifficulty": "3 (拼写规则常规，无不常见字母组合)",
+    "meaningComplexity": "6 (语义多样，包括人类、动物和技术语境，需要上下文理解)",
+    "usageComplexity": "5 (句法灵活，但需注意搭配，如 'migrate to')",
+    "learningTips": [
+      "结合认知科学原理，利用重复暴露和语境联想，例如将 'migrate' 与个人迁移经历关联，以强化海马体记忆；使用间隔重复系统复习不同语境下的含义，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "relocate",
+        "similarity": "0.8",
+        "context": "适用于职业或居住变化的语境，例如工作调动"
+      },
+      {
+        "word": "emigrate",
+        "similarity": "0.7",
+        "context": "强调永久性离开原国，如移民海外"
+      },
+      {
+        "word": "move",
+        "similarity": "0.6",
+        "context": "一般性移动语境，但不如 'migrate' 正式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "settle",
+        "context": "定居或稳定在某个地方的语境"
+      },
+      {
+        "word": "stay",
+        "context": "留在原地的语境"
+      }
+    ],
+    "hypernyms": [
+      "travel",
+      "move"
+    ],
+    "hyponyms": [
+      "emigrate",
+      "immigrate",
+      "hibernate"
+    ],
+    "collocations": [
+      {
+        "pattern": "migrate + to + location",
+        "examples": [
+          "They migrate to Canada for work."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "animals migrate + seasonally",
+        "examples": [
+          "Birds migrate seasonally."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征社会流动性和社会变革，常与全球化、移民浪潮相关；在中文文化中，可能联想到历史上的中原移民或当代外出务工潮，隐含社会经济不平等的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于讨论内部迁移，如从南方到北方",
+        "usage": "在美国英语中，常与种族或经济迁移相关，如大萧条时期的 'Dust Bowl migration'"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调国际移民，如欧盟公民迁移",
+        "usage": "在英国英语中，受 Brexit 影响，常讨论移民政策"
+      }
+    ],
+    "historicalContext": "与工业革命和殖民主义相关，例如19世纪的爱尔兰人迁移到美国，体现了文化冲突和融合；在中国历史中，类似词语用于描述汉族南迁。",
+    "modernUsage": "在社交媒体和新闻中，常用于讨论气候变化引发的迁移趋势，如 #ClimateMigration"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一群鸟儿从寒冷的北方飞向温暖的南方，代表迁移的过程。",
+      "keyElements": [
+        "鸟儿",
+        "飞行路径",
+        "季节变化"
+      ],
+      "emotionalConnection": "联结个人经历，如回想家庭搬家，触发 nostalgia 或 excitement 情绪，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Migrate 像 'my great adventure'，将迁移视为一场伟大的冒险。",
+        "explanation": "通过积极联想增强词汇记忆，利用认知科学中的双编码理论，将视觉和情感元素结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /maɪˈɡreɪt/ 听起来像 'my gate'，想象通过大门迁移到新世界。",
+        "explanation": "利用声音与图像的联觉，帮助中文母语者克服发音障碍"
+      }
+    ],
+    "wordAssociations": [
+      "move",
+      "journey",
+      "relocate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "migrated",
+      "pastParticiple": "migrated",
+      "presentParticiple": "migrating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + migrate + to + object",
+        "description": "主语 + 迁移 + 到 + 地点结构，常用于表示方向性动作",
+        "examples": [
+          "People migrate to cities."
+        ]
+      },
+      {
+        "pattern": "Intransitive use with adverbs",
+        "description": "及物或不及物使用，结合副词表示时间或方式",
+        "examples": [
+          "Birds migrate annually."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'emigrate' or 'immigrate'",
+        "correction": "Use 'migrate' for general movement; 'emigrate' for leaving a country; 'immigrate' for entering a country.",
+        "explanation": "中文母语者常混淆这些词，因为它们在语义上相关，但语境不同"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'migrated', not 'migrateded'.",
+        "explanation": "由于英语动词规则简单，但初学者可能添加多余字母"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus, with approximately 50 occurrences per million words)",
+    "domains": [
+      "social sciences",
+      "biology",
+      "technology"
+    ],
+    "tags": [
+      "movement",
+      "travel",
+      "change"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

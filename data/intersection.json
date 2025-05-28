@@ -1,0 +1,259 @@
+{
+  "word": "intersection",
+  "phonetics": {
+    "british": "/ˌɪntəˈsɛkʃn/",
+    "american": "/ˌɪntərˈsɛkʃn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point or line where two or more lines, roads, or sets meet or cross each other.",
+      "chineseTranslation": "交叉点；交集",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The set of elements common to two or more sets.",
+      "chineseTranslation": "交集（数学概念）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To divide (something) by crossing or cutting across it.",
+      "chineseTranslation": "交叉；相交",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the intersection of",
+      "meaning": "在……的交叉点",
+      "example": "The meeting will take place at the intersection of culture and technology.",
+      "exampleTranslation": "会议将在文化与技术的交叉点举行。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "intersection point",
+      "meaning": "交点",
+      "example": "The intersection point of the two lines is marked on the graph.",
+      "exampleTranslation": "两条线的交点在图表上标出。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "traffic intersection",
+      "meaning": "交通交叉口",
+      "example": "Always stop at a traffic intersection to check for oncoming vehicles.",
+      "exampleTranslation": "在交通交叉口总是要停下来检查迎面而来的车辆。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The intersection of Main Street and Broadway is always congested during rush hour.",
+      "translation": "主街和百老汇大道的交叉点在高峰期总是拥挤不堪。",
+      "source": "Urban planning reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In set theory, the intersection of sets A and B contains elements that are in both.",
+      "translation": "在集合论中，集合A和B的交集包含同时存在于两者中的元素。",
+      "source": "Academic texts (e.g., from educational resources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The novel explores the intersection between personal identity and societal expectations.",
+      "translation": "这部小说探讨了个人身份与社会期望之间的交叉。",
+      "source": "Literary criticism (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "between or among",
+        "language": "Latin"
+      },
+      {
+        "root": "secare",
+        "meaning": "to cut",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'intersectio'，意为'切割或相交'，通过古法语 'intersection' 演变为英语。该词在15世纪传入英语，用于几何学和物理学领域，后来扩展到社会和文化语境中，反映了从具体空间概念到抽象关系的演变。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "intersect",
+      "section",
+      "intersecting"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，利用视觉联想将 'intersection' 与道路交叉口的图像关联，以强化空间记忆；对于中文母语学习者，建议通过对比中文 '交叉' 的使用场景，构建双语语义网络，避免混淆类似词汇的语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "crossing",
+        "similarity": "0.8",
+        "context": "适用于交通或物理空间语境，例如道路相交"
+      },
+      {
+        "word": "junction",
+        "similarity": "0.7",
+        "context": "常用于工程或城市规划中，表示连接点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disjunction",
+        "context": "适用于数学或逻辑语境，表示分离或不相交"
+      },
+      {
+        "word": "separation",
+        "context": "在社会或物理语境中，表示分开或隔离"
+      }
+    ],
+    "hypernyms": [
+      "point",
+      "connection"
+    ],
+    "hyponyms": [
+      "road intersection",
+      "set intersection"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + noun",
+        "examples": [
+          "intersection of roads",
+          "intersection of ideas"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "at the intersection",
+        "examples": [
+          "at the intersection of streets"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征连接与冲突，常用于讨论社会议题，如文化交叉（cultural intersection），代表多元融合或冲突；在中文文化中，类似概念如 '交叉路口' 强调和谐与安全。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于交通语境，如 'four-way intersection'",
+        "usage": "在美国英语中，常与日常驾驶相关，强调交通规则和安全"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向于 'junction' 在交通中使用",
+        "usage": "在英国英语中，强调历史性道路设计和城市规划"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的几何学发展相关，在工业革命后扩展到城市规划；例如，在文学中，T.S. Eliot的作品中出现，象征人生路径的交叉。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论跨学科融合，如 'tech and art intersection'，反映全球化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个繁忙的十字路口，车辆从不同方向相交，代表连接与冲突。",
+      "keyElements": [
+        "道路",
+        "车辆",
+        "相交线条"
+      ],
+      "emotionalConnection": "联结个人经历，如在北京的十字路口等红灯，触发安全与等待的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'intersection' 联想为 'inter' (相互) + 'section' (部分)，想象两个部分相互切割。",
+        "explanation": "通过空间联想强化记忆，利用认知科学中的双编码理论，将视觉和语义结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌɪntəˈsɛkʃn/' 听起来像 'enter section'，想象进入一个切割的部分。",
+        "explanation": "基于声音相似性，帮助中级学习者通过听觉线索记忆词汇"
+      }
+    ],
+    "wordAssociations": [
+      "crossroad",
+      "overlap",
+      "convergence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "intersections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Prepositional phrase",
+        "description": "作为名词，常与介词短语连用，如 'at the intersection of'",
+        "examples": [
+          "The event occurred at the intersection of two major roads."
+        ]
+      },
+      {
+        "pattern": "In compound sentences",
+        "description": "用于复杂句中表示关系",
+        "examples": [
+          "The paths intersection led to a new discovery."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interception'",
+        "correction": "Use 'intersection' for crossing points",
+        "explanation": "中文学习者常混淆音似词，确保语境区分"
+      },
+      {
+        "mistake": "Incorrect verb usage",
+        "correction": "Use as noun primarily",
+        "explanation": "作为动词较少见，避免强行转用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 in COCA corpus",
+    "domains": [
+      "transportation",
+      "mathematics",
+      "social sciences"
+    ],
+    "tags": [
+      "geometry",
+      "urban",
+      "abstract concepts"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

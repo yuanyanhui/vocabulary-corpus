@@ -1,0 +1,235 @@
+{
+  "word": "voxel",
+  "phonetics": {
+    "british": "/ˈvɒk.səl/",
+    "american": "/ˈvɑːk.səl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A three-dimensional equivalent of a pixel, representing the smallest unit of a 3D grid in digital imaging, computer graphics, or volumetric data.",
+      "chineseTranslation": "体素",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "voxel data",
+      "meaning": "体素数据",
+      "example": "The voxel data is analyzed to reconstruct the 3D model.",
+      "exampleTranslation": "体素数据被分析以重建3D模型。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "voxel rendering",
+      "meaning": "体素渲染",
+      "example": "Vowel rendering techniques improve the realism of virtual environments.",
+      "exampleTranslation": "体素渲染技术提升了虚拟环境的真实感。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In medical imaging, each voxel in an MRI scan corresponds to a specific volume of brain tissue.",
+      "translation": "在医学成像中，MRI扫描中的每个体素对应大脑组织的一个特定体积。",
+      "source": "Medical literature (e.g., from journals like Radiology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Video game developers use voxels to create destructible environments in simulations.",
+      "translation": "视频游戏开发者使用体素来创建可破坏的环境模拟。",
+      "source": "Technology articles (e.g., from tech blogs or gaming sources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The artist manipulated voxels in the software to sculpt a digital sculpture.",
+      "translation": "艺术家在软件中操纵体素来雕塑数字作品。",
+      "source": "Art and design contexts (e.g., digital art exhibitions)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "vol-",
+        "meaning": "from 'volume', indicating three-dimensional space",
+        "language": "English (derived from Latin 'volumen', meaning 'a roll or coil')"
+      },
+      {
+        "root": "pixel",
+        "meaning": "from 'picture element', the basic unit of a digital image",
+        "language": "English (coined in the 1960s from 'pix' for pictures and 'el' for element)"
+      }
+    ],
+    "historicalDevelopment": "术语 'voxel' 是20世纪70年代后期在计算机图形学领域创造的合成词，由 'volume' 和 'pixel' 组合而成。它从二维像素扩展到三维空间，用于表示数字成像中的体积元素，随着计算机技术和医学图像处理的进步而演变。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "pixel",
+      "texel",
+      "voxelization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'voxel' 与 'pixel' 的视觉图像关联，想象一个立方体像素；",
+      "使用重复间隔法（spaced repetition）复习技术术语，通过APP如Anki强化记忆；",
+      "通过双编码（dual coding）将词汇与三维模型的实际图片配对，以提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "volumetric pixel",
+        "similarity": "0.9",
+        "context": "适用于计算机图形学和医学成像领域，强调三维表示"
+      },
+      {
+        "word": "3D pixel",
+        "similarity": "0.8",
+        "context": "在非正式技术讨论中，用于简化解释数字建模"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pixel",
+        "context": "适用于二维 vs. 三维对比语境中，突出维度的差异"
+      }
+    ],
+    "hypernyms": [
+      "digital element",
+      "imaging unit"
+    ],
+    "hyponyms": [
+      "CT voxel",
+      "MRI voxel"
+    ],
+    "collocations": [
+      {
+        "pattern": "voxel + noun (e.g., voxel grid)",
+        "examples": [
+          "a voxel grid in 3D modeling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + voxel (e.g., render voxels)",
+        "examples": [
+          "software renders voxels into images"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科技文化中象征数字创新和虚拟现实的进步，常隐含对三维模拟的重视，在西方文化中体现为对科技主导的现代生活方式。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和教育语境",
+        "usage": "在美国英语中，'voxel' 在硅谷和学术会议中流行，强调实际应用如游戏开发"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于更正式的科学讨论",
+        "usage": "在英国英语中，可能与欧洲研究机构相关联，侧重于理论基础"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命和数字图像处理的历史相关联，如在1970s的计算机图形学发展中出现，并影响了文学如科幻小说对虚拟世界的描绘。",
+    "modernUsage": "在现代社交媒体和在线社区中，'voxel' 常出现在YouTube教程或Reddit讨论中，反映了全球数字文化的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个立方体像素在三维空间中构建一个虚拟世界，如一个数字城堡。",
+      "keyElements": [
+        "立方体",
+        "像素",
+        "三维网格"
+      ],
+      "emotionalConnection": "联结个人对视频游戏的兴奋感，回忆玩Minecraft时的体验，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'voxel' 联想为 'volume + pixel'，想象一个 '体积极素'。",
+        "explanation": "通过视觉联想强化词汇结构，帮助学习者构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈvɒk.səl/ 听起来像 'vox-el'，联想到 'voice element' 在三维中扩展。",
+        "explanation": "利用声音与视觉的交叉刺激，基于认知联觉原理提升记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "pixel",
+      "volume",
+      "3D model",
+      "grid"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "voxels",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the voxel in the image')",
+        "description": "作为名词在句子中用作主语或宾语，常与定语修饰。",
+        "examples": [
+          "The voxel represents a key element in 3D rendering."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'within a voxel grid')",
+        "description": "用在介词短语中表示位置或组成部分。",
+        "examples": [
+          "Data is stored within a voxel grid."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'pixel'",
+        "correction": "Use 'voxel' for 3D and 'pixel' for 2D",
+        "explanation": "学习者常混淆维度差异，导致语义错误；通过对比学习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "voxels (not 'voxel's')",
+        "explanation": "英语名词复数规则简单，但技术术语易忽略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus for technical domains)",
+    "domains": [
+      "科技",
+      "计算机图形学",
+      "医学成像",
+      "数字艺术"
+    ],
+    "tags": [
+      "技术术语",
+      "计算机科学",
+      "三维建模"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

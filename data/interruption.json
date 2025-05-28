@@ -1,0 +1,260 @@
+{
+  "word": "interruption",
+  "phonetics": {
+    "british": "/ˌɪntəˈrʌpʃən/",
+    "american": "/ˌɪntərˈʌpʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of stopping something from continuing for a short time, or the state of being stopped temporarily.",
+      "chineseTranslation": "中断；打断",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that interrupts, such as a break in a process, conversation, or activity.",
+      "chineseTranslation": "干扰；插曲",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a signal that causes a device to temporarily stop its current operation to handle a higher-priority task.",
+      "chineseTranslation": "中断信号（在计算机上下文中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "interruption of service",
+      "meaning": "服务的中断",
+      "example": "The interruption of service lasted for several hours due to the power outage.",
+      "exampleTranslation": "由于断电，服务中断持续了几个小时。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "without interruption",
+      "meaning": "不间断地",
+      "example": "The meeting proceeded without interruption for two hours.",
+      "exampleTranslation": "会议不间断地进行了两个小时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cause an interruption",
+      "meaning": "引起中断",
+      "example": "Loud noises can cause an interruption in the recording session.",
+      "exampleTranslation": "嘈杂的声音可能会导致录音会议中断。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The phone call caused an interruption during the middle of our discussion.",
+      "translation": "电话在我们的讨论中途引起了中断。",
+      "source": "Everyday conversation (based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a live broadcast, any interruption can lead to a loss of audience engagement.",
+      "translation": "在现场直播中，任何中断都可能导致观众参与度的下降。",
+      "source": "News media (e.g., BBC reports)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She handled the interruption gracefully, pausing only briefly before continuing her speech.",
+      "translation": "她优雅地处理了中断，只短暂暂停后继续演讲。",
+      "source": "Literary fiction (inspired by modern novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "between or among",
+        "language": "Latin"
+      },
+      {
+        "root": "rumpere",
+        "meaning": "to break",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'interruptio'，意为'打破'或'中断'，起源于古罗马时代描述过程中断的概念；中世纪拉丁语演变为更广泛的使用，进入中古英语后扩展到日常语言中，现代英语中已发展为包括物理、社交和数字中断的含义。",
+    "firstKnownUse": "约15世纪",
+    "relatedWords": [
+      "interrupt",
+      "disruption",
+      "interject"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复间隔法（spaced repetition）来记忆发音变化；将词汇与个人经历关联，如回想日常生活中的中断场景，以增强语义记忆；通过视觉辅助工具如思维导图连接同源词，帮助中级学习者构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "disruption",
+        "similarity": "0.8",
+        "context": "在商业或社会语境中，用于描述重大变化，例如商业模式的中断"
+      },
+      {
+        "word": "disturbance",
+        "similarity": "0.7",
+        "context": "在安静或有序环境中的适用，例如会议中的干扰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuation",
+        "context": "表示持续而不中断的语境，例如故事的延续"
+      },
+      {
+        "word": "flow",
+        "context": "描述顺畅无阻的进程，例如对话的流畅性"
+      }
+    ],
+    "hypernyms": [
+      "event",
+      "occurrence"
+    ],
+    "hyponyms": [
+      "power interruption",
+      "signal interruption"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + interruption",
+        "examples": [
+          "service interruption",
+          "conversation interruption"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + interruption",
+        "examples": [
+          "cause an interruption",
+          "handle an interruption"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常隐含对效率和连续性的重视，例如在美式文化中，会议中断可能被视为不礼貌，而在英式文化中则更注重礼节性处理。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在技术语境，如电力中断（power interruption）",
+        "usage": "在美国英语中，常与日常科技问题相关联，如互联网服务中断"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于社交语境，如对话中断",
+        "usage": "在英国英语中，常用于正式场合强调礼貌，例如在辩论中的短暂中断"
+      }
+    ],
+    "historicalContext": "与工业革命相关，早期用于描述生产过程的中断；在现代文学如狄更斯的作品中，象征社会变革。",
+    "modernUsage": "在社交媒体上，指直播或在线会议的中断，常反映数字时代的生活节奏。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红灯在道路上突然亮起，车辆被迫停下，这代表了中断的瞬间。",
+      "keyElements": [
+        "红灯",
+        "车辆停止",
+        "短暂暂停"
+      ],
+      "emotionalConnection": "联结到个人经历，如工作中被电话打断的挫败感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Interruption 像 'inter' (中间) + 'ruption' (破裂)，想象一根线被中间切断。",
+        "explanation": "通过视觉联想帮助记忆词根，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌɪntəˈrʌpʃən/ 听起来像 'enter up shun'，想象进入一个屏障然后推开。",
+        "explanation": "利用声音与动作的联觉提升发音记忆"
+      }
+    ],
+    "wordAssociations": [
+      "break",
+      "pause",
+      "halt"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "interruptions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + interruption",
+        "description": "主语 + 动词 + 中断结构，常用于描述事件",
+        "examples": [
+          "The storm caused an interruption."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with interruption",
+        "description": "介词短语与中断结合，用于时间或原因语境",
+        "examples": [
+          "During the interruption, we took a break."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interruption' and 'disruption'",
+        "correction": "Use 'interruption' for temporary stops and 'disruption' for major changes",
+        "explanation": "中级学习者常混淆语义细微差别，导致语境错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural: interruptions",
+        "explanation": "英语名词规则简单，但初学者可能遗忘常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 5000 in COCA corpus",
+    "domains": [
+      "business",
+      "technology",
+      "daily communication"
+    ],
+    "tags": [
+      "action",
+      "event",
+      "communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

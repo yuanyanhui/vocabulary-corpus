@@ -1,0 +1,252 @@
+{
+  "word": "telemetry",
+  "phonetics": {
+    "british": "/təˈlɛmɪtri/",
+    "american": "/tɛˈlɛmətri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of recording and transmitting data from a remote source, especially in scientific, engineering, or medical contexts.",
+      "chineseTranslation": "遥测",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The data or signals obtained through such a process, often used in monitoring systems.",
+      "chineseTranslation": "遥测数据",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "telemetry data",
+      "meaning": "遥测数据",
+      "example": "The telemetry data from the satellite helped scientists track weather patterns.",
+      "exampleTranslation": "卫星的遥测数据帮助科学家追踪天气模式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "vehicle telemetry",
+      "meaning": "车辆遥测",
+      "example": "Vehicle telemetry systems provide real-time information on speed and location.",
+      "exampleTranslation": "车辆遥测系统提供速度和位置的实时信息。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "remote telemetry",
+      "meaning": "远程遥测",
+      "example": "Remote telemetry is essential for monitoring wildlife in inaccessible areas.",
+      "exampleTranslation": "远程遥测对于监测偏远地区的野生动物至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers rely on telemetry to monitor the performance of spacecraft during missions.",
+      "translation": "工程师们依赖遥测来监测航天器在任务中的性能。",
+      "source": "Scientific literature (e.g., NASA reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern cars, telemetry systems collect data on fuel efficiency and engine health.",
+      "translation": "在现代汽车中，遥测系统收集燃油效率和发动机健康的的数据。",
+      "source": "Automotive industry articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The hospital uses telemetry to track patients' vital signs without constant physical checks.",
+      "translation": "医院使用遥测来追踪患者的生命体征，而不需要持续的身体检查。",
+      "source": "Medical journals (e.g., from PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "tele",
+        "meaning": "远的、遥远的",
+        "language": "希腊语"
+      },
+      {
+        "root": "metry",
+        "meaning": "测量",
+        "language": "希腊语（源自 metron）"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪早期，结合希腊语 'tele'（表示距离）和 'metry'（表示测量），最初用于描述远程测量技术。随着科技发展，从无线电通信演变为现代数据传输系统，如航天和汽车领域。",
+    "firstKnownUse": "1930s",
+    "relatedWords": [
+      "telemeter",
+      "telemetry system",
+      "telegraphic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'telemetry' 拆分为 'tele-' 和 '-metry'，并联想日常生活中的远程设备；通过重复曝光于科技语境中增强长时记忆；利用双编码理论，将词汇与视觉图像（如卫星信号图）配对，以提高保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "remote sensing",
+        "similarity": "0.8",
+        "context": "适用于环境监测或地理信息系统语境中"
+      },
+      {
+        "word": "monitoring",
+        "similarity": "0.7",
+        "context": "在一般数据收集和技术维护语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "local measurement",
+        "context": "直接现场测量，而非远程"
+      },
+      {
+        "word": "manual tracking",
+        "context": "人工操作而非自动化系统"
+      }
+    ],
+    "hypernyms": [
+      "measurement",
+      "data transmission"
+    ],
+    "hyponyms": [
+      "satellite telemetry",
+      "wireless telemetry"
+    ],
+    "collocations": [
+      {
+        "pattern": "telemetry + noun (e.g., data, system)",
+        "examples": [
+          "telemetry data",
+          "telemetry system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + telemetry (e.g., use telemetry)",
+        "examples": [
+          "analyze telemetry"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征科技进步和数据驱动决策，尤其在航天（如美国NASA项目）和汽车产业中代表创新；隐含语义强调效率和远程控制，与现代社会对即时信息的需求相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，常见于日常科技报道中，如电动汽车的遥测功能"
+      },
+      {
+        "region": "英国",
+        "variation": "略为正式化表达",
+        "usage": "在英国英语中，可能与工程学历史关联更紧密，如在广播通信中的应用"
+      }
+    ],
+    "historicalContext": "与20世纪工业革命和太空竞赛相关，源自第一次世界大战时期的无线电技术，并在冷战时期通过美国和苏联太空计划普及。",
+    "modernUsage": "在社交媒体和数字时代，遥测常用于健康追踪应用或智能设备，但需注意隐私问题，如欧盟GDPR法规的影响。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个卫星在太空发送数据回地球的场景，画面中包括遥远的星星和数据流线。",
+      "keyElements": [
+        "卫星",
+        "数据流",
+        "遥远距离"
+      ],
+      "emotionalConnection": "联结个人经验，如使用手机追踪健身数据，触发好奇和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'telemetry' as 'tele' (like telephone, far away) plus 'metry' (like geometry, measuring).",
+        "explanation": "通过视觉联想将词汇与远程测量联系，运用认知联想原理增强记忆路径。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/tɛˈlɛmətri/' 听起来像 'tell a metric'，表示告诉一个测量值。",
+        "explanation": "利用声音相似性创建有趣联想，基于双编码理论结合听觉和语义。"
+      }
+    ],
+    "wordAssociations": [
+      "satellite",
+      "data",
+      "remote",
+      "monitor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "telemetries",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the telemetry of the system')",
+        "description": "作为名词用于描述系统或过程",
+        "examples": [
+          "The telemetry provides accurate readings."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., 'with telemetry')",
+        "description": "与介词结合表示手段或工具",
+        "examples": [
+          "They equipped the device with telemetry."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'telepathy'",
+        "correction": "Use 'telemetry' for data measurement",
+        "explanation": "二者发音相似，但 'telepathy' 指心灵感应；注意语境区分以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'telemetries' for plural",
+        "explanation": "作为可数名词，需正确添加 -ies 后缀。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "医疗"
+    ],
+    "tags": [
+      "技术术语",
+      "数据科学",
+      "航天"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "word": "概率",
+  "phonetics": {
+    "british": "/ˌprɒbəˈbɪlɪti/",
+    "american": "/ˌprɑːbəˈbɪləti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The extent to which an event is likely to occur or a statement is likely to be true, often measured in mathematics or statistics.",
+      "chineseTranslation": "事件发生的可能性或真实性的程度",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the chance that a particular event will happen, expressed as a number between 0 and 1.",
+      "chineseTranslation": "特定事件发生的几率，通常以0到1之间的数字表示",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "probability of success",
+      "meaning": "成功的可能性",
+      "example": "The probability of success in this experiment is quite high.",
+      "exampleTranslation": "这个实验成功的概率相当高。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "conditional probability",
+      "meaning": "在给定条件下的事件发生概率",
+      "example": "Conditional probability is used to calculate the likelihood of an event based on prior information.",
+      "exampleTranslation": "条件概率用于根据先验信息计算事件发生的可能性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The probability of rain tomorrow is 70%, according to the weather forecast.",
+      "translation": "根据天气预报，明天下雨的概率是70%。",
+      "source": "News (e.g., BBC Weather Reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In quantum mechanics, the probability of finding an electron in a particular orbit is described by wave functions.",
+      "translation": "在量子力学中，找到电子在特定轨道的概率由波函数描述。",
+      "source": "Scientific literature (e.g., physics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She assessed the probability of winning the lottery and decided it wasn't worth the risk.",
+      "translation": "她评估了赢得彩票的概率，并认为不值得冒险。",
+      "source": "Informal conversation (e.g., everyday dialogue)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "probabilis",
+        "meaning": "credible or provable",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'probabilitas'，意为 '可信度' 或 '可能性'，通过古法语 'probabilité' 传入英语，并在16世纪开始用于数学和统计学语境中，从哲学上的主观判断演变为现代科学中的量化概念。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "probable",
+      "improbability",
+      "probabilism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'probability' 与数字或事件关联，如想象一个百分比图表；通过重复暴露于真实语境中增强长期记忆；避免混淆相似词汇，如 'possibility'，通过对比练习建立语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "likelihood",
+        "similarity": "0.8",
+        "context": "在非技术语境中，用于描述事件发生的可能性，例如日常决策"
+      },
+      {
+        "word": "chance",
+        "similarity": "0.7",
+        "context": "在非正式语境中，用于表示随机事件，如赌博或彩票"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impossibility",
+        "context": "当事件完全不可能发生时，例如在逻辑或科学讨论中"
+      },
+      {
+        "word": "certainty",
+        "context": "当事件必然发生时，用于强调确定性对比不确定性"
+      }
+    ],
+    "hypernyms": [
+      "uncertainty"
+    ],
+    "hyponyms": [
+      "empirical probability",
+      "theoretical probability"
+    ],
+    "collocations": [
+      {
+        "pattern": "probability of + noun",
+        "examples": [
+          "probability of failure",
+          "probability of occurrence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "high/low probability",
+        "examples": [
+          "high probability event"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性决策和科学思维，常用于统计学、风险评估和社会科学，体现了启蒙运动以来对不确定性的量化处理；在中文文化中，类似概念受儒家和道家影响，更注重直觉和经验。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于学术和哲学语境",
+        "usage": "在英国英语中，常用于正式教育和科学研究，例如在牛津大学课程中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于商业和科技语境",
+        "usage": "在美国英语中，常与风险管理或数据分析结合，例如在硅谷创业文化中"
+      }
+    ],
+    "historicalContext": "与启蒙时代科学革命相关，如伽利略和牛顿的作品中体现了概率概念的演变；在文学中，如莎士比亚的作品间接触及不确定性主题。",
+    "modernUsage": "在社交媒体和数字时代，常见于数据驱动讨论，如COVID-19传播模型或在线博彩应用中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个骰子投掷的场景，其中点数代表不同概率",
+      "keyElements": [
+        "骰子",
+        "数字",
+        "百分比图表"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次彩票购买的兴奋，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'probability' 联想为 'pro' (支持) + 'ability' (能力)，意为 '支持事件的能力'",
+        "explanation": "通过视觉联想建立语义连接，帮助初级学习者快速回忆词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌprɒbəˈbɪlɪti/' 听起来像 'problem ability'，联想到解决问题的不确定性",
+        "explanation": "利用认知科学中的双编码理论，通过声音和意义结合提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "chance",
+      "risk",
+      "odds"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "probabilities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + probability of + noun",
+        "description": "主语 + 动词 + 概率 of + 名词结构，常用于描述事件可能性",
+        "examples": [
+          "We calculated the probability of success."
+        ]
+      },
+      {
+        "pattern": "The probability that + clause",
+        "description": "用于引导从句，表示特定情境下的可能性",
+        "examples": [
+          "The probability that it will rain is high."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'probability' with 'possibility'",
+        "correction": "Use 'probability' for quantifiable chances and 'possibility' for general feasibility",
+        "explanation": "前者涉及数学量化，后者更主观；这常见于非母语学习者中"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'probabilities' for plural forms",
+        "explanation": "作为可数名词，需要正确添加 -ies 后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "statistics",
+      "uncertainty",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "word": "pickle",
+  "phonetics": {
+    "british": "/ˈpɪkəl/",
+    "american": "/ˈpɪkəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A food, especially vegetables or fruit, preserved in vinegar or brine.",
+      "chineseTranslation": "腌制食品（如蔬菜或水果）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A difficult or awkward situation.",
+      "chineseTranslation": "困境或尴尬的处境",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To preserve (food) in vinegar, brine, or a similar solution.",
+      "chineseTranslation": "腌制（食物）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to serialize an object into a byte stream (e.g., in Python programming).",
+      "chineseTranslation": "在计算机编程中，将对象序列化为字节流（如Python中的pickle模块）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in a pickle",
+      "meaning": "处于困境中",
+      "example": "I'm in a pickle because I forgot my passport at home.",
+      "exampleTranslation": "我处于困境中，因为我把护照忘在家里了。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pickle juice",
+      "meaning": "腌制汁液",
+      "example": "Athletes sometimes drink pickle juice to prevent cramps.",
+      "exampleTranslation": "运动员有时喝腌制汁液来防止抽筋。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She made a jar of homemade pickles for the picnic.",
+      "translation": "她为野餐做了一罐自制腌菜。",
+      "source": "Daily conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the argument, he found himself in a real pickle at work.",
+      "translation": "争论后，他在工作中发现自己陷入了真正的困境。",
+      "source": "Informal narrative",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You need to pickle the cucumbers before they go bad.",
+      "translation": "你需要在黄瓜变坏之前腌制它们。",
+      "source": "Cooking instructions",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The program uses pickle to save data objects to a file.",
+      "translation": "该程序使用pickle将数据对象保存到文件中。",
+      "source": "Technical documentation",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "pikel",
+        "meaning": "Brine or pickling liquid",
+        "language": "Middle Dutch (pekel)"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语pikel，源自中古荷兰语pekel，意为盐水或卤水。词语逐渐演变为现代英语中表示腌制食品的含义，并在17世纪扩展到比喻性的困境用法，可能受莎士比亚作品的影响，如《亨利四世》。在技术语境中，20世纪的计算机术语则从比喻性保存概念演变而来。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "pickled",
+      "pickling",
+      "piquant"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先将'pickle'与视觉图像（如腌黄瓜罐头）关联，然后扩展到比喻性用法；通过间隔重复系统强化多义词的语境区分，以减少干扰效应。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "preserve",
+        "similarity": "0.8",
+        "context": "在食物保存语境中适用，例如讨论 canning 或 jarring"
+      },
+      {
+        "word": "dilemma",
+        "similarity": "0.7",
+        "context": "在表示困境的语境中适用，例如 decision-making scenarios"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fresh",
+        "context": "在食物语境中，表示未腌制的状态"
+      },
+      {
+        "word": "solution",
+        "context": "在困境语境中，表示问题的解决方式"
+      }
+    ],
+    "hypernyms": [
+      "food preservation method",
+      "problematic situation"
+    ],
+    "hyponyms": [
+      "gherkin",
+      "relish"
+    ],
+    "collocations": [
+      {
+        "pattern": "pickle + noun (e.g., cucumbers, onions)",
+        "examples": [
+          "pickle cucumbers",
+          "pickle onions"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in a + pickle",
+        "examples": [
+          "in a financial pickle"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'pickle'象征着保存和耐久，常与美国或英国的家庭烹饪传统相关；在比喻性用法中，代表日常生活中的小挫折，体现幽默和韧性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于食物语境，如pickles in fast food",
+        "usage": "在美国俚语中，强调日常饮食文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重比喻性用法，如'in a pickle'在文学中常见",
+        "usage": "在英国英语中，与历史文学作品（如莎士比亚）关联"
+      }
+    ],
+    "historicalContext": "与工业革命时期的食物保存技术相关，在19世纪的英国文学中出现作为比喻；在现代，跨文化中如亚洲的腌制食品（如韩国泡菜）有相似性，但'pickle'特指西方风格。",
+    "modernUsage": "在社交媒体上，'pickle'常用于幽默 meme 或健康饮食讨论中，反映了全球化的饮食趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个玻璃罐子里面装满了绿色的腌黄瓜，周围是厨房场景，同时联想到一个人被困在迷宫中代表困境。",
+      "keyElements": [
+        "腌黄瓜罐头",
+        "迷宫困局",
+        "绿色和酸味"
+      ],
+      "emotionalConnection": "联结个人经验，如童年吃过腌菜的记忆或遇到小麻烦时的 frustration，以增强情感编码"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pickle sounds like 'pick a lock' – picking a lock when you're in a tough situation.",
+        "explanation": "通过声音联想帮助记忆比喻性含义，基于认知联想原理减少遗忘。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-I-C-K-L-E: Preserved Item Creates Kitchen Longevity or Emergency.",
+        "explanation": "使用首字母缩写结合语义分组，促进工作记忆的组织。"
+      }
+    ],
+    "wordAssociations": [
+      "jar",
+      "brine",
+      "dilemma",
+      "serialize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pickles",
+      "pastTense": "pickled",
+      "pastParticiple": "pickled",
+      "presentParticiple": "pickling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + pickle + [modifier]",
+        "description": "典型结构用于描述物品，例如 'a jar of pickle'",
+        "examples": [
+          "I bought a pickle from the store."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: Subject + pickle + object",
+        "description": "用于动作描述，例如 'to pickle vegetables'",
+        "examples": [
+          "They pickle the vegetables every summer."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'pickle' with 'pixel' in technical contexts",
+        "correction": "Use 'pickle' for serialization and 'pixel' for images",
+        "explanation": "源自语义混淆，常因发音相似导致；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing 'in a pickle' in formal writing",
+        "correction": "Replace with 'in a difficult situation' in formal registers",
+        "explanation": "因为其非正式性质，在专业语境中可能不合适"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "culinary",
+      "informal language",
+      "computing"
+    ],
+    "tags": [
+      "food",
+      "preservation",
+      "idiom",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

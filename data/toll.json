@@ -1,0 +1,273 @@
+{
+  "word": "toll",
+  "phonetics": {
+    "british": "/təʊl/",
+    "american": "/toʊl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fee charged for the use of a road, bridge, or other infrastructure",
+      "chineseTranslation": "收费（如过路费）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number of deaths, injuries, or damage resulting from an event",
+      "chineseTranslation": "损失或伤亡（如事故中的死亡人数）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To ring slowly and repeatedly, as a bell",
+      "chineseTranslation": "（钟）缓慢反复敲响",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To charge a fee for the use of something",
+      "chineseTranslation": "征收费用",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "toll road",
+      "meaning": "收费公路",
+      "example": "Many highways in the US are toll roads that require payment at booths.",
+      "exampleTranslation": "在美国，很多高速公路是收费公路，需要在收费站支付费用。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "take a toll on",
+      "meaning": "对某事造成损害或影响",
+      "example": "The long hours of work began to take a toll on his health.",
+      "exampleTranslation": "长时间的工作开始对他的健康造成损害。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "death toll",
+      "meaning": "死亡人数",
+      "example": "The earthquake's death toll rose to over 1,000.",
+      "exampleTranslation": "地震的死亡人数上升到超过1,000人。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bridge has a toll of $5 for cars.",
+      "translation": "这座桥对汽车收取5美元的过路费。",
+      "source": "Modern transportation contexts, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The war took a heavy toll on the civilian population.",
+      "translation": "战争对平民人口造成了重大损失。",
+      "source": "News articles, e.g., from BBC reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The church bells tolled mournfully at the funeral.",
+      "translation": "教堂的钟在葬礼上悲伤地敲响。",
+      "source": "Literary works, e.g., from novels",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "They decided to toll the new highway to fund its maintenance.",
+      "translation": "他们决定对新高速公路征收费用来资助其维护。",
+      "source": "Policy discussions, e.g., from academic sources",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "tol",
+        "meaning": "tax or payment",
+        "language": "Old English"
+      },
+      {
+        "root": "tollōną",
+        "meaning": "to lift or raise",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "从古英语的'tol'演变而来，原指税款或支付，源自原始日耳曼语，影响至现代英语中表示收费或损失，逐渐扩展到象征性含义如伤亡",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "tollbooth",
+      "toller",
+      "tollgate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "通过联想收费站场景与词汇结合，利用间隔重复法增强记忆；对于中文学习者，比较'toll'与'收费'的语境差异以避免混淆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fee",
+        "similarity": "0.8",
+        "context": "在收费语境中，用于正式场合"
+      },
+      {
+        "word": "levy",
+        "similarity": "0.7",
+        "context": "在税收或征收费用时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "free",
+        "context": "在无需支付的语境中，如免费道路"
+      },
+      {
+        "word": "benefit",
+        "context": "在正面影响对比损失时"
+      }
+    ],
+    "hypernyms": [
+      "charge",
+      "cost"
+    ],
+    "hyponyms": [
+      "road toll",
+      "bridge toll"
+    ],
+    "collocations": [
+      {
+        "pattern": "take a toll on + noun",
+        "examples": [
+          "take a toll on health"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "toll + noun (e.g., toll road)",
+        "examples": [
+          "toll booth"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征现代社会中的经济负担或历史事件中的损失，如战争中的死亡统计，隐含对资源分配和社会公平的反思",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used for highway fees",
+        "usage": "在美国日常语境中，指具体的交通收费系统"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but with historical ties to medieval tolls",
+        "usage": "在英国，常与历史遗迹如古桥收费相关"
+      }
+    ],
+    "historicalContext": "源于中世纪欧洲的通行税，关联封建社会经济结构，在现代如一战二战的伤亡统计中强化了其象征意义",
+    "modernUsage": "在社交媒体和新闻中，常用于讨论疫情或气候变化的影响趋势，体现全球化的经济和社会语境"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个收费站场景，汽车停下支付费用，背景有钟声响起",
+      "keyElements": [
+        "收费站",
+        "钟声",
+        "损失图像"
+      ],
+      "emotionalConnection": "联结个人驾车经历或观看新闻中灾害的感受，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Toll sounds like 'tool'， imagine a tool that collects money or causes loss",
+        "explanation": "通过声音联想'toll'与'tool'，帮助记忆其收费含义"
+      },
+      {
+        "type": "缩略",
+        "content": "T-O-L-L: Take Out Little Losses",
+        "explanation": "缩写记忆法，强调其损失或收费的渐进性"
+      }
+    ],
+    "wordAssociations": [
+      "fee",
+      "bell",
+      "damage",
+      "road"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tolls",
+      "pastTense": "tolled",
+      "pastParticiple": "tolled",
+      "presentParticiple": "tolling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., The bell tolls loudly)",
+        "description": "主语+动词+宾语结构，常用于描述动作",
+        "examples": [
+          "The clock tolls every hour"
+        ]
+      },
+      {
+        "pattern": "Noun phrase + take a toll on + noun",
+        "description": "名词短语+take a toll on+名词，表达影响",
+        "examples": [
+          "Stress takes a toll on mental health"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'toll' with 'toil' (hard work)",
+        "correction": "Use 'toll' for fees or losses",
+        "explanation": "两者发音相似，但语义不同；中文学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'tolled' for past",
+        "explanation": "动词形式规则，但易忘，建议通过例句练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 words in COCA corpus",
+    "domains": [
+      "transportation",
+      "news",
+      "economics"
+    ],
+    "tags": [
+      "finance",
+      "disaster",
+      "history"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

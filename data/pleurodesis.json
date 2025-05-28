@@ -1,0 +1,233 @@
+{
+  "word": "pleurodesis",
+  "phonetics": {
+    "british": "/ˌplʊərəʊˈdiːsɪs/",
+    "american": "/ˌplʊroʊˈdisɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A medical procedure that intentionally causes the pleura (the membrane surrounding the lungs) to adhere to the chest wall, typically to prevent the recurrence of pneumothorax or pleural effusion.",
+      "chineseTranslation": "胸膜固定术",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chemical pleurodesis",
+      "meaning": "使用化学物质诱导胸膜粘连的程序",
+      "example": "The doctor recommended chemical pleurodesis for the patient's recurrent pneumothorax.",
+      "exampleTranslation": "医生为该患者反复发作的气胸推荐了化学胸膜固定术。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "surgical pleurodesis",
+      "meaning": "通过手术方式进行的胸膜固定术",
+      "example": "Surgical pleurodesis is often performed when other methods fail.",
+      "exampleTranslation": "当其他方法失败时，通常会进行手术胸膜固定术。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Pleurodesis is a common treatment for patients with persistent pleural effusions.",
+      "translation": "胸膜固定术是针对持续性胸水患者的常见治疗方法。",
+      "source": "Medical literature, such as articles from the New England Journal of Medicine",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the pleurodesis procedure, the patient experienced significant improvement in breathing.",
+      "translation": "在进行胸膜固定术后，该患者呼吸状况有了明显改善。",
+      "source": "Clinical case studies from PubMed",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In some cases, pleurodesis can be achieved using talc as an agent.",
+      "translation": "在某些情况下，可以使用滑石作为药剂进行胸膜固定术。",
+      "source": "Technical reports from the American Thoracic Society",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "pleuro-",
+        "meaning": "relating to the side or pleura (membrane around the lungs)",
+        "language": "Greek"
+      },
+      {
+        "root": "-desis",
+        "meaning": "binding or fusion",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'pleura'（意思是肋骨或胸膜）和 'desis'（意思是绑定）。该词在20世纪早期随着胸外科的发展而出现，最初用于描述手术性胸膜粘连程序，从单纯的解剖描述演变为现代医学术语，强调其治疗作用。",
+    "firstKnownUse": "Early 20th century (circa 1930s, based on medical texts)",
+    "relatedWords": [
+      "pleura",
+      "pneumothorax",
+      "adhesion"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (advanced, per CEFR, as it requires specialized medical knowledge)",
+    "pronunciationDifficulty": "7 (out of 10, due to the combination of vowel sounds like /ʊə/ in British English and the multisyllabic structure, which may challenge intermediate learners)",
+    "spellingDifficulty": "8 (out of 10, as the word includes less common letter combinations like 'eu' and 'odesis', potentially confusing for Chinese learners accustomed to phonetic scripts)",
+    "meaningComplexity": "9 (out of 10, involving abstract medical concepts that require background knowledge in anatomy)",
+    "usageComplexity": "8 (out of 10, limited to technical contexts, making it hard to use in everyday conversation)",
+    "learningTips": [
+      "通过认知科学原理，如Elaborative Rehearsal，将词汇与个人医疗经历关联；使用Spaced Repetition System (SRS) 重复记忆；将词汇可视化为胸腔图像，以加强空间记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pleural adhesion",
+        "similarity": "0.8",
+        "context": "主要在外科或放射科语境中使用，描述胸膜粘连的过程"
+      },
+      {
+        "word": "pleural symphysis",
+        "similarity": "0.7",
+        "context": "在解剖学讨论中，表示胸膜融合的状态"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pleural effusion",
+        "context": "表示胸膜积液，与pleurodesis的治疗目标相反，常在诊断语境中使用"
+      }
+    ],
+    "hypernyms": [
+      "medical procedure"
+    ],
+    "hyponyms": [
+      "talc pleurodesis",
+      "mechanical pleurodesis"
+    ],
+    "collocations": [
+      {
+        "pattern": "pleurodesis with [agent]",
+        "examples": [
+          "pleurodesis with talc",
+          "pleurodesis with tetracycline"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[type] pleurodesis",
+        "examples": [
+          "chemical pleurodesis",
+          "surgical pleurodesis"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征现代外科干预的进步，隐含语义强调预防性治疗，但在非西方文化中，可能与传统医学（如中医的肺部疗法）形成对比，突出科技导向的医疗。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常使用术语如 'talc slurry pleurodesis'",
+        "usage": "在美国临床实践中，强调微创方法"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能简称为 'pleurodesis procedure'",
+        "usage": "在英国NHS系统中，强调标准化协议"
+      }
+    ],
+    "historicalContext": "与20世纪胸外科的兴起相关，如二战后气胸治疗的进展；在文学和社会中，偶尔出现于医疗纪实中，反映科技对健康的干预。",
+    "modernUsage": "在社交媒体和在线健康论坛中，pleurodesis常用于患者分享经历，但需注意专业性，以避免误导。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个肺部图像，其中胸膜像胶水一样粘合在一起，防止空气泄漏。",
+      "keyElements": [
+        "肺部",
+        "粘合",
+        "医疗程序"
+      ],
+      "emotionalConnection": "联结到个人健康经历，如看医生时的焦虑，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pleurodesis sounds like 'glue-row-dee-sis', imagining gluing rows of pleura.",
+        "explanation": "通过声音联想将词汇与视觉图像连接，基于认知联想理论增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "P-D-S: Pleura + Desis = Stick together.",
+        "explanation": "使用首字母缩写结合简单短语，促进工作记忆"
+      }
+    ],
+    "wordAssociations": [
+      "pleura",
+      "adhesion",
+      "pneumothorax"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pleurodeses",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as direct object",
+        "description": "作为名词直接用在动词后，描述医疗程序",
+        "examples": [
+          "Perform pleurodesis"
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用在介词短语中，表示过程或结果",
+        "examples": [
+          "After pleurodesis"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'pleurisy'",
+        "correction": "Use 'pleurodesis' for the procedure, not the inflammation",
+        "explanation": "Pleurisy 是胸膜炎，常被误用，因为词根相似"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "pleurodeses (not pleurodesi)",
+        "explanation": "英语名词复数规则需注意，特别是外来词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked approximately 150,000 in COCA corpus, primarily in medical domains)",
+    "domains": [
+      "medicine",
+      "healthcare",
+      "surgery"
+    ],
+    "tags": [
+      "medical",
+      "technical",
+      "anatomy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Medical dictionaries like Merriam-Webster Medical"
+    ]
+  }
+}

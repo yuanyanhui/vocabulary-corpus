@@ -1,0 +1,234 @@
+{
+  "word": "hydrocarbon",
+  "phonetics": {
+    "british": "/ˌhaɪdrəʊˈkɑːbən/",
+    "american": "/ˌhaɪdroʊˈkɑːrbən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chemical compound consisting only of hydrogen and carbon atoms, typically found in fossil fuels such as petroleum and natural gas.",
+      "chineseTranslation": "碳氢化合物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aromatic hydrocarbon",
+      "meaning": "芳香族碳氢化合物，通常指含有苯环结构的碳氢化合物",
+      "example": "Benzene is a common aromatic hydrocarbon used in the chemical industry.",
+      "exampleTranslation": "苯是一种常见的芳香族碳氢化合物，用于化学工业。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "aliphatic hydrocarbon",
+      "meaning": "脂肪族碳氢化合物，指链状或环状但非芳香族的碳氢化合物",
+      "example": "Methane is a simple aliphatic hydrocarbon found in natural gas.",
+      "exampleTranslation": "甲烷是一种简单的脂肪族碳氢化合物，存在于天然气中。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hydrocarbons are the primary components of crude oil and are essential for energy production.",
+      "translation": "碳氢化合物是原油的主要成分，对能源生产至关重要。",
+      "source": "Scientific literature, e.g., from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The environmental impact of burning hydrocarbons includes increased carbon emissions and global warming.",
+      "translation": "燃烧碳氢化合物的环境影响包括增加碳排放和全球变暖。",
+      "source": "News articles, e.g., from BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In organic chemistry, hydrocarbons can be classified into alkanes, alkenes, and alkynes based on their molecular structure.",
+      "translation": "在有机化学中，碳氢化合物可以根据分子结构分为烷烃、烯烃和炔烃。",
+      "source": "Academic texts, e.g., from educational resources in BNC (British National Corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "hydro-",
+        "meaning": "Water",
+        "language": "Greek (from 'hydor' meaning water)"
+      },
+      {
+        "root": "carbon-",
+        "meaning": "Coal or charcoal",
+        "language": "Latin (from 'carbo' meaning coal)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪早期化学领域的演变，起初用于描述氢和碳的化合物组合。随着有机化学的发展，从简单描述水和碳的元素过渡到现代含义，指特定分子结构。",
+    "firstKnownUse": "Early 19th century (around 1826, as recorded in early scientific texts)",
+    "relatedWords": [
+      "hydrocarbonate",
+      "hydrocarbonic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (中等难度，由于含有元音音标组合如 /aɪ/ 和 /oʊ/，可能对中文母语者造成轻微挑战)",
+    "spellingDifficulty": "6 (中等难度，单词较长且包含不常见字母组合，如 'hydro-'，需要记忆规则)",
+    "meaningComplexity": "7 (较高复杂度，因为涉及化学概念，需要理解科学背景)",
+    "usageComplexity": "6 (中等复杂度，主要在技术语境中使用，但语法简单)",
+    "learningTips": [
+      "使用分块记忆法（chunking）将词汇分解为 'hydro-' 和 '-carbon'，结合认知科学原理如视觉联想，例如想象水（hydro）与煤炭（carbon）的结合；重复暴露于科学语料中以强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "alkane",
+        "similarity": "0.7",
+        "context": "适用于特定类型如饱和碳氢化合物语境"
+      },
+      {
+        "word": "organic compound",
+        "similarity": "0.6",
+        "context": "在更广泛的化学分类中，但不限于碳氢化合物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inorganic compound",
+        "context": "适用于区分有机与无机物质的科学语境"
+      }
+    ],
+    "hypernyms": [
+      "compound",
+      "molecule"
+    ],
+    "hyponyms": [
+      "methane",
+      "ethane",
+      "benzene"
+    ],
+    "collocations": [
+      {
+        "pattern": "hydrocarbon + emission",
+        "examples": [
+          "fossil fuel hydrocarbon emissions"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "type of + hydrocarbon",
+        "examples": [
+          "types of hydrocarbon found in oil"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征工业化和能源依赖，常与环境问题（如气候变化）相关联，在全球语境中体现科技进步与可持续发展的张力。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于能源和环境政策讨论中",
+        "usage": "在美国英语中，经常与石油工业相关联，如在政策文件中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术和科学语境中更正式",
+        "usage": "英国英语中可能强调历史化学传统，如达尔文时代的科学术语"
+      }
+    ],
+    "historicalContext": "与工业革命和石油发现相关，19世纪的化学进步推动了该词的使用，在文学如H.G. Wells的作品中隐喻现代化。",
+    "modernUsage": "在社交媒体和新闻中，常见于气候变化讨论，如Twitter上的#hydrocarbonpollution，表示对环境影响的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个水分子（hydro）与煤炭分子（carbon）结合，形成一个链状结构，如石油井喷出的液体。",
+      "keyElements": [
+        "水滴",
+        "煤炭块",
+        "链状分子"
+      ],
+      "emotionalConnection": "联结个人经验，如回想日常生活中的汽油使用，触发对能源依赖的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hydrocarbon sounds like 'hide row carbon' – hide the row of carbon atoms in water.",
+        "explanation": "通过声音联想帮助记忆词根，结合认知科学中的双编码理论（dual coding），将听觉和视觉元素结合以增强保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "H-C chain",
+        "explanation": "用缩写表示氢-碳链，简化记忆过程，基于工作记忆模型减少认知负荷。"
+      }
+    ],
+    "wordAssociations": [
+      "fuel",
+      "oil",
+      "chemistry",
+      "pollution"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hydrocarbons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为句子主语使用，常与描述性定语结合",
+        "examples": [
+          "Hydrocarbons play a vital role in the economy."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "出现在介词短语中，表示组成部分",
+        "examples": [
+          "The mixture contains various hydrocarbons."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'hydrocarbon' and 'carbohydrate'",
+        "correction": "Use 'hydrocarbon' for compounds of hydrogen and carbon only",
+        "explanation": "中文母语者可能混淆发音或拼写，需注意语义差异"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "英语名词规则简单，但科学术语需一致"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "environment",
+      "industry"
+    ],
+    "tags": [
+      "chemistry",
+      "energy",
+      "pollution",
+      "organic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

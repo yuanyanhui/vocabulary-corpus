@@ -1,0 +1,274 @@
+{
+  "word": "citation",
+  "phonetics": {
+    "british": "/saɪˈteɪʃən/",
+    "american": "/saɪˈteɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quotation from or reference to a book, paper, or author, especially in a scholarly work.",
+      "chineseTranslation": "引用或参考（如书籍、论文或作者的引文）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An official mention of someone in a military report for bravery or achievement.",
+      "chineseTranslation": "官方表彰（如军事报告中对勇气的提及）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A summons or ticket issued for a minor offense, such as a traffic violation.",
+      "chineseTranslation": "罚单或传票（如交通违规的处罚通知）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "parenthetical citation",
+      "meaning": "括号内的引用",
+      "example": "In APA style, a parenthetical citation includes the author's last name and the year of publication.",
+      "exampleTranslation": "在APA样式中，括号内的引用包括作者的姓氏和出版年份。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "full citation",
+      "meaning": "完整的引用信息",
+      "example": "The full citation for the book appears in the bibliography at the end of the paper.",
+      "exampleTranslation": "该书的完整引用信息出现在论文末尾的参考书目中。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "citation needed",
+      "meaning": "需要引用来源",
+      "example": "The claim about climate change effects is interesting, but citation needed for verification.",
+      "exampleTranslation": "关于气候变化影响的声明很有趣，但需要引用来源以供验证。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The professor emphasized the importance of accurate citations in academic writing to avoid plagiarism.",
+      "translation": "教授强调了在学术写作中使用准确引文的重要性，以避免抄袭。",
+      "source": "Academic textbook (e.g., from university lectures)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He received a citation for his heroic actions during the battle, which was later honored in a ceremony.",
+      "translation": "他因在战斗中的英勇行为而获得表彰，后来在仪式上受到了嘉奖。",
+      "source": "Historical novel or military report",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The driver was issued a citation for speeding on the highway, requiring him to pay a fine.",
+      "translation": "司机因在高速公路上超速而收到罚单，需要支付罚款。",
+      "source": "News article (e.g., from daily newspapers)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In legal documents, a proper citation ensures that cases can be traced back to their original sources.",
+      "translation": "在法律文件中，适当的引用确保案件可以追溯到其原始来源。",
+      "source": "Legal corpus (e.g., from court records)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "citare",
+        "meaning": "to call or summon",
+        "language": "Latin"
+      },
+      {
+        "root": "citatio",
+        "meaning": "a calling forth or quotation",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语citatio，意为'召唤或引用'，通过古法语citation传入中古英语。从最初的法律和正式召唤含义，演变为现代英语中学术引用和表彰的用法，尤其在14世纪开始在英语中出现。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "cite",
+      "recitation",
+      "excite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将不同语境下的citation进行分组记忆，例如将学术引用与法律罚单分开联想，以减少认知负荷；使用Spaced Repetition System (SRS) 重复复习，以强化长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reference",
+        "similarity": "0.8",
+        "context": "在学术写作中，常用于表示来源的引用"
+      },
+      {
+        "word": "quotation",
+        "similarity": "0.7",
+        "context": "强调直接引用的情况下"
+      },
+      {
+        "word": "commendation",
+        "similarity": "0.6",
+        "context": "在军事或荣誉表彰的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "plagiarism",
+        "context": "在学术语境中，表示未经引用的剽窃行为"
+      },
+      {
+        "word": "omission",
+        "context": "表示遗漏引用或来源的错误"
+      }
+    ],
+    "hypernyms": [
+      "reference",
+      "mention"
+    ],
+    "hyponyms": [
+      "bibliographic citation",
+      "in-text citation"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + citation (e.g., legal citation)",
+        "examples": [
+          "legal citation",
+          "academic citation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + citation (e.g., issue a citation)",
+        "examples": [
+          "issue a citation",
+          "provide a citation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，citation象征着学术诚信和法律责任，常隐含对知识来源尊重的价值观，尤其在西方教育体系中。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于法律和交通语境，如交通罚单",
+        "usage": "在美国英语中，citation在日常对话中可能更随意，例如在驾照相关讨论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重学术和正式引用，较少用于非正式罚单",
+        "usage": "在英国英语中，常与正式报告或学术论文相关联"
+      }
+    ],
+    "historicalContext": "citation与文艺复兴时期知识传播和启蒙运动相关联，在19世纪的工业革命中演变为法律文件的一部分，反映了西方社会对证据和权威性的强调。",
+    "modernUsage": "在现代社交媒体和在线平台上，citation常用于事实检查，例如Wikipedia的'citation needed'标签，以促进信息可验证性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个图书馆场景：一位学者在书架前，手持一张纸条，纸条上写着citation，周围有书籍和奖章。",
+      "keyElements": [
+        "图书馆",
+        "纸条",
+        "奖章"
+      ],
+      "emotionalConnection": "联结个人求学经历，如回忆写论文时的引用需求，以触发积极的学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将citation联想为'cite a nation'，表示引用一个国家的成就或法律。",
+        "explanation": "通过声音联想帮助记忆词根和多重含义，基于认知联想原理增强词汇保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-I-T-E (Call, Indicate, Track, Evidence)",
+        "explanation": "使用首字母缩略词表示citation的核心功能，如召唤或提供证据，符合记忆宫殿技术。"
+      }
+    ],
+    "wordAssociations": [
+      "quote",
+      "source",
+      "ticket",
+      "honor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "citations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + citation",
+        "description": "主语+动词+引文结构，常用于描述引用行为",
+        "examples": [
+          "She included a citation in her essay."
+        ]
+      },
+      {
+        "pattern": "Citation + of + noun",
+        "description": "引文+of+名词结构，表示引用的来源",
+        "examples": [
+          "Citation of the original source is mandatory."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing citation with quotation",
+        "correction": "Use citation for references and quotation for direct text",
+        "explanation": "Citation泛指引用，而quotation特指直接引文；错误源于语义相似性"
+      },
+      {
+        "mistake": "Incorrect formatting of citation",
+        "correction": "Follow style guides like APA or MLA",
+        "explanation": "在不同语境中，格式错误可能导致学术不诚信"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "academia",
+      "law",
+      "military",
+      "publishing"
+    ],
+    "tags": [
+      "academic",
+      "legal",
+      "reference",
+      "formal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

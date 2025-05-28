@@ -1,0 +1,258 @@
+{
+  "word": "sigmoid",
+  "phonetics": {
+    "british": "/ˈsɪɡmɔɪd/",
+    "american": "/ˈsɪɡmɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having a double curve like the letter S, often used in contexts such as mathematics, biology, or geography.",
+      "chineseTranslation": "S 形的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical function or curve that has an S-shape, commonly used in statistics, machine learning, and neural networks.",
+      "chineseTranslation": "Sigmoid 函数或曲线",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the sigmoid colon in anatomy, which is the S-shaped part of the large intestine.",
+      "chineseTranslation": "乙状结肠的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sigmoid function",
+      "meaning": "Sigmoid 函数",
+      "example": "The sigmoid function is essential for binary classification in machine learning models.",
+      "exampleTranslation": "Sigmoid 函数在机器学习模型的二元分类中至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sigmoid curve",
+      "meaning": "S 形曲线",
+      "example": "The sigmoid curve illustrates population growth in logistic models.",
+      "exampleTranslation": "S 形曲线展示了逻辑模型中的人口增长。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sigmoid colon",
+      "meaning": "乙状结肠",
+      "example": "The sigmoid colon is located at the end of the descending colon in the human digestive system.",
+      "exampleTranslation": "乙状结肠位于人类消化系统下降结肠的末端。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In neural networks, the sigmoid activation function helps in introducing non-linearity.",
+      "translation": "在神经网络中，Sigmoid 激活函数有助于引入非线性。",
+      "source": "Machine learning textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The river's sigmoid path created fertile land along its banks.",
+      "translation": "河流的 S 形路径在其两岸形成了肥沃的土地。",
+      "source": "Geographical literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Doctors examined the sigmoid colon during the colonoscopy procedure.",
+      "translation": "医生在结肠镜检查过程中检查了乙状结肠。",
+      "source": "Medical journal",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "sigma",
+        "meaning": "The Greek letter Σ, representing an S-like shape",
+        "language": "Greek"
+      },
+      {
+        "root": "-oid",
+        "meaning": "Resembling or like (from eidos meaning form)",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词汇 'sigma'，表示 S 形字母，通过拉丁语传入英语，最初用于描述形状。17 世纪开始在数学和解剖学中广泛使用，逐渐演变为现代技术术语，以描述 S 形曲线或结构。",
+    "firstKnownUse": "1660s",
+    "relatedWords": [
+      "sigmoidal",
+      "sigmas"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象 S 形河流来记忆发音；使用间隔重复法复习技术语境；针对中国学习者，联结到数学函数的概念以增强语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "S-shaped",
+        "similarity": "0.9",
+        "context": "在描述曲线或形状时使用，常用于技术或科学语境"
+      },
+      {
+        "word": "logistic",
+        "similarity": "0.7",
+        "context": "在数学函数语境中，指类似 S 形增长模式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "linear",
+        "context": "在数学中，与 S 形曲线相对，表示直线或非弯曲模式"
+      },
+      {
+        "word": "straight",
+        "context": "在描述形状时，表示直线而非弯曲"
+      }
+    ],
+    "hypernyms": [
+      "curve",
+      "function"
+    ],
+    "hyponyms": [
+      "logistic function"
+    ],
+    "collocations": [
+      {
+        "pattern": "sigmoid + noun (e.g., function, curve)",
+        "examples": [
+          "sigmoid function",
+          "sigmoid curve"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + sigmoid (e.g., typical sigmoid)",
+        "examples": [
+          "typical sigmoid pattern"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征数学建模和生物学结构，常隐含高效性和非线性变化的含义；在跨文化语境中，中国学习者可联结到中医或工程领域的 S 形描述，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如人工智能",
+        "usage": "在美国英语中，强调在机器学习中的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于生物学语境",
+        "usage": "在英国英语中，更侧重于解剖学描述"
+      }
+    ],
+    "historicalContext": "与古希腊字母系统相关，17 世纪在欧洲科学革命中兴起；例如，在牛顿时代用于描述自然现象。",
+    "modernUsage": "在社交媒体和在线教育中流行，尤其在 AI 和数据科学讨论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条 S 形河流蜿蜒流动，经过山谷，最终汇入海洋。",
+      "keyElements": [
+        "S 形河流",
+        "弯曲路径",
+        "山谷景观"
+      ],
+      "emotionalConnection": "联结到个人旅行经历或中国山水画中的曲线，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sigma 像 S，oid 像 'oid' 声音，联想到 'sign' 和 'void' 的结合",
+        "explanation": "通过声音和视觉联想帮助记忆词根，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S for Sigma, I for Idea of Shape",
+        "explanation": "使用首字母缩写强化语义记忆，结合间隔重复以优化长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "curve",
+      "function",
+      "S-shape"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，常用于技术描述",
+        "examples": [
+          "a sigmoid curve"
+        ]
+      },
+      {
+        "pattern": "Noun Phrase",
+        "description": "作为名词独立使用或在句子中",
+        "examples": [
+          "The sigmoid is used in models."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sigmod' or misspelling as 'signoid'",
+        "correction": "Correct spelling is 'sigmoid'",
+        "explanation": "源自希腊词根，错误常因语音相似导致；建议通过发音练习避免"
+      },
+      {
+        "mistake": "Using in non-technical contexts incorrectly",
+        "correction": "Restrict to technical or scientific usage",
+        "explanation": "该词语域为技术性，避免在日常对话中误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "medicine"
+    ],
+    "tags": [
+      "mathematics",
+      "biology",
+      "curves",
+      "functions"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

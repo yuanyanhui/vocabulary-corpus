@@ -1,0 +1,255 @@
+{
+  "word": "conditional",
+  "phonetics": {
+    "british": "/kənˈdɪʃ(ə)n(ə)l/",
+    "american": "/kənˈdɪʃənl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Subject to one or more conditions or requirements; not absolute.",
+      "chineseTranslation": "有条件的；视情况而定的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statement or clause that expresses a condition, often used in logic, programming, or grammar (e.g., in conditional sentences).",
+      "chineseTranslation": "条件句；条件语句",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "conditional offer",
+      "meaning": "有条件的要约",
+      "example": "The company made a conditional offer to the candidate, pending a background check.",
+      "exampleTranslation": "公司向候选人提出了一个有条件的要约，等待背景调查。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "conditional statement",
+      "meaning": "条件语句",
+      "example": "In programming, a conditional statement like 'if-else' controls the flow based on certain conditions.",
+      "exampleTranslation": "在编程中，像'if-else'这样的条件语句根据特定条件控制流程。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "on a conditional basis",
+      "meaning": "在有条件的基础上",
+      "example": "The funding was provided on a conditional basis, requiring the project to meet specific milestones.",
+      "exampleTranslation": "资金是在有条件的基础上提供的，要求项目达到特定里程碑。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The contract is conditional upon the approval of the board.",
+      "translation": "合同是有条件的，需要董事会批准。",
+      "source": "Legal documents (e.g., from British National Corpus - BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In English grammar, conditional sentences often use words like 'if' to express hypothetical situations.",
+      "translation": "在英语语法中，条件句通常使用像'if'这样的词来表达假设情况。",
+      "source": "Educational materials (e.g., from Cambridge English Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The loan was granted on conditional terms, meaning repayment depends on market conditions.",
+      "translation": "贷款是根据有条件条款 granted 的，意思是偿还取决于市场条件。",
+      "source": "Financial news (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Late Latin",
+    "rootWords": [
+      {
+        "root": "conditio",
+        "meaning": "agreement, stipulation",
+        "language": "Latin"
+      },
+      {
+        "root": "-al",
+        "meaning": "pertaining to",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from the Latin 'conditio' (meaning 'agreement or condition') combined with the suffix '-al' to form an adjective. It evolved through Old French 'conditionel' in the 14th century, entering Middle English around the 15th century, initially in legal and philosophical contexts, and later expanding to general and technical uses in modern English.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "condition",
+      "conditionally",
+      "unconditional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法（spaced repetition）来记忆条件句结构，以强化长时记忆；",
+      "通过视觉联想将'conditional'与'if-then'场景关联，激发情绪触发点，如想象一个'if it rains, then we stay home'的决策过程；",
+      "使用双编码策略，将词汇与母语（如中文的'有条件的'）进行双向翻译练习，以提升词汇获取效率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "contingent",
+        "similarity": "0.8",
+        "context": "适用于法律或商业语境中，表示依赖于特定事件的"
+      },
+      {
+        "word": "provisional",
+        "similarity": "0.7",
+        "context": "常用于临时或试验性的情况，如'provisional agreement'（临时协议）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unconditional",
+        "context": "适用于无限制或绝对的语境中，如'无条件的爱'（unconditional love）"
+      },
+      {
+        "word": "absolute",
+        "context": "在强调确定性和无条件的场合，如'绝对真理'（absolute truth）"
+      }
+    ],
+    "hypernyms": [
+      "dependent",
+      "qualified"
+    ],
+    "hyponyms": [
+      "hypothetical",
+      "contingent"
+    ],
+    "collocations": [
+      {
+        "pattern": "conditional on + noun",
+        "examples": [
+          "The deal is conditional on regulatory approval."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "if + conditional clause",
+        "examples": [
+          "If you study hard, you will succeed."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常隐含强调责任和后果的隐喻，尤其在法律、合同和教育语境中，象征谨慎决策和风险管理；跨文化理解时，中国学习者可能将其与'条件反射'（Pavlovian conditioning）或'如果...那么...'的逻辑结构关联。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式法律语境",
+        "usage": "如在英国合同中，'conditional'强调传统上的义务和条件"
+      },
+      {
+        "region": "美国",
+        "variation": "在商业和科技语境中更灵活",
+        "usage": "例如，在美国编程中，'conditional'经常与算法相关联"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动时期的理性主义相关联，如在约翰·洛克的哲学作品中，用于讨论条件知识；在现代，关联文学如莎士比亚的条件性情节。",
+    "modernUsage": "在社交媒体和数字语境下，'conditional'常用于表达假设性，如TikTok上的'conditional love'讨论，反映当代心理和关系动态"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个路口场景：一个交通信号灯只有在满足条件（如绿灯）时才允许通过，这代表'conditional'的依赖性。",
+      "keyElements": [
+        "信号灯",
+        "条件",
+        "决策点"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己做出的有条件的承诺，触发挫败或成就感，以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'conditional'联想为'con (条件) + ditional (传统的决定)'",
+        "explanation": "通过视觉联想词根，结合认知科学中的双编码理论，将抽象概念转化为具体图像"
+      },
+      {
+        "type": "缩略",
+        "content": "C for Condition, O for Only if",
+        "explanation": "使用首字母缩略法辅助回忆，基于工作记忆模型简化复杂结构"
+      }
+    ],
+    "wordAssociations": [
+      "if",
+      "then",
+      "dependent",
+      "hypothesis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more conditional",
+      "superlative": "most conditional"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + conditional + on + noun",
+        "description": "用于表达依赖于特定条件的结构",
+        "examples": [
+          "The success is conditional on hard work."
+        ]
+      },
+      {
+        "pattern": "If + clause, then + main clause",
+        "description": "典型条件句结构，常用于假设语境",
+        "examples": [
+          "If it rains, the event will be conditional."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'conditional' interchangeably with 'condition'",
+        "correction": "Use 'conditional' as an adjective for dependency, and 'condition' as a noun.",
+        "explanation": "学习者常混淆词性，导致句法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Omitting 'on' in collocations",
+        "correction": "Include 'on' for proper prepositional phrases, e.g., 'conditional on'.",
+        "explanation": "这是母语干扰导致的错误，中文学习者可能省略介词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "legal",
+      "business",
+      "education",
+      "technology"
+    ],
+    "tags": [
+      "adjective",
+      "logic",
+      "dependency",
+      "hypothetical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "word": "sync",
+  "phonetics": {
+    "british": "/sɪŋk/",
+    "american": "/sɪŋk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To coordinate or adjust two or more things so that they operate at the same rate or in harmony, often used in computing to align data across devices.",
+      "chineseTranslation": "同步",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state of being synchronized or the process of synchronizing, especially in technology contexts like data transfer.",
+      "chineseTranslation": "同步状态或过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In informal use, describing something that is synchronized or in alignment.",
+      "chineseTranslation": "同步的",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in sync",
+      "meaning": "处于同步状态",
+      "example": "The dancers moved in sync with the music.",
+      "exampleTranslation": "舞者们随着音乐保持同步。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sync up",
+      "meaning": "使某事同步或协调",
+      "example": "We need to sync up our schedules for the meeting.",
+      "exampleTranslation": "我们需要为会议协调我们的日程。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "out of sync",
+      "meaning": "不同步或不协调",
+      "example": "The audio was out of sync with the video.",
+      "exampleTranslation": "音频与视频不同步。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I always sync my phone with my computer to back up my photos.",
+      "translation": "我总是将我的手机与电脑同步来备份照片。",
+      "source": "Technology blog (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team worked in perfect sync to complete the project on time.",
+      "translation": "团队完美同步合作，以按时完成项目。",
+      "source": "Business article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the update, the app failed to sync properly with the server.",
+      "translation": "更新后，该应用未能正确与服务器同步。",
+      "source": "News report (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "syn",
+        "meaning": "together",
+        "language": "Greek"
+      },
+      {
+        "root": "chronos",
+        "meaning": "time",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词 'σύγχρονος' (synchronos)，意为 '同时发生的'，通过拉丁语 'synchronus' 传入英语。17 世纪开始在科学和技术语境中使用，逐渐演变为现代英语中的 'sync'，特别是在 20 世纪的电子和计算机领域简化为缩写形式。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "synchronize",
+      "synchronous",
+      "asynchronous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'sync' 与钟表或齿轮的图像关联，以强化记忆；对于中文母语学习者，建议通过重复练习技术术语的语境，以避免混淆相似词汇如 'sink'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "synchronize",
+        "similarity": "0.9",
+        "context": "在技术或协调语境中适用，例如数据传输"
+      },
+      {
+        "word": "coordinate",
+        "similarity": "0.7",
+        "context": "在团队合作或事件安排中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asynchronous",
+        "context": "在非实时通信或不协调的语境中使用"
+      },
+      {
+        "word": "desynchronize",
+        "context": "在打破同步状态的语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "align",
+      "coordinate"
+    ],
+    "hyponyms": [
+      "data sync",
+      "audio sync"
+    ],
+    "collocations": [
+      {
+        "pattern": "sync + noun (e.g., sync data)",
+        "examples": [
+          "sync your files"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in sync with + noun",
+        "examples": [
+          "in sync with the beat"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，该词象征着连接性和即时性，尤其在社交媒体和科技行业，代表着全球化的即时互动。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用作缩写，在科技俚语中",
+        "usage": "在美国英语中，常用于非正式对话，如 'Let's sync our calendars.'"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更偏向正式语境",
+        "usage": "在英国英语中，偶尔用于广播或影视，以强调协调性。"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科技发展相关，最初在钟表和机械领域使用；文学中，如狄更斯的作品中隐含协调主题。",
+    "modernUsage": "在社交媒体和在线平台上流行，例如 TikTok 视频中的 'lip sync'，反映了数字时代的文化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个齿轮完美啮合运转的场景，代表同步。",
+      "keyElements": [
+        "齿轮",
+        "钟表",
+        "协调"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆手机同步照片时的便利感，以增强积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sync 像 'sink' 但向上（s-y-n-c），代表连接而非下沉。",
+        "explanation": "通过声音联想避免混淆，结合视觉图像强化认知路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-Y-N-C = Same Time, Not Confused",
+        "explanation": "使用缩略形式帮助记忆含义，基于认知科学中的重复和模式识别。"
+      }
+    ],
+    "wordAssociations": [
+      "synchronize",
+      "together",
+      "time"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "synced",
+      "pastParticiple": "synced",
+      "presentParticiple": "syncing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + object (e.g., sync data)",
+        "description": "作为及物动词，用于直接对象",
+        "examples": [
+          "I sync my phone daily."
+        ]
+      },
+      {
+        "pattern": "Adverbial phrase (e.g., in sync with)",
+        "description": "表示状态或关系",
+        "examples": [
+          "The systems are in sync with each other."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sink'",
+        "correction": "Use 'sync' for synchronization",
+        "explanation": "中文母语学习者常因发音相似而混淆；通过练习区分语境可避免。"
+      },
+      {
+        "mistake": "Incorrect tense (e.g., 'synced' as 'sink')",
+        "correction": "Ensure proper spelling in past forms",
+        "explanation": "基于拼写规则，提供重复练习以强化肌肉记忆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "日常交流"
+    ],
+    "tags": [
+      "技术术语",
+      "动词",
+      "缩写"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC",
+      "Merriam-Webster"
+    ]
+  }
+}

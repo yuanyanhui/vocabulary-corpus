@@ -1,0 +1,262 @@
+{
+  "word": "checkpoint",
+  "phonetics": {
+    "british": "/ˈtʃɛk.pɔɪnt/",
+    "american": "/ˈtʃɛk.poʊnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point or place where vehicles or people are stopped for inspection, control, or verification, such as in racing, security, or computing.",
+      "chineseTranslation": "检查点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To establish or reach a checkpoint, often used in contexts like computing to save progress or in navigation to mark a point.",
+      "chineseTranslation": "设置或到达检查点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a point in a program where the system saves the state to allow recovery from failures.",
+      "chineseTranslation": "（计算机中的）检查点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "security checkpoint",
+      "meaning": "安全检查点",
+      "example": "All passengers must pass through the security checkpoint before boarding.",
+      "exampleTranslation": "所有乘客必须通过安全检查点才能登机。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "race checkpoint",
+      "meaning": "赛跑中的检查点",
+      "example": "The runners paused briefly at the race checkpoint to have their times recorded.",
+      "exampleTranslation": "赛跑者们在赛跑检查点短暂停留以记录时间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "system checkpoint",
+      "meaning": "系统检查点",
+      "example": "The software performs a system checkpoint every hour to prevent data loss.",
+      "exampleTranslation": "软件每小时进行一次系统检查点以防止数据丢失。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The border checkpoint was heavily guarded to ensure national security.",
+      "translation": "边境检查点戒备森严，以确保国家安全。",
+      "source": "News article from BBC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In video games, reaching a checkpoint allows players to respawn without losing progress.",
+      "translation": "在视频游戏中，到达检查点允许玩家重生而不丢失进度。",
+      "source": "Gaming literature from IGN",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Drivers must stop at the checkpoint for routine vehicle inspections.",
+      "translation": "驾驶员必须在检查点停车进行例行车辆检查。",
+      "source": "Traffic regulations manual",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "check",
+        "meaning": "To stop, control, or verify",
+        "language": "Middle English from Old French 'eschec'"
+      },
+      {
+        "root": "point",
+        "meaning": "A specific location or position",
+        "language": "Middle English from Latin 'punctum'"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪的英语，最初用于军事和体育语境中表示检查或控制的特定点。随时间演变为更广泛的含义，如在计算机科学中用于数据恢复点。这种演变反映了工业化和数字化进程对语言的影响。",
+    "firstKnownUse": "Circa 1850 in military contexts",
+    "relatedWords": [
+      "checkpointing",
+      "checkup",
+      "waystation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'checkpoint' 与日常生活场景关联，如边境检查或游戏关卡，以增强记忆保留；",
+      "使用重复间隔法（spaced repetition）复习不同语境下的用法，以降低语义复杂度；",
+      "通过视觉辅助工具创建心智图，将词汇与个人经验联系，促进长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "waystation",
+        "similarity": "0.7",
+        "context": "适用于交通或旅程中的临时停靠点"
+      },
+      {
+        "word": "milestone",
+        "similarity": "0.6",
+        "context": "在项目管理中，表示重要进展点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dead end",
+        "context": "表示无进展或终点，与检查点作为继续点的概念相反"
+      },
+      {
+        "word": "free pass",
+        "context": "表示无需检查的直接通过，与检查点的控制性质相对"
+      }
+    ],
+    "hypernyms": [
+      "point",
+      "location"
+    ],
+    "hyponyms": [
+      "border checkpoint",
+      "race checkpoint"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + checkpoint (e.g., security checkpoint)",
+        "examples": [
+          "security checkpoint",
+          "border checkpoint"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + checkpoint (e.g., reach a checkpoint)",
+        "examples": [
+          "establish a checkpoint",
+          "pass a checkpoint"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征安全与控制，例如在美国，检查点与反恐措施相关；在游戏文化中，它代表成就与恢复，体现了现代数字社会的韧性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in security and technology contexts",
+        "usage": "在美国，常用于机场安检或软件开发中，强调效率和监控"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, often in historical or military contexts",
+        "usage": "在英国，可能会与历史事件如二战检查点相关联"
+      }
+    ],
+    "historicalContext": "该词与20世纪的军事历史相关，如二战时期的边境检查点；在文学中，如乔治·奥威尔的作品中，隐含监控主题。",
+    "modernUsage": "在社交媒体和数字平台上，该词流行于游戏社区和在线讨论中，代表进度保存的便利性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个路障前有警卫站立的场景，代表检查点。",
+      "keyElements": [
+        "路障",
+        "警卫",
+        "旗帜"
+      ],
+      "emotionalConnection": "联结到个人旅行经历中的安检时刻，触发安全感或紧张情绪以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'checkpoint' 联想为 'check + point'，即 '检查的点'，如地图上的标记点。",
+        "explanation": "通过视觉联想增强词汇与概念的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "CP 代表 'Control Point'。",
+        "explanation": "使用首字母缩写简化记忆，结合重复练习以强化神经通路"
+      }
+    ],
+    "wordAssociations": [
+      "barrier",
+      "milestone",
+      "savepoint"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "checkpoints",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Modifier] + checkpoint",
+        "description": "该结构用于描述特定类型的检查点，例如 'security checkpoint'。",
+        "examples": [
+          "The airport has a strict security checkpoint."
+        ]
+      },
+      {
+        "pattern": "Verb usage: Subject + verb + checkpoint",
+        "description": "常用于动作语境，如 'reach a checkpoint'。",
+        "examples": [
+          "They reached the checkpoint at dawn."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'check point' as two words",
+        "correction": "Always use as one word: 'checkpoint'",
+        "explanation": "在现代英语中，它是一个合成词，避免空格以符合标准拼写规则"
+      },
+      {
+        "mistake": "Misusing in non-physical contexts",
+        "correction": "Ensure context-specific usage, e.g., not in everyday conversations",
+        "explanation": "初级学习者常错误扩展其含义，而忽略语域限制"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in COCA corpus",
+    "domains": [
+      "technology",
+      "security",
+      "sports"
+    ],
+    "tags": [
+      "control",
+      "verification",
+      "progress"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

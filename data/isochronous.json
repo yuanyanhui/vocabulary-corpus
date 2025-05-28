@@ -1,0 +1,246 @@
+{
+  "word": "isochronous",
+  "phonetics": {
+    "british": "/aɪˈsɒk.rə.nəs/",
+    "american": "/aɪˈsɑː.krə.nəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "occurring at equal time intervals; having the same duration or period",
+      "chineseTranslation": "等时的；周期相同的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "synchronized in time, especially in contexts like physics, computing, or music",
+      "chineseTranslation": "时间上同步的，尤其在物理学、计算机或音乐领域",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "isochronous motion",
+      "meaning": "等时运动",
+      "example": "In physics, isochronous motion refers to the uniform oscillation of a pendulum.",
+      "exampleTranslation": "在物理学中，等时运动指的是钟摆的均匀摆动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "isochronous communication",
+      "meaning": "等时通信",
+      "example": "Isochronous communication is essential in real-time data transfer systems.",
+      "exampleTranslation": "等时通信在实时数据传输系统中至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The isochronous vibrations of the string produce a steady musical note.",
+      "translation": "琴弦的等时振动产生稳定的音乐音符。",
+      "source": "Scientific literature, e.g., from physics textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, isochronous data streams ensure smooth video playback.",
+      "translation": "在现代计算机中，等时数据流确保视频播放顺畅。",
+      "source": "Technology articles, e.g., from IEEE publications",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The engine's isochronous operation maintains constant speed under varying loads.",
+      "translation": "引擎的等时操作在不同负载下保持恒定速度。",
+      "source": "Engineering reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "iso-",
+        "meaning": "equal",
+        "language": "Greek"
+      },
+      {
+        "root": "chronos",
+        "meaning": "time",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'isos'（等于）和 'chronos'（时间），通过拉丁语 'isochronus' 演变为英语，最初用于17世纪的物理学描述周期性现象，如胡克的钟摆研究，后来扩展到计算机和通信领域，表示时间同步的概念。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "isochronism",
+      "isochronal",
+      "synchronous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块编码法（chunking）将 'iso-' 联想为 'equal'，并与 'chronos' 联系日常生活时间概念，以减少工作记忆负载；",
+      "使用重复间隔法（spaced repetition）复习相关科学语境，帮助强化长期记忆；",
+      "创建个人关联，如将 'isochronous' 与钟表或音乐节奏的视觉图像结合，触发情绪记忆以提升保留率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "synchronous",
+        "similarity": "0.8",
+        "context": "适用于需要时间同步的语境，如计算机网络"
+      },
+      {
+        "word": "periodic",
+        "similarity": "0.7",
+        "context": "适用于重复周期的科学描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asynchronous",
+        "context": "适用于非同步或不等时的通信系统"
+      },
+      {
+        "word": "irregular",
+        "context": "适用于非周期性的运动或事件"
+      }
+    ],
+    "hypernyms": [
+      "regular",
+      "timed"
+    ],
+    "hyponyms": [
+      "isochronous pendulum",
+      "isochronous transfer"
+    ],
+    "collocations": [
+      {
+        "pattern": "isochronous + noun (e.g., motion, communication)",
+        "examples": [
+          "isochronous motion",
+          "isochronous data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + isochronous (e.g., perfectly isochronous)",
+        "examples": [
+          "perfectly isochronous vibrations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和可靠性，常与牛顿物理学和现代技术革命相关，隐含语义强调时间管理的秩序感",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于学术和历史语境，如物理学历史",
+        "usage": "在英国英语中，常见于教育和科学出版物中"
+      },
+      {
+        "region": "United States",
+        "variation": "更常用于技术应用，如计算机科学",
+        "usage": "在美国英语中，强调实用性和创新语境"
+      }
+    ],
+    "historicalContext": "与17世纪科学革命关联，如伽利略和胡克的钟摆实验，体现了启蒙时代对自然规律的探索",
+    "modernUsage": "在社交媒体和科技博客中，常用于讨论实时通信或AI系统，反映数字时代对同步性的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个精确的钟摆在等时摆动，背景是古希腊寺庙，象征时间平等",
+      "keyElements": [
+        "钟摆",
+        "希腊柱子",
+        "时钟"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆儿时玩的秋千，触发 nostalgia 和好奇心以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Iso-如 'eye so'，chronous 如 'chronic time'，整体联想为 'eye so chronic time' 意思是 '眼睛看到如此规律的时间'",
+        "explanation": "通过声音联觉和视觉联想，帮助学习者快速回忆词根含义"
+      },
+      {
+        "type": "缩略",
+        "content": "I-S-O-C (Equal-Time)",
+        "explanation": "使用首字母缩写结合词根，简化复杂词汇以便于认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "synchronous",
+      "timer",
+      "rhythm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more isochronous",
+      "superlative": "most isochronous"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + isochronous + noun",
+        "description": "主语 + 系动词 + isochronous + 名词，描述某事物的等时特性",
+        "examples": [
+          "The pendulum is isochronous in its swings."
+        ]
+      },
+      {
+        "pattern": "Adverb + isochronous + verb",
+        "description": "副词 + isochronous + 动词，用于强调等时行为",
+        "examples": [
+          "The system operates isochronously under load."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'synchronous'",
+        "correction": "Use 'isochronous' for equal time intervals specifically",
+        "explanation": "二者虽相关，但 'isochronous' 更强调周期性，而 'synchronous' 强调同时发生"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ɪsəʊ'krɒnəs/",
+        "correction": "Pronounce as /aɪˈsɒk.rə.nəs/ for British English",
+        "explanation": "错误往往源于词根发音不熟悉，导致音节错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank 150,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "engineering"
+    ],
+    "tags": [
+      "physics",
+      "time-related",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

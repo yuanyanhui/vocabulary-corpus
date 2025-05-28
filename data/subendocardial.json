@@ -1,0 +1,243 @@
+{
+  "word": "subendocardial",
+  "phonetics": {
+    "british": "/ˌsʌbˌɛn.dəʊˈkɑː.di.əl/",
+    "american": "/ˌsʌbˌɛn.doʊˈkɑr.di.əl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or situated beneath the endocardium, the inner lining of the heart chambers.",
+      "chineseTranslation": "位于心内膜下的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subendocardial infarction",
+      "meaning": "心内膜下梗塞",
+      "example": "The patient was diagnosed with subendocardial infarction after the ECG results.",
+      "exampleTranslation": "患者在心电图结果后被诊断为心内膜下梗塞。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "subendocardial layer",
+      "meaning": "心内膜下层",
+      "example": "The subendocardial layer is particularly vulnerable to ischemia.",
+      "exampleTranslation": "心内膜下层特别容易受到缺血影响。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Subendocardial fibrosis is a common finding in patients with chronic hypertension.",
+      "translation": "心内膜下纤维化是慢性高血压患者常见的发现。",
+      "source": "Medical journal (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers used advanced imaging to assess subendocardial perfusion in heart disease studies.",
+      "translation": "研究人员使用先进成像技术评估心脏病研究中的心内膜下灌注。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In veterinary medicine, subendocardial lesions can indicate underlying cardiac issues in animals.",
+      "translation": "在兽医学中，心内膜下病变可以指示动物潜在的心脏问题。",
+      "source": "Academic text (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "under or below",
+        "language": "Latin"
+      },
+      {
+        "root": "endo-",
+        "meaning": "within or inside",
+        "language": "Greek"
+      },
+      {
+        "root": "cardial",
+        "meaning": "pertaining to the heart",
+        "language": "Greek (from 'kardia', meaning heart)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪医学术语的演变，'sub-' 表示位置上的'下方'，'endo-' 表示'内部'，'cardial' 来自希腊语心脏相关词汇。通过组合，这些词根在解剖学语境中发展成描述心脏内层结构的位置关系，从早期的拉丁-希腊混合术语演变为现代英语医学词汇。",
+    "firstKnownUse": "Circa 1880, in anatomical and pathological contexts",
+    "relatedWords": [
+      "endocardium",
+      "subendothelial",
+      "pericardial",
+      "myocardial"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (根据 CEFR 标准，适合高级学习者，因为它是专业术语)",
+    "pronunciationDifficulty": "7 (1-10 量表，因为包含多个音节和元音变体，可能对非母语者造成发音挑战，如 /dəʊ/ 与 /doʊ/ 的区分)",
+    "spellingDifficulty": "8 (1-10 量表，拼写复杂，涉及前缀和复合词根，容易误写为 'sub-endocardial' 或 'subendocardal')",
+    "meaningComplexity": "9 (1-10 量表，语义依赖于专业知识，需要理解心脏解剖结构)",
+    "usageComplexity": "8 (1-10 量表，仅限于技术语境，使用时需结合其他医学术语)",
+    "learningTips": [
+      "使用分块记忆法，将词分解为 'sub-'、'endo-' 和 'cardial'，并与视觉图像（如心脏横截面图）关联；根据认知科学原理，重复在上下文中应用以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subendocardiac",
+        "similarity": "0.95",
+        "context": "主要在医学文献中互换使用，描述心脏内层结构"
+      },
+      {
+        "word": "intramyocardial",
+        "similarity": "0.70",
+        "context": "在心脏病理学语境中，强调内部心肌层，但不如完全同义"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "epicardial",
+        "context": "描述心脏外层结构，与 'subendocardial' 的内部位置相对，在解剖学讨论中对比使用"
+      },
+      {
+        "word": "pericardial",
+        "context": "指心脏周围的膜层，在心脏解剖的整体描述中作为对立概念"
+      }
+    ],
+    "hypernyms": [
+      "cardiac",
+      "anatomical"
+    ],
+    "hyponyms": [
+      "subendocardial infarction",
+      "subendocardial fibrosis"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + subendocardial (e.g., subendocardial + disease/infarction)",
+        "examples": [
+          "subendocardial disease",
+          "subendocardial perfusion"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + subendocardial (e.g., chronic subendocardial)",
+        "examples": [
+          "chronic subendocardial damage"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征精确的解剖学描述，隐含语义强调预防性心脏健康管理，但在非西方文化中，可能与整体主义健康观（如中医）形成对比。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于临床报告中",
+        "usage": "在美国英语中，强调在心血管研究的实证应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能在学术出版物中更正式",
+        "usage": "在英国英语中，与欧洲医学传统结合，常见于历史性解剖学文本"
+      }
+    ],
+    "historicalContext": "与19世纪解剖学革命相关，如威廉·哈维的心脏循环理论影响，体现了科学理性主义在医学中的应用。",
+    "modernUsage": "在社交媒体和在线健康论坛中，偶尔出现于科普内容，但主要限于专业圈子，如 telemedicine 或健康应用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个剖开的 hearts（心脏），其中 'subendocardial' 层如地下室般位于内层，象征 'sub-' 的下方位置。",
+      "keyElements": [
+        "心脏剖面图",
+        "地下室形象",
+        "内部结构"
+      ],
+      "emotionalConnection": "联结个人经验，如回想体检经历，触发对健康重要性的情绪共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub (潜水) + Endo (内部) + Cardiac (心脏) = 潜入心脏内部层",
+        "explanation": "通过视觉联想帮助记忆词根，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-C: Sub-endo-Cardial 像秘密通道进入心脏",
+        "explanation": "使用缩写创建故事，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "submarine",
+      "endoscope",
+      "cardiology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more subendocardial",
+      "superlative": "most subendocardial"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun (e.g., subendocardial tissue)",
+        "description": "作为定语修饰名词，描述特定解剖位置",
+        "examples": [
+          "The subendocardial tissue showed signs of inflammation."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., in the subendocardial region)",
+        "description": "用于表示位置关系",
+        "examples": [
+          "Infections often occur in the subendocardial region."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'subendothelial' (which relates to blood vessels)",
+        "correction": "Use 'subendocardial' only for heart structures",
+        "explanation": "二者词根相似，但语境不同，需注意精确性以避免医学误解"
+      },
+      {
+        "mistake": "Incorrect hyphenation, e.g., 'sub-endocardial'",
+        "correction": "Write as one word: 'subendocardial'",
+        "explanation": "现代英语中不使用连字符，除非在特定风格指南"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Rare (e.g., ranked below 10,000 in COCA corpus, primarily in medical domains)",
+    "domains": [
+      "科技",
+      "医学",
+      "生物学"
+    ],
+    "tags": [
+      "解剖学",
+      "心脏病学",
+      "专业术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "Merriam-Webster Medical Dictionary"
+    ]
+  }
+}

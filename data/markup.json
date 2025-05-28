@@ -1,0 +1,265 @@
+{
+  "word": "markup",
+  "phonetics": {
+    "british": "/ˈmɑːkʌp/",
+    "american": "/ˈmɑrkʌp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and typesetting, the process of adding codes or tags to text to indicate its structure, formatting, or presentation, such as in HTML or XML.",
+      "chineseTranslation": "在计算机和排版中，用于向文本添加代码或标签以指示其结构、格式或呈现方式，例如在 HTML 或 XML 中",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The amount added to the cost price of a product to cover overheads, profit, and other expenses in business and retail.",
+      "chineseTranslation": "在商业和零售中，添加到产品成本价格中的加价额，以覆盖开销、利润和其他费用",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "business"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To add markup codes or tags to text or data for formatting purposes.",
+      "chineseTranslation": "向文本或数据添加标记代码或标签以进行格式化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "HTML markup",
+      "meaning": "HTML 标记",
+      "example": "The website's HTML markup needs to be optimized for better SEO.",
+      "exampleTranslation": "网站的 HTML 标记需要优化以提高 SEO 效果。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "price markup",
+      "meaning": "价格加价",
+      "example": "The store applied a 20% price markup on all seasonal items.",
+      "exampleTranslation": "商店对所有季节性商品应用了 20% 的价格加价。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "apply markup",
+      "meaning": "应用标记",
+      "example": "Developers must apply markup carefully to ensure the document renders correctly.",
+      "exampleTranslation": "开发人员必须仔细应用标记，以确保文档正确呈现。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The web developer used HTML markup to structure the page layout.",
+      "translation": "网页开发人员使用 HTML 标记来构建页面布局。",
+      "source": "Technical documentation from W3C (World Wide Web Consortium)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In retail, a standard markup on goods helps maintain profitability.",
+      "translation": "在零售业，商品的标准加价有助于维持盈利能力。",
+      "source": "Business article from The Economist",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She learned to markup her essays with annotations for better editing.",
+      "translation": "她学会了用注释标记她的文章以进行更好的编辑。",
+      "source": "Educational context from academic writing guides",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The software automatically applies markup to imported text files.",
+      "translation": "软件自动向导入的文本文件应用标记。",
+      "source": "Software user manual",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "mark",
+        "meaning": "To indicate or denote",
+        "language": "Old English (from Proto-Germanic *markō)"
+      },
+      {
+        "root": "up",
+        "meaning": "In an upward direction or addition",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自 15 世纪的英语 'mark'（标记或指示），结合 'up' 表示添加或提升。起初用于商业语境中的加价（17 世纪），后来扩展到排版和计算机科学中（如 20 世纪的 HTML 发展），反映了技术进步对语言的影响。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "markdown",
+      "markup language",
+      "mark up"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象 'markup' 如在网页上添加标签的画面，以增强空间记忆；对于中文学习者，结合母语比喻如 '加价' 与 '标记' 的双重含义，通过重复练习和语境切换减少混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "annotation",
+        "similarity": "0.7",
+        "context": "在技术语境中，用于描述添加标签的动作"
+      },
+      {
+        "word": "surcharge",
+        "similarity": "0.6",
+        "context": "在商业语境中，表示价格上的额外添加"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discount",
+        "context": "在商业语境中，表示价格减少"
+      },
+      {
+        "word": "plaintext",
+        "context": "在技术语境中，表示无标记的原始文本"
+      }
+    ],
+    "hypernyms": [
+      "annotation",
+      "pricing strategy"
+    ],
+    "hyponyms": [
+      "HTML tagging",
+      "profit margin"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + markup (e.g., HTML markup)",
+        "examples": [
+          "Use HTML markup for web design."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + markup (e.g., apply markup)",
+        "examples": [
+          "They apply markup to the text files."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'markup' 象征技术创新和商业实践，体现效率与利润的价值观；在中文文化中，可能与 '加价' 相关联，隐含市场经济下的公平交易议题。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in business for pricing",
+        "usage": "在美国英语中，常与零售和电子商务相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Emphasizes technical usage in publishing",
+        "usage": "在英国英语中，更侧重于排版和媒体领域"
+      }
+    ],
+    "historicalContext": "与工业革命和数字时代相关，起源于印刷术的演变，并扩展到互联网文化；例如，在文学和社会评论中，代表信息组织的工具。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于描述内容创建，如 TikTok 或 WeChat 的标记功能，反映全球化数字交流趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个网页编辑器画面，其中 'markup' 如画家在画布上添加标记，帮助构建结构。",
+      "keyElements": [
+        "网页标签",
+        "价格标签",
+        "添加动作"
+      ],
+      "emotionalConnection": "联结个人购物经历中的加价感受，或编程时的成就感，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Markup 像 'mark up' 一个台阶，代表添加或提升。",
+        "explanation": "通过视觉联想词根 'mark' 和 'up'，帮助中文学习者建立空间和层次记忆，避免混淆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈmɑrkʌp/ 听起来像 '马克上'，与著名品牌或上升概念关联。",
+        "explanation": "利用声音相似性，结合个人经验增强听觉记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "tag",
+      "price",
+      "code",
+      "annotate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "markups",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the HTML markup')",
+        "description": "用作名词时，常出现在定语结构中，表示具体类型",
+        "examples": [
+          "The markup on this product is 15%."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., 'apply markup to')",
+        "description": "用作动词时，通常与直接宾语搭配",
+        "examples": [
+          "We need to markup the document carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'markup' with 'markdown'",
+        "correction": "Use 'markup' for adding tags or price increases",
+        "explanation": "中文学习者常混淆二者，因为 'markdown' 意为减少或标记语言；需区分语境。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'markups' for plural",
+        "explanation": "作为可数名词，需注意复数形式以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 words in COCA corpus for technical domains",
+    "domains": [
+      "technology",
+      "business",
+      "publishing"
+    ],
+    "tags": [
+      "computing",
+      "economics",
+      "language processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

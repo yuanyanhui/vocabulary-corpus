@@ -1,0 +1,253 @@
+{
+  "word": "adjacency",
+  "phonetics": {
+    "british": "/əˈdʒeɪsənsi/",
+    "american": "/əˈdʒeɪsənsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state of being next to or adjoining something; nearness in space or position.",
+      "chineseTranslation": "邻近；毗邻",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics and computer science, a relationship between elements that are directly connected, such as in graphs or matrices.",
+      "chineseTranslation": "（数学或计算机科学中的）相邻关系",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adjacency matrix",
+      "meaning": "相邻矩阵",
+      "example": "In graph theory, an adjacency matrix is used to represent the connections between vertices.",
+      "exampleTranslation": "在图论中，相邻矩阵用于表示顶点之间的连接。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "adjacency effect",
+      "meaning": "相邻效应",
+      "example": "The adjacency effect in photography refers to the influence of neighboring areas on image development.",
+      "exampleTranslation": "在摄影中，相邻效应指的是相邻区域对图像发展的影响。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The adjacency of the two buildings made it easy to move between them.",
+      "translation": "两座建筑的邻近使得在它们之间移动变得容易。",
+      "source": "General English corpus, e.g., COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In urban planning, adjacency to public transport is a key factor for residential development.",
+      "translation": "在城市规划中，与公共交通的毗邻是住宅开发的关键因素。",
+      "source": "News articles, e.g., The Guardian",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The algorithm analyzes the adjacency of nodes in the network to detect potential vulnerabilities.",
+      "translation": "该算法分析网络中节点的相邻关系以检测潜在漏洞。",
+      "source": "Technical literature, e.g., IEEE publications",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "adiacens",
+        "meaning": "lying near",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "to, toward",
+        "language": "Latin"
+      },
+      {
+        "root": "iacens",
+        "meaning": "lying",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'adiacens'，意为 '靠近的' 或 '相邻的'。通过古法语 'adjacence' 传入中世纪英语，最终演变为现代英语 'adjacency'，从最初的空间位置描述扩展到数学和抽象关系的语义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "adjacent",
+      "adjacency list",
+      "proximity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'adjacency' 与视觉图示（如图形网络）关联，以增强空间记忆；通过重复暴露于真实语境中强化语义网络，避免混淆类似词汇如 'proximity'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "proximity",
+        "similarity": "0.8",
+        "context": "在描述空间或时间上的接近时使用，例如在地理或社会语境中"
+      },
+      {
+        "word": "contiguity",
+        "similarity": "0.7",
+        "context": "强调直接接触或连续性，常用于学术或技术语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "distance",
+        "context": "在强调分离或遥远时使用，例如在物理或关系语境中"
+      },
+      {
+        "word": "remoteness",
+        "context": "描述远离或不相关的情况，常用于地理或抽象概念"
+      }
+    ],
+    "hypernyms": [
+      "relationship",
+      "connection"
+    ],
+    "hyponyms": [
+      "spatial adjacency",
+      "temporal adjacency"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjacency of [noun]",
+        "examples": [
+          "adjacency of elements",
+          "adjacency of properties"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in [context] adjacency",
+        "examples": [
+          "in graph adjacency",
+          "in urban adjacency"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征空间或社会关系的紧密性，常用于城市规划和数字技术中，隐含着社区互动和连接的积极含义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，'adjacency' 在科技和商业讨论中频率较高，例如在硅谷的创新语境"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向于正式或学术表达",
+        "usage": "在英国英语中，常与历史建筑或地理描述相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关的城市扩张中，该词用于描述社区布局；在现代，关联文学如狄更斯的作品中描绘社会邻近性。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述在线连接，如社交网络中的 'adjacency'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个相邻的建筑物或图中的相连节点，如一个网络地图。",
+      "keyElements": [
+        "建筑物",
+        "节点",
+        "连接线"
+      ],
+      "emotionalConnection": "联结个人经验，如回想儿时邻居房屋，触发熟悉感和亲切情绪以加深记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Adjacency 像 'adjacent' 的扩展，联想到 'add join' – 添加连接。",
+        "explanation": "通过词根联想将 'ad-'（添加）和 'jacency'（连接）可视化，帮助构建语义网络。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /əˈdʒeɪsənsi/ 听起来像 'a day since'，联想到 '一天以来的接近'。",
+        "explanation": "利用声音相似性强化记忆，结合个人日常生活场景。"
+      }
+    ],
+    "wordAssociations": [
+      "near",
+      "next",
+      "link",
+      "connect"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "adjacencies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + adjacency + of + [noun]",
+        "description": "用于描述特定关系的结构",
+        "examples": [
+          "the adjacency of the parks"
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "常与介词如 'in' 或 'of' 搭配",
+        "examples": [
+          "in terms of adjacency"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'adjacency' and 'adjacent'",
+        "correction": "Use 'adjacency' for the state and 'adjacent' for the adjective form",
+        "explanation": "学习者常混淆词性；建议通过句法练习区分。"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Replace with simpler synonyms like 'nearness' in everyday speech",
+        "explanation": "在非正式语境中，避免生涩表达以提高沟通效率。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "mathematics",
+      "urban planning",
+      "social sciences"
+    ],
+    "tags": [
+      "spatial",
+      "connection",
+      "technical",
+      "abstract"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

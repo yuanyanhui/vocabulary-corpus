@@ -1,0 +1,257 @@
+{
+  "word": "diagonal",
+  "phonetics": {
+    "british": "/daɪˈæɡənl/",
+    "american": "/daɪˈæɡənəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Connecting two non-adjacent corners of a polygon or forming a straight line at an angle other than 90 degrees.",
+      "chineseTranslation": "对角线的；斜角的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A straight line joining two opposite corners of a shape, such as a rectangle or polygon.",
+      "chineseTranslation": "对角线；斜线",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In a slanted or oblique direction, often used in contexts like design or mathematics.",
+      "chineseTranslation": "斜向的；对角的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "draw a diagonal line",
+      "meaning": "画一条对角线",
+      "example": "She used a ruler to draw a diagonal line across the paper.",
+      "exampleTranslation": "她用尺子在纸上画了一条对角线。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "diagonal matrix",
+      "meaning": "对角矩阵（数学术语，指主对角线外元素均为零的矩阵）",
+      "example": "In linear algebra, a diagonal matrix simplifies many calculations.",
+      "exampleTranslation": "在线性代数中，对角矩阵简化了许多计算。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "cut on the diagonal",
+      "meaning": "沿对角线切割",
+      "example": "The chef advised to cut the vegetables on the diagonal for better presentation.",
+      "exampleTranslation": "厨师建议沿对角线切割蔬菜以获得更好的呈现效果。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist incorporated diagonal lines to create a sense of movement in the painting.",
+      "translation": "艺术家在画中加入了对角线来创造运动感。",
+      "source": "Art and design literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In geometry, the diagonal of a square is longer than its side.",
+      "translation": "在几何学中，正方形的对角线比其边长。",
+      "source": "Educational textbooks",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The fashion designer used diagonal seams to add a modern twist to the dress.",
+      "translation": "时装设计师使用对角线缝合为裙子增添现代感。",
+      "source": "Fashion magazines",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dia-",
+        "meaning": "through or across",
+        "language": "Greek"
+      },
+      {
+        "root": "gonia",
+        "meaning": "angle",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊的“diagnōnios”，意为从一个角度到另一个角度的线条；通过拉丁语“diagonalis”传入英语，并在16世纪的几何学中发展为现代意义，逐渐扩展到设计和日常语言。",
+    "firstKnownUse": "1570",
+    "relatedWords": [
+      "diagonalize",
+      "diagnose"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉辅助工具如绘图软件来强化空间概念；结合认知科学原理，通过重复性练习和关联记忆，将词汇与个人经验（如几何图形）联系起来，以提升长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "oblique",
+        "similarity": "0.8",
+        "context": "适用于描述非直角线条的语境，如艺术设计中"
+      },
+      {
+        "word": "slanted",
+        "similarity": "0.7",
+        "context": "常用于非正式描述倾斜物体的场景中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "perpendicular",
+        "context": "适用于垂直线条的语境，如建筑或数学中"
+      },
+      {
+        "word": "horizontal",
+        "context": "适用于平行于地平线的语境，如地图描述中"
+      }
+    ],
+    "hypernyms": [
+      "line"
+    ],
+    "hyponyms": [
+      "space diagonal",
+      "face diagonal"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., diagonal line)",
+        "examples": [
+          "a diagonal cut",
+          "the main diagonal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + preposition + diagonal (e.g., draw along the diagonal)",
+        "examples": [
+          "run along the diagonal"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征动态和不对称，常用于艺术（如现代主义绘画）和设计中，隐含着打破传统对称性的创新精神；在跨文化语境中，中国学习者可能将其与传统几何或书法中的线条概念关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机图形学",
+        "usage": "在美国英语中，常在科技和日常对话中出现，例如描述手机屏幕的斜角设计"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能更侧重于数学教育语境",
+        "usage": "在英国英语中，常在学校教学中强调其几何含义"
+      }
+    ],
+    "historicalContext": "与古希腊几何学（如欧几里得的著作）相关，在文艺复兴时期通过拉丁语传入英语，并影响了现代建筑和艺术运动，如包豪斯设计。",
+    "modernUsage": "在社交媒体和数字平台上，常见于时尚、游戏和科技讨论中，例如描述照片的构图或视频游戏的视角。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个正方形棋盘，画一条从一个角落到对角角落的线条，代表连接非相邻点的路径。",
+      "keyElements": [
+        "正方形",
+        "角落",
+        "线条"
+      ],
+      "emotionalConnection": "联结到个人经验，如玩国际象棋或绘制手绘图，触发积极的学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'dia' as 'across' and 'gonal' as 'angle', so diagonal means 'across the angle'.",
+        "explanation": "通过词根联想强化词汇记忆，基于认知科学中的语义网络理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /daɪˈæɡənl/ 听起来像 'die-AG-on-al', 想象死亡（die）后灵魂（ag）穿越角度（on al）。",
+        "explanation": "利用声音与图像的联结，增强记忆痕迹"
+      }
+    ],
+    "wordAssociations": [
+      "oblique",
+      "slant",
+      "angle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "diagonals",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more diagonal",
+      "superlative": "most diagonal"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词的结构，常用于描述物体方向",
+        "examples": [
+          "a diagonal path"
+        ]
+      },
+      {
+        "pattern": "Noun as Subject",
+        "description": "作为名词用在主语位置的结构，常在数学语境中",
+        "examples": [
+          "The diagonal connects the corners."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'diagnosis'",
+        "correction": "Use 'diagonal' for lines and 'diagnosis' for medical analysis.",
+        "explanation": "二者虽有相同词根，但语义不同；学习者需注意拼写差异以避免混淆"
+      },
+      {
+        "mistake": "Incorrectly using as a verb",
+        "correction": "Do not use 'diagonal' as a verb; instead, use phrases like 'draw a diagonal'.",
+        "explanation": "该词仅为形容词或名词，避免非标准用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "design",
+      "art"
+    ],
+    "tags": [
+      "geometry",
+      "direction",
+      "spatial"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

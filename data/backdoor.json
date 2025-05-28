@@ -1,0 +1,274 @@
+{
+  "word": "backdoor",
+  "phonetics": {
+    "british": "/ˈbæk.dɔː/",
+    "american": "/ˈbæk.dɔːr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An entrance at the rear of a building or property, often used for service or discreet access.",
+      "chineseTranslation": "建筑物的后门",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a hidden method of bypassing normal authentication or security measures, often exploited for unauthorized access.",
+      "chineseTranslation": "在计算机安全中，指隐藏的绕过正常认证的后门程序",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gain access or achieve something through an indirect or secretive method.",
+      "chineseTranslation": "通过间接或秘密方式获得进入或达成某事",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Describing something done in a secretive or unofficial manner.",
+      "chineseTranslation": "秘密的或非正式的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "backdoor entry",
+      "meaning": "通过后门进入",
+      "example": "The thieves gained backdoor entry to the museum after dark.",
+      "exampleTranslation": "盗贼在天黑后通过后门进入博物馆。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "backdoor access",
+      "meaning": "后门访问权限",
+      "example": "Hackers exploited a backdoor access to steal sensitive data.",
+      "exampleTranslation": "黑客利用后门访问权限窃取了敏感数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "backdoor deal",
+      "meaning": "秘密交易",
+      "example": "The politician was accused of making a backdoor deal with lobbyists.",
+      "exampleTranslation": "那位政客被指控与游说者进行秘密交易。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She always uses the backdoor to avoid the noisy front entrance.",
+      "translation": "她总是使用后门来避开嘈杂的前门。",
+      "source": "Daily conversation (informal context)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Cybersecurity experts warn about the risks of backdoor vulnerabilities in software.",
+      "translation": "网络安全专家警告软件中后门漏洞的风险。",
+      "source": "Technology news article (formal context)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The company tried to push through the policy change via a backdoor method.",
+      "translation": "公司试图通过秘密方式推动政策变更。",
+      "source": "Business report (neutral context)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In historical contexts, smugglers often relied on backdoor routes to evade taxes.",
+      "translation": "在历史语境中，走私者经常依赖后门路线来逃避税收。",
+      "source": "Historical literature (academic context)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "back",
+        "meaning": "The rear part of something",
+        "language": "Old English (from Proto-Germanic *bakam)"
+      },
+      {
+        "root": "door",
+        "meaning": "An entrance barrier",
+        "language": "Old English (from Proto-Germanic *duriz)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'back' 和 'dor'，最初指建筑物的后入口。17世纪开始在比喻意义上扩展到秘密通道或非正式方式，尤其在19世纪的文学和商业语境中发展为计算机安全术语。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "back entrance",
+      "side door",
+      "hidden access"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (中等难度，主要由于元音 /æ/ 和 /ɔː/ 或 /oʊ/ 的差异，可能对中文母语者造成混淆)",
+    "spellingDifficulty": "3 (简单拼写，但复合词结构需注意)",
+    "meaningComplexity": "6 (语义多层，包括字面和比喻含义，需理解上下文)",
+    "usageComplexity": "5 (常见于不同语域，但比喻用法需文化背景)",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先学习字面含义，再通过关联图像（如想象房屋后门）连接到比喻含义；重复暴露于真实语料以强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "secret entrance",
+        "similarity": "0.8",
+        "context": "适用于建筑或安全语境中，表示隐秘进入方式"
+      },
+      {
+        "word": "loophole",
+        "similarity": "0.7",
+        "context": "在法律或技术语境中，表示规避规则的漏洞"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "front door",
+        "context": "适用于正式或公开进入的语境"
+      },
+      {
+        "word": "official channel",
+        "context": "在商业或行政语境中，表示正规程序"
+      }
+    ],
+    "hypernyms": [
+      "entrance",
+      "vulnerability"
+    ],
+    "hyponyms": [
+      "software backdoor",
+      "covert entry"
+    ],
+    "collocations": [
+      {
+        "pattern": "backdoor + noun (e.g., access, entry)",
+        "examples": [
+          "backdoor access",
+          "backdoor policy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + backdoor (e.g., install a backdoor)",
+        "examples": [
+          "exploit a backdoor"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征隐私、秘密或潜在风险，常与安全和信任主题相关；在中文文化中，可能联想到历史上的走私或现代网络安全问题，强调诚信和透明。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如网络安全",
+        "usage": "在美国英语中，强调数字隐私和黑客文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重字面含义，如建筑",
+        "usage": "在英国英语中，常用于日常或历史语境"
+      }
+    ],
+    "historicalContext": "与工业革命时期的建筑设计和20世纪的计算机发展相关，在文学如狄更斯的作品中出现作为社会隐喻。",
+    "modernUsage": "在社交媒体和数字时代，常见于网络讨论中，反映全球隐私担忧"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一间老式房屋，后门隐藏在阴影中，通往一个秘密花园。",
+      "keyElements": [
+        "房屋",
+        "阴影",
+        "秘密花园"
+      ],
+      "emotionalConnection": "联结到个人经历，如儿时探索后院的兴奋，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'backdoor' 联想为 'back' 的相反路径，像后退进入秘密空间。",
+        "explanation": "通过空间视觉化帮助记忆，基于认知科学的空间认知理论"
+      },
+      {
+        "type": "缩略",
+        "content": "B-A-C-K-D-O-O-R: Back Access Creates Key Door Openings Rapidly.",
+        "explanation": "使用首字母缩写创建故事，强化序列记忆"
+      }
+    ],
+    "wordAssociations": [
+      "secret",
+      "hack",
+      "entrance",
+      "hidden"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "backdoors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the backdoor of the house)",
+        "description": "作为名词使用在短语中，表示位置或方法",
+        "examples": [
+          "The backdoor was locked."
+        ]
+      },
+      {
+        "pattern": "Verb usage (e.g., to backdoor something)",
+        "description": "作为动词，表示秘密操作",
+        "examples": [
+          "They backdoor the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'back door' as two words",
+        "correction": "Use as one word in technical contexts",
+        "explanation": "在技术语境中，'backdoor' 为合成词，避免空格"
+      },
+      {
+        "mistake": "Overusing in formal writing",
+        "correction": "Replace with more precise terms like 'unauthorized access'",
+        "explanation": "为保持正式性，选择语境合适的同义词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "security",
+      "daily life"
+    ],
+    "tags": [
+      "computing",
+      "security",
+      "idiomatic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

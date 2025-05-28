@@ -1,0 +1,250 @@
+{
+  "word": "barcode",
+  "phonetics": {
+    "british": "/ˈbɑːkəʊd/",
+    "american": "/ˈbɑːrkoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine-readable code consisting of parallel lines of varying widths and spaces, used for identifying and tracking products in commerce and inventory management.",
+      "chineseTranslation": "条形码",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mark or label with a barcode for identification purposes.",
+      "chineseTranslation": "给...添加条形码",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scan a barcode",
+      "meaning": "扫描条形码",
+      "example": "The cashier scanned a barcode on the product to process the payment.",
+      "exampleTranslation": "收银员扫描了产品上的条形码来处理支付。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "barcode scanner",
+      "meaning": "条形码扫描器",
+      "example": "A barcode scanner is an essential tool in modern retail environments.",
+      "exampleTranslation": "条形码扫描器是现代零售环境中的 essential 工具。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "generate a barcode",
+      "meaning": "生成条形码",
+      "example": "Software can generate a barcode for each unique item in the database.",
+      "exampleTranslation": "软件可以为数据库中的每个唯一物品生成条形码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The supermarket uses barcodes to track inventory and reduce errors in stock management.",
+      "translation": "超市使用条形码来跟踪库存并减少库存管理中的错误。",
+      "source": "Business news article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She quickly barcoded the new shipment of books before placing them on the shelves.",
+      "translation": "她在将新的一批书籍放到架子前迅速给它们添加了条形码。",
+      "source": "Modern literature or everyday context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the tech industry, barcodes have evolved into more advanced systems like QR codes for mobile payments.",
+      "translation": "在科技行业，条形码已经演变为像二维码这样的更先进的系统，用于移动支付。",
+      "source": "Technology article (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "bar",
+        "meaning": "A line or strip, originally from Old English 'bearu' meaning barrier or edge",
+        "language": "Old English"
+      },
+      {
+        "root": "code",
+        "meaning": "A system of symbols for communication, from Latin 'codex' meaning book or set of laws",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中期，随着计算机和自动识别技术的发展。最初用于商业库存管理，首次在1970年代广泛应用，源自于对条状图案编码的需求。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "QR code",
+      "UPC code",
+      "EAN code"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象条形码如条纹图案的'条'，并通过重复扫描动作强化记忆；使用间隔重复法（spaced repetition）来巩固。",
+      "针对中文母语学习者，强调发音中的元音差异，如英式 /ɑː/ 与美式 /ɑːr/，并通过比较相似词汇如 'bar' 和 'code' 来构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "scan code",
+        "similarity": "0.8",
+        "context": "在商业和库存管理语境中，主要用于产品标识"
+      },
+      {
+        "word": "identification code",
+        "similarity": "0.7",
+        "context": "在技术或数据处理语境中，用于泛指编码系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "manual entry",
+        "context": "在需要人工输入而非自动扫描的语境中，常用于对比自动化系统"
+      }
+    ],
+    "hypernyms": [
+      "code",
+      "identifier"
+    ],
+    "hyponyms": [
+      "UPC barcode",
+      "EAN barcode"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + barcode (e.g., scan, read)",
+        "examples": [
+          "Scan the barcode",
+          "Read the barcode"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "barcode + noun (e.g., scanner, label)",
+        "examples": [
+          "Barcode scanner",
+          "Barcode label"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "条形码在现代商业文化中象征着效率和自动化，常隐含全球贸易标准化的含义，在跨文化交流中体现技术进步。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "UPC (Universal Product Code) is more common",
+        "usage": "在美国，主要用于零售产品标识，强调标准化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "EAN (European Article Number) is prevalent",
+        "usage": "在英国和欧洲，更多用于国际贸易以确保兼容性"
+      }
+    ],
+    "historicalContext": "与20世纪后期的工业革命和信息技术发展相关，例如1974年首次商业使用UPC码，体现了从手动记录向数字化的转变。",
+    "modernUsage": "在社交媒体和电子商务中流行，例如通过手机应用扫描条形码进行支付或信息查询，反映数字时代的生活方式"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个超市场景，其中条形码如黑白条纹的'条'，代表产品上的'代码'，像监狱的栅栏（bar）保护信息。",
+      "keyElements": [
+        "条纹图案",
+        "扫描动作",
+        "产品标签"
+      ],
+      "emotionalConnection": "联结个人购物经验，例如回忆扫描条形码时的 beep 声音，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Barcode 像 'bar' (酒吧) 加 'code' (密码)，想象在酒吧用密码条扫描进入。",
+        "explanation": "通过视觉和情感联想增强记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈbɑːrkoʊd/ 听起来像 'bar code'，联想到条形条纹的代码。",
+        "explanation": "利用声音与图像的联觉，帮助中文母语者记忆发音差异"
+      }
+    ],
+    "wordAssociations": [
+      "scan",
+      "product",
+      "inventory",
+      "QR code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "barcodes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the barcode on the package)",
+        "description": "作为名词，常用于描述产品标识",
+        "examples": [
+          "The barcode on the package is damaged."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., barcode the items)",
+        "description": "作为动词，用于表示添加标识",
+        "examples": [
+          "We need to barcode the items before shipping."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'barcode' with 'bar code' as separate words",
+        "correction": "Use 'barcode' as one word",
+        "explanation": "在现代英语中，它已演变为一个复合词，避免空格以符合标准用法"
+      },
+      {
+        "mistake": "Misusing as a verb without object",
+        "correction": "Always include an object, e.g., 'barcode the products'",
+        "explanation": "动词形式需要直接宾语，以清晰表达动作对象"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "commerce",
+      "retail"
+    ],
+    "tags": [
+      "technology",
+      "identification",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

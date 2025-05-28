@@ -1,0 +1,281 @@
+{
+  "word": "stacks",
+  "phonetics": {
+    "british": "/stæks/",
+    "american": "/stæks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A pile or heap of objects, typically one that is neatly arranged.",
+      "chineseTranslation": "一堆或一叠物体，通常整齐排列",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (slang)",
+      "definition": "A large amount of money or wealth.",
+      "chineseTranslation": "大量金钱或财富（俚语）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange or pile up objects in a stack.",
+      "chineseTranslation": "将物体堆叠或排列成堆",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "A data structure that operates on the Last In, First Out (LIFO) principle.",
+      "chineseTranslation": "一种数据结构，按照后进先出（LIFO）原则运作",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stack of books",
+      "meaning": "一堆书籍",
+      "example": "She has a stack of books on her desk.",
+      "exampleTranslation": "她的桌子上有一堆书籍。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "stack up",
+      "meaning": "堆积起来或积累",
+      "example": "The boxes began to stack up in the corner.",
+      "exampleTranslation": "箱子开始在角落里堆积起来。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "stacks of cash",
+      "meaning": "大量现金",
+      "example": "He won stacks of cash in the lottery.",
+      "exampleTranslation": "他在彩票中赢得了大量现金。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The library has stacks of old newspapers archived for research.",
+      "translation": "图书馆有大量旧报纸存档用于研究。",
+      "source": "Academic literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, stacks are essential for managing function calls.",
+      "translation": "在编程中，栈对于管理函数调用至关重要。",
+      "source": "Technical documentation (e.g., from online coding resources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the party, stacks of plates were left in the sink.",
+      "translation": "派对结束后，一堆盘子留在了水槽里。",
+      "source": "Daily conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He's got stacks of money from his new business venture.",
+      "translation": "他从新的商业冒险中获得了大量金钱。",
+      "source": "Informal media (e.g., from social media or entertainment news)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "stac",
+        "meaning": "A pile or heap",
+        "language": "Old English"
+      },
+      {
+        "root": "stakkr",
+        "meaning": "A haystack or pile",
+        "language": "Old Norse"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'stac'，意为堆积物，可能受古诺尔斯语 'stakkr' 影响，逐渐演变为现代英语中表示堆叠或积累的概念。从中世纪开始，该词扩展到抽象意义，如财富的积累，并在20世纪流行文化中发展出俚语用法。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "stacked",
+      "stacking",
+      "stacker"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一堆金币来记忆俚语含义；使用间隔重复法（spaced repetition）强化多义词的区分，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pile",
+        "similarity": "0.8",
+        "context": "在描述物体堆积的语境中，例如日常对话"
+      },
+      {
+        "word": "heap",
+        "similarity": "0.7",
+        "context": "强调无序堆积的非正式场合"
+      },
+      {
+        "word": "fortune",
+        "similarity": "0.6",
+        "context": "用于俚语表示大量金钱的文化语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "在描述分散而不是堆积的语境中"
+      },
+      {
+        "word": "empty",
+        "context": "表示缺乏堆积物的语境，例如贫穷"
+      }
+    ],
+    "hypernyms": [
+      "collection",
+      "structure"
+    ],
+    "hyponyms": [
+      "haystack",
+      "call stack"
+    ],
+    "collocations": [
+      {
+        "pattern": "stack of + noun",
+        "examples": [
+          "stack of papers",
+          "stack of coins"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + stack",
+        "examples": [
+          "build a stack",
+          "clear the stack"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征积累和财富，尤其在俚语中代表成功或物质丰裕；在跨文化语境中，中国学习者可能将之与'金山银山'类比，以理解其隐含的社会地位含义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于俚语表示金钱",
+        "usage": "在美国流行文化中，如说唱音乐中，'stacks' 强调物质成功"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向于中性或技术语境",
+        "usage": "在英国英语中，常用于描述物理堆积物，而非俚语"
+      }
+    ],
+    "historicalContext": "该词与工业革命时期的堆积物（如烟囱stacks）相关联，在文学如狄更斯作品中象征城市化；在现代，关联社交媒体上的财富展示。",
+    "modernUsage": "在社交媒体和商业语境下流行，用于表达快速积累，如在线购物中的'product stacks'"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高塔状的金币堆，代表财富积累。",
+      "keyElements": [
+        "金币塔",
+        "堆叠结构",
+        "财富象征"
+      ],
+      "emotionalConnection": "联结个人财务目标或童年堆积积木的经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Stacks sounds like 'sticks' – think of sticks piled up like money stacks.",
+        "explanation": "通过声音联想将发音与视觉图像连接，提升认知保留"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-A-C-K: Stands for 'Something Tall And Collected Quickly'.",
+        "explanation": "使用首字母缩略法结合语义，帮助中级学习者快速回忆多义"
+      }
+    ],
+    "wordAssociations": [
+      "pile",
+      "wealth",
+      "code",
+      "tower"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "stacks",
+      "pastTense": "stacked",
+      "pastParticiple": "stacked",
+      "presentParticiple": "stacking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + stack + of + noun",
+        "description": "用作名词短语，表示堆积物的结构",
+        "examples": [
+          "A stack of files"
+        ]
+      },
+      {
+        "pattern": "Verb phrase: Subject + verb + object",
+        "description": "用作动词，表示动作",
+        "examples": [
+          "They stack the boxes"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'stacks' as a verb without proper conjugation",
+        "correction": "Use 'stacked' for past tense",
+        "explanation": "中文学习者常忽略动词时态变化，导致语法错误"
+      },
+      {
+        "mistake": "Confusing with similar words like 'sticks'",
+        "correction": "Distinguish based on context",
+        "explanation": "通过语境区分以避免语音混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "技术",
+      "商业"
+    ],
+    "tags": [
+      "名词",
+      "动词",
+      "俚语",
+      "数据结构"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

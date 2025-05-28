@@ -1,0 +1,253 @@
+{
+  "word": "compile",
+  "phonetics": {
+    "british": "/kəmˈpaɪl/",
+    "american": "/kəmˈpaɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gather information and arrange it in a book, report, or list.",
+      "chineseTranslation": "收集并整理信息编成书、报告或列表",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to translate source code written in a programming language into machine code that a computer can execute.",
+      "chineseTranslation": "在计算机中，将源代码翻译成机器代码",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of translating source code into machine code.",
+      "chineseTranslation": "编译过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "compile a list",
+      "meaning": "编制一个列表",
+      "example": "She decided to compile a list of essential items for the trip.",
+      "exampleTranslation": "她决定为这次旅行编制一份必需品列表。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "compile code",
+      "meaning": "编译代码",
+      "example": "The programmer needs to compile code before running the program.",
+      "exampleTranslation": "程序员需要在运行程序前编译代码。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "compile data",
+      "meaning": "收集并整理数据",
+      "example": "Researchers compile data from various sources to support their hypothesis.",
+      "exampleTranslation": "研究人员从各种来源收集并整理数据来支持他们的假设。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The historian spent years compiling documents for the archive.",
+      "translation": "这位历史学家花了数年时间为档案馆收集文件。",
+      "source": "Historical literature, e.g., from academic texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, you must compile the source code to check for errors.",
+      "translation": "在软件开发中，你必须编译源代码来检查错误。",
+      "source": "Technical manuals, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The team will compile a report on market trends by the end of the month.",
+      "translation": "团队将在月底前编制一份市场趋势报告。",
+      "source": "Business news, e.g., from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "compilare",
+        "meaning": "to heap up or plunder",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'compilare'，意为堆积或掠夺，演变为中世纪拉丁语表示收集材料之意。进入古法语 'compiler'，再到中古英语，指收集和整理信息的过程。到现代英语，尤其在17世纪后，在计算机领域扩展为代码转换。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "compendium",
+      "compilement"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过分块学习（chunking）将 'compile' 的计算机含义与日常收集概念关联；使用双编码（dual coding）将词汇与视觉图像配对，例如想象堆积积木的过程来记忆其拉丁语词根；针对中文母语学习者，强调语境练习以区分其在技术 vs. 非技术语境中的使用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assemble",
+        "similarity": "0.8",
+        "context": "在非技术语境中，用于收集信息，例如 'assemble data' 与 'compile data' 类似"
+      },
+      {
+        "word": "gather",
+        "similarity": "0.7",
+        "context": "适用于一般收集活动，但不如 'compile' 强调系统整理"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dismantle",
+        "context": "在技术语境中，表示拆解或分解代码，与编译相反"
+      },
+      {
+        "word": "scatter",
+        "context": "表示分散信息，与编译的收集功能相对"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "convert"
+    ],
+    "hyponyms": [
+      "build",
+      "translate"
+    ],
+    "collocations": [
+      {
+        "pattern": "compile + noun (e.g., list, code)",
+        "examples": [
+          "compile a report",
+          "compile software"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be compiled from + source",
+        "examples": [
+          "The book was compiled from ancient texts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征系统化和知识积累，尤其在学术和科技领域，体现了西方文化对信息组织的重视，但无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'compile' 在软件行业高度流行，源自计算机革命"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可用于更正式的非技术语境，如历史编纂",
+        "usage": "在英国英语中，强调其历史性含义，常见于学术写作"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，强调知识编译的理性主义；在现代，关联计算机科学发展，如自20世纪50年代起。",
+    "modernUsage": "在社交媒体和数字平台上，'compile' 常用于内容创建，如编译视频或数据摘要，反映全球化信息时代趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工人在堆积积木来构建一座塔，这代表 'compile' 的收集和构建过程。",
+      "keyElements": [
+        "堆积积木",
+        "构建塔",
+        "代码转换"
+      ],
+      "emotionalConnection": "联结个人经验，如整理个人相册，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Compile 像 'come pile'，想象事物'来堆积'在一起。",
+        "explanation": "通过声音联想帮助记忆词根，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-M-P-I-L-E: Collect, Organize, Make, Pile, Into, Logical, Entity。",
+        "explanation": "使用首字母缩略法分解词汇，结合空间记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "gather",
+      "build",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "compiled",
+      "pastParticiple": "compiled",
+      "presentParticiple": "compiling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + compile + object",
+        "description": "主语 + 编译 + 宾语结构，常用于主动句",
+        "examples": [
+          "They compile reports annually."
+        ]
+      },
+      {
+        "pattern": "Be + compiled + from",
+        "description": "被编译自...的被动结构",
+        "examples": [
+          "The data is compiled from multiple sources."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'comply'",
+        "correction": "Use 'compile' for gathering, not 'comply' which means to obey.",
+        "explanation": "中文母语学习者常混淆音似词；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure regular past tense 'compiled' is used correctly.",
+        "explanation": "由于是规则动词，错误可能源于不熟悉常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "academics",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "information processing",
+      "collection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

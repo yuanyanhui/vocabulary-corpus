@@ -1,0 +1,260 @@
+{
+  "word": "fraction",
+  "phonetics": {
+    "british": "/ˈfrækʃən/",
+    "american": "/ˈfrækʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A numerical quantity that is not a whole number, such as 1/2 or 3/4, used in mathematics to represent parts of a whole.",
+      "chineseTranslation": "分数（数学中的非整数量）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small part, amount, or portion of something.",
+      "chineseTranslation": "部分、碎片或少量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, a component separated by fractional distillation or other processes.",
+      "chineseTranslation": "馏分（如在化学中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fraction of a second",
+      "meaning": "极短的时间",
+      "example": "The event happened in a fraction of a second.",
+      "exampleTranslation": "事件在短短的一瞬间发生。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "vulgar fraction",
+      "meaning": "普通分数（即非小数形式的分数）",
+      "example": "In elementary math, we often use vulgar fractions like 2/3.",
+      "exampleTranslation": "在小学数学中，我们经常使用普通分数如2/3。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "a fraction of",
+      "meaning": "一小部分",
+      "example": "She only spent a fraction of her savings on the trip.",
+      "exampleTranslation": "她在旅行上只花了积蓄的一小部分。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, a fraction represents a part of a whole, such as 3/4 of a pizza.",
+      "translation": "在数学中，分数表示一个整体的一部分，例如3/4的一个比萨。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Only a small fraction of the population voted in the election.",
+      "translation": "只有一小部分人口参加了选举。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scientist separated the oil into different fractions during distillation.",
+      "translation": "科学家在蒸馏过程中将油分离成不同的馏分。",
+      "source": "Scientific journal (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "fractio",
+        "meaning": "breaking or dividing",
+        "language": "Latin"
+      },
+      {
+        "root": "frangere",
+        "meaning": "to break",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语fractio（意为“打破或分割”），14世纪传入英语，首先用于数学上下文，表示将整体分成部分的概念。随着时间推移，该词扩展到一般意义，如物理或化学中的部分分离。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "fracture",
+      "fragment",
+      "fractional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用视觉分解法：将fraction想象为将一个苹果切成几块，帮助建立空间记忆路径；针对中文母语学习者，强调与'分数的'概念关联，以减少语义混淆。",
+      "使用间隔重复系统（spaced repetition）来强化记忆，确保在中级水平练习中逐步增加语境复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "portion",
+        "similarity": "0.8",
+        "context": "在非正式语境中，表示一小部分，例如日常对话"
+      },
+      {
+        "word": "segment",
+        "similarity": "0.7",
+        "context": "在技术或科学语境中，表示被分割的部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "在数学语境中，表示完整而非部分"
+      },
+      {
+        "word": "entirety",
+        "context": "在一般描述中，表示全部而非碎片"
+      }
+    ],
+    "hypernyms": [
+      "quantity"
+    ],
+    "hyponyms": [
+      "proper fraction",
+      "improper fraction",
+      "decimal fraction"
+    ],
+    "collocations": [
+      {
+        "pattern": "fraction of + noun",
+        "examples": [
+          "a fraction of the cost",
+          "a fraction of the time"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in fractions",
+        "examples": [
+          "expressed in fractions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学基础和逻辑思维，常用于学校教学以培养分析能力；在跨文化语境中，中国学习者可能将其与传统数学教育（如分数运算）关联，但需注意在英语中其隐含语义更偏向于'部分'的概念。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在教育和科技语境",
+        "usage": "在美国英语中，常在小学数学教育中强调，如'fraction bars'工具"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似美国，但可能更注重历史语境",
+        "usage": "在英国英语中，常与拉丁语根源相关联的教育讨论"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的数学发展相关，源自欧洲科学革命；在文学中，如莎士比亚作品中隐喻为社会分化。",
+    "modernUsage": "在社交媒体和数字时代，常用于表达时间或资源短缺，如'tik-tok视频中fraction of a second的流行表达'"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个完整的饼被切成几块，每一块代表一个fraction。",
+      "keyElements": [
+        "饼的分割",
+        "数字表示"
+      ],
+      "emotionalConnection": "联结到个人经验，如分享食物时的情感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将fraction与'fracture'（骨折）联想，因为两者都涉及'打破'",
+        "explanation": "通过声音和语义联想，帮助中文母语者记忆词根，减少拼写错误"
+      },
+      {
+        "type": "缩略",
+        "content": "F-R-A-C-T：Fraction Represents A Cut Thing",
+        "explanation": "使用首字母缩略法结合视觉想象，基于认知科学中的分块编码原理"
+      }
+    ],
+    "wordAssociations": [
+      "break",
+      "part",
+      "divide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "fractions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + fraction",
+        "description": "作为主语或宾语出现，例如在句子中描述数量",
+        "examples": [
+          "The fraction equals one half."
+        ]
+      },
+      {
+        "pattern": "Fraction of + noun phrase",
+        "description": "用于表示一部分",
+        "examples": [
+          "A fraction of the group attended."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'fiction'",
+        "correction": "Use 'fraction' for mathematical terms",
+        "explanation": "中文学习者常因发音相似而混淆，建议通过发音练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "fractions (simply add -s)",
+        "explanation": "作为规则名词，避免不必要的变形错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Education",
+      "General language"
+    ],
+    "tags": [
+      "Mathematics",
+      "Quantity",
+      "Measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

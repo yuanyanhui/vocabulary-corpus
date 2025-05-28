@@ -1,0 +1,238 @@
+{
+  "word": "invalidator",
+  "phonetics": {
+    "british": "/ɪnˈvælɪdeɪtər/",
+    "american": "/ɪnˈvælədeɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person, device, or process that renders something invalid, null, or ineffective, often used in technical, legal, or computational contexts.",
+      "chineseTranslation": "使无效者",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cache invalidator",
+      "meaning": "缓存无效化器",
+      "example": "In modern computing systems, a cache invalidator ensures data consistency by updating or removing outdated entries.",
+      "exampleTranslation": "在现代计算系统中，缓存无效化器通过更新或移除过时条目来确保数据一致性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "legal invalidator",
+      "meaning": "法律无效化因素",
+      "example": "A contractual clause can act as a legal invalidator if it violates public policy.",
+      "exampleTranslation": "如果合同条款违反公共政策，它可以作为法律无效化因素。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software includes an automatic invalidator to prevent unauthorized access.",
+      "translation": "该软件包括一个自动无效化器来防止未授权访问。",
+      "source": "Technical documentation (e.g., from software engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the courtroom, the witness's testimony served as an invalidator of the defendant's alibi.",
+      "translation": "在法庭上，证人的证词充当了被告不在场证明的无效化器。",
+      "source": "Legal literature (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers designed the invalidator mechanism to enhance system security.",
+      "translation": "工程师设计了无效化机制来提升系统安全性。",
+      "source": "Scientific articles (e.g., from academic corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "not or without",
+        "language": "Latin"
+      },
+      {
+        "root": "validus",
+        "meaning": "strong or effective",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word 'invalidator' derives from the Latin 'in-' (meaning not) combined with 'validus' (strong), evolving through Old French 'invalider' in the 14th century to the English verb 'invalidate' in the 17th century. The noun form 'invalidator' emerged in the 19th century as a back-formation, primarily in technical and legal English, to denote an agent of invalidation, reflecting the broader shift in English towards nominalization for precision in scientific discourse.",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "invalidate",
+      "invalid",
+      "validation",
+      "invalidity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知联想法，将 'invalidator' 与 'invalidate' 的常见情境（如法律文件或软件更新）关联，以强化语义记忆；根据双编码理论，结合视觉图像（如一个红色的停止按钮）来辅助发音和拼写练习。",
+      "通过间隔重复系统（Spaced Repetition System）复习该词的上下文，以改善长期保留，尤其针对母语为中文的学习者 who may confuse it with similar-sounding words."
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nullifier",
+        "similarity": "0.8",
+        "context": "在法律或技术语境中，用于表示使某事无效的实体"
+      },
+      {
+        "word": "voider",
+        "similarity": "0.7",
+        "context": "在合同或协议的正式语境中，强调取消效果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "validator",
+        "context": "在技术或验证语境中，用于表示确认或使某事有效的实体"
+      },
+      {
+        "word": "affirmer",
+        "context": "在法律语境中，用于加强或确认某事的有效性"
+      }
+    ],
+    "hypernyms": [
+      "agent",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "cache invalidator",
+      "legal invalidator"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + invalidator (e.g., system invalidator)",
+        "examples": [
+          "The system invalidator was activated during the update."
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "Invalidator + of + noun (e.g., invalidator of claims)",
+        "examples": [
+          "It acts as an invalidator of false claims."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'invalidator' 象征着质疑或挑战权威的机制，常与西方法律和科技文化中的理性主义相关，体现了对规则和事实的审视，但缺乏强烈的隐喻性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如软件开发",
+        "usage": "在美国英语中，强调实用性和创新，与硅谷文化相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，用于法律或学术语境",
+        "usage": "在英国英语中，偏向于书面表达，以保持中立性和精确性"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的技术进步和法律改革相关联，例如19世纪的专利法中用于描述使发明无效的因素，反映了西方社会对知识产权的强调。",
+    "modernUsage": "在当代社交媒体和数字平台上，'invalidator' 偶尔用于非正式讨论，如在线辩论中质疑信息的真实性，但总体上仍局限于专业领域"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红色的印章盖在一个文件上，表示取消或使无效的过程。",
+      "keyElements": [
+        "红色的印章",
+        "文件",
+        "取消符号"
+      ],
+      "emotionalConnection": "联结到个人经历，如撤销一个错误的决定，触发挫败感以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'invalidator' as 'in-val-idator' – 'in' means not, so it's something that makes valid things 'not valid'.",
+        "explanation": "通过分解词根并与常见概念关联，利用双编码理论将视觉和语义记忆结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Associate the sound '/ɪnˈvæl/' with a 'van' crashing into a 'wall', symbolizing destruction or invalidation.",
+        "explanation": "运用声音联觉以创建生动图像，基于认知科学的多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "invalidate",
+      "nullify",
+      "void",
+      "challenge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "invalidators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + invalidator",
+        "description": "该词作为主语或宾语，用于描述动作或实体",
+        "examples": [
+          "The invalidator detected the error."
+        ]
+      },
+      {
+        "pattern": "Invalidator + of + noun phrase",
+        "description": "表示该词与所影响事物的关系",
+        "examples": [
+          "It is an invalidator of outdated policies."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'innovator'",
+        "correction": "Use 'invalidator' for making invalid, not 'innovator' for creating new ideas.",
+        "explanation": "母语为中文的学习者可能因发音相似而混淆，需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural: 'invalidators'",
+        "explanation": "英语名词规则简单，但初级学习者易遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 20,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Law",
+      "Science"
+    ],
+    "tags": [
+      "Technical",
+      "Legal",
+      "Nominalization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

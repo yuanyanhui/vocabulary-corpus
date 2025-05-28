@@ -1,0 +1,259 @@
+{
+  "word": "apples",
+  "phonetics": {
+    "british": "/ˈæp.əlz/",
+    "american": "/ˈæp.əlz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The fruit of the apple tree, typically round and eaten raw or cooked, varying in color from red to green or yellow.",
+      "chineseTranslation": "苹果（复数形式）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Used metaphorically to refer to something desirable or tempting, as in cultural references.",
+      "chineseTranslation": "比喻为诱人或珍贵的事物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an apple a day keeps the doctor away",
+      "meaning": "每天吃一个苹果有助于保持健康",
+      "example": "She believes that an apple a day keeps the doctor away.",
+      "exampleTranslation": "她相信每天吃一个苹果能让医生远离。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "the apple of one's eye",
+      "meaning": "某人最珍爱的人或事物",
+      "example": "Her youngest son is the apple of her eye.",
+      "exampleTranslation": "她最小的儿子是她心中的掌上明珠。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "rotten apples",
+      "meaning": "坏苹果，比喻坏人或问题源头",
+      "example": "In the company, a few rotten apples can spoil the whole team.",
+      "exampleTranslation": "在公司里，少数坏苹果可能会毁掉整个团队。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The basket is full of fresh apples from the orchard.",
+      "translation": "篮子装满了从果园里摘的新鲜苹果。",
+      "source": "Daily conversation (e.g., from everyday English corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In many cultures, apples symbolize knowledge and temptation, as seen in ancient myths.",
+      "translation": "在许多文化中，苹果象征着知识和诱惑，如同古代神话中描述的那样。",
+      "source": "Literature (e.g., references in Oxford English Dictionary, OED)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scientist studied the genetic variations in different types of apples for agricultural research.",
+      "translation": "科学家研究了不同类型苹果的遗传变异，用于农业研究。",
+      "source": "Academic text (e.g., from scientific journals in British National Corpus, BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "At the market, vendors were selling apples at a discounted price due to the harvest season.",
+      "translation": "在市场上，供应商们因为收获季节而以折扣价出售苹果。",
+      "source": "News article (e.g., from Corpus of Contemporary American English, COCA)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "æppel",
+        "meaning": "fruit",
+        "language": "Old English"
+      },
+      {
+        "root": "*ap(a)laz",
+        "meaning": "apple",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语æppel，可能追溯到原始印欧语*h₂ébōl-es，最初指任何水果或苹果类果实。在中世纪英语中，含义稳定化为现代苹果，并通过文化传播（如圣经中的禁果）演变为象征知识和诱惑。",
+    "firstKnownUse": "约公元800年，在盎格鲁-撒克逊文献中",
+    "relatedWords": [
+      "apple (单数形式)",
+      "pineapple (相关但非直接同源)",
+      "appel (法语中类似词)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1 (CEFR)",
+    "pronunciationDifficulty": "3 (简单，元音和辅音组合基本直观，对初级学习者易掌握)",
+    "spellingDifficulty": "2 (拼写规则常规，无不规则变化)",
+    "meaningComplexity": "4 (语义简单，但可扩展到比喻用法)",
+    "usageComplexity": "5 (常见于日常对话，但需注意复数形式和文化语境)",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将'apples'与实际水果图像关联，以强化 episodic memory；建议通过重复性练习，如每日词汇卡片，应用 spaced repetition 技术以提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fruits",
+        "similarity": "0.7",
+        "context": "泛指水果类别，常用于食品或农业语境"
+      },
+      {
+        "word": "pommes",
+        "similarity": "0.8",
+        "context": "在法语影响的英语语境中，用于特定品种"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bananas",
+        "context": "作为对比水果，常在饮食选择语境中使用"
+      },
+      {
+        "word": "vegetables",
+        "context": "区分水果和蔬菜的分类语境"
+      }
+    ],
+    "hypernyms": [
+      "fruits"
+    ],
+    "hyponyms": [
+      "Granny Smith apples",
+      "Fuji apples"
+    ],
+    "collocations": [
+      {
+        "pattern": "apples + adjective (e.g., fresh apples)",
+        "examples": [
+          "fresh apples",
+          "red apples"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + apples (e.g., eat apples)",
+        "examples": [
+          "pick apples",
+          "buy apples"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "苹果在西方文化中常象征知识和原罪（如圣经中的伊甸园故事），在东方文化如中国则代表和平与丰收（如中秋节的关联），体现了跨文化隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "常用在农业和商业语境中，如'Washington apples'指特定产地",
+        "usage": "在美国英语中，更强调品种多样性，如在日常购物对话"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能带有历史文学意涵，如莎士比亚作品",
+        "usage": "在英国英语中，常用于正式或文学语境中"
+      }
+    ],
+    "historicalContext": "苹果与希腊神话（如金苹果）和文艺复兴文学相关，反映了社会对自然与人类欲望的探讨。",
+    "modernUsage": "在社交媒体和健康趋势中流行，如#healthyeating posts，强调营养价值"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红苹果挂在树上的场景，周围是绿叶和阳光",
+      "keyElements": [
+        "红苹果",
+        "树枝",
+        "新鲜水果"
+      ],
+      "emotionalConnection": "联结到个人童年经历，如吃苹果的快乐记忆，以触发正面情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'apples'联想为'A for Apple, Always Fresh and Plenty'",
+        "explanation": "通过首字母联想强化词汇与图像的连接，基于认知联想理论改善回忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈæp.əlz/'听起来像'ap-ple-z'，联想为'快乐的苹果跳舞'",
+        "explanation": "利用声音与动作的联觉，帮助初级学习者通过多感官输入增强记忆"
+      }
+    ],
+    "wordAssociations": [
+      "fruit",
+      "orchard",
+      "healthy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "apples (常规复数)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + apples",
+        "description": "作为名词主语或宾语的典型结构",
+        "examples": [
+          "We eat apples daily."
+        ]
+      },
+      {
+        "pattern": "Adjective + apples",
+        "description": "修饰名词的形容词结构",
+        "examples": [
+          "Fresh apples are delicious."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'apple' instead of 'apples' for plural",
+        "correction": "Use 'apples' for multiple items",
+        "explanation": "中文学习者常忽略英语名词的复数形式，导致数词错误"
+      },
+      {
+        "mistake": "Confusing with 'applesauce'",
+        "correction": "Distinguish as a compound word",
+        "explanation": "避免将'apples'误用为相关派生词，需通过语境练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA; approximately 500 occurrences per million words)",
+    "domains": [
+      "food",
+      "agriculture",
+      "health",
+      "culture"
+    ],
+    "tags": [
+      "noun",
+      "plural",
+      "food-related",
+      "symbolic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

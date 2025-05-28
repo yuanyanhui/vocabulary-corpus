@@ -1,0 +1,255 @@
+{
+  "word": "imputation",
+  "phonetics": {
+    "british": "/ˌɪmpjʊˈteɪʃən/",
+    "american": "/ˌɪmpjəˈteɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of attributing something, such as a fault or quality, to a person or thing.",
+      "chineseTranslation": "归因或指责",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In accounting and statistics, the process of estimating and assigning values to missing data.",
+      "chineseTranslation": "数据归属或估算",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The attribution of righteousness or merit to someone, often in theological contexts.",
+      "chineseTranslation": "神学中的归功或义认",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "imputation of blame",
+      "meaning": "对某人或某事进行指责的归因",
+      "example": "The imputation of blame to the manager led to his resignation.",
+      "exampleTranslation": "对经理的指责归因导致他辞职。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "statistical imputation",
+      "meaning": "在统计学中对缺失数据的估算和分配",
+      "example": "Statistical imputation is used to handle missing values in datasets.",
+      "exampleTranslation": "统计归属用于处理数据集中的缺失值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "imputation of income",
+      "meaning": "在会计中对收入的归属",
+      "example": "The tax authority requires accurate imputation of income for reporting purposes.",
+      "exampleTranslation": "税务局要求准确归属收入以用于报告。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lawyer argued against the imputation of motive in the trial.",
+      "translation": "律师在审判中反对对动机的归因。",
+      "source": "Legal discourse (e.g., from court transcripts in British legal corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In data analysis, imputation helps maintain the integrity of the dataset.",
+      "translation": "在数据分析中，归属有助于维护数据集的完整性。",
+      "source": "Technical writing (e.g., from COCA corpus in scientific articles)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The novel explores the imputation of guilt in a society rife with suspicion.",
+      "translation": "这部小说探讨了一个充满猜疑的社会中对罪责的归因。",
+      "source": "Literary works (e.g., from BNC corpus in modern fiction)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "imputare",
+        "meaning": "to reckon or charge to",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'imputare'，意为计算或归因于某人。该词在14世纪传入英语，通过古法语演变，最初用于财务和道德归因的语境中，逐渐扩展到现代统计和法律领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "impute",
+      "reputation",
+      "computation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'imputation' 与常见搭配如 'imputation of blame' 关联，以增强记忆；通过视觉化将词根 'imputare' 想象为计算过程，以利用语境线索促进长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "attribution",
+        "similarity": "0.8",
+        "context": "在法律或日常语境中用于指责或归因，例如正式讨论中"
+      },
+      {
+        "word": "accusation",
+        "similarity": "0.7",
+        "context": "在非正式或情感化语境中，用于负面归因"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exoneration",
+        "context": "在法律语境中，表示清除归因或无罪释放"
+      },
+      {
+        "word": "absolution",
+        "context": "在神学或道德语境中，表示免除责任"
+      }
+    ],
+    "hypernyms": [
+      "attribution",
+      "allocation"
+    ],
+    "hyponyms": [
+      "statistical imputation",
+      "moral imputation"
+    ],
+    "collocations": [
+      {
+        "pattern": "imputation of [noun]",
+        "examples": [
+          "imputation of blame",
+          "imputation of motive"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] imputation",
+        "examples": [
+          "statistical imputation",
+          "false imputation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与法律和道德责任相关，常隐含社会正义或归咎的主题；在中文文化中，类似概念可能与 '归因理论' 相关联，强调集体责任而非个人。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式法律语境",
+        "usage": "在英国英语中，强调历史性和正式性，如在议会辩论中"
+      },
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域如数据科学",
+        "usage": "在美国英语中，与商业和统计应用相关，常见于报告和学术论文"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期欧洲的法律演变相关，在莎士比亚作品中出现，反映了社会阶层和责任分配；现代中，与数据隐私法如GDPR相关。",
+    "modernUsage": "在社交媒体和数字时代，词语用于讨论假新闻和责任归属的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，左侧是 'impute' 的计算过程，右侧是归因的对象，帮助可视化平衡和分配。",
+      "keyElements": [
+        "天平秤",
+        "计算符号",
+        "人物形象"
+      ],
+      "emotionalConnection": "联结个人经历，如曾被误 blame 的情景，以触发情绪记忆增强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'imputation' 联想为 'input + nation'，表示输入或归因到国家/群体。",
+        "explanation": "通过声音和语义联想，基于认知科学中的双编码理论，将听觉和视觉元素结合以改善记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "I-M-P-U-T-E (Impute Means Putting Under Thoughtful Examination)",
+        "explanation": "使用首字母缩略法，结合故事构建以促进重复回忆"
+      }
+    ],
+    "wordAssociations": [
+      "attribute",
+      "charge",
+      "allocation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "imputations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + imputation of + noun",
+        "description": "主语+动词+归因的结构，常用于正式句子",
+        "examples": [
+          "The committee discussed the imputation of fault."
+        ]
+      },
+      {
+        "pattern": "In [context], imputation is used for...",
+        "description": "在特定语境中使用的介绍性结构",
+        "examples": [
+          "In accounting, imputation is used for tax purposes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'imputation' and 'reputation'",
+        "correction": "Use 'imputation' for attribution and 'reputation' for public image",
+        "explanation": "两者虽有相似词根，但语义不同，常因拼写相似导致错误"
+      },
+      {
+        "mistake": "Incorrect collocation, e.g., 'imputation to blame'",
+        "correction": "Correct to 'imputation of blame'",
+        "explanation": "英文中需使用 'of' 而非 'to'，以符合习惯搭配"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "legal",
+      "accounting",
+      "statistics"
+    ],
+    "tags": [
+      "formal language",
+      "technical term",
+      "attribution"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

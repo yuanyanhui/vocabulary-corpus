@@ -1,0 +1,276 @@
+{
+  "word": "argument",
+  "phonetics": {
+    "british": "/ˈɑːɡjʊmənt/",
+    "american": "/ˈɑrɡjəmənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A reason or set of reasons given in support of an idea, action, or theory.",
+      "chineseTranslation": "论点；理由",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An exchange of diverging or opposite views, typically a heated or angry one.",
+      "chineseTranslation": "争论；争吵",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To exchange or express diverging or opposite views, often in a heated manner.",
+      "chineseTranslation": "争辩；辩论",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A summary or outline of the plot or subject matter of a book, play, or film.",
+      "chineseTranslation": "情节梗概；大纲",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have an argument",
+      "meaning": "发生争吵或辩论",
+      "example": "They had an argument about politics last night.",
+      "exampleTranslation": "他们昨晚就政治问题发生了争吵。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "line of argument",
+      "meaning": "论证思路或推理链条",
+      "example": "Her line of argument was logical and convincing.",
+      "exampleTranslation": "她的论证思路逻辑严谨且有说服力。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "strong argument",
+      "meaning": "有力的论点",
+      "example": "He presented a strong argument for environmental protection.",
+      "exampleTranslation": "他为环境保护提出了有力的论点。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lawyer's argument in court was compelling and led to a favorable verdict.",
+      "translation": "律师在法庭上的论点很有说服力，导致了有利的判决。",
+      "source": "Legal discourse (e.g., from court transcripts in COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We had a heated argument over which movie to watch, but eventually agreed on a comedy.",
+      "translation": "我们就看哪部电影发生了激烈的争吵，但最终同意看一部喜剧。",
+      "source": "Informal conversation (e.g., from BNC spoken corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In her essay, she outlined the main argument of the novel in just a few paragraphs.",
+      "translation": "在她的文章中，她用几段话概述了小说的主要情节梗概。",
+      "source": "Literary analysis (e.g., from academic texts in JSTOR)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Don't argument with me about this decision; it's final.",
+      "translation": "不要就这个决定和我争辩；它已经定了。",
+      "source": "Colloquial dialogue (e.g., from modern TV scripts)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "argūmentum",
+        "meaning": "evidence or proof",
+        "language": "Latin"
+      },
+      {
+        "root": "arguere",
+        "meaning": "to make clear, prove, or accuse",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'argūmentum'，意为证据或证明，演变为中古英语中的 'argument'，最初用于指逻辑推理或证明。17世纪起，扩展到表示争论或辩论，在现代英语中发展为包括社会互动和文学大纲的含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "argue",
+      "argumentative",
+      "arguer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'argument' 的不同含义分组记忆，例如先记忆名词形式，再扩展到动词；",
+      "使用双编码理论，通过视觉和听觉结合，如绘制思维导图连接 'argument' 与中文 '争论' 的图像；",
+      "应用间隔重复系统（spaced repetition）复习常见例句，以强化长时记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "debate",
+        "similarity": "0.8",
+        "context": "适用于正式辩论语境，如学术讨论"
+      },
+      {
+        "word": "dispute",
+        "similarity": "0.7",
+        "context": "适用于冲突性争执语境，如家庭争吵"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "agreement",
+        "context": "适用于共识或和解语境"
+      },
+      {
+        "word": "harmony",
+        "context": "适用于和平或无冲突语境"
+      }
+    ],
+    "hypernyms": [
+      "discussion",
+      "exchange"
+    ],
+    "hyponyms": [
+      "verbal argument",
+      "logical argument"
+    ],
+    "collocations": [
+      {
+        "pattern": "argument + preposition (e.g., about, for, against)",
+        "examples": [
+          "argument about money",
+          "argument for change"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + argument (e.g., strong, weak)",
+        "examples": [
+          "a compelling argument"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性辩论和批判性思维，常与民主传统（如古希腊辩论）相关联，隐含语义强调表达意见的权利。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更倾向于非正式使用，如日常争吵",
+        "usage": "在美国英语中，常用于社交媒体或政治讨论中，体现出直接表达观点的文化习惯"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，强调逻辑结构",
+        "usage": "在英国英语中，常见于学术或法律语境，反映出注重礼节的社交规范"
+      }
+    ],
+    "historicalContext": "与启蒙运动和古希腊修辞学相关，该词在莎士比亚作品中频繁出现，体现文学和社会辩论的传统。",
+    "modernUsage": "在现代社交媒体如Twitter上，'argument' 常用于网络争论，反映数字时代快速传播意见的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个法庭场景，其中律师拿着证据（argument）在辩论，周围有争吵的家庭成员。",
+      "keyElements": [
+        "法庭",
+        "证据",
+        "争吵"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次家庭争论，以触发情绪记忆并加强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'argument' 联想为 'a + argue + ment'，意为 '一个关于争辩的事物'",
+        "explanation": "通过词根分解和视觉联想，帮助学习者建立语义连接，减少遗忘"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈɑrɡjʊmənt/ 听起来像 'argue meant'，意为 '争辩的意思'",
+        "explanation": "利用听觉和语义联觉，基于认知科学的多模态记忆原则"
+      }
+    ],
+    "wordAssociations": [
+      "debate",
+      "evidence",
+      "disagreement"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "arguments",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + argument",
+        "description": "主语+动词+论点结构，常用于陈述意见",
+        "examples": [
+          "She presented an argument."
+        ]
+      },
+      {
+        "pattern": "Argument + about/for/against + noun",
+        "description": "论点+介词+名词结构，表示争论主题",
+        "examples": [
+          "An argument about politics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'argument' with 'argue' in context",
+        "correction": "Use 'argument' as a noun and 'argue' as a verb",
+        "explanation": "中文学习者常混淆名词和动词形式，导致句法错误；建议通过句型练习区分"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Adapt to register (e.g., use 'debate' in formal settings)",
+        "explanation": "中级学习者可能在正式语境中误用非正式表达；结合语域分析提高语用能力"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "law",
+      "politics",
+      "education",
+      "daily conversation"
+    ],
+    "tags": [
+      "debate",
+      "logic",
+      "conflict"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

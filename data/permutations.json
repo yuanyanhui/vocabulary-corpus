@@ -1,0 +1,249 @@
+{
+  "word": "permutations",
+  "phonetics": {
+    "british": "/ˌpɜːmjuːˈteɪʃənz/",
+    "american": "/ˌpɝːmjuːˈteɪʃənz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An arrangement of all the members of a set into some sequence or order, often used in mathematics and combinatorics.",
+      "chineseTranslation": "排列",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thorough change or transformation, sometimes used in a broader context outside mathematics.",
+      "chineseTranslation": "彻底改变或变体",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "calculate permutations",
+      "meaning": "计算排列",
+      "example": "In probability theory, we often need to calculate permutations of a set.",
+      "exampleTranslation": "在概率论中，我们经常需要计算一个集合的排列。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "number of permutations",
+      "meaning": "排列的数量",
+      "example": "The number of permutations of five distinct objects is 120.",
+      "exampleTranslation": "五个不同物体的排列数量是120。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "circular permutations",
+      "meaning": "循环排列",
+      "example": "Circular permutations are used in problems involving arrangements in a circle.",
+      "exampleTranslation": "循环排列用于涉及圆形排列的问题。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The permutations of the letters in the word 'MATH' are used to demonstrate basic combinatorics.",
+      "translation": "单词'MATH'的排列用于演示基本的组合学。",
+      "source": "Educational textbook (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, permutations help in generating all possible outputs for an algorithm.",
+      "translation": "在计算机科学中，排列有助于为算法生成所有可能的输出。",
+      "source": "Technical article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She explored the permutations of her career path after graduation.",
+      "translation": "她探索了毕业后职业道路的各种可能性。",
+      "source": "Modern literature (e.g., from a novel)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "permutare",
+        "meaning": "to change thoroughly",
+        "language": "Latin"
+      },
+      {
+        "root": "permutatio",
+        "meaning": "a changing or exchanging",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'permutare'，意为彻底改变，通过古法语 'permutacion' 传入英语，并在14世纪发展为数学术语，逐渐专指序列排列，现代意义强调有序组合。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "permute",
+      "permutation",
+      "combination"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学原理，如通过视觉图表（如排列图）增强记忆，将抽象概念与日常生活场景关联，以提高长期保留效果；对于中文母语学习者，建议将排列与中文数学术语'排列'对比，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "arrangements",
+        "similarity": "0.8",
+        "context": "适用于数学或有序结构语境中，例如在组合学讨论中"
+      },
+      {
+        "word": "variations",
+        "similarity": "0.6",
+        "context": "适用于更广泛的改变或变体语境中，但不如精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "combinations",
+        "context": "在数学中，组合不考虑顺序，而排列考虑顺序，因此在计算问题中形成对比"
+      }
+    ],
+    "hypernyms": [
+      "arrangements"
+    ],
+    "hyponyms": [
+      "circular permutations",
+      "linear permutations"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + permutations (e.g., calculate, generate)",
+        "examples": [
+          "Calculate permutations of the set",
+          "Generate all permutations"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + permutations (e.g., possible, total)",
+        "examples": [
+          "Possible permutations of the data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征逻辑思维和问题解决能力，尤其在STEM领域，但无显著隐含语义；在中文文化中，与'排列组合'类似，用于数学教育，促进跨文化科学交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术教育和计算机科学语境",
+        "usage": "在美国英语中，常见于学术和专业讨论，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能在历史数学文献中更正式",
+        "usage": "在英国英语中，保留更多古典语源影响，用于教育体系"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期数学发展相关，如在中世纪欧洲的排列问题中出现，体现了启蒙运动对理性思考的强调；在现代，关联计算机科学革命，如算法设计。",
+    "modernUsage": "在社交媒体和在线教育平台（如YouTube教程）中流行，用于讨论AI和数据科学，但保持技术语域"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一组物体，如扑克牌，在不同顺序排列的场景中",
+      "keyElements": [
+        "物体排列",
+        "顺序变化",
+        "视觉图表"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年拼图游戏，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Permutations sound like 'permanent mutations' of items",
+        "explanation": "通过声音联想将'permutations'与'永久改变'关联，帮助记忆其有序变化含义"
+      },
+      {
+        "type": "缩略",
+        "content": "P-E-R-M: Perm for Permanent Exchange and Rearrange Mentally",
+        "explanation": "使用首字母缩写结合视觉想象，基于认知科学的空间记忆原理"
+      }
+    ],
+    "wordAssociations": [
+      "arrange",
+      "sequence",
+      "order",
+      "shuffle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "permutations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + permutations",
+        "description": "作为名词直接用于主语或宾语结构中",
+        "examples": [
+          "Permutations are essential in math."
+        ]
+      },
+      {
+        "pattern": "Verb + of + permutations",
+        "description": "表示所属或类型",
+        "examples": [
+          "The study of permutations involves sequences."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing permutations with combinations",
+        "correction": "Use permutations for ordered arrangements",
+        "explanation": "排列考虑顺序，而组合不考虑；这常见于初学者混淆语义"
+      },
+      {
+        "mistake": "Mispronouncing as /pər-muh-TAY-shuns/",
+        "correction": "Correct to /ˌpɜːmjuːˈteɪʃənz/",
+        "explanation": "发音错误可能源于非母语影响，建议练习IPA"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus for technical domains)",
+    "domains": [
+      "mathematics",
+      "computer science",
+      "education"
+    ],
+    "tags": [
+      "math",
+      "science",
+      "technical",
+      "abstract"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

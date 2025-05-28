@@ -1,0 +1,293 @@
+{
+  "word": "power",
+  "phonetics": {
+    "british": "/ˈpaʊər/",
+    "american": "/ˈpaʊɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability or capacity to do something or act in a particular way, especially physically or mentally.",
+      "chineseTranslation": "能力或力量（尤其是身体或智力方面）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Authority or control over others, often in a political or social context.",
+      "chineseTranslation": "权威或控制力（常指政治或社会背景）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Electrical energy or supply, as from a generator or battery.",
+      "chineseTranslation": "电力或能源供应",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The strength or force exerted by something, such as a machine or an athlete.",
+      "chineseTranslation": "力量或冲击力（如机器或运动员的）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To supply with mechanical force or energy, especially electricity.",
+      "chineseTranslation": "提供机械力或能源（如电力）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "power up",
+      "meaning": "启动或激活设备",
+      "example": "Please power up the computer before starting the software.",
+      "exampleTranslation": "请在启动软件前先开启电脑。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "in power",
+      "meaning": "掌权或执政",
+      "example": "The party has been in power for over a decade.",
+      "exampleTranslation": "该党已经执政超过十年。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "power plant",
+      "meaning": "发电厂",
+      "example": "The new power plant will provide electricity to the entire city.",
+      "exampleTranslation": "这座新的发电厂将为整个城市提供电力。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hold power",
+      "meaning": "掌握权力",
+      "example": "The dictator held power through fear and intimidation.",
+      "exampleTranslation": "独裁者通过恐惧和恐吓来掌握权力。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The power of the ocean waves can be both beautiful and destructive.",
+      "translation": "海洋波浪的力量既美丽又具有破坏性。",
+      "source": "Literature (e.g., descriptive writing in novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used her political power to advocate for environmental reforms.",
+      "translation": "她利用自己的政治权力倡导环境改革。",
+      "source": "News articles (e.g., from BBC or CNN)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Make sure to plug in the device to restore power.",
+      "translation": "确保将设备插入电源以恢复电力。",
+      "source": "Technical manuals (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the boardroom, executives discussed how to consolidate their market power.",
+      "translation": "在会议室里，高管们讨论如何巩固他们的市场力量。",
+      "source": "Business reports (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "potere",
+        "meaning": "to be able",
+        "language": "Latin"
+      },
+      {
+        "root": "potentia",
+        "meaning": "power or ability",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'potere'（意为'能够'），经由古法语 'poeir' 演变为中古英语 'power'，最初指个人能力或力量。到了文艺复兴时期，该词扩展到政治和社会语境中，现代英语中进一步发展出技术含义，如电力供应。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "empower",
+      "potent",
+      "potential"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人经历关联，例如联想'power'与日常电器使用，增强记忆；通过间隔重复法（spaced repetition）复习多义词；针对中文母语学习者，强调语境区分以避免混淆类似词汇的语义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "strength",
+        "similarity": "0.8",
+        "context": "在身体或物理力量的语境中适用"
+      },
+      {
+        "word": "authority",
+        "similarity": "0.7",
+        "context": "在政治或社会控制的语境中适用"
+      },
+      {
+        "word": "energy",
+        "similarity": "0.6",
+        "context": "在技术或电力供应的语境中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "weakness",
+        "context": "在力量对比的语境中适用"
+      },
+      {
+        "word": "powerlessness",
+        "context": "在权威或控制的语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "force",
+      "capability"
+    ],
+    "hyponyms": [
+      "electrical power",
+      "political power"
+    ],
+    "collocations": [
+      {
+        "pattern": "power + noun (e.g., power source)",
+        "examples": [
+          "The power source failed during the storm."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + power (e.g., wield power)",
+        "examples": [
+          "They wield power in the corporate world."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'power' 常象征社会阶层、领导力和影响力，例如在民主制度中代表选举权力；在东方文化中，可能隐含权力斗争的负面隐喻，如在中国历史中与王朝更迭相关。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于政治和历史语境",
+        "usage": "在英国英语中，常用于讨论议会或君主制，例如 'the powers that be' 表示当权者。"
+      },
+      {
+        "region": "美国",
+        "variation": "更强调经济和个人成就",
+        "usage": "在美国英语中，常与商业或科技结合，例如 'soft power' 表示文化影响力。"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，'power' 在文学如莎士比亚的作品中代表个人野心，在现代则与殖民主义和全球政治联系。",
+    "modernUsage": "在社交媒体和数字时代，'power' 常用于讨论影响力，如在Twitter上讨论'girl power'（女孩力量），反映当代性别平等趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个插座连接电线，提供能量给灯泡照亮房间。",
+      "keyElements": [
+        "插座",
+        "电线",
+        "灯泡"
+      ],
+      "emotionalConnection": "联结到日常生活中的兴奋感，如手机充电时恢复使用，触发积极情绪以加强记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'power' 联想为 'pound of weight'，因为力量常与重量相关。",
+        "explanation": "通过视觉联想加深词汇记忆，结合认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "听 'power' 发音时，联想 'pow' 如拳击声音，代表力量。",
+        "explanation": "利用声音与动作的联觉，帮助中间级学习者快速回忆多义词。"
+      }
+    ],
+    "wordAssociations": [
+      "energy",
+      "control",
+      "might"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "powers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + power",
+        "description": "主语 + 动词 + power 结构，常用于表达拥有或行使力量",
+        "examples": [
+          "She holds great power in the company."
+        ]
+      },
+      {
+        "pattern": "Power + of + noun",
+        "description": "power of + 名词结构，表示某种力量的来源或类型",
+        "examples": [
+          "The power of persuasion can change minds."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'power' with 'hour' in pronunciation",
+        "correction": "Distinguish /ˈpaʊɚ/ from /ˈaʊər/",
+        "explanation": "中文母语学习者常混淆元音发音，导致听力错误。"
+      },
+      {
+        "mistake": "Using 'power' as a verb without object",
+        "correction": "Always include an object, e.g., 'power the device'",
+        "explanation": "动词形式需有直接宾语，以符合英语句法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 100 in COCA corpus)",
+    "domains": [
+      "politics",
+      "technology",
+      "business",
+      "sports"
+    ],
+    "tags": [
+      "abstract concept",
+      "energy",
+      "authority"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

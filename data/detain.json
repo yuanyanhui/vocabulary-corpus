@@ -1,0 +1,262 @@
+{
+  "word": "detain",
+  "phonetics": {
+    "british": "/dɪˈteɪn/",
+    "american": "/dɪˈteɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to keep someone in a place and prevent them from leaving, typically by legal or official authority",
+      "chineseTranslation": "拘留；扣押",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to delay or hold back something or someone",
+      "chineseTranslation": "耽搁；阻留",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (rare)",
+      "definition": "an act of detaining or being detained",
+      "chineseTranslation": "拘留行为",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "detain for questioning",
+      "meaning": "为了审问而拘留某人",
+      "example": "The police decided to detain the suspect for questioning at the station.",
+      "exampleTranslation": "警察决定在警局拘留嫌疑人进行审问。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "detain at the border",
+      "meaning": "在边境扣押某人",
+      "example": "Immigration officers may detain travelers at the border if their documents are invalid.",
+      "exampleTranslation": "如果旅行者的文件无效，移民官可能会在边境扣押他们。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "detain indefinitely",
+      "meaning": "无限期拘留",
+      "example": "In some cases, authorities can detain individuals indefinitely without trial.",
+      "exampleTranslation": "在某些情况下，当局可以无限期拘留个人而不进行审判。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The authorities detained the protesters outside the parliament building.",
+      "translation": "当局在议会大楼外拘留了抗议者。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Customs officials detained the package because it contained prohibited items.",
+      "translation": "海关官员扣押了包裹，因为它包含了违禁物品。",
+      "source": "Legal context (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She was detained by unexpected traffic on her way to the airport.",
+      "translation": "她在去机场的路上被意外的交通拥堵耽搁了。",
+      "source": "Daily conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "down or away",
+        "language": "Latin"
+      },
+      {
+        "root": "tenere",
+        "meaning": "to hold",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'detinere'，意为'hold back'，通过古法语 'detenir' 演变为中古英语 'deteynen'，最终在现代英语中发展为 'detain'，最初用于法律和军事语境，后来扩展到一般延误含义",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "retain",
+      "maintain",
+      "sustain"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用视觉联想法，例如将 'detain' 与手铐图像关联，以强化记忆；通过间隔重复法复习上下文，以提升语义理解；针对中国学习者，比较 'detain' 与 '拘留' 的文化差异以避免母语干扰"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "arrest",
+        "similarity": "0.8",
+        "context": "适用于法律或执法语境，如犯罪调查"
+      },
+      {
+        "word": "hold",
+        "similarity": "0.7",
+        "context": "适用于非正式延误语境，如 'hold up traffic'"
+      },
+      {
+        "word": "confine",
+        "similarity": "0.6",
+        "context": "适用于限制自由的场景，但较正式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "context": "在法律语境中，表示解除拘留"
+      },
+      {
+        "word": "free",
+        "context": "在日常语境中，表示解除限制"
+      }
+    ],
+    "hypernyms": [
+      "confine"
+    ],
+    "hyponyms": [
+      "imprison",
+      "arrest"
+    ],
+    "collocations": [
+      {
+        "pattern": "detain + object + for + reason",
+        "examples": [
+          "detain someone for questioning"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "detain at + location",
+        "examples": [
+          "detain at the border"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与人权、法律制度相关，常隐含对自由的限制；在移民和全球化语境中，象征社会控制或权力动态",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式法律程序",
+        "usage": "在英国英语中，常用于警察程序，如 'detain under suspicion'"
+      },
+      {
+        "region": "美国",
+        "variation": "可能涉及移民执法的敏感议题",
+        "usage": "在美国英语中，常与边境安全相关，如 'detain migrants'"
+      }
+    ],
+    "historicalContext": "与英国殖民历史和现代国际法相关，例如在18世纪的航海和战争中用于俘虏；在中国文化中，可与历史上的'羁押'概念关联，强调跨文化人权讨论",
+    "modernUsage": "在社交媒体和新闻中，常用于讨论政治抗议或移民政策，例如Twitter上的#DetainNoMore运动"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个警察局场景，手铐固定某人，象征'hold back'",
+      "keyElements": [
+        "手铐",
+        "警察局",
+        "锁链"
+      ],
+      "emotionalConnection": "联结个人经历，如观看电影中拘留场景，以触发对不自由的负面情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'De-tain' 听起来像 'delay train'，意思是'延误火车'，帮助记住延误含义",
+        "explanation": "通过声音联觉强化词汇记忆，结合认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-T-A-I-N: Down-Hold-Everyone-Temporarily-At-Important-Node",
+        "explanation": "使用首字母缩略法创建故事，以提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "arrest",
+      "jail",
+      "delay"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "detained",
+      "pastParticiple": "detained",
+      "presentParticiple": "detaining",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + detain + object + preposition + reason",
+        "description": "主语 + 拘留 + 宾语 + 介词 + 原因",
+        "examples": [
+          "The police detain suspects for investigation."
+        ]
+      },
+      {
+        "pattern": "detain + object + adverbially",
+        "description": "拘留 + 宾语 + 状语",
+        "examples": [
+          "They detained him immediately."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'detain' with 'retain'",
+        "correction": "Use 'detain' for physical holding, 'retain' for keeping possession",
+        "explanation": "源自词根相似性，中国学习者易混淆，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'detained'",
+        "explanation": "作为规则动词，错误常因母语影响，如中文无明显时态变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "legal",
+      "news",
+      "government"
+    ],
+    "tags": [
+      "verb",
+      "law enforcement",
+      "restriction"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

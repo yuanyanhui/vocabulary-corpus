@@ -1,0 +1,279 @@
+{
+  "word": "depot",
+  "phonetics": {
+    "british": "/ˈdɛpəʊ/",
+    "american": "/ˈdiːpoʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place where large quantities of goods, equipment, or supplies are stored for distribution or use.",
+      "chineseTranslation": "仓库；储藏处",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A bus station or a railway station where vehicles are kept and maintained.",
+      "chineseTranslation": "公共汽车站；火车站",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a military context, a place for storing weapons, ammunition, or other supplies.",
+      "chineseTranslation": "军需仓库",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or software, a repository or central location for data storage.",
+      "chineseTranslation": "软件仓库（如代码库）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bus depot",
+      "meaning": "公共汽车站或停车场",
+      "example": "The bus depot is located on the outskirts of the city.",
+      "exampleTranslation": "公共汽车站位于城市的郊区。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "military depot",
+      "meaning": "军事补给仓库",
+      "example": "The military depot stores essential supplies for the troops.",
+      "exampleTranslation": "军事仓库存储部队所需的基本物资。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "supply depot",
+      "meaning": "供应仓库",
+      "example": "The supply depot ensures that all materials are available on time.",
+      "exampleTranslation": "供应仓库确保所有材料及时到位。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company uses the depot to store excess inventory during peak seasons.",
+      "translation": "公司在高峰季节使用仓库存储多余库存。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We waited at the depot for the next train to arrive.",
+      "translation": "我们在车站等待下一列火车到来。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In wartime, the strategic depot was heavily guarded to prevent enemy attacks.",
+      "translation": "在战时，战略仓库被 heavily guarded 以防止敌人袭击。",
+      "source": "Historical texts (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The software depot allows developers to access open-source code easily.",
+      "translation": "软件仓库让开发者轻松访问开源代码。",
+      "source": "Technical articles (e.g., from online tech sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "dépôt",
+        "meaning": "A place of deposit",
+        "language": "French"
+      },
+      {
+        "root": "depositum",
+        "meaning": "Something placed or put down",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'depositum'，意为 '放置的东西'，通过古法语演变为 'depot'，最初用于指存放物品的场所。17世纪传入英语，主要用于军事和商业语境，逐渐扩展到现代运输和存储领域。",
+    "firstKnownUse": "约1600年",
+    "relatedWords": [
+      "deposit",
+      "repository",
+      "storehouse"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉图像法联想 'depot' 与 'deposit' 的相似性，例如想象一个箱子被放入仓库；通过重复性练习强化发音差异，如与母语词汇 '存款' 进行对比，以避免混淆；利用间隔重复系统 (Spaced Repetition Systems) 来记忆多重含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "warehouse",
+        "similarity": "0.8",
+        "context": "用于存储货物语境，例如商业或物流领域"
+      },
+      {
+        "word": "station",
+        "similarity": "0.6",
+        "context": "用于交通设施语境，如公共汽车或火车站"
+      },
+      {
+        "word": "repository",
+        "similarity": "0.7",
+        "context": "用于数字或软件存储语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "outpost",
+        "context": "在军事语境中，'outpost' 指前沿哨所，而 'depot' 指后方存储处"
+      },
+      {
+        "word": "distribution center",
+        "context": "在物流中，'distribution center' 强调分发，而非单纯存储"
+      }
+    ],
+    "hypernyms": [
+      "storage facility"
+    ],
+    "hyponyms": [
+      "bus station",
+      "military warehouse"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + depot (e.g., bus depot)",
+        "examples": [
+          "bus depot",
+          "supply depot"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "The + depot + verb (e.g., The depot stores goods)",
+        "examples": [
+          "The depot handles shipments"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'depot' 象征着物流和军事的后勤支持，隐含效率和组织性的含义；在西方社会，常与工业革命相关，代表现代化存储系统的演进。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于交通语境，如 'bus depot'，并带有实用主义色彩",
+        "usage": "在美国英语中，常出现在日常对话和城市规划中"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式用法，如 'railway depot'，与历史殖民地背景相关",
+        "usage": "在英国英语中，可能与帝国时代的补给站有关联"
+      }
+    ],
+    "historicalContext": "该词与19世纪工业革命和二战时期的军事后勤相关，在文学作品如狄更斯的著作中出现，反映社会变革。",
+    "modernUsage": "在社交媒体和在线平台上，'depot' 常用于电子商务语境，如 Amazon 的仓库，但在跨文化交流中，需要注意与中文 '仓库' 的对应以避免误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的仓库，里面堆满箱子，外面有火车或公共汽车停靠。",
+      "keyElements": [
+        "仓库",
+        "箱子",
+        "交通工具"
+      ],
+      "emotionalConnection": "联结个人购物经验，例如回忆去超市或车站的场景，以触发熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'depot' 联想为 'deposit pot'，一个存放东西的罐子。",
+        "explanation": "通过声音和视觉联想帮助记忆词根，强化 'deposit' 的概念"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-P-O-T: Deposit Everything Precisely On Time.",
+        "explanation": "使用首字母缩写创建故事，结合认知科学中的叙事记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "warehouse",
+      "station",
+      "store"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "depots",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + depot",
+        "description": "作为名词的主语或宾语，常用于描述位置或功能",
+        "examples": [
+          "The depot stores goods."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with depot",
+        "description": "使用介词如 'at' 或 'in' 表示地点",
+        "examples": [
+          "We met at the depot."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'deposit' as a verb",
+        "correction": "Use 'depot' only as a noun",
+        "explanation": "母语为中文的学习者可能将 'depot' 与 'deposit' 混淆，因为发音相似；需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "简单添加 -s，但初级学习者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "transportation",
+      "military",
+      "business",
+      "technology"
+    ],
+    "tags": [
+      "noun",
+      "storage",
+      "logistics",
+      "infrastructure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

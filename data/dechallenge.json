@@ -1,0 +1,241 @@
+{
+  "word": "dechallenge",
+  "phonetics": {
+    "british": "/ˌdiːˈtʃæl.əndʒ/",
+    "american": "/ˌdiˈtʃæl.əndʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of discontinuing a drug or substance in a clinical trial to observe whether adverse effects subside, often used in pharmacovigilance to establish causality.",
+      "chineseTranslation": "停药试验",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To withdraw or remove a challenge, such as in experimental settings, to test for reversibility of effects.",
+      "chineseTranslation": "撤回挑战",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "positive dechallenge",
+      "meaning": "停药后症状改善的积极结果",
+      "example": "The positive dechallenge confirmed the drug's role in causing the side effects.",
+      "exampleTranslation": "积极的停药试验确认了药物在引起副作用中的作用。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "negative dechallenge",
+      "meaning": "停药后症状未改善的消极结果",
+      "example": "A negative dechallenge suggested that the symptoms were not directly linked to the medication.",
+      "exampleTranslation": "消极的停药试验表明症状与药物没有直接关联。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the clinical trial, the dechallenge was performed after the patient reported adverse reactions.",
+      "translation": "在临床试验中，停药试验是在患者报告不良反应后进行的。",
+      "source": "Medical literature (e.g., from pharmacovigilance reports)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The dechallenge phase revealed that the symptoms resolved once the drug was withdrawn.",
+      "translation": "停药阶段显示，一旦停止药物，症状就消失了。",
+      "source": "Scientific journals like The Lancet",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers noted a successful dechallenge in the study, indicating a clear cause-effect relationship.",
+      "translation": "研究人员在研究中注意到成功的停药试验，表明了明确的因果关系。",
+      "source": "Academic papers (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Modern English",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "Prefix indicating reversal or removal",
+        "language": "Latin"
+      },
+      {
+        "root": "challenge",
+        "meaning": "To test or dispute",
+        "language": "Old French (from Latin 'calumnia', meaning false accusation)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的医学和药理学领域，是从英语前缀 'de-'（表示去除）与 'challenge'（源自拉丁语，表示测试或挑战）组合而成。起初用于临床试验中描述停止暴露以观察效果的程序，随着药物安全研究的兴起而普及。",
+    "firstKnownUse": "Mid-20th century (e.g., first documented in medical texts around 1960s)",
+    "relatedWords": [
+      "rechallenge",
+      "unchallenge"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it is a specialized term requiring contextual understanding)",
+    "pronunciationDifficulty": "6 (out of 10, due to the schwa sound in unstressed syllables, which may confuse intermediate learners)",
+    "spellingDifficulty": "7 (out of 10, as the combination of prefix and root may lead to misspelling, especially for learners unfamiliar with compound words)",
+    "meaningComplexity": "8 (out of 10, involving abstract medical concepts and causality, which requires domain-specific knowledge)",
+    "usageComplexity": "7 (out of 10, limited to technical contexts, making it hard to use in everyday language)",
+    "learningTips": [
+      "使用认知科学中的双编码策略：将词汇与视觉图像结合，例如想象一个药物瓶子被移除后症状消失的场景，以增强记忆；",
+      "通过间隔重复系统（Spaced Repetition System）复习相关医学术语，以利用遗忘曲线优化长期保留；",
+      "建立语境关联：在学习时联结个人经验，如回想日常生活中的试验过程，来降低抽象性"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "withdrawal test",
+        "similarity": "0.8",
+        "context": "适用于临床试验语境中观察药物影响的场景"
+      },
+      {
+        "word": "cessation trial",
+        "similarity": "0.7",
+        "context": "在药理学研究中用于测试可逆性的情况"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rechallenge",
+        "context": "在医疗语境中，表示重新暴露以确认效果，与 dechallenge 的移除概念相反"
+      }
+    ],
+    "hypernyms": [
+      "trial",
+      "test"
+    ],
+    "hyponyms": [
+      "pharmacovigilance dechallenge"
+    ],
+    "collocations": [
+      {
+        "pattern": "dechallenge + noun (e.g., phase, result)",
+        "examples": [
+          "dechallenge phase",
+          "dechallenge result"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + dechallenge (e.g., perform a dechallenge)",
+        "examples": [
+          "perform a dechallenge"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征着证据-based 实践，强调科学严谨性和患者安全，常隐含对药物副作用的警惕性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于FDA监管的文件中",
+        "usage": "在美国英语中，偏向正式的临床报告和制药行业"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔在英国英语中出现，但更少见，通常在欧洲药物管理局的上下文中",
+        "usage": "强调在跨国研究中的标准化使用"
+      }
+    ],
+    "historicalContext": "与20世纪后期的药物安全运动相关，如沙利度胺事件后的监管改革，该词反映了从历史悲剧中吸取教训的科学演进。",
+    "modernUsage": "在社交媒体和在线论坛中，偶尔出现于患者社区讨论药物副作用，但主要限于专业平台，如PubMed或医疗博客"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景：一个科学家从患者身上移除一个药物瓶子，并观察症状像开关一样消失。",
+      "keyElements": [
+        "药物瓶子",
+        "症状消失",
+        "实验室环境"
+      ],
+      "emotionalConnection": "联结到个人健康经历，例如回想一次停药后的舒适感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dechallenge = De-activate challenge",
+        "explanation": "通过联想 'de-' 表示关闭，将其与 'challenge' 连接，简化为关闭测试的概念，便于记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'dee-challenge'，联想到 'delete challenge' 的声音",
+        "explanation": "利用声音相似性，将其与日常删除动作关联，增强听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "withdrawal",
+      "test",
+      "reversal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase structure",
+        "description": "作为名词，常用于描述过程的短语中",
+        "examples": [
+          "The dechallenge was successful."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "作为动词，用于动作描述",
+        "examples": [
+          "They dechallenged the patient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'challenge'",
+        "correction": "Use 'dechallenge' only in technical contexts",
+        "explanation": "学习者常误将之视为 'challenge' 的简单变体，而忽略其特定含义"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /diːˈtʃæl.endʒ/",
+        "correction": "Pronounce as /ˌdiːˈtʃæl.əndʒ/",
+        "explanation": "由于重音位置错误，导致语义混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "medicine",
+      "pharmacology",
+      "clinical trials"
+    ],
+    "tags": [
+      "technical",
+      "medical",
+      "scientific"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "Medical dictionaries like Merriam-Webster"
+    ]
+  }
+}

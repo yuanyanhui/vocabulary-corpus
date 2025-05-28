@@ -1,0 +1,242 @@
+{
+  "word": "intercept",
+  "phonetics": {
+    "british": "/ˌɪntəˈsept/",
+    "american": "/ˌɪntərˈsɛpt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To stop and catch something or someone before it reaches its intended destination, such as a message, vehicle, or signal.",
+      "chineseTranslation": "拦截（例如阻止某物到达目的地）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of intercepting something, often referring to the point or event where interception occurs.",
+      "chineseTranslation": "拦截行为或点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intercept a pass",
+      "meaning": "在体育中拦截传球",
+      "example": "The defender managed to intercept a pass from the opposing team.",
+      "exampleTranslation": "防守队员成功拦截了对方球队的传球。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "intercept communications",
+      "meaning": "拦截通信信息",
+      "example": "Intelligence agencies often intercept communications to gather data.",
+      "exampleTranslation": "情报机构经常拦截通信以收集数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The police intercepted the smuggler's car before it crossed the border.",
+      "translation": "警察在走私者的汽车越境前拦截了它。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In American football, players aim to intercept the ball to gain possession.",
+      "translation": "在美国橄榄球中，球员们旨在拦截球以获得控球权。",
+      "source": "Sports commentary (e.g., from ESPN)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The software can intercept and block malicious emails.",
+      "translation": "该软件可以拦截并阻止恶意电子邮件。",
+      "source": "Technology article (e.g., from CNET)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "between or among",
+        "language": "Latin"
+      },
+      {
+        "root": "capere",
+        "meaning": "to take or seize",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'interceptus'，是 'inter-'（在…之间）和 'capere'（抓住）的过去分词形式。最初用于军事语境中表示阻截敌军，后来扩展到现代英语中包括通信、交通和体育领域的含义。",
+    "firstKnownUse": "约15世纪",
+    "relatedWords": [
+      "interception",
+      "intercepting"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉化场景结合，例如想象拦截足球的画面来强化记忆；使用间隔重复法复习以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "block",
+        "similarity": "0.8",
+        "context": "适用于体育或物理阻挡语境中"
+      },
+      {
+        "word": "catch",
+        "similarity": "0.7",
+        "context": "在捕捉移动物体时使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "context": "在放行或不阻截的语境中"
+      },
+      {
+        "word": "allow",
+        "context": "允许某物通过而不拦截"
+      }
+    ],
+    "hypernyms": [
+      "obstruct"
+    ],
+    "hyponyms": [
+      "hijack",
+      "tap"
+    ],
+    "collocations": [
+      {
+        "pattern": "intercept + noun (e.g., intercept a signal)",
+        "examples": [
+          "intercept a message",
+          "intercept a vehicle"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be intercepted by + agent",
+        "examples": [
+          "The signal was intercepted by the enemy."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与军事、体育和网络安全相关，象征控制与保护的隐含语义，例如在美国文化中，'intercept a pass' 在橄榄球中代表团队合作和战略。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于体育语境，如橄榄球",
+        "usage": "在美国英语中，强调即时性和竞争性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于军事或通信语境",
+        "usage": "在英式英语中，常与历史战争事件相关联"
+      }
+    ],
+    "historicalContext": "该词与二战时期的代码破译（如英国的Bletchley Park）有关，体现了英语文化中情报与监视的主题。",
+    "modernUsage": "在社交媒体和数字时代，经常用于讨论网络安全和隐私问题，如在Twitter或新闻报道中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一名足球运动员在球场中央拦截传球的场景，周围有队友和对手。",
+      "keyElements": [
+        "足球",
+        "拦截动作",
+        "竞争环境"
+      ],
+      "emotionalConnection": "联结个人体育经历或兴奋感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Intercept 像 'inter' (中间) + 'cept' (抓住)，想象在中间抓住东西。",
+        "explanation": "通过词根联想帮助记忆词汇结构"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌɪntərˈsɛpt/ 听起来像 'enter step'，想象进入并迈步抓住物体。",
+        "explanation": "利用声音相似性创建生动联想"
+      }
+    ],
+    "wordAssociations": [
+      "block",
+      "catch",
+      "defense"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "intercepted",
+      "pastParticiple": "intercepted",
+      "presentParticiple": "intercepting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + intercept + object",
+        "description": "主语直接拦截宾语的结构",
+        "examples": [
+          "The agent intercepted the call."
+        ]
+      },
+      {
+        "pattern": "Be + intercepted + by + agent",
+        "description": "被动语态结构，表示被拦截",
+        "examples": [
+          "The message was intercepted by hackers."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'intercept' interchangeably with 'interrupt'",
+        "correction": "Use 'intercept' for physical or communicative blocking, and 'interrupt' for breaking a process.",
+        "explanation": "中文学习者常混淆二者，因为两者在中文中可能有类似翻译"
+      },
+      {
+        "mistake": "Incorrect tense formation",
+        "correction": "Ensure past tense is 'intercepted', not '*interceptted'.",
+        "explanation": "拼写错误源于双重辅音的误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "sports",
+      "military"
+    ],
+    "tags": [
+      "action",
+      "security",
+      "communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

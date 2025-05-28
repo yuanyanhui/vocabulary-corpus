@@ -1,0 +1,254 @@
+{
+  "word": "interrogate",
+  "phonetics": {
+    "british": "/ɪnˈtɛr.ə.ɡeɪt/",
+    "american": "/ɪnˈtɛr.ə.ɡeɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to ask someone questions in a thorough and often official or forceful manner, especially to obtain information or as part of an investigation",
+      "chineseTranslation": "审问；讯问",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to retrieve or query data from a system, database, or device",
+      "chineseTranslation": "查询；盘问（数据）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "interrogate a witness",
+      "meaning": "审问证人",
+      "example": "The detective decided to interrogate the witness about the events of the night.",
+      "exampleTranslation": "侦探决定审问证人关于那天晚上的事件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "interrogate data",
+      "meaning": "查询数据",
+      "example": "Scientists often interrogate data to identify patterns in climate change.",
+      "exampleTranslation": "科学家经常查询数据以识别气候变化的模式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "interrogate someone under caution",
+      "meaning": "在警告下审问某人",
+      "example": "The police officer had to interrogate the suspect under caution to ensure legal compliance.",
+      "exampleTranslation": "警察必须在警告下审问嫌疑人以确保法律合规。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "During the trial, the lawyer interrogated the defendant about his alibi.",
+      "translation": "在审判期间，律师审问了被告关于他的不在场证明。",
+      "source": "Legal context, based on court transcripts (e.g., from British legal corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The software program can interrogate the server for real-time updates.",
+      "translation": "这个软件程序可以查询服务器获取实时更新。",
+      "source": "Technical context, from technology articles (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In a casual conversation, it's not appropriate to interrogate friends about their personal lives.",
+      "translation": "在随意聊天中，审问朋友的个人生活是不合适的。",
+      "source": "Informal context, from everyday dialogue in BNC (British National Corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inter-",
+        "meaning": "between or among",
+        "language": "Latin"
+      },
+      {
+        "root": "rogare",
+        "meaning": "to ask or to request",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'interrogare'，意为'提问'或'询问'。该词经由古法语 'interroger' 传入中古英语，并在15世纪开始用于英语中，最初指正式的提问过程。随着时间推移，它扩展到法律、军事和现代技术领域，如数据查询。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "interrogation",
+      "interrogative",
+      "interrogator"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将'interrogate'与实际场景关联，例如想象审问场景来强化记忆；使用重复间隔技术复习其多重含义，以避免语义混淆；通过双语对照表建立情感连接，促进长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "question",
+        "similarity": "0.8",
+        "context": "适用于非正式场合，如日常对话中"
+      },
+      {
+        "word": "query",
+        "similarity": "0.7",
+        "context": "常用于技术或数据处理语境中"
+      },
+      {
+        "word": "examine",
+        "similarity": "0.6",
+        "context": "在调查或测试环境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "answer",
+        "context": "当需要回应问题时"
+      },
+      {
+        "word": "respond",
+        "context": "在互动对话中，提供信息而非索取"
+      }
+    ],
+    "hypernyms": [
+      "ask"
+    ],
+    "hyponyms": [
+      "cross-examine"
+    ],
+    "collocations": [
+      {
+        "pattern": "interrogate + noun (e.g., someone, data)",
+        "examples": [
+          "interrogate a suspect",
+          "interrogate the database"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "interrogate + about + topic",
+        "examples": [
+          "interrogate about the incident"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与法律和执法相关，象征权威和调查，可能隐含权力动态；在文学中，如侦探小说中，代表紧张和揭露真相的文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向正式法律语境",
+        "usage": "在英国英语中，常用于警方程序，强调程序正义"
+      },
+      {
+        "region": "美国",
+        "variation": "在媒体和娱乐中更常见",
+        "usage": "在美国英语中，常出现在电视剧和新闻中，带有戏剧化元素"
+      }
+    ],
+    "historicalContext": "与历史上的审讯实践相关，如中世纪的宗教裁判所或现代战争中的情报搜集，反映社会对信息控制的需求。",
+    "modernUsage": "在社交媒体和数字时代，'interrogate' 用于讨论数据隐私和AI伦理，体现当代对透明度和权力的关注趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探房间的场景，灯光昏暗，侦探正对着嫌疑人提问。",
+      "keyElements": [
+        "侦探",
+        "灯光",
+        "嫌疑人"
+      ],
+      "emotionalConnection": "联结个人经历，如观看悬疑电影时的紧张感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'interrogate'联想为'内部请求'（inter-内部，rogate-请求），想象内部调查。",
+        "explanation": "通过视觉联想帮助建立词根连接，促进认知加工"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ɪnˈtɛr.ə.ɡeɪt/'听起来像'进入大门质问'，强化询问动作。",
+        "explanation": "利用声音与动作的联觉，基于认知科学的多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "question",
+      "probe",
+      "inquire"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "interrogated",
+      "pastParticiple": "interrogated",
+      "presentParticiple": "interrogating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + interrogate + object + about + topic",
+        "description": "主语 + 审问 + 宾语 + 关于 + 主题的结构，常用于正式语境",
+        "examples": [
+          "The police interrogate the thief about the robbery."
+        ]
+      },
+      {
+        "pattern": "interrogate + direct object",
+        "description": "直接审问对象的结构",
+        "examples": [
+          "She interrogates the system for errors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'integrate'",
+        "correction": "Use 'interrogate' for questioning",
+        "explanation": "这两个词发音相似，但'interrogate'专指提问，而'integrate'意为整合；注意语境区分以避免混淆"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Replace with 'ask' in casual settings",
+        "explanation": "在非正式场合，使用'ask'更自然，以匹配语域要求"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "legal",
+      "technical",
+      "military"
+    ],
+    "tags": [
+      "verb",
+      "inquiry",
+      "investigation"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

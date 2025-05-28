@@ -1,0 +1,270 @@
+{
+  "word": "silo",
+  "phonetics": {
+    "british": "/ˈsaɪləʊ/",
+    "american": "/ˈsaɪloʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A tall cylindrical structure, typically made of concrete or metal, used for storing grain or other materials on a farm.",
+      "chineseTranslation": "谷仓；贮藏筒",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An underground cylindrical chamber for housing and launching guided missiles.",
+      "chineseTranslation": "导弹发射井",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system, process, or department that operates in isolation from others, often leading to inefficiencies.",
+      "chineseTranslation": "信息孤岛；孤立系统",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To isolate or compartmentalize something, often information or resources.",
+      "chineseTranslation": "使孤立；将...隔离",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "silo mentality",
+      "meaning": "部门间不共享信息的心态，导致组织效率低下",
+      "example": "The company's silo mentality prevents effective collaboration between teams.",
+      "exampleTranslation": "公司的信息孤岛心态阻碍了团队之间的有效合作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "break down silos",
+      "meaning": "打破部门间的隔离，促进信息共享",
+      "example": "To foster innovation, managers must break down silos in the organization.",
+      "exampleTranslation": "为了促进创新，管理者必须打破组织中的信息孤岛。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmer built a new silo to store the harvested corn.",
+      "translation": "农民建造了一个新的谷仓来储存收获的玉米。",
+      "source": "Agricultural literature (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In military contexts, a silo can hold nuclear missiles ready for launch.",
+      "translation": "在军事环境中，导弹发射井可以容纳核导弹随时发射。",
+      "source": "News articles (e.g., from BBC reports)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Corporate silos often result in duplicated efforts and missed opportunities.",
+      "translation": "企业中的信息孤岛常常导致工作重复和错失机会。",
+      "source": "Business publications (e.g., Harvard Business Review)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We need to silo sensitive data to protect it from unauthorized access.",
+      "translation": "我们需要将敏感数据隔离以防止未经授权的访问。",
+      "source": "Technical documentation (e.g., from IT corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Spanish",
+    "rootWords": [
+      {
+        "root": "silo",
+        "meaning": "Pit or underground storage for grain",
+        "language": "Spanish (derived from Latin sīrus)"
+      },
+      {
+        "root": "sīrus",
+        "meaning": "Corn pit",
+        "language": "Latin (from Greek siros)"
+      }
+    ],
+    "historicalDevelopment": "起源于古希腊的 siros（用于谷物存储的坑），通过拉丁语 sīrus 传入西班牙语 silo，然后在18世纪传入英语，先用于农业背景，指存储谷物的结构；19世纪扩展到军事领域，指导弹存储；20世纪后期，在商业语境中演变为比喻意义，表示信息隔离。",
+    "firstKnownUse": "1760s",
+    "relatedWords": [
+      "granary",
+      "repository",
+      "compartment"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先从基本农业含义入手，建立视觉图像，然后逐步关联比喻意义，以避免语义混淆；对于中文母语学习者，可通过双语对照练习发音，提升语音记忆的持久性；参考斯佩林的间隔重复理论，进行定期复习以强化词汇网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "repository",
+        "similarity": "0.8",
+        "context": "在存储语境中适用，强调物品保存"
+      },
+      {
+        "word": "compartment",
+        "similarity": "0.7",
+        "context": "在隔离或分区语境中适用，强调结构分离"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "integration",
+        "context": "在商业语境中，表示打破隔离促进协作"
+      },
+      {
+        "word": "network",
+        "context": "在技术语境中，表示互联而非孤立"
+      }
+    ],
+    "hypernyms": [
+      "structure",
+      "container"
+    ],
+    "hyponyms": [
+      "grain silo",
+      "missile silo"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + silo (e.g., grain silo)",
+        "examples": [
+          "grain silo",
+          "missile silo"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + silo (e.g., build a silo)",
+        "examples": [
+          "build a silo",
+          "manage silos"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征效率与隔离的张力：在农业社会代表资源管理，在现代商业中隐含负面语义，象征组织僵化；跨文化理解中，中国语境常译为'信息孤岛'，反映全球化的管理挑战。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业比喻，如硅谷企业文化",
+        "usage": "在美国英语中，silo 常与创新障碍相关联，强调打破壁垒"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向农业原义，较少商业比喻",
+        "usage": "在英国英语中，silo 多用于农场语境，保留中性语调"
+      }
+    ],
+    "historicalContext": "与工业革命和冷战时期相关：18世纪农业革命引入存储技术，20世纪冷战强化军事含义；文学中，如乔治·奥威尔的作品中隐喻社会隔离。",
+    "modernUsage": "在社交媒体和商业论坛中流行，用于讨论数字化转型，例如Twitter讨论中常出现'breaking silos'以促进远程协作"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个高大的圆柱形谷仓矗立在农场中，内部存储着金色的谷物，同时联想到办公室中被墙壁隔开的部门。",
+      "keyElements": [
+        "圆柱形结构",
+        "存储谷物",
+        "隔离墙壁"
+      ],
+      "emotionalConnection": "联结到个人经历，如在中国农村看到的粮仓，触发对效率与合作的反思，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Silo 像 'silent island'，代表沉默的孤岛。",
+        "explanation": "通过声音联想将发音与隔离概念连接，利用认知联想原理加强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-I-L-O: Store-Isolate-Launch-Organize",
+        "explanation": "为不同含义创建缩写，帮助构建多维语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "barn",
+      "isolate",
+      "compartment",
+      "missile"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "silos",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a grain silo)",
+        "description": "作为名词使用，常出现在主语或宾语位置，表示具体或抽象结构",
+        "examples": [
+          "The silo stands tall in the field."
+        ]
+      },
+      {
+        "pattern": "Verb usage in imperative (e.g., silo the data)",
+        "description": "作为动词使用，表示隔离动作，常与对象搭配",
+        "examples": [
+          "They decided to silo the information."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'cello' in pronunciation",
+        "correction": "Use /ˈsaɪloʊ/ instead of /ˈtʃɛloʊ/",
+        "explanation": "母语为中文的学习者可能混淆元音发音，建议通过对比练习纠正"
+      },
+      {
+        "mistake": "Overusing in metaphorical contexts",
+        "correction": "Limit to formal registers",
+        "explanation": "初级学习者易将商业比喻误用于非正式语境，需了解语域限制"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency)",
+    "domains": [
+      "agriculture",
+      "military",
+      "business",
+      "technology"
+    ],
+    "tags": [
+      "storage",
+      "isolation",
+      "metaphor",
+      "infrastructure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

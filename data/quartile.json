@@ -1,0 +1,232 @@
+{
+  "word": "quartile",
+  "phonetics": {
+    "british": "/ˈkwɔː.taɪl/",
+    "american": "/ˈkwɔr.tl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Each of four equal groups into which a population or sample can be divided according to the distribution of values of a particular variable.",
+      "chineseTranslation": "四分位数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "first quartile",
+      "meaning": "第一四分位数",
+      "example": "The first quartile of the data set is 25.",
+      "exampleTranslation": "数据集的第一四分位数是25。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "second quartile",
+      "meaning": "第二四分位数（通常指中位数）",
+      "example": "In many datasets, the second quartile represents the median value.",
+      "exampleTranslation": "在许多数据集里，第二四分位数代表中位数值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "interquartile range",
+      "meaning": "四分位间距",
+      "example": "The interquartile range is calculated between the first and third quartiles.",
+      "exampleTranslation": "四分位间距是第一四分位数和第三四分位数之间的差值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics, the median is often the second quartile of a dataset.",
+      "translation": "在统计学中，中位数通常是数据集的第二四分位数。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers analyzed the quartiles to understand income distribution in the population.",
+      "translation": "研究人员分析了四分位数以了解人口的收入分布。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "When plotting the box plot, the quartiles help identify outliers in the data.",
+      "translation": "在绘制箱形图时，四分位数有助于识别数据中的异常值。",
+      "source": "Scientific report",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "quartus",
+        "meaning": "fourth",
+        "language": "Latin"
+      },
+      {
+        "root": "-ile",
+        "meaning": "related to division or rank",
+        "language": "Latin/French influence"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'quartus'（意为第四），与统计术语 '-ile' 结合（如 percentile），在19世纪统计学发展中演变为现代意义，用于描述数据分组。该词在统计学家的作品中逐渐标准化。",
+    "firstKnownUse": "1879",
+    "relatedWords": [
+      "percentile",
+      "decile",
+      "quantile"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "将四分位数与数据可视化图表（如箱形图）结合，以强化空间记忆和认知连接。",
+      "使用重复练习和实际数据集，帮助建立长期记忆路径。",
+      "根据认知科学，联结新词与已有知识，如将 'quartile' 与日常生活数据分析关联，以减少遗忘率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quarter",
+        "similarity": "0.7",
+        "context": "在非正式统计语境中可能部分类似，但精确性较低，仅用于粗略分组"
+      },
+      {
+        "word": "quantile",
+        "similarity": "0.9",
+        "context": "在技术语境中适用，尤其在高级统计分析中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "表示完整数据集而非分组，常用于强调整体性对比"
+      }
+    ],
+    "hypernyms": [
+      "statistical measure"
+    ],
+    "hyponyms": [
+      "first quartile",
+      "third quartile"
+    ],
+    "collocations": [
+      {
+        "pattern": "first/second/third/fourth quartile",
+        "examples": [
+          "The first quartile is Q1."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "quartile range",
+        "examples": [
+          "Calculate the quartile range."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征数据分析和客观性，无特定隐含语义，但在全球教育中代表理性思维和量化方法。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在商业和数据科学语境",
+        "usage": "在美国英语中，常见于报告和商业分析，以强调实证决策"
+      },
+      {
+        "region": "英国",
+        "variation": "在学术语境中更正式",
+        "usage": "英国英语中，常用于教育和研究报告，保持中性技术风格"
+      }
+    ],
+    "historicalContext": "与19世纪统计学革命相关，如Francis Galton的作品，在工业革命后促进了数据在社会和经济分析中的应用。",
+    "modernUsage": "在社交媒体和数字时代，常见于数据可视化和AI讨论中，如Twitter数据分析或商业博客。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数据图表被分成四等份的场景，如一个饼图或箱形图，每个部分代表四分之一的数据。",
+      "keyElements": [
+        "数据图表",
+        "四等分",
+        "数字分组"
+      ],
+      "emotionalConnection": "联结个人经验，如分析个人财务数据时使用四分位数，触发成就感或问题解决情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Quartile 像 'quarter'（四分之一），想象切蛋糕成四块。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学的空间想象原理"
+      },
+      {
+        "type": "缩略",
+        "content": "Q1, Q2, Q3, Q4 代表四个部分。",
+        "explanation": "使用缩写形成记忆钩子，帮助快速回忆序列"
+      }
+    ],
+    "wordAssociations": [
+      "quarter",
+      "divide",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "quartiles",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与形容词或数字修饰，如 'the first quartile'",
+        "examples": [
+          "The quartile values are essential for analysis."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'quarter'",
+        "correction": "Use 'quartile' specifically for statistical contexts",
+        "explanation": "学习者常混淆词汇，需区分语境以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'quartiles' for plural",
+        "explanation": "英语名词规则简单，但初级学习者可能遗忘复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "统计学",
+      "数据分析",
+      "数学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

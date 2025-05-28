@@ -1,0 +1,253 @@
+{
+  "word": "triangulate",
+  "phonetics": {
+    "british": "/traɪˈæŋɡjʊleɪt/",
+    "american": "/traɪˈæŋɡjəleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To determine the position or location of something by forming triangles, typically using measurements from three points.",
+      "chineseTranslation": "通过三角测量法确定某物的位置或地点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To verify or confirm information by using multiple sources or methods, often three, to cross-check accuracy.",
+      "chineseTranslation": "通过多种来源或方法交叉验证信息以确保准确性",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Divided into or marked with triangles.",
+      "chineseTranslation": "被分成三角形或标有三角形的",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "triangulate data",
+      "meaning": "通过三角测量或交叉验证处理数据",
+      "example": "Scientists often triangulate data from satellites, ground stations, and field observations to ensure precision.",
+      "exampleTranslation": "科学家经常通过卫星、地面站和实地观察的数据三角测量来确保精确性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "triangulate a position",
+      "meaning": "通过三角测量确定位置",
+      "example": "Navigators can triangulate a position using landmarks and a compass.",
+      "exampleTranslation": "导航员可以使用地标和指南针来三角测量一个位置。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The survey team used GPS devices to triangulate the exact coordinates of the ancient ruins.",
+      "translation": "调查团队使用GPS设备来三角测量古迹的确切坐标。",
+      "source": "Scientific literature, such as articles from National Geographic",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In journalism, reporters triangulate facts by consulting multiple eyewitnesses and official records.",
+      "translation": "在新闻业中，记者通过咨询多个目击者和官方记录来三角测量事实。",
+      "source": "Modern media analysis from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The map was triangulated to show the triangular boundaries of the national park.",
+      "translation": "地图被三角测量以显示国家公园的三角形边界。",
+      "source": "Geographical texts",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "triangulum",
+        "meaning": "A triangle",
+        "language": "Latin"
+      },
+      {
+        "root": "angulus",
+        "meaning": "Angle or corner",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'triangulum'（三角形），最初用于几何学中描述三角形的形状。17世纪开始在测量和导航领域发展为动词形式，用于表示通过三角测量法定位。19世纪扩展到比喻意义，如在社会科学中用于验证信息。",
+    "firstKnownUse": "约公元前3世纪在希腊-罗马数学文本中",
+    "relatedWords": [
+      "triangle",
+      "triangulation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学建议：使用视觉化方法联想三角形图形，将词汇与日常生活导航场景关联，以增强空间记忆；通过重复练习交叉验证任务，提高语义关联的长期记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "verify",
+        "similarity": "0.8",
+        "context": "在信息确认语境中，例如科学研究或新闻调查"
+      },
+      {
+        "word": "locate",
+        "similarity": "0.7",
+        "context": "在地理或测量语境中，例如使用GPS"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mislocate",
+        "context": "在定位错误的情形中，例如导航失误"
+      },
+      {
+        "word": "falsify",
+        "context": "在信息伪造的情形中，例如数据篡改"
+      }
+    ],
+    "hypernyms": [
+      "measure",
+      "confirm"
+    ],
+    "hyponyms": [
+      "geotriangulate"
+    ],
+    "collocations": [
+      {
+        "pattern": "triangulate + noun (e.g., data, position)",
+        "examples": [
+          "triangulate data",
+          "triangulate a position"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "triangulate using + method",
+        "examples": [
+          "triangulate using GPS",
+          "triangulate using multiple sources"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和可靠性，常用于强调证据-based 方法，例如在英语国家的研究中代表批判性思维。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术和社会科学语境",
+        "usage": "在美国英语中，特别是在商业和数据分析中，强调快速验证"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向传统测量含义",
+        "usage": "在英国英语中，常与历史导航或地理学相关联"
+      }
+    ],
+    "historicalContext": "与历史文化关联：起源于古希腊和罗马的几何学，18世纪欧洲启蒙运动中推广，用于殖民地勘探和社会研究。",
+    "modernUsage": "在现代社交媒体和数字时代，经常出现在数据分析和假新闻检测的讨论中，例如Twitter和学术论坛。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：三点连成三角形，代表位置确定或信息验证。",
+      "keyElements": [
+        "三角形图形",
+        "三点定位",
+        "验证过程"
+      ],
+      "emotionalConnection": "联结个人经验：回想一次使用地图导航的经历，触发成就感以强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Triangulate 像 'triangle' 加 'ulate'（计算），想象三个点计算位置。",
+        "explanation": "通过视觉联想三角形形状，帮助记忆词汇的核心含义。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /traɪ/ 像 'try'，联想 'try to angle it'（尝试角度它），代表测量角度。",
+        "explanation": "利用声音相似性增强语音记忆，结合认知科学中的双编码理论。"
+      }
+    ],
+    "wordAssociations": [
+      "triangle",
+      "verify",
+      "locate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "triangulated",
+      "pastParticiple": "triangulated",
+      "presentParticiple": "triangulating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + triangulate + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We triangulate the data."
+        ]
+      },
+      {
+        "pattern": "Triangulate + using + method",
+        "description": "动词 + 使用 + 方法结构，表示工具或方式",
+        "examples": [
+          "They triangulate using multiple sources."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'triangle'",
+        "correction": "Use 'triangulate' for the action, not the shape.",
+        "explanation": "学习者常将词汇与 'triangle' 混淆；正确区分语义以避免语境错误。"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'triangulated'.",
+        "explanation": "中文母语学习者在时态变化上易出错；通过练习强化规则动词形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA语料库中排名约5000（基于2023年数据）",
+    "domains": [
+      "科技",
+      "地理",
+      "商业",
+      "社会科学"
+    ],
+    "tags": [
+      "测量",
+      "验证",
+      "几何学",
+      "数据分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

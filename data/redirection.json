@@ -1,0 +1,261 @@
+{
+  "word": "redirection",
+  "phonetics": {
+    "british": "/ˌriːdaɪˈrɛkʃən/",
+    "american": "/ˌriːdɪˈrɛkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of changing the direction or course of something, often used in contexts like computing, psychology, or traffic management.",
+      "chineseTranslation": "重定向；改道",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the process of sending a user or data from one URL to another.",
+      "chineseTranslation": "（计算机中的）URL 重定向",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In psychology or education, the technique of guiding attention or behavior away from one thing toward another.",
+      "chineseTranslation": "（心理或教育中的）行为引导",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal/academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "URL redirection",
+      "meaning": "网站地址的重定向",
+      "example": "The URL redirection ensures that old links still work after a site migration.",
+      "exampleTranslation": "URL 重定向确保网站迁移后旧链接仍然有效。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "behavioral redirection",
+      "meaning": "行为模式的重定向",
+      "example": "Teachers use behavioral redirection to manage classroom disruptions.",
+      "exampleTranslation": "老师使用行为重定向来管理课堂干扰。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "traffic redirection",
+      "meaning": "交通流量的重定向",
+      "example": "During construction, traffic redirection was implemented to avoid congestion.",
+      "exampleTranslation": "施工期间，实施了交通重定向以避免拥堵。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The server automatically handles redirection for outdated web pages.",
+      "translation": "服务器自动处理过时网页的重定向。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In child psychology, redirection is a key strategy to prevent tantrums.",
+      "translation": "在儿童心理学中，重定向是防止发脾气的关键策略。",
+      "source": "Academic literature (e.g., from psychological journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The company set up redirection services for mail after moving offices.",
+      "translation": "公司搬迁办公室后设置了邮件重定向服务。",
+      "source": "Business news (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      },
+      {
+        "root": "direction",
+        "meaning": "the act of directing",
+        "language": "Latin (from 'directus', meaning straight or aligned)"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'directus'（直的）演变而来，结合前缀 're-' 表示重复或改变方向。最初在19世纪的英语中用于物理或导航语境，20世纪扩展到技术领域，如计算机网络。",
+    "firstKnownUse": "Circa 1830, in navigation and engineering contexts",
+    "relatedWords": [
+      "redirect",
+      "direction",
+      "redirección (Spanish)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'redirection' 与常见技术场景关联，以增强记忆；例如，将其与日常生活中的导航应用联系，避免抽象概念的孤立感。",
+      "使用双编码（dual coding）方法：一边听发音一边可视化重定向箭头图标，以提高保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rerouting",
+        "similarity": "0.8",
+        "context": "适用于交通或网络语境中，表示路径改变"
+      },
+      {
+        "word": "diversion",
+        "similarity": "0.7",
+        "context": "常用于紧急情况或心理引导语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuation",
+        "context": "表示保持原有方向或过程，不改变"
+      },
+      {
+        "word": "halt",
+        "context": "表示完全停止，而不是改变方向"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "change"
+    ],
+    "hyponyms": [
+      "URL forwarding",
+      "behavioral shift"
+    ],
+    "collocations": [
+      {
+        "pattern": "redirection of [noun]",
+        "examples": [
+          "redirection of traffic",
+          "redirection of attention"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] redirection",
+        "examples": [
+          "implement redirection",
+          "handle redirection"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征效率和适应性，例如在互联网时代代表无缝过渡，但在中国文化语境中，可能隐含'变通'或'灵活应对'的哲学含义，如与道家思想的关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More common in tech slang, e.g., '301 redirection' in SEO",
+        "usage": "在美国英语中，常用于商业和数字营销领域，以强调用户体验优化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, e.g., 'redirection notice' in official documents",
+        "usage": "在英国英语中，偏向行政或法律语境，如邮政服务"
+      }
+    ],
+    "historicalContext": "与工业革命相关的导航和交通变革有关；在20世纪的计算机发展中，成为数字转型的象征，体现西方文化对效率的重视。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于描述内容分发或注意力管理，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个路标箭头将车流从一条路引向另一条路，代表重定向的过程。",
+      "keyElements": [
+        "箭头",
+        "路径改变",
+        "流向图标"
+      ],
+      "emotionalConnection": "联结个人驾车经历中的突然转弯，触发熟悉感和安全感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Redirection 像 're-direct' 一个方向盘",
+        "explanation": "通过视觉联想方向盘的转动，结合动作记忆帮助初级学习者记住词义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/riːdaɪˈrɛkʃən/' 听起来像 'read a direction'（读一个方向）",
+        "explanation": "利用声音相似性，基于认知语言学的听觉编码，提升对发音的保留"
+      }
+    ],
+    "wordAssociations": [
+      "redirect",
+      "route",
+      "shift"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "redirections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with preposition",
+        "description": "常用于 'redirection of [object]' 结构，表示目标对象的改变",
+        "examples": [
+          "The redirection of resources was necessary."
+        ]
+      },
+      {
+        "pattern": "As subject in a sentence",
+        "description": "用作主语，描述过程或结果",
+        "examples": [
+          "Redirection occurs automatically in modern browsers."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'direction'",
+        "correction": "Use 'redirection' for the act of changing, not just indicating a path",
+        "explanation": "学习者常忽略前缀 're-' 的含义，导致语义混淆；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "由于英语复数规则简单，但初学者可能遗忘添加后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "psychology",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "behavioral science",
+      "navigation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

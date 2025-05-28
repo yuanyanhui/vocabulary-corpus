@@ -1,0 +1,275 @@
+{
+  "word": "warrant",
+  "phonetics": {
+    "british": "/ˈwɒrənt/",
+    "american": "/ˈwɔːrənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A document issued by a legal or government authority that gives the right to do something, such as making an arrest or conducting a search.",
+      "chineseTranslation": "授权文件或令状",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Justification or grounds for an action, belief, or statement.",
+      "chineseTranslation": "正当理由或依据",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To justify or necessitate a course of action.",
+      "chineseTranslation": "证明或使...有必要",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To guarantee the quality or condition of something.",
+      "chineseTranslation": "保证或担保",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "search warrant",
+      "meaning": "搜查令状",
+      "example": "The police obtained a search warrant to enter the suspect's house.",
+      "exampleTranslation": "警方获得了搜查令状以进入嫌疑人的房屋。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "warrant officer",
+      "meaning": "准尉（一种军官级别）",
+      "example": "The warrant officer led the team during the military operation.",
+      "exampleTranslation": "准尉在军事行动中领导了队伍。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "warrant for arrest",
+      "meaning": "逮捕令",
+      "example": "The judge issued a warrant for arrest after reviewing the evidence.",
+      "exampleTranslation": "法官在审查证据后发出了逮捕令。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The evidence does not warrant such a severe punishment.",
+      "translation": "证据不足以证明如此严厉的惩罚是正当的。",
+      "source": "Legal discourse (e.g., from court transcripts, based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He presented a warrant to gain access to the secured area.",
+      "translation": "他出示了授权文件以进入安全区域。",
+      "source": "Modern fiction (e.g., inspired by thriller novels)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In some countries, a warrant is required for wiretapping.",
+      "translation": "在某些国家，需要授权文件来进行电话窃听。",
+      "source": "News articles (e.g., from BBC or The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her achievements warrant a promotion in the company.",
+      "translation": "她的成就使她在公司得到晋升是合理的。",
+      "source": "Business contexts (e.g., from corporate reports in BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old Northern French",
+    "rootWords": [
+      {
+        "root": "warrant",
+        "meaning": "To protect or guarantee",
+        "language": "Old French (from Germanic sources)"
+      },
+      {
+        "root": "werra",
+        "meaning": "Truth or pledge",
+        "language": "Frankish (a Germanic language)"
+      }
+    ],
+    "historicalDevelopment": "源自古北方法语 'warrant'，意为保护或保证，追溯到日耳曼语系的 'werra'，意思是真实或誓言。从14世纪开始在英语中演变为法律和军事语境下的授权文件或正当理由。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "guarantee",
+      "assure",
+      "authorize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用分块学习法（chunking）将 'warrant' 与常见法律场景关联，以增强记忆；例如，将其与个人经历中的 '授权' 概念联系，以利用情节记忆（episodic memory）。",
+      "通过重复暴露（spaced repetition）练习不同语境下的用法，以减少干扰（interference）对语义理解的影响。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "justify",
+        "similarity": "0.8",
+        "context": "在论证或证明语境中适用，如法律辩论"
+      },
+      {
+        "word": "authorize",
+        "similarity": "0.7",
+        "context": "在正式许可或文件语境中适用，如行政程序"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "invalidate",
+        "context": "在取消或否认正当理由的语境中"
+      },
+      {
+        "word": "forbid",
+        "context": "在禁止或不授权的语境中"
+      }
+    ],
+    "hypernyms": [
+      "authorization",
+      "justification"
+    ],
+    "hyponyms": [
+      "search warrant",
+      "arrest warrant"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + warrant (e.g., search + warrant)",
+        "examples": [
+          "issue a warrant",
+          "obtain a warrant"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + warrant (e.g., does not warrant)",
+        "examples": [
+          "warrant action",
+          "warrant investigation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征法律和秩序，常隐含对权利和责任的强调；在西方社会中，与民主制度和法治精神相关。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于历史和军事语境",
+        "usage": "在英国英语中，常用于军事头衔如 'warrant officer'，反映殖民时代的影响"
+      },
+      {
+        "region": "United States",
+        "variation": "更强调法律程序",
+        "usage": "在美国英语中，常见于执法语境，如 'search warrant'，与宪法规制相关"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的封建制度和骑士誓言有关，在文艺复兴时期演变为现代法律概念，如莎士比亚的作品中出现。",
+    "modernUsage": "在社交媒体和新闻中，经常用于讨论隐私权和执法问题，如 #WarrantInLaw 话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个警察手持文件敲门的情景，文件代表 'warrant'，门后是需要搜查的房间。",
+      "keyElements": [
+        "警察",
+        "文件",
+        "门"
+      ],
+      "emotionalConnection": "联结个人对安全的感受，例如回忆一次需要证明身份的经历，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Warrant 像 'warrant a rant'，意思是 '值得一顿抱怨'，用于记住它表示正当理由。",
+        "explanation": "通过声音联想（sound association）将词汇与常见表达连接，增强认知加工"
+      },
+      {
+        "type": "缩略",
+        "content": "W-A-R-R-A-N-T: 'W' for warrant, 'A' for action needed.",
+        "explanation": "使用首字母缩略法结合视觉编码，促进长期记忆储存"
+      }
+    ],
+    "wordAssociations": [
+      "guarantee",
+      "permit",
+      "justify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "warrants",
+      "pastTense": "warranted",
+      "pastParticiple": "warranted",
+      "presentParticiple": "warranting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., This warrants investigation)",
+        "description": "主语+动词+宾语结构，常用于表示必要性",
+        "examples": [
+          "The facts warrant a review"
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a search warrant)",
+        "description": "作为名词的定语结构",
+        "examples": [
+          "They issued a warrant"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'warrant' with 'warranty' (e.g., using it for product guarantees)",
+        "correction": "Use 'warrant' for legal authorization and 'warranty' for product assurances",
+        "explanation": "两者虽同源，但语义不同；'warrant' 更正式，避免混淆以提升精确性"
+      },
+      {
+        "mistake": "Incorrect verb tense (e.g., 'warrants' instead of 'warranted' in past context)",
+        "correction": "Ensure proper tense agreement",
+        "explanation": "中文母语学习者常受时态影响，需练习语境切换"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 5000 in COCA corpus",
+    "domains": [
+      "legal",
+      "military",
+      "business"
+    ],
+    "tags": [
+      "law",
+      "authorization",
+      "justification"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

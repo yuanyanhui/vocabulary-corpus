@@ -1,0 +1,259 @@
+{
+  "word": "normalize",
+  "phonetics": {
+    "british": "/ˈnɔːməlaɪz/",
+    "american": "/ˈnɔːrməlaɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To bring or return something to a normal or standard condition or form, often in a systematic way.",
+      "chineseTranslation": "使正常化；标准化",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In statistics or mathematics, to adjust values to a standard scale, such as between 0 and 1.",
+      "chineseTranslation": "（在统计或数学中）将值调整到标准范围",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being made normal or standard.",
+      "chineseTranslation": "可被正常化的",
+      "level": "academic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "normalize data",
+      "meaning": "标准化数据",
+      "example": "Scientists often normalize data to ensure comparability across different experiments.",
+      "exampleTranslation": "科学家们经常标准化数据，以确保不同实验的可比性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "normalize relations",
+      "meaning": "使关系正常化",
+      "example": "The two countries worked to normalize relations after years of tension.",
+      "exampleTranslation": "这两个国家在数年的紧张关系后努力使关系正常化。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "normalize behavior",
+      "meaning": "使行为标准化",
+      "example": "Therapists help patients normalize behavior through consistent routines.",
+      "exampleTranslation": "治疗师通过一致的例行程序帮助患者使行为标准化。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The government implemented policies to normalize the economy after the recession.",
+      "translation": "政府实施政策以在经济衰退后使经济正常化。",
+      "source": "News articles (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, we normalize the input features to improve model accuracy.",
+      "translation": "在机器学习中，我们标准化输入特征以提高模型准确性。",
+      "source": "Technical literature (e.g., from academic papers)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "It's important to normalize social interactions in a diverse community.",
+      "translation": "在多元化的社区中，使社会互动正常化很重要。",
+      "source": "Social media and everyday discourse",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "normalis",
+        "meaning": "made according to a carpenter's square or rule",
+        "language": "Latin"
+      },
+      {
+        "root": "norma",
+        "meaning": "rule, pattern, or carpenter's square",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'norma'，意为 '规则或模式'，发展到中世纪拉丁语 'normalis'，指 '符合标准的'。在17世纪进入英语，最初用于几何和建筑领域，19世纪扩展到一般标准化概念，如在统计学和社会语境中。",
+    "firstKnownUse": "约1860年",
+    "relatedWords": [
+      "normal",
+      "abnormal",
+      "standardize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'normalize' 与日常标准化场景关联，如整理桌面；通过重复练习强化词汇在技术语境中的应用，以提升长期记忆；利用双语对照表避免混淆相似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "standardize",
+        "similarity": "0.8",
+        "context": "在技术或科学语境中适用，例如数据处理"
+      },
+      {
+        "word": "regularize",
+        "similarity": "0.7",
+        "context": "在社会或行为语境中适用，例如规范行为"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disrupt",
+        "context": "在技术语境中，表示打乱标准"
+      },
+      {
+        "word": "abnormalize",
+        "context": "在非正式语境中，表示使不正常"
+      }
+    ],
+    "hypernyms": [
+      "adjust",
+      "modify"
+    ],
+    "hyponyms": [
+      "scale",
+      "calibrate"
+    ],
+    "collocations": [
+      {
+        "pattern": "normalize + noun (e.g., data, relations)",
+        "examples": [
+          "normalize data",
+          "normalize relations"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + normalize (e.g., help to normalize)",
+        "examples": [
+          "help to normalize behavior"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征标准化和秩序，常隐含对效率和公正的追求，例如在科技革命中代表数据处理的规范性；在中文文化中，可能与 '规范化' 类似，强调社会和谐。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如AI和数据科学",
+        "usage": "在日常美式英语中，强调实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于正式语境，如政策和国际关系",
+        "usage": "在英式英语中，常与历史传统相结合"
+      }
+    ],
+    "historicalContext": "与工业革命和现代化进程相关，在19世纪的英国和美国，代表了对社会和科学的标准化努力，例如标准化测量单位。",
+    "modernUsage": "在现代社交媒体和数字时代下，常见于在线讨论中，表达心理健康或社会规范的趋势，如 'normalizing mental health conversations'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个杂乱的房间，通过整理使其变得整洁的过程，代表 'normalize' 的标准化。",
+      "keyElements": [
+        "房间",
+        "整理工具",
+        "整洁结果"
+      ],
+      "emotionalConnection": "联结个人经验，如清理桌面后的满足感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'normalize' 联想为 'normal life size'，表示使事物恢复正常大小。",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学的空间记忆原则"
+      },
+      {
+        "type": "缩略",
+        "content": "N-O-R-M：Normal Order Restores Many things",
+        "explanation": "使用缩略词帮助构建结构化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "standard",
+      "adjust",
+      "balance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "normalized",
+      "pastParticiple": "normalized",
+      "presentParticiple": "normalizing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + normalize + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We normalize the data."
+        ]
+      },
+      {
+        "pattern": "To + normalize + object",
+        "description": "不定式结构，用于目的或意图表达",
+        "examples": [
+          "To normalize relations between countries."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'normalize' interchangeably with 'normal'",
+        "correction": "Use 'normalize' as a verb for actions, and 'normal' as an adjective.",
+        "explanation": "混淆词性导致错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense forms",
+        "correction": "Ensure regular verb conjugation, e.g., 'normalized' for past.",
+        "explanation": "作为规则动词，错误往往源于不熟悉常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus for technical domains)",
+    "domains": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "技术术语",
+      "统计学",
+      "社会规范"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

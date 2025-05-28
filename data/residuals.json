@@ -1,0 +1,263 @@
+{
+  "word": "residuals",
+  "phonetics": {
+    "british": "/rɪˈzɪdjuəlz/",
+    "american": "/rɪˈzɪdʒuəlz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quantities or amounts left over after a process, subtraction, or removal; in statistics, the differences between observed and predicted values in a model.",
+      "chineseTranslation": "残差；剩余物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In accounting or finance, the value or income remaining after deductions or payments.",
+      "chineseTranslation": "剩余价值或收入",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Any leftover parts or traces of something that has been used or processed.",
+      "chineseTranslation": "剩余部分或痕迹",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "residual value",
+      "meaning": "资产在一定时期后的剩余价值",
+      "example": "The residual value of the vehicle was estimated at $5,000.",
+      "exampleTranslation": "车辆的剩余价值被估算为5000美元。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "residual income",
+      "meaning": "扣除必要开支后的剩余收入",
+      "example": "Investors often seek assets that generate residual income.",
+      "exampleTranslation": "投资者通常寻求能产生剩余收入的资产。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "residual effects",
+      "meaning": "过程或事件留下的持续影响",
+      "example": "The residual effects of the medication lasted for several hours.",
+      "exampleTranslation": "药物的剩余影响持续了几个小时。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the statistical model, the residuals indicated potential errors in the data.",
+      "translation": "在统计模型中，残差显示了数据中的潜在错误。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After cleaning the site, small residuals of toxic waste were still detected.",
+      "translation": "清理现场后，仍检测到少量有毒废物的残余。",
+      "source": "Environmental report",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company's residuals from last quarter's profits were reinvested in new projects.",
+      "translation": "公司上季度的剩余利润被重新投资于新项目。",
+      "source": "Business news (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "resid-",
+        "meaning": "to remain or sit back",
+        "language": "Latin"
+      },
+      {
+        "root": "residuus",
+        "meaning": "remaining",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'residuus'，意为'剩余的'，源自 'residere'（意为'留下或停留'）。在中世纪拉丁语中演变为 'residuum'，进入古法语后成为 'résidu'，最终在16世纪进入英语，作为 'residual' 的复数形式发展，用于表示剩余或残留。在科学和统计语境中，从19世纪开始广泛使用。",
+    "firstKnownUse": "约16世纪",
+    "relatedWords": [
+      "residual",
+      "residue",
+      "reside"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (发音涉及元音和辅音连读，如 /ʒ/ 在美式英语中，可能对中文母语者造成混淆，因为缺乏相似的音素)",
+    "spellingDifficulty": "5 (拼写相对直观，但 '-uals' 结尾可能导致混淆)",
+    "meaningComplexity": "7 (语义多层，包括统计和一般剩余含义，需要上下文理解)",
+    "usageComplexity": "6 (常用于技术语境，需掌握搭配和语域)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象'残差'如实验中的碎片；使用间隔重复法复习；将新词与母语类似词（如'剩余')进行比较映射，以增强记忆编码。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "remnants",
+        "similarity": "0.8",
+        "context": "适用于一般语境，表示剩余部分，如在文学或日常描述中"
+      },
+      {
+        "word": "leftovers",
+        "similarity": "0.7",
+        "context": "适用于非正式语境，表示食物或材料的剩余"
+      },
+      {
+        "word": "remainders",
+        "similarity": "0.9",
+        "context": "适用于数学或统计语境，与残差类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "totals",
+        "context": "在统计或计算语境中，表示整体而非剩余"
+      },
+      {
+        "word": "completes",
+        "context": "在过程完成语境中，表示无剩余的状态"
+      }
+    ],
+    "hypernyms": [
+      "remainders"
+    ],
+    "hyponyms": [
+      "statistical residuals",
+      "financial residuals"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + residuals",
+        "examples": [
+          "analysis of residuals"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Residuals + verb (e.g., indicate)",
+        "examples": [
+          "residuals indicate errors"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学和商业文化中象征精确性和残留风险，常用于强调过程不完全性，例如在环境保护中代表潜在危害。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如统计学",
+        "usage": "在美国英语中，强调数据分析和商业应用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于一般剩余含义",
+        "usage": "在英国英语中，常见于学术和历史语境"
+      }
+    ],
+    "historicalContext": "与工业革命相关的科学发展有关，如统计学在19世纪兴起，用于分析实验残差，反映了西方对精确性和进步的追求。",
+    "modernUsage": "在现代社交媒体和科技语境下，常用于讨论环境问题或财务规划，例如Twitter上的环境讨论或YouTube的财务视频。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学实验室，实验结束后只剩下少量碎片，这些碎片代表'residuals'。",
+      "keyElements": [
+        "碎片",
+        "实验室",
+        "剩余"
+      ],
+      "emotionalConnection": "联结到个人经历，如清理桌面后剩下的杂物，触发挫败或成就感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'residuals'联想为'REmainder'SIDuals，类似于剩余的'影子'。",
+        "explanation": "通过视觉联想和母语映射（如中文'剩余'），利用认知科学中的双编码效应，提高记忆保留率。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/rɪˈzɪdʒuəlz/'听起来像'rizzle duals'，想象雨后残留的水滴。",
+        "explanation": "使用声音和图像结合，基于神经联想原理，帮助中级学习者克服发音障碍。"
+      }
+    ],
+    "wordAssociations": [
+      "remains",
+      "leftovers",
+      "traces"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "residuals (常规复数)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + residuals",
+        "description": "作为主语或宾语使用，常在描述性句子中",
+        "examples": [
+          "The residuals were examined carefully."
+        ]
+      },
+      {
+        "pattern": "Of + residuals",
+        "description": "表示所属或来源",
+        "examples": [
+          "The analysis of residuals showed inaccuracies."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'residue' (单数形式)",
+        "correction": "Use 'residuals' for plural contexts",
+        "explanation": "中文学习者常混淆单复数，因为英语中形态变化较隐蔽；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect collocation, e.g., 'residuals of' instead of proper patterns",
+        "correction": "Follow standard patterns like 'analysis of residuals'",
+        "explanation": "错误源于对搭配的熟悉度不足；使用语料库练习可改善。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA语料库中排名约中游，在科学领域频次较高）",
+    "domains": [
+      "科技",
+      "商业",
+      "统计学",
+      "环境"
+    ],
+    "tags": [
+      "技术术语",
+      "科学",
+      "财务"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

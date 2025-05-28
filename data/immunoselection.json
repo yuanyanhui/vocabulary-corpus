@@ -1,0 +1,232 @@
+{
+  "word": "immunoselection",
+  "phonetics": {
+    "british": "/ˌɪm.juː.nəʊ.sɪˈlɛk.ʃən/",
+    "american": "/ˌɪm.juː.noʊ.sɪˈlɛk.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of selecting cells, molecules, or organisms based on their interaction with the immune system, often used in immunology and biotechnology.",
+      "chineseTranslation": "免疫选择",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in vitro immunoselection",
+      "meaning": "体外免疫选择过程",
+      "example": "In vitro immunoselection is a key technique in monoclonal antibody production.",
+      "exampleTranslation": "体外免疫选择是单克隆抗体生产的关键技术。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "negative immunoselection",
+      "meaning": "负面免疫选择，指去除特定细胞的过程",
+      "example": "Negative immunoselection can be used to deplete unwanted cells from a sample.",
+      "exampleTranslation": "负面免疫选择可用于从样本中去除不需要的细胞。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers used immunoselection to isolate tumor-specific T cells from the patient's blood.",
+      "translation": "研究人员使用免疫选择从患者的血液中分离出肿瘤特异性T细胞。",
+      "source": "Scientific journal (e.g., Nature Biotechnology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Immunoselection techniques have revolutionized cancer immunotherapy by targeting specific antigens.",
+      "translation": "免疫选择技术通过针对特定抗原 revolutionized 癌症免疫治疗。",
+      "source": "Medical textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the lab, immunoselection helped identify the most effective antibodies for the vaccine.",
+      "translation": "在实验室中，免疫选择帮助识别出最有效的疫苗抗体。",
+      "source": "Academic paper (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "immuno-",
+        "meaning": "relating to immunity or the immune system",
+        "language": "Greek (from 'immunis', meaning exempt or safe)"
+      },
+      {
+        "root": "selection",
+        "meaning": "the act of choosing or selecting",
+        "language": "Latin (from 'selectio', derived from 'seligere', meaning to choose)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的免疫学发展，结合了希腊词根'免疫'和拉丁词根'选择'，反映了生物学中通过免疫响应筛选细胞的过程。从最初的免疫学实验演变为现代生物技术术语，尤其在基因工程和癌症治疗中广泛使用。",
+    "firstKnownUse": "Mid-20th century (approximately 1960s, as documented in immunological literature)",
+    "relatedWords": [
+      "immunology",
+      "selection",
+      "immunoprecipitation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires advanced understanding of scientific terminology)",
+    "pronunciationDifficulty": "7 (out of 10, due to the multisyllabic structure and potential for misplacing stress, based on phonological complexity in second language acquisition theory)",
+    "spellingDifficulty": "8 (out of 10, as it combines prefixes and roots that may confuse intermediate learners with limited exposure to scientific vocabulary)",
+    "meaningComplexity": "9 (out of 10, involving abstract concepts in immunology that demand contextual knowledge)",
+    "usageComplexity": "8 (out of 10, primarily used in technical contexts with specific syntactic patterns)",
+    "learningTips": [
+      "将词汇与视觉图像结合，如想象免疫系统作为'筛选器'选择细胞；使用间隔重复法（spaced repetition）基于认知科学原理，以强化记忆；建议初学者从简单句子入手，逐步扩展到专业语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "immune selection",
+        "similarity": "0.9",
+        "context": "在生物医学语境中，用于描述类似过程，如细胞筛选"
+      },
+      {
+        "word": "antigen selection",
+        "similarity": "0.7",
+        "context": "特定于免疫反应的语境中，常用于疫苗开发"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "random selection",
+        "context": "在非免疫相关的研究中，表示无特定标准的选择过程"
+      }
+    ],
+    "hypernyms": [
+      "selection process"
+    ],
+    "hyponyms": [
+      "positive immunoselection",
+      "negative immunoselection"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + immunoselection (e.g., in vitro)",
+        "examples": [
+          "in vitro immunoselection",
+          "clinical immunoselection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + immunoselection (e.g., perform)",
+        "examples": [
+          "perform immunoselection"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征现代生物医学进步，隐含语义强调精确性和创新，但在非西方文化中可能代表全球化的医疗技术转移。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于临床和商业语境",
+        "usage": "在美国英语中，常见于生物技术公司报告和FDA文件"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调学术和研究语境",
+        "usage": "在英国英语中，常见于大学出版物和欧洲研究机构"
+      }
+    ],
+    "historicalContext": "与20世纪免疫学革命相关，如巴斯德和科赫的贡献，反映了科学与社会发展的交织。",
+    "modernUsage": "在社交媒体和在线论坛中，趋势显示其出现在科普文章和COVID-19疫苗讨论中，促进跨文化科学交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中免疫系统像一个智能筛选器，从一大群细胞中挑选出合适的，就像保安在人群中选择嘉宾。",
+      "keyElements": [
+        "筛选器",
+        "细胞",
+        "实验室"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆疫苗注射的保护感，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'immune' as a shield and 'selection' as picking fruits – immunoselection is like a shielded picker.",
+        "explanation": "通过视觉联想结合认知科学中的双编码理论（dual coding），将抽象概念转化为具体图像以提升记忆保留。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Break it into 'im-muno-se-lec-tion' and associate with 'I'm new, so select me' in a job interview scenario.",
+        "explanation": "利用声音和叙事联想，基于Elaborative Rehearsal原则，帮助中级学习者构建叙事记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "immunity",
+      "choose",
+      "biology",
+      "filter"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "immunoselections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + immunoselection",
+        "description": "主语+动词+该名词的结构，常用于描述过程",
+        "examples": [
+          "Scientists perform immunoselection regularly."
+        ]
+      },
+      {
+        "pattern": "In + context + immunoselection",
+        "description": "在特定语境中使用的介词短语",
+        "examples": [
+          "In cancer research, immunoselection is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with 'immunization'",
+        "correction": "Use 'immunoselection' for selection processes only",
+        "explanation": "学习者常混淆类似词汇；建议通过语境区分以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "immunoselections",
+        "explanation": "英文名词规则化复数易出错；参考标准词典如OED"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked approximately 150,000 in COCA corpus, primarily in scientific domains)",
+    "domains": [
+      "科技",
+      "医学",
+      "生物学"
+    ],
+    "tags": [
+      "immunology",
+      "biotechnology",
+      "scientific terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

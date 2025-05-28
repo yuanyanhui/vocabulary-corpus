@@ -1,0 +1,240 @@
+{
+  "word": "invoker",
+  "phonetics": {
+    "british": "/ɪnˈvəʊkər/",
+    "american": "/ɪnˈvoʊkər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or entity that calls upon or summons something, such as a spirit, a function, or a process.",
+      "chineseTranslation": "召唤者或调用者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a component or method that initiates the execution of another function or service.",
+      "chineseTranslation": "在计算机中，指启动或调用其他函数或服务的组件",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spell invoker",
+      "meaning": "法术召唤者",
+      "example": "In fantasy games, the spell invoker summons powerful creatures to aid in battle.",
+      "exampleTranslation": "在奇幻游戏中，法术召唤者会召唤强大的生物来协助战斗。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "API invoker",
+      "meaning": "API 调用者",
+      "example": "The API invoker handles requests to external services for data retrieval.",
+      "exampleTranslation": "API 调用者处理对外部服务的请求以获取数据。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ancient ritual required a skilled invoker to perform the ceremony.",
+      "translation": "古老的仪式需要一名熟练的召唤者来执行。",
+      "source": "Literature (e.g., fantasy novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, an invoker pattern is used to decouple objects and improve modularity.",
+      "translation": "在软件开发中，调用者模式用于解耦对象并提高模块化。",
+      "source": "Technical articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She acted as the invoker of change, rallying the community for social reforms.",
+      "translation": "她作为变革的召唤者，号召社区进行社会改革。",
+      "source": "News media (e.g., BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "invocare",
+        "meaning": "to call upon",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'invocare'（意为 '召唤' 或 '呼吁'），由 'in-'（进入）和 'vocare'（呼叫）组成。词语在14世纪传入英语，通过法语演变，最初用于宗教或法律语境，逐渐扩展到现代技术领域，如编程。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "invoke",
+      "invocation",
+      "evoke"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将 'invoker' 与视觉图像联想，如想象一个法师召唤魔法；使用间隔重复法复习，针对中间级学习者以巩固语义网络；避免混淆类似词，通过语境练习增强记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "summoner",
+        "similarity": "0.8",
+        "context": "适用于幻想或宗教语境中，例如游戏或仪式"
+      },
+      {
+        "word": "caller",
+        "similarity": "0.7",
+        "context": "适用于技术或通信语境中，例如电话或函数调用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dismisser",
+        "context": "在正式语境中，指结束或驱散某事"
+      },
+      {
+        "word": "ignorer",
+        "context": "在非正式语境中，指忽略或不理会某事"
+      }
+    ],
+    "hypernyms": [
+      "actor",
+      "agent"
+    ],
+    "hyponyms": [
+      "wizard",
+      "function caller"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + invoker",
+        "examples": [
+          "design an invoker",
+          "train an invoker"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "invoker + noun",
+        "examples": [
+          "invoker of spirits",
+          "invoker module"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与魔法、宗教或技术创新相关，象征主动性和控制力，例如在文学中代表英雄人物，在科技中代表系统集成。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'invoker' 在软件开发中频率较高，体现技术驱动文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向历史或文学语境",
+        "usage": "在英国英语中，常与传统仪式相关，源自拉丁语的影响"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的宗教实践相关，如祈祷或驱魔仪式；在现代，与工业革命后的技术演进有关。",
+    "modernUsage": "在社交媒体和数字平台上，'invoker' 常用于游戏社区或编程论坛，反映当代虚拟互动趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个穿着长袍的法师站在魔法圈中，挥手召唤闪光物体。",
+      "keyElements": [
+        "法师",
+        "召唤",
+        "闪光"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩过的游戏，触发好奇和兴奋情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Invoker 听起来像 'in-voker'，想象 'in' 进入 'voker'（像投票者，但改为召唤者）。",
+        "explanation": "通过声音联想帮助记忆，基于认知科学的声音-图像关联原理"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-V-O-K-E-R: I Need Very Organized Knowledge Every Round.",
+        "explanation": "使用首字母缩略法创建故事，增强记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "summon",
+      "call",
+      "activate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "invokers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Invoker",
+        "description": "主语 + 动词 + 召唤者结构，常用于描述角色或功能",
+        "examples": [
+          "The wizard is an invoker."
+        ]
+      },
+      {
+        "pattern": "Invoker + of + Noun",
+        "description": "召唤者 + of + 名词结构，表示所属或对象",
+        "examples": [
+          "Invoker of the ancient gods."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'invoker' as a verb",
+        "correction": "Use as a noun only; for verb, use 'invoke'",
+        "explanation": "许多学习者错误地将 'invoker' 用作动词；正确区分词性以避免语义错误"
+      },
+      {
+        "mistake": "Misspelling as 'invokor'",
+        "correction": "Correct spelling is 'invoker'",
+        "explanation": "基于英语拼写规则，'-er' 后缀表示代理人"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "literature",
+      "games"
+    ],
+    "tags": [
+      "computing",
+      "fantasy",
+      "action"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "word": "iteration",
+  "phonetics": {
+    "british": "/ˌɪt.əˈreɪ.ʃən/",
+    "american": "/ˌɪt̬.əˈreɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of repeating a set of instructions or a sequence in a systematic manner, often used in computing, mathematics, or iterative problem-solving.",
+      "chineseTranslation": "迭代",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single execution or instance within a repeated process, such as a loop in programming.",
+      "chineseTranslation": "迭代过程的一次执行",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To perform or go through an iteration; to repeat iteratively.",
+      "chineseTranslation": "进行迭代",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "iterative process",
+      "meaning": "迭代过程",
+      "example": "The software development team uses an iterative process to refine the product.",
+      "exampleTranslation": "软件开发团队使用迭代过程来完善产品。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "next iteration",
+      "meaning": "下一次迭代",
+      "example": "After reviewing the feedback, we'll move on to the next iteration of the design.",
+      "exampleTranslation": "在查看反馈后，我们将进入设计的下一次迭代。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "iteration cycle",
+      "meaning": "迭代周期",
+      "example": "Each iteration cycle in agile methodology lasts about two weeks.",
+      "exampleTranslation": "敏捷方法论中的每个迭代周期大约持续两周。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In computer programming, iteration allows for looping through a list of items efficiently.",
+      "translation": "在计算机编程中，迭代允许高效地循环遍历项目列表。",
+      "source": "Technical documentation, e.g., from programming tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The artist went through several iterations of the painting before achieving the final version.",
+      "translation": "艺术家在完成最终版本前经历了画作的几次迭代。",
+      "source": "Literary or creative writing contexts",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "During the meeting, the manager emphasized the importance of iteration in project management.",
+      "translation": "在会议中，经理强调了迭代在项目管理中的重要性。",
+      "source": "Business and professional settings, e.g., from corporate reports",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "iter",
+        "meaning": "journey or way",
+        "language": "Latin"
+      },
+      {
+        "root": "iterare",
+        "meaning": "to repeat",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Latin 'iterare', meaning 'to repeat a journey or process'. It evolved through Middle English in the 15th century to refer to repetition in various contexts, later adapting in the 20th century to technical fields like computing to denote loops and sequential processes.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "iterate",
+      "reiteration",
+      "reiterate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的间隔重复法（spaced repetition）来记忆词汇；将iteration与日常生活中的循环活动（如季节更迭）关联，以增强语义记忆；对于中文母语学习者，建议通过视觉映射将iteration与'迭代'的中文概念连接，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "repetition",
+        "similarity": "0.8",
+        "context": "在重复过程的语境中，例如教育或训练领域"
+      },
+      {
+        "word": "loop",
+        "similarity": "0.7",
+        "context": "在编程或技术语境中，用于描述循环结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "singularity",
+        "context": "表示一次性事件，而非重复过程的语境"
+      },
+      {
+        "word": "termination",
+        "context": "在结束或停止过程的语境中"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "repetition"
+    ],
+    "hyponyms": [
+      "loop iteration",
+      "design iteration"
+    ],
+    "collocations": [
+      {
+        "pattern": "iteration in [field]",
+        "examples": [
+          "iteration in software development"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "through iterations",
+        "examples": [
+          "go through iterations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代技术文化中，iteration象征持续改进和适应性，尤其在西方创新文化（如硅谷）中，体现了'失败即成功之母'的理念，但在中国文化中，可能与'迭代升级'的商业实践相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如Agile方法",
+        "usage": "在商业和科技语境中频繁出现，强调快速原型"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，用于学术或历史语境",
+        "usage": "在教育和文学中，强调系统重复"
+      }
+    ],
+    "historicalContext": "该词与工业革命和现代科学方法相关联，例如达尔文的进化论中隐含迭代概念；在20世纪计算机科学兴起后，与算法和软件开发深度整合。",
+    "modernUsage": "在社交媒体和数字时代，iteration常用于讨论产品更新或个人成长趋势，如TikTok上的内容迭代。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个循环的车轮，不断转动代表重复过程。",
+      "keyElements": [
+        "车轮",
+        "循环",
+        "重复"
+      ],
+      "emotionalConnection": "联结到个人经验，如每天的例行锻炼，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Iteration sounds like 'it again', picturing something happening repeatedly.",
+        "explanation": "通过声音联想和视觉化，结合认知科学中的双编码理论（dual coding），将听觉和图像记忆相结合，便于中文母语学习者快速回忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "IT = Iteration Time, linking to technology.",
+        "explanation": "使用缩略形式创建钩子，基于Elaborative Rehearsal原则，帮助中间水平学习者构建语义网络。"
+      }
+    ],
+    "wordAssociations": [
+      "loop",
+      "repeat",
+      "cycle",
+      "refine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "iterations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与形容词或介词短语搭配，例如'in the iteration process'",
+        "examples": [
+          "The next iteration will include new features."
+        ]
+      },
+      {
+        "pattern": "Verb in progressive form",
+        "description": "如果用作动词，需注意时态结构",
+        "examples": [
+          "We are iterating on the design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'iteration' and 'irritation'",
+        "correction": "Use 'iteration' for processes and 'irritation' for annoyance.",
+        "explanation": "中文学习者常因发音相似而混淆，建议通过语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural, e.g., 'iterations'",
+        "explanation": "英语名词规则需记忆，避免泛化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate; ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "computing",
+      "process",
+      "repetition",
+      "innovation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

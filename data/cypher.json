@@ -1,0 +1,245 @@
+{
+  "word": "cypher",
+  "phonetics": {
+    "british": "/ˈsaɪfə/",
+    "american": "/ˈsaɪfɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A secret or disguised way of writing; a code for encrypting messages.",
+      "chineseTranslation": "密码；加密方式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number zero; or a person of no importance or influence.",
+      "chineseTranslation": "零；无足轻重的人",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To encode a message using a cipher.",
+      "chineseTranslation": "用密码编码",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cypher text",
+      "meaning": "加密文本",
+      "example": "The cypher text was decrypted using the key.",
+      "exampleTranslation": "加密文本使用密钥进行了解密。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "public key cypher",
+      "meaning": "公钥加密方式",
+      "example": "Public key cypher is essential for secure online transactions.",
+      "exampleTranslation": "公钥加密方式对于安全的在线交易至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The spy used a complex cypher to send his messages.",
+      "translation": "间谍使用复杂的密码发送他的消息。",
+      "source": "Literature (e.g., spy novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, cypher represents the digit zero.",
+      "translation": "在数学中，cypher 代表数字零。",
+      "source": "Educational texts",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She felt like a mere cypher in the corporate hierarchy.",
+      "translation": "她在公司层级中感觉自己只是一个无足轻重的人。",
+      "source": "Modern fiction",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Arabic",
+    "rootWords": [
+      {
+        "root": "ṣifr",
+        "meaning": "zero or empty",
+        "language": "Arabic"
+      }
+    ],
+    "historicalDevelopment": "源自阿拉伯语ṣifr，意思是'零'或'空位'，通过中世纪拉丁语cifra传入欧洲，演变为表示密码或编码的含义，尤其在文艺复兴时期的加密技术中流行，最终在英语中发展为现代用法。",
+    "firstKnownUse": "Around the 14th century",
+    "relatedWords": [
+      "cipher",
+      "decipher",
+      "encipher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用分块记忆法，将词汇与实际加密场景关联，以增强认知联系；根据认知科学，重复练习发音以改善音节识别。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "code",
+        "similarity": "0.8",
+        "context": "适用于技术或安全语境中，例如加密通信"
+      },
+      {
+        "word": "encipher",
+        "similarity": "0.9",
+        "context": "适用于动词形式，在密码学领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decipher",
+        "context": "适用于解码或破译密码的语境"
+      },
+      {
+        "word": "plain text",
+        "context": "适用于非加密的原始文本语境"
+      }
+    ],
+    "hypernyms": [
+      "encryption method"
+    ],
+    "hyponyms": [
+      "AES cypher",
+      "RSA cypher"
+    ],
+    "collocations": [
+      {
+        "pattern": "cypher + noun (e.g., cypher key)",
+        "examples": [
+          "The cypher key was hidden in the document."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + cypher (e.g., break a cypher)",
+        "examples": [
+          "Experts managed to break the cypher quickly."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着秘密、神秘和智力游戏，常与间谍小说、加密技术相关，隐含着对隐私和安全的追求。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常使用'cypher'作为拼写变体",
+        "usage": "在英国英语中，常用于历史和文学语境中表示密码"
+      },
+      {
+        "region": "美国",
+        "variation": "偏好使用'cipher'拼写",
+        "usage": "在美国英语中，更多用于技术领域，如计算机安全"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的密码学和二战时期的加密技术（如英格玛机器）相关，体现了文化对信息安全的重视。",
+    "modernUsage": "在社交媒体和数字时代，cypher 常用于讨论网络安全和密码保护的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个间谍在黑暗房间里使用秘密代码书写消息的场景。",
+      "keyElements": [
+        "间谍",
+        "秘密代码",
+        "黑暗房间"
+      ],
+      "emotionalConnection": "联结个人对神秘冒险的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cypher 听起来像 'spy for'，所以联想到间谍使用密码。",
+        "explanation": "通过声音联想增强词汇保留，根据认知科学原理，利用熟悉概念建立桥梁。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-Y-P-H-E-R: Code You Protect Hidden Every Risk",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者记忆语义。"
+      }
+    ],
+    "wordAssociations": [
+      "spy",
+      "zero",
+      "encode"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cyphers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a complex cypher)",
+        "description": "作为名词用于描述对象，常置于定语后",
+        "examples": [
+          "The ancient cypher baffled the codebreakers."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., cypher the message)",
+        "description": "作为动词用于动作描述",
+        "examples": [
+          "They decided to cypher the confidential data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing cypher with cipher",
+        "correction": "Use cypher in British English contexts",
+        "explanation": "拼写差异源于区域变体，可能导致混淆"
+      },
+      {
+        "mistake": "Using as a verb incorrectly",
+        "correction": "Ensure proper context for encoding",
+        "explanation": "动词形式需与加密相关，避免泛化使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "Technology",
+      "Literature",
+      "Security"
+    ],
+    "tags": [
+      "Cryptography",
+      "Mathematics",
+      "Espionage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

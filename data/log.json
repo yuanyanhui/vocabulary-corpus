@@ -1,0 +1,276 @@
+{
+  "word": "log",
+  "phonetics": {
+    "british": "/lɒɡ/",
+    "american": "/lɔɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A section of a tree trunk or branch, especially one cut for use as timber or fuel.",
+      "chineseTranslation": "原木；木材",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A detailed record of events, measurements, or experiences, often kept systematically.",
+      "chineseTranslation": "日志；记录",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a file that stores a history of events or transactions.",
+      "chineseTranslation": "日志文件",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make a record of events or data in a systematic way.",
+      "chineseTranslation": "记录；登录",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To enter or access a system, especially a computer network, using a username and password.",
+      "chineseTranslation": "登录",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "log in",
+      "meaning": "登录系统",
+      "example": "Please log in to your account to access the features.",
+      "exampleTranslation": "请登录您的账户以访问功能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "log out",
+      "meaning": "退出登录",
+      "example": "Don't forget to log out after using the shared computer.",
+      "exampleTranslation": "使用共享计算机后别忘了退出登录。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "keep a log",
+      "meaning": "保持记录",
+      "example": "Scientists keep a log of all experiments for future reference.",
+      "exampleTranslation": "科学家们为将来参考而保持所有实验的记录。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The captain kept a detailed log of the ship's voyage across the ocean.",
+      "translation": "船长保持了船只横跨海洋航行的详细日志。",
+      "source": "Literature, e.g., from nautical novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After chopping the log into smaller pieces, we used it for firewood.",
+      "translation": "将原木砍成小块后，我们用它做柴火。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The system administrator reviewed the error log to troubleshoot the issue.",
+      "translation": "系统管理员审查了错误日志以排除问题。",
+      "source": "Technical documentation, e.g., from IT manuals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to log her daily fitness routine in a journal.",
+      "translation": "她决定在日记中记录她的日常健身 routine。",
+      "source": "Modern media, e.g., health blogs",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "logg",
+        "meaning": "A piece of a felled tree",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'logg'，最初指树干或木材。随时间演变为比喻意义，如记录或日志，特别是在航海和计算领域的发展中。17世纪开始用于航海日志，19世纪扩展到计算日志。",
+    "firstKnownUse": "约 14 世纪",
+    "relatedWords": [
+      "logger",
+      "logging",
+      "logbook"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'log' 与树木图像关联，并使用间隔重复法复习其多义性，以强化记忆路径；对于中文母语学习者，注意避免将 'log' 与 '登录' 的直接翻译混淆，通过实际情境练习提升语境适应性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "record",
+        "similarity": "0.8",
+        "context": "在记录含义中适用，如商业或科学语境"
+      },
+      {
+        "word": "journal",
+        "similarity": "0.7",
+        "context": "在日志含义中适用，如个人或专业记录"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "delete",
+        "context": "在记录或登录语境中，表示移除或退出"
+      },
+      {
+        "word": "erase",
+        "context": "在日志文件中，表示清除数据"
+      }
+    ],
+    "hypernyms": [
+      "record",
+      "entry"
+    ],
+    "hyponyms": [
+      "access log",
+      "error log"
+    ],
+    "collocations": [
+      {
+        "pattern": "log + preposition (e.g., log in to)",
+        "examples": [
+          "Log in to the system",
+          "Log out of the account"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + log (e.g., keep a log)",
+        "examples": [
+          "Maintain a log of events"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'log' 象征系统性和记录历史，如航海日志在英国文化中代表探险精神；在现代数字文化中，它隐含安全和隐私含义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或历史语境，如 'ship's log'",
+        "usage": "在英国英语中，常与传统行业相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术语境，如 'system log'",
+        "usage": "在美国英语中，常见于 IT 和日常数字互动"
+      }
+    ],
+    "historicalContext": "与英国的航海时代相关，如 Captain Cook 的航海日志影响了科学记录传统；在当代，与硅谷文化关联，代表数据驱动的社会。",
+    "modernUsage": "在社交媒体和数字平台上流行，如 'login' 在全球在线互动中，反映了全球化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个伐木工人在森林中砍下一段原木，然后在计算机前记录日志。",
+      "keyElements": [
+        "树木",
+        "笔记本",
+        "计算机屏幕"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年郊游或第一次在线登录，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Log like a logbook on a log",
+        "explanation": "将 'log' 联想为原木和记录本，创建双重图像以帮助区分多义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Log sounds like 'lock' in login, imagine locking into a system",
+        "explanation": "通过声音相似性联想 'log in' 与 'lock in'，增强发音和语义记忆"
+      }
+    ],
+    "wordAssociations": [
+      "tree",
+      "journal",
+      "access"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "logs",
+      "pastTense": "logged",
+      "pastParticiple": "logged",
+      "presentParticiple": "logging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + log",
+        "description": "主语 + 动词 + log，例如在记录语境中",
+        "examples": [
+          "He logs his daily activities."
+        ]
+      },
+      {
+        "pattern": "Log + in/out + object",
+        "description": "log + 介词 + 对象，常用于登录语境",
+        "examples": [
+          "Log in to the website."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'log in' as a single word",
+        "correction": "Use 'log in' as two words or 'login' as a noun",
+        "explanation": "在英语中，'log in' 是动词短语，而 'login' 是名词；中文学习者常混淆"
+      },
+      {
+        "mistake": "Confusing with 'blog'",
+        "correction": "Distinguish 'log' from 'blog' (a type of online journal)",
+        "explanation": "相似发音可能导致错误；通过语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Daily life"
+    ],
+    "tags": [
+      "Computing",
+      "Record-keeping",
+      "Nature"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

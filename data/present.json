@@ -1,0 +1,286 @@
+{
+  "word": "present",
+  "phonetics": {
+    "british": "/ˈprɛzənt/ (as adjective or noun), /prɪˈzɛnt/ (as verb)",
+    "american": "/ˈprɛznt/ (as adjective or noun), /prɪˈzɛnt/ (as verb)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Existing or occurring now; current.",
+      "chineseTranslation": "现在的；当前的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thing given to someone as a gift.",
+      "chineseTranslation": "礼物；赠品",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To show or offer something for others to consider; to introduce someone.",
+      "chineseTranslation": "呈现；介绍；提出",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The period of time now occurring; the current moment.",
+      "chineseTranslation": "现在；当下",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at present",
+      "meaning": "目前；现在",
+      "example": "At present, we are focusing on digital transformation.",
+      "exampleTranslation": "目前，我们正专注于数字化转型。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "present tense",
+      "meaning": "现在时（语法术语）",
+      "example": "In English, the present tense is used for habitual actions.",
+      "exampleTranslation": "在英语中，现在时用于表示习惯性动作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "present to",
+      "meaning": "呈现给；介绍给",
+      "example": "She will present the award to the winner.",
+      "exampleTranslation": "她将把奖品颁发给获胜者。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The present situation requires immediate action.",
+      "translation": "当前的情况需要立即采取行动。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He gave her a present on her birthday.",
+      "translation": "他在她的生日时送给她一份礼物。",
+      "source": "Literature (e.g., from a novel by Jane Austen)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The scientist will present her findings at the conference.",
+      "translation": "这位科学家将在会议上展示她的发现。",
+      "source": "Academic journal (e.g., from a scientific paper)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "We live in the present, not the past.",
+      "translation": "我们生活在当下，而不是过去。",
+      "source": "Philosophical text (e.g., inspired by mindfulness literature)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "praesent-",
+        "meaning": "being at hand; immediate",
+        "language": "Latin"
+      },
+      {
+        "root": "prae-",
+        "meaning": "before",
+        "language": "Latin"
+      },
+      {
+        "root": "sent-",
+        "meaning": "to feel or perceive",
+        "language": "Latin (from 'sentire')"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'praesentem'（现在分词形式，意为'在场的'）演变而来，通过古法语 'present' 进入中古英语，最初用于表示'当前的'或'在场的'，逐渐扩展到礼物和呈现的含义，以反映社会互动和时间概念的演变。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "presence",
+      "presently",
+      "represent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "5 (由于重音变化，如 /ˈprɛzənt/ vs. /prɪˈzɛnt/，可能导致混淆)",
+    "spellingDifficulty": "3 (拼写简单，但多义可能增加记忆负担)",
+    "meaningComplexity": "6 (多义词，需要区分语境)",
+    "usageComplexity": "4 (常见搭配较多，但语境依赖性中等)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如将 'present' 作为礼物时联想包装盒的图像；通过间隔重复系统复习多义形式，以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "current",
+        "similarity": "0.8",
+        "context": "在形容词语境中，用于描述当下情况，如正式报告"
+      },
+      {
+        "word": "gift",
+        "similarity": "0.9",
+        "context": "在名词语境中，用于非正式场合如节日礼物"
+      },
+      {
+        "word": "introduce",
+        "similarity": "0.7",
+        "context": "在动词语境中，用于社交或专业介绍"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "past",
+        "context": "在时间语境中，表示过去的反义"
+      },
+      {
+        "word": "absent",
+        "context": "在存在语境中，表示不在场的反义"
+      }
+    ],
+    "hypernyms": [
+      "time period",
+      "object"
+    ],
+    "hyponyms": [
+      "birthday present",
+      "award presentation"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + present",
+        "examples": [
+          "give a present",
+          "make a presentation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + present",
+        "examples": [
+          "current present",
+          "valuable present"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'present' 作为礼物的含义象征着社交礼仪和感恩，例如在圣诞节或生日时的礼物交换，体现了关系维系和情感表达。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于使用 'present' 在正式场合，如学术演讲",
+        "usage": "在英国英语中，常与礼节性活动相关联"
+      },
+      {
+        "region": "United States",
+        "variation": "更口语化，常用于节日礼物",
+        "usage": "在美国英语中，'present' 在非正式语境中更常见，如家庭聚会"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的礼仪文化相关联，例如在莎士比亚作品中，'present' 出现于社会互动场景，反映了欧洲中世纪的礼物经济。",
+    "modernUsage": "在社交媒体上，'present' 常用于虚拟礼物或在线演示，体现了数字时代的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个包装精美的礼物盒子放在会议桌上，代表多义：盒子是礼物（noun），会议是当前情况（adjective），而打开盒子是呈现（verb）。",
+      "keyElements": [
+        "礼物盒子",
+        "会议桌",
+        "打开动作"
+      ],
+      "emotionalConnection": "联结到个人生日经验，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Present = Pre (before) + Sent (feel) = 感觉在眼前",
+        "explanation": "通过词根联想帮助记忆多义，结合视觉化以利用大脑的图像处理能力"
+      },
+      {
+        "type": "缩略",
+        "content": "P for Present: Package (礼物), Point (当前), Perform (呈现)",
+        "explanation": "使用首字母缩略法创建类别，帮助分类记忆"
+      }
+    ],
+    "wordAssociations": [
+      "gift",
+      "now",
+      "show",
+      "current"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "presents (for noun meaning gift)",
+      "pastTense": "presented (for verb)",
+      "pastParticiple": "presented (for verb)",
+      "presentParticiple": "presenting (for verb)",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + present",
+        "description": "主语 + 动词 + 宾语结构，用于呈现动作",
+        "examples": [
+          "She presents the report."
+        ]
+      },
+      {
+        "pattern": "Adjective + noun",
+        "description": "形容词修饰名词结构，用于当前含义",
+        "examples": [
+          "The present moment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'present' with 'presence'",
+        "correction": "Use 'present' for current or gift, 'presence' for being there.",
+        "explanation": "错误源于相似发音；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect verb tense",
+        "correction": "Ensure proper conjugation, e.g., 'presents' for third person.",
+        "explanation": "中国学习者常受母语影响，忽略英语动词变位"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "daily life",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "time",
+      "objects",
+      "actions",
+      "gifts"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

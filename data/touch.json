@@ -1,0 +1,277 @@
+{
+  "word": "touch",
+  "phonetics": {
+    "british": "/tʌtʃ/",
+    "american": "/tʌtʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to come into or be in contact with something using your hand or body",
+      "chineseTranslation": "触摸；接触",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of touching someone or something with your hand or body",
+      "chineseTranslation": "触碰；感觉",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "transitive verb",
+      "definition": "to affect or move emotionally",
+      "chineseTranslation": "感动；影响",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "pertaining to a device that responds to physical contact, as in 'touch screen'",
+      "chineseTranslation": "触控的（如触屏）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "touch down",
+      "meaning": "着陆；降落",
+      "example": "The plane will touch down at 5 PM.",
+      "exampleTranslation": "飞机将于下午5点着陆。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "in touch",
+      "meaning": "保持联系",
+      "example": "We need to stay in touch after the meeting.",
+      "exampleTranslation": "会议后我们需要保持联系。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "touch on",
+      "meaning": "简要提及",
+      "example": "The speaker touched on several key issues.",
+      "exampleTranslation": "演讲者简要提及了几个关键问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lose touch",
+      "meaning": "失去联系",
+      "example": "I lost touch with my old friends after moving abroad.",
+      "exampleTranslation": "搬到国外后，我与老朋友失去了联系。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She gently touched the fragile vase on the shelf.",
+      "translation": "她轻轻触摸架子上的易碎花瓶。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The story touched me deeply and brought tears to my eyes.",
+      "translation": "这个故事深深地感动了我，让我泪流满面。",
+      "source": "Literature (e.g., novel excerpts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern technology, touch screens have revolutionized user interfaces.",
+      "translation": "在现代技术中，触屏彻底改变了用户界面。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The athlete's performance touched the hearts of millions worldwide.",
+      "translation": "这位运动员的表现感动了全世界数百万的人。",
+      "source": "News media (e.g., BBC reports)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English from Old French tuchier",
+    "rootWords": [
+      {
+        "root": "toccare",
+        "meaning": "to knock or strike",
+        "language": "Vulgar Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语的拟声词，最初指敲击或轻敲，逐渐演变为表示身体接触的含义。在中世纪英语中，扩展到情感和感官领域，反映了从物理动作到抽象概念的演变过程。",
+    "firstKnownUse": "约13世纪",
+    "relatedWords": [
+      "touchy",
+      "untouched",
+      "contact"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (简单，辅音和元音组合易掌握)",
+    "spellingDifficulty": "4 (拼写规则常规，无不规则变化)",
+    "meaningComplexity": "6 (语义多层，包括物理和情感含义，需上下文区分)",
+    "usageComplexity": "5 (常见搭配多样，但初级语境易理解)",
+    "learningTips": [
+      "使用间隔重复法（spaced repetition）结合视觉图像，如想象手指接触物体，以强化记忆；",
+      "通过双语对照练习，关联汉语的同义词如'触摸'，并在实际对话中应用以提升认知连接；",
+      "根据认知语言学，构建个人叙事场景，例如回想亲身经历的'触碰'事件，以增强情绪记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "feel",
+        "similarity": "0.8",
+        "context": "物理接触语境中，例如描述感官体验"
+      },
+      {
+        "word": "contact",
+        "similarity": "0.7",
+        "context": "正式或技术语境中，表示连接或互动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "avoid",
+        "context": "避免接触的语境中"
+      },
+      {
+        "word": "separate",
+        "context": "分离开来或不接触的语境中"
+      }
+    ],
+    "hypernyms": [
+      "interact",
+      "sense"
+    ],
+    "hyponyms": [
+      "pat",
+      "stroke",
+      "tap"
+    ],
+    "collocations": [
+      {
+        "pattern": "touch + noun (e.g., touch the button)",
+        "examples": [
+          "Touch the screen to proceed."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + touch (e.g., gently touch)",
+        "examples": [
+          "Gently touch the surface."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征亲密关系或情感连接，如在文学中常用于表达同理心；在东方文化如中国，可能隐含个人空间界限的敏感性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于情感含义，如'touchy'表示易怒",
+        "usage": "在日常对话中强调礼节，避免不当身体接触"
+      },
+      {
+        "region": "美国",
+        "variation": "常用于技术语境，如'touch screen'",
+        "usage": "在科技和商业环境中频繁出现，反映数字时代习惯"
+      }
+    ],
+    "historicalContext": "在中世纪欧洲，该词与骑士文化相关，常用于描述骑士的轻触或情感冲击；在现代，关联到心理健康领域，如'healing touch'。",
+    "modernUsage": "在社交媒体上，该词用于表达虚拟互动，如在线'触达'他人，体现了全球数字化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一只手轻轻触碰一朵花瓣的场景",
+      "keyElements": [
+        "手、手指、花瓣、柔软感"
+      ],
+      "emotionalConnection": "联结个人童年回忆，如第一次触摸宠物，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Touch rhymes with 'much', so think of touching much more than just objects.",
+        "explanation": "通过声音联想强化记忆，结合认知科学中的双编码理论，将听觉和视觉结合"
+      },
+      {
+        "type": "缩略",
+        "content": "T-O-U-C-H: Touch Others Using Caring Hands",
+        "explanation": "使用首字母缩写创建故事，辅助工作记忆并促进长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "feel",
+      "contact",
+      "emotion",
+      "screen"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "touched",
+      "pastParticiple": "touched",
+      "presentParticiple": "touching",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + touch + object",
+        "description": "主语直接作用于宾语的结构",
+        "examples": [
+          "I touch the door."
+        ]
+      },
+      {
+        "pattern": "Touch + preposition + noun",
+        "description": "表示接触方式的句法",
+        "examples": [
+          "Touch on the topic briefly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'touch' interchangeably with 'feel' in all contexts",
+        "correction": "Distinguish based on context; 'touch' implies physical contact",
+        "explanation": "错误源于语义重叠，建议通过语境练习避免混淆"
+      },
+      {
+        "mistake": "Incorrect tense formation, e.g., 'toucheds'",
+        "correction": "Use 'touched' for past tense",
+        "explanation": "英语动词规则变化简单，但需注意常规添加-ed"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "科技",
+      "文学",
+      "情感表达"
+    ],
+    "tags": [
+      "感官词汇",
+      "互动",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

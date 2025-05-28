@@ -1,0 +1,243 @@
+{
+  "word": "retry",
+  "phonetics": {
+    "british": "/rɪˈtraɪ/",
+    "american": "/rɪˈtraɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to attempt something again, especially after a previous failure or unsuccessful try",
+      "chineseTranslation": "重新尝试",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an act of trying again, often in computing contexts like retrying a failed operation",
+      "chineseTranslation": "重新尝试的行为",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "retry the download",
+      "meaning": "重新尝试下载",
+      "example": "If the file fails to download, you can retry the download after a few minutes.",
+      "exampleTranslation": "如果文件下载失败，您可以在几分钟后重新尝试下载。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "retry button",
+      "meaning": "重新尝试按钮",
+      "example": "Click the retry button to attempt the process once more.",
+      "exampleTranslation": "点击重新尝试按钮再次执行该过程。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the first attempt failed, the technician decided to retry the calibration.",
+      "translation": "在第一次尝试失败后，技术员决定重新尝试校准。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In online gaming, players often have to retry levels multiple times to achieve a high score.",
+      "translation": "在在线游戏中，玩家经常需要多次重新尝试关卡来获得高分。",
+      "source": "Modern literature (gaming context)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She asked the system to retry the payment due to a network error.",
+      "translation": "由于网络错误，她要求系统重新尝试支付。",
+      "source": "News article",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      },
+      {
+        "root": "try",
+        "meaning": "to attempt or test",
+        "language": "Old French (from Latin 'tritare', meaning to rub or wear down)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语前缀 're-'（意为再次），与古法语 'try' 结合，形成英语词汇 'retry'。该词在16世纪出现，用于表示重复尝试的概念，最初在一般英语中发展，后来在技术语境中流行。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "retrial",
+      "reattempt",
+      "reattempt"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 2,
+    "usageComplexity": 5,
+    "learningTips": [
+      "使用认知科学中的重复暴露原则，将 'retry' 与实际失败-重试场景联系；通过视觉联想如按钮图标，增强记忆定型；结合间隔重复系统（Spaced Repetition System）来强化词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "attempt again",
+        "similarity": 0.9,
+        "context": "在失败后重新努力的语境中，例如日常决策"
+      },
+      {
+        "word": "try again",
+        "similarity": 1,
+        "context": "一般语境中，表示简单重复行动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "give up",
+        "context": "在放弃尝试的语境中，常用于激励性对话"
+      },
+      {
+        "word": "abandon",
+        "context": "在完全停止的语境中，如项目管理"
+      }
+    ],
+    "hypernyms": [
+      "attempt"
+    ],
+    "hyponyms": [
+      "reboot",
+      "retest"
+    ],
+    "collocations": [
+      {
+        "pattern": "retry + noun (e.g., retry the process)",
+        "examples": [
+          "retry the exam",
+          "retry the connection"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "verb + retry (e.g., must retry)",
+        "examples": [
+          "need to retry"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征坚持和韧性，尤其在科技和体育领域，体现出西方文化对失败后重试的积极态度，如在好莱坞电影中常见重试主题。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如软件应用",
+        "usage": "在美国英语中，'retry' 在日常对话和数字媒体中频繁出现，强调创新和快速迭代"
+      },
+      {
+        "region": "英国",
+        "variation": "使用方式类似，但可能更正式",
+        "usage": "在英国英语中，偶尔用于正式语境，如法律重审（retrial），但整体无显著差异"
+      }
+    ],
+    "historicalContext": "与工业革命相关的重复尝试概念有关联，在19世纪的英国文学中出现，反映社会对进步的追求。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于表达重试行动，如TikTok视频中的失败重试剪辑。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个视频游戏屏幕上显示 'Retry' 按钮，用户点击后重新开始关卡。",
+      "keyElements": [
+        "按钮",
+        "重新开始",
+        "失败场景"
+      ],
+      "emotionalConnection": "联结个人经历中失败后的挫败感和成就感，触发动机以增强记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'retry' 联想为 're-tie'（重新系鞋带），表示再次尝试固定东西。",
+        "explanation": "通过声音和视觉联想，基于认知科学中的双编码理论，帮助初级学习者记忆拼写和含义。"
+      },
+      {
+        "type": "缩略",
+        "content": "R-T-Y：Re-Try-You（重新-尝试-你），将词汇与个人行动联系。",
+        "explanation": "利用缩略形式结合自我参照效应，促进长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "repeat",
+      "try again",
+      "reboot"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "retried",
+      "pastParticiple": "retried",
+      "presentParticiple": "retrying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + retry + object",
+        "description": "主语 + 重新尝试 + 宾语的结构，常用于命令句或叙述句",
+        "examples": [
+          "We will retry the experiment tomorrow."
+        ]
+      },
+      {
+        "pattern": "Imperative form: Retry + object",
+        "description": "祈使句结构，用于指令语境",
+        "examples": [
+          "Retry the login process."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'retry' as two words or misspelling as 're-try'",
+        "correction": "Use as one word: 'retry'",
+        "explanation": "在现代英语中，它是一个合成词；错误可能源于前缀分离的习惯。"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'retrieds' for plural",
+        "correction": "Use 'retried' for past tense",
+        "explanation": "作为规则动词，需遵循标准过去式规则以避免语法错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; approximately 500 occurrences per million words in COCA corpus",
+    "domains": [
+      "Technology",
+      "Sports",
+      "General communication"
+    ],
+    "tags": [
+      "Action",
+      "Repetition",
+      "Persistence"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "word": "mouse",
+  "phonetics": {
+    "british": "/maʊs/",
+    "american": "/maʊs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small rodent of the family Muridae, typically having a pointed snout, small rounded ears, and a long tail.",
+      "chineseTranslation": "老鼠",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A hand-held device that controls the movement of the cursor on a computer screen.",
+      "chineseTranslation": "计算机鼠标",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move stealthily or cautiously like a mouse.",
+      "chineseTranslation": "像老鼠一样悄悄移动",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To navigate or interact with a computer using a mouse device.",
+      "chineseTranslation": "使用鼠标操作计算机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computer mouse",
+      "meaning": "计算机外围设备，用于控制光标",
+      "example": "I need a new computer mouse because the old one is not responding.",
+      "exampleTranslation": "我需要一个新的计算机鼠标，因为旧的没有反应。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "mouse trap",
+      "meaning": "捕捉老鼠的陷阱",
+      "example": "He set up a mouse trap in the kitchen to catch the pests.",
+      "exampleTranslation": "他在厨房设置了一个老鼠夹来捕捉害虫。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "as quiet as a mouse",
+      "meaning": "非常安静，像老鼠一样不发出声音",
+      "example": "The children were as quiet as a mouse during the library visit.",
+      "exampleTranslation": "孩子们在图书馆参观时安静得像老鼠一样。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mouse scurried across the floor, searching for food.",
+      "translation": "老鼠匆匆穿过地板，寻找食物。",
+      "source": "Literature (e.g., children's stories)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She used the mouse to click on the icon and open the file.",
+      "translation": "她使用鼠标点击图标来打开文件。",
+      "source": "Technical manuals (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the old fable, the mouse helped the lion escape from the net.",
+      "translation": "在古老的寓言中，老鼠帮助狮子从网中逃脱。",
+      "source": "Folk tales (e.g., Aesop's Fables)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He had to mouse through the database to find the relevant data.",
+      "translation": "他必须在数据库中仔细搜索相关数据。",
+      "source": "Modern business contexts (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "mūs",
+        "meaning": "A small rodent",
+        "language": "Old English"
+      },
+      {
+        "root": "*mūs-",
+        "meaning": "Mouse or similar small animal",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "*mūs-",
+        "meaning": "Small creature",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 mūs，源自原始日耳曼语 *mūs-，最终追溯到原始印欧语 *mūs-，最初指小哺乳动物。在现代英语中，该词扩展到指计算机设备，可能起源于20世纪60年代的发明，指其移动方式类似老鼠。",
+    "firstKnownUse": "Before 12th century (for the animal)",
+    "relatedWords": [
+      "mousetrap",
+      "mouser",
+      "mice"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，/maʊs/ 的元音 diphthong 可能对中文学习者稍有挑战)",
+    "spellingDifficulty": "2 (拼写规则直观，无不规则变化)",
+    "meaningComplexity": "5 (多义词，需要区分动物和设备含义)",
+    "usageComplexity": "4 (常见于日常和技术语境，但需注意上下文)",
+    "learningTips": [
+      "利用认知科学原理，如通过视觉联想将 'mouse' 与老鼠图像或鼠标设备结合；使用间隔重复法复习多义词以增强记忆；为中文学习者，建议与同音词比较以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rodent",
+        "similarity": "0.7",
+        "context": "在动物语境中，指小哺乳动物"
+      },
+      {
+        "word": "pointing device",
+        "similarity": "0.8",
+        "context": "在技术语境中，指计算机外围设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cat",
+        "context": "在动物语境中，作为捕食者"
+      },
+      {
+        "word": "keyboard",
+        "context": "在技术语境中，作为替代输入设备"
+      }
+    ],
+    "hypernyms": [
+      "rodent (for the animal)",
+      "peripheral (for the device)"
+    ],
+    "hyponyms": [
+      "house mouse",
+      "field mouse",
+      "wireless mouse"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + mouse (e.g., computer mouse)",
+        "examples": [
+          "a wireless mouse",
+          "an optical mouse"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + mouse (e.g., to mouse around)",
+        "examples": [
+          "to mouse through files"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，老鼠常象征机智或狡猾，如伊索寓言中的老鼠；在现代文化中，计算机鼠标代表技术进步和日常便利。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用更偏向正式语境",
+        "usage": "在英国英语中，'mouse' 常用于技术讨论中，强调其在计算机历史中的起源"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用在非正式语境",
+        "usage": "在美国英语中，'mouse' 可能更频繁出现在日常对话中，如科技产品描述"
+      }
+    ],
+    "historicalContext": "老鼠在文学中如《爱丽丝梦游仙境》或希腊神话中出现，象征弱小力量；计算机鼠标与硅谷创新相关，反映20世纪科技革命。",
+    "modernUsage": "在社交媒体和数字时代，'mouse' 常用于在线讨论和技术教程中，体现全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一只小老鼠（动物）在房子里奔跑，同时旁边有一个计算机鼠标在桌子上移动。",
+      "keyElements": [
+        "老鼠图像",
+        "鼠标设备",
+        "移动动作"
+      ],
+      "emotionalConnection": "联结个人经验，如童年看动画片中的老鼠，或日常使用电脑，触发熟悉感和幽默感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'mouse' 联想为 'mouth' 的声音相似，但 'mouse' 像小嘴在悄悄移动",
+        "explanation": "通过声音联觉帮助记忆发音和含义，避免与中文 'mouse' 音似词混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "M-O-U-S-E: M for mammal, O for object, U for utility, S for small, E for electronic",
+        "explanation": "使用首字母缩略法区分多义，根据认知科学中的分块编码增强保留"
+      }
+    ],
+    "wordAssociations": [
+      "rat",
+      "cursor",
+      "click"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "mice",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "mousing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + mouse",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The mouse ran away."
+        ]
+      },
+      {
+        "pattern": "Adjective + mouse",
+        "description": "用于修饰的结构",
+        "examples": [
+          "A wireless mouse is convenient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'mouses' as plural",
+        "correction": "Use 'mice' for the animal",
+        "explanation": "英语中 'mouse' 作为动物名词有不规则复数形式"
+      },
+      {
+        "mistake": "Confusing with 'mousse'",
+        "correction": "Distinguish pronunciation and meaning",
+        "explanation": "避免语音混淆，'mouse' /maʊs/ 与 'mousse' /muːs/"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Biology",
+      "Daily life"
+    ],
+    "tags": [
+      "Animal",
+      "Computing",
+      "Idiomatic expressions"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

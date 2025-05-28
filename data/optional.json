@@ -1,0 +1,256 @@
+{
+  "word": "optional",
+  "phonetics": {
+    "british": "/ɒpˈʃənəl/",
+    "american": "/ɑːpˈʃɑːnəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not required or mandatory; able to be chosen or omitted according to preference or necessity.",
+      "chineseTranslation": "可选的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Pertaining to something that is available as an extra or alternative option.",
+      "chineseTranslation": "备选的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "optional parameter",
+      "meaning": "可选参数",
+      "example": "In programming, an optional parameter can be omitted if not needed.",
+      "exampleTranslation": "在编程中，可选参数如果不需要可以省略。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "optional feature",
+      "meaning": "可选功能",
+      "example": "Many smartphones come with optional features like fingerprint scanners.",
+      "exampleTranslation": "许多智能手机配备了像指纹扫描仪这样的可选功能。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "optional subject",
+      "meaning": "选修科目",
+      "example": "In high school, history is an optional subject for some students.",
+      "exampleTranslation": "在高中，历史对一些学生来说是选修科目。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The optional extras on the car package include alloy wheels and a sunroof.",
+      "translation": "汽车套餐中的可选额外项目包括合金轮毂和天窗。",
+      "source": "Consumer product reviews (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Wearing a tie is optional for the informal meeting.",
+      "translation": "对于非正式会议，戴领带是可选的。",
+      "source": "Business communication texts (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the software update, the optional modules enhance user customization.",
+      "translation": "在软件更新中，可选模块增强了用户自定义功能。",
+      "source": "Technology articles (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "optio",
+        "meaning": "choice or selection",
+        "language": "Latin"
+      },
+      {
+        "root": "optionalis",
+        "meaning": "pertaining to choice",
+        "language": "Late Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'optio' meaning 'choice', the word evolved through Late Latin 'optionalis' in the 17th century to English, initially used in philosophical and legal contexts to denote non-mandatory elements, and later expanded to everyday usage in technology and education by the 20th century.",
+    "firstKnownUse": "1656",
+    "relatedWords": [
+      "option",
+      "optative",
+      "elective"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "4",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知关联法，将 'optional' 与日常生活选择（如菜单选项）联系起来，以强化记忆路径；",
+      "通过间隔重复系统复习，结合视觉图像如复选框图标，帮助建立长时记忆；",
+      "根据双编码理论，将词汇与个人经历（如选修课程）配对，以提升保留率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "elective",
+        "similarity": "0.8",
+        "context": "在教育或政治语境中，用于描述可选择的选项"
+      },
+      {
+        "word": "voluntary",
+        "similarity": "0.7",
+        "context": "在社会或工作语境中，表示非强制性的活动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mandatory",
+        "context": "在法律或规则语境中，表示必须遵守的"
+      },
+      {
+        "word": "required",
+        "context": "在教育或工作语境中，表示必要性的"
+      }
+    ],
+    "hypernyms": [
+      "choice-based"
+    ],
+    "hyponyms": [
+      "discretionary",
+      "non-essential"
+    ],
+    "collocations": [
+      {
+        "pattern": "optional + noun (e.g., optional feature)",
+        "examples": [
+          "optional payment",
+          "optional upgrade"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + optional (e.g., fully optional)",
+        "examples": [
+          "completely optional",
+          "truly optional"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代西方文化中，该词象征个人自由和选择权，尤其在消费主义社会中，体现为产品自定义选项；在中国文化语境中，可能与集体决策形成对比，强调个体自主。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术和服务行业，如 'optional add-ons'。",
+        "usage": "在日常商业语境中，突出消费者选择以增强市场竞争力"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，使用如 'optional provision' 在教育政策中。",
+        "usage": "在正式文件或学术讨论中，强调非强制性以维护礼节"
+      }
+    ],
+    "historicalContext": "起源于启蒙运动时期的个人主义思想，如洛克的自由选择概念，并在工业革命后与技术创新（如汽车选项）相关联。",
+    "modernUsage": "在社交媒体和在线平台中，'optional' 常用于隐私设置或订阅服务，反映数字时代的数据保护趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有复选框的菜单界面，其中 'optional' 代表用户可以选择的额外项目。",
+      "keyElements": [
+        "复选框",
+        "菜单选项",
+        "选择图标"
+      ],
+      "emotionalConnection": "联结到个人决策经历，如点餐时选择附加服务，触发成就感或自由感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'optional' as 'opt-in-al', linking to 'opt-in' for choices.",
+        "explanation": "通过声音联想和视觉想象，帮助记忆词汇的核心含义"
+      },
+      {
+        "type": "缩略",
+        "content": "O-P-T: Option, Pick, Take – only if you want.",
+        "explanation": "利用首字母缩写结合个人化短语，强化认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "choice",
+      "select",
+      "alternative",
+      "flexible"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more optional",
+      "superlative": "most optional"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + optional",
+        "description": "用于描述某事是非强制性的结构",
+        "examples": [
+          "The fee is optional."
+        ]
+      },
+      {
+        "pattern": "Optional + noun phrase",
+        "description": "用作定语修饰名词的结构",
+        "examples": [
+          "An optional course is available."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'optical'",
+        "correction": "Use 'optional' for choices, not 'optical' which means related to sight.",
+        "explanation": "源自语音相似性；通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more optional' instead of '*optionaller'.",
+        "explanation": "作为多音节形容词，不使用-er形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "education",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "adjective",
+      "choice",
+      "non-mandatory",
+      "flexibility"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "word": "emails",
+  "phonetics": {
+    "british": "/ˈiːmeɪlz/",
+    "american": "/ˈiːmeɪlz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Electronic messages distributed by a telecommunications system for handling text, often including attachments, sent from one computer user to one or more recipients via the internet.",
+      "chineseTranslation": "电子邮件",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "check emails",
+      "meaning": "检查电子邮件",
+      "example": "I always check my emails before starting work.",
+      "exampleTranslation": "我总是在开始工作前检查我的电子邮件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "send emails",
+      "meaning": "发送电子邮件",
+      "example": "She prefers to send emails rather than make phone calls.",
+      "exampleTranslation": "她更喜欢发送电子邮件而不是打电话。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "reply to emails",
+      "meaning": "回复电子邮件",
+      "example": "It's important to reply to emails promptly in a professional setting.",
+      "exampleTranslation": "在专业环境中，及时回复电子邮件很重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I receive dozens of emails every day from colleagues and clients.",
+      "translation": "我每天从同事和客户那里收到几十封电子邮件。",
+      "source": "Business communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the modern workplace, emails have replaced many traditional letters.",
+      "translation": "在现代职场，电子邮件已经取代了许多传统信函。",
+      "source": "News articles (e.g., from BBC or The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He filters his emails to prioritize important messages over spam.",
+      "translation": "他过滤电子邮件，以优先处理重要消息而非垃圾邮件。",
+      "source": "Daily conversation (e.g., from everyday English corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "e-",
+        "meaning": "electronic",
+        "language": "Modern English (derived from Greek 'ēlektron' meaning amber)"
+      },
+      {
+        "root": "mail",
+        "meaning": "a system for sending letters and packages",
+        "language": "Old French (from 'malle' meaning bag or trunk)"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪70年代的计算机通信发展，'email' 一词是'electronic mail'的缩写，起初用于ARPANET系统，后来随着互联网普及演变为现代数字通信工具，从最初的军事和学术语境扩展到全球日常使用。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "email",
+      "e-mail",
+      "messaging"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "2",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过将 'emails' 与个人电子通信经历联系起来，利用认知关联增强记忆；建议使用间隔重复系统如Anki来巩固词汇；结合视觉辅助，如想象邮箱图标，以提高长期保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "messages",
+        "similarity": "0.8",
+        "context": "在数字通信语境中，尤其适用于非正式场合"
+      },
+      {
+        "word": "correspondence",
+        "similarity": "0.6",
+        "context": "在正式或商业语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "letters",
+        "context": "传统纸质通信与数字通信的对比语境"
+      },
+      {
+        "word": "phone calls",
+        "context": "实时口头交流与异步书面交流的对比语境"
+      }
+    ],
+    "hypernyms": [
+      "communications",
+      "digital media"
+    ],
+    "hyponyms": [
+      "spam emails",
+      "business emails",
+      "personal emails"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + emails",
+        "examples": [
+          "send emails",
+          "receive emails"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + emails",
+        "examples": [
+          "important emails",
+          "junk emails"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "电子邮件在全球文化中象征着数字化转型和即时连接，代表了从传统通信向现代效率导向的转变，在西方文化中常与工作效率和信息过载相关。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "常用 'emails' 作为标准术语",
+        "usage": "在美国英语中，广泛用于商业和日常通信，常强调效率和专业性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国英语类似，但可能更偏向正式语域",
+        "usage": "在英国英语中，'emails' 常出现在正式文件或教育语境中，反映了注重礼节的文化"
+      }
+    ],
+    "historicalContext": "与互联网革命和全球化的历史相关，电子邮件从20世纪70年代的ARPANET项目演变而来，影响了文学和社会讨论，如在赛博朋克小说中代表技术进步。",
+    "modernUsage": "在社交媒体时代，电子邮件主要用于正式通信，如工作申请，而非即时聊天；其使用趋势显示出对隐私和数据安全的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字邮箱界面，里面堆满信封状的图标。",
+      "keyElements": [
+        "邮箱图标",
+        "信封",
+        "电脑屏幕"
+      ],
+      "emotionalConnection": "回想第一次使用电子邮件的兴奋或压力感，以建立个人情感联结。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'emails' as 'e-lectronic mails' – like traditional mail but faster and digital.",
+        "explanation": "通过将词汇与熟悉的传统邮件概念联想，利用认知科学中的双编码理论（视觉和语义结合）来提升记忆效果。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Associate the sound '/ˈiːmeɪlz/' with the idea of 'easy mails' for quick recall.",
+        "explanation": "利用声音与概念的联觉，帮助中级学习者避免混淆，基于神经科学中感觉整合的原则。"
+      }
+    ],
+    "wordAssociations": [
+      "inbox",
+      "outbox",
+      "spam"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "emails",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (emails)",
+        "description": "典型结构如主语 + 动词 + 'emails'，用于描述动作或状态",
+        "examples": [
+          "I send emails daily."
+        ]
+      },
+      {
+        "pattern": "Adjective + emails",
+        "description": "用于修饰 'emails' 的形容词结构，强调特征",
+        "examples": [
+          "These important emails require immediate attention."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'email' (singular) with 'emails' (plural)",
+        "correction": "Use 'emails' for multiple items",
+        "explanation": "中级学习者常忽略复数形式，导致语义模糊；正确区分有助于句子清晰度。"
+      },
+      {
+        "mistake": "Incorrect verb agreement",
+        "correction": "Ensure subject-verb agreement, e.g., 'The emails are important'",
+        "explanation": "由于 'emails' 是复数名词，动词需相应变化，以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked within top 500 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Daily Life",
+      "Communication"
+    ],
+    "tags": [
+      "Digital Communication",
+      "Internet Terminology",
+      "Modern English"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "word": "covariable",
+  "phonetics": {
+    "british": "/kəʊˈvɛərɪəbl/",
+    "american": "/koʊˈvɛr.i.ə.bəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A variable that is included in a statistical model to account for its potential influence on the dependent variable, often used to control for confounding factors.",
+      "chineseTranslation": "协变量",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "confounding covariable",
+      "meaning": "混杂协变量",
+      "example": "In epidemiology, a confounding covariable can distort the relationship between the exposure and the outcome.",
+      "exampleTranslation": "在流行病学中，混杂协变量可能会扭曲暴露因素与结果之间的关系。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "continuous covariable",
+      "meaning": "连续协变量",
+      "example": "Age is often treated as a continuous covariable in regression models.",
+      "exampleTranslation": "年龄通常被视为回归模型中的连续协变量。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers adjusted for covariables such as age and gender in their analysis of the study's data.",
+      "translation": "研究人员在分析研究数据时，对年龄和性别等协变量进行了调整。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The covariable of socioeconomic status was found to significantly impact the results of the experiment.",
+      "translation": "社会经济地位这一协变量被发现对实验结果有显著影响。",
+      "source": "Scientific publication (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In a simple linear regression, the covariable might be excluded if it shows no correlation.",
+      "translation": "在简单线性回归中，如果协变量显示无相关性，则可能被排除。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and English",
+    "rootWords": [
+      {
+        "root": "co-",
+        "meaning": "together or jointly",
+        "language": "Latin"
+      },
+      {
+        "root": "variable",
+        "meaning": "changeable or varying",
+        "language": "Latin (from 'varius' meaning diverse)"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin prefix 'co-' meaning 'together' and the English word 'variable' from Latin 'varius'. It evolved in the 20th century with the development of statistical methods, particularly in multivariate analysis, to describe variables that interact with primary variables.",
+    "firstKnownUse": "Mid-20th century (e.g., around 1940s in statistical literature)",
+    "relatedWords": [
+      "covariate",
+      "independent variable",
+      "confounder"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires advanced understanding of statistical concepts)",
+    "pronunciationDifficulty": "6 (out of 10, due to the multisyllabic structure and potential vowel shifts between British and American variants)",
+    "spellingDifficulty": "5 (out of 10, as it combines common prefixes and roots but may be misspelled by learners unfamiliar with scientific terminology)",
+    "meaningComplexity": "8 (out of 10, involving abstract statistical concepts that require contextual knowledge)",
+    "usageComplexity": "7 (out of 10, primarily used in technical contexts with specific syntactic patterns)",
+    "learningTips": [
+      "使用认知科学中的间隔重复法来记忆词汇关联；将 covariable 与实际统计案例可视化，例如通过图表联想，以增强语义网络；结合母语（中文）中的类似概念如 '自变量' 来建立双语映射，促进迁移学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "covariate",
+        "similarity": "0.95",
+        "context": "在统计模型中，用于控制其他因素的语境，常用于科学和研究领域"
+      },
+      {
+        "word": "control variable",
+        "similarity": "0.80",
+        "context": "实验设计中，需控制其影响的语境，如实验室研究"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dependent variable",
+        "context": "统计模型中，作为结果变量而非影响因素的语境"
+      }
+    ],
+    "hypernyms": [
+      "variable"
+    ],
+    "hyponyms": [
+      "confounding variable",
+      "explanatory variable"
+    ],
+    "collocations": [
+      {
+        "pattern": "covariable in regression",
+        "examples": [
+          "Adjust for covariable in regression models."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "include covariable",
+        "examples": [
+          "We must include covariable to ensure accuracy."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征严谨性和控制变量的需求，体现了西方实证主义传统中对客观性的追求，常用于学术和研究环境中以确保结果的可靠性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English in fields like epidemiology and social sciences.",
+        "usage": "在美国，经常在正式学术论文中出现，以强调统计模型的精确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage, but sometimes interchanged with 'covariate' in British English publications.",
+        "usage": "在英国，更多见于交叉学科研究中，体现出科学全球化的趋势"
+      }
+    ],
+    "historicalContext": "与20世纪统计学和计量经济学的兴起相关，特别是在第二次世界大战后数据分析的快速发展中；在文学和社会背景中，代表了现代科学方法论对不确定性的处理。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于数据科学讨论，如YouTube教程或Twitter学术交流中，反映了数字时代对统计工具的普及。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中 'co-' 代表两个相互连接的齿轮，而 'variable' 是一个变化的指针，帮助平衡整体系统。",
+      "keyElements": [
+        "天平秤",
+        "齿轮",
+        "指针"
+      ],
+      "emotionalConnection": "联结到个人经历，如在工作中处理数据分析时的挫败感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Co-variable 像 'co-pilot' 在飞行中辅助主驾驶一样，帮助控制变量。",
+        "explanation": "通过类比建立视觉和功能联想，利用认知科学中的双编码理论（视觉+语义）来强化记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "COVAR = Control Other Variables And Results",
+        "explanation": "使用首字母缩写创建简单口诀，促进工作记忆向长时记忆的转化。"
+      }
+    ],
+    "wordAssociations": [
+      "variable",
+      "statistics",
+      "adjust",
+      "model"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "covariables",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "常作为名词出现在短语中，如 'covariable in a model'",
+        "examples": [
+          "The covariable in this study was age."
+        ]
+      },
+      {
+        "pattern": "Subject in a sentence",
+        "description": "用作句子的主语，描述其作用",
+        "examples": [
+          "Covariable affects the outcome significantly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'variable'",
+        "correction": "Use 'covariable' specifically for secondary variables in statistics.",
+        "explanation": "学习者常混淆其专业语境，导致语义错误；需通过上下文练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "covariables (not covariable's)",
+        "explanation": "由于英语复数规则的多样性，初级学习者可能添加不必要的撇号。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "统计学",
+      "研究"
+    ],
+    "tags": [
+      "统计术语",
+      "科学词汇",
+      "数据分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

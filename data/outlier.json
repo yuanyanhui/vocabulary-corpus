@@ -1,0 +1,246 @@
+{
+  "word": "outlier",
+  "phonetics": {
+    "british": "/ˈaʊtlaɪə(r)/",
+    "american": "/ˈaʊtˌlaɪər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that is situated away or detached from the main body or system; in statistics, a data point that differs significantly from other observations.",
+      "chineseTranslation": "异常值；离群值；（指与主流不同的）异常者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An observation that is numerically distant from the rest of the data.",
+      "chineseTranslation": "（统计学中的）离群点",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "statistical outlier",
+      "meaning": "统计学中的异常值",
+      "example": "In data analysis, a statistical outlier can skew the results of the entire dataset.",
+      "exampleTranslation": "在数据分析中，统计异常值可能会扭曲整个数据集的结果。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cultural outlier",
+      "meaning": "文化上的异常者或例外",
+      "example": "Some societies view certain traditions as cultural outliers in the global context.",
+      "exampleTranslation": "某些社会将特定传统视为全球语境中的文化异常。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist identified an outlier in the experiment's data, which led to a reevaluation of the hypothesis.",
+      "translation": "科学家在实验数据中识别出一个异常值，这导致了对假设的重新评估。",
+      "source": "Scientific literature (e.g., from journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the survey, her opinion was an outlier compared to the majority's views.",
+      "translation": "在调查中，她的观点与大多数人的看法相比是一个异常。",
+      "source": "News articles (e.g., from BBC or The New York Times)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "As an outlier in the financial market, the stock's performance attracted significant attention from investors.",
+      "translation": "作为金融市场中的异常值，这支股票的表现吸引了投资者的极大关注。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "out",
+        "meaning": "outside or beyond",
+        "language": "Old English"
+      },
+      {
+        "root": "lier",
+        "meaning": "one who lies or is situated",
+        "language": "Middle English (from Old English 'licgan' meaning to lie down)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于14世纪中古英语，最初指物理位置上远离主体的人或物（如边界上的哨所）。随着统计学和数据科学的兴起，自19世纪起，其含义扩展到数值数据中显著偏离其他值的点。这反映了语言随科学进步而演变的趋势。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "outlying",
+      "outcast"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将'outlier'与视觉图像结合，例如想象一个数据点脱离群体，形成'离群'的画面，以强化记忆；",
+      "通过间隔重复法（spaced repetition）复习该词在统计语境中的用法，以改善长期保留；",
+      "将词汇与个人经验关联，例如回想生活中的异常事件，来增强情绪连接和语义理解"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "anomaly",
+        "similarity": "0.8",
+        "context": "适用于统计或数据分析语境中，表示异常或不寻常的事物"
+      },
+      {
+        "word": "aberration",
+        "similarity": "0.7",
+        "context": "在科学或日常语境中，表示偏离正常轨道的现象"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "norm",
+        "context": "在统计语境中，指标准或平均值，与异常值相对"
+      },
+      {
+        "word": "mainstream",
+        "context": "在文化或社会语境中，指主流趋势，与离群者相对"
+      }
+    ],
+    "hypernyms": [
+      "anomaly",
+      "exception"
+    ],
+    "hyponyms": [
+      "z-score outlier",
+      "influential outlier"
+    ],
+    "collocations": [
+      {
+        "pattern": "outlier in [context]",
+        "examples": [
+          "outlier in data sets",
+          "outlier in social trends"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "detect an outlier",
+        "examples": [
+          "The algorithm can detect an outlier quickly."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代数据驱动社会中象征着创新或风险，常隐含对差异的强调；在西方文化中，'outlier'可能代表个人主义或科学发现的突破，但需注意其在不同文化中可能被视为负面（如不符合集体规范）。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如商业和科技领域",
+        "usage": "在美国英语中，'outlier' 在数据科学讨论中频繁出现，强调其在创新经济中的作用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于地理或历史语境",
+        "usage": "在英国英语中，可能更侧重于地理位置上的'离群'，如边远地区"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，该词的演变反映了西方对数据和异常的系统化思考，例如在达尔文的进化论中，异常个体推动物种变异。",
+    "modernUsage": "在社交媒体和数字时代，'outlier' 常用于讨论流行趋势或AI算法，常见于Twitter或LinkedIn的讨论中，体现全球化语境下的跨文化传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数据点像一个孤独的星星，远离星群，代表脱离主流的异常。",
+      "keyElements": [
+        "星星",
+        "数据点",
+        "脱离群体"
+      ],
+      "emotionalConnection": "联结到个人经历中感到'与众不同'的时刻，以激发好奇心和情感共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Outlier 听起来像 'out' + 'liar'，想象一个'说谎者'（liar）在外面（out），象征不合群的异常。",
+        "explanation": "通过声音联想和视觉化，帮助学习者快速回忆词汇含义，基于认知语言学中的概念映射"
+      },
+      {
+        "type": "缩略",
+        "content": "O-U-T: Out of Usual Trend",
+        "explanation": "使用首字母缩略来强化语义记忆，结合重复练习以提升认知保留"
+      }
+    ],
+    "wordAssociations": [
+      "anomaly",
+      "exception",
+      "deviant"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "outliers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + outlier + in + context",
+        "description": "该结构用于描述某物在特定语境中的异常地位",
+        "examples": [
+          "This data point is an outlier in the set."
+        ]
+      },
+      {
+        "pattern": "Detect + outlier + in + noun phrase",
+        "description": "用于表示发现异常的过程",
+        "examples": [
+          "We need to detect outliers in the dataset."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'outline'",
+        "correction": "Use 'outlier' for statistical exceptions",
+        "explanation": "学习者常误将'outlier'与'outline'混淆，因为发音相似；需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'outliers' for plural",
+        "explanation": "作为可数名词，需正确添加-s，但初级学习者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "business",
+      "statistics"
+    ],
+    "tags": [
+      "data analysis",
+      "exception",
+      "statistics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

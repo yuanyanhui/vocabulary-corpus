@@ -1,0 +1,271 @@
+{
+  "word": "beta",
+  "phonetics": {
+    "british": "/ˈbiːtə/",
+    "american": "/ˈbeɪtə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The second letter of the Greek alphabet.",
+      "chineseTranslation": "希腊字母的第二个字母",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A preliminary version of a software product that is released for testing.",
+      "chineseTranslation": "软件产品的初步测试版本",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In finance, a measure of the volatility of a security or portfolio compared to the market as a whole.",
+      "chineseTranslation": "在金融中，用于衡量证券或投资组合相对于整体市场的波动性",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Denoting the second in a series or the second form of something.",
+      "chineseTranslation": "表示系列中的第二个或第二形式的事物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beta testing",
+      "meaning": "软件测试阶段",
+      "example": "The company is conducting beta testing to identify bugs.",
+      "exampleTranslation": "公司正在进行测试以识别错误。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "beta version",
+      "meaning": "测试版本",
+      "example": "Users can download the beta version for free.",
+      "exampleTranslation": "用户可以免费下载测试版本。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "beta particle",
+      "meaning": "β粒子",
+      "example": "Beta particles are emitted during radioactive decay.",
+      "exampleTranslation": "β粒子在放射性衰变过程中被释放。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The beta symbol is commonly used in mathematics.",
+      "translation": "β符号在数学中常用。",
+      "source": "Academic texts (e.g., from mathematics corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "This app is still in beta, so expect some glitches.",
+      "translation": "这个应用仍在测试阶段，所以可能会有一些故障。",
+      "source": "Tech news (e.g., from online articles in COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In stock markets, a stock with a beta of 1.5 is more volatile than the market.",
+      "translation": "在股票市场中，β值为1.5的股票比市场更易波动。",
+      "source": "Financial reports (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She ranked second in the competition, often referred to as the beta position.",
+      "translation": "她在比赛中排名第二，通常称为第二位置。",
+      "source": "General literature (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "βήτα",
+        "meaning": "The second letter",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'βήτα'，最初表示希腊字母表的第二个字母。后来通过拉丁语传播到英语中，并在现代语境中扩展到科技和金融领域，例如软件测试版本的含义出现于20世纪中叶的计算机科学发展。",
+    "firstKnownUse": "Circa 4th century BC in Ancient Greek texts",
+    "relatedWords": [
+      "alphabet",
+      "gamma",
+      "alpha"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "通过重复曝光和语境学习结合认知科学原理，例如使用间隔重复系统来记忆多重含义；",
+      "将词汇与视觉图像关联，如将'beta'与希腊字母表或软件图标连接，以增强海马体记忆；",
+      "针对中文母语学习者，比较英语'beta'与中文'β'的发音差异，避免母语干扰"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "prototype",
+        "similarity": "0.7",
+        "context": "在软件开发语境中，表示初步版本"
+      },
+      {
+        "word": "pre-release",
+        "similarity": "0.8",
+        "context": "技术语境中，用于描述测试阶段的产品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "final version",
+        "context": "在软件开发中，表示完全发布的版本"
+      },
+      {
+        "word": "alpha",
+        "context": "在序列中，表示第一个或初始版本"
+      }
+    ],
+    "hypernyms": [
+      "letter",
+      "version"
+    ],
+    "hyponyms": [
+      "beta decay (in physics)"
+    ],
+    "collocations": [
+      {
+        "pattern": "beta + noun (e.g., beta testing)",
+        "examples": [
+          "beta software",
+          "beta phase"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + beta (e.g., public beta)",
+        "examples": [
+          "open beta",
+          "closed beta"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'beta'象征创新和测试阶段，常用于科技领域，隐含着追求完美的理念；在跨文化语境中，中国学习者可能将其与希腊文化或现代科技革命关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech slang",
+        "usage": "在美国英语中，'beta' 在软件和互联网文化中非常流行，例如在硅谷的创业环境中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage",
+        "usage": "在英国英语中，可能更侧重于学术语境，如希腊字母，而非科技俚语"
+      }
+    ],
+    "historicalContext": "与古希腊文化和哲学相关联，如在柏拉图作品中出现；现代与工业革命和数字时代相连，反映了从古典知识到当代创新的演变。",
+    "modernUsage": "在社交媒体和在线社区中流行，例如在Twitter或Reddit上讨论软件'beta'版本，体现了全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个希腊字母表中的第二个位置，像一个阶梯的第二步，上面有一个软件图标在测试中闪烁。",
+      "keyElements": [
+        "希腊字母β",
+        "软件更新图标",
+        "测试实验室场景"
+      ],
+      "emotionalConnection": "联结到个人首次使用新软件的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Beta sounds like 'better', so think of it as a better version before the final one.",
+        "explanation": "通过声音联想增强词汇保留，利用认知联想原理将发音与含义连接"
+      },
+      {
+        "type": "缩略",
+        "content": "B for Beginning Test Version.",
+        "explanation": "使用首字母缩略法简化记忆，基于工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "alpha",
+      "gamma",
+      "prototype",
+      "test"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "betas",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the beta version)",
+        "description": "用作名词时，常出现在定语结构中",
+        "examples": [
+          "The beta of the project is underway."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier (e.g., beta software)",
+        "description": "作为形容词修饰名词",
+        "examples": [
+          "This is beta technology."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing beta with alpha",
+        "correction": "Beta is the second stage, alpha is the first.",
+        "explanation": "中文学习者可能因字母顺序混淆，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ˈbɛtə/",
+        "correction": "Use /ˈbeɪtə/ in American English.",
+        "explanation": "发音错误常见于非母语者，建议练习元音区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Science",
+      "Finance"
+    ],
+    "tags": [
+      "Greek origin",
+      "Technical term",
+      "Software development"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

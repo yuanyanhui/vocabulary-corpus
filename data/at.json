@@ -1,0 +1,267 @@
+{
+  "word": "at",
+  "phonetics": {
+    "british": "/æt/",
+    "american": "/æt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Expressing the location where something happens or the time when it occurs; indicating a point in space or time.",
+      "chineseTranslation": "表示位置或时间，意味着在某个地方或时刻发生。",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Indicating a particular point or position in a series, scale, or range; used with prices, rates, or speeds.",
+      "chineseTranslation": "表示在系列、规模或范围中的特定点；常用于价格、比率或速度。",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Indicating the target of an action or the person or thing affected by it.",
+      "chineseTranslation": "表示动作的目标或受影响的人或物。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at home",
+      "meaning": "在家或在舒适的环境中",
+      "example": "I prefer to work at home.",
+      "exampleTranslation": "我更喜欢在家工作。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "at work",
+      "meaning": "在工作场所或忙于工作",
+      "example": "He is at work right now.",
+      "exampleTranslation": "他现在正在工作。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "at least",
+      "meaning": "至少",
+      "example": "It will take at least two hours.",
+      "exampleTranslation": "这至少需要两个小时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "at once",
+      "meaning": "立即或同时",
+      "example": "Please come at once.",
+      "exampleTranslation": "请立即过来。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The meeting is at 3 PM.",
+      "translation": "会议在下午3点。",
+      "source": "Daily conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She arrived at the airport just in time.",
+      "translation": "她及时到达机场。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The price is set at $50 per unit.",
+      "translation": "价格定为每单位50美元。",
+      "source": "Business news (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He aimed the arrow at the target.",
+      "translation": "他将箭瞄准目标。",
+      "source": "Historical texts (e.g., inspired by Shakespeare)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "æt",
+        "meaning": "near or by",
+        "language": "Old English"
+      },
+      {
+        "root": "at",
+        "meaning": "to or toward",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语æt，意为'near'或'by'，演变为现代英语中表示位置、时间或目标的介词；从原始日耳曼语*at-演变而来，逐渐标准化于中古英语时期。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "unto",
+      "to"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将'at'想象为一个指针（如箭头指向位置），以强化空间记忆；重复练习句子以建立语境关联，避免混淆与其他介词。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "in",
+        "similarity": "0.7",
+        "context": "在封闭空间中适用，例如'in the house'与'at home'的语境相似"
+      },
+      {
+        "word": "on",
+        "similarity": "0.6",
+        "context": "在表面或时间点上适用，例如'on the table'与'at the desk'的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "from",
+        "context": "表示来源或分离，与'at'的定位功能相反，例如'from the house'而非'at the house'"
+      }
+    ],
+    "hypernyms": [
+      "preposition"
+    ],
+    "hyponyms": [
+      "spatial preposition",
+      "temporal preposition"
+    ],
+    "collocations": [
+      {
+        "pattern": "at + time/location",
+        "examples": [
+          "at noon",
+          "at school"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "at + rate/price",
+        "examples": [
+          "at full speed",
+          "at a discount"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征基本空间和时间认知，没有特定隐含语义，但反映了盎格鲁-撒克逊文化对精确位置的强调。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "在口语中更常见于正式语境",
+        "usage": "英国英语中常用于历史文学，如莎士比亚作品"
+      },
+      {
+        "region": "美国",
+        "variation": "在日常对话中更随意",
+        "usage": "美国英语中常用于现代媒体，如新闻报道"
+      }
+    ],
+    "historicalContext": "与英国中世纪文学和社会背景相关，例如在乔叟的作品中用于描述社会阶层的位置。",
+    "modernUsage": "在社交媒体和数字语境中流行，例如'tweet at someone'，反映当代互动趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头指向地图上的一个点，表示位置或时间。",
+      "keyElements": [
+        "箭头",
+        "地图点",
+        "时钟"
+      ],
+      "emotionalConnection": "联结个人旅行经历，例如回想'我在机场等你'，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'at'联想为一个'at sign (@) 符号，像指针一样指向事物。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学的空间认知原理，帮助初级学习者快速回忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "A-T: Aiming Towards something.",
+        "explanation": "使用首字母缩写创建简单口诀，结合重复练习以提升长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "point",
+      "location",
+      "time"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + at + Object",
+        "description": "主语 + 动词 + at + 对象，常用于表示方向或目标。",
+        "examples": [
+          "She looked at the painting."
+        ]
+      },
+      {
+        "pattern": "at + time expression",
+        "description": "at + 时间表达，用于指定时刻。",
+        "examples": [
+          "We meet at dawn."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'at' with 'in' or 'on'",
+        "correction": "Use 'at' for points in time or specific locations",
+        "explanation": "中文学习者常混淆介词；例如，说'In the meeting' 而非'At the meeting'，因为时间点需用'at'。"
+      },
+      {
+        "mistake": "Omitting 'at' in prepositional phrases",
+        "correction": "Always include 'at' for accuracy",
+        "explanation": "在句法结构中遗漏会导致语义模糊，需通过练习语境句子避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 10 in English corpora (e.g., COCA rank: 5)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "介词",
+      "位置",
+      "时间"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

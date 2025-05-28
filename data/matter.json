@@ -1,0 +1,269 @@
+{
+  "word": "matter",
+  "phonetics": {
+    "british": "/ˈmætə/",
+    "american": "/ˈmætər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Physical substance that occupies space and has mass, often referring to the material world as opposed to energy or spirit.",
+      "chineseTranslation": "物质",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A subject or situation under consideration; something that is of importance or requires attention.",
+      "chineseTranslation": "事情；问题",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To be of importance or significance; to have relevance.",
+      "chineseTranslation": "要紧；重要",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Pus or discharge from a sore or wound.",
+      "chineseTranslation": "脓",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as a matter of fact",
+      "meaning": "实际上；事实上",
+      "example": "As a matter of fact, I have already completed the report.",
+      "exampleTranslation": "实际上，我已经完成了报告。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "what's the matter",
+      "meaning": "有什么问题",
+      "example": "What's the matter with you? You look upset.",
+      "exampleTranslation": "你有什么问题？你看起来很 upset。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "no matter",
+      "meaning": "不管；无论",
+      "example": "No matter what happens, we will stay together.",
+      "exampleTranslation": "不管发生什么，我们都会在一起。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist studied the properties of dark matter in the universe.",
+      "translation": "科学家研究了宇宙中暗物质的特性。",
+      "source": "Scientific literature (e.g., from physics journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "It doesn't matter if we're late; the meeting can wait.",
+      "translation": "我们迟到没关系；会议可以等。",
+      "source": "Everyday conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In philosophy, the debate over mind and matter has persisted for centuries.",
+      "translation": "在哲学中，关于心灵和物质的辩论已经持续了几个世纪。",
+      "source": "Academic texts (e.g., from Oxford English Corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "What's the matter with the engine? It's making a strange noise.",
+      "translation": "引擎有什么问题？它在发出奇怪的噪音。",
+      "source": "Informal dialogue (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "materia",
+        "meaning": "Substance or material, originally meaning 'wood' or 'building material'",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语materia（意为木材或物质）演变而来，通过古法语matiere进入中古英语matter。在中世纪，词义扩展到包括任何物理实体或抽象问题；在现代英语中，它发展为表示物质、重要性和脓等含义。",
+    "firstKnownUse": "约12世纪",
+    "relatedWords": [
+      "material",
+      "matrix",
+      "maternal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于音标简单，/æ/音对中文母语者较易掌握，但音节节奏需练习)",
+    "spellingDifficulty": "3 (拼写规则常规，无不寻常的字母组合)",
+    "meaningComplexity": "6 (多义词，需区分物理含义和抽象含义，对中级学习者可能造成混淆)",
+    "usageComplexity": "5 (常见于不同语境，但搭配需注意，如作为动词时强调重要性)",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将多义词分组记忆，例如先学习名词含义，再扩展到动词；使用双编码（dual coding）将词汇与视觉图像配对，如想象物质的粒子结构以强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "substance",
+        "similarity": "0.8",
+        "context": "在科学语境中，用于讨论物理实体"
+      },
+      {
+        "word": "issue",
+        "similarity": "0.7",
+        "context": "在日常对话中，指问题或话题"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "immaterial",
+        "context": "在哲学语境中，表示不重要的或非物质的"
+      },
+      {
+        "word": "trifling",
+        "context": "在非正式语境中，表示不重要的"
+      }
+    ],
+    "hypernyms": [
+      "entity",
+      "phenomenon"
+    ],
+    "hyponyms": [
+      "solid",
+      "liquid",
+      "gas"
+    ],
+    "collocations": [
+      {
+        "pattern": "matter + of + noun",
+        "examples": [
+          "matter of fact",
+          "matter of time"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "what's the matter",
+        "examples": [
+          "What's the matter with him?"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征物质世界的实在性，与抽象概念如心灵或精神相对；在科学革命中（如牛顿时代），它体现了实证主义观点。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向正式语境使用，如在学术讨论中",
+        "usage": "英国英语中常用于哲学或科学语境，例如在BBC新闻中"
+      },
+      {
+        "region": "美国",
+        "variation": "更口语化，常用于日常对话",
+        "usage": "美国英语中如在电影对话中，强调'what's the matter'的非正式性"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，在文学如莎士比亚作品中出现，象征存在主义主题。",
+    "modernUsage": "在社交媒体上，常见于表达情绪，如'this matter is urgent'，反映快速传播的数字文化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中科学家手持物质样本，如一块石头，周围有问号代表问题。",
+      "keyElements": [
+        "石头（代表物质）",
+        "问号（代表问题）",
+        "时钟（代表重要性）"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年实验，触发好奇心以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Matter like a 'matter machine' that builds things.",
+        "explanation": "通过视觉联想，将词汇与机器图像连接，利用空间记忆强化多义性"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/mætə/听起来像'matter matters most'。",
+        "explanation": "利用重复和节奏，基于认知负荷理论减少记忆负担"
+      }
+    ],
+    "wordAssociations": [
+      "material",
+      "importance",
+      "substance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "matters",
+      "pastTense": "mattered",
+      "pastParticiple": "mattered",
+      "presentParticiple": "mattering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + matter",
+        "description": "用作动词时，表示重要性，例如'Subject + matters to + object'",
+        "examples": [
+          "Time matters to everyone."
+        ]
+      },
+      {
+        "pattern": "The matter of + noun",
+        "description": "用作名词时，指具体问题",
+        "examples": [
+          "The matter of climate change is urgent."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'matter' with 'material' in meaning",
+        "correction": "Use 'matter' for general substance or issues",
+        "explanation": "中文母语者常混淆两者，因为翻译相似；通过语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form in questions",
+        "correction": "Use 'Does it matter?' instead of 'Matters it?'",
+        "explanation": "英语句子结构要求疑问词在前"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "daily life",
+      "philosophy"
+    ],
+    "tags": [
+      "abstract",
+      "concrete noun",
+      "verb of importance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

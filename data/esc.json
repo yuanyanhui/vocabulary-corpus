@@ -1,0 +1,222 @@
+{
+  "word": "esc",
+  "phonetics": {
+    "british": "/ɛsk/",
+    "american": "/ɛsk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for 'escape', often referring to the Escape key on a keyboard, which is used to cancel or exit an operation.",
+      "chineseTranslation": "缩写形式，常指键盘上的 Esc 键，用于取消或退出操作。",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing contexts, an abbreviation for 'escape sequence', a series of characters used to perform special functions.",
+      "chineseTranslation": "在计算机语境中，指转义序列，一系列字符用于执行特殊功能。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Esc key",
+      "meaning": "键盘上的 Esc 键",
+      "example": "Press the Esc key to exit full-screen mode.",
+      "exampleTranslation": "按 Esc 键退出全屏模式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Escape sequence",
+      "meaning": "转义序列",
+      "example": "In programming, an escape sequence like \\n represents a new line.",
+      "exampleTranslation": "在编程中，像 \\n 这样的转义序列表示换行。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hit the Esc key to stop the process.",
+      "translation": "按 Esc 键停止进程。",
+      "source": "Technical manuals (e.g., from software documentation)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The escape sequence \\t creates a tab space in the string.",
+      "translation": "转义序列 \\t 在字符串中创建制表符空格。",
+      "source": "Programming tutorials (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In video games, pressing Esc often brings up the menu.",
+      "translation": "在视频游戏中，按 Esc 键通常会弹出菜单。",
+      "source": "Modern media (e.g., gaming forums)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English abbreviation",
+    "rootWords": [
+      {
+        "root": "esc",
+        "meaning": "Derived from 'escape'",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自 19 世纪的计算机发展时期，'esc' 作为 'escape' 的缩写，用于键盘设计以表示退出功能。随着计算机技术的演变，它从机械键盘扩展到数字界面，成为标准控件。",
+    "firstKnownUse": "约 1960 年，在早期计算机键盘（如 Teletype 机器）中首次使用",
+    "relatedWords": [
+      "escape",
+      "key",
+      "sequence"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2 (简单，基本为单音节，易于发音)",
+    "spellingDifficulty": "3 (拼写直观，但作为缩写可能混淆)",
+    "meaningComplexity": "4 (语义相对简单，但需理解上下文，如计算机术语)",
+    "usageComplexity": "5 (使用依赖特定领域，如编程或界面交互)",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'esc' 与键盘图像关联，利用间隔重复法记忆其功能；对于中文母语学习者，比较 'esc' 与中文 '退出' 键的相似性以增强迁移学习效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "exit",
+        "similarity": "0.8",
+        "context": "在界面交互语境中，用于表示取消操作"
+      },
+      {
+        "word": "cancel",
+        "similarity": "0.7",
+        "context": "在软件应用中，表示中止当前动作"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "enter",
+        "context": "在键盘操作中，表示开始或确认，而非退出"
+      }
+    ],
+    "hypernyms": [
+      "key",
+      "command"
+    ],
+    "hyponyms": [
+      "escape key",
+      "function key"
+    ],
+    "collocations": [
+      {
+        "pattern": "Press + Esc + to + action",
+        "examples": [
+          "Press Esc to exit"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Escape sequence in programming",
+        "examples": [
+          "Use escape sequence for special characters"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，'esc' 象征着快速退出或重获控制的便捷性，体现了科技时代对效率的追求，但也隐含了对数字疲劳的潜在逃避心理。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "常用于软件和游戏界面",
+        "usage": "在英语国家，'esc' 标准化为键盘布局的一部分，强调实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "类似美国，但可能在某些自定义键盘中略有差异",
+        "usage": "在正式技术文档中保持一致性"
+      }
+    ],
+    "historicalContext": "与 20 世纪计算机革命相关，'esc' 反映了从机械到数字时代的转变，在文学如科幻小说中，常代表对技术的依赖和潜在疏离。",
+    "modernUsage": "在社交媒体和在线平台上，'esc' 常用于快速回应或退出虚拟互动，体现数字时代的即时性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个键盘上的红色 Esc 键，像紧急出口按钮一样突出。",
+      "keyElements": [
+        "键盘",
+        "退出按钮",
+        "红色警示"
+      ],
+      "emotionalConnection": "联结到日常生活中的 '逃脱压力' 体验，如关闭烦人的通知"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Esc 像 'escape' 的开头，联想到逃离牢笼。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学中的双编码理论，将图像和词汇结合"
+      },
+      {
+        "type": "缩略",
+        "content": "E-S-C: Exit-Swiftly-Cancel",
+        "explanation": "使用缩略词助记法，帮助记忆其功能"
+      }
+    ],
+    "wordAssociations": [
+      "escape",
+      "exit",
+      "cancel"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + Esc + to + infinitive",
+        "description": "命令句结构，用于指示操作",
+        "examples": [
+          "Press Esc to stop."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing Esc with other keys like Ctrl or Alt",
+        "correction": "Use Esc specifically for escape functions",
+        "explanation": "由于键盘布局差异，学习者可能误用；建议通过实践练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical corpora (e.g., rank 5000 in COCA for computing terms)",
+    "domains": [
+      "科技",
+      "计算机",
+      "游戏"
+    ],
+    "tags": [
+      "缩写",
+      "键盘",
+      "编程"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED for etymology",
+      "COCA for frequency",
+      "BNC for usage contexts"
+    ]
+  }
+}

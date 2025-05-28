@@ -1,0 +1,280 @@
+{
+  "word": "pound",
+  "phonetics": {
+    "british": "/paʊnd/",
+    "american": "/paʊnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of weight equal to 16 ounces avoirdupois or 7,000 grains (approximately 0.4536 kilograms).",
+      "chineseTranslation": "重量单位，等于16盎司或7000格令（约合0.4536公斤）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The basic unit of money in the United Kingdom and some other countries, equal to 100 pence.",
+      "chineseTranslation": "英国及某些国家的货币单位，等于100便士",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An enclosure for animals, especially one maintained by a local authority for stray dogs and cats.",
+      "chineseTranslation": "动物围栏，尤其是地方政府用于收容流浪狗猫的场所",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To strike repeatedly with force, as with a hammer.",
+      "chineseTranslation": "反复用力敲打，如用锤子",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move heavily and noisily.",
+      "chineseTranslation": "沉重而 noisy地移动",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pound sterling",
+      "meaning": "英国官方货币",
+      "example": "The price is quoted in pound sterling.",
+      "exampleTranslation": "价格以英镑计价。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "pound sign",
+      "meaning": "货币符号£或重量符号#",
+      "example": "Don't forget to include the pound sign before the amount.",
+      "exampleTranslation": "别忘了在金额前加上英镑符号。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pound away",
+      "meaning": "持续努力工作或敲打",
+      "example": "He continued to pound away at the keyboard until midnight.",
+      "exampleTranslation": "他一直敲击键盘直到午夜。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She bought a pound of apples from the market.",
+      "translation": "她从市场上买了一磅苹果。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The UK's economy is closely tied to the strength of the pound.",
+      "translation": "英国的经济与英镑的强势密切相关。",
+      "source": "News article (e.g., BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The dog was taken to the pound after wandering the streets.",
+      "translation": "那条狗在街上游荡后被带到动物收容所。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He began to pound the dough for the bread.",
+      "translation": "他开始用力敲打面团来做面包。",
+      "source": "Cooking instructions",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "古英语",
+    "rootWords": [
+      {
+        "root": "pund",
+        "meaning": "重量",
+        "language": "古英语"
+      },
+      {
+        "root": "pondus",
+        "meaning": "重量",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "该词源自古英语 'pund'，源自拉丁语 'pondus'，意为重量。从中世纪开始，作为重量单位演变，并扩展到货币单位，如英国英镑在12世纪出现，受制于金银标准。",
+    "firstKnownUse": "约公元前1000年",
+    "relatedWords": [
+      "poundage",
+      "pounder"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用重复曝光法记忆多义词，例如将 'pound' 与不同语境图片配对，以增强海马体记忆路径；",
+      "通过分层学习，先掌握基本含义，再扩展到文化相关用法，避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hammer",
+        "similarity": "0.7",
+        "context": "在敲打的语境中，例如体力劳动场景"
+      },
+      {
+        "word": "strike",
+        "similarity": "0.8",
+        "context": "作为动词时，用于描述反复动作"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whisper",
+        "context": "在声音或动作语境中，用于对比安静与 noisy"
+      },
+      {
+        "word": "lighten",
+        "context": "在重量语境中，用于对比减轻重量"
+      }
+    ],
+    "hypernyms": [
+      "unit",
+      "currency"
+    ],
+    "hyponyms": [
+      "sterling",
+      "avoirdupois pound"
+    ],
+    "collocations": [
+      {
+        "pattern": "pound + noun (e.g., pound of flour)",
+        "examples": [
+          "a pound of coffee"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + pound (e.g., to pound on)",
+        "examples": [
+          "to pound the table"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英国文化中，'pound' 象征国家经济稳定，常用于金融隐喻；在西方文学中，可能代表物质财富或日常琐事。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "主要作为货币单位",
+        "usage": "在正式场合如商业谈判中使用"
+      },
+      {
+        "region": "美国",
+        "variation": "主要作为重量单位",
+        "usage": "在日常购物或烹饪语境中使用"
+      }
+    ],
+    "historicalContext": "该词与英国工业革命和殖民时代货币体系相关，在文学如狄更斯作品中出现，反映社会阶层差异。",
+    "modernUsage": "在社交媒体上，常用于讨论汇率波动或健身中的重量训练。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个英国街头场景：一位拿着钱包的商人（代表货币）和一个举重运动员（代表重量），两者都围绕着一个大锤子（代表动词含义）。",
+      "keyElements": [
+        "商人",
+        "举重",
+        "锤子"
+      ],
+      "emotionalConnection": "联结个人经验，如回想购买英国商品的经历，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pound 像 'pound cake'（英镑蛋糕），联想到重量和货币。",
+        "explanation": "通过食物联想强化多义记忆，基于认知联想理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/paʊnd/' 听起来像 'power sound'，代表敲打的力量。",
+        "explanation": "利用声音与动作的联觉，帮助初级学习者记忆动词含义"
+      }
+    ],
+    "wordAssociations": [
+      "currency",
+      "weight",
+      "hammer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pounds",
+      "pastTense": "pounded",
+      "pastParticiple": "pounded",
+      "presentParticiple": "pounding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "He pounds the nail."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "名词短语结构，用于表示单位",
+        "examples": [
+          "A pound of sugar."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'pound' with 'pond' (a body of water)",
+        "correction": "Use 'pound' for weight or currency",
+        "explanation": "发音相似可能导致混淆，建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization in currency context",
+        "correction": "Always use 'pounds' for plural",
+        "explanation": "英语中货币单位需注意复数形式，以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 1000 in COCA corpus)",
+    "domains": [
+      "finance",
+      "daily life",
+      "science"
+    ],
+    "tags": [
+      "measurement",
+      "currency",
+      "action verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

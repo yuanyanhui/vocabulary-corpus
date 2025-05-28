@@ -1,0 +1,253 @@
+{
+  "word": "tensor",
+  "phonetics": {
+    "british": "/ˈtɛnsə/",
+    "american": "/ˈtɛnsɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical object that generalizes scalars, vectors, and matrices to higher dimensions, used to describe linear relationships in physics and engineering.",
+      "chineseTranslation": "张量",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a tensor, often in the context of strain or stress in materials.",
+      "chineseTranslation": "张量的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stress tensor",
+      "meaning": "应力张量",
+      "example": "The stress tensor is essential for analyzing material deformation.",
+      "exampleTranslation": "应力张量对于分析材料变形至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "rank of a tensor",
+      "meaning": "张量的秩",
+      "example": "The rank of a tensor indicates its dimensionality in mathematical models.",
+      "exampleTranslation": "张量的秩表示其在数学模型中的维度。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tensor product",
+      "meaning": "张量乘积",
+      "example": "The tensor product combines two vectors into a higher-dimensional object.",
+      "exampleTranslation": "张量乘积将两个向量组合成更高维的对象。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In machine learning, tensors are fundamental for representing data in neural networks.",
+      "translation": "在机器学习中，张量是神经网络中表示数据的基础。",
+      "source": "Technical articles (e.g., from arXiv or IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The Einstein tensor plays a central role in the equations of general relativity.",
+      "translation": "爱因斯坦张量在广义相对论的方程中扮演核心角色。",
+      "source": "Scientific literature (e.g., physics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers use the strain tensor to model how materials respond to external forces.",
+      "translation": "工程师使用应变张量来模拟材料对外部力的反应。",
+      "source": "Engineering reports (e.g., from ASME journals)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "tensio",
+        "meaning": "tension or stretching",
+        "language": "Latin"
+      },
+      {
+        "root": "tendere",
+        "meaning": "to stretch",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'tensio'，意思是张力或拉伸。该词在19世纪由数学家如威廉·罗文·汉密尔顿引入，用于描述多维数学对象。20世纪，爱因斯坦在物理学中推广了张量概念，尤其在相对论中，从单纯的数学抽象演变为描述时空和引力的工具。",
+    "firstKnownUse": "1846",
+    "relatedWords": [
+      "tensorial",
+      "tensor product",
+      "tensor field"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将张量与熟悉的二维矩阵类比，利用视觉化工具如图形软件创建多维模型，以增强空间记忆。",
+      "使用间隔重复系统（Spaced Repetition System）复习张量在不同语境中的应用，强化长期记忆路径。",
+      "通过个人经验联想，例如将张量想象为拉伸的织物，与日常生活中的弹性物体建立情感连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multidimensional array",
+        "similarity": "0.8",
+        "context": "在计算机科学中，用于数据处理和机器学习场景"
+      },
+      {
+        "word": "covariant object",
+        "similarity": "0.7",
+        "context": "在物理学理论中，特别是在相对论的语境下"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scalar",
+        "context": "当张量表示多维关系时，标量仅为单值变量，常用于对比简单性"
+      }
+    ],
+    "hypernyms": [
+      "mathematical object"
+    ],
+    "hyponyms": [
+      "stress tensor",
+      "metric tensor",
+      "electromagnetic tensor"
+    ],
+    "collocations": [
+      {
+        "pattern": "tensor in physics",
+        "examples": [
+          "the stress tensor",
+          "the curvature tensor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "tensor analysis",
+        "examples": [
+          "performing tensor analysis on data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "张量在科学文化中象征现代物理学的复杂性和抽象性，尤其与爱因斯坦的相对论相关，代表了人类对宇宙的深层理解；在跨文化语境中，它体现了西方科学传统的逻辑 rigor，但对非西方学习者可能需要文化适应。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和计算机科学语境中，常见于技术报告和AI讨论。",
+        "usage": "在美国英语中，张量常与实际应用结合，如在硅谷的科技公司中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调其数学起源，语调更正式，常在学术讲座中使用。",
+        "usage": "在英国英语中，可能与历史数学传统相关联"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和20世纪科学革命相关，张量概念在欧洲数学发展中兴起，并通过爱因斯坦的理论影响全球科学社群。",
+    "modernUsage": "在社交媒体和在线教育平台如YouTube或Coursera中，张量常用于AI和数据科学讨论，反映了数字化时代的技术趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多维的网状结构，如一个被拉伸的织物网格。",
+      "keyElements": [
+        "网状结构",
+        "拉伸维度",
+        "多维网格"
+      ],
+      "emotionalConnection": "联结到个人经验，如玩橡皮筋或构建乐高模型，触发好奇和成就感的情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tensor 听起来像 'ten sir'，想象十个维度在指挥一个系统。",
+        "explanation": "通过声音联想和视觉化，帮助建立认知锚点，减少记忆负担。"
+      },
+      {
+        "type": "缩略",
+        "content": "T-E-N-S-O-R: Tension-Extended-Network-Stretching-Object-Representation",
+        "explanation": "使用首字母缩写结合解释，运用认知分块原理增强词汇保留。"
+      }
+    ],
+    "wordAssociations": [
+      "vector",
+      "matrix",
+      "array",
+      "dimension"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tensors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject in technical sentences",
+        "description": "张量作为主语或宾语出现，常在复杂句中描述关系。",
+        "examples": [
+          "The tensor models the physical phenomenon accurately."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases with tensor",
+        "description": "与介词结合，表示张量的应用领域。",
+        "examples": [
+          "Tensor in machine learning improves data efficiency."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'tensor' with 'tension'",
+        "correction": "Use 'tensor' for mathematical objects and 'tension' for physical force.",
+        "explanation": "虽然同源，但前者是抽象数学概念，后者是力学术语；错误源于词根相似性。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'tensors' for plural.",
+        "explanation": "作为可数名词，需正确添加 -s，但初级学习者可能忽略。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Rank approximately 15,000 in general corpora (e.g., COCA), but high in academic subsets like scientific domains.",
+    "domains": [
+      "Science",
+      "Mathematics",
+      "Engineering",
+      "Computer Science"
+    ],
+    "tags": [
+      "Technical",
+      "Physics",
+      "Abstract Concept",
+      "Multidimensional"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

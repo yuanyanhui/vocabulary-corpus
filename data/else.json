@@ -1,0 +1,262 @@
+{
+  "word": "else",
+  "phonetics": {
+    "british": "/ɛls/",
+    "american": "/ɛls/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adverb",
+      "definition": "Used to refer to an additional thing or person, or to indicate an alternative",
+      "chineseTranslation": "另外的；否则",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Different from what has been mentioned or is implied",
+      "chineseTranslation": "其他的；别样的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used in conditional statements to introduce an alternative",
+      "chineseTranslation": "否则",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "or else",
+      "meaning": "否则；要不然",
+      "example": "You must finish your homework, or else you won't go out.",
+      "exampleTranslation": "你必须完成作业，否则你就不能出去。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "someone else",
+      "meaning": "其他人",
+      "example": "I can't help you; ask someone else.",
+      "exampleTranslation": "我不能帮助你；问问其他人吧。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "else if",
+      "meaning": "否则如果（用于编程或条件语句）",
+      "example": "If x is greater than 10, do this; else if x is less than 5, do that.",
+      "exampleTranslation": "如果 x 大于 10，则执行此操作；否则如果 x 小于 5，则执行另一操作。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "What else can we do to solve this problem?",
+      "translation": "我们还能做些什么来解决这个问题？",
+      "source": "日常对话",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Is there anything else you need from the store?",
+      "translation": "你从商店还需要其他东西吗？",
+      "source": "文学作品，例如现代小说",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Hurry up, or else we'll miss the train.",
+      "translation": "快点，否则我们会错过火车。",
+      "source": "新闻报道",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, 'else' is used to handle alternative conditions.",
+      "translation": "在编程中，'else' 用于处理备选条件。",
+      "source": "技术文档",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "elles",
+        "meaning": "other, otherwise",
+        "language": "Old English"
+      },
+      {
+        "root": "aljaz",
+        "meaning": "other",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'elles'，意为 'other' 或 'otherwise'，演变为现代英语 'else'，其含义从表示差异扩展到条件句中的备选情况。这一演变反映了日耳曼语系中词汇的语义扩展。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "elsewhere",
+      "elsewise"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议通过重复性练习和语境联想，例如将 'else' 与常见条件句配对，以强化记忆痕迹；使用间隔重复法（spaced repetition）来提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "otherwise",
+        "similarity": "0.8",
+        "context": "在条件句中，表示备选情况，例如正式语境下的决策表达"
+      },
+      {
+        "word": "additionally",
+        "similarity": "0.6",
+        "context": "在列举时，表示额外内容"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "same",
+        "context": "当描述相同事物时，例如非正式对话中"
+      },
+      {
+        "word": "identical",
+        "context": "在精确比较语境中"
+      }
+    ],
+    "hypernyms": [
+      "adverbial modifiers"
+    ],
+    "hyponyms": [
+      "or else",
+      "else if"
+    ],
+    "collocations": [
+      {
+        "pattern": "if...else",
+        "examples": [
+          "If it rains, we stay home; else, we go out."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "anything else",
+        "examples": [
+          "Do you want anything else?"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中无特定象征意义，主要作为功能词用于逻辑表达，体现了盎格鲁-撒克逊文化中注重实际和条件的思维方式。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "使用频率较高，在口语中更常见",
+        "usage": "在英国英语中，常用于日常对话以强调备选方案"
+      },
+      {
+        "region": "United States",
+        "variation": "在编程和技术语境中更突出",
+        "usage": "在美国英语中，常与科技领域结合，体现现代应用"
+      }
+    ],
+    "historicalContext": "与盎格鲁-撒克逊文学背景相关，例如在贝奥武夫等古英语文本中，其前身词汇用于描述差异；在现代，关联于启蒙运动的逻辑推理传统。",
+    "modernUsage": "在社交媒体和数字通信中，'else' 常用于简短的条件表达，如推特或编程代码，反映了当代快速信息交流的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个岔路口，一个路标写着 'else'，指向另一条道路。",
+      "keyElements": [
+        "岔路口",
+        "路标",
+        "备选路径"
+      ],
+      "emotionalConnection": "联结到个人决策时刻的焦虑或兴奋，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'else' 联想为 'extra lane'（额外车道），表示其他选择。",
+        "explanation": "通过视觉联想强化语义，帮助中级学习者快速回忆词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "E for Extra or Else",
+        "explanation": "使用首字母缩略结合个人经验，形成简单记忆钩子"
+      }
+    ],
+    "wordAssociations": [
+      "otherwise",
+      "alternative",
+      "or"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + else",
+        "description": "用于句尾表示额外或备选",
+        "examples": [
+          "We need something else."
+        ]
+      },
+      {
+        "pattern": "If condition, else action",
+        "description": "在条件句中使用",
+        "examples": [
+          "If true, do this; else, do that."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'else' with 'other'",
+        "correction": "Use 'else' for alternatives in sentences",
+        "explanation": "学习者常混淆语境；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Omitting in conditional statements",
+        "correction": "Always include 'else' for completeness",
+        "explanation": "在编程或正式英语中遗漏会导致逻辑错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "技术",
+      "文学"
+    ],
+    "tags": [
+      "副词",
+      "条件表达",
+      "逻辑词"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "word": "sack",
+  "phonetics": {
+    "british": "/sæk/",
+    "american": "/sæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large bag made of a strong material such as hessian, thick paper, or plastic, used for storing and carrying goods.",
+      "chineseTranslation": "袋子；麻袋",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To dismiss someone from their job.",
+      "chineseTranslation": "解雇",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action of plundering or looting a captured town or city, especially in historical or military contexts.",
+      "chineseTranslation": "洗劫；抢掠",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Hit the sack",
+      "meaning": "上床睡觉",
+      "example": "After a long day at work, I decided to hit the sack early.",
+      "exampleTranslation": "工作了一整天后，我决定早点上床睡觉。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Sack out",
+      "meaning": " informal 表示快速入睡",
+      "example": "The kids were so tired that they sacked out on the couch.",
+      "exampleTranslation": "孩子们太累了，以至于在沙发上就睡着了。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmer filled the sack with potatoes from the field.",
+      "translation": "农民把田里的土豆装满了袋子。",
+      "source": "General corpus, e.g., from everyday descriptions in BNC (British National Corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The company decided to sack several employees due to budget cuts.",
+      "translation": "公司由于预算削减决定解雇几名员工。",
+      "source": "News articles, e.g., from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In ancient warfare, the sack of Rome marked the end of an era.",
+      "translation": "在古代战争中，罗马的洗劫标志着一个时代的结束。",
+      "source": "Historical texts, e.g., from literary works",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "sacc",
+        "meaning": "bag",
+        "language": "Old English"
+      },
+      {
+        "root": "saccus",
+        "meaning": "bag or sack",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古英语'sacc'，源自拉丁语'saccus'，再追溯到希腊语'sakkos'，最初指代一种用于携带物品的袋子。在中世纪英语中，扩展到军事语境中的洗劫含义，并到现代英语中发展为解雇的俚语用法。",
+    "firstKnownUse": "约1000年",
+    "relatedWords": [
+      "sackcloth",
+      "sacking"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，使用分层记忆法：先从基本名词含义开始建立视觉图像，如想象一个大袋子，然后逐步关联到动词用法，通过重复练习减少认知负荷；对于中级学习者，建议使用间隔重复系统（Spaced Repetition System）来强化多义词的语境区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bag",
+        "similarity": "0.8",
+        "context": "在日常语境中，指代容器物品，例如购物或存储"
+      },
+      {
+        "word": "fire",
+        "similarity": "0.7",
+        "context": "在职业语境中，作为解雇的同义词"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hire",
+        "context": "在就业语境中，指代雇用，与解雇相对"
+      },
+      {
+        "word": "protect",
+        "context": "在军事语境中，指代防御或保护，与洗劫相对"
+      }
+    ],
+    "hypernyms": [
+      "container"
+    ],
+    "hyponyms": [
+      "mailbag",
+      "gunny sack"
+    ],
+    "collocations": [
+      {
+        "pattern": "sack + noun (e.g., sack of flour)",
+        "examples": [
+          "a sack of flour",
+          "a sack of rice"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + sack (e.g., get sacked)",
+        "examples": [
+          "get sacked from job"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着突然的损失或终结，例如在英国俚语中用于解雇，反映了工业革命后就业不稳定的社会隐喻；在历史语境中，与战争和征服相关，体现西方文学中对破坏的描绘。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于俚语解雇含义",
+        "usage": "在英国英语中，'sack' 常在非正式对话中表示工作变动，体现了本土化表达"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于实用含义，如袋子",
+        "usage": "在美国英语中，偏向中性或商业语境，使用频率较高但语域更广泛"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲战争相关，如罗马帝国被洗劫的历史事件，常在文学作品如莎士比亚的戏剧中出现，反映社会动荡。",
+    "modernUsage": "在现代社交媒体中，常用于推特或职场讨论中表示解雇事件，体现了数字时代的工作流动性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个大麻袋被用来装土豆，然后画面切换到一个人被从办公室中'装进'袋子并扔出，象征解雇。",
+      "keyElements": [
+        "麻袋图像",
+        "解雇场景"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次工作变动，触发情绪以增强记忆持久性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sack sounds like 'stack' – think of stacking bags or stacking up troubles leading to job loss.",
+        "explanation": "通过声音联想和视觉化，帮助中级学习者建立语义网络，减少混淆多义词"
+      },
+      {
+        "type": "缩略",
+        "content": "S-A-C-K: Store And Carry Knowledge (for bag), or Suddenly Axed Career Kick (for dismissal).",
+        "explanation": "利用首字母缩略结合个人相关性，提升认知编码效率"
+      }
+    ],
+    "wordAssociations": [
+      "bag",
+      "fire",
+      "plunder"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sacks",
+      "pastTense": "sacked",
+      "pastParticiple": "sacked",
+      "presentParticiple": "sacking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., They sacked him)",
+        "description": "典型动词结构，用于表示动作",
+        "examples": [
+          "The manager sacked the employee."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a sack of goods)",
+        "description": "名词短语结构，用于描述物品",
+        "examples": [
+          "He carried a sack of flour."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'sack' interchangeably with 'bag' in all contexts",
+        "correction": "Use 'sack' for larger, rougher bags; use 'bag' for general purposes",
+        "explanation": "混淆语义范围导致不当搭配；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect verb tense (e.g., 'sack' instead of 'sacked')",
+        "correction": "Use 'sacked' for past actions",
+        "explanation": "由于该词为规则动词，学习者常忽略时态变化；通过重复句型练习改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in general corpora; ranked around 2000 in COCA based on modern usage",
+    "domains": [
+      "daily life",
+      "business",
+      "history"
+    ],
+    "tags": [
+      "container",
+      "employment",
+      "military"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

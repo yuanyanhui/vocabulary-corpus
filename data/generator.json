@@ -1,0 +1,211 @@
+{
+  "word": "generator",
+  "phonetics": {
+    "british": "/ˈdʒɛnəreɪtə/",
+    "american": "/ˈdʒɛnəreɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that converts mechanical energy into electrical energy, or produces something in a systematic way.",
+      "chineseTranslation": "发电机；发生器",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a special routine that can be used to control the iteration behavior of a loop.",
+      "chineseTranslation": "生成器（计算机术语）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electric generator",
+      "meaning": "电动发电机",
+      "example": "The electric generator provides backup power during blackouts.",
+      "exampleTranslation": "在停电期间，电动发电机提供备用电力。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "random number generator",
+      "meaning": "随机数发生器",
+      "example": "A random number generator is essential for cryptographic algorithms.",
+      "exampleTranslation": "随机数发生器对于加密算法至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The wind turbine's generator converts kinetic energy into electricity.",
+      "translation": "风力涡轮机的发电机将动能转化为电能。",
+      "source": "Scientific article on renewable energy",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Python, a generator function uses 'yield' to produce a sequence of values.",
+      "translation": "在Python中，生成器函数使用'yield'来产生一系列值。",
+      "source": "Programming tutorial",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The emergency generator kicked in when the main power failed.",
+      "translation": "当主电源失败时，紧急发电机启动了。",
+      "source": "News report on natural disasters",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "generare",
+        "meaning": "to produce or beget",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语 'generare'，意为产生或繁殖。17世纪传入英语，指代产生事物的设备或过程。随工业革命演变为现代意义上的机械装置。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "generate",
+      "generation",
+      "generatorium"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过认知科学，将词汇与视觉图像结合，如想象一个风车发电机运转的场景，以强化记忆；使用间隔重复法复习不同语境下的用法。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "producer",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述生成能量的设备"
+      },
+      {
+        "word": "creator",
+        "similarity": "0.6",
+        "context": "在抽象语境中，指代产生事物的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "consumer",
+        "context": "在能源语境中，指代消耗能量而非产生能量的设备"
+      }
+    ],
+    "hypernyms": [
+      "machine",
+      "device"
+    ],
+    "hyponyms": [
+      "wind generator",
+      "solar generator"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + generator",
+        "examples": [
+          "electric generator",
+          "steam generator"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代工业文化中象征技术进步和能源独立，尤其在西方社会中，与可持续发展运动相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in everyday contexts like home backup systems.",
+        "usage": "在美国，常用在家庭和商业应急场景中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but with emphasis on industrial applications.",
+        "usage": "在英国，更常与历史工业遗产相关联，如蒸汽机时代"
+      }
+    ],
+    "historicalContext": "与工业革命和第二次世界大战的军事技术相关联，例如早期发电机的发明推动了电气化社会。",
+    "modernUsage": "在社交媒体和数字时代，常见于科技讨论中，如AI生成器工具。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个风车在转动，产生电能的场景，以帮助记忆。",
+      "keyElements": [
+        "风车",
+        "电能",
+        "转动"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次停电时使用发电机的紧急情况，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'generator' 联想为 'genie creator'，因为它像魔法灯里的精灵一样创造能量。",
+        "explanation": "通过声音联想和故事化，强化词汇在头脑中的视觉化表示。"
+      }
+    ],
+    "wordAssociations": [
+      "engine",
+      "power",
+      "source"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "generators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Generator",
+        "description": "作为主语或宾语出现，常用于描述设备的功能。",
+        "examples": [
+          "The generator runs efficiently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'generator' with 'generator's' in possessive form.",
+        "correction": "Use 'generator's' for possession, e.g., 'the generator's output'.",
+        "explanation": "英语所有格需添加撇号和s，避免混淆名词形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "computing"
+    ],
+    "tags": [
+      "energy",
+      "mechanics",
+      "programming"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

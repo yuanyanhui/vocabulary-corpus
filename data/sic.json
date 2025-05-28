@@ -1,0 +1,233 @@
+{
+  "word": "sic",
+  "phonetics": {
+    "british": "/sɪk/",
+    "american": "/sɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adverb",
+      "definition": "Used in brackets after a copied or quoted word that appears odd or erroneous to indicate that the word is quoted exactly as it stands in the original source.",
+      "chineseTranslation": "如是（用于标明引文中的错误或不寻常的拼写）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb (archaic or dialectal)",
+      "definition": "An archaic form of 'seek', meaning to pursue or go in search of something.",
+      "chineseTranslation": "寻求（古语或方言形式）",
+      "level": "advanced",
+      "frequency": "very low",
+      "register": "archaic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sic passim",
+      "meaning": "如是处处（表示原文中多次出现错误）",
+      "example": "The editor noted 'sic passim' for the repeated errors in the manuscript.",
+      "exampleTranslation": "编辑在手稿中标注了 'sic passim'，表示重复的错误。",
+      "frequency": "very low"
+    },
+    {
+      "phrase": "use [sic]",
+      "meaning": "使用 [如是]（标明引文错误）",
+      "example": "In the quote, it was written as 'definately [sic]' to highlight the misspelling.",
+      "exampleTranslation": "在引文中，写成 'definately [sic]' 以突出拼写错误。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The article included the phrase 'alot [sic] of people' to show the original author's error.",
+      "translation": "文章中包括了 'alot [sic] of people' 短语，以显示原作者的错误。",
+      "source": "Modern journalism (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She quoted the old text as 'honour [sic]' to preserve the British spelling in an American context.",
+      "translation": "她引用了旧文本为 'honour [sic]'，以保留英国拼写在美国的语境中。",
+      "source": "Literary analysis (e.g., academic papers)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In historical documents, 'sic' is often used to maintain authenticity, as in 'The king sayd [sic] thus.'",
+      "translation": "在历史文件中，'sic' 经常用于保持真实性，例如 'The king sayd [sic] thus.'。",
+      "source": "Historical texts (e.g., from Oxford English Dictionary examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sic",
+        "meaning": "thus; so",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Originating from Latin 'sic' meaning 'thus' or 'so', it was adopted in medieval Latin manuscripts to denote that a preceding word or phrase was copied exactly as in the original. By the 16th century, it entered English usage in editorial contexts to indicate errors in quotations, evolving from a simple indicator of fidelity to a standard tool in modern publishing for maintaining textual accuracy.",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "thus",
+      "so",
+      "verbatim"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR)",
+    "pronunciationDifficulty": "3 (out of 10, as it is a simple phonetic word with no complex sounds)",
+    "spellingDifficulty": "4 (out of 10, straightforward but context-dependent usage may confuse learners)",
+    "meaningComplexity": "7 (out of 10, due to its meta-linguistic function and requirement for understanding editorial conventions)",
+    "usageComplexity": "8 (out of 10, as it is primarily used in formal writing and requires awareness of quotation rules)",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法（chunking）将 'sic' 与引文错误的概念关联，例如想象一个 '警戒标志' 来触发回忆；",
+      "使用重复暴露（spaced repetition）在阅读英文文章时主动识别 'sic'，并记录在个人词汇日志中，以强化语境记忆；",
+      "通过双编码（dual coding）将词汇与视觉图像配对，如画一个括号内的 'sic' 标志，连接到个人经历中的编辑错误"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "thus",
+        "similarity": "0.6",
+        "context": "在正式语境中用于表示 '如此' 或确认原样，但 'sic' 更专注于错误标记（在正式写作中）"
+      },
+      {
+        "word": "verbatim",
+        "similarity": "0.7",
+        "context": "强调逐字复制时使用，常在学术或法律语境中（在专业文档中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "corrected",
+        "context": "表示已修改的版本，与 'sic' 的原样保留相反，常在编辑过程中（在修正语境中）"
+      },
+      {
+        "word": "emended",
+        "context": "用于已更正的文本，与 'sic' 的错误保留形成对比（在历史文本分析中）"
+      }
+    ],
+    "hypernyms": [
+      "indicator",
+      "editorial mark"
+    ],
+    "hyponyms": [
+      "quotation mark"
+    ],
+    "collocations": [
+      {
+        "pattern": "[word] [sic]",
+        "examples": [
+          "'definately [sic]'"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "use [sic] in brackets",
+        "examples": [
+          "The error was noted as 'color [sic]'"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'sic' 象征编辑诚信和文本真实性，常用于学术、新闻和文学中以避免篡改原意，同时反映了对历史准确性的尊重；在中国文化语境中，类似功能可能通过注记或括号解释实现，强调跨文化交流中的精确性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in British English for preserving historical spellings.",
+        "usage": "在英国出版物中频繁出现，以维护传统拼写，如 'honour [sic]'。"
+      },
+      {
+        "region": "United States",
+        "variation": "Used similarly but often in Americanized contexts to highlight errors.",
+        "usage": "在美国媒体中，用于标明非标准拼写，如 'alot [sic]'。"
+      }
+    ],
+    "historicalContext": "起源于拉丁语的 'sic' 在文艺复兴时期进入英语，关联欧洲印刷革命和社会对文本真实性的追求；在现代，特别是在后殖民主义语境中，它反映了全球英语使用中的文化敏感性。",
+    "modernUsage": "在社交媒体和数字出版中，'sic' 趋势减少，转向表情符号或直接更正，但仍活跃于专业写作平台如 Twitter 或学术博客。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红色的警示标志括号内写着 'sic'，放在一堆凌乱的旧手稿上。",
+      "keyElements": [
+        "警示标志",
+        "括号",
+        "手稿"
+      ],
+      "emotionalConnection": "联结到个人经历中发现拼写错误的 frustration 或 satisfaction，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sic sounds like 'sick' – think of a 'sick' text with errors that needs a doctor (sic) to fix it exactly as is.",
+        "explanation": "通过声音联想将 'sic' 与 'sick' 连接，强化语音记忆并避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-I-C: See It Correctly – reminds you to see the word as it is in the original.",
+        "explanation": "使用缩略词创建视觉钩子，促进认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "error",
+      "quote",
+      "thus",
+      "verbatim"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Inserted in brackets after a word",
+        "description": "在句子中作为插入语使用，常置于引号内或直接后跟目标词",
+        "examples": [
+          "'Word [sic]' in a sentence."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'sic' without brackets",
+        "correction": "Always use in brackets, e.g., [sic]",
+        "explanation": "不使用括号可能导致歧义，因为它不是独立词汇"
+      },
+      {
+        "mistake": "Confusing with 'sick'",
+        "correction": "Distinguish by context; 'sic' is for editing, 'sick' for illness",
+        "explanation": "由于发音相似，初级学习者易混淆，通过语境练习可避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 10,000 in COCA corpus)",
+    "domains": [
+      "Academic",
+      "Journalism",
+      "Editing"
+    ],
+    "tags": [
+      "Editorial",
+      "Quotation",
+      "Latin origin"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

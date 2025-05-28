@@ -1,0 +1,238 @@
+{
+  "word": "getter",
+  "phonetics": {
+    "british": "/ˈɡɛtə/",
+    "american": "/ˈɡɛtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A method in object-oriented programming that is used to access and retrieve the value of a private or protected attribute.",
+      "chineseTranslation": "在面向对象编程中，用于访问和获取私有或受保护属性的方法",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that obtains or acquires something, often in a general or informal sense.",
+      "chineseTranslation": "获取或获得某事的人或事物",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "getter method",
+      "meaning": "获取方法的简称",
+      "example": "In Java, a getter method might look like this: public int getAge() { return age; }",
+      "exampleTranslation": "在 Java 中，一个获取方法可能像这样：public int getAge() { return age; }",
+      "frequency": "high"
+    },
+    {
+      "phrase": "private getter",
+      "meaning": "私有获取方法",
+      "example": "The private getter ensures that the data is accessed only within the class.",
+      "exampleTranslation": "私有获取方法确保数据仅在类内部被访问。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer implemented a getter for the user’s profile data to maintain encapsulation.",
+      "translation": "开发人员为用户的配置文件数据实现了一个获取方法，以维护封装性。",
+      "source": "Technical documentation (e.g., from software engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As a getter of rare antiques, she always knew where to find the best deals.",
+      "translation": "作为一名稀有古董的获取者，她总是知道在哪里能找到最好的交易。",
+      "source": "Informal narrative (e.g., modern literature)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the API design, the getter function is essential for reading configuration settings without altering them.",
+      "translation": "在 API 设计中，获取函数对于读取配置设置而不改变它们至关重要。",
+      "source": "News article on technology (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "get",
+        "meaning": "to obtain or seize",
+        "language": "Old English (from Proto-Germanic *getaną)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'gietan'，意为'获得'或'抓住'。在中古英语中演变为 'geten'，逐渐扩展到现代英语的动词形式。'Getter' 作为派生名词出现于 19 世纪后期，特别是在技术语境中，指获取或提取的事物，尤其在工程和编程领域的发展中。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "get",
+      "getter-upper",
+      "acquirer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'getter' 与 'setter' 一起记忆，因为它们在编程中常成对出现；",
+      "使用视觉映射将词汇与实际代码场景关联，以增强长时记忆；",
+      "通过重复性练习和语境强化，避免混淆类似词汇，如 'getter' 与 'gate' 的发音差异"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "accessor",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述类似功能的编程元素"
+      },
+      {
+        "word": "retriever",
+        "similarity": "0.7",
+        "context": "在一般语境中，指获取信息的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "setter",
+        "context": "在编程中，指设置或修改属性的方法，与 'getter' 相对"
+      }
+    ],
+    "hypernyms": [
+      "method",
+      "function"
+    ],
+    "hyponyms": [
+      "public getter",
+      "private getter"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + getter",
+        "examples": [
+          "data getter",
+          "property getter"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + getter",
+        "examples": [
+          "implement a getter",
+          "use a getter"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，'getter' 象征着信息获取和数据隐私的隐含语义，尤其在编程和科技领域，体现出对封装和安全性的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术俚语",
+        "usage": "在美国英语中，'getter' 在软件开发社区中流行，反映出创新和技术主导的文化"
+      },
+      {
+        "region": "英国",
+        "variation": "使用较正式，可能与欧洲编程标准结合",
+        "usage": "在英国英语中，'getter' 常出现在学术和技术出版物中，强调精确性"
+      }
+    ],
+    "historicalContext": "与工业革命相关的机械术语演变而来，在 20 世纪计算机科学兴起后，与文学和社交媒体的融合体现了现代技术对日常语言的影响。",
+    "modernUsage": "在社交媒体和在线论坛中，'getter' 常用于讨论编程趋势，但需注意跨文化理解，以避免在非技术语境中的误用"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙（getter）打开一个锁定的宝箱（私有属性），象征获取信息的过程",
+      "keyElements": [
+        "钥匙",
+        "宝箱",
+        "代码界面"
+      ],
+      "emotionalConnection": "联结个人编程经历的挫败感，转为成就感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Getter 像 'get her'，但改为 'get the data'，联想到获取数据",
+        "explanation": "通过声音联想和语义扩展，增强词汇与实际应用的连接"
+      },
+      {
+        "type": "缩略",
+        "content": "G-E-T: Get Essential Thing",
+        "explanation": "利用首字母缩写结合认知负荷理论，简化记忆过程"
+      }
+    ],
+    "wordAssociations": [
+      "set",
+      "retrieve",
+      "access"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "getters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with getter",
+        "description": "典型结构为主语 + 动词 + getter 对象，常用于技术描述",
+        "examples": [
+          "The class includes a getter for the variable."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with getter",
+        "description": "使用介词短语，如 'with a getter'",
+        "examples": [
+          "Access the data with a getter method."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'getter' with 'setters'",
+        "correction": "Use 'getter' only for retrieval, not modification",
+        "explanation": "由于两者在编程中相似，学习者常混淆功能"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Do not capitalize unless at the start of a sentence",
+        "explanation": "在技术写作中，'getter' 通常小写，除非是特定名称"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus",
+    "domains": [
+      "technology",
+      "programming",
+      "computing"
+    ],
+    "tags": [
+      "technical",
+      "software",
+      "data access"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

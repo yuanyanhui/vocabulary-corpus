@@ -1,0 +1,249 @@
+{
+  "word": "变量",
+  "phonetics": {
+    "british": "/ˈveəriəbl/",
+    "american": "/ˈvɛriəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Liable to change or vary; subject to variation or fluctuation.",
+      "chineseTranslation": "可变的；易变的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity, symbol, or factor that may assume any one of a set of values, especially in mathematics, science, or programming.",
+      "chineseTranslation": "变量（如数学或编程中的符号）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "independent variable",
+      "meaning": "独立变量",
+      "example": "In an experiment, the independent variable is the factor that is changed to observe its effects.",
+      "exampleTranslation": "在实验中，独立变量是改变的因素，以观察其影响。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dependent variable",
+      "meaning": "因变量",
+      "example": "The dependent variable in this study is the plant's growth rate.",
+      "exampleTranslation": "在这个研究中，因变量是植物的生长速率。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "random variable",
+      "meaning": "随机变量",
+      "example": "A random variable can take on different values based on probability.",
+      "exampleTranslation": "随机变量可以根据概率取不同的值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The weather in this region is highly variable, changing from sunny to rainy in a matter of hours.",
+      "translation": "这个地区的天气高度可变，几小时内就从晴朗转为多雨。",
+      "source": "General meteorological reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In algebra, x is often used as a variable to represent an unknown quantity.",
+      "translation": "在代数中，x 常被用作变量来表示未知量。",
+      "source": "Educational textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers must declare a variable before using it in code to store data.",
+      "translation": "程序员在使用代码存储数据前必须声明变量。",
+      "source": "Software development documentation",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "variabilis",
+        "meaning": "changeable",
+        "language": "Latin"
+      },
+      {
+        "root": "varius",
+        "meaning": "diverse or different",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'varius'（意思是多样或变化），演变为 'variabilis' 表示可变的性质。进入英语后，在中世纪英语中出现，最初用于描述变化的事物，逐渐扩展到数学和科学领域中表示可变的数量或符号。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "vary",
+      "variation",
+      "variant"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "将词汇与实际情境结合，如使用心智图将 'variable' 与数学方程或天气变化的视觉图像关联，以增强海马体记忆；根据认知语言学，重复使用间距重复法来巩固多义词的语义区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "changeable",
+        "similarity": "0.8",
+        "context": "适用于描述天气或情绪等不稳定的情况"
+      },
+      {
+        "word": "fluctuating",
+        "similarity": "0.7",
+        "context": "常用于经济或科学语境中表示数值变化"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "constant",
+        "context": "适用于强调稳定性的语境，如 'The constant value does not change over time.'"
+      },
+      {
+        "word": "fixed",
+        "context": "常用于数学或工程中，表示不可变的量"
+      }
+    ],
+    "hypernyms": [
+      "quantity"
+    ],
+    "hyponyms": [
+      "independent variable",
+      "dependent variable"
+    ],
+    "collocations": [
+      {
+        "pattern": "variable + noun (e.g., variable cost)",
+        "examples": [
+          "The variable cost depends on production levels."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + variable (e.g., random variable)",
+        "examples": [
+          "A random variable is used in probability theory."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词多与科学和技术创新相关，象征不确定性和探索精神，如在启蒙运动中用于强调变量在实验中的作用，但在中国文化中，可能更多与教育体系（如数学教育）关联，代表逻辑思维。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，常用于技术领域，如编程",
+        "usage": "例如，在硅谷文化中，'variable' 是日常术语，强调灵活性和适应性"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，略带正式感，常用于学术语境",
+        "usage": "如在牛津大学课程中，强调其在科学历史中的演变"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关，如伽利略使用类似概念来描述自然现象；在现代，中国教育改革中，该词被译为 '变量'，融入STEM教育，推动跨文化科学交流。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线学习平台或科技讨论中，反映全球化的语言趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天气预报屏幕，显示不断变化的符号，如一个跳动的 'x' 代表变量。",
+      "keyElements": [
+        "跳动的符号",
+        "变化的天气图标"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆童年数学课上的变量概念，触发好奇和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'variable' 联想为 'vary + able'，表示 '能变化的'",
+        "explanation": "通过词根分解增强语义记忆，符合认知科学中的分块编码原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈvɛriəbl/' 像 'very able'，暗示 '非常能变化'",
+        "explanation": "利用声音相似性创建情感联想，提高长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "change",
+      "fluctuate",
+      "quantity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "variables",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more variable",
+      "superlative": "most variable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + variable",
+        "description": "用于形容词形式，表示主语是可变的",
+        "examples": [
+          "The temperature is variable."
+        ]
+      },
+      {
+        "pattern": "Variable + in + context",
+        "description": "用于名词形式，表示变量在特定情境中的作用",
+        "examples": [
+          "The variable in the equation represents speed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'variable' with 'vary' in usage",
+        "correction": "Use 'variable' as a noun or adjective, not as a verb",
+        "explanation": "学习者常误用为动词；正确区分词性以避免语义错误"
+      },
+      {
+        "mistake": "Overgeneralizing in technical contexts",
+        "correction": "Specify the type, e.g., 'independent variable'",
+        "explanation": "在科学语境中，需明确变量类型以提高精确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "mathematics",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "word": "component",
+  "phonetics": {
+    "british": "/kəmˈpəʊnənt/",
+    "american": "/kəmˈpoʊnənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A part or element of a larger whole, especially a part of a machine, system, or structure.",
+      "chineseTranslation": "组成部分；部件",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An individual part or ingredient that makes up a mixture or compound.",
+      "chineseTranslation": "成分；要素",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Serving as a component or part of a whole.",
+      "chineseTranslation": "组成部分的；构成性的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "key component",
+      "meaning": "关键组成部分",
+      "example": "The engine is a key component of the car.",
+      "exampleTranslation": "引擎是汽车的关键组成部分。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "software component",
+      "meaning": "软件组成部分",
+      "example": "This software component handles data encryption.",
+      "exampleTranslation": "这个软件组成部分负责数据加密。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "integral component",
+      "meaning": "不可或缺的组成部分",
+      "example": "Trust is an integral component of any successful relationship.",
+      "exampleTranslation": "信任是任何成功关系中不可或缺的组成部分。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In electronics, a resistor is a basic component that controls current flow.",
+      "translation": "在电子学中，电阻器是一个基本的组成部分，用于控制电流流动。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Education is a vital component of societal progress.",
+      "translation": "教育是社会进步的重要组成部分。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team analyzed each component of the proposal before making a decision.",
+      "translation": "团队在做出决定前分析了提案的每个组成部分。",
+      "source": "Business context (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In a computer system, the CPU is a critical component for processing data.",
+      "translation": "在计算机系统中，CPU 是处理数据的重要组成部分。",
+      "source": "Educational resource (e.g., from academic texts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "component-",
+        "meaning": "that which is put together",
+        "language": "Latin"
+      },
+      {
+        "root": "componere",
+        "meaning": "to put together",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'componentem'，是 'componere' 的分词形式，意为 '组合' 或 '构成'。该词经由古法语 'component' 传入英语，在17世纪开始广泛用于机械和系统上下文中，逐渐扩展到抽象概念如社会或理论组成部分。",
+    "firstKnownUse": "约 1645 年",
+    "relatedWords": [
+      "compose",
+      "composite",
+      "componentize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法（chunking）将 'component' 与具体视觉图像关联，例如想象一个机器的零件，从而增强记忆编码；",
+      "通过重复性练习和语境关联，减少语义混淆，例如将词汇置于不同句子中以强化神经网络连接；",
+      "针对母语为中文的学习者，建议使用双语映射技巧，将 'component' 与 '组成部分' 的发音和含义进行双向联结，以降低认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "part",
+        "similarity": "0.8",
+        "context": "适用于机械或系统组成部分的语境，例如工程领域"
+      },
+      {
+        "word": "element",
+        "similarity": "0.7",
+        "context": "适用于抽象或化学组成部分的语境，例如科学讨论"
+      },
+      {
+        "word": "constituent",
+        "similarity": "0.6",
+        "context": "适用于正式或学术语境中的组成部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "适用于强调完整实体而非部分的语境，例如 'The whole is greater than the sum of its components.'"
+      },
+      {
+        "word": "aggregate",
+        "context": "在系统论中，强调集合而非单个部分的语境"
+      }
+    ],
+    "hypernyms": [
+      "part"
+    ],
+    "hyponyms": [
+      "subcomponent",
+      "module"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + component (e.g., key component)",
+        "examples": [
+          "The key component failed.",
+          "An essential component of success."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "component + of + noun (e.g., component of a system)",
+        "examples": [
+          "A vital component of the ecosystem."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征技术进步和系统化思维，尤其在工业革命后的语境中代表模块化设计；在中国文化中，可与 '零件' 或 '要素' 概念对应，体现整体论哲学。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术与商业语境",
+        "usage": "在美国英语中，'component' 在科技行业高度频繁，例如硅谷的创新讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "略带正式语气，常用于学术或工程报告",
+        "usage": "在英国英语中，可能更强调历史性语境，如机械工程遗产"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，源自18-19世纪的欧洲工业化浪潮；在文学中，如狄更斯的作品中，隐喻社会结构组成部分。",
+    "modernUsage": "在社交媒体和数字时代，'component' 常用于软件开发和在线讨论中，体现全球化的技术传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个复杂的机器，如汽车引擎，其中 'component' 代表一个个小齿轮和零件在协同工作。",
+      "keyElements": [
+        "齿轮",
+        "引擎",
+        "协作"
+      ],
+      "emotionalConnection": "联结个人经验，例如回想组装乐高玩具时的成就感，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'component' 联想为 'com-ponent'，其中 'com' 像 'come together'（聚在一起），'ponent' 像 'point'（点），整体意为 'points that come together'。",
+        "explanation": "这种联想类型基于认知科学中的双编码理论，通过视觉和语义双重编码提升记忆保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kəmˈpoʊnənt/ 听起来像 'come point ant'，想象蚂蚁（ant）在指向（point）并聚拢（come），象征组成部分的集合。",
+        "explanation": "利用声音联觉原理，帮助学习者通过感官关联降低词汇遗忘率"
+      }
+    ],
+    "wordAssociations": [
+      "part",
+      "element",
+      "module",
+      "assembly"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "components",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + component + of + noun",
+        "description": "用于描述某物作为更大整体的组成部分",
+        "examples": [
+          "Water is a key component of life."
+        ]
+      },
+      {
+        "pattern": "Noun + component",
+        "description": "用于修饰或指定组成部分",
+        "examples": [
+          "The software's component functions independently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'component' with 'compliment'",
+        "correction": "Use 'component' for parts and 'compliment' for praise",
+        "explanation": "母语为中文的学习者常因发音相似而混淆，建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "英语名词规则简单，但初级学习者可能遗漏复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus, with approximately 50,000 occurrences per million)",
+    "domains": [
+      "科技",
+      "工程",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "技术词汇",
+      "系统论",
+      "组成部分"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "word": "ledger",
+  "phonetics": {
+    "british": "/ˈlɛdʒər/",
+    "american": "/ˈlɛdʒər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A book or electronic file used for keeping records of financial transactions, such as debits and credits.",
+      "chineseTranslation": "账本；分类账",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, any systematic record or register of accounts or data.",
+      "chineseTranslation": "记录簿；登记册",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To record or enter (an item) in a ledger.",
+      "chineseTranslation": "记入账本",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "general ledger",
+      "meaning": "总账，用于记录所有财务交易的分类账",
+      "example": "The accountant updated the general ledger at the end of the month.",
+      "exampleTranslation": "会计师在月底更新了总账。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ledger account",
+      "meaning": "账目账户，特定账户在账本中的记录",
+      "example": "Each department has its own ledger account for tracking expenses.",
+      "exampleTranslation": "每个部门都有自己的账目账户来追踪开支。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "double-entry ledger",
+      "meaning": "复式账本，每笔交易记录在两个账户中",
+      "example": "The double-entry ledger ensures that all transactions are balanced.",
+      "exampleTranslation": "复式账本确保所有交易都平衡。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company's ledger showed a significant increase in profits this quarter.",
+      "translation": "公司的账本显示本季度利润显著增加。",
+      "source": "Business news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She meticulously maintained the ledger for her small business to avoid any financial discrepancies.",
+      "translation": "她 meticulous 地维护小生意的账本，以避免任何财务差异。",
+      "source": "Modern literature (e.g., contemporary business novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In accounting software, the ledger is automatically updated with each transaction.",
+      "translation": "在会计软件中，账本会自动更新每笔交易。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "ledgere",
+        "meaning": "A book for laying down or recording entries",
+        "language": "Middle English"
+      },
+      {
+        "root": "leggen",
+        "meaning": "To lay or place",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'lecgan'（意为放置或放置），通过中古英语 'ledgere' 演变为指用于记录财务交易的账本。在14世纪开始用于会计语境中，随着商业和金融实践的发展，含义从一般记录演变为专门的财务工具。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "ledger line (in music, a short line added to the staff)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，辅音和元音组合易于掌握，但需注意/ʒ/音)",
+    "spellingDifficulty": "4 (拼写规则常规，但容易与类似词混淆，如 'leader')",
+    "meaningComplexity": "6 (语义涉及具体语境，如会计领域，需理解文化背景)",
+    "usageComplexity": "7 (在正式或技术语境中使用，初学者可能混淆于其他记录工具)",
+    "learningTips": [
+      "结合认知科学原理，利用分块学习法（chunking）将词汇与实际财务场景关联；通过重复暴露（spaced repetition）在模拟会计练习中强化记忆；建议使用双编码（dual coding），如将词汇与视觉图表配对，以提升对抽象概念的保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "account book",
+        "similarity": "0.8",
+        "context": "适用于商业和财务记录语境中，例如在日常会计工作中"
+      },
+      {
+        "word": "journal",
+        "similarity": "0.7",
+        "context": "在记录交易的正式语境中，但 journal 更侧重于日记式记录"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cash flow statement",
+        "context": "与静态记录相对，在动态财务分析语境中使用"
+      },
+      {
+        "word": "balance sheet",
+        "context": "作为总结性文件，与详细交易记录的 ledger 相对"
+      }
+    ],
+    "hypernyms": [
+      "record",
+      "register"
+    ],
+    "hyponyms": [
+      "general ledger",
+      "subsidiary ledger"
+    ],
+    "collocations": [
+      {
+        "pattern": "ledger + noun (e.g., ledger account)",
+        "examples": [
+          "maintain a ledger account",
+          "update the ledger balance"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + ledger (e.g., keep a ledger)",
+        "examples": [
+          "audit the ledger",
+          "balance the ledger"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方商业文化中，ledger 象征着财务透明度和责任感，常与资本主义和现代会计体系相关联，隐含语义包括秩序和精确性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式会计术语中",
+        "usage": "在英国英语中，常与传统手工账本相关联，强调历史性记录"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重于数字化应用",
+        "usage": "在美国英语中，常与软件工具（如 QuickBooks）结合使用，反映科技驱动的商业实践"
+      }
+    ],
+    "historicalContext": "ledger 与文艺复兴时期商业革命相关联，在欧洲中世纪的贸易中首次出现，并通过工业革命传播至全球，成为现代财务管理的基石。",
+    "modernUsage": "在社交媒体和数字平台上，ledger 常用于区块链和加密货币语境中，如比特币账本，反映了当代科技趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个老式书房中，一本厚实的账本摊开在桌上，旁边是计算器和钢笔，代表着财务记录的过程。",
+      "keyElements": [
+        "账本",
+        "财务数字",
+        "计算工具"
+      ],
+      "emotionalConnection": "联结个人经验，如回想家庭预算管理，触发安全感和秩序感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Ledger 听起来像 'leader'，想象一个领导者（leader）在带领财务团队记录账本。",
+        "explanation": "通过声音联想（sound association）将词汇与领导角色连接，强化认知路径"
+      },
+      {
+        "type": "缩略",
+        "content": "L-E-D-G-E-R: Lay Entries Down Get Exact Records（放置条目获取精确记录）",
+        "explanation": "使用首字母缩略词结合语义解释，基于认知心理学中的 elaborate rehearsal 原则"
+      }
+    ],
+    "wordAssociations": [
+      "book",
+      "account",
+      "finance",
+      "record"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ledgers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the company ledger)",
+        "description": "作为主语或宾语出现在句子中，常与动词如 'maintain' 或 'update' 搭配",
+        "examples": [
+          "The ledger contains all financial details."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., in the ledger)",
+        "description": "用于表示位置或包含关系",
+        "examples": [
+          "All transactions are recorded in the ledger."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'leader'",
+        "correction": "Use 'ledger' for financial records only",
+        "explanation": "由于发音相似，学习者可能误用；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "ledgers (add -s for plural)",
+        "explanation": "英文名词规则简单，但非母语者可能遗忘复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in business domains)",
+    "domains": [
+      "business",
+      "finance",
+      "accounting",
+      "technology"
+    ],
+    "tags": [
+      "accounting terminology",
+      "financial tools",
+      "record-keeping"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "word": "subclass",
+  "phonetics": {
+    "british": "/ˈsʌb.klɑːs/",
+    "american": "/ˈsʌb.klæs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A class that inherits from another class, typically in object-oriented programming, extending or modifying its behavior.",
+      "chineseTranslation": "子类（在面向对象编程中，继承自另一个类的类）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A subdivision or subordinate category within a larger classification, such as in biology or taxonomy.",
+      "chineseTranslation": "子类别（在生物学或分类学中，一个较大类别的下级类别）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "create a subclass",
+      "meaning": "创建一个子类",
+      "example": "In Python, you can create a subclass by defining a new class that inherits from an existing one.",
+      "exampleTranslation": "在 Python 中，你可以通过定义一个从现有类继承的新类来创建一个子类。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "subclass of a class",
+      "meaning": "一个类的子类",
+      "example": "The 'Bird' class is a subclass of the 'Animal' class in this biological taxonomy.",
+      "exampleTranslation": "在这种生物分类学中，'Bird' 类是 'Animal' 类的子类。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In object-oriented programming, a subclass can override methods from its parent class to add specific functionality.",
+      "translation": "在面向对象编程中，子类可以覆盖其父类的方法以添加特定功能。",
+      "source": "Programming textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Mammals are a subclass of vertebrates, distinguished by their ability to nurse their young.",
+      "translation": "哺乳动物是脊椎动物的子类，以哺乳幼崽的能力为特征。",
+      "source": "Scientific article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Developers often use subclasses to implement inheritance and promote code reusability in software design.",
+      "translation": "开发人员经常使用子类来实现继承并促进软件设计中的代码重用。",
+      "source": "Tech blog (e.g., from online sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "under or below",
+        "language": "Latin"
+      },
+      {
+        "root": "class",
+        "meaning": "a group or category",
+        "language": "Latin (from 'classis', meaning a division or group)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于拉丁语 'sub-'（意思是“在下面”）和 'classis'（意思是“班级或类别”），在英语中从17世纪开始用于分类系统，19世纪扩展到生物学和20世纪扩展到计算机科学，随着编程语言的演变，成为面向对象编程的核心概念。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "superclass",
+      "inheritance",
+      "category"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'subclass' 与层级结构（如家庭树）关联，以强化记忆；使用间隔重复法复习编程或生物学语境中的示例，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subcategory",
+        "similarity": "0.8",
+        "context": "适用于分类学或编程中，表示更具体的分组"
+      },
+      {
+        "word": "derived class",
+        "similarity": "0.7",
+        "context": "主要在编程语境中，用于描述继承关系"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superclass",
+        "context": "适用于编程或分类学中，表示更广泛的上级类别"
+      },
+      {
+        "word": "parent class",
+        "context": "在面向对象编程中，指被继承的原始类"
+      }
+    ],
+    "hypernyms": [
+      "class"
+    ],
+    "hyponyms": [
+      "specific subclass types, e.g., 'child class' in programming"
+    ],
+    "collocations": [
+      {
+        "pattern": "subclass of [noun]",
+        "examples": [
+          "subclass of Animal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "create [verb] subclass",
+        "examples": [
+          "create a subclass"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在技术文化中象征创新和层次化结构，在西方教育体系中常用于STEM领域，隐含语义强调继承和扩展知识。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于编程和技术教育语境",
+        "usage": "在美国英语中，强调在软件开发中的实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在生物学和学术语境中更常见",
+        "usage": "英国英语中可能更侧重于分类学的历史传统"
+      }
+    ],
+    "historicalContext": "与19世纪的达尔文进化论和20世纪的计算机科学革命相关，在现代文化中反映了分类和继承的概念。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于编程教程和科学讨论，体现数字化时代的信息组织趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个金字塔结构，其中 'subclass' 是金字塔的较低层，代表从顶部 'class' 向下扩展的子部分。",
+      "keyElements": [
+        "金字塔",
+        "层级结构",
+        "继承箭头"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆家庭世系图，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub + Class = Under Class (像子级在父级之下)",
+        "explanation": "通过视觉联想强化词根记忆，帮助中文母语学习者避免混淆类似词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C for Subordinate Category",
+        "explanation": "使用首字母缩写结合语境联想，促进认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "class",
+      "inherit",
+      "category"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subclasses",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + subclass + of + [Noun]",
+        "description": "典型结构用于描述所属关系",
+        "examples": [
+          "a subclass of mammals"
+        ]
+      },
+      {
+        "pattern": "Verb + subclass",
+        "description": "用于动作语境，如创建子类",
+        "examples": [
+          "Developers create subclasses for customization."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing subclass with superclass",
+        "correction": "Use subclass for the derived class and superclass for the base class",
+        "explanation": "中文学习者常因翻译差异混淆层级，常需强调英语中精确的继承概念"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -es for plural",
+        "explanation": "由于英语复数规则的多样性，初级学习者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Science",
+      "Education"
+    ],
+    "tags": [
+      "Programming",
+      "Taxonomy",
+      "Classification"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

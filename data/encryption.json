@@ -1,0 +1,244 @@
+{
+  "word": "encryption",
+  "phonetics": {
+    "british": "/ɪnˈkrɪpʃən/",
+    "american": "/ɛnˈkrɪpʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of converting information or data into a code to prevent unauthorized access or to ensure secure transmission.",
+      "chineseTranslation": "加密过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data encryption",
+      "meaning": "数据加密",
+      "example": "Data encryption is essential for protecting sensitive information online.",
+      "exampleTranslation": "数据加密对于保护在线敏感信息至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "encryption key",
+      "meaning": "加密密钥",
+      "example": "You need a strong encryption key to secure your files.",
+      "exampleTranslation": "你需要一个强大的加密密钥来保护你的文件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "end-to-end encryption",
+      "meaning": "端到端加密",
+      "example": "End-to-end encryption ensures that only the sender and receiver can read the messages.",
+      "exampleTranslation": "端到端加密确保只有发送者和接收者才能阅读消息。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Modern banking systems rely on encryption to safeguard customer data from hackers.",
+      "translation": "现代银行系统依赖加密来保护客户数据免受黑客攻击。",
+      "source": "Financial news article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used encryption software to send the confidential report securely.",
+      "translation": "她使用加密软件安全地发送了机密报告。",
+      "source": "Contemporary novel (e.g., inspired by tech thrillers)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Encryption has become a standard feature in most mobile apps to protect user privacy.",
+      "translation": "加密已成为大多数移动应用中保护用户隐私的标准功能。",
+      "source": "Technology blog (e.g., from CNET)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "crypt",
+        "meaning": "hidden",
+        "language": "Greek (κρυπτός, kruptos)"
+      },
+      {
+        "root": "en-",
+        "meaning": "in or into",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自希腊词根κρυπτός（意思是隐藏），通过拉丁语演变为英语词汇；该词在20世纪中叶随着计算机和密码学的兴起而流行，用于描述数据保护方法，从最初的军事通信加密演变到现代数字安全。",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "encrypt",
+      "decryption",
+      "cryptography"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合间隔重复法复习词汇；将加密与日常生活中的锁和钥匙类比，以强化语义记忆；利用认知科学中的双编码理论，通过视觉图像和个人经验（如手机解锁）辅助学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coding",
+        "similarity": "0.8",
+        "context": "在技术语境中用于描述数据转换过程，例如在软件开发中"
+      },
+      {
+        "word": "ciphering",
+        "similarity": "0.7",
+        "context": "在历史或军事语境中，表示编码信息以确保保密"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decryption",
+        "context": "在安全语境中，表示解码过程，与加密相反，用于恢复原始数据"
+      },
+      {
+        "word": "decoding",
+        "context": "在通信语境中，表示从加密状态恢复信息"
+      }
+    ],
+    "hypernyms": [
+      "security measure"
+    ],
+    "hyponyms": [
+      "symmetric encryption",
+      "asymmetric encryption"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + encryption (e.g., data encryption)",
+        "examples": [
+          "data encryption",
+          "file encryption"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "encryption + noun (e.g., encryption algorithm)",
+        "examples": [
+          "encryption algorithm",
+          "encryption protocol"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着隐私保护和网络安全，体现了现代社会对个人数据权力的重视，并在文化中代表了信任与隐秘的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境中，强调创新应用",
+        "usage": "在美国英语中，常见于硅谷文化和网络安全讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "类似美国，但可能更注重历史密码学背景",
+        "usage": "在英国英语中，常与二战 enigma 机器等历史事件相关联"
+      }
+    ],
+    "historicalContext": "与历史文化中的密码学相关，如二战时期的盟军破译德军密码，体现了科技在战争和社会变革中的作用。",
+    "modernUsage": "在社交媒体和数字平台上广泛使用，例如WhatsApp的端到端加密，反映了当代对数据隐私的关注趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个保险箱，用钥匙锁住重要文件，代表数据被隐藏起来。",
+      "keyElements": [
+        "钥匙",
+        "保险箱",
+        "隐藏文件"
+      ],
+      "emotionalConnection": "联结个人经验，如保护手机密码，触发安全感和责任感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "En-crypt-ion: En-close your crypt (secret place).",
+        "explanation": "通过联想 'en-' 表示封闭，'crypt' 表示隐藏的地方，帮助记忆词汇含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'in-crypt-shun'，联想到 'in a crypt'（在地下室隐藏），强化发音记忆。",
+        "explanation": "利用认知科学中的声音-图像关联，提高词汇保留率"
+      }
+    ],
+    "wordAssociations": [
+      "lock",
+      "key",
+      "secure",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "encryptions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + encryption",
+        "description": "作为主语或宾语出现于句中，表示过程或工具",
+        "examples": [
+          "Encryption protects data."
+        ]
+      },
+      {
+        "pattern": "Encryption + of + noun",
+        "description": "用于描述加密的对象",
+        "examples": [
+          "Encryption of sensitive files is mandatory."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'encryption' with 'encrypt'",
+        "correction": "Use 'encryption' as a noun and 'encrypt' as a verb",
+        "explanation": "encryption 是名词，指过程，而 encrypt 是动词，指动作；初学者常混淆词性导致错误"
+      },
+      {
+        "mistake": "Incorrect collocation, e.g., 'encrypt data' instead of proper context",
+        "correction": "Ensure correct pairing like 'data encryption'",
+        "explanation": "搭配错误可能导致语义不清，需注意常见搭配以提高准确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "security",
+      "computing"
+    ],
+    "tags": [
+      "tech",
+      "cybersecurity",
+      "data protection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

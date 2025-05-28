@@ -1,0 +1,264 @@
+{
+  "word": "evaluate",
+  "phonetics": {
+    "british": "/ɪˈvaljʊeɪt/",
+    "american": "/ɪˈvæljuˌeɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To form an idea of the amount, value, or quality of something after thinking about it carefully",
+      "chineseTranslation": "评估；评价",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To assess or judge the effectiveness or success of something, such as a plan, project, or performance",
+      "chineseTranslation": "检验；审视",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In mathematical contexts, to calculate the numerical value of an expression",
+      "chineseTranslation": "计算（数学术语）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "evaluate performance",
+      "meaning": "评估表现",
+      "example": "The manager will evaluate performance during the annual review.",
+      "exampleTranslation": "经理将在年度审查中评估表现。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "self-evaluate",
+      "meaning": "自我评估",
+      "example": "Students are encouraged to self-evaluate their essays before submission.",
+      "exampleTranslation": "学生被鼓励在提交前自我评估他们的论文。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "evaluate options",
+      "meaning": "评估选项",
+      "example": "Before making a decision, it's important to evaluate options carefully.",
+      "exampleTranslation": "在做出决定前，仔细评估选项很重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The teacher asked the students to evaluate their own progress in the course.",
+      "translation": "老师要求学生评估自己在课程中的进步。",
+      "source": "Educational context, based on common academic corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Experts evaluate the environmental impact of new policies before implementation.",
+      "translation": "专家在实施新政策前评估其环境影响。",
+      "source": "News articles, e.g., from BBC or The Guardian",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you need to evaluate the algorithm's efficiency.",
+      "translation": "在编程中，你需要评估算法的效率。",
+      "source": "Technical literature, e.g., from computer science corpora",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "valere",
+        "meaning": "to be strong, to be of value",
+        "language": "Latin"
+      },
+      {
+        "root": "e-",
+        "meaning": "out of or from",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from the Latin 'valere', meaning 'to be strong or of value', combined with the prefix 'e-' to form 'evalutare' in Late Latin, evolving through Old French 'esvaluer' to Middle English 'evalen' in the 15th century, and finally to modern 'evaluate' by the 19th century, shifting from a primarily financial assessment to broader judgments in various fields.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "value",
+      "valuation",
+      "evaluatee"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统（spaced repetition）来记忆词汇的多重含义，帮助强化长期记忆；将'evaluate'与个人经历关联，如评估日常任务，以提升认知连接；根据认知语言学，创建视觉地图将该词与'synonyms'如'assess'连接，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assess",
+        "similarity": "0.9",
+        "context": "在教育或商业语境中，用于正式评估，如考试或绩效审查"
+      },
+      {
+        "word": "appraise",
+        "similarity": "0.8",
+        "context": "在财产或艺术语境中，用于估价"
+      },
+      {
+        "word": "judge",
+        "similarity": "0.7",
+        "context": "在非正式或日常语境中，用于主观意见"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在决策语境中，当不评估时，如'ignore the risks'对比'evaluate the risks'"
+      },
+      {
+        "word": "overlook",
+        "context": "在审查语境中，用于忽略细节"
+      }
+    ],
+    "hypernyms": [
+      "analyze",
+      "examine"
+    ],
+    "hyponyms": [
+      "critique",
+      "rate"
+    ],
+    "collocations": [
+      {
+        "pattern": "evaluate + noun (e.g., evaluate the data)",
+        "examples": [
+          "evaluate the evidence",
+          "evaluate the proposal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "evaluate + in context (e.g., evaluate in terms of)",
+        "examples": [
+          "evaluate in terms of cost"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性决策和批判性思考，常与教育和科学改革相关，隐含语义强调证据为基础的判断，而在东方文化如中国语境中，可能与集体评估（如绩效考核）相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in corporate and educational settings with a focus on metrics.",
+        "usage": "在美国英语中，常用于正式报告，如'performance evaluation'，反映注重量化评估的文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, often in academic papers.",
+        "usage": "在英国英语中，可能与历史性评估相关，如文学批评"
+      }
+    ],
+    "historicalContext": "起源于启蒙运动时期，强调理性评估，与工业革命的效率文化相关；在现代，如20世纪的教育改革中，该词用于标准化测试。",
+    "modernUsage": "在社交媒体和在线平台上，常见于评论和反馈，如YouTube视频的'evaluate'评论，反映数字时代即时判断的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤（代表平衡评估），一边放上数据或物体，另一边放上标准。",
+      "keyElements": [
+        "天平秤",
+        "数据",
+        "标准"
+      ],
+      "emotionalConnection": "联结到个人经历，如学校考试的紧张感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "E-value-ate: E for examine, value for worth, ate for consuming information",
+        "explanation": "通过将词分解为'e-value-ate'，联想到检查价值的过程，基于认知科学中的分解记忆技巧"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'eval-you-ate'，想象在品尝（ate）并评估（eval）你自己的选择",
+        "explanation": "利用声音与动作的联觉，帮助初级学习者通过感官记忆增强保留"
+      }
+    ],
+    "wordAssociations": [
+      "assess",
+      "judge",
+      "analyze"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "evaluated",
+      "pastParticiple": "evaluated",
+      "presentParticiple": "evaluating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + evaluate + object",
+        "description": "主语直接评估宾语的结构",
+        "examples": [
+          "She evaluates the project."
+        ]
+      },
+      {
+        "pattern": "Evaluate + in terms of + criteria",
+        "description": "使用特定标准评估的结构",
+        "examples": [
+          "Evaluate the plan in terms of cost and time."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'evaluate' as a noun",
+        "correction": "Use 'evaluation' for the noun form",
+        "explanation": " 'Evaluate' 是动词，常被学习者误用为名词；正确时需调整为'evaluation'以符合语法规则"
+      },
+      {
+        "mistake": "Confusing with 'valuate'",
+        "correction": "Use 'evaluate' for general assessment",
+        "explanation": "'Valuate' 是过时或特定术语；'evaluate'更通用，避免混淆以提高准确性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "business",
+      "science"
+    ],
+    "tags": [
+      "assessment",
+      "analysis",
+      "judgment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

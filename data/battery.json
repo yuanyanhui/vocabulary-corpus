@@ -1,0 +1,281 @@
+{
+  "word": "battery",
+  "phonetics": {
+    "british": "/ˈbætəri/",
+    "american": "/ˈbætəri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that consists of one or more electrochemical cells that convert stored chemical energy into electrical energy.",
+      "chineseTranslation": "电池",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In law, the intentional physical contact with another person without their consent, often as part of assault.",
+      "chineseTranslation": "殴打或非法侵犯",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A group of similar things, such as a series of cannons or artillery pieces.",
+      "chineseTranslation": "一组或一连串的物品，如炮兵阵地",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In baseball, the pitcher and catcher together.",
+      "chineseTranslation": "棒球中的投手和接手组合",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "battery life",
+      "meaning": "电池寿命，指设备电池能持续供电的时间",
+      "example": "The smartphone's battery life lasts for about 10 hours on a single charge.",
+      "exampleTranslation": "这款智能手机的电池寿命在单次充电后可达约10小时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "rechargeable battery",
+      "meaning": "可再充电电池",
+      "example": "We use rechargeable batteries to reduce waste.",
+      "exampleTranslation": "我们使用可再充电电池来减少浪费。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "assault and battery",
+      "meaning": "袭击和殴打，法律术语",
+      "example": "He was charged with assault and battery after the fight.",
+      "exampleTranslation": "他因打架被指控袭击和殴打罪。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to replace the battery in my watch because it's not working anymore.",
+      "translation": "我需要更换手表的电池，因为它已经坏了。",
+      "source": "日常对话",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The electric car relies on a high-capacity battery for long-distance travel.",
+      "translation": "这辆电动汽车依赖于高容量电池进行长途旅行。",
+      "source": "科技新闻",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the legal case, the defendant was found guilty of battery against the victim.",
+      "translation": "在该法律案件中，被告被判对受害者实施殴打罪。",
+      "source": "文学作品",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The army positioned the battery of guns along the border for defense.",
+      "translation": "军队将一组大炮布置在边境用于防御。",
+      "source": "历史文件",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle French",
+    "rootWords": [
+      {
+        "root": "batterie",
+        "meaning": "a beating or set of things beaten together",
+        "language": "Middle French"
+      },
+      {
+        "root": "battre",
+        "meaning": "to beat",
+        "language": "Old French"
+      },
+      {
+        "root": "battuere",
+        "meaning": "to beat or strike",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'battuere'，意为击打或敲打。经由古法语'battre'演变为中古法语'batterie'，最初指一组被敲打的物体或动作集合。17世纪传入英语，先用于军事语境（如炮兵组），18世纪扩展到电气设备，指能量储存和释放的装置。",
+    "firstKnownUse": "约1531年",
+    "relatedWords": [
+      "beat",
+      "battle",
+      "batter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先记忆常见意义如'电池'，然后通过视觉联想（如想象电池形状）连接多重含义；避免混淆相似词汇，通过重复暴露于真实语境提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cell",
+        "similarity": "0.8",
+        "context": "在电气语境中，指单个电池单元"
+      },
+      {
+        "word": "accumulator",
+        "similarity": "0.7",
+        "context": "在技术语境中，指可再充电电池"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discharge",
+        "context": "在电气语境中，指能量释放的反向过程"
+      },
+      {
+        "word": "acquittal",
+        "context": "在法律语境中，指无罪释放，与'殴打'罪相反"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "crime"
+    ],
+    "hyponyms": [
+      "lithium battery",
+      "lead-acid battery",
+      "aggravated battery"
+    ],
+    "collocations": [
+      {
+        "pattern": "battery + noun (e.g., battery pack)",
+        "examples": [
+          "battery pack",
+          "battery charger"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + battery (e.g., charge the battery)",
+        "examples": [
+          "recharge the battery",
+          "replace the battery"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代文化中，该词象征技术进步和可持续能源，常与环保运动相关；在法律语境中，隐含个人权利和暴力预防的主题。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于法律和科技语境",
+        "usage": "在美国英语中，'battery'在刑事司法中频繁出现，如家暴案件"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向军事历史语境",
+        "usage": "在英国英语中，常与历史事件如战争中的炮兵相关"
+      }
+    ],
+    "historicalContext": "与工业革命关联，电池发明推动了电气时代；在文学中，如狄更斯的作品中，象征社会冲突。",
+    "modernUsage": "在社交媒体和科技趋势中，如电动汽车革命，'battery'常出现在环保讨论和产品评论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个闪亮的电池像士兵一样排队，代表能量储存和军事起源。",
+      "keyElements": [
+        "闪光电池",
+        "士兵队列"
+      ],
+      "emotionalConnection": "联结个人经验，如更换手机电池时的挫败感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Battery sounds like 'bat tree' – imagine a bat hanging from a tree, storing energy like a battery.",
+        "explanation": "通过声音联想和视觉图像，帮助初级学习者记忆词汇的多重含义"
+      },
+      {
+        "type": "缩略",
+        "content": "B-A-T: Beat (打击，原意)，Accumulate (储存能量)，Technology (现代应用)",
+        "explanation": "使用首字母缩写结合认知科学中的分块法，提升词汇关联记忆"
+      }
+    ],
+    "wordAssociations": [
+      "power",
+      "energy",
+      "charge",
+      "assault"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "batteries",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the battery in the car)",
+        "description": "作为主语或宾语出现在句子中，表示具体物体",
+        "examples": [
+          "The battery powers the device."
+        ]
+      },
+      {
+        "pattern": "In compound structures (e.g., battery-operated)",
+        "description": "用作修饰语，形成复合词",
+        "examples": [
+          "This is a battery-operated toy."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'battery' with 'batter' (as in cooking)",
+        "correction": "Use 'battery' for the device or legal term",
+        "explanation": "二者发音相似，但语义不同；学习者应通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-ies' for plural",
+        "explanation": "作为可数名词，需正确处理复数形式以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "法律",
+      "军事",
+      "日常生活"
+    ],
+    "tags": [
+      "科技词汇",
+      "法律术语",
+      "名词"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

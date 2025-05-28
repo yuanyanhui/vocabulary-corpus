@@ -1,0 +1,283 @@
+{
+  "word": "as",
+  "phonetics": {
+    "british": "/æz/ or /əz/ (depending on context)",
+    "american": "/æz/ or /əz/ (depending on context)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used to indicate that something happens at the same time as something else; also used for comparison or in the manner of.",
+      "chineseTranslation": "用作连词，表示同时发生、比较或方式",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Used to indicate the role, function, or identity of someone or something.",
+      "chineseTranslation": "用作介词，表示角色、功能或身份",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "Used to indicate the degree or extent to which something is true.",
+      "chineseTranslation": "用作副词，表示程度或真实性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "relative pronoun",
+      "definition": "Used in relative clauses to refer to the way or manner in which something is done.",
+      "chineseTranslation": "用作关系代词，指方式或方式从句",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as well as",
+      "meaning": "以及；除...之外还",
+      "example": "She speaks French as well as English.",
+      "exampleTranslation": "她不仅会说英语，还会说法语。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "as long as",
+      "meaning": "只要；如果",
+      "example": "You can go out as long as you finish your homework.",
+      "exampleTranslation": "只要你完成作业，你就可以出去。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "such as",
+      "meaning": "例如；像...这样的",
+      "example": "Fruits such as apples and oranges are healthy.",
+      "exampleTranslation": "像苹果和橘子这样的水果很健康。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "as far as",
+      "meaning": "就...而言；直到",
+      "example": "As far as I know, he is still in London.",
+      "exampleTranslation": "据我所知，他还在伦敦。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "He works as a teacher in the local school.",
+      "translation": "他在当地学校当老师。",
+      "source": "Modern conversation (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "As the sun set, the sky turned orange.",
+      "translation": "随着太阳落下，天空变成了橙色。",
+      "source": "Literary description (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She runs as fast as a cheetah in the race.",
+      "translation": "她在赛跑中跑得像猎豹一样快。",
+      "source": "Sports news (e.g., from news articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As per the agreement, payment is due next week.",
+      "translation": "根据协议，下周付款到期。",
+      "source": "Business document (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "ealswā",
+        "meaning": "in the same way",
+        "language": "Old English"
+      },
+      {
+        "root": "alswa",
+        "meaning": "also",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "起源于古英语的'ealswā'，意为'在相同的方式中'，经过中古英语演变为'as'，逐渐扩展到表示比较、同时性和角色功能，在现代英语中成为多功能词。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "also",
+      "alike",
+      "as if"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1 (CEFR)",
+    "pronunciationDifficulty": "3 (out of 10, as it involves simple vowel sounds but context-dependent schwa)",
+    "spellingDifficulty": "2 (out of 10, short and straightforward)",
+    "meaningComplexity": "6 (out of 10, due to multiple functions and contextual nuances)",
+    "usageComplexity": "5 (out of 10, requires understanding of sentence structure)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'as'的不同功能分组记忆，例如先学其作为连词的用法，然后扩展到介词；",
+      "使用双编码理论，通过视觉和听觉结合，例如绘图表示'as'在句子中的位置，以增强记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "like",
+        "similarity": "0.7",
+        "context": "在比较语境中，例如描述相似性（在非正式场合）"
+      },
+      {
+        "word": "while",
+        "similarity": "0.6",
+        "context": "在表示同时发生的语境中（在正式写作中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unlike",
+        "context": "在表示差异或相反的语境中"
+      },
+      {
+        "word": "though",
+        "context": "在表示对比或让步的语境中"
+      }
+    ],
+    "hypernyms": [
+      "conjunctions",
+      "prepositions"
+    ],
+    "hyponyms": [
+      "as well as",
+      "as long as"
+    ],
+    "collocations": [
+      {
+        "pattern": "as + noun/adjective",
+        "examples": [
+          "as a friend",
+          "as beautiful as"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "as + clause",
+        "examples": [
+          "as I said",
+          "as if it were true"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'as'常用于强调平等或比较，隐含平等主义价值观，例如在民主社会中表达'如同'的理念。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式用法，如在学术语境",
+        "usage": "在英国英语中，'as'常与历史文学结合，如莎士比亚作品"
+      },
+      {
+        "region": "美国",
+        "variation": "更灵活，常用于日常对话",
+        "usage": "在美国英语中，'as'在流行文化如电影中频繁出现，以突出即时性"
+      }
+    ],
+    "historicalContext": "与英国文学和启蒙运动相关，如在莎士比亚时代用于复杂句法，反映社会阶层和比较文化。",
+    "modernUsage": "在社交媒体和数字通信中，'as'用于快速表达，如Twitter上的'as per usual'，反映当代快节奏生活。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，'as'代表两侧平衡的物体，表示比较或同时性。",
+      "keyElements": [
+        "天平",
+        "平衡",
+        "物体"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆童年玩天平玩具时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "As sounds like 'ace' (王牌)，想象'as'是王牌，帮助记住其多功能性。",
+        "explanation": "通过声音联想，将'as'与成功或多才多艺的王牌联系，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "A-S: Always Similar (总是相似的)",
+        "explanation": "使用缩略形式强化比较含义，符合重复暴露记忆法"
+      }
+    ],
+    "wordAssociations": [
+      "similar",
+      "while",
+      "like",
+      "balance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "As + clause + main clause",
+        "description": "表示原因或方式的从句结构",
+        "examples": [
+          "As it was raining, we stayed indoors."
+        ]
+      },
+      {
+        "pattern": "Subject + verb + as + noun",
+        "description": "表示角色的主谓结构",
+        "examples": [
+          "He works as a doctor."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'as' with 'like' in formal writing",
+        "correction": "Use 'as' for clauses and 'like' for nouns",
+        "explanation": "错误源于语境混淆；正确用法基于传统语法规则"
+      },
+      {
+        "mistake": "Omitting 'as' in comparisons",
+        "correction": "Include 'as' for proper comparison",
+        "explanation": "遗漏会导致句子不完整，影响清晰度"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 10 in general corpora (e.g., COCA rank: 5)",
+    "domains": [
+      "education",
+      "business",
+      "literature"
+    ],
+    "tags": [
+      "conjunction",
+      "preposition",
+      "comparison"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

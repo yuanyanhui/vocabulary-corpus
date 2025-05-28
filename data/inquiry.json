@@ -1,0 +1,263 @@
+{
+  "word": "inquiry",
+  "phonetics": {
+    "british": "/ɪnˈkwaɪəri/",
+    "american": "/ɪnˈkwaɪəri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A formal investigation or examination into facts or principles.",
+      "chineseTranslation": "调查；询问",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of asking for information.",
+      "chineseTranslation": "查询；质询",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (archaic or less common)",
+      "definition": "To seek information by questioning.",
+      "chineseTranslation": "询问；探求",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make an inquiry",
+      "meaning": "进行调查或询问",
+      "example": "She decided to make an inquiry about the missing package.",
+      "exampleTranslation": "她决定对丢失的包裹进行询问。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "line of inquiry",
+      "meaning": "调查的方向或线索",
+      "example": "The detective pursued a new line of inquiry in the case.",
+      "exampleTranslation": "侦探在案件中追查了一个新的调查线索。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "public inquiry",
+      "meaning": "公开调查",
+      "example": "The government held a public inquiry into the environmental disaster.",
+      "exampleTranslation": "政府对环境灾难进行了公开调查。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The committee conducted a thorough inquiry into the allegations of corruption.",
+      "translation": "委员会对腐败指控进行了彻底调查。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "I sent an inquiry to the company regarding their hiring process.",
+      "translation": "我向公司发送了关于招聘流程的查询。",
+      "source": "Business email (e.g., from corporate correspondence)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Her inquiry into ancient history led to groundbreaking discoveries.",
+      "translation": "她对古代历史的调查导致了突破性发现。",
+      "source": "Academic text (e.g., from historical literature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inquirere",
+        "meaning": "to seek into or investigate",
+        "language": "Latin"
+      },
+      {
+        "root": "quaerere",
+        "meaning": "to seek or ask",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 inquirere（由 in- 表示 'into' 和 quaerere 表示 'to seek' 组合而成）。在中世纪英语中演变为 'enquiry' 或 'inquiry'，逐渐标准化为现代英语中的名词形式，用于表示正式的调查或提问过程。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "inquire",
+      "enquiry",
+      "query"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'inquiry' 与相关词汇如 'investigation' 关联，以增强语义网络；通过重复暴露于真实语境中（如阅读新闻）来改善记忆持久性，根据双编码理论，将英文例句与个人经历视觉化。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "investigation",
+        "similarity": "0.85",
+        "context": "适用于正式调查语境，如法律或学术领域"
+      },
+      {
+        "word": "query",
+        "similarity": "0.75",
+        "context": "适用于日常询问语境，如数据库搜索"
+      },
+      {
+        "word": "examination",
+        "similarity": "0.80",
+        "context": "适用于教育或检查语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "answer",
+        "context": "当 'inquiry' 表示提问时，反义词用于响应语境"
+      },
+      {
+        "word": "conclusion",
+        "context": "当 'inquiry' 表示调查过程时，反义词用于结束语境"
+      }
+    ],
+    "hypernyms": [
+      "investigation",
+      "process"
+    ],
+    "hyponyms": [
+      "police inquiry",
+      "judicial inquiry"
+    ],
+    "collocations": [
+      {
+        "pattern": "inquiry into + noun",
+        "examples": [
+          "inquiry into the scandal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "conduct an inquiry",
+        "examples": [
+          "They conducted an inquiry last year."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常象征求知与公正，隐含语义强调理性调查，如在英美法律体系中用于公共听证会，体现了西方文化对证据和真相的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常使用 'enquiry' 作为拼写变体",
+        "usage": "在英国英语中，'enquiry' 可能更偏向一般询问，而 'inquiry' 用于正式调查"
+      },
+      {
+        "region": "美国",
+        "variation": "标准化为 'inquiry'",
+        "usage": "在美国英语中，常用于新闻和商业语境中，表示正式程序"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，如17世纪的英国皇家学会使用类似术语推动科学研究。",
+    "modernUsage": "在现代社交媒体和新闻中，'inquiry' 常用于讨论公众事件，如COVID-19调查，反映了数字时代的信息透明趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探手持放大镜在黑暗房间中搜索线索的场景，这代表了 'inquiry' 的调查含义。",
+      "keyElements": [
+        "侦探",
+        "放大镜",
+        "线索"
+      ],
+      "emotionalConnection": "联结个人好奇心，例如回想自己小时候提问父母的经历，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'inquiry' 联想为 'in' + 'query'，像是在查询内部信息。",
+        "explanation": "通过词根分解增强记忆，根据认知联想理论，帮助学习者建立语义连接"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪnˈkwaɪəri/ 听起来像 'inquire why'，提醒提问的原因。",
+        "explanation": "利用声音相似性促进听觉记忆，基于多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "investigate",
+      "question",
+      "probe"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "inquiries",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + inquiry",
+        "description": "主语 + 动词 + inquiry 结构，常用于描述调查过程",
+        "examples": [
+          "The board launched an inquiry."
+        ]
+      },
+      {
+        "pattern": "Inquiry into + noun",
+        "description": "inquiry 后接 into + 名词，表示调查对象",
+        "examples": [
+          "An inquiry into fraud."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'enquiry'",
+        "correction": "Use 'inquiry' in American English for formal contexts",
+        "explanation": "中文学习者常混淆英式和美式拼写；建议检查语境以避免错误"
+      },
+      {
+        "mistake": "Using as a verb incorrectly",
+        "correction": "Prefer 'inquire' as the verb form",
+        "explanation": "作为动词时较少用，应使用 'inquire' 以符合标准用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "legal",
+      "academic",
+      "business"
+    ],
+    "tags": [
+      "investigation",
+      "information-seeking",
+      "formal-language"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

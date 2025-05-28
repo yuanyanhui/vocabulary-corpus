@@ -1,0 +1,264 @@
+{
+  "word": "concurrent",
+  "phonetics": {
+    "british": "/kənˈkʌrənt/",
+    "american": "/kənˈkɝrənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Existing or happening at the same time; occurring simultaneously.",
+      "chineseTranslation": "同时发生的；并发的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, referring to processes or tasks that are executed simultaneously.",
+      "chineseTranslation": "（在计算机领域）同时执行的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In legal contexts, agreements or claims that run together or are compatible.",
+      "chineseTranslation": "（在法律中）同时存在的或相容的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "concurrent events",
+      "meaning": "同时发生的事件",
+      "example": "The concurrent events of the festival attracted thousands of visitors.",
+      "exampleTranslation": "节庆活动同时发生的事件吸引了成千上万的游客。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "concurrent processing",
+      "meaning": "同时处理",
+      "example": "Modern computers use concurrent processing to handle multiple tasks efficiently.",
+      "exampleTranslation": "现代计算机使用同时处理来高效管理多个任务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "concurrent jurisdiction",
+      "meaning": "同时管辖权",
+      "example": "The case falls under concurrent jurisdiction of both state and federal courts.",
+      "exampleTranslation": "该案件属于州法院和联邦法院的同时管辖权。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist studied the concurrent effects of climate change and pollution on marine life.",
+      "translation": "科学家研究了气候变化和污染对海洋生物的同时影响。",
+      "source": "Scientific article (e.g., from Nature journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, concurrent threads can lead to race conditions if not managed properly.",
+      "translation": "在软件开发中，如果没有正确管理，同时线程可能会导致竞争条件。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The concurrent celebrations of holidays from different cultures promote diversity in our community.",
+      "translation": "不同文化的节日同时庆祝促进了我们社区的多样性。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her concurrent roles as a mother and a CEO require exceptional time management skills.",
+      "translation": "她作为母亲和首席执行官的同时角色需要出色的时间管理技能。",
+      "source": "Literary work (e.g., from contemporary novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "currere",
+        "meaning": "to run",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'concurrentem'，是 'concurrere' 的现在分词形式，意为'一起跑'。在中世纪拉丁语中，演变为表示同时发生的概念。在英语中，从14世纪开始使用，最初在法律和哲学语境中，逐渐扩展到现代科学和技术领域，如计算机并发处理。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "concur",
+      "concurrence",
+      "currency"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉化场景结合，例如想象多条赛道上的赛跑者代表同时发生的事件，以增强记忆；对于中文母语学习者，建议通过对比母语中的'同时'概念来构建语义网络，避免混淆类似词汇如'simultaneous'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "simultaneous",
+        "similarity": "0.8",
+        "context": "适用于描述事件或过程在时间上重叠的正式语境"
+      },
+      {
+        "word": "coincident",
+        "similarity": "0.7",
+        "context": "常用于科学或事件分析中，表示偶然同时发生"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sequential",
+        "context": "适用于强调事件按顺序发生的语境，如程序设计中"
+      },
+      {
+        "word": "successive",
+        "context": "常用于描述一个接一个的连续事件"
+      }
+    ],
+    "hypernyms": [
+      "simultaneous"
+    ],
+    "hyponyms": [
+      "parallel",
+      "asynchronous"
+    ],
+    "collocations": [
+      {
+        "pattern": "concurrent with",
+        "examples": [
+          "The meeting is concurrent with the conference."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "concurrent activities",
+        "examples": [
+          "Managing concurrent activities in a project can be challenging."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征效率和多任务处理，尤其在科技和商业领域，体现出现代社会对时间管理的重视；在跨文化语境中，中国文化可能更倾向于关联性思维，因此'concurrent'可与中文'并行'概念对比，以促进理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，强调实际应用，例如在软件工程中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向正式或法律语境",
+        "usage": "在英国英语中，常见于学术或历史讨论"
+      }
+    ],
+    "historicalContext": "该词与工业革命和现代科技发展相关联，例如在19世纪的英国文学中，用于描述社会变革的并行事件；在当代全球语境下，与数字化转型相连。",
+    "modernUsage": "在社交媒体和在线平台上，'concurrent' 常用于讨论多媒体事件，如同时直播的活动，反映了全球化下的即时互动趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个赛道上有多个运动员同时起跑的场景，每条赛道代表一个事件或过程。",
+      "keyElements": [
+        "赛道",
+        "运动员",
+        "起跑线"
+      ],
+      "emotionalConnection": "联结个人经验，如回想日常生活中的多任务处理，例如边工作边听音乐，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Con-current sounds like 'con' (together) and 'current' (flowing stream), so picture streams flowing together at the same time.",
+        "explanation": "通过声音和视觉联想加强记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "C for Concurrent, C for Co-occurring events.",
+        "explanation": "使用首字母缩略法与重复强化相结合，提升词汇保留率"
+      }
+    ],
+    "wordAssociations": [
+      "simultaneous",
+      "parallel",
+      "overlapping"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more concurrent",
+      "superlative": "most concurrent"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + concurrent + with",
+        "description": "用于描述两个事物同时发生的结构",
+        "examples": [
+          "The events are concurrent with each other."
+        ]
+      },
+      {
+        "pattern": "Concurrent + noun phrase",
+        "description": "直接修饰名词，表示同时性",
+        "examples": [
+          "Concurrent development processes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'consequent'",
+        "correction": "Use 'concurrent' for simultaneous events",
+        "explanation": "中文学习者常混淆'concurrent'和'consequent'，后者意为'结果的'，建议通过语义对比避免"
+      },
+      {
+        "mistake": "Incorrectly using as a verb",
+        "correction": "Treat as an adjective only",
+        "explanation": "该词为形容词，非动词形式；通过练习句法模式纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "law",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "temporal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

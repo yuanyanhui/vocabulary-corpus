@@ -1,0 +1,263 @@
+{
+  "word": "accuracy",
+  "phonetics": {
+    "british": "/ˈæk.jʊ.rə.si/",
+    "american": "/ˈæk.jɚ.ə.si/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being precise and exact, without errors or mistakes.",
+      "chineseTranslation": "准确性",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The degree to which a measurement, calculation, or representation conforms to the truth or a standard.",
+      "chineseTranslation": "精确度",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "high accuracy",
+      "meaning": "高精确度",
+      "example": "The new GPS system offers high accuracy in navigation.",
+      "exampleTranslation": "新的GPS系统在导航中提供高精确度。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "accuracy rate",
+      "meaning": "准确率",
+      "example": "The accuracy rate of the machine learning model is over 95%.",
+      "exampleTranslation": "机器学习模型的准确率超过95%。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "with great accuracy",
+      "meaning": "以极大的精确性",
+      "example": "Historians reconstruct events with great accuracy based on primary sources.",
+      "exampleTranslation": "历史学家根据原始资料以极大的精确性重建事件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In scientific experiments, accuracy is crucial for reliable results.",
+      "translation": "在科学实验中，准确性对于可靠的结果至关重要。",
+      "source": "Academic text (e.g., from scientific journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The journalist reported the facts with remarkable accuracy.",
+      "translation": "记者以惊人的准确性报道了事实。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Achieving accuracy in language translation requires deep cultural understanding.",
+      "translation": "在语言翻译中实现准确性需要深刻的文化理解。",
+      "source": "Literary work (e.g., discussions in translation studies)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday life, we strive for accuracy when checking the weather forecast.",
+      "translation": "在日常生活中，我们在查看天气预报时力求准确性。",
+      "source": "Colloquial usage (e.g., from conversational corpora like COCA)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "accuratus",
+        "meaning": "Done with care",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "To, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "cura",
+        "meaning": "Care",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'accuratus'，意为小心完成的，起初用于描述仔细的工作或行动。到了中世纪拉丁语中，演变为表示精确性的概念，并通过法语 'accuracie' 传入英语。在英语中，从14世纪开始使用，逐渐扩展到测量、事实陈述等领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "accurate",
+      "accuracy-related terms like precision"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块编码法将 'accuracy' 与日常生活精确度相关的场景关联，例如将它与测量工具的图像结合，以增强记忆痕迹；建议通过重复暴露于真实语境中，如阅读新闻，提升词汇的语义整合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "precision",
+        "similarity": "0.9",
+        "context": "在技术或科学语境中，用于强调测量或计算的精确性"
+      },
+      {
+        "word": "exactness",
+        "similarity": "0.8",
+        "context": "在正式写作中，用于描述细节的正确性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inaccuracy",
+        "context": "在评估错误时使用，例如 'The inaccuracy of the data led to poor decisions.'（数据的不准确导致了糟糕的决定。）"
+      },
+      {
+        "word": "imprecision",
+        "context": "在科学讨论中，用于对比精确度的不足"
+      }
+    ],
+    "hypernyms": [
+      "quality",
+      "attribute"
+    ],
+    "hyponyms": [
+      "measurement accuracy",
+      "factual accuracy"
+    ],
+    "collocations": [
+      {
+        "pattern": "accuracy in [noun]",
+        "examples": [
+          "accuracy in reporting",
+          "accuracy in translation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] accuracy",
+        "examples": [
+          "high accuracy",
+          "low accuracy"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征可靠性和诚信，尤其在科学、教育和媒体领域，体现了追求真理的价值；在中文文化中，类似概念如 '准确性' 强调道德责任和社会和谐。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如数据分析",
+        "usage": "在美国英语中，常与创新和技术相关联，例如在硅谷的商业讨论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在正式和学术语境中更突出",
+        "usage": "在英国英语中，常用于历史和文学分析，以强调事实的精确性"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，强调理性与精确；在文学中，如莎士比亚的作品中，'accuracy' 的概念隐含在对人物描绘的真实性上。",
+    "modernUsage": "在社交媒体和数字时代，'accuracy' 常用于讨论假新闻和事实核查的趋势，例如在Twitter上的病毒性内容中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个精密的 archery（射箭）场景，其中箭矢精准击中靶心，这象征 'accuracy' 的核心含义。",
+      "keyElements": [
+        "靶心",
+        "箭矢",
+        "精确击中"
+      ],
+      "emotionalConnection": "联结个人经验，如回想一次成功的考试，触发成就感和自信"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'accuracy' 联想为 'a key city'，其中 'key' 代表关键的精确性。",
+        "explanation": "通过声音联想增强词汇记忆，利用认知联想原理将抽象概念转化为生动图像"
+      },
+      {
+        "type": "缩略",
+        "content": "A-C-C-U-R-A-C-Y：Always Check Carefully Under Real Analysis, Creating Your success.",
+        "explanation": "使用首字母缩略法结合个人目标，基于认知科学的故事记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "precision",
+      "exactness",
+      "reliability"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "accuracies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与形容词或介词短语搭配，例如 'with accuracy' 表示方式。",
+        "examples": [
+          "She works with great accuracy."
+        ]
+      },
+      {
+        "pattern": "Subject in sentences",
+        "description": "用作主语，强调准确性的重要性。",
+        "examples": [
+          "Accuracy is essential in this job."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'precision'",
+        "correction": "Use 'accuracy' for correctness to truth, and 'precision' for fine detail.",
+        "explanation": "二者虽相关，但 'accuracy' 更侧重于真实性，而非细微度"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'accuracies' for plural forms.",
+        "explanation": "作为可数名词，需要正确添加 -ies 后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "education",
+      "media"
+    ],
+    "tags": [
+      "precision",
+      "quality",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

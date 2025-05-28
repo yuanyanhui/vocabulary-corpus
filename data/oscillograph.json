@@ -1,0 +1,230 @@
+{
+  "word": "oscillograph",
+  "phonetics": {
+    "british": "/ɒˈsɪləɡrɑːf/",
+    "american": "/əˈsɪləɡræf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instrument for recording oscillations or waves, typically used to display electrical signals as waveforms.",
+      "chineseTranslation": "示波器；振荡记录仪",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cathode ray oscillograph",
+      "meaning": "阴极射线示波器",
+      "example": "The cathode ray oscillograph is essential for analyzing high-frequency signals in electronics.",
+      "exampleTranslation": "阴极射线示波器在电子学中用于分析高频信号至关重要。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "digital oscillograph",
+      "meaning": "数字示波器",
+      "example": "Engineers use a digital oscillograph to measure voltage fluctuations.",
+      "exampleTranslation": "工程师使用数字示波器来测量电压波动。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The oscillograph displayed the waveform of the audio signal clearly.",
+      "translation": "示波器清楚地显示了音频信号的波形。",
+      "source": "Technical manual (e.g., from IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the physics lab, students learned how to operate an oscillograph for experiments on sound waves.",
+      "translation": "在物理实验室，学生们学习如何操作示波器来进行声波实验。",
+      "source": "Educational textbook (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern oscillographs have integrated software for data analysis in research settings.",
+      "translation": "现代示波器拥有集成软件，用于研究环境中的数据分析。",
+      "source": "Scientific article (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "oscillare",
+        "meaning": "to swing or oscillate",
+        "language": "Latin"
+      },
+      {
+        "root": "graph",
+        "meaning": "to write or record",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪末的科学术语演变，起初用于描述机械装置记录振荡现象，逐渐扩展到电子设备领域，随着电子学的发展，从模拟到数字形式演化。",
+    "firstKnownUse": "1890s",
+    "relatedWords": [
+      "oscilloscope",
+      "oscillation",
+      "graphite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法，将词汇分解为 'oscill-' (表示振荡) 和 '-graph' (表示记录)，结合视觉图像如波形图来强化认知连接；根据认知科学，重复在实际实验语境中应用以提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "oscilloscope",
+        "similarity": "0.9",
+        "context": "适用于电子工程和科学实验语境中，强调实时波形显示"
+      },
+      {
+        "word": "waveform recorder",
+        "similarity": "0.8",
+        "context": "在数据记录和分析的正式技术环境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "spectrometer",
+        "context": "适用于光谱分析而非波形记录的科学语境"
+      }
+    ],
+    "hypernyms": [
+      "instrument"
+    ],
+    "hyponyms": [
+      "digital oscillograph",
+      "analog oscillograph"
+    ],
+    "collocations": [
+      {
+        "pattern": "use an oscillograph to",
+        "examples": [
+          "use an oscillograph to measure signals"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "oscillograph for",
+        "examples": [
+          "oscillograph for waveform analysis"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术创新和精确测量，常隐含对工业革命和电子时代进步的认可；在跨文化语境中，中国学习者可能将其与本土技术词汇如'示波器'关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly replaced by 'oscilloscope' in everyday technical discourse",
+        "usage": "在美国英语中，偏好在工程教育和行业标准中使用，以强调数字技术"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Retains 'oscillograph' in historical or formal scientific texts",
+        "usage": "在英国英语中，常用于学术出版物，以维护传统术语"
+      }
+    ],
+    "historicalContext": "与19世纪末的电学和物理学发展相关，如爱迪生和泰斯拉的时代；在文学和社会中，象征现代化和科学探索。",
+    "modernUsage": "在社交媒体和在线教育平台上，趋势转向简化的数字工具讨论，如YouTube教程中用于DIY电子项目。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家在实验室中使用设备观察波形跳动，如同心电图的线条在屏幕上摆动。",
+      "keyElements": [
+        "波形线条",
+        "实验室设备",
+        "振荡画面"
+      ],
+      "emotionalConnection": "联结个人经验，如观看科幻电影中的高科技场景，以激发好奇心和兴趣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Oscillograph sounds like 'oscillating graph' – picture a graph that swings back and forth.",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "O-S-C-I-L-L-O-G-R-A-P-H: 'O' for oscillate, 'Graph' for picture.",
+        "explanation": "使用首字母缩写结合关键词，帮助构建结构化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "oscillate",
+      "graph",
+      "waveform"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "oscillographs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + oscillograph",
+        "description": "名词作为主语或宾语的典型结构，常用于描述工具使用",
+        "examples": [
+          "The oscillograph measures the signal."
+        ]
+      },
+      {
+        "pattern": "Oscillograph + for + purpose",
+        "description": "表示目的的从属结构",
+        "examples": [
+          "Oscillograph for testing electronics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'oscilloscope'",
+        "correction": "Use 'oscillograph' for historical or specific analog contexts",
+        "explanation": "两者相似，但oscillograph更侧重于记录机制；中级学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "oscillographs",
+        "explanation": "简单添加-s，但需记忆其作为计数名词的用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "instrumentation",
+      "electronics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

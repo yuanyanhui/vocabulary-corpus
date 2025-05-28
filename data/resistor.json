@@ -1,0 +1,233 @@
+{
+  "word": "resistor",
+  "phonetics": {
+    "british": "/rɪˈzɪstə(r)/",
+    "american": "/rɪˈzɪstər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A passive electrical component that provides resistance to the flow of electric current, used to control current in a circuit.",
+      "chineseTranslation": "电阻器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "variable resistor",
+      "meaning": "可变电阻器",
+      "example": "The variable resistor in the amplifier allows for fine-tuning of the sound output.",
+      "exampleTranslation": "放大器中的可变电阻器允许对声音输出进行微调。",
+      "frequency": "high in electronics contexts"
+    },
+    {
+      "phrase": "fixed resistor",
+      "meaning": "固定电阻器",
+      "example": "Engineers often use a fixed resistor to maintain a stable voltage in the circuit.",
+      "exampleTranslation": "工程师经常使用固定电阻器来维持电路中的稳定电压。",
+      "frequency": "medium in technical discussions"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a simple LED circuit, the resistor prevents the bulb from burning out by limiting the current.",
+      "translation": "在一个简单的LED电路中，电阻器通过限制电流来防止灯泡烧坏。",
+      "source": "Electronics textbook (e.g., from educational resources like Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The technician replaced the faulty resistor to restore the device's functionality.",
+      "translation": "技术员更换了 faulty 的电阻器，以恢复设备的功能。",
+      "source": "News article on technology repairs",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern smartphones contain thousands of tiny resistors that help manage power efficiency.",
+      "translation": "现代智能手机包含数千个微小的电阻器，用于帮助管理电源效率。",
+      "source": "Scientific publication (e.g., IEEE journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "resist",
+        "meaning": "to oppose or withstand",
+        "language": "Latin (from resistere, meaning 'to stand back')"
+      },
+      {
+        "root": "-or",
+        "meaning": "a suffix denoting an agent or device",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 resistere（意为'抵抗'），通过英语动词 resist 演变而来，并添加后缀 -or 以形成名词，表示执行特定功能的设备或物体。该词在19世纪随着电学的发展而流行，用于描述电路中的元件。",
+    "firstKnownUse": "19th century (specifically around 1860, as documented in early electrical engineering texts)",
+    "relatedWords": [
+      "resistance",
+      "resister",
+      "resistor network"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 5,
+    "meaningComplexity": 6,
+    "usageComplexity": 7,
+    "learningTips": [
+      "将词汇与电子设备实际场景结合，利用视觉化记忆法来加深印象；例如，通过绘制电路图来关联词汇与实际应用，以提升认知加工效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ohmage",
+        "similarity": 0.8,
+        "context": "在电子学语境中，用于描述电阻值"
+      },
+      {
+        "word": "load resistor",
+        "similarity": 0.7,
+        "context": "在电路设计中，强调负载作用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conductor",
+        "context": "在电子学中，表示促进电流流动的相反概念"
+      }
+    ],
+    "hypernyms": [
+      "electrical component"
+    ],
+    "hyponyms": [
+      "carbon resistor",
+      "wirewound resistor"
+    ],
+    "collocations": [
+      {
+        "pattern": "resistor in a circuit",
+        "examples": [
+          "The resistor in a circuit regulates voltage."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "high-value resistor",
+        "examples": [
+          "Use a high-value resistor for better protection."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征电子工程的基础元素，体现了对创新和效率的追求，尤其在工业革命后的西方文化中。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中，常用于工程和消费电子产品描述，无显著语义差异",
+        "usage": "在技术手册和教育中广泛使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中发音略有差异，但词汇使用一致，常见于学术和工业语境",
+        "usage": "在历史悠久的工程教育中，如英国的STEM课程"
+      }
+    ],
+    "historicalContext": "与19世纪电学革命相关，源自迈克尔·法拉第和詹姆斯·麦克斯韦等科学家的贡献，在工业化时代成为关键术语。",
+    "modernUsage": "在社交媒体和在线论坛中（如Reddit的电子学社区），用于讨论DIY项目和可持续技术，反映了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电路板上的小元件像门卫一样阻挡电流流动。",
+      "keyElements": [
+        "电路板",
+        "电流",
+        "阻挡"
+      ],
+      "emotionalConnection": "联结到个人使用电子设备的经历，如修理手机，以触发积极学习情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Resistor 听起来像 'resist or'，意为'抵抗或'，帮助记住它是一个抵抗电流的装置。",
+        "explanation": "通过声音联想和概念映射，增强词汇在认知网络中的位置，提高长期记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "R for Resistor and Resistance – both start with R and relate to blocking flow.",
+        "explanation": "利用首字母缩略法结合语义关联，符合认知科学中的分块编码原理。"
+      }
+    ],
+    "wordAssociations": [
+      "resistance",
+      "circuit",
+      "electronics",
+      "voltage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "resistors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "As a subject or object in a sentence",
+        "description": "作为句子主语或宾语，常用于描述电路功能",
+        "examples": [
+          "The resistor controls the current flow."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，表示位置或作用",
+        "examples": [
+          "Install the resistor in the main circuit."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'resistor' with 'resister' (e.g., a person who resists)",
+        "correction": "Use 'resistor' for the electronic component",
+        "explanation": "虽然发音相似，但前者是技术术语，后者指反抗者；需注意语境区分以避免语义混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'resistors' for plural",
+        "explanation": "英语名词规则简单，但初学者可能遗忘添加-s。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank 15,000 in COCA), but high in technical domains (e.g., frequent in IEEE corpora)",
+    "domains": [
+      "Electronics",
+      "Engineering",
+      "Physics",
+      "Technology"
+    ],
+    "tags": [
+      "Technical",
+      "Science",
+      "Engineering terminology"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "word": "ascii",
+  "phonetics": {
+    "british": "/ˈæski/",
+    "american": "/ˈæski/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A character encoding standard consisting of 128 characters for electronic communication, representing letters, digits, punctuation, and control characters.",
+      "chineseTranslation": "美国信息交换标准代码",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "acronym",
+      "definition": "An abbreviation for American Standard Code for Information Interchange, used in computing to encode text.",
+      "chineseTranslation": "美国标准代码信息交换",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ASCII art",
+      "meaning": "使用 ASCII 字符创建的艺术图形或图像",
+      "example": "She designed an ASCII art of a landscape using only keyboard characters.",
+      "exampleTranslation": "她用键盘字符设计了一个景观的 ASCII 艺术。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ASCII code",
+      "meaning": "ASCII 编码的具体数值表示",
+      "example": "The ASCII code for the letter 'A' is 65 in decimal.",
+      "exampleTranslation": "字母 'A' 的 ASCII 代码在十进制中是 65。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Programmers often use ASCII to ensure compatibility between different systems.",
+      "translation": "程序员经常使用 ASCII 来确保不同系统之间的兼容性。",
+      "source": "Technical documentation (e.g., from software engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the early days of computing, ASCII was the dominant encoding standard.",
+      "translation": "在计算机早期，ASCII 是主导的编码标准。",
+      "source": "Historical texts (e.g., from computing history books)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Modern applications have largely replaced ASCII with Unicode for broader character support.",
+      "translation": "现代应用已 largely 用 Unicode 取代 ASCII，以支持更广泛的字符。",
+      "source": "News articles on technology (e.g., from tech magazines)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (as an acronym)",
+    "rootWords": [
+      {
+        "root": "American Standard Code for Information Interchange",
+        "meaning": "美国标准代码信息交换",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "起源于20世纪60年代的电报编码系统，最初由美国国家标准协会开发，用于标准化计算机字符表示，从简单的电传代码演变为现代计算机编码标准。",
+    "firstKnownUse": "1963",
+    "relatedWords": [
+      "Unicode",
+      "EBCDIC",
+      "ISO-8859"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "4",
+    "learningTips": [
+      "将 ASCII 与计算机编码的视觉图表联系起来，利用重复暴露和间隔重复法来加强记忆；结合个人编程经验创建情感联结，以提升认知保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "character set",
+        "similarity": "0.7",
+        "context": "在讨论编码标准和技术规范时"
+      },
+      {
+        "word": "encoding scheme",
+        "similarity": "0.8",
+        "context": "在计算机科学语境中描述数据表示"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "binary code",
+        "context": "在对比字符编码与纯数字编码时"
+      },
+      {
+        "word": "Unicode",
+        "context": "当强调扩展字符集的场合"
+      }
+    ],
+    "hypernyms": [
+      "encoding standard"
+    ],
+    "hyponyms": [
+      "Extended ASCII",
+      "7-bit ASCII"
+    ],
+    "collocations": [
+      {
+        "pattern": "ASCII encoding",
+        "examples": [
+          "Use ASCII encoding for plain text files."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "ASCII character",
+        "examples": [
+          "The ASCII character set includes 95 printable characters."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征着计算机革命的早期标准化，代表了数字化通信在西方文化中的里程碑，隐含着技术进步与全球互联的主题。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "最初在美国开发，常用于英语主导的技术领域",
+        "usage": "在美国技术文献中更常见，而在非英语地区可能被视为历史遗留"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能与欧洲编码标准（如 ISO）结合",
+        "usage": "在英国教育中作为历史教学工具"
+      }
+    ],
+    "historicalContext": "与20世纪中叶的电信革命和计算机发展相关，常出现在文学作品中描述科技演进，如艾萨克·阿西莫夫的科幻小说。",
+    "modernUsage": "在社交媒体和编程社区中，ASCII 常用于简易图形表达，但正被 Unicode 取代以适应全球化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个老式电脑键盘，屏幕上显示字母和数字的编码序列。",
+      "keyElements": [
+        "键盘",
+        "屏幕编码",
+        "数字序列"
+      ],
+      "emotionalConnection": "联结初次接触计算机编程的兴奋感和好奇心"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "缩略词联想",
+        "content": "A for American, S for Standard, C for Code, I for Interchange",
+        "explanation": "通过分解每个字母的含义来构建记忆路径，增强词汇的认知结构。"
+      },
+      {
+        "type": "视觉联想",
+        "content": "将 ASCII 视为一个'钥匙'打开计算机世界的门",
+        "explanation": "利用比喻法连接抽象概念与日常物体，促进长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "computer",
+      "encoding",
+      "standard"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "as a noun in technical sentences",
+        "description": "用作技术术语，通常在主语或宾语位置",
+        "examples": [
+          "ASCII is essential for data transmission."
+        ]
+      },
+      {
+        "pattern": "in phrases with modifiers",
+        "description": "与形容词或限定词搭配使用",
+        "examples": [
+          "The extended ASCII includes additional characters."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing ASCII with Unicode",
+        "correction": "Distinguish by character range: ASCII has 128, Unicode has thousands",
+        "explanation": "学习者常混淆二者，因为两者都涉及编码，但ASCII更基础。"
+      },
+      {
+        "mistake": "Mispronouncing as separate letters",
+        "correction": "Pronounce as a single word /ˈæski/",
+        "explanation": "作为缩略词，应整体发音而非字母式朗读。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10% in COCA for technical domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Information Science"
+    ],
+    "tags": [
+      "acronym",
+      "encoding",
+      "standard",
+      "digital"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Wikipedia"
+    ]
+  }
+}

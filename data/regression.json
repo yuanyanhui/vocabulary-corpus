@@ -1,0 +1,259 @@
+{
+  "word": "regression",
+  "phonetics": {
+    "british": "/rɪˈɡrɛʃən/",
+    "american": "/rɪˈɡrɛʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics, the process of fitting a curve or line to a set of data points to describe the relationship between variables.",
+      "chineseTranslation": "在统计学中，指拟合曲线或直线以描述变量之间关系的进程。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In psychology, a defense mechanism involving a return to an earlier stage of development, often as a response to stress.",
+      "chineseTranslation": "在心理学中，指作为应激反应的防御机制，返回到早期发展阶段。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of going back to a previous state or condition.",
+      "chineseTranslation": "返回到先前状态或条件的行动。",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "linear regression",
+      "meaning": "线性回归",
+      "example": "Linear regression is commonly used in predictive modeling to forecast future trends.",
+      "exampleTranslation": "线性回归常用于预测建模，以预测未来的趋势。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "multiple regression",
+      "meaning": "多元回归",
+      "example": "Multiple regression analysis helps identify the impact of several independent variables on a dependent one.",
+      "exampleTranslation": "多元回归分析有助于识别多个自变量对一个因变量的影响。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "regression analysis",
+      "meaning": "回归分析",
+      "example": "Regression analysis is a key tool in data science for understanding relationships in datasets.",
+      "exampleTranslation": "回归分析是数据科学中理解数据集关系的 ключ工具。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study used regression to predict sales based on advertising spend.",
+      "translation": "该研究使用回归来根据广告支出预测销售额。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In therapy, the patient exhibited regression to childhood behaviors under stress.",
+      "translation": "在治疗中，该患者在压力下表现出回归到童年行为的现象。",
+      "source": "Psychological literature (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Economic regression often follows periods of rapid growth.",
+      "translation": "经济回归通常发生在快速增长时期之后。",
+      "source": "News article (e.g., from news corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "regress",
+        "meaning": "to go back",
+        "language": "Latin"
+      },
+      {
+        "root": "gressus",
+        "meaning": "step or movement",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'regressio'（返回）演变而来，经由中世纪拉丁语进入英语，最初用于描述物理或抽象的返回过程；17世纪开始在统计学和心理学中获得现代技术含义。",
+    "firstKnownUse": "1615",
+    "relatedWords": [
+      "regress",
+      "progression",
+      "digression"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图表（如回归线图）关联，以增强空间记忆；使用间隔重复系统复习多义词，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "retreat",
+        "similarity": "0.7",
+        "context": "在心理学语境中，表示返回早期状态"
+      },
+      {
+        "word": "reversion",
+        "similarity": "0.8",
+        "context": "在一般语境中，表示返回原状"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "progression",
+        "context": "在统计或发展语境中，表示前进或进展"
+      },
+      {
+        "word": "advancement",
+        "context": "在社会或技术语境中，表示改进或提升"
+      }
+    ],
+    "hypernyms": [
+      "analysis",
+      "process"
+    ],
+    "hyponyms": [
+      "linear regression",
+      "logistic regression"
+    ],
+    "collocations": [
+      {
+        "pattern": "regression + noun (e.g., regression model)",
+        "examples": [
+          "a simple regression model"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + regression (e.g., perform regression)",
+        "examples": [
+          "to conduct regression analysis"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征数据驱动决策和心理行为分析，常隐含对进步与退步的辩证思考。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如数据科学",
+        "usage": "在美国英语中，强调在商业和AI中的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术语境中更正式",
+        "usage": "英国英语中，常与历史科学方法关联"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的科学发展有关，体现了从牛顿时代到现代统计学的演变。",
+    "modernUsage": "在社交媒体和在线教育中，回归常用于讨论AI算法和心理健康趋势，如TikTok上的心理教育视频。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数据点沿曲线返回原点的场景。",
+      "keyElements": [
+        "曲线",
+        "数据点",
+        "返回箭头"
+      ],
+      "emotionalConnection": "联结个人经历，如面对压力时退缩的感觉，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'regression' as 're-gress' – going back, like rewinding a video.",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学的空间认知原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "R for Return in Regression.",
+        "explanation": "使用首字母缩略法结合重复练习，以提升长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "retreat",
+      "revert",
+      "regress back"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "regressions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + regression",
+        "description": "主语+动词+regression结构，常用于描述过程。",
+        "examples": [
+          "The analysis involves regression."
+        ]
+      },
+      {
+        "pattern": "Regression of + noun",
+        "description": "Regression of + 名词结构，表示回归分析的对象。",
+        "examples": [
+          "Regression of data points."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing regression with progression",
+        "correction": "Use regression for going back and progression for moving forward.",
+        "explanation": "错误源于语义相似性；建议通过对比学习区分。"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Ensure context-specific usage.",
+        "explanation": "初级学习者常将技术术语泛化；通过语境练习避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "Science",
+      "Statistics",
+      "Psychology",
+      "Business"
+    ],
+    "tags": [
+      "Technical",
+      "Analytical",
+      "Behavioral"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

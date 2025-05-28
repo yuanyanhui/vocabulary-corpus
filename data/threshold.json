@@ -1,0 +1,256 @@
+{
+  "word": "threshold",
+  "phonetics": {
+    "british": "/ˈθrɛʃəʊld/",
+    "american": "/ˈθrɛʃoʊld/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A strip of wood or stone forming the bottom of a doorway and crossed when entering a house or room.",
+      "chineseTranslation": "门坎或门槛",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point or level at which something begins or changes, often used in a figurative sense such as in science, psychology, or everyday contexts.",
+      "chineseTranslation": "阈值、临界点",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To set or establish a threshold or limit for something.",
+      "chineseTranslation": "设定阈值",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on the threshold of",
+      "meaning": "处于...的边缘或起点",
+      "example": "She is on the threshold of a new career in medicine.",
+      "exampleTranslation": "她处于医学新职业的门槛上。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pain threshold",
+      "meaning": "耐痛的临界点",
+      "example": "Athletes often have a high pain threshold.",
+      "exampleTranslation": "运动员通常有很高的耐痛阈值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "threshold limit",
+      "meaning": "阈值限制",
+      "example": "The threshold limit for income tax has been raised.",
+      "exampleTranslation": "所得税的阈值限制已提高。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The threshold of the ancient temple was carved with intricate designs.",
+      "translation": "这座古老寺庙的门槛上雕刻着精美的图案。",
+      "source": "Historical literature, such as descriptions in travelogues",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Scientists are studying the threshold at which climate change becomes irreversible.",
+      "translation": "科学家们正在研究气候变化变得不可逆转的阈值。",
+      "source": "Modern scientific articles, e.g., from Nature journal",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a child, crossing the threshold of the old house always felt like an adventure.",
+      "translation": "作为一个孩子，跨过那座老房子的门槛总是感觉像一场冒险。",
+      "source": "Contemporary fiction, e.g., novels by British authors",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "þrescold",
+        "meaning": "A piece of wood across a doorway",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "起源于古英语的 'þrescold'，最初指门道底部的木条或石头，象征进入新空间的界限。随着时间的推移，该词扩展到比喻意义，如心理或科学中的临界点，例如在14世纪开始用于抽象概念，在工业革命期间进一步普及到技术语境。",
+    "firstKnownUse": "约10世纪",
+    "relatedWords": [
+      "doorstep",
+      "lintel",
+      "gateway"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将 'threshold' 与日常生活中的门坎场景关联，以增强记忆；对于中文母语学习者，建议练习 /θ/ 音的口型，通过重复性练习减少语音干扰；结合斯宾塞的间隔重复理论，每日复习以巩固语义多层性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "limit",
+        "similarity": "0.8",
+        "context": "在科学或商业语境中，用于表示边界，例如预算限制"
+      },
+      {
+        "word": "boundary",
+        "similarity": "0.7",
+        "context": "在地理或心理语境中，用于表示界线"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ceiling",
+        "context": "在商业语境中，表示上限而非下限"
+      },
+      {
+        "word": "peak",
+        "context": "在科学语境中，表示最高点而非起点"
+      }
+    ],
+    "hypernyms": [
+      "boundary",
+      "limit"
+    ],
+    "hyponyms": [
+      "pain threshold",
+      "detection threshold"
+    ],
+    "collocations": [
+      {
+        "pattern": "threshold + of + noun",
+        "examples": [
+          "threshold of success",
+          "threshold of pain"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + threshold",
+        "examples": [
+          "cross the threshold",
+          "reach the threshold"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征新开始或转变，例如在文学中跨过门槛代表人生转折；在中文文化中，可与 '门槛' 类似，隐含社会阶层或机会的障碍。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史或文学语境",
+        "usage": "在英国英语中，强调建筑原意，如在乡村描述中"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术或现代用法",
+        "usage": "在美国英语中，常见于科学或商业讨论，如经济阈值"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲建筑和仪式相关，文学作品如莎士比亚的戏剧中出现，象征社会变迁；在当代，关联到全球化语境下机会的不平等。",
+    "modernUsage": "在社交媒体和科技语境下流行，例如讨论心理健康阈值或数字经济门槛"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古老的木门，门槛上刻有图案，代表从一个房间进入另一个房间的时刻。",
+      "keyElements": [
+        "木门",
+        "图案",
+        "跨过动作"
+      ],
+      "emotionalConnection": "联结到个人经历，如搬家时的兴奋感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'threshold' as 'three hold' – holding back three things until you cross.",
+        "explanation": "通过视觉联想将词与数字三联系，减少发音混淆，利用认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 /θ/ 音联想成风吹过门缝的声音。",
+        "explanation": "使用声音联觉帮助母语为中文的学习者记忆发音差异"
+      }
+    ],
+    "wordAssociations": [
+      "doorway",
+      "limit",
+      "boundary"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "thresholds",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "该结构常用于描述具体或抽象边界，例如 'the threshold of something'",
+        "examples": [
+          "The threshold of the room was worn from years of use."
+        ]
+      },
+      {
+        "pattern": "Verb + threshold",
+        "description": "用于动作语境，表示达到或跨越",
+        "examples": [
+          "They crossed the threshold into the unknown."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'thresh hold' as two words",
+        "correction": "Use as one word: 'threshold'",
+        "explanation": "这是拼写错误，常因词源误解而发生"
+      },
+      {
+        "mistake": "Misusing in non-literal contexts",
+        "correction": "Ensure context-specific usage, e.g., not using for 'ceiling'",
+        "explanation": "中文学习者可能混淆上位词，导致语义偏差"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "literature",
+      "business"
+    ],
+    "tags": [
+      "abstract concepts",
+      "physical structures",
+      "limits"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

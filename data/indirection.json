@@ -1,0 +1,244 @@
+{
+  "word": "indirection",
+  "phonetics": {
+    "british": "/ˌɪndɪˈrɛkʃən/",
+    "american": "/ˌɪndəˈrɛkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being indirect; a method or action that avoids directness, often used in communication, programming, or problem-solving.",
+      "chineseTranslation": "间接性；迂回方法",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the process of accessing a value through a pointer or reference rather than directly.",
+      "chineseTranslation": "（计算机术语）间接寻址",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "use indirection",
+      "meaning": "使用间接方法",
+      "example": "In diplomacy, it's common to use indirection to avoid confrontation.",
+      "exampleTranslation": "在外交中，通常使用间接方法来避免对抗。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pointer indirection",
+      "meaning": "指针间接寻址",
+      "example": "Pointer indirection allows for more flexible data management in C++ programming.",
+      "exampleTranslation": "指针间接寻址允许在 C++ 编程中更灵活地管理数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The author's use of indirection in the novel creates suspense and engages the reader.",
+      "translation": "作者在小说中使用间接性制造悬念并吸引读者。",
+      "source": "Literature (e.g., modern fiction analysis from sources like The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software engineering, indirection can simplify code by decoupling dependencies.",
+      "translation": "在软件工程中，间接方法可以通过解耦依赖关系来简化代码。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Her indirection in answering questions made the interviewer suspect she was hiding something.",
+      "translation": "她在回答问题时的间接性让采访者怀疑她在隐瞒什么。",
+      "source": "News articles (e.g., BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "indirect",
+        "meaning": "Not direct",
+        "language": "Latin"
+      },
+      {
+        "root": "-ion",
+        "meaning": "State or process",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from the Latin 'indirectus', meaning 'not straight' (from 'in-' meaning 'not' and 'directus' meaning 'straightened'). It evolved in Middle English through Old French as a noun suffix '-ion' to denote a state or action, first appearing in English contexts around the 15th century to describe non-straight paths or methods, and later adapted in the 20th century for technical fields like computing.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "indirect",
+      "direction",
+      "redirection"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'indirection' 与 'direct' 的对比记忆；通过视觉映射创建心智图，将词汇与实际场景（如地图上的迂回路径）关联，以增强长时记忆；对于中文母语学习者，强调 'in-' 前缀的否定含义，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "circumlocution",
+        "similarity": "0.8",
+        "context": "适用于正式语境中描述绕圈子的表达方式"
+      },
+      {
+        "word": "evasion",
+        "similarity": "0.7",
+        "context": "常用于社交或法律语境中回避直接回答"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "directness",
+        "context": "适用于强调直截了当的沟通场景"
+      },
+      {
+        "word": "straightforwardness",
+        "context": "常在商业或日常对话中对比间接方法"
+      }
+    ],
+    "hypernyms": [
+      "abstraction",
+      "method"
+    ],
+    "hyponyms": [
+      "pointer indirection",
+      "linguistic indirection"
+    ],
+    "collocations": [
+      {
+        "pattern": "use [verb] indirection",
+        "examples": [
+          "employ indirection",
+          "avoid indirection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "indirection in [noun]",
+        "examples": [
+          "indirection in communication"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'indirection' 常象征礼貌或策略性沟通，避免直接对抗，如在英国文化中的间接表达方式，以维护社会和谐；它也可能隐含负面含义，如在美式文化中被视为不诚实。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More emphasis on polite indirection in everyday speech",
+        "usage": "英国英语中，常用于社交场合以保持礼貌，例如在对话中迂回表达意见"
+      },
+      {
+        "region": "United States",
+        "variation": "Often viewed as evasive in professional settings",
+        "usage": "美国英语中，在商业谈判中可能被视为策略，但需谨慎以避免误解"
+      }
+    ],
+    "historicalContext": "与维多利亚时代英国文学（如 Jane Austen 的作品）相关，常描绘社会阶层的间接互动；在现代，关联于后现代主义哲学，强调语言的间接性作为认知工具。",
+    "modernUsage": "在社交媒体上，'indirection' 趋势于表达微妙的讽刺或政治评论，如 Twitter 上的间接暗示"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条弯曲的道路绕过直线路径，代表间接方法",
+      "keyElements": [
+        "弯曲道路",
+        "障碍物",
+        "目的地"
+      ],
+      "emotionalConnection": "联结个人经历，如在谈判中绕圈子避免冲突，以触发积极情绪回忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'in-' as 'not' and 'direction' as a straight line, so indirection is a twisted path.",
+        "explanation": "通过视觉联想强化词汇记忆，利用认知科学中的双编码理论（dual coding），将图像与词汇结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce as 'in-direct-shun' and associate the 'shun' sound with 'shunning' directness.",
+        "explanation": "使用声音联想增强听觉记忆，基于记忆科学的多模态学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "indirect",
+      "evade",
+      "circuitous"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "indirections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，通常与其他词语搭配形成短语",
+        "examples": [
+          "The use of indirection in this context"
+        ]
+      },
+      {
+        "pattern": "In sentences as subject or object",
+        "description": "可作为句子的主语或宾语",
+        "examples": [
+          "Indirection can lead to misunderstandings."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'direction'",
+        "correction": "Use 'indirection' for indirect methods",
+        "explanation": "学习者常混淆前缀 'in-' 的含义，导致语义错误"
+      },
+      {
+        "mistake": "Overusing in informal speech",
+        "correction": "Reserve for formal or technical contexts",
+        "explanation": "中级学习者可能在非正式场合误用，造成不自然表达"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Literature",
+      "Business"
+    ],
+    "tags": [
+      "Abstract concepts",
+      "Communication strategies",
+      "Programming terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

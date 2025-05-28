@@ -1,0 +1,241 @@
+{
+  "word": "parse",
+  "phonetics": {
+    "british": "/pɑːs/",
+    "american": "/pɑrs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To analyze a string of symbols, either in natural language processing or programming, by breaking it down into its component parts and describing the function of each in relation to the whole, according to a formal grammar.",
+      "chineseTranslation": "解析；分析语法结构",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or result of analyzing a string of symbols in order to recognize its grammatical structure.",
+      "chineseTranslation": "解析过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "parse a sentence",
+      "meaning": "解析一个句子",
+      "example": "In linguistics class, we learned how to parse a sentence to understand its syntax.",
+      "exampleTranslation": "在语言学课上，我们学习了如何解析一个句子来理解其句法。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "syntax parse",
+      "meaning": "句法解析",
+      "example": "The computer program performs a syntax parse on the code to check for errors.",
+      "exampleTranslation": "计算机程序对代码进行句法解析以检查错误。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The linguist used software to parse the complex sentence into its basic components.",
+      "translation": "语言学家使用软件将复杂句子解析成其基本组成部分。",
+      "source": "Academic text (e.g., from a linguistics journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often parse data strings to extract meaningful information.",
+      "translation": "程序员经常解析数据字符串以提取有意义的信息。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During the exam, students were required to parse a paragraph and identify its grammatical errors.",
+      "translation": "考试中，学生需要解析一段段落并识别其语法错误。",
+      "source": "Educational context (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "pars",
+        "meaning": "part",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'pars'，意为 '部分'，通过古法语演变为英语术语，首先用于语法分析中，指分解句子结构。随着计算机科学的发展，该词扩展到数据处理领域，从16世纪的语法学逐步演变为现代技术术语。",
+    "firstKnownUse": "circa 1555",
+    "relatedWords": [
+      "analysis",
+      "syntax",
+      "deconstruct"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'parse' 与熟悉的句子结构关联，例如先回忆简单句子再扩展到复杂语境；",
+      "使用视觉映射创建心智图，将词根 'pars' 联想成 '部分拼图'，以增强记忆持久性；",
+      "通过重复暴露于真实语料中（如阅读编程代码），应用间隔重复法（spaced repetition）来降低语义复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "analyze",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述结构分解，例如在语言学或计算机科学中"
+      },
+      {
+        "word": "break down",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于简化解释，但不如 'parse' 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "synthesize",
+        "context": "在技术语境中，表示从部分构建整体，与解析相反"
+      },
+      {
+        "word": "assemble",
+        "context": "在日常语境中，表示组合而非分解"
+      }
+    ],
+    "hypernyms": [
+      "analyze",
+      "process"
+    ],
+    "hyponyms": [
+      "syntax parsing",
+      "semantic parsing"
+    ],
+    "collocations": [
+      {
+        "pattern": "parse + object (e.g., sentence, data)",
+        "examples": [
+          "parse a string",
+          "parse XML data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + parse (e.g., to parse)",
+        "examples": [
+          "attempt to parse"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征着分析和理性思维，尤其在教育和科技领域，隐含语义强调精确性和逻辑结构，常与西方科学传统相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学语境，如编程语言",
+        "usage": "在美国英语中，'parse' 在技术行业流行，可能因硅谷文化影响而更频繁"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于传统语法分析",
+        "usage": "在英国英语中，常见于学术和教育语境，受历史语言学影响"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的语法研究相关联，如莎士比亚时代用于文学分析；在现代，与工业革命和数字时代的数据处理文化相连。",
+    "modernUsage": "在社交媒体和在线论坛中，'parse' 常用于讨论AI和编程，常出现在Twitter或Reddit的科技讨论中，反映数字时代的快速传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拼图游戏，其中 'parse' 代表将大图分解成小部分，以便重新组装。",
+      "keyElements": [
+        "拼图",
+        "分解",
+        "结构"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时玩拼图的乐趣，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'parse' 联想成 'part-seize'，意思是抓住部分。",
+        "explanation": "通过声音联想和视觉图像，帮助学习者快速回忆词义，基于认知联想理论"
+      },
+      {
+        "type": "缩略",
+        "content": "P-A-R-S-E: Part-Analyze-Recognize-Structure-Extract",
+        "explanation": "使用首字母缩略法创建序列，结合工作记忆模型以提升保留率"
+      }
+    ],
+    "wordAssociations": [
+      "analyze",
+      "decode",
+      "structure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "parsed",
+      "pastParticiple": "parsed",
+      "presentParticiple": "parsing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We parse the data."
+        ]
+      },
+      {
+        "pattern": "Verb + prepositional phrase",
+        "description": "动词 + 介词短语结构，用于添加语境",
+        "examples": [
+          "The system parses through the files."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'parse' with 'peruse'",
+        "correction": "Use 'parse' for structural analysis and 'peruse' for reading carefully.",
+        "explanation": "错误源于相似发音；通过语境区分可避免混淆"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'pars' instead of 'parsed'",
+        "correction": "Use 'parsed' for past tense.",
+        "explanation": "作为规则动词，学习者需注意常规变化以符合英语时态系统"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus (medium frequency)",
+    "domains": [
+      "technology",
+      "education",
+      "linguistics"
+    ],
+    "tags": [
+      "computing",
+      "grammar",
+      "analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "word": "cofactor",
+  "phonetics": {
+    "british": "/ˈkəʊfæktə/",
+    "american": "/ˈkoʊfæktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A non-protein chemical compound or metallic ion that is required for a protein's biological activity to take place, especially in enzymatic reactions.",
+      "chineseTranslation": "助因子（一种非蛋白质化合物或金属离子，用于酶促反应中激活酶）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linear algebra, the value obtained by deleting a row and column from a matrix and calculating the determinant of the remaining matrix.",
+      "chineseTranslation": "余因子（在矩阵中，通过删除特定行和列后计算剩余矩阵的行列式值）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cofactor in a reaction",
+      "meaning": "反应中的助因子",
+      "example": "The vitamin acts as a cofactor in a reaction that converts food into energy.",
+      "exampleTranslation": "这种维生素作为反应中的助因子，将食物转化为能量。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "minor cofactor",
+      "meaning": "次要余因子",
+      "example": "In matrix calculations, the minor cofactor is used to simplify determinants.",
+      "exampleTranslation": "在矩阵计算中，次要余因子用于简化行列式。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Zinc serves as a cofactor for many enzymes involved in metabolic processes.",
+      "translation": "锌作为许多代谢过程相关酶的助因子。",
+      "source": "Scientific literature (e.g., biochemistry textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The cofactor of the element in the second row and third column is calculated by removing that row and column.",
+      "translation": "第二行第三列元素的余因子通过删除该行和列来计算。",
+      "source": "Mathematics education resources (e.g., Khan Academy)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Without the necessary cofactor, the enzyme's efficiency drops significantly in cellular respiration.",
+      "translation": "没有必要的助因子，酶在细胞呼吸中的效率会大大降低。",
+      "source": "Biology research articles (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek influences",
+    "rootWords": [
+      {
+        "root": "co-",
+        "meaning": "together or with",
+        "language": "Latin"
+      },
+      {
+        "root": "factor",
+        "meaning": "maker or doer",
+        "language": "Latin (from facere, meaning 'to make')"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'co-'（表示共同）和 'factor'（表示因素）。该词最初在19世纪晚期用于数学领域，指矩阵运算中的余因子，20世纪扩展到生物化学，指酶促反应中的辅助物质。这一演变反映了科学术语从数学向生物学的迁移。",
+    "firstKnownUse": "Late 19th century (approximately 1890, in mathematical contexts)",
+    "relatedWords": [
+      "factor",
+      "cofunction",
+      "cofactorization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, suitable for intermediate learners with some scientific background)",
+    "pronunciationDifficulty": "4 (out of 10; the word has straightforward vowel sounds, but the 'fæktər' ending may require practice for non-native speakers)",
+    "spellingDifficulty": "5 (out of 10; the compound structure is logical but the 'co-' prefix might lead to confusion with similar words like 'cofound')",
+    "meaningComplexity": "7 (out of 10; multiple specialized meanings in different fields increase cognitive load)",
+    "usageComplexity": "6 (out of 10; primarily used in technical contexts, requiring domain-specific knowledge)",
+    "learningTips": [
+      "结合认知科学原理，如使用分块学习（chunking）将词汇与具体科学场景关联；例如，通过视觉图像记忆助因子在酶反应中的角色，以增强长时记忆；建议中级学习者先从常见语境入手，避免一次性掌握多个含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "coenzyme",
+        "similarity": "0.8",
+        "context": "在生物化学语境中，常用于描述有机助因子（如维生素衍生物）"
+      },
+      {
+        "word": "minor",
+        "similarity": "0.6",
+        "context": "在数学语境中，指矩阵余因子的组成部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inhibitor",
+        "context": "在生物化学中，表示抑制酶活性的物质，与助因子相反"
+      },
+      {
+        "word": "determinant",
+        "context": "在数学中，表示与余因子相关的整体矩阵值，但非直接反义"
+      }
+    ],
+    "hypernyms": [
+      "factor",
+      "catalyst"
+    ],
+    "hyponyms": [
+      "coenzyme",
+      "metal ion cofactor"
+    ],
+    "collocations": [
+      {
+        "pattern": "cofactor + in + process",
+        "examples": [
+          "cofactor in enzymatic reactions"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "calculate + cofactor",
+        "examples": [
+          "calculate the cofactor of a matrix"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和生物机制的理解，无显著隐含语义，但在跨文化教育中强调科学普适性，例如在中文科学文献中常直接翻译为'助因子'，反映全球科学交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于生物学和医学语境",
+        "usage": "在美国英语中，强调在健康科学中的应用，如营养补充剂"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重数学定义",
+        "usage": "在英国英语中，常出现在纯数学教育中，与生物学使用频率较低"
+      }
+    ],
+    "historicalContext": "与19世纪科学革命相关，特别是在达尔文进化论和现代生物化学兴起时期；在文学和社会中，间接体现为对科学发现的赞颂，如H.G. Wells的作品中对技术术语的隐喻使用。",
+    "modernUsage": "在社交媒体和在线教育平台（如YouTube或Coursera）中，趋势是简化解释以普及科学知识，例如在COVID-19讨论中提及酶助因子。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙打开锁的场景，其中'cofactor'是钥匙，帮助酶（锁）启动反应。",
+      "keyElements": [
+        "钥匙（cofactor）",
+        "锁（酶）",
+        "反应过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆烹饪中添加调味料的时刻，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Co-actor in a play: Cofactor acts with the enzyme like a co-actor in a performance.",
+        "explanation": "通过视觉和故事联想，将抽象概念转化为生动叙事，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sound like 'co-factor': Think of 'co' as cooperation and 'factor' as a key player.",
+        "explanation": "利用声音相似性创建联想，促进听觉和语义记忆整合"
+      }
+    ],
+    "wordAssociations": [
+      "enzyme",
+      "matrix",
+      "catalyst",
+      "vitamin"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cofactors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun + as + cofactor",
+        "description": "用作名词短语，表示某种物质的作用",
+        "examples": [
+          "Zinc acts as a cofactor in this process."
+        ]
+      },
+      {
+        "pattern": "Calculate + the + cofactor + of",
+        "description": "在数学语境中使用，描述计算过程",
+        "examples": [
+          "Calculate the cofactor of the matrix element."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing cofactor with coenzyme",
+        "correction": "Use cofactor for general substances and coenzyme for organic ones",
+        "explanation": "中文学习者常混淆两者含义，因为翻译相似；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'cofactors' for plural",
+        "explanation": "中级学习者可能遗忘添加's'，影响句子语法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus, primarily in scientific domains)",
+    "domains": [
+      "science",
+      "biology",
+      "mathematics",
+      "chemistry"
+    ],
+    "tags": [
+      "technical",
+      "scientific terminology",
+      "biochemistry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

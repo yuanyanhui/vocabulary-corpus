@@ -1,0 +1,279 @@
+{
+  "word": "volley",
+  "phonetics": {
+    "british": "/ˈvɒli/",
+    "american": "/ˈvɑːli/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A simultaneous discharge of a number of missiles, such as bullets or arrows, fired at the same time.",
+      "chineseTranslation": "齐射；一连串发射",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports, a stroke or kick in which the ball is struck before it touches the ground, as in tennis or volleyball.",
+      "chineseTranslation": "截击球；凌空击球",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fire or discharge weapons or projectiles in a volley.",
+      "chineseTranslation": "齐射；连续发射",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In sports, to hit or strike (a ball) before it bounces.",
+      "chineseTranslation": "凌空击打（球）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "volley of questions",
+      "meaning": "一连串的问题",
+      "example": "The journalist fired a volley of questions at the politician during the press conference.",
+      "exampleTranslation": "记者在新闻发布会上向政客提出一连串的问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "volley in tennis",
+      "meaning": "网球中的截击球",
+      "example": "He won the point with a powerful volley in tennis.",
+      "exampleTranslation": "他在网球比赛中用一个有力的截击球赢得了这一分。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "return a volley",
+      "meaning": "回击或回应一连串",
+      "example": "The soldiers returned the enemy's volley with precise fire.",
+      "exampleTranslation": "士兵们用精确射击回击敌人的齐射。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The troops unleashed a volley of gunfire across the battlefield.",
+      "translation": "部队在战场上发射了一连串的炮火。",
+      "source": "Historical account from military literature (e.g., based on sources like the Oxford English Dictionary examples)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the tennis match, she executed a perfect volley to win the game.",
+      "translation": "在网球比赛中，她打出了一个完美的截击球来赢得比赛。",
+      "source": "Sports commentary from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The protesters shouted a volley of slogans against the new policy.",
+      "translation": "抗议者们高喊着一连串的口号反对新政策。",
+      "source": "News article from BNC corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He managed to volley the ball over the net just in time.",
+      "translation": "他及时地将球凌空击过网。",
+      "source": "Modern sports narrative",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "volée",
+        "meaning": "flight or a flock of birds in flight",
+        "language": "Old French"
+      },
+      {
+        "root": "volare",
+        "meaning": "to fly",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'volare'（意为飞行），通过通俗拉丁语演变为古法语 'volée'（意为飞行或一连串的动作）。在英语中，从16世纪开始用于军事语境，表示齐射或一连串发射。17世纪后扩展到体育领域，如网球中的截击球，反映了语言随社会变化的演变过程。",
+    "firstKnownUse": "1570",
+    "relatedWords": [
+      "volleyer",
+      "volleying",
+      "volleyed"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'volley' 的军事和体育语境分开记忆，以减少认知负荷；建议通过重复暴露于真实语料中强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "barrage",
+        "similarity": "0.7",
+        "context": "适用于军事语境，表示密集射击"
+      },
+      {
+        "word": "salvo",
+        "similarity": "0.8",
+        "context": "常用于正式场合，表示一连串的发射"
+      },
+      {
+        "word": "smash",
+        "similarity": "0.6",
+        "context": "在体育语境中，表示强力击球"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dribble",
+        "context": "在体育语境中，表示球触地后的控制性动作"
+      },
+      {
+        "word": "single shot",
+        "context": "在军事语境中，表示单个发射而非齐射"
+      }
+    ],
+    "hypernyms": [
+      "shot",
+      "strike"
+    ],
+    "hyponyms": [
+      "tennis volley",
+      "volleyball spike"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + volley",
+        "examples": [
+          "fire a volley",
+          "return a volley"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "volley + noun",
+        "examples": [
+          "volley of arrows",
+          "volley in sports"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与军事历史（如二战中的齐射战术）或体育精神（如网球比赛中的快速反应）相关联，象征集体行动或即时决策。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向历史军事用法",
+        "usage": "在英国英语中，常用于正式历史叙述中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于体育语境",
+        "usage": "在美国英语中，强调体育比赛中的动态使用，如NBA或网球转播"
+      }
+    ],
+    "historicalContext": "与欧洲军事传统相关，如17世纪的火枪战术；在现代，关联体育文化，如温布尔登网球赛。",
+    "modernUsage": "在社交媒体上，常用于描述快速回应或体育事件，但需注意跨文化敏感性，以避免军事隐喻在和平语境中的不当使用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一群鸟儿（源自词根 'volare'）同时飞起，代表一连串动作；如在网球场上，球员凌空击球。",
+      "keyElements": [
+        "鸟儿飞行",
+        "网球击打",
+        "齐射场景"
+      ],
+      "emotionalConnection": "联结个人体育经历或观看战争电影的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Volley 像 'volley of birds' flying together",
+        "explanation": "通过视觉联想词根 'volare'，帮助记忆军事和体育含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈvɒli/ 听起来像 'volley' 的快速回声",
+        "explanation": "利用声音重复模拟齐射的声音，以强化听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "fly",
+      "shoot",
+      "hit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "volleys",
+      "pastTense": "volleyed",
+      "pastParticiple": "volleyed",
+      "presentParticiple": "volleying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + volley",
+        "description": "主语加动词加 'volley' 的结构，常用于动作描述",
+        "examples": [
+          "The team volleyed the ball back."
+        ]
+      },
+      {
+        "pattern": "A volley of + noun",
+        "description": "表示一连串事物的结构",
+        "examples": [
+          "A volley of complaints arose."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing volley with valley",
+        "correction": "Use volley for shooting or sports, valley for geographical feature",
+        "explanation": "词形相似但语义不同，常因拼写错误导致混淆"
+      },
+      {
+        "mistake": "Incorrect verb form in sports context",
+        "correction": "Always use 'volleyed' for past tense",
+        "explanation": "初级学习者可能遗忘规则动词变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "Sports",
+      "Military",
+      "General communication"
+    ],
+    "tags": [
+      "Action verb",
+      "Noun phrase",
+      "Sports terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

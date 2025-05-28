@@ -1,0 +1,237 @@
+{
+  "word": "convolve",
+  "phonetics": {
+    "british": "/kənˈvɒlv/",
+    "american": "/kənˈvɑlv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To roll or wind together; to form into a twisted or coiled shape.",
+      "chineseTranslation": "使卷入或卷曲",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In mathematics and signal processing, to perform a convolution operation on two functions, integrating the product of the two functions after one is reversed and shifted.",
+      "chineseTranslation": "卷积（数学或信号处理中的操作）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convolve two functions",
+      "meaning": "对两个函数进行卷积操作",
+      "example": "In digital signal processing, engineers often convolve two functions to filter noise.",
+      "exampleTranslation": "在数字信号处理中，工程师经常对两个函数进行卷积以过滤噪声。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "convolve signals",
+      "meaning": "使信号卷积",
+      "example": "The algorithm will convolve signals to produce a blurred image effect.",
+      "exampleTranslation": "该算法将使信号卷积以产生模糊图像效果。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mathematician decided to convolve the two waveforms to analyze their interaction.",
+      "translation": "数学家决定对两个波形进行卷积以分析它们的相互作用。",
+      "source": "Scientific literature (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday terms, you can think of how fabric convolve when twisted into a rope.",
+      "translation": "在日常术语中，你可以想象织物在被拧成绳索时如何卷曲。",
+      "source": "Educational contexts (e.g., online tutorials)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Neural networks convolve features in hidden layers to detect patterns in images.",
+      "translation": "神经网络在隐藏层中卷积特征以检测图像中的模式。",
+      "source": "Technology articles (e.g., from machine learning resources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "convolvere",
+        "meaning": "To roll together",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'convolvere', which combines 'con-' (together) and 'volvere' (to roll). It evolved through Old French as 'convoler' in the 14th century, entering English in the 17th century with a general meaning of twisting or coiling. By the 19th century, it was adopted in mathematics to describe the specific operation of convolution, reflecting advancements in calculus and analysis.",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "convolution",
+      "volve",
+      "revolve"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象卷曲的线条来记忆数学卷积；对于中文母语学习者，建议通过比较相似词汇如 'fold' 来建立语义网络，避免混淆技术语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fold",
+        "similarity": "0.7",
+        "context": "适用于一般卷曲或折叠的语境中，如物理描述"
+      },
+      {
+        "word": "twist",
+        "similarity": "0.6",
+        "context": "在非技术语境中描述旋转或缠绕"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unravel",
+        "context": "适用于解开或展开的语境中，如从卷曲状态恢复"
+      },
+      {
+        "word": "straighten",
+        "context": "在整理或拉直的语境中，与卷曲相对"
+      }
+    ],
+    "hypernyms": [
+      "integrate",
+      "combine"
+    ],
+    "hyponyms": [
+      "convolution operation"
+    ],
+    "collocations": [
+      {
+        "pattern": "convolve [object] with [another object]",
+        "examples": [
+          "convolve signals with filters"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "to convolve in [context]",
+        "examples": [
+          "to convolve in mathematical models"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征技术创新和复杂系统的分析，常与数学和工程领域的进步相关；在跨文化语境中，中国学习者可能将其与量子物理或人工智能联系，强调实用性而非隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical fields like AI and computing",
+        "usage": "在美国英语中，强调在数字技术中的应用，如机器学习算法"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with a slight emphasis on theoretical mathematics",
+        "usage": "在英国英语中，常出现在学术出版物中，保持更正式的语域"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的科学发展有关，如牛顿的微积分影响了该词在数学中的使用；在现代，中国文化背景下，该词与科技全球化相联结，例如在华为或腾讯的技术文档中出现。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于技术讨论，如YouTube教程或Reddit论坛，反映了数字时代的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个螺旋状的线条在卷曲成一个球体，就像河流卷入漩涡。",
+      "keyElements": [
+        "螺旋",
+        "卷曲",
+        "漩涡"
+      ],
+      "emotionalConnection": "联结到个人经验，如玩弄线团的童年回忆，以增强情绪触发和长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Convolve sounds like 'con-volve', like 'con' for together and 'volve' for roll, so think of things rolling together.",
+        "explanation": "通过声音联想和视觉化，基于认知科学中的Elaboration Theory，帮助构建语义网络"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-N-V-O-L-V-E: Coil One's New Valuable Object Like A Vortex Every time.",
+        "explanation": "使用首字母缩略词结合故事法，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "convolution",
+      "revolve",
+      "evolve"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "convolved",
+      "pastParticiple": "convolved",
+      "presentParticiple": "convolving",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + convolve + object",
+        "description": "主语直接加上动词和宾语的结构，常用于技术描述",
+        "examples": [
+          "The system convolve the data."
+        ]
+      },
+      {
+        "pattern": "To convolve [something] with [something else]",
+        "description": "使用介词短语扩展动词的结构",
+        "examples": [
+          "To convolve functions with variables."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'convolve' interchangeably with 'evolve'",
+        "correction": "Use 'convolve' for rolling or mathematical operations, and 'evolve' for development.",
+        "explanation": "混淆可能由于语音相似性；建议通过语境区分以避免语义错误"
+      },
+      {
+        "mistake": "Incorrect tense formation",
+        "correction": "Ensure past tense is 'convolved', not 'convolveed'.",
+        "explanation": "作为规则动词，学习者需注意拼写规则以符合英语形态语法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Mathematics",
+      "Science"
+    ],
+    "tags": [
+      "Technical",
+      "Mathematical operation",
+      "Signal processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "word": "causation",
+  "phonetics": {
+    "british": "/kɔːˈzeɪʃən/",
+    "american": "/kɔːˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of causing something to happen; the relationship between an event (the cause) and a second event (the effect), where the first brings about the second.",
+      "chineseTranslation": "因果关系；引起某事发生的过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In legal or philosophical contexts, the principle or doctrine that establishes a direct link between actions and their consequences.",
+      "chineseTranslation": "因果原理；在法律或哲学中建立行动与其结果的直接联系",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chain of causation",
+      "meaning": "因果链条",
+      "example": "The chain of causation in the accident was thoroughly investigated by the authorities.",
+      "exampleTranslation": "当局彻底调查了事故的因果链条。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "legal causation",
+      "meaning": "法律因果关系",
+      "example": "In tort law, legal causation must be proven to establish liability.",
+      "exampleTranslation": "在侵权法中，必须证明法律因果关系来确立责任。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study examined the causation between smoking and lung cancer.",
+      "translation": "该研究考察了吸烟与肺癌之间的因果关系。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Philosophers like Hume questioned the nature of causation in the universe.",
+      "translation": "像休谟这样的哲学家质疑了宇宙中因果关系的本质。",
+      "source": "Philosophical text (e.g., from Oxford University Press publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday life, we often assume causation based on correlation, but that's not always accurate.",
+      "translation": "在日常生活中，我们经常基于相关性假设因果关系，但这并不总是准确的。",
+      "source": "Informal discussion (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "causa",
+        "meaning": "cause or reason",
+        "language": "Latin"
+      },
+      {
+        "root": "causatio",
+        "meaning": "the act of causing",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from Latin 'causatio', meaning 'a causing' or 'legal action', which evolved through Old French 'causacion' in the 14th century into Middle English as 'causacioun' by the 15th century, eventually standardizing to 'causation' in Modern English. It shifted from a primarily legal term to a broader philosophical and scientific concept during the Enlightenment era.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "cause",
+      "causality",
+      "causative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'causation' 与实际情境如科学实验关联，以强化长时记忆；建议通过重复曝光（spaced repetition）练习相关例句，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "causality",
+        "similarity": "0.9",
+        "context": "在科学或哲学语境中，用于描述事件间的因果联系"
+      },
+      {
+        "word": "causing",
+        "similarity": "0.8",
+        "context": "在日常或非正式语境中，表示引发某事的行动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "coincidence",
+        "context": "当事件无直接因果联系时，在统计或日常语境中使用"
+      },
+      {
+        "word": "randomness",
+        "context": "在科学语境中，表示无规律或无因果的发生"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "relationship"
+    ],
+    "hyponyms": [
+      "efficient causation",
+      "final causation"
+    ],
+    "collocations": [
+      {
+        "pattern": "causation + of + noun",
+        "examples": [
+          "causation of disease"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "chain of causation",
+        "examples": [
+          "the chain of causation in events"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性思考和科学方法，尤其在哲学传统中（如亚里士多德和休谟的理论），代表人类对世界因果性的认知；在东方文化如中国哲学中，类似概念可联想到'因缘'，强调互依关系。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式学术语境",
+        "usage": "在英国英语中，常见于法律和哲学讨论，以强调历史性因果分析"
+      },
+      {
+        "region": "United States",
+        "variation": "在非正式语境中更灵活",
+        "usage": "在美国英语中，常用于科学和媒体报道，以简化复杂因果关系"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动相关联，如大卫·休谟的因果怀疑论，影响了现代科学方法；在文学中，如莎士比亚的作品中隐含因果主题，反映社会对命运和责任的探讨。",
+    "modernUsage": "在社交媒体和数字平台上，'causation' 常用于辩论假新闻或相关性误判的讨论，体现当代对事实依据的强调。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多米诺骨牌倒塌的场景，其中第一块骨牌代表原因，依次导致其他骨牌倒下，代表效果。",
+      "keyElements": [
+        "多米诺骨牌",
+        "链条效应",
+        "起始点"
+      ],
+      "emotionalConnection": "联结个人经历，如童年玩耍的因果游戏，触发积极回忆以增强记忆 retention。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'causation' 联想为 'cause + nation'，想象一个国家由原因驱动。",
+        "explanation": "通过视觉联想加强词汇与概念的连接，基于认知心理学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/kɔːˈzeɪʃən/' 听起来像 'cause a chain'，帮助记忆链条含义。",
+        "explanation": "利用声音相似性创建心理钩子，促进海马体对词汇的编码。"
+      }
+    ],
+    "wordAssociations": [
+      "cause",
+      "effect",
+      "link",
+      "chain"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "causations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + causation + of + noun",
+        "description": "主语 + 动词 + causation + of + 名词结构，用于描述因果过程",
+        "examples": [
+          "The causation of the fire remains unknown."
+        ]
+      },
+      {
+        "pattern": "In + causation",
+        "description": "在因果关系中使用的介词结构",
+        "examples": [
+          "In causation, we see the direct impact."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'causation' with 'correlation'",
+        "correction": "Use 'causation' only when there is a direct cause-effect relationship",
+        "explanation": "学习者常混淆二者，因为英语中语义细微差异需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'causations' for plural forms",
+        "explanation": "作为可数名词，需注意在学术语境中的正确形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "philosophy",
+      "law",
+      "social sciences"
+    ],
+    "tags": [
+      "abstract concept",
+      "causal reasoning",
+      "etymology-Latin"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

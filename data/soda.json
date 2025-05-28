@@ -1,0 +1,254 @@
+{
+  "word": "soda",
+  "phonetics": {
+    "british": "/ˈsəʊ.də/",
+    "american": "/ˈsoʊ.də/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A carbonated soft drink, typically flavored and sweetened.",
+      "chineseTranslation": "碳酸软饮料",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Sodium carbonate, a chemical compound used in various industrial and household applications.",
+      "chineseTranslation": "碳酸钠",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mixture of carbonated water and flavorings, often served in bars or cafes.",
+      "chineseTranslation": "苏打水",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "baking soda",
+      "meaning": "用于烘焙的碳酸氢钠",
+      "example": "Add a teaspoon of baking soda to the batter for fluffier cakes.",
+      "exampleTranslation": "在面糊中加入一茶匙小苏打，让蛋糕更松软。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "soda water",
+      "meaning": "碳酸水，通常用于调制饮料",
+      "example": "Mix the gin with soda water for a refreshing cocktail.",
+      "exampleTranslation": "将杜松子酒与苏打水混合，制成清新的鸡尾酒。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "club soda",
+      "meaning": "加了矿物质的碳酸水，常用于鸡尾酒",
+      "example": "Use club soda in your drink to add a fizzy texture.",
+      "exampleTranslation": "在饮料中加入俱乐部苏打水，以增加气泡质感。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I prefer soda over juice because it's more refreshing on a hot day.",
+      "translation": "我更喜欢苏打水而不是果汁，因为在炎热的日子它更解渴。",
+      "source": "日常对话（based on COCA corpus）",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The chemist used soda to neutralize the acid in the experiment.",
+      "translation": "化学家在实验中使用碳酸钠来中和酸性。",
+      "source": "科学文献（based on academic texts in BNC）",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In American diners, soda is often served with burgers and fries.",
+      "translation": "在美国小餐馆，苏打水经常与汉堡和薯条一起供应。",
+      "source": "文化描述（from popular media）",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "意大利语",
+    "rootWords": [
+      {
+        "root": "soda",
+        "meaning": "固体碱",
+        "language": "意大利语（源自阿拉伯语）"
+      }
+    ],
+    "historicalDevelopment": "该词源自16世纪意大利语 'soda'，指代碳酸钠矿物，起源于阿拉伯语 'suda'，意为头痛药或固体碱。随后在18世纪传入英语，用于指代碳酸饮料，反映了工业革命时期化学和消费文化的演变。",
+    "firstKnownUse": "约1540年",
+    "relatedWords": [
+      "sodium",
+      "soda ash"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR等级)",
+    "pronunciationDifficulty": "3 (1-10，基于简单元音和辅音组合，对中文母语者较易掌握)",
+    "spellingDifficulty": "2 (1-10，拼写规则简单，无不规则变化)",
+    "meaningComplexity": "4 (1-10，多义性存在但常见语境清晰，根据语言学习理论，如Krashen的输入假设，初级学习者可通过上下文习得)",
+    "usageComplexity": "5 (1-10，需要注意区域差异和语域，但可通过重复暴露降低难度)",
+    "learningTips": [
+      "使用分块记忆法（chunking）将'soda'与日常饮料场景关联；结合认知科学原理，如双编码理论，通过视觉图像（如气泡饮料图片）与个人经验（如喝可乐的记忆）强化词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pop",
+        "similarity": "0.8",
+        "context": "在北美英语中，常用于非正式场合指代碳酸饮料"
+      },
+      {
+        "word": "soft drink",
+        "similarity": "0.9",
+        "context": "在正式或全球语境中，指代非酒精碳酸饮料"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "still water",
+        "context": "用于对比无气泡的饮料，在健康或饮食语境中"
+      },
+      {
+        "word": "juice",
+        "context": "在饮料选择语境中，指代非碳酸的天然饮品"
+      }
+    ],
+    "hypernyms": [
+      "beverage",
+      "chemical compound"
+    ],
+    "hyponyms": [
+      "cola",
+      "lemon-lime soda"
+    ],
+    "collocations": [
+      {
+        "pattern": "soda + noun (e.g., soda bottle)",
+        "examples": [
+          "a cold soda bottle",
+          "sparkling soda water"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + soda (e.g., drink soda)",
+        "examples": [
+          "I drink soda daily",
+          "Mix soda with liquor"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在美国文化中，'soda' 象征快节奏生活和休闲娱乐，常与快餐文化（如麦当劳）关联；在英国，则更常称作'pop'，反映了跨文化表达差异。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "'Soda' 特指碳酸软饮料",
+        "usage": "在日常对话中广泛使用，体现了消费主义文化"
+      },
+      {
+        "region": "英国",
+        "variation": "常被替换为'fizzy drink' 或 'pop'",
+        "usage": "在非正式语境中，避免混淆化学含义"
+      }
+    ],
+    "historicalContext": "19世纪工业革命期间，'soda' 与碳酸饮料的发明相关联，如Joseph Priestley的碳酸水实验，影响了现代休闲文化和社会消费习惯。",
+    "modernUsage": "在社交媒体和数字平台上，'soda' 常用于健康讨论（如反糖分运动）或流行趋势（如 craft soda 在 Instagram 上流行）"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个气泡四溅的冷饮瓶子，里面有彩色液体冒泡。",
+      "keyElements": [
+        "气泡",
+        "冷饮瓶",
+        "甜味"
+      ],
+      "emotionalConnection": "联结个人经验，如夏天喝苏打水的解渴感觉，以增强情绪触发和长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Soda 听起来像 'so da'，联想到 'so dynamic' 的气泡动态。",
+        "explanation": "通过声音联想和视觉化，帮助中文母语者快速回忆词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "S-O-D-A: Sweet, fizzy, Often Drunk Anywhere",
+        "explanation": "使用首字母缩略法结合认知科学中的重复强化，强化多义记忆"
+      }
+    ],
+    "wordAssociations": [
+      "fizz",
+      "carbonate",
+      "refresh"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sodas",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a glass of soda)",
+        "description": "作为不可数名词用于饮料语境，或可数名词用于具体品种",
+        "examples": [
+          "I ordered a soda at the restaurant."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., soda with lime)",
+        "description": "常与介词搭配表示配料或组合",
+        "examples": [
+          "She drinks soda with a twist of lime."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'soda' with 'soda water' in chemical contexts",
+        "correction": "Use 'soda' for drinks and 'sodium carbonate' for chemicals",
+        "explanation": "中文母语者可能因翻译差异混淆语义，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'sodas' for multiple types",
+        "explanation": "英语名词复数规则简单，但需注意可数性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (COCA corpus ranks it in the top 5000 words, with 1500 occurrences per million)",
+    "domains": [
+      "日常消费",
+      "化学",
+      "餐饮"
+    ],
+    "tags": [
+      "beverage",
+      "chemistry",
+      "informal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

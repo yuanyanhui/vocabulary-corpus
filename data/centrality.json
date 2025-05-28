@@ -1,0 +1,245 @@
+{
+  "word": "centrality",
+  "phonetics": {
+    "british": "/sɛnˈtrælɪti/",
+    "american": "/sɛnˈtræləti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being central, often referring to the position at the center of a system, network, or structure.",
+      "chineseTranslation": "中心性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In fields like graph theory or social networks, the measure of how central a node or entity is within a network.",
+      "chineseTranslation": "中心度",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "network centrality",
+      "meaning": "网络中的中心度",
+      "example": "In social network analysis, network centrality helps identify key influencers.",
+      "exampleTranslation": "在社交网络分析中，网络中心度有助于识别关键影响者。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "centrality of power",
+      "meaning": "权力的中心性",
+      "example": "The centrality of power in ancient Rome was evident in its imperial structures.",
+      "exampleTranslation": "古罗马帝国的权力中心性在其帝国结构中显而易见。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The centrality of the city square makes it a hub for community events.",
+      "translation": "城市广场的中心性使其成为社区活动的中心。",
+      "source": "Modern urban planning literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In graph theory, centrality measures such as betweenness centrality are crucial for understanding network dynamics.",
+      "translation": "在图论中，诸如中介中心度的中心性度量对于理解网络动态至关重要。",
+      "source": "Academic texts from computer science",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The concept of economic centrality has shifted with globalization, affecting trade patterns worldwide.",
+      "translation": "经济中心性的概念随着全球化而转变，影响了全球贸易模式。",
+      "source": "News articles from The Economist",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "centrum",
+        "meaning": "center",
+        "language": "Latin"
+      },
+      {
+        "root": "centralis",
+        "meaning": "pertaining to the center",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'centrum' meaning 'center', the word evolved through Old French 'central' in the 17th century to English 'centrality' by the 19th century, expanding from physical centrality to abstract concepts in social and scientific contexts.",
+    "firstKnownUse": "1847",
+    "relatedWords": [
+      "central",
+      "centralize",
+      "decentralize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学原理，将词汇与视觉网络图联想起来，以增强空间记忆；建议初学者从简单句子开始，逐步扩展到技术语境，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "centralness",
+        "similarity": "0.8",
+        "context": "适用于强调位置或重要性的正式语境"
+      },
+      {
+        "word": "core importance",
+        "similarity": "0.7",
+        "context": "在非技术语境中，用于描述核心作用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "peripherality",
+        "context": "适用于边缘位置或次要作用的语境"
+      },
+      {
+        "word": "marginality",
+        "context": "在社会或文化语境中，表示边缘性"
+      }
+    ],
+    "hypernyms": [
+      "importance",
+      "position"
+    ],
+    "hyponyms": [
+      "betweenness centrality",
+      "degree centrality"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + centrality",
+        "examples": [
+          "high centrality",
+          "low centrality"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "centrality in + noun",
+        "examples": [
+          "centrality in networks",
+          "centrality in society"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征着核心地位，尤其在社会科学和网络理论中，体现出对权力和影响力的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术和社会科学语境",
+        "usage": "在美国英语中，常与数据分析和商业策略相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于历史和地理语境",
+        "usage": "在英国英语中，常用于讨论城市规划或历史中心"
+      }
+    ],
+    "historicalContext": "与工业革命和现代网络社会的兴起相关，体现了从物理中心到抽象中心度的转变。",
+    "modernUsage": "在社交媒体和数字时代，现代传播中常用于讨论影响者营销或全球连接性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个城市的中心广场，周围辐射出道路和人群，代表词汇的核心位置。",
+      "keyElements": [
+        "广场",
+        "辐射道路",
+        "人群聚集"
+      ],
+      "emotionalConnection": "联结到个人经历，如在北京天安门广场的访问，触发熟悉感和重要性情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'centrality' 联想为 'center + ality'，想象一个巨大的中心点放射出光线。",
+        "explanation": "通过视觉联想增强记忆，基于认知科学的空间认知原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "听起来像 'sen-tral-i-tee'，联想到 'central city' 的声音。",
+        "explanation": "利用声音与图像的联结，促进多感官记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "center",
+      "hub",
+      "nucleus"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "centralities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + centrality",
+        "description": "作为主语或宾语出现，表示状态或度量",
+        "examples": [
+          "Centrality determines influence in networks."
+        ]
+      },
+      {
+        "pattern": "The centrality of + noun",
+        "description": "用于强调某事物的中心性",
+        "examples": [
+          "The centrality of education in society is undeniable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'centrality' and 'central'",
+        "correction": "Use 'centrality' for the abstract concept, 'central' for the adjective.",
+        "explanation": "Learners often mix parts of speech; practice with contextual sentences to differentiate."
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for formal or technical discussions.",
+        "explanation": "In intermediate learning, focus on appropriate register to avoid sounding overly academic."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "academia",
+      "technology",
+      "social sciences"
+    ],
+    "tags": [
+      "abstract noun",
+      "network theory",
+      "position"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

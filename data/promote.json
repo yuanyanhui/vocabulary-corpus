@@ -1,0 +1,299 @@
+{
+  "word": "promote",
+  "phonetics": {
+    "british": "/prəˈməʊt/",
+    "american": "/prəˈmoʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To support or encourage the development, progress, or popularity of something.",
+      "chineseTranslation": "促进，促进发展",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To raise someone to a higher position, rank, or status.",
+      "chineseTranslation": "提升，提升职位",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To advertise or publicize a product, service, or event.",
+      "chineseTranslation": "推广，宣传",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A section at the beginning of a computer program that is executed before the main code.",
+      "chineseTranslation": "提升段（在计算机编程中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "promote from",
+      "meaning": "从某个职位或状态提升",
+      "example": "He was promoted from assistant to manager.",
+      "exampleTranslation": "他从助理提升到经理。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "promote to",
+      "meaning": "提升到更高的职位",
+      "example": "She was promoted to director after five years.",
+      "exampleTranslation": "她工作五年后被提升到主管。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "promote awareness",
+      "meaning": "提高公众意识",
+      "example": "The charity works to promote awareness of climate change.",
+      "exampleTranslation": "这个慈善机构致力于提高气候变化的公众意识。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "promote sales",
+      "meaning": "促进销售",
+      "example": "Discounts are used to promote sales during the holiday season.",
+      "exampleTranslation": "折扣用于在节日季节促进销售。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The government launched a campaign to promote healthy lifestyles.",
+      "translation": "政府启动了一场促进健康生活方式的运动。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media platforms often promote content based on user preferences.",
+      "translation": "社交媒体平台经常根据用户偏好推广内容。",
+      "source": "Technology blog (e.g., based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After excelling in her role, she was promoted to senior executive.",
+      "translation": "在她表现出色后，她被提升为高级主管。",
+      "source": "Business literature (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Companies promote their products through targeted advertising campaigns.",
+      "translation": "公司通过针对性的广告活动推广他们的产品。",
+      "source": "Marketing textbook",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "拉丁语",
+    "rootWords": [
+      {
+        "root": "promovere",
+        "meaning": "向前移动",
+        "language": "拉丁语"
+      },
+      {
+        "root": "pro-",
+        "meaning": "向前",
+        "language": "拉丁语"
+      },
+      {
+        "root": "movēre",
+        "meaning": "移动",
+        "language": "拉丁语"
+      }
+    ],
+    "historicalDevelopment": "源自中世纪英语 'promoten'，从拉丁语 'promovere' 演变而来，最初意思是 '向前推进'。在中古英语时期，该词开始用于表示支持或提升，在17世纪扩展到商业和宣传领域，反映了社会和经济发展的影响。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "promotion",
+      "promoter",
+      "promotional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，将 'promote' 与个人经历联想，例如想象职业晋升的场景，以加强记忆痕迹；使用间隔重复法复习不同语境下的用法，以提升长期保留效果；"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "advance",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如职业提升"
+      },
+      {
+        "word": "encourage",
+        "similarity": "0.7",
+        "context": "适用于促进发展的非正式语境"
+      },
+      {
+        "word": "boost",
+        "similarity": "0.6",
+        "context": "适用于商业或销售推广的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "demote",
+        "context": "在职场语境中，表示降低职位"
+      },
+      {
+        "word": "hinder",
+        "context": "在发展或推广语境中，表示阻碍进展"
+      }
+    ],
+    "hypernyms": [
+      "support",
+      "encourage"
+    ],
+    "hyponyms": [
+      "advertise",
+      "elevate"
+    ],
+    "collocations": [
+      {
+        "pattern": "promote + noun (e.g., promote health)",
+        "examples": [
+          "promote health",
+          "promote equality"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be promoted to + position",
+        "examples": [
+          "be promoted to manager"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "promote through + method",
+        "examples": [
+          "promote through social media"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征职业发展和个人成就，常与资本主义和竞争社会相关联；在跨文化语境中，中国学习者可能将其与 '晋升' 文化联系，强调努力与回报。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重正式语境，如教育和政府",
+        "usage": "在英国英语中，常用于机构改革语境"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重商业和营销",
+        "usage": "在美国英语中，常与创业和广告相关"
+      }
+    ],
+    "historicalContext": "该词与工业革命相关，反映了社会流动性；在文学作品如狄更斯的著作中，用于描绘阶级跃升。",
+    "modernUsage": "在社交媒体时代，该词常用于数字营销和在线推广，体现全球化的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯场景，其中一个人从底层向上爬，代表 'promote' 的提升含义。",
+      "keyElements": [
+        "阶梯",
+        "向上移动",
+        "成就象征"
+      ],
+      "emotionalConnection": "联结个人职业目标或成功经历，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'promote' 联想为 'pro-前进 + move-移动'，想象向前推动事物。",
+        "explanation": "通过词根联想增强语义记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-M-O-T-E：Push Really Outstanding Moves To Elevate",
+        "explanation": "使用首字母缩写创建故事，帮助记忆多重含义"
+      }
+    ],
+    "wordAssociations": [
+      "advance",
+      "boost",
+      "elevate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "promoted",
+      "pastParticiple": "promoted",
+      "presentParticiple": "promoting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + promote + object",
+        "description": "主语直接促进客体",
+        "examples": [
+          "The teacher promotes learning."
+        ]
+      },
+      {
+        "pattern": "Be + promoted + to + position",
+        "description": "被动语态表示职位提升",
+        "examples": [
+          "He was promoted to CEO."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'prompt'",
+        "correction": "Use 'promote' for encouragement, not 'prompt' which means to remind.",
+        "explanation": "二者发音相似，但语义不同，常因听力错误导致混淆"
+      },
+      {
+        "mistake": "Incorrect preposition use",
+        "correction": "Use 'promoted to' instead of 'promoted as'.",
+        "explanation": "在职位语境中，需正确选择介词以符合习惯用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "高频，COCA 语料库中排名前 2000",
+    "domains": [
+      "商业",
+      "教育",
+      "科技",
+      "文化"
+    ],
+    "tags": [
+      "动词",
+      "提升",
+      "推广",
+      "语义标签"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

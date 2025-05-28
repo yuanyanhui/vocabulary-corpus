@@ -1,0 +1,274 @@
+{
+  "word": "blackout",
+  "phonetics": {
+    "british": "/ˈblæk.aʊt/",
+    "american": "/ˈblæk.aʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A period of darkness caused by a failure of electrical power or an intentional dimming of lights, often for security reasons.",
+      "chineseTranslation": "停电或灯光熄灭期",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A temporary loss of consciousness or memory, often due to shock, fatigue, or alcohol.",
+      "chineseTranslation": "暂时失去意识或记忆",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A ban or suppression of information, such as in media or news.",
+      "chineseTranslation": "信息封锁或新闻禁令",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To suppress or censor information, or to cause a blackout (e.g., of lights or broadcasts).",
+      "chineseTranslation": "封锁信息或使熄灭",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "power blackout",
+      "meaning": "电力中断导致的停电",
+      "example": "The power blackout lasted for several hours during the storm.",
+      "exampleTranslation": "风暴期间的电力中断持续了几个小时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "news blackout",
+      "meaning": "新闻报道的封锁",
+      "example": "The government imposed a news blackout on the incident.",
+      "exampleTranslation": "政府对该事件实施了新闻封锁。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "memory blackout",
+      "meaning": "记忆暂时缺失",
+      "example": "After the accident, he experienced a memory blackout.",
+      "exampleTranslation": "事故后，他经历了记忆暂时缺失。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Due to the blackout, the entire neighborhood was plunged into darkness.",
+      "translation": "由于停电，整个街区陷入黑暗。",
+      "source": "Modern news article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She had a blackout during the exam and couldn't recall any answers.",
+      "translation": "她在考试中突然失去意识，无法回忆任何答案。",
+      "source": "Fictional literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The military enforced a blackout on all sensitive operations to maintain secrecy.",
+      "translation": "军方对所有敏感行动实施了信息封锁以保持 secrecy。",
+      "source": "Historical texts (e.g., WWII accounts from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In some regions, rolling blackouts are used to manage energy shortages.",
+      "translation": "在某些地区，轮流停电被用于管理能源短缺。",
+      "source": "Technical reports (e.g., from energy sector discussions)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（从古英语演变）",
+    "rootWords": [
+      {
+        "root": "black",
+        "meaning": "黑暗的或黑色的",
+        "language": "古英语（Old English）"
+      },
+      {
+        "root": "out",
+        "meaning": "熄灭或出去",
+        "language": "古英语（Old English）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪初，特别是第一次世界大战期间，用于描述为防止敌方飞机侦察而熄灭灯光的做法。从古英语 'blæc'（意思是黑色的）和 'out'（意思是熄灭）组合而成，随着时间推移，扩展到电力中断和记忆丧失的含义。",
+    "firstKnownUse": "1916年（根据OED记录）",
+    "relatedWords": [
+      "blacken",
+      "outage",
+      "faint"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用认知科学原理，如将词汇与个人经历关联，例如回想一次停电场景，以增强记忆；通过重复练习不同语境来构建语义网络，避免混淆多重含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "power outage",
+        "similarity": "0.8",
+        "context": "适用于电力中断语境，例如城市基础设施问题"
+      },
+      {
+        "word": "faint",
+        "similarity": "0.7",
+        "context": "适用于暂时失去意识的语境，例如医疗或日常事件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "illumination",
+        "context": "适用于灯光或信息公开的语境，例如在对比停电与供电情况时"
+      },
+      {
+        "word": "disclosure",
+        "context": "适用于新闻封锁的反面语境，例如信息透明"
+      }
+    ],
+    "hypernyms": [
+      "failure",
+      "lapse"
+    ],
+    "hyponyms": [
+      "rolling blackout",
+      "total blackout"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + blackout (e.g., power blackout)",
+        "examples": [
+          "experience a blackout",
+          "impose a blackout"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + blackout (e.g., cause a blackout)",
+        "examples": [
+          "suffer a blackout"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与二战期间的民防措施相关联，象征安全和隐秘；在现代语境中，代表技术故障或个人心理状态的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调历史战争语境",
+        "usage": "常用于描述二战时期的灯光管制"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于电力系统和媒体封锁",
+        "usage": "在日常对话中，常与自然灾害或政治事件相关"
+      }
+    ],
+    "historicalContext": "源自20世纪战争时期，与社会安全和信息控制相关；在文学和社会评论中，常作为隐喻出现，例如在乔治·奥威尔的作品中代表审查制度。",
+    "modernUsage": "在社交媒体和新闻中，频率增加，特别是在气候变化导致的能源危机语境下，体现跨文化理解，如在中文环境中可能翻译为'黑屏'以描述数字中断。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个漆黑的夜晚，整个城市突然熄灯，街道上只有星星点点的光源。",
+      "keyElements": [
+        "黑暗的城市",
+        "突然中断",
+        "记忆空白"
+      ],
+      "emotionalConnection": "联结到个人经历，如儿时的一次停电，触发安全感或惊奇的情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'blackout'联想为'black out'，就像关掉灯的黑屏。",
+        "explanation": "通过视觉联想帮助记忆多重含义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "聆听'blackout'发音时，联想到黑夜的寂静声音。",
+        "explanation": "利用听觉和视觉结合，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "darkness",
+      " amnesia",
+      "censor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "blackouts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + blackout",
+        "description": "主语+动词+blackout 结构，常用于描述事件发生",
+        "examples": [
+          "The storm caused a blackout."
+        ]
+      },
+      {
+        "pattern": "Blackout + of + noun",
+        "description": "blackout of + 名词 结构，用于指定类型",
+        "examples": [
+          "A blackout of information was enforced."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'black out' as two words",
+        "correction": "Use 'blackout' as one word for the noun",
+        "explanation": "在英语中，'blackout' 是一个合成词，而'black out' 可能被误解为动词短语"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Distinguish between power, memory, and news contexts",
+        "explanation": "初级学习者常混淆不同语义，需要通过语境练习来区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA语料库中排名约5000-10000）",
+    "domains": [
+      "科技",
+      "文化",
+      "商业",
+      "军事"
+    ],
+    "tags": [
+      "紧急情况",
+      "媒体",
+      "心理健康"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

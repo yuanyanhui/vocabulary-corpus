@@ -1,0 +1,254 @@
+{
+  "word": "bagging",
+  "phonetics": {
+    "british": "/ˈbæɡɪŋ/",
+    "american": "/ˈbæɡɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of putting items into a bag or bags for carrying or storage",
+      "chineseTranslation": "装袋",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "the process of collecting or securing something, often informally, as in capturing or bagging an opportunity",
+      "chineseTranslation": "打包或捕获",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of statistical models by combining multiple weak learners",
+      "chineseTranslation": "集成学习中的Bagging算法",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bagging groceries",
+      "meaning": "购买物品后将其装入购物袋",
+      "example": "After checking out, I spent a few minutes bagging groceries at the store.",
+      "exampleTranslation": "结账后，我花了几分钟在商店里装购物袋。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bagging a deal",
+      "meaning": "成功获得一笔交易或机会",
+      "example": "The salesperson was skilled at bagging a deal during negotiations.",
+      "exampleTranslation": "销售人员在谈判中很擅长成功获得交易。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "random forest bagging",
+      "meaning": "随机森林算法中的Bagging技术",
+      "example": "Random forest bagging helps in reducing overfitting in predictive models.",
+      "exampleTranslation": "随机森林中的Bagging有助于减少预测模型的过拟合。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She was busy bagging the fruits and vegetables after the market trip.",
+      "translation": "她忙着将水果和蔬菜装入袋子后从市场回来。",
+      "source": "Daily conversation (inspired by everyday scenarios in English corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, bagging is a key technique for ensemble methods.",
+      "translation": "在机器学习中，Bagging是集成方法的关键技术。",
+      "source": "Technical article (from sources like academic papers in Google Scholar)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The hunter succeeded in bagging a deer during the early morning expedition.",
+      "translation": "猎人在清晨的探险中成功捕获了一头鹿。",
+      "source": "Literature (e.g., inspired by narratives in the British National Corpus, BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old Norse or Old English",
+    "rootWords": [
+      {
+        "root": "bag",
+        "meaning": "a container made of flexible material",
+        "language": "Old Norse (baggi) or Old English (bæg)"
+      }
+    ],
+    "historicalDevelopment": "源自古北欧语或古英语中的 'baggi' 或 'bæg'，最初指柔软容器。13世纪开始在英语中出现，逐渐演变为动词形式，表示将物品放入袋中。到20世纪，在技术领域如统计学中演变为 'Bagging'，指Bootstrap Aggregating，由Leo Breiman在1996年正式提出。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "bag",
+      "sacking",
+      "packing"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, based on Common European Framework for intermediate learners)",
+    "pronunciationDifficulty": "4 (1-10 scale; moderate due to the simple consonant-vowel structure, but the short vowel /æ/ may challenge non-native speakers)",
+    "spellingDifficulty": "3 (1-10 scale; straightforward spelling with common letter combinations, easy for intermediate learners)",
+    "meaningComplexity": "6 (1-10 scale; multiple meanings depending on context, requiring contextual inference as per cognitive linguistics theories)",
+    "usageComplexity": "5 (1-10 scale; varies by register, but basic usage is operable with practice)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象购物场景中的装袋动作，以增强海马体记忆；使用间隔重复法复习不同语境下的含义，避免混淆日常和技术用法。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "packing",
+        "similarity": "0.8",
+        "context": "适用于中性语境，如将物品放入容器"
+      },
+      {
+        "word": "sacking",
+        "similarity": "0.7",
+        "context": "适用于解雇或装袋的语境，但需注意歧义"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unpacking",
+        "context": "适用于从袋中取出物品的语境"
+      },
+      {
+        "word": "discarding",
+        "context": "适用于丢弃物品而非装袋的语境"
+      }
+    ],
+    "hypernyms": [
+      "packaging"
+    ],
+    "hyponyms": [
+      "grocery bagging",
+      "data bagging"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun (e.g., bagging items)",
+        "examples": [
+          "bagging clothes",
+          "bagging data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in phrases with adjectives (e.g., quick bagging)",
+        "examples": [
+          "efficient bagging process"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中常与日常消费和零售相关，象征效率和实用性；在英国，更多与户外活动如狩猎相关，隐含资源管理主题。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "常用于超市情境",
+        "usage": "在日常对话中，指购物后的装袋行为，体现了消费主义文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于非正式用语",
+        "usage": "在文学或休闲语境中，指捕获或收集，关联历史狩猎传统"
+      }
+    ],
+    "historicalContext": "与工业革命后的包装技术相关，在现代社会中反映了全球贸易和环境保护的议题，如减少塑料袋使用。",
+    "modernUsage": "在社交媒体和在线购物平台中流行，体现快速消费趋势，例如在Twitter或电商评论中出现。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个超市场景：一个人将水果和蔬菜迅速放入购物袋中。",
+      "keyElements": [
+        "购物袋",
+        "水果",
+        "超市收银台"
+      ],
+      "emotionalConnection": "联结个人购物经历的兴奋感，以强化情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bag + Adding = Bagging (将物品添加到袋中)",
+        "explanation": "通过词根联想加强语义连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈbæɡɪŋ/ 像 'bag king'，想象袋子国王统治物品。",
+        "explanation": "利用声音和图像结合，提升海马体对词汇的长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "bag",
+      "packing",
+      "gathering"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "bagging (as gerund)",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + is/are + bagging + object",
+        "description": "主语进行装袋动作的句法结构",
+        "examples": [
+          "She is bagging the groceries."
+        ]
+      },
+      {
+        "pattern": "Bagging as a noun in phrases",
+        "description": "用作名词的结构，常与动词搭配",
+        "examples": [
+          "The bagging process takes time."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'bagging' in tech vs. daily use",
+        "correction": "Use context to distinguish, e.g., 'grocery bagging' vs. 'machine learning bagging'",
+        "explanation": "中级学习者常混淆语境，导致语义错误；建议通过语料分析练习"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /ˈbeɪɡɪŋ/",
+        "correction": "Use /ˈbæɡɪŋ/ with short 'a' sound",
+        "explanation": "发音错误可能源于母语干扰，应用镜像神经元理论进行模仿练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "commerce",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "noun",
+      "gerund",
+      "machine learning",
+      "packaging"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

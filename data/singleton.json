@@ -1,0 +1,243 @@
+{
+  "word": "singleton",
+  "phonetics": {
+    "british": "/ˈsɪŋɡl̩tən/",
+    "american": "/ˈsɪŋɡl̩tɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single item or individual, often used in contexts like statistics to refer to a unique observation, or in computing as a design pattern that ensures a class has only one instance.",
+      "chineseTranslation": "单例；单一观察",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In card games such as bridge, a holding of only one card in a suit.",
+      "chineseTranslation": "单张牌",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "singleton class",
+      "meaning": "单例类",
+      "example": "In software development, a singleton class ensures that only one object is created.",
+      "exampleTranslation": "在软件开发中，单例类确保只创建一个对象。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "singleton pattern",
+      "meaning": "单例模式",
+      "example": "The singleton pattern is widely used in multithreaded applications to control access to resources.",
+      "exampleTranslation": "单例模式在多线程应用中广泛用于控制资源访问。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer implemented a singleton to manage the database connection efficiently.",
+      "translation": "开发人员实现了一个单例来高效管理数据库连接。",
+      "source": "Technical documentation from software engineering texts (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In this dataset, the singleton represents an outlier that needs further investigation.",
+      "translation": "在这个数据集里，单一观察代表了一个需要进一步调查的异常值。",
+      "source": "Academic articles in statistics (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He held a singleton in hearts, which made his bid risky.",
+      "translation": "他手里的红桃只有一张牌，这让他的叫牌变得冒险。",
+      "source": "Literature and gaming contexts (e.g., from general English corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "single",
+        "meaning": "One only; individual",
+        "language": "Middle English from Old French 'sengle'"
+      },
+      {
+        "root": "ton",
+        "meaning": "A suffix indicating a state or condition",
+        "language": "English suffix derivation"
+      }
+    ],
+    "historicalDevelopment": "从19世纪开始，'singleton' 起源于英语，用于描述单一实体，先在数学和游戏中出现，后来扩展到计算机科学中作为设计模式；其演变反映了从一般描述到专业术语的转变，受工业革命和科技进步影响。",
+    "firstKnownUse": "1850s, in mathematical contexts as per Oxford English Dictionary (OED)",
+    "relatedWords": [
+      "single",
+      "solitary",
+      "unique"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR, as it requires contextual understanding beyond basic vocabulary)",
+    "pronunciationDifficulty": "5 (moderate, due to the consonant cluster and schwa sounds, which may challenge intermediate learners)",
+    "spellingDifficulty": "4 (relatively straightforward, but the double 'n' and ending can be confusing for Chinese speakers accustomed to different orthographies)",
+    "meaningComplexity": "7 (multiple meanings across domains like computing and statistics, requiring semantic mapping)",
+    "usageComplexity": "6 (depends on context; technical usage needs domain knowledge)",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将不同语境分开记忆；例如，通过视觉映射将 'singleton' 与单一对象的图像关联，以增强海马体记忆；建议通过重复暴露于真实语料中强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unique instance",
+        "similarity": "0.8",
+        "context": "在计算机编程中，适用于描述单例模式"
+      },
+      {
+        "word": "solitary element",
+        "similarity": "0.7",
+        "context": "在统计学中，用于指孤立数据点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "multiple instances",
+        "context": "在编程中，适用于非单例设计"
+      },
+      {
+        "word": "cluster",
+        "context": "在数据分析中，指多个相关元素"
+      }
+    ],
+    "hypernyms": [
+      "entity",
+      "pattern"
+    ],
+    "hyponyms": [
+      "design pattern in software"
+    ],
+    "collocations": [
+      {
+        "pattern": "singleton + noun (e.g., class, object)",
+        "examples": [
+          "singleton class",
+          "singleton object"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + singleton",
+        "examples": [
+          "global singleton"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征技术创新和效率，特别是在科技驱动的社会中；它反映了西方文化对个体主义和精确控制的强调，但在中文文化中，可能与集体主义概念对比，形成跨文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件工程",
+        "usage": "在美国英语中，强调实用性和创新，常见于硅谷文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于游戏或学术语境",
+        "usage": "在英国英语中，保留更多历史用法，如桥牌游戏"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机时代的兴起相关，体现了从机械时代到数字时代的语言演变；在文学中，如狄更斯作品中隐含类似概念，但未直接使用。",
+    "modernUsage": "在社交媒体和在线论坛中，'singleton' 常用于编程讨论，如GitHub或Stack Overflow，反映了全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个孤立的皇冠，代表唯一的存在，就像一个单一的王者。",
+      "keyElements": [
+        "皇冠",
+        "孤立",
+        "唯一"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年时拥有的唯一玩具，触发情感共鸣以加强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'single' as one person, and 'ton' as a heavy load, so 'singleton' is like carrying one heavy item alone.",
+        "explanation": "通过视觉和情感联想帮助记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈsɪŋɡl̩tən/' 听起来像 'sing a lone tune'，代表单一的歌声。",
+        "explanation": "利用声音与图像的联结，促进海马体加工"
+      }
+    ],
+    "wordAssociations": [
+      "single",
+      "alone",
+      "instance"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "singletons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + singleton",
+        "description": "主语 + 动词 + 单例结构，常用于描述具体实例",
+        "examples": [
+          "The system uses a singleton."
+        ]
+      },
+      {
+        "pattern": "Adjective + singleton + in + context",
+        "description": "形容词 + 单例 + 在 + 语境结构，用于指定应用场景",
+        "examples": [
+          "A global singleton in programming."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'single' as in unmarried",
+        "correction": "Use in technical contexts only",
+        "explanation": "中文学习者可能误将之与 'single' 的浪漫含义混淆；需强调语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "singletons",
+        "explanation": "英语复数规则需记忆，避免遗漏 's' "
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "计算机",
+      "统计学"
+    ],
+    "tags": [
+      "技术术语",
+      "编程",
+      "数据分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "word": "denumerable",
+  "phonetics": {
+    "british": "/dɪˈnjuːmərəbl/",
+    "american": "/dɪˈnuːmərəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being put into a one-to-one correspondence with the set of natural numbers; countable, especially in the context of infinite sets.",
+      "chineseTranslation": "可列举的；可数的（尤其是无限可数）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "denumerable set",
+      "meaning": "可列举集合",
+      "example": "A denumerable set can be listed in a sequence without end.",
+      "exampleTranslation": "一个可列举集合可以被列成一个无尽的序列。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "denumerable infinity",
+      "meaning": "可列举无穷",
+      "example": "Denumerable infinity refers to an infinite set that is countable.",
+      "exampleTranslation": "可列举无穷指的是一个可数的无限集合。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In set theory, the set of all rational numbers is denumerable.",
+      "translation": "在集合论中，所有有理数的集合是可列举的。",
+      "source": "Mathematics textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "While the real numbers are uncountable, the integers form a denumerable collection.",
+      "translation": "虽然实数是不可数的，但整数形成一个可列举的集合。",
+      "source": "Academic lecture",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers often discuss denumerable models in the context of computer algorithms.",
+      "translation": "研究人员经常在计算机算法的语境中讨论可列举模型。",
+      "source": "Scientific paper",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "denumerare",
+        "meaning": "to count out or enumerate",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'denumerare'，由前缀 'de-'（表示向下或彻底）和 'numerare'（数）组成。该词在19世纪通过数学语境进入英语，最初用于描述可计数的集合，与乔治·康托尔的集合论发展相关，从广义计数概念演变为特定于无限可数的含义。",
+    "firstKnownUse": "1871",
+    "relatedWords": [
+      "enumerable",
+      "countable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "9",
+    "learningTips": [
+      "结合认知科学原理，使用心智映射工具可视化自然数序列；通过重复练习将抽象概念与具体例子（如列出数字）关联，以增强长期记忆；避免认知 overload，先从简单集合入手逐步扩展。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "countable",
+        "similarity": "0.9",
+        "context": "在数学集合论中，指无限可数的集合"
+      },
+      {
+        "word": "enumerable",
+        "similarity": "0.95",
+        "context": "在计算机科学和逻辑学语境中，指可逐一列出的元素"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uncountable",
+        "context": "在数学中，指不可列举的集合，如实数集"
+      }
+    ],
+    "hypernyms": [
+      "countable"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "denumerable + noun (e.g., set, infinity)",
+        "examples": [
+          "denumerable set",
+          "denumerable infinity"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方数学文化中象征集合论的基础，体现了19世纪理性主义和无穷概念的哲学隐含语义，常与康托尔的无穷理论相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和教育语境",
+        "usage": "在美国的数学课程中作为标准术语，常见于大学教材"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更强调历史语境",
+        "usage": "在英国的数学文献中与拉丁语源相关联，常用于正式讨论"
+      }
+    ],
+    "historicalContext": "与19世纪的数学革命相关，特别是在德国数学家康托尔的集合论发展中，该词反映了欧洲科学启蒙的遗产。",
+    "modernUsage": "在当代数字时代，社交媒体和在线教育中用于讨论算法和数据结构，但主要局限于专业社区。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个无限延伸的阶梯，每一级代表一个自然数，形成一个可列举的序列。",
+      "keyElements": [
+        "无限阶梯",
+        "自然数序列"
+      ],
+      "emotionalConnection": "联结到童年计数游戏的喜悦，触发积极情绪以强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'denumerable' 联想为 'down-number-able'， imagining counting down an endless list.",
+        "explanation": "通过声音和视觉联想，将词根与计数动作连接，运用认知科学中的双编码效应。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-N: Down, Enumerate, Numbers.",
+        "explanation": "使用首字母缩略法创建简单口诀，促进大脑的重复强化机制。"
+      }
+    ],
+    "wordAssociations": [
+      "countable",
+      "infinite",
+      "set"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more denumerable",
+      "superlative": "most denumerable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + denumerable",
+        "description": "用于描述事物的可列举属性",
+        "examples": [
+          "The set is denumerable."
+        ]
+      },
+      {
+        "pattern": "denumerable + noun phrase",
+        "description": "作为定语修饰名词",
+        "examples": [
+          "A denumerable collection of data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'numerable'",
+        "correction": "Use 'denumerable' for countably infinite contexts",
+        "explanation": " 'Numerable' is archaic and not standard; ensure context-specific usage to avoid semantic errors."
+      },
+      {
+        "mistake": "Incorrectly applying to finite sets",
+        "correction": "Reserve for infinite countable sets",
+        "explanation": "该词特指无限可数，避免泛化以符合数学精确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low; approximately 0.01 occurrences per million words in COCA corpus",
+    "domains": [
+      "Mathematics",
+      "Logic",
+      "Computer Science"
+    ],
+    "tags": [
+      "Technical",
+      "Mathematical",
+      "Adjective",
+      "Abstract"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary",
+      "COCA",
+      "Merriam-Webster",
+      "Etymonline"
+    ]
+  }
+}

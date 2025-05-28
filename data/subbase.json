@@ -1,0 +1,232 @@
+{
+  "word": "subbase",
+  "phonetics": {
+    "british": "/ˈsʌb.beɪs/",
+    "american": "/ˈsʌb.beɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In topology, a subcollection of open sets in a topological space such that the finite intersections of these sets form a basis for the topology.",
+      "chineseTranslation": "子基（拓扑学中用于生成拓扑基的子集合）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In civil engineering and construction, a layer of material placed between the subgrade and the base course in a pavement structure to provide support and drainage.",
+      "chineseTranslation": "底层基础（道路结构中位于基层下的支撑层）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subbase layer",
+      "meaning": "底层基础层",
+      "example": "The subbase layer must be compacted to ensure stability.",
+      "exampleTranslation": "底层基础层必须被压实以确保稳定性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "subbase of a topology",
+      "meaning": "拓扑的子基",
+      "example": "A subbase of a topology can simplify the definition of open sets.",
+      "exampleTranslation": "拓扑的子基可以简化开集的定义。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In road construction, the subbase provides essential drainage and support for the asphalt layer.",
+      "translation": "在道路建设中，底层基础为沥青层提供必要的排水和支撑。",
+      "source": "Engineering textbook (e.g., from ASCE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Mathematicians often use a subbase to construct more complex topological spaces.",
+      "translation": "数学家经常使用子基来构建更复杂的拓扑空间。",
+      "source": "Academic paper (e.g., from mathematical journals like Topology and its Applications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The engineer inspected the subbase before pouring the concrete foundation.",
+      "translation": "工程师在浇筑混凝土基础前检查了底层基础。",
+      "source": "News article on infrastructure (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Old French",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "Under or below",
+        "language": "Latin"
+      },
+      {
+        "root": "base",
+        "meaning": "Foundation or bottom layer",
+        "language": "Old French (from Latin basis)"
+      }
+    ],
+    "historicalDevelopment": "The prefix 'sub-' from Latin meaning 'under' combined with 'base' from Old French (derived from Latin basis, meaning 'foundation'). The term evolved in the 19th century in mathematical contexts with the development of topology, and in the 20th century in engineering for construction materials, reflecting advancements in scientific and industrial fields.",
+    "firstKnownUse": "Early 20th century (first recorded in mathematical texts around 1910, and in engineering contexts by the 1930s)",
+    "relatedWords": [
+      "substructure",
+      "subgrade",
+      "basis"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it requires intermediate understanding of technical contexts but not advanced abstraction)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common English phonetic patterns, but the stress on the first syllable may confuse learners with tonal languages like Chinese)",
+    "spellingDifficulty": "5 (out of 10, straightforward with common prefixes, but the compound nature might lead to errors in hyphenation or spelling variations)",
+    "meaningComplexity": "7 (out of 10, due to multiple specialized meanings in different domains, requiring contextual understanding)",
+    "usageComplexity": "6 (out of 10, as it is domain-specific and not used in everyday conversation, based on language learning theory from Krashen's input hypothesis)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个'子基'如拓扑空间中的隐藏层；使用间隔重复系统如Anki来强化记忆；通过语境学习，避免孤立记忆以提升迁移性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "underlayer",
+        "similarity": "0.7",
+        "context": "在工程语境中，用于描述类似底层基础的结构"
+      },
+      {
+        "word": "subcollection",
+        "similarity": "0.8",
+        "context": "在数学语境中，指拓扑子集"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superbase",
+        "context": "在数学中，指更高级的集合结构，与子基相对"
+      }
+    ],
+    "hypernyms": [
+      "base",
+      "layer"
+    ],
+    "hyponyms": [
+      "granular subbase",
+      "topological subbase"
+    ],
+    "collocations": [
+      {
+        "pattern": "subbase + noun (e.g., layer, material)",
+        "examples": [
+          "subbase material",
+          "subbase construction"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "of + subbase (e.g., of a topology)",
+        "examples": [
+          "subbase of the space"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方工程和数学文化中象征技术进步和基础设施稳定性，在现代社会中隐含语义为可靠基础的必要性，但在中国语境中可能与'基建'相关联，强调国家发展。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in engineering with emphasis on materials like aggregate",
+        "usage": "在美国土木工程中，常与高速公路建设相关"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but may include more formal terminology in academic settings",
+        "usage": "在英国，常用于拓扑学教育和建筑标准中"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪数学发展相关，在文学和社会中象征基础科学；在中文文化中，类似于'基础'概念，关联到中国古代建筑哲学如《周易》中的'基'。",
+    "modernUsage": "在社交媒体和在线论坛中，更多用于专业讨论，如Reddit的工程子版块或LinkedIn上的职业分享"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多层蛋糕，其中最底层是'子基'，支撑整个结构。",
+      "keyElements": [
+        "蛋糕底层",
+        "支撑结构"
+      ],
+      "emotionalConnection": "联结到个人经验，如建造沙堡时需要稳固的底层，以触发积极回忆和情绪强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Subbase sounds like 'sub-baseball', imagining a baseball field with a hidden underground layer.",
+        "explanation": "通过声音联想将抽象概念视觉化，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S-U-B: Support Under Base",
+        "explanation": "使用首字母缩写强化记忆路径，结合工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "foundation",
+      "support",
+      "topology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subbases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the subbase of the road)",
+        "description": "作为名词用于描述结构或集合，常置于定语后",
+        "examples": [
+          "The subbase provides stability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing subbase with subgrade",
+        "correction": "Use subbase for the layer above subgrade",
+        "explanation": "Subgrade是地基底层，而subbase是其上的层；错误源于语义相似性"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "subbases (not subbase's)",
+        "explanation": "英语名词复数规则简单，但初级学习者可能添加不必要的撇号"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus, primarily in technical domains)",
+    "domains": [
+      "engineering",
+      "mathematics",
+      "construction"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "infrastructure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "word": "latency",
+  "phonetics": {
+    "british": "/ˈleɪtənsi/",
+    "american": "/ˈleɪtənsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The delay between a stimulus and the response, especially in computing, telecommunications, or psychology, referring to the time it takes for a system to react.",
+      "chineseTranslation": "延迟",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, the state or period of being latent, such as in medicine for the incubation period of a disease.",
+      "chineseTranslation": "潜伏期",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "network latency",
+      "meaning": "网络延迟",
+      "example": "High network latency can significantly affect online gaming experiences.",
+      "exampleTranslation": "高网络延迟会显著影响在线游戏体验。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "audio latency",
+      "meaning": "音频延迟",
+      "example": "Musicians often deal with audio latency when using digital recording equipment.",
+      "exampleTranslation": "音乐家在使用数字录音设备时经常遇到音频延迟问题。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "response latency",
+      "meaning": "响应延迟",
+      "example": "In psychological experiments, response latency measures how quickly a subject reacts to a stimulus.",
+      "exampleTranslation": "在心理学实验中，响应延迟用于测量受试者对刺激的反应速度。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The website's loading time is slowed down by high latency in data transfer.",
+      "translation": "网站的加载时间因数据传输的高延迟而变慢。",
+      "source": "Technical article from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In medical terms, the latency period of the virus can last from days to weeks.",
+      "translation": "在医学术语中，该病毒的潜伏期可能从几天到几周不等。",
+      "source": "Scientific literature, e.g., PubMed",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Reducing latency is crucial for real-time applications like video conferencing.",
+      "translation": "减少延迟对于实时应用如视频会议至关重要。",
+      "source": "News article from BNC",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "latens",
+        "meaning": "hidden or lying low",
+        "language": "Latin"
+      },
+      {
+        "root": "latere",
+        "meaning": "to lie hidden",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'latens'（隐藏的，现形分词形式）演变而来，通过古法语 'latence' 进入英语。最初用于哲学和医学指潜伏状态，17 世纪后扩展到技术领域，指延迟时间。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "latent",
+      "lateness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'latency' 与常见技术场景关联，例如想象网络延迟如交通拥堵；使用重复间隔法（spaced repetition）复习相关例句，以强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "delay",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如网络通信中"
+      },
+      {
+        "word": "lag",
+        "similarity": "0.7",
+        "context": "常用于游戏或实时系统语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "immediacy",
+        "context": "适用于强调即时响应的语境，如实时处理"
+      },
+      {
+        "word": "instantaneity",
+        "context": "在正式或技术讨论中，表示无延迟状态"
+      }
+    ],
+    "hypernyms": [
+      "delay",
+      "period"
+    ],
+    "hyponyms": [
+      "network latency",
+      "processing latency"
+    ],
+    "collocations": [
+      {
+        "pattern": "latency in [context]",
+        "examples": [
+          "latency in data transfer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "reduce [word]",
+        "examples": [
+          "reduce latency"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征技术效率和用户体验，常隐含对即时性的追求，体现后工业社会对速度的崇拜。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，常与互联网相关联，如在硅谷文化中强调最小化延迟"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于正式或学术语境",
+        "usage": "在英国英语中，常出现在科学文献中，强调历史演变"
+      }
+    ],
+    "historicalContext": "与工业革命和数字时代相关，最初在19世纪医学中用于疾病潜伏期，后来在20世纪计算机科学中普及，反映了科技进步对语言的影响。",
+    "modernUsage": "在社交媒体和在线平台上流行，例如TikTok或Zoom讨论中，用于描述视频延迟问题，体现全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个等待信号的场景，如一个人在拥挤的火车站等待列车，代表延迟过程。",
+      "keyElements": [
+        "火车站",
+        "等待信号",
+        "时钟滴答"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆网络游戏中的 frustration 情绪，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Latency 听起来像 'late entry'，想象迟到的客人进入派对。",
+        "explanation": "通过声音联想（音似法）将词汇与日常生活场景连接，促进长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "L-A-T-E: Late And Time Elapse",
+        "explanation": "使用首字母缩写结合解释，基于认知心理学中的编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "delay",
+      "wait",
+      "lag",
+      "response"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "latencies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + latency",
+        "description": "名词作为主语或宾语的结构，常用于描述延迟现象。",
+        "examples": [
+          "The latency affects performance."
+        ]
+      },
+      {
+        "pattern": "In + latency + of",
+        "description": "表示在特定延迟中的结构。",
+        "examples": [
+          "In the latency of the system, errors occur."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'lateness'",
+        "correction": "Use 'latency' for technical delays, not general tardiness.",
+        "explanation": "由于语义重叠，学习者可能混淆；需区分语境以避免误用。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'latencies' for plural forms.",
+        "explanation": "作为可数名词，需正确添加 -es 以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "medicine"
+    ],
+    "tags": [
+      "technical",
+      "computing",
+      "psychology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster",
+      "BNC"
+    ]
+  }
+}

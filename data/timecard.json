@@ -1,0 +1,242 @@
+{
+  "word": "timecard",
+  "phonetics": {
+    "british": "/ˈtaɪm.kɑːd/",
+    "american": "/ˈtaɪm.kɑrd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A card used by employees to record the times at which they start and stop work, often by punching or swiping.",
+      "chineseTranslation": "时间卡",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, a digital or electronic record of time worked, used in payroll systems.",
+      "chineseTranslation": "工作时间记录",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "punch the timecard",
+      "meaning": "打卡记录工作时间",
+      "example": "Employees must punch the timecard at the beginning and end of their shift.",
+      "exampleTranslation": "员工必须在轮班开始和结束时打时间卡。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sign the timecard",
+      "meaning": "签名确认工作时间",
+      "example": "Make sure to sign the timecard after verifying your hours.",
+      "exampleTranslation": "核实工作时间后，确保在时间卡上签名。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She forgot to punch her timecard this morning, so her hours weren't recorded.",
+      "translation": "她今天早上忘记打时间卡，所以她的工作时间没有被记录。",
+      "source": "Modern workplace communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many offices, the timecard system has been replaced by biometric scanners for better accuracy.",
+      "translation": "在许多办公室，时间卡系统已被生物识别扫描仪取代，以提高准确性。",
+      "source": "Business news article (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He glanced at his timecard and realized he had worked overtime again.",
+      "translation": "他看了一眼时间卡，发现自己又加班了。",
+      "source": "Contemporary fiction (e.g., inspired by everyday narratives)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "time",
+        "meaning": "A measure of duration",
+        "language": "Old English (from Proto-Germanic *tīmô)"
+      },
+      {
+        "root": "card",
+        "meaning": "A stiff piece of paper or thin cardboard",
+        "language": "Middle English (from Old French 'carte', ultimately from Latin 'charta')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪工业革命时期，用于跟踪工厂工人的工作时间。从最初的机械打卡系统演变为现代数字记录，反映了劳动管理和效率的演变过程。",
+    "firstKnownUse": "Circa 1880, in industrial contexts in the United States and Britain",
+    "relatedWords": [
+      "timesheet",
+      "clock card",
+      "attendance record"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆词汇；将timecard与个人工作经验联想，增强语境记忆；通过视觉化想象办公室场景来强化词汇关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "timesheet",
+        "similarity": "0.8",
+        "context": "适用于商业和人力资源语境中记录工作时间的场合"
+      },
+      {
+        "word": "clock card",
+        "similarity": "0.7",
+        "context": "多用于传统打卡系统，强调物理设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flexitime",
+        "context": "表示灵活工作时间制度，与固定时间卡记录相对"
+      }
+    ],
+    "hypernyms": [
+      "record",
+      "document"
+    ],
+    "hyponyms": [
+      "punch card",
+      "electronic timecard"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + timecard (e.g., punch, sign, check)",
+        "examples": [
+          "punch the timecard",
+          "sign the timecard"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "timecard + noun (e.g., system, machine)",
+        "examples": [
+          "timecard system",
+          "timecard machine"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征现代职场文化中的时间管理和劳动监控，在西方文化中隐含效率和责任的价值观；在跨文化语境中，中国职场可能更强调集体性，而timecard则突出个人责任。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于数字HR系统",
+        "usage": "在硅谷科技公司中，timecard常指电子应用，以适应灵活工作制"
+      },
+      {
+        "region": "英国",
+        "variation": "可能使用'clocking-in card'作为替代",
+        "usage": "在传统制造业中，强调物理打卡的文化背景"
+      }
+    ],
+    "historicalContext": "与工业革命和福特主义相关，代表了19世纪末劳动标准化；在文学和社会评论中，如查尔斯·狄更斯的作品中，隐喻了工人异化。",
+    "modernUsage": "在社交媒体和远程工作语境下，timecard正演变为数字工具，如手机应用，反映了后疫情时代的工作灵活性趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个办公室场景：员工拿着时间卡站在打卡机前，钟表 ticking，代表时间流逝。",
+      "keyElements": [
+        "打卡机",
+        "钟表",
+        "办公室环境"
+      ],
+      "emotionalConnection": "联结到个人第一次上班的经历，触发责任感和时间压力的情绪，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Timecard 像 'time' 的 'card'，想象一张卡片上写满时钟图案。",
+        "explanation": "通过视觉联想将词汇与时间概念连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈtaɪm.kɑrd/ 听起来像 'time card'，联想到扑克牌上的时间标记。",
+        "explanation": "利用声音与图像的联觉，帮助记忆拼写和发音"
+      }
+    ],
+    "wordAssociations": [
+      "clock",
+      "punch",
+      "work hours"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "timecards",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the timecard system)",
+        "description": "作为名词使用，常在句子中描述工具或系统",
+        "examples": [
+          "The timecard is essential for payroll."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., punch the timecard)",
+        "description": "与动词搭配，表示动作",
+        "examples": [
+          "She punched the timecard quickly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'credit card'",
+        "correction": "Use 'timecard' only for work tracking",
+        "explanation": "由于拼写相似，学习者可能混淆语义；需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "timecards (add -s)",
+        "explanation": "英语名词复数规则简单，但初级学习者易遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "business",
+      "human resources",
+      "technology"
+    ],
+    "tags": [
+      "workplace",
+      "time management",
+      "labor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

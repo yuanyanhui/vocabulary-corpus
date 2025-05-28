@@ -1,0 +1,259 @@
+{
+  "word": "tests",
+  "phonetics": {
+    "british": "/tests/",
+    "american": "/tɛsts/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A procedure intended to evaluate the knowledge, skills, abilities, or performance of an individual or system; often used in educational, medical, or scientific contexts.",
+      "chineseTranslation": "测试",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To carry out an examination or trial of something to determine its quality, functionality, or truth.",
+      "chineseTranslation": "测试；检验",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "Multiple instances of examinations or trials, as in a series of assessments.",
+      "chineseTranslation": "多次测试",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take tests",
+      "meaning": "参加测试",
+      "example": "Students have to take tests at the end of each semester.",
+      "exampleTranslation": "学生们必须在每个学期末参加测试。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "run tests",
+      "meaning": "进行测试",
+      "example": "The engineers will run tests on the new software before release.",
+      "exampleTranslation": "工程师们会在发布新软件前进行测试。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "standardized tests",
+      "meaning": "标准化测试",
+      "example": "Many countries use standardized tests to measure educational outcomes.",
+      "exampleTranslation": "许多国家使用标准化测试来衡量教育成果。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor ordered several tests to diagnose the patient's condition.",
+      "translation": "医生下令进行几次测试来诊断病人的状况。",
+      "source": "Medical literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She tests new recipes every weekend in her kitchen.",
+      "translation": "她每个周末在厨房测试新食谱。",
+      "source": "Daily life contexts (e.g., BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In software development, developers often tests code for bugs under various conditions.",
+      "translation": "在软件开发中，开发者经常在各种条件下测试代码中的错误。",
+      "source": "Technical articles (e.g., from academic sources)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "testum",
+        "meaning": "An earthen pot or vessel",
+        "language": "Latin"
+      },
+      {
+        "root": "testa",
+        "meaning": "Shell or potsherd, metaphorically extended to mean a trial or proof",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 testum（意为陶土锅）演变而来，用于比喻性地表示检验或测试的过程；中世纪拉丁语中发展为 testare（证明），最终在英语中于14世纪出现，扩展到教育和科学领域的现代含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "testify",
+      "testament",
+      "attest"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'tests' 与相关语境如教育场景关联，以增强长时记忆；通过重复暴露（spaced repetition）练习不同语域下的用法，以减少混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "examinations",
+        "similarity": "0.8",
+        "context": "适用于教育或正式评估语境"
+      },
+      {
+        "word": "assessments",
+        "similarity": "0.7",
+        "context": "常用于学术或专业评价中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "certainties",
+        "context": "表示无需测试的确定性情况"
+      },
+      {
+        "word": "assumptions",
+        "context": "未经验证的假设，与测试的验证过程相对"
+      }
+    ],
+    "hypernyms": [
+      "evaluations"
+    ],
+    "hyponyms": [
+      "quizzes",
+      "exams",
+      "diagnostics"
+    ],
+    "collocations": [
+      {
+        "pattern": "Verb + tests (e.g., conduct tests)",
+        "examples": [
+          "Conduct tests on the prototype."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Noun + tests (e.g., medical tests)",
+        "examples": [
+          "Perform medical tests."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征教育公平和绩效评估，常隐含竞争与压力，如在美国的高考文化中代表社会流动性。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式教育语境，如 GCSE tests",
+        "usage": "在英国，tests 常与国家考试系统相关联，强调标准化"
+      },
+      {
+        "region": "United States",
+        "variation": "更宽泛，包括SAT tests等标准化考试",
+        "usage": "在美国，tests 反映了教育改革和多元评估趋势"
+      }
+    ],
+    "historicalContext": "与工业革命后的科学方法论相关，19世纪教育改革中tests兴起，用于量化能力和知识。",
+    "modernUsage": "在社交媒体和在线平台上，tests 常用于心理测试或病毒式挑战，如TikTok上的性格tests，体现数字时代的娱乐化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，里面有各种器具在进行测试，如试管和电脑屏幕。",
+      "keyElements": [
+        "实验室",
+        "试管",
+        "电脑"
+      ],
+      "emotionalConnection": "联结个人考试经历的紧张感，以触发情感记忆加深词汇保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'tests' as 'T-E-S-T-S' where each letter stands for 'Try Every Skill To Succeed'.",
+        "explanation": "通过视觉联想和首字母缩写，利用认知科学中的双编码理论（dual coding）将抽象概念转化为具体图像。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/tɛsts/' 像 'test stress'，联想到考试压力。",
+        "explanation": "使用声音联想强化听觉记忆，基于认知心理学中的多模态学习。"
+      }
+    ],
+    "wordAssociations": [
+      "exams",
+      "trials",
+      "checks"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tests",
+      "pastTense": "tested",
+      "pastParticiple": "tested",
+      "presentParticiple": "testing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + tests",
+        "description": "主语 + 动词 + tests 结构，常用于主动句",
+        "examples": [
+          "She tests the hypothesis."
+        ]
+      },
+      {
+        "pattern": "Tests + as + noun",
+        "description": "tests 作为名词的定语结构",
+        "examples": [
+          "The tests are challenging."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'tests' interchangeably with 'test' without context",
+        "correction": "Distinguish between singular and plural forms",
+        "explanation": "学习者常忽略复数形式，导致语义模糊；建议通过语境练习避免。"
+      },
+      {
+        "mistake": "Incorrect verb tense in sentences",
+        "correction": "Use 'tested' for past actions",
+        "explanation": "中级学习者可能混淆时态，影响句子流畅性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Science",
+      "Medicine",
+      "Technology"
+    ],
+    "tags": [
+      "Assessment",
+      "Evaluation",
+      "Verification"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

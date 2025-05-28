@@ -1,0 +1,248 @@
+{
+  "word": "applicative",
+  "phonetics": {
+    "british": "/əˈplɪkətɪv/",
+    "american": "/əˈplɪkətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a computational style or function that applies operations to values in a structured way, often used in functional programming to sequence effects.",
+      "chineseTranslation": "应用的；应用式的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of functor or structure in category theory that allows for the application of functions within a context.",
+      "chineseTranslation": "应用函子或结构",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "applicative functor",
+      "meaning": "应用函子",
+      "example": "In Haskell, an applicative functor is a type class for applicative computations.",
+      "exampleTranslation": "在Haskell中，应用函子是一种用于应用计算的类型类。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "applicative programming",
+      "meaning": "应用式编程",
+      "example": "Applicative programming emphasizes pure functions and data transformation.",
+      "exampleTranslation": "应用式编程强调纯函数和数据转换。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The applicative style in programming allows for more modular code by applying functions to wrapped values.",
+      "translation": "编程中的应用式风格通过将函数应用到包装的值中来实现更模块化的代码。",
+      "source": "Technical documentation, such as Haskell tutorials",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers are exploring applicative approaches to handle concurrent operations in software development.",
+      "translation": "研究人员正在探索应用式方法来处理软件开发中的并发操作。",
+      "source": "Academic papers from computer science journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Using an applicative functor can simplify error handling in functional languages.",
+      "translation": "使用应用函子可以简化函数式语言中的错误处理。",
+      "source": "Online programming forums like Stack Overflow",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "applicare",
+        "meaning": "to join or attach",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "to, toward",
+        "language": "Latin"
+      },
+      {
+        "root": "plicare",
+        "meaning": "to fold or bend",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'applicare'，意为'连接或应用'，通过古法语演变为英语，在17世纪开始用于一般应用含义，19世纪后在技术领域扩展至编程和数学语境中。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "apply",
+      "application",
+      "applicable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将词汇与编程概念关联；通过视觉映射将 'applicative' 想象为'应用工具'，并重复在代码练习中应用以强化记忆；避免混淆相似词汇，通过对比分析增强语义区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "functional",
+        "similarity": "0.7",
+        "context": "在编程语境中，用于描述函数应用的结构"
+      },
+      {
+        "word": "applicable",
+        "similarity": "0.8",
+        "context": "更一般的技术语境中，表示可应用的"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "imperative",
+        "context": "在编程中，与命令式编程相对，表示非应用式的结构"
+      },
+      {
+        "word": "declarative",
+        "context": "在某些语境中，与声明式编程对比"
+      }
+    ],
+    "hypernyms": [
+      "programming paradigm"
+    ],
+    "hyponyms": [
+      "applicative functor"
+    ],
+    "collocations": [
+      {
+        "pattern": "applicative + noun (e.g., functor, style)",
+        "examples": [
+          "applicative functor",
+          "applicative programming"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + applicative context",
+        "examples": [
+          "in applicative contexts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征高效和模块化编程，体现了功能式编程的哲学，即强调纯函数和数据不变性，无直接社会隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学教育和行业标准",
+        "usage": "在美国，特别是在硅谷，'applicative' 常见于编程讨论和开源社区"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术语境中更正式",
+        "usage": "在英国大学，如牛津，强调其在数学和逻辑学中的历史根源"
+      }
+    ],
+    "historicalContext": "与启蒙运动的理性主义相关，源自拉丁语，反映了西方科学方法的应用导向；在20世纪计算机革命中，与图灵和冯诺依曼的工作关联。",
+    "modernUsage": "现代社交媒体和在线论坛（如Reddit、GitHub）中流行，用于讨论编程趋势，体现全球技术社区的跨文化交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工具箱，其中 'applicative' 像一把钥匙，打开函数的'应用'门。",
+      "keyElements": [
+        "工具箱",
+        "钥匙",
+        "函数应用"
+      ],
+      "emotionalConnection": "联结个人编程经历的挫败感，通过成功应用函数时的成就感来强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'applicative' 联想为 'apply + active'，表示积极的应用。",
+        "explanation": "通过声音和语义联想，增强词汇在认知网络中的位置，帮助初级学习者快速回忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "A-P-P: Apply, Program, Pure",
+        "explanation": "使用缩略词与关键概念关联，基于认知负荷理论减少记忆负担。"
+      }
+    ],
+    "wordAssociations": [
+      "apply",
+      "function",
+      "functor",
+      "programming"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more applicative",
+      "superlative": "most applicative"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词修饰名词，描述编程元素",
+        "examples": [
+          "applicative functor"
+        ]
+      },
+      {
+        "pattern": "In + Applicative + Context",
+        "description": "在句子中表示语境",
+        "examples": [
+          "In applicative programming"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'applicable'",
+        "correction": "Use 'applicative' for programming contexts only",
+        "explanation": "学习者常混淆二者含义；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /æplɪkeɪtɪv/",
+        "correction": "Pronounce as /əˈplɪkətɪv/",
+        "explanation": "错误发音可能源于拼写影响；使用IPA练习音频纠正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 10,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "computer science",
+      "academics"
+    ],
+    "tags": [
+      "programming",
+      "functional programming",
+      "mathematics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Online"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "importer",
+  "phonetics": {
+    "british": "/ɪmˈpɔːtə(r)/",
+    "american": "/ɪmˈpɔrtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or company that buys and brings in goods from foreign countries for sale or trade.",
+      "chineseTranslation": "进口商",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a function or module that brings data or code from another source into a program.",
+      "chineseTranslation": "导入器",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "major importer",
+      "meaning": "主要进口国或进口商",
+      "example": "China is a major importer of soybeans from the United States.",
+      "exampleTranslation": "中国是从美国进口大豆的主要进口国。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "net importer",
+      "meaning": "净进口国，即进口量大于出口量的国家",
+      "example": "The country became a net importer of oil after its domestic production declined.",
+      "exampleTranslation": "该国在国内生产下降后成为石油的净进口国。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The importer negotiated a new deal with the overseas supplier to reduce costs.",
+      "translation": "进口商与海外供应商谈判了一笔新协议以降低成本。",
+      "source": "Business news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Python programming, an importer is used to load modules dynamically.",
+      "translation": "在Python编程中，导入器用于动态加载模块。",
+      "source": "Technical documentation",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a small business owner, she acts as an importer for luxury goods from Europe.",
+      "translation": "作为一名小企业主，她充当欧洲奢侈品进口商的角色。",
+      "source": "Literature excerpt",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "importare",
+        "meaning": "to bring in or carry in",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'importare'，意为'带入'或'引进'。在中世纪拉丁语中演变为商业语境，意思是引入货物。通过古法语'importer'传入英语，在16世纪开始用于贸易语境，逐渐扩展到现代经济和计算机领域的含义。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "import",
+      "export",
+      "porter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将'importer'与'export'等相关词汇分组记忆，以增强语义关联；",
+      "使用视觉辅助工具，如思维导图，将词汇置于贸易流程的语境中，强化长期记忆；",
+      "通过重复暴露（spaced repetition）在不同情境下练习，减少干扰效应"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "exporter",
+        "similarity": "0.7",
+        "context": "在贸易语境中，二者均涉及国际货物流动，但'importer'侧重引进而非输出"
+      },
+      {
+        "word": "supplier",
+        "similarity": "0.6",
+        "context": "商业环境中，'importer'常与供应商互动，但前者强调进口角色"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exporter",
+        "context": "贸易语境中，'exporter'表示出口者，与'importer'形成对立"
+      },
+      {
+        "word": "producer",
+        "context": "经济语境中，'producer'表示生产者，通常不依赖进口"
+      }
+    ],
+    "hypernyms": [
+      "trader",
+      "business entity"
+    ],
+    "hyponyms": [
+      "food importer",
+      "oil importer"
+    ],
+    "collocations": [
+      {
+        "pattern": "importer of [noun]",
+        "examples": [
+          "importer of electronics",
+          "importer of raw materials"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] importer",
+        "examples": [
+          "major importer",
+          "key importer"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在全球化经济中，'importer'象征着国际贸易的依赖性和经济互惠，常隐含文化交流的层面，如美国作为技术进口商促进创新",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更强调欧盟贸易语境",
+        "usage": "在英国英语中，常与脱欧相关议题结合，使用频率较高"
+      },
+      {
+        "region": "United States",
+        "variation": "侧重于 NAFTA 或双边贸易协议",
+        "usage": "在美国英语中，经常出现在政策讨论中，体现经济独立性"
+      }
+    ],
+    "historicalContext": "该词与18世纪工业革命相关，当时英国作为主要进口商推动了殖民贸易；在中国文化中，类似概念见于丝绸之路的古代进口活动",
+    "modernUsage": "在社交媒体和电子商务平台上，'importer'常用于讨论全球供应链，如亚马逊的进口业务，反映当代数字经济趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个港口场景：船只驶入，装载着货物，一位商人（importer）在码头检查进口品，这有助于将词汇与实际贸易图像关联",
+      "keyElements": [
+        "港口",
+        "船只",
+        "货物",
+        "商人"
+      ],
+      "emotionalConnection": "联结个人购物经验，如从海外购买商品，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'importer'联想为'import + er'，想象一个人（er）在进口（import）东西",
+        "explanation": "通过词根分解和视觉联想，应用认知联想原理简化记忆过程"
+      },
+      {
+        "type": "缩略",
+        "content": "I-M-P: In, Move, Person – 表示引进、移动、人员",
+        "explanation": "使用首字母缩略结合故事法，帮助初级学习者构建叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "export",
+      "trade",
+      "supply chain",
+      "globalization"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "importers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + importer + of + object",
+        "description": "主语+动词+importer+of+宾语的结构，常用于描述进口角色",
+        "examples": [
+          "The company is an importer of luxury cars."
+        ]
+      },
+      {
+        "pattern": "Importer as subject in sentences",
+        "description": "importer作为主语的句型，强调其主动性",
+        "examples": [
+          "Importers face challenges from tariffs."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'exporter'",
+        "correction": "Use 'importer' for bringing in goods",
+        "explanation": "学习者常混淆二者含义，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "importers (simply add -s)",
+        "explanation": "作为常规名词，拼写简单，但初学者可能遗忘复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 in COCA corpus",
+    "domains": [
+      "business",
+      "economics",
+      "technology"
+    ],
+    "tags": [
+      "trade",
+      "commerce",
+      "import-export"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

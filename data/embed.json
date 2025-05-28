@@ -1,0 +1,260 @@
+{
+  "word": "embed",
+  "phonetics": {
+    "british": "/ɪmˈbɛd/",
+    "american": "/ɛmˈbɛd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fix firmly and deeply in a surrounding mass; to insert or include something within another substance or context.",
+      "chineseTranslation": "嵌入；固定",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing or media, to insert code, video, or other content into a webpage or document so that it functions as part of that medium.",
+      "chineseTranslation": "嵌入（如代码或媒体）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that is firmly fixed or inserted into another substance.",
+      "chineseTranslation": "嵌入物",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "embed in",
+      "meaning": "将某物固定或插入到另一物中",
+      "example": "You can embed the video in your website for better user engagement.",
+      "exampleTranslation": "你可以将视频嵌入到你的网站中，以提高用户参与度。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "embedded system",
+      "meaning": "内置系统，指嵌入式计算机系统",
+      "example": "An embedded system is used in smartphones to manage hardware functions.",
+      "exampleTranslation": "嵌入式系统用于智能手机中来管理硬件功能。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "embed into",
+      "meaning": "将某物嵌入到另一物内部",
+      "example": "The journalist decided to embed into the military unit for a firsthand report.",
+      "exampleTranslation": "记者决定嵌入军事单位以获得第一手报道。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The fossils were embedded in the rock layers, preserving ancient history.",
+      "translation": "化石被嵌入岩层中，保存了古代历史。",
+      "source": "Scientific literature, such as geology texts from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Social media platforms allow users to embed tweets directly into their blog posts.",
+      "translation": "社交媒体平台允许用户将推文直接嵌入到他们的博客文章中。",
+      "source": "Modern digital media, from BNC corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In journalism, reporters often embed with troops during conflicts to report accurately.",
+      "translation": "在新闻业中，记者经常嵌入部队中以在冲突期间进行准确报道。",
+      "source": "News articles, e.g., from The Guardian",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "em-",
+        "meaning": "in or into",
+        "language": "Latin (from in-)"
+      },
+      {
+        "root": "bed",
+        "meaning": "a place to lie or be placed",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的 'embedden'，由 'en-'（意为 'in' 或 'into'）和 'bed'（意为 '床' 或 '基底'）组合而成。最初用于描述物理固定，如将物体置入基质中。17世纪后扩展到比喻意义，如在文学和科技中表示嵌入概念，到20世纪在计算和媒体领域广泛使用。",
+    "firstKnownUse": "1778",
+    "relatedWords": [
+      "imbed",
+      "embedment"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'embed' 与类似词汇如 'insert' 分组记忆，以减少认知负荷；",
+      "通过视觉联想将词汇与实际场景关联，例如想象 'embed' 如将钻石嵌入戒指中，以强化海马体记忆路径；",
+      "针对中国学习者，建议使用双语对照练习，避免母语干扰，遵循斯宾塞-韦伯认知模型逐步增加复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "insert",
+        "similarity": "0.8",
+        "context": "在技术或日常语境中，用于描述将物体或数据放入另一物中"
+      },
+      {
+        "word": "implant",
+        "similarity": "0.7",
+        "context": "在医学或比喻语境中，表示永久性固定"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extract",
+        "context": "在科学或技术语境中，用于从环境中移除物体"
+      },
+      {
+        "word": "remove",
+        "context": "在日常或数字语境中，表示从位置中取出"
+      }
+    ],
+    "hypernyms": [
+      "fix",
+      "place"
+    ],
+    "hyponyms": [
+      "integrate",
+      "encapsulate"
+    ],
+    "collocations": [
+      {
+        "pattern": "embed in [noun]",
+        "examples": [
+          "Embed the code in the HTML file",
+          "Embed the journalist in the team"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "embedded [adjective] system",
+        "examples": [
+          "Embedded computing system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，'embed' 象征着内容整合和共享，如在社交媒体上嵌入视频，体现了全球信息流动的隐含语义，促进跨文化交流；",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如嵌入式软件",
+        "usage": "在美国英语中，常见于科技和媒体行业，以强调创新和整合"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于军事或新闻语境，如嵌入部队",
+        "usage": "在英国英语中，更注重历史和正式语境，使用频率略低"
+      }
+    ],
+    "historicalContext": "该词与工业革命和数字时代相关联，例如在19世纪的工程学中用于物理嵌入，20世纪在二战期间的新闻报道中流行，如嵌入部队报道战争；",
+    "modernUsage": "在当代社交媒体和在线教育中广泛使用，反映了全球化趋势，中国学习者可通过平台如YouTube嵌入视频来理解其实际应用"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个珠宝匠将一颗钻石嵌入戒指中，象征着牢固固定和整合",
+      "keyElements": [
+        "钻石",
+        "戒指",
+        "固定过程"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆童年玩拼图游戏的满足感，以激发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'embed' 联想为 'em-bed'，'em' 如电子邮件，'bed' 如床铺，表示将东西放入舒适的位置",
+        "explanation": "通过声音和图像联想增强海马体记忆，利用Elaborative Rehearsal方法"
+      },
+      {
+        "type": "缩略",
+        "content": "E-M-B-E-D: Enter, Merge, Build, Embed, Deepen",
+        "explanation": "每个字母代表一个步骤，帮助构建叙事记忆链"
+      }
+    ],
+    "wordAssociations": [
+      "insert",
+      "implant",
+      "fix"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "embedded",
+      "pastParticiple": "embedded",
+      "presentParticiple": "embedding",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + embed + object + in + prepositional phrase",
+        "description": "主语 + 嵌入 + 宾语 + 在 + 介词短语",
+        "examples": [
+          "We embed the code in the application."
+        ]
+      },
+      {
+        "pattern": "Embed + object + as + complement",
+        "description": "嵌入 + 宾语 + 作为 + 补语",
+        "examples": [
+          "Embed videos as part of the lesson."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'embed' interchangeably with 'imbed' without context",
+        "correction": "Use 'embed' as the standard form",
+        "explanation": "虽然 'imbed' 是变体，但 'embed' 更常见；中国学习者易混淆拼写"
+      },
+      {
+        "mistake": "Confusing verb and noun forms in sentences",
+        "correction": "Ensure correct part of speech based on context",
+        "explanation": "初级学习者可能错误地将动词用作名词，反之亦然"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "media",
+      "science"
+    ],
+    "tags": [
+      "computing",
+      "integration",
+      "fixing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

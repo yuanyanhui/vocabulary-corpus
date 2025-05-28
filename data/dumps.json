@@ -1,0 +1,272 @@
+{
+  "word": "dumps",
+  "phonetics": {
+    "british": "/dʌmps/",
+    "american": "/dʌmps/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A site for depositing rubbish or waste materials.",
+      "chineseTranslation": "垃圾场",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To deposit or unload something, especially in a careless or hasty manner.",
+      "chineseTranslation": "倾倒或丢弃",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To end a relationship suddenly and unceremoniously.",
+      "chineseTranslation": "突然结束关系",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "colloquial"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a file or output containing a copy of data from memory.",
+      "chineseTranslation": "内存转储",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dump truck",
+      "meaning": "一种用于运输和倾倒散装材料的卡车",
+      "example": "The construction site used a dump truck to haul away the debris.",
+      "exampleTranslation": "建筑工地使用一辆自卸卡车运走碎片。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dump someone",
+      "meaning": "突然抛弃某人，通常指结束恋爱关系",
+      "example": "She decided to dump him after discovering his lies.",
+      "exampleTranslation": "她发现他的谎言后决定甩了他。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "memory dump",
+      "meaning": "将计算机内存内容复制到一个文件的操作",
+      "example": "The technician performed a memory dump to diagnose the error.",
+      "exampleTranslation": "技术员执行了内存转储来诊断错误。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The city council voted to close the old dumps near the residential area.",
+      "translation": "市议会投票决定关闭住宅区附近的旧垃圾场。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He dumps his old clothes in the charity bin every year.",
+      "translation": "他每年都把旧衣服丢进慈善箱。",
+      "source": "Everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In programming, a core dump can help developers debug crashes.",
+      "translation": "在编程中，核心转储可以帮助开发者调试崩溃问题。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After the argument, she threatened to dump him for good.",
+      "translation": "争吵后，她威胁说要永远甩了他。",
+      "source": "Literature (e.g., modern novel)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English from Middle Dutch 'dompen', meaning to fall or plunge",
+    "rootWords": [
+      {
+        "root": "dump",
+        "meaning": "To fall or immerse",
+        "language": "Middle Dutch"
+      },
+      {
+        "root": "domp",
+        "meaning": "A state of melancholy or a fall",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "起源于中古荷兰语的'dompen'，最初指下沉或坠落，逐渐演变为现代英语中表示倾倒废物或突然结束关系的含义，通过中古英语的演变反映了社会对废弃和情感断裂的隐喻性描述",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "dumpster",
+      "dumping",
+      "plunge"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复间隔法来记忆多义词；将'dumps'与个人生活经验关联，如想象垃圾场的视觉画面，以增强语境记忆；对于初级学习者，优先练习基本含义，再逐步扩展到技术语境"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "discard",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述丢弃物品"
+      },
+      {
+        "word": "abandon",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于结束关系"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "keep",
+        "context": "在物品存储语境中，表示保留而非倾倒"
+      },
+      {
+        "word": "maintain",
+        "context": "在关系语境中，表示持续而非结束"
+      }
+    ],
+    "hypernyms": [
+      "waste sites",
+      "actions"
+    ],
+    "hyponyms": [
+      "landfill",
+      "break up"
+    ],
+    "collocations": [
+      {
+        "pattern": "dump + noun (e.g., dump waste)",
+        "examples": [
+          "They dump waste in the designated area."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "dump + someone",
+        "examples": [
+          "He decided to dump his girlfriend."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中常与环境保护和消费主义相关联，象征现代社会对资源的浪费；在英国文学中，可能隐含情感低落或社会排斥的隐喻",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如'memory dump'",
+        "usage": "在日常对话中强调实用性，例如描述垃圾处理"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向非正式用法，如'dump someone'",
+        "usage": "在社交语境中带有幽默或讽刺语气"
+      }
+    ],
+    "historicalContext": "与工业革命时期的废物管理相关联，在20世纪文学中如乔治·奥威尔的作品中象征社会不公",
+    "modernUsage": "在社交媒体上流行用于关系动态，例如Twitter上的幽默表达"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个垃圾场场景，其中物品被倾倒，伴随情感断裂的画面",
+      "keyElements": [
+        "垃圾堆积",
+        "卡车倾倒",
+        "破碎的心形"
+      ],
+      "emotionalConnection": "联结个人分手经历，以触发情绪记忆增强词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'dumps'联想为'dump sadness'，想象倾倒负面情绪",
+        "explanation": "通过视觉联想帮助记忆多义性，基于认知科学的情感编码原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/dʌmps/听起来像重物落下，联想到坠落的感觉",
+        "explanation": "利用声音与动作的联觉来强化发音记忆"
+      }
+    ],
+    "wordAssociations": [
+      "garbage",
+      "breakup",
+      "data backup"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dumps",
+      "pastTense": "dumped",
+      "pastParticiple": "dumped",
+      "presentParticiple": "dumping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语+动词+宾语结构，常用于描述动作",
+        "examples": [
+          "They dump the waste."
+        ]
+      },
+      {
+        "pattern": "Verb + someone",
+        "description": "动词+某人结构，用于非正式关系语境",
+        "examples": [
+          "She dumps him."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'dumps' with 'dumpsite' as a single word",
+        "correction": "Use 'dumps' as a noun separately",
+        "explanation": "学习者常将合成词误用；需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'dumped' for present",
+        "correction": "Use 'dumps' for present simple",
+        "explanation": "基于英语时态规则，避免母语干扰"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 1500 in COCA corpus",
+    "domains": [
+      "environment",
+      "technology",
+      "relationships"
+    ],
+    "tags": [
+      "waste management",
+      "informal language",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

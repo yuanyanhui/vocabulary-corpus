@@ -1,0 +1,232 @@
+{
+  "word": "minima",
+  "phonetics": {
+    "british": "/ˈmɪnɪmə/",
+    "american": "/ˈmɪnəmə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The plural form of 'minimum', referring to the lowest values, points, or quantities in a set, often used in mathematical, scientific, or statistical contexts.",
+      "chineseTranslation": "最小值或最小点（复数形式）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "local minima",
+      "meaning": "局部最小值，指在函数或数据集中低于附近点的值",
+      "example": "The algorithm identifies local minima in the dataset.",
+      "exampleTranslation": "该算法识别数据集中的局部最小值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "global minima",
+      "meaning": "全局最小值，指整个数据集或函数中的最低点",
+      "example": "Finding global minima is essential for optimization problems.",
+      "exampleTranslation": "找到全局最小值对于优化问题至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In calculus, minima represent the points where the function reaches its lowest values.",
+      "translation": "在微积分中，最小值代表函数达到最低点的点。",
+      "source": "Academic textbook (e.g., from mathematics education resources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The economist analyzed the minima of the cost curve to determine efficient production levels.",
+      "translation": "经济学家分析了成本曲线的最小值，以确定高效的生产水平。",
+      "source": "Business and economics literature (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must account for minima in temperature data to design reliable systems.",
+      "translation": "工程师必须考虑温度数据的最小值来设计可靠的系统。",
+      "source": "Technical reports (e.g., engineering journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "minimum",
+        "meaning": "The smallest or least",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'minimum'，是 'minim us' 的中性形式，意为 '最小的'。在中世纪拉丁语中，用于数学和科学语境，逐渐演变为英语中表示最低点或值的复数形式。在17世纪的科学革命中，该词开始在英语中广泛用于描述极值点。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "minimum",
+      "maxima",
+      "minimize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化图表（如函数曲线）记忆最小值概念，以强化空间记忆；使用间隔重复法复习技术术语，避免混淆相似词汇；将词与个人经验关联，例如将 'minima' 联想到日常温度最低点，以提升情感记忆效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "minimum points",
+        "similarity": "0.9",
+        "context": "适用于数学或科学语境中描述最低值的场景"
+      },
+      {
+        "word": "lowest values",
+        "similarity": "0.8",
+        "context": "在统计或数据分析中，用于非正式解释"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maxima",
+        "context": "在数学函数中，用于对比最高点与最低点"
+      },
+      {
+        "word": "peaks",
+        "context": "在科学数据中，表示最高值，与最小值相对"
+      }
+    ],
+    "hypernyms": [
+      "extrema"
+    ],
+    "hyponyms": [
+      "local minima",
+      "global minima"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + minima",
+        "examples": [
+          "local minima",
+          "global minima"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + minima",
+        "examples": [
+          "identify minima",
+          "reach minima"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征精确性和优化，常用于强调理性分析和问题解决；在跨文化语境中，中国学习者可能将其与中医或传统数据分析（如阴阳平衡）关联，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于学术语境，使用频率较高",
+        "usage": "在英国英语中，常见于教育和科研讨论"
+      },
+      {
+        "region": "United States",
+        "variation": "在技术应用中更常见，如工程和商业",
+        "usage": "在美国英语中，常与数据科学工具结合使用"
+      }
+    ],
+    "historicalContext": "与17世纪的科学启蒙运动相关，如牛顿的微积分发展，该词反映了欧洲理性主义传统；在现代，中国文化中，可与古代数学思想（如《九章算术》）进行对比，以促进跨文化学习。",
+    "modernUsage": "在社交媒体和在线教育平台上，'minima' 常用于数据可视化和AI讨论，反映数字时代的信息优化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个山谷中的最低点，代表函数曲线上的最小值。",
+      "keyElements": [
+        "山谷",
+        "曲线",
+        "最低点"
+      ],
+      "emotionalConnection": "联结到个人经历，如早晨温度最低时的清新感觉，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'minima' 联想为 'mini mountain' 的最低处",
+        "explanation": "通过视觉联想强化词形和意义，基于认知科学的空间记忆原则"
+      },
+      {
+        "type": "缩略",
+        "content": "M-I-N-I-M-A 代表 'Most Important Numerical Low Areas'",
+        "explanation": "使用首字母缩写创建故事，提升词汇保留率"
+      }
+    ],
+    "wordAssociations": [
+      "minimum",
+      "valley",
+      "optimize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null (已是复数形式)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "常作为名词短语出现，与形容词或动词搭配",
+        "examples": [
+          "The local minima are critical."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于描述位置或状态",
+        "examples": [
+          "At the minima of the curve."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'minimum' (singular)",
+        "correction": "Use 'minima' for plural contexts",
+        "explanation": "学习者常混淆单复数形式，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with appropriate adjectives like 'local' or 'global'",
+        "explanation": "错误搭配可能改变精确性，需注意语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "plural noun"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

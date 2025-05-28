@@ -1,0 +1,245 @@
+{
+  "word": "invariance",
+  "phonetics": {
+    "british": "/ɪnˈveər.i.əns/",
+    "american": "/ɪnˈvɛr.i.əns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of remaining unchanged under a set of transformations or conditions.",
+      "chineseTranslation": "不变性",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics and physics, a property that persists despite variations in form or context.",
+      "chineseTranslation": "不变属性",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gauge invariance",
+      "meaning": "规范不变性",
+      "example": "Gauge invariance is essential for the consistency of electromagnetic theories.",
+      "exampleTranslation": "规范不变性是电磁理论一致性的关键。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Lorentz invariance",
+      "meaning": "洛伦兹不变性",
+      "example": "Lorentz invariance underpins the principles of special relativity.",
+      "exampleTranslation": "洛伦兹不变性是狭义相对论的基本原则。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The invariance of physical laws across different frames of reference is a cornerstone of modern physics.",
+      "translation": "物理定律在不同参考系下的不变性是现代物理学的基础。",
+      "source": "Scientific literature (e.g., physics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In computer science, invariance helps ensure that algorithms maintain correctness during execution.",
+      "translation": "在计算机科学中，不变性有助于确保算法在执行过程中保持正确性。",
+      "source": "Technical articles (e.g., from ACM publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Artists often explore themes of invariance in abstract works, where patterns remain constant amid chaos.",
+      "translation": "艺术家们经常在抽象作品中探讨不变性的主题，在混乱中保持图案的恒定。",
+      "source": "Art and cultural criticism",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "not",
+        "language": "Latin"
+      },
+      {
+        "root": "varius",
+        "meaning": "varied or changing",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'invarians'，意为 '不变化的'，通过法语传入英语。在19世纪的数学和物理学中演变为现代含义，最初用于描述几何形状在变换下的不变属性，后来扩展到更广泛的科学领域。",
+    "firstKnownUse": "1847",
+    "relatedWords": [
+      "invariant",
+      "variance",
+      "invariability"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 5,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 7,
+    "usageComplexity": 6,
+    "learningTips": [
+      "使用间隔重复法来强化记忆技术术语；将词汇与视觉图示（如变换前后相同的图形）相结合，以利用认知图式；通过个人经验联想，例如将不变性与日常生活中的稳定元素相关联，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "constancy",
+        "similarity": "0.7",
+        "context": "在一般科学语境中，表示持久不变的性质"
+      },
+      {
+        "word": "unchangingness",
+        "similarity": "0.8",
+        "context": "在抽象或哲学讨论中，强调稳定的属性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "variance",
+        "context": "在统计或科学语境中，表示变化或差异"
+      },
+      {
+        "word": "variability",
+        "context": "在描述动态系统时，表示易变性"
+      }
+    ],
+    "hypernyms": [
+      "property",
+      "attribute"
+    ],
+    "hyponyms": [
+      "symmetry",
+      "conservation law"
+    ],
+    "collocations": [
+      {
+        "pattern": "invariance under [transformation]",
+        "examples": [
+          "invariance under rotation",
+          "invariance under scaling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "principle of invariance",
+        "examples": [
+          "the principle of invariance in physics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征着普遍性和永恒性，常与相对论和量子力学等理论相关，隐含着对自然规律的尊重。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于在学术写作中使用正式表达",
+        "usage": "在高等教育和科研中常见，强调理论精确性"
+      },
+      {
+        "region": "美国",
+        "variation": "在技术领域如AI和工程中更常用，表达可能更简洁",
+        "usage": "在STEM教育和产业应用中广泛，用于跨学科讨论"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和科学革命相关，特别是在爱因斯坦相对论的背景下出现，体现了西方文化对客观性和不变原理的追求。",
+    "modernUsage": "在社交媒体和在线论坛中，常用于科学普及或辩论，如Reddit上的物理讨论，但需注意跨文化语境，以避免专业术语的误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个旋转中的圆形物体，它的外形在不同角度下保持不变。",
+      "keyElements": [
+        "圆形",
+        "旋转",
+        "稳定"
+      ],
+      "emotionalConnection": "联结到个人生活中不变的事物，如家庭传统，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "In-variance: 'In' means not, so not varying—like a rock in a storm.",
+        "explanation": "通过前缀和词根的联想，利用认知关联来强化记忆，避免混淆相似词汇"
+      },
+      {
+        "type": "visualization",
+        "content": "Picture a mirror image that stays the same no matter how you turn it.",
+        "explanation": "运用视觉想象法，根据认知科学原理增强空间记忆"
+      }
+    ],
+    "wordAssociations": [
+      "constant",
+      "stable",
+      "unchanging"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "invariances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] of [subject]",
+        "description": "用作名词，描述某事物的属性或状态",
+        "examples": [
+          "the invariance of the equation"
+        ]
+      },
+      {
+        "pattern": "[Noun] ensures invariance",
+        "description": "在句子中表示确保不变性的结构",
+        "examples": [
+          "Design ensures invariance under various conditions"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'invariance' with 'invariant'",
+        "correction": "Use 'invariance' as a noun and 'invariant' as an adjective.",
+        "explanation": "由于词形相似，初学者常混淆词性；通过区分语境可避免错误"
+      },
+      {
+        "mistake": "Overgeneralizing to non-technical contexts",
+        "correction": "Limit to technical usage unless specified.",
+        "explanation": "中级学习者可能错误应用于日常语言；强调语域的重要性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA语料库中学术子库排名约5000，BNC中低频）",
+    "domains": [
+      "科学",
+      "数学",
+      "物理学"
+    ],
+    "tags": [
+      "技术性",
+      "抽象",
+      "科学术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

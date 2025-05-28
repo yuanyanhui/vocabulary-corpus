@@ -1,0 +1,240 @@
+{
+  "word": "ceil",
+  "phonetics": {
+    "british": "/siːl/",
+    "american": "/siːl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide or cover with a ceiling, such as lining the interior roof of a room.",
+      "chineseTranslation": "用天花板覆盖或装饰（如室内屋顶）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (in mathematical contexts)",
+      "definition": "A function that rounds a number up to the nearest integer greater than or equal to it.",
+      "chineseTranslation": "向上取整函数（将数字向上舍入到最接近的整数）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ceil a room",
+      "meaning": "给房间安装天花板",
+      "example": "The contractors will ceil the room with wooden panels for a rustic look.",
+      "exampleTranslation": "承包商将用木板给房间安装天花板，以营造乡村风格。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "math.ceil()",
+      "meaning": "数学函数，用于向上取整",
+      "example": "In programming, you can use math.ceil(4.2) to get 5.",
+      "exampleTranslation": "在编程中，你可以使用 math.ceil(4.2) 来得到 5。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old house needed to be ceiled to improve insulation.",
+      "translation": "这座老房子需要安装天花板来改善隔热效果。",
+      "source": "Architectural literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often use the ceil function to handle floating-point numbers in calculations.",
+      "translation": "程序员经常使用向上取整函数来处理浮点数计算。",
+      "source": "Technical documentation, e.g., Python manuals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After ceil the attic, the space became more usable for storage.",
+      "translation": "安装天花板后，阁楼空间变得更适合用于存储。",
+      "source": "Home improvement guides",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "celen",
+        "meaning": "To cover or conceal",
+        "language": "Middle English"
+      },
+      {
+        "root": "ciel",
+        "meaning": "Sky or heaven",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "The word derives from Middle English 'celen', which evolved from Old French 'ciel' meaning 'sky' or 'heaven'. Over time, it came to mean covering the upper part of a room, symbolizing a barrier between the earthly and celestial. In modern usage, especially in mathematics, it has been adapted as a technical term for rounding up, first appearing in mathematical contexts in the 20th century.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "ceiling",
+      "ceiled",
+      "ceilless"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将 'ceil' 的发音与视觉图像（如天花板结构）结合；对于初学者，建议通过重复性练习和语境关联，避免混淆与 'seal' 的发音差异；使用间隔重复系统（Spaced Repetition Systems）来强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "line",
+        "similarity": "0.7",
+        "context": "在建筑语境中，用于描述覆盖表面"
+      },
+      {
+        "word": "round up",
+        "similarity": "0.8",
+        "context": "在数学语境中，用于向上取整"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "floor",
+        "context": "在数学中，表示向下取整，与 'ceil' 相对"
+      }
+    ],
+    "hypernyms": [
+      "cover",
+      "function"
+    ],
+    "hyponyms": [
+      "mathematical ceiling function"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + object (e.g., ceil a room)",
+        "examples": [
+          "ceil the walls",
+          "ceil with panels"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "function in code (e.g., math.ceil())",
+        "examples": [
+          "import math; result = math.ceil(3.7)"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方建筑文化中，'ceil' 象征着家庭空间的完善和隐私保护，隐含着对舒适与安全的追求；在技术文化中，它代表精确性和逻辑处理。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical and programming contexts",
+        "usage": "在美国英语中，'ceil' 常出现在计算机科学教育中，强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Primarily architectural, with less emphasis on mathematical usage",
+        "usage": "在英国英语中，更常用于建筑描述，反映历史建筑传统"
+      }
+    ],
+    "historicalContext": "源自中世纪欧洲建筑实践，'ceil' 与哥特式建筑的屋顶设计相关；在20世纪，与计算机科学的兴起相结合，成为数字时代的关键术语。",
+    "modernUsage": "在社交媒体和在线论坛中，'ceil' 常用于编程讨论，如 Reddit 或 Stack Overflow，常与算法优化相关"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个房间的天花板正在被安装，数字如4.2向上跳到5，就如天花板 'ceiling' 升起。",
+      "keyElements": [
+        "天花板安装",
+        "向上箭头",
+        "数字跳跃"
+      ],
+      "emotionalConnection": "联结到个人经验，如装修房屋时的成就感，或编程成功时的满足感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'ceil' as 'ceiling up' – it always goes up like a roof.",
+        "explanation": "通过视觉联想将词汇与上升的概念连接，利用认知联想来强化记忆路径"
+      },
+      {
+        "type": "声音联觉",
+        "content": "The sound 'ceil' rhymes with 'seal', but imagine a seal jumping up to the ceiling.",
+        "explanation": "使用声音相似性创建幽默联想，帮助区分发音并提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "ceiling",
+      "round",
+      "upward",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "ceiled",
+      "pastParticiple": "ceiled",
+      "presentParticiple": "ceiling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + object",
+        "description": "动词后接直接宾语，表示动作对象",
+        "examples": [
+          "They ceil the room."
+        ]
+      },
+      {
+        "pattern": "In function calls",
+        "description": "在编程中，作为函数使用",
+        "examples": [
+          "math.ceil(value)"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'ceiling' as a noun",
+        "correction": "Use 'ceil' only as a verb or function",
+        "explanation": "学习者常将 'ceil' 与 'ceiling' 混淆；需通过语境区分词性"
+      },
+      {
+        "mistake": "Incorrect usage in math contexts",
+        "correction": "Ensure proper syntax, e.g., math.ceil() in code",
+        "explanation": "初级学习者可能遗漏函数调用格式，导致语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked low in general corpora (e.g., COCA: approximately 0.01 per million words), higher in technical domains",
+    "domains": [
+      "architecture",
+      "mathematics",
+      "computer science"
+    ],
+    "tags": [
+      "technical",
+      "building",
+      "mathematical function"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

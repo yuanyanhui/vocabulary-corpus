@@ -1,0 +1,235 @@
+{
+  "word": "isolator",
+  "phonetics": {
+    "british": "/ˈaɪsəleɪtə(r)/",
+    "american": "/ˈaɪsəleɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or component that isolates electrical circuits, signals, or systems to prevent interference or direct current flow while allowing alternating current or other signals to pass.",
+      "chineseTranslation": "隔离器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "optical isolator",
+      "meaning": "光学隔离器，用于防止光信号干扰",
+      "example": "The optical isolator in the fiber optic system prevents back reflections.",
+      "exampleTranslation": "光纤系统中的光学隔离器防止了反向反射。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "galvanic isolator",
+      "meaning": "电隔离器，用于隔离电气回路",
+      "example": "A galvanic isolator is essential for protecting sensitive equipment from voltage spikes.",
+      "exampleTranslation": "电隔离器对于保护敏感设备免受电压尖峰至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers installed an isolator in the circuit to minimize electromagnetic interference.",
+      "translation": "工程师在电路中安装了一个隔离器，以最小化电磁干扰。",
+      "source": "Technical manuals (e.g., IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In medical devices, an isolator ensures patient safety by separating power sources.",
+      "translation": "在医疗设备中，隔离器通过分离电源确保患者安全。",
+      "source": "Scientific articles (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The network administrator used an isolator to protect the server from external threats.",
+      "translation": "网络管理员使用隔离器保护服务器免受外部威胁。",
+      "source": "IT documentation (e.g., Cisco guides)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "insula",
+        "meaning": "island",
+        "language": "Latin"
+      },
+      {
+        "root": "isolate",
+        "meaning": "to set apart",
+        "language": "French (from Latin)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'insula'（意为岛屿），通过法语 'isoler' 演变为英语 'isolate'，最终扩展为 'isolator'，表示将事物分离以防止干扰。从17世纪开始用于科学和技术语境中，反映了工业革命时期对隔离概念的需求。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "isolate",
+      "insulate",
+      "segregate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过视觉联想将 'isolator' 与孤岛图像联系起来，利用认知科学中的双编码效应；重复练习技术语境中的句子以强化记忆路径；结合个人经验，如想象隔离墙，增强情绪关联以改善长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "separator",
+        "similarity": "0.8",
+        "context": "在工程语境中，用于分隔组件"
+      },
+      {
+        "word": "insulator",
+        "similarity": "0.7",
+        "context": "在电气语境中，用于防止电流流动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "connector",
+        "context": "在技术语境中，表示连接而非分离"
+      },
+      {
+        "word": "integrator",
+        "context": "在系统设计语境中，表示整合组件"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "component"
+    ],
+    "hyponyms": [
+      "optical isolator",
+      "galvanic isolator"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + isolator (e.g., electrical isolator)",
+        "examples": [
+          "Use an electrical isolator in high-voltage systems."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + isolator (e.g., install an isolator)",
+        "examples": [
+          "Engineers install isolators to enhance safety."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科技文化中，该词象征安全和隔离，体现了对风险控制的重视，如在工业革命和现代数字时代用于防范电磁干扰。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于电子和IT领域",
+        "usage": "在美国英语中，常在工程手册中出现，强调实用性和创新"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于历史技术语境",
+        "usage": "在英国英语中，与传统工程实践相关联，如在铁路或电力系统"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命相关的发明有关，象征了对机械和电气系统的安全改进；在文学中，如狄更斯作品中，隐喻社会隔离。",
+    "modernUsage": "在社交媒体和科技新闻中，流行用于讨论网络安全和COVID-19隔离措施的比喻。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个孤立的岛屿，周围有屏障，代表隔离功能。",
+      "keyElements": [
+        "岛屿",
+        "屏障",
+        "保护"
+      ],
+      "emotionalConnection": "联想到个人经历中的安全感，如在家中的隔离空间，触发积极情绪以加深记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Isolator 像 'island creator'，创建隔离的岛屿。",
+        "explanation": "通过声音和图像联想，将 'isolator' 与 'island' 连接，利用认知科学中的语义网络。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-S-O-L-A-T-O-R: Isolate Safely Or Lose Access To Operations Reliably.",
+        "explanation": "使用首字母缩略词来构建故事，增强回忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "isolate",
+      "barrier",
+      "protector"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "isolators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Isolator",
+        "description": "名词作为主语或宾语的典型结构",
+        "examples": [
+          "The isolator protects the circuit."
+        ]
+      },
+      {
+        "pattern": "Prepositional Phrase with Isolator",
+        "description": "使用介词短语表示位置或功能",
+        "examples": [
+          "Install the isolator in the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'insulator'",
+        "correction": "Use 'isolator' for signal isolation, 'insulator' for thermal/electrical insulation.",
+        "explanation": "二者虽相关，但语义不同；学习者需注意技术语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural (isolators).",
+        "explanation": "作为规则名词，避免遗漏复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "医疗"
+    ],
+    "tags": [
+      "技术词汇",
+      "工程术语",
+      "安全"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "word": "isotherm",
+  "phonetics": {
+    "british": "/ˈaɪsəʊθɜːm/",
+    "american": "/ˈaɪsəθɝm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A line on a map that connects points of equal temperature at a given time or on average over a given period.",
+      "chineseTranslation": "等温线",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In thermodynamics, a curve on a graph representing the relationship between pressure and volume of a gas at constant temperature.",
+      "chineseTranslation": "在热力学中，表示气体在恒定温度下压力与体积关系的曲线",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "isothermal process",
+      "meaning": "等温过程，指系统温度保持不变的过程",
+      "example": "An isothermal process in thermodynamics maintains constant temperature throughout.",
+      "exampleTranslation": "热力学中的等温过程在整个过程中保持温度不变。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "isotherm map",
+      "meaning": "等温线图，用于显示地图上温度等值线的图表",
+      "example": "Meteorologists use an isotherm map to visualize temperature gradients across regions.",
+      "exampleTranslation": "气象学家使用等温线图来可视化各区域的温度梯度。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The isotherm on the weather map indicated that temperatures would remain consistent along the eastern coast.",
+      "translation": "气象图上的等温线显示东海岸的温度将保持一致。",
+      "source": "Meteorological reports (e.g., from BBC Weather)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physics class, we plotted isotherms to understand how gases behave under constant temperature.",
+      "translation": "在物理课上，我们绘制等温线来理解气体在恒温下的行为。",
+      "source": "Educational textbook (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Climate scientists rely on isotherms to predict the impact of global warming on polar regions.",
+      "translation": "气候科学家依赖等温线来预测全球变暖对极地地区的影响。",
+      "source": "Scientific literature (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "iso-",
+        "meaning": "equal",
+        "language": "Greek"
+      },
+      {
+        "root": "thermos",
+        "meaning": "heat",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'isos'（意为相等）和 'thermos'（意为热）。该词在19世纪早期由科学家引入英语，用于描述温度等值线，首先在气象学和物理学中发展，逐渐扩展到热力学领域，以反映温度分布的科学概念。",
+    "firstKnownUse": "1830s",
+    "relatedWords": [
+      "isobar",
+      "isoline"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将'isotherm'的发音与视觉图像（如一条连接等温点的线条）结合；对于中文学习者，建议通过重复性间隔学习（spaced repetition）记忆希腊词根，以增强长期保留；避免混淆类似科学术语，通过语境关联强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "temperature contour",
+        "similarity": "0.8",
+        "context": "在地图或图表中用于表示温度分布的语境"
+      },
+      {
+        "word": "isopiestic line",
+        "similarity": "0.7",
+        "context": "在热力学背景下，表示等温状态的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "adiabatic line",
+        "context": "表示无热交换过程，与等温线相对的热力学语境"
+      }
+    ],
+    "hypernyms": [
+      "contour line"
+    ],
+    "hyponyms": [
+      "dry adiabat",
+      "saturated adiabat"
+    ],
+    "collocations": [
+      {
+        "pattern": "draw an isotherm",
+        "examples": [
+          "Scientists draw an isotherm on maps to show equal temperatures."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "isotherm in thermodynamics",
+        "examples": [
+          "The isotherm in thermodynamics represents constant temperature processes."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征精确性和数据可视化，尤其在气象学和环境科学中代表全球气候变化的监测工具，无显著的隐含社会隐喻，但体现了现代科学对客观性的追求。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式学术语境",
+        "usage": "在英国英语中，常见于气象预报和教育材料中，以强调精确的温度分布"
+      },
+      {
+        "region": "United States",
+        "variation": "在美式英语中，可能更侧重于热力学应用",
+        "usage": "在美国，常用于气候模型和工程领域，以反映实用性导向"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和气象学兴起相关，首次在欧洲科学界使用，体现了启蒙运动对自然规律的探索；在文学中，如H.G. Wells的作品中偶尔出现，象征科学进步。",
+    "modernUsage": "在当代社交媒体和数字平台上，特别是在气候变化讨论中流行，用于科普内容，如Twitter上的气象推文。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一张世界地图，上面有一条蓝色的线连接着相同温度的城市，如北京和上海的等温线。",
+      "keyElements": [
+        "蓝色线条",
+        "温度计",
+        "地图"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆北京的寒冷冬天，以触发情感记忆并强化词汇保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Isotherm sounds like 'ice storm', so picture a storm where temperatures are equal, like in a frozen landscape.",
+        "explanation": "通过声音联想和视觉意象结合认知科学中的多模态学习原理，帮助中文学习者快速回想词义。"
+      },
+      {
+        "type": "缩略",
+        "content": "ISO = Equal, THERM = Heat; so ISO-THERM = Equal Heat.",
+        "explanation": "利用词根分解法，基于结构化记忆技巧，减少认知负荷。"
+      }
+    ],
+    "wordAssociations": [
+      "thermometer",
+      "isobar",
+      "contour"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "isotherms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词出现在句子中，表示具体概念",
+        "examples": [
+          "The isotherm crosses the equator."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "与介词结合使用，如'in an isotherm'",
+        "examples": [
+          "Changes occur in an isotherm environment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'isobar'",
+        "correction": "Use 'isotherm' for temperature and 'isobar' for pressure.",
+        "explanation": "中文学习者常因词根相似而混淆；通过语境区分可避免错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural: isotherms.",
+        "explanation": "英语名词规则简单，但科学术语需注意一致性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "meteorology",
+      "physics"
+    ],
+    "tags": [
+      "technical",
+      "geographical",
+      "thermodynamics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

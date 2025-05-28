@@ -1,0 +1,234 @@
+{
+  "word": "extranet",
+  "phonetics": {
+    "british": "/ˈɛkstrənɛt/",
+    "american": "/ˈɛkstrəˌnɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a private network that uses internet protocols and technology to securely share part of an organization's information or operations with external parties, such as suppliers, partners, or customers.",
+      "chineseTranslation": "外联网",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "corporate extranet",
+      "meaning": "企业外联网",
+      "example": "The company implemented a corporate extranet to facilitate secure data sharing with vendors.",
+      "exampleTranslation": "公司实施了企业外联网来促进与供应商的安全数据共享。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "secure extranet",
+      "meaning": "安全的外联网",
+      "example": "Access to the secure extranet is restricted to authorized users only.",
+      "exampleTranslation": "安全的外联网仅限于授权用户访问。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many businesses use an extranet to collaborate with external partners without exposing their entire internal network.",
+      "translation": "许多企业使用外联网与外部合作伙伴协作，而不暴露其整个内部网络。",
+      "source": "Business and technology articles (e.g., from Harvard Business Review)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The extranet provides a platform for real-time document sharing between the company and its suppliers.",
+      "translation": "外联网为公司与其供应商之间提供实时文档共享平台。",
+      "source": "Technical manuals (e.g., IT industry reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the era of digital transformation, an extranet can enhance supply chain efficiency.",
+      "translation": "在数字化转型时代，外联网可以提升供应链效率。",
+      "source": "News articles (e.g., from BBC or The New York Times)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "extra-",
+        "meaning": "outside or beyond",
+        "language": "Latin (from 'extra', meaning 'outside')"
+      },
+      {
+        "root": "net",
+        "meaning": "network",
+        "language": "English (short for 'network')"
+      }
+    ],
+    "historicalDevelopment": "詞源於1990年代的英語，源自'intranet'的變體，其中'intra-'表示'內部'，而'extra-'表示'外部'。該詞隨著互聯網技術的發展而演變，從簡單的內部網絡擴展到外部安全共享系統，反映了全球數字化轉型的趨勢。",
+    "firstKnownUse": "1990s",
+    "relatedWords": [
+      "intranet",
+      "internet",
+      "network"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用認知科學的間隔重複法來記憶詞彙，將'extranet'與日常生活中的網絡安全情境聯繫；建議通過視覺化圖表比較'intranet'和'extranet'，以增強語義區分和記憶保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "private network",
+        "similarity": "0.8",
+        "context": "適用於技術或商業語境中，需要安全數據共享的場景"
+      },
+      {
+        "word": "extended network",
+        "similarity": "0.7",
+        "context": "用於描述擴展到外部的網絡系統"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "intranet",
+        "context": "適用於內部網絡系統，而非外部共享"
+      },
+      {
+        "word": "public network",
+        "context": "適用於完全公開的網絡，如互聯網"
+      }
+    ],
+    "hypernyms": [
+      "network"
+    ],
+    "hyponyms": [
+      "business extranet",
+      "educational extranet"
+    ],
+    "collocations": [
+      {
+        "pattern": "extranet + for + purpose",
+        "examples": [
+          "extranet for suppliers"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "secure + extranet",
+        "examples": [
+          "build a secure extranet"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "該詞在現代商業文化中象徵著數字化合作和信息安全，反映了全球化時代下企業間的信任與共享。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常見於科技行業的正式用語",
+        "usage": "在美國企業環境中，常與雲計算技術結合使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "類似於美國，但更強調數據保護法規如GDPR",
+        "usage": "在英國，經常出現在政府和企業報告中，以突出外部合作的安全性"
+      }
+    ],
+    "historicalContext": "與20世紀末的互聯網革命相關，源自企業對內部網絡的擴展，體現了信息時代的社會變革，如在矽谷文化中的創新應用。",
+    "modernUsage": "在社交媒體和線上會議平台中流行，如Zoom或Microsoft Teams的外部共享功能，體現了後疫情時代的遠程合作趨勢。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個鎖住的門，外面是合作夥伴，門內是公司網絡，這代表了'extranet'的安全外部連接。",
+      "keyElements": [
+        "鎖門",
+        "外部合作者",
+        "網絡線"
+      ],
+      "emotionalConnection": "聯想到個人經驗中的線上團隊合作，激發安全感和信任的情緒"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Extra net means outside network, like extra milk outside the fridge.",
+        "explanation": "通過簡單的日常物品聯想來強化'extra-'的意思，基於認知科學的圖像記憶原則"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Extranet sounds like 'exit network', meaning a way out to share data.",
+        "explanation": "利用音似聯想來加深發音和語義的記憶，符合聲音-意義整合的認知模式"
+      }
+    ],
+    "wordAssociations": [
+      "network",
+      "secure",
+      "share"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "extrnets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + extranet",
+        "description": "作為主語或賓語出現的典型結構",
+        "examples": [
+          "The extranet connects our partners."
+        ]
+      },
+      {
+        "pattern": "extranet + for + noun",
+        "description": "表示目的的從屬結構",
+        "examples": [
+          "We use an extranet for collaboration."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing extranet with intranet",
+        "correction": "Use extranet for external networks and intranet for internal ones",
+        "explanation": "這是因為二者相似度高，學習者需區分語境"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'extrnets' correctly as a regular noun",
+        "explanation": "英語名詞規則變化易被忽略，尤其對中級學習者"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "communication"
+    ],
+    "tags": [
+      "IT",
+      "networking",
+      "digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

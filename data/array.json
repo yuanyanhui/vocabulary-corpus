@@ -1,0 +1,250 @@
+{
+  "word": "array",
+  "phonetics": {
+    "british": "/əˈreɪ/",
+    "american": "/əˈreɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an impressive display or range of a particular type of thing",
+      "chineseTranslation": "一系列；一组；排列",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an ordered arrangement, in particular of data or objects",
+      "chineseTranslation": "数组；排列有序的集合",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to arrange or display something in a particular way",
+      "chineseTranslation": "排列；布置",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an array of",
+      "meaning": "一系列；一大批",
+      "example": "The store offers an array of products for all tastes.",
+      "exampleTranslation": "这家商店提供适合各种口味的一系列产品。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "array against",
+      "meaning": "排列对抗；联合反对",
+      "example": "Forces were arrayed against the enemy in a strategic formation.",
+      "exampleTranslation": "部队以战略阵型排列对抗敌人。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The museum displayed an impressive array of ancient artifacts.",
+      "translation": "博物馆展示了一系列令人印象深刻的古代文物。",
+      "source": "general usage",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, an array is used to store multiple values in a single variable.",
+      "translation": "在编程中，数组用于在一个变量中存储多个值。",
+      "source": "technical context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The soldiers were arrayed in perfect order along the battlefield.",
+      "translation": "士兵们在战场上排列得井井有条。",
+      "source": "literary context",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "arayer",
+        "meaning": "to put in order",
+        "language": "Old French"
+      },
+      {
+        "root": "rei",
+        "meaning": "order",
+        "language": "Latin (via Old French)"
+      }
+    ],
+    "historicalDevelopment": "‘Array’ 源自古法语 ‘arayer’，意为‘排列’或‘准备’，进一步追溯到拉丁语词根 ‘rei’，意为‘秩序’。最初用于描述军事排列或准备，后来扩展到一般意义上的‘排列’或‘一系列’。在现代英语中，‘array’ 既可指物理排列，也可用于抽象概念，如数据结构。",
+    "firstKnownUse": "13世纪",
+    "relatedWords": [
+      "arrange",
+      "order",
+      "rank"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "将 ‘array’ 与视觉化的‘排列’场景联系起来，比如想象一排整齐的士兵或超市货架上的商品。",
+      "区分技术语境（数组）和一般语境（一系列）中的不同用法，结合具体场景记忆。",
+      "通过短语 ‘an array of’ 反复练习，增强语感。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "range",
+        "similarity": "0.8",
+        "context": "指一系列或范围时适用"
+      },
+      {
+        "word": "collection",
+        "similarity": "0.7",
+        "context": "指一组事物时适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disarray",
+        "context": "指混乱或无序时适用"
+      }
+    ],
+    "hypernyms": [
+      "group",
+      "arrangement"
+    ],
+    "hyponyms": [
+      "matrix",
+      "vector"
+    ],
+    "collocations": [
+      {
+        "pattern": "an array of + 名词",
+        "examples": [
+          "an array of options",
+          "an array of colors"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "array + against",
+        "examples": [
+          "array forces against the enemy"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "‘Array’ 在英语中常带有‘多样性’或‘丰富性’的隐含意义，尤其在商业或展示语境中，象征选择丰富或视觉上的整齐美观。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在技术领域（如编程）中使用更为频繁",
+        "usage": "常指数据结构中的‘数组’"
+      },
+      {
+        "region": "英国",
+        "variation": "更常用于文学或正式语境",
+        "usage": "常指‘排列’或‘一系列’"
+      }
+    ],
+    "historicalContext": "在历史语境中，‘array’ 常用于描述中世纪军队的阵型或贵族服饰的华丽展示，与权力和秩序相关联。",
+    "modernUsage": "在现代语境中，‘array’ 广泛用于科技领域（如编程中的数组）和商业广告语境（如产品系列），反映了技术发展和消费文化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个超市货架上整齐排列的各种商品，五颜六色，种类繁多，形成一个令人印象深刻的 ‘array’。",
+      "keyElements": [
+        "货架",
+        "商品",
+        "整齐排列"
+      ],
+      "emotionalConnection": "联想到购物时的兴奋感或选择时的满足感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "‘array’ 听起来像 ‘a ray’（一道光），想象一道光照亮整齐排列的事物。",
+        "explanation": "通过发音与视觉意象结合，强化记忆。"
+      },
+      {
+        "type": "语义联想",
+        "content": "将 ‘array’ 与 ‘排列（arrange）’联系起来，记住两者都与‘秩序’有关。",
+        "explanation": "利用词义和词根的关联性帮助记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "range",
+      "arrange",
+      "display"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "arrays",
+      "pastTense": "arrayed",
+      "pastParticiple": "arrayed",
+      "presentParticiple": "arraying",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "an array of + 名词",
+        "description": "表示‘一系列’或‘一大批’，常用于描述多样性或数量多。",
+        "examples": [
+          "an array of choices"
+        ]
+      },
+      {
+        "pattern": "array + 名词 + against + 名词",
+        "description": "表示‘排列对抗’，多用于正式或军事语境。",
+        "examples": [
+          "array troops against the enemy"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "误用为 ‘a ray’（一道光）",
+        "correction": "注意拼写和发音区分，‘array’ 指‘排列’而非‘光线’。",
+        "explanation": "发音相近易混淆，需结合语境区分。"
+      },
+      {
+        "mistake": "在技术语境中误用为其他数据结构术语",
+        "correction": "‘array’ 特指数组，与 ‘list’ 或 ‘matrix’ 有区别。",
+        "explanation": "技术语境中需准确使用术语，避免泛化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "约 5000 名（基于 COCA 语料库）",
+    "domains": [
+      "technology",
+      "general",
+      "literature"
+    ],
+    "tags": [
+      "arrangement",
+      "diversity",
+      "data structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

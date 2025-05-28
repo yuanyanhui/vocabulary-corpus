@@ -1,0 +1,260 @@
+{
+  "word": "architecture",
+  "phonetics": {
+    "british": "/ˈɑːkɪtɛktʃə/",
+    "american": "/ˈɑːrkɪtɛktʃər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The art and science of designing and constructing buildings and other physical structures.",
+      "chineseTranslation": "建筑学",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The style in which buildings are designed and constructed, often reflecting cultural or historical influences.",
+      "chineseTranslation": "建筑风格",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The complex or carefully designed structure of something, such as a computer system or an organization.",
+      "chineseTranslation": "结构设计（如计算机体系结构）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software architecture",
+      "meaning": "软件的整体设计和结构",
+      "example": "The software architecture must be scalable to handle increasing user demands.",
+      "exampleTranslation": "软件架构必须是可扩展的，以处理不断增加的用户需求。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "modern architecture",
+      "meaning": "现代建筑风格，通常强调简约和功能性",
+      "example": "Modern architecture often incorporates glass and steel to create open spaces.",
+      "exampleTranslation": "现代建筑经常使用玻璃和钢材来创建开阔空间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Gothic architecture",
+      "meaning": "哥特式建筑风格，特征是尖拱和飞扶壁",
+      "example": "Gothic architecture is renowned for its intricate details and towering spires.",
+      "exampleTranslation": "哥特式建筑以其复杂的细节和高耸的尖顶而闻名。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The architecture of ancient Rome continues to influence modern city planning.",
+      "translation": "古罗马的建筑风格继续影响着现代城市规划。",
+      "source": "Historical texts and architectural studies (e.g., from sources like Britannica)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, architecture refers to the fundamental design of hardware components.",
+      "translation": "在计算机科学中，架构指的是硬件组件的基本设计。",
+      "source": "Technical literature (e.g., COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She studied architecture at university and now designs sustainable buildings.",
+      "translation": "她在大学学习建筑学，现在设计可持续建筑。",
+      "source": "Contemporary novels or educational materials (e.g., BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "architectura",
+        "meaning": "The art of building",
+        "language": "Latin"
+      },
+      {
+        "root": "arkhitekton",
+        "meaning": "Master builder",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊的 'arkhitekton'，意为 '首席建造者'，通过拉丁语演变为 'architectura'，在中世纪传入英语，指代建筑艺术和科学；17世纪开始扩展到比喻性含义，如系统结构。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "architect",
+      "architectural",
+      "builder"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学，将词汇与视觉图像关联，例如想象古罗马建筑来强化记忆；通过间隔重复法复习不同语境下的使用，以提升长期保留；结合个人经验，如参观建筑博物馆，来建立情感连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "design",
+        "similarity": "0.7",
+        "context": "在强调结构规划的语境中，例如软件或城市设计"
+      },
+      {
+        "word": "structure",
+        "similarity": "0.8",
+        "context": "当指代复杂系统的组织方式时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destruction",
+        "context": "在与建筑或创建相对的语境中"
+      },
+      {
+        "word": "disorder",
+        "context": "当建筑表示有序结构时"
+      }
+    ],
+    "hypernyms": [
+      "art",
+      "science"
+    ],
+    "hyponyms": [
+      "baroque architecture",
+      "neoclassical architecture"
+    ],
+    "collocations": [
+      {
+        "pattern": "architecture of [something]",
+        "examples": [
+          "architecture of a city",
+          "architecture of a program"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] architecture",
+        "examples": [
+          "sustainable architecture",
+          "Victorian architecture"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征创新和遗产，例如在欧洲，建筑往往代表历史和社会价值；在东方文化中，如中国，建筑（如故宫）体现和谐与哲学理念。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更强调历史和传统建筑",
+        "usage": "在英国，常用以讨论遗产保护，如 'British architecture reflects colonial history.'"
+      },
+      {
+        "region": "United States",
+        "variation": "更注重现代和功能性建筑",
+        "usage": "在美国，常用于技术语境，如 'American architecture in Silicon Valley focuses on innovation.'"
+      }
+    ],
+    "historicalContext": "与文艺复兴和工业革命相关，建筑反映社会变革，例如古希腊建筑影响民主理想。",
+    "modernUsage": "在社交媒体和数字时代，建筑常用于讨论可持续发展和都市化趋势，如在Instagram上分享现代建筑照片。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个宏伟的建筑群，如埃菲尔铁塔，代表了建筑的艺术性和功能性。",
+      "keyElements": [
+        "塔尖",
+        "结构框架",
+        "历史建筑"
+      ],
+      "emotionalConnection": "联结到个人旅行经历，例如参观著名建筑时产生的惊奇感，以增强记忆情感触发。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'architecture' 联想为 'arch' (拱门) + 'tech' (技术)，代表拱门技术。",
+        "explanation": "通过视觉联想帮助初级学习者快速回忆词根和含义。"
+      },
+      {
+        "type": "缩略",
+        "content": "A for Art, C for Construction, H for History – Architecture.",
+        "explanation": "使用首字母缩略结合认知科学中的分块技术，便于记忆多层含义。"
+      }
+    ],
+    "wordAssociations": [
+      "building",
+      "design",
+      "heritage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "architectures",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [adjective] architecture of [noun]",
+        "description": "描述特定建筑风格或结构的句法结构",
+        "examples": [
+          "The Gothic architecture of the cathedral"
+        ]
+      },
+      {
+        "pattern": "[Subject] studies architecture",
+        "description": "表示学习或专业领域的结构",
+        "examples": [
+          "She studies architecture at university"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'architect'",
+        "correction": "Use 'architecture' for the field or style, not the person",
+        "explanation": "学习者常混淆二者；通过语境区分可避免错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'architectures' for plural forms in technical contexts",
+        "explanation": "由于词尾复杂，初级学习者可能遗漏 's'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "arts",
+      "technology",
+      "history"
+    ],
+    "tags": [
+      "design",
+      "construction",
+      "cultural heritage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

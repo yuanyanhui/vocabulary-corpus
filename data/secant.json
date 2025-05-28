@@ -1,0 +1,229 @@
+{
+  "word": "secant",
+  "phonetics": {
+    "british": "/ˈsiːkənt/",
+    "american": "/ˈsiːkænt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A straight line that intersects a curve, such as a circle, at two or more points.",
+      "chineseTranslation": "割线",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun (mathematics)",
+      "definition": "The trigonometric function that is the reciprocal of the cosine of an angle, denoted as sec(θ) = 1/cos(θ).",
+      "chineseTranslation": "正割（三角函数）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "secant line",
+      "meaning": "割线",
+      "example": "In geometry, a secant line intersects the circle at two points.",
+      "exampleTranslation": "在几何学中，割线在圆上相交于两个点。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "secant function",
+      "meaning": "正割函数",
+      "example": "The secant function is essential for solving certain trigonometric equations.",
+      "exampleTranslation": "正割函数对于解决某些三角方程至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "To find the length of the secant, measure the distance between the two intersection points on the curve.",
+      "translation": "要找出割线的长度，需要测量曲线上的两个交点之间的距离。",
+      "source": "Mathematics textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In trigonometry, the secant of an angle greater than 90 degrees is undefined in the real number system.",
+      "translation": "在三角学中，大于90度的角度的正割在实数系统中是不定义的。",
+      "source": "Online educational resource",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers often use the secant method to approximate roots of equations in numerical analysis.",
+      "translation": "工程师们经常在数值分析中使用割线法来近似求解方程的根。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "secare",
+        "meaning": "to cut",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'secare'，意为'切割'，该词在16世纪引入英语，用于描述几何学中直线与曲线的相交关系。后来在三角学中发展为正割函数的概念，与文艺复兴时期数学进步相关。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "section",
+      "intersect",
+      "sec"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用视觉图表如圆和直线的图形来强化记忆；",
+      "将词根 'secare' 与 'cut' 联想，创建个人经验连接，如想象剪刀切割物体，以提升长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sec",
+        "similarity": "0.9",
+        "context": "在三角学语境中，常用于简写正割函数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tangent",
+        "context": "在几何学中，切线只触及曲线一个点，而割线穿过多个点"
+      }
+    ],
+    "hypernyms": [
+      "trigonometric function"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "secant of an angle",
+        "examples": [
+          "secant of theta",
+          "secant of 30 degrees"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "secant line to a curve",
+        "examples": [
+          "secant line to the circle"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学精确性和科学推理，常与启蒙运动及现代科技发展相关联；在中文文化中，对应'割线'或'正割'，强调实用性和抽象思维。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常在工程和计算机科学语境中使用",
+        "usage": "在美国教育系统中，常在高中及大学数学课程中教授，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "术语使用与美国类似，但可能在历史数学文献中更强调拉丁语根源",
+        "usage": "在英国，常见于学术讨论中，突出其在牛顿时代数学历史中的作用"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期欧洲数学革命相关联，如在三角学发展中由数学家如开普勒使用；在中国文化中，类似概念见于古代数学文本，但现代用法受西方影响。",
+    "modernUsage": "在社交媒体和在线教育平台上，如Khan Academy或YouTube教程中流行，用于STEM领域讨论；反映全球化的科学传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条直线切割穿过一个圆，留下两个交点。",
+      "keyElements": [
+        "直线",
+        "圆",
+        "交点"
+      ],
+      "emotionalConnection": "联结到个人经验，如用刀切水果，触发视觉和触觉记忆以增强认知保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Secant 听起来像 'second'，表示 '第二个交点'。",
+        "explanation": "通过声音联想帮助记忆其切割曲线的特性，基于认知语言学中的声音象征原则。"
+      },
+      {
+        "type": "visualization",
+        "content": "画一个圆并画一条穿过它的线。",
+        "explanation": "利用空间记忆技巧，结合脑科学中视觉皮层激活来加深理解和回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "cut",
+      "intersect",
+      "cosine",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "secants",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The secant of [angle]",
+        "description": "用于三角函数，表示角度的正割值",
+        "examples": [
+          "The secant of 45 degrees is √2."
+        ]
+      },
+      {
+        "pattern": "[Noun] as a secant",
+        "description": "在几何语境中，将物体描述为割线",
+        "examples": [
+          "This line acts as a secant to the curve."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing secant with tangent",
+        "correction": "Secant intersects at multiple points; tangent touches at one.",
+        "explanation": "源自语义混淆，常因两者在三角学中的相似性导致"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Restrict to mathematical or scientific usage",
+        "explanation": "该词在非技术语域中罕用，避免泛化以防止语义错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank 15000 in COCA); medium in academic domains",
+    "domains": [
+      "mathematics",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "trigonometry",
+      "geometry",
+      "functions"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Merriam-Webster Dictionary",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

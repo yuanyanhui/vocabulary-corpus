@@ -1,0 +1,241 @@
+{
+  "word": "transliteration",
+  "phonetics": {
+    "british": "/trænsˌlɪt.əˈreɪ.ʃən/",
+    "american": "/ˌtræns.lɪt̬.əˈreɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of converting text from one writing system into another in a way that approximates the original pronunciation.",
+      "chineseTranslation": "音译",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (transliterate)",
+      "definition": "To represent or spell (words or letters) in the characters of another alphabet.",
+      "chineseTranslation": "进行音译",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "phonetic transliteration",
+      "meaning": "基于发音的音译",
+      "example": "Phonetic transliteration is often used in dictionaries to handle foreign names.",
+      "exampleTranslation": "音译在字典中常用于处理外来人名。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "system of transliteration",
+      "meaning": "音译系统",
+      "example": "The Pinyin system of transliteration has become standard for Chinese.",
+      "exampleTranslation": "拼音音译系统已成为中文的标准系统。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In linguistics, transliteration helps bridge the gap between different scripts, such as from Cyrillic to Latin.",
+      "translation": "在语言学中，音译有助于弥合不同文字系统之间的差距，例如从西里尔字母到拉丁字母。",
+      "source": "Academic linguistics text (e.g., from journals like Language)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Many software tools now support automatic transliteration for global communication.",
+      "translation": "许多软件工具现在支持自动音译以实现全球通信。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The transliteration of ancient Egyptian hieroglyphs was a breakthrough in archaeology.",
+      "translation": "古埃及象形文字的音译是考古学上的一个突破。",
+      "source": "Historical literature (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "trans-",
+        "meaning": "across or beyond",
+        "language": "Latin"
+      },
+      {
+        "root": "littera",
+        "meaning": "letter (as in alphabet)",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Latin 'translitterare', combining 'trans-' (across) and 'littera' (letter). It evolved in the 19th century during the rise of comparative philology, where scholars needed to represent non-Latin scripts in Latin-based alphabets for study. Over time, it has adapted to modern contexts like computing and globalization.",
+    "firstKnownUse": "Circa 1860",
+    "relatedWords": [
+      "transliterate",
+      "transcription",
+      "romanization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的分块法，将词汇分解为 'trans-' 和 '-literation'，并通过重复练习关联到实际场景，如手机键盘上的音译功能；结合视觉记忆，将其与地图或文字转换的图像联系，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "transcription",
+        "similarity": "0.8",
+        "context": "在语音记录或文字转换的语境中适用，尤其当焦点在音似而非精确字母时"
+      },
+      {
+        "word": "romanization",
+        "similarity": "0.7",
+        "context": "特别在将非拉丁文字转化为拉丁字母的语境中适用，如中文到英文"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "translation",
+        "context": "翻译关注语义转换，而非音形对应，因此在需要保留原音的语境中形成对比"
+      }
+    ],
+    "hypernyms": [
+      "conversion",
+      "representation"
+    ],
+    "hyponyms": [
+      "Pinyin transliteration",
+      "Cyrillic transliteration"
+    ],
+    "collocations": [
+      {
+        "pattern": "transliteration of [noun]",
+        "examples": [
+          "transliteration of names",
+          "transliteration of scripts"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] transliteration",
+        "examples": [
+          "phonetic transliteration",
+          "systematic transliteration"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球化和多元文化语境中象征跨文化交流的桥梁，尤其在殖民主义后期的语言研究中，用于保留非西方语言的发音特性，同时隐含了西方中心主义的潜在偏见。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更倾向于学术和历史语境中的使用",
+        "usage": "在英国英语中，常与古典语言学相关，如古希腊文本的音译"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重于现代应用，如技术工具中的音译",
+        "usage": "在美国英语中，常见于数字媒体和国际商务中"
+      }
+    ],
+    "historicalContext": "与19世纪的殖民扩张和东方学相关，欧洲学者如马克斯·缪勒使用音译来研究印度和中东语言；在文学中，如乔伊斯的小说中，体现了文化混合的主题。",
+    "modernUsage": "在社交媒体和AI翻译工具中流行，用于处理emoji和多语种内容，促进全球数字交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个桥梁跨越不同字母的海洋，将中文字符转化为英文单词。",
+      "keyElements": [
+        "桥梁",
+        "字母海洋",
+        "字符转换"
+      ],
+      "emotionalConnection": "联结到个人旅行经历中学习新语言的兴奋感，以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trans + Litter = Across Letters",
+        "explanation": "通过将 'trans' 联想为 '穿越' 和 'litter' 为 '字母'，构建一个跨越文字的视觉故事，便于记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音如 'trans-light-ray-shun'，想象光线穿越字母。",
+        "explanation": "利用声音与视觉的联觉，将发音分解为易记的音节，并关联到光的移动，增强听觉记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "bridge",
+      "script",
+      "convert"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "transliterations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with preposition",
+        "description": "作为名词，常与 'of' 连用，表示对象的音译",
+        "examples": [
+          "The transliteration of the word is necessary."
+        ]
+      },
+      {
+        "pattern": "Verb in sentence",
+        "description": "作为动词 'transliterate'，常用于主动语态",
+        "examples": [
+          "We transliterate the text for accuracy."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'translation'",
+        "correction": "Use 'transliteration' for script conversion only",
+        "explanation": "Learners often mix it with semantic translation; remember, transliteration focuses on sound, not meaning."
+      },
+      {
+        "mistake": "Incorrect pronunciation",
+        "correction": "Emphasize the second syllable: /ˌtræns.lɪt̬.əˈreɪ.ʃən/",
+        "explanation": "Common for intermediate learners to stress the wrong syllable due to word length."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "linguistics",
+      "technology",
+      "education"
+    ],
+    "tags": [
+      "language processing",
+      "phonetics",
+      "cross-cultural"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

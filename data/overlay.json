@@ -1,0 +1,273 @@
+{
+  "word": "overlay",
+  "phonetics": {
+    "british": "/ˌəʊvəˈleɪ/",
+    "american": "/ˌoʊvərˈleɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To cover the surface of something with a layer of another material.",
+      "chineseTranslation": "覆盖",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To place one thing over another, especially in a way that adds or enhances.",
+      "chineseTranslation": "叠加",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A layer of material or information placed over something else.",
+      "chineseTranslation": "覆盖层",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a graphical element that is superimposed on another.",
+      "chineseTranslation": "叠加图层",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "overlay network",
+      "meaning": "覆盖网络",
+      "example": "In computer science, an overlay network is a virtual network built on top of another network.",
+      "exampleTranslation": "在计算机科学中，覆盖网络是在另一个网络之上构建的虚拟网络。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "audio overlay",
+      "meaning": "音频叠加",
+      "example": "The video editor added an audio overlay to enhance the scene's atmosphere.",
+      "exampleTranslation": "视频编辑器添加了音频叠加来增强场景的氛围。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "map overlay",
+      "meaning": "地图叠加",
+      "example": "Geographers use map overlays to combine different data layers for analysis.",
+      "exampleTranslation": "地理学家使用地图叠加来结合不同的数据层进行分析。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She decided to overlay the table with a protective film.",
+      "translation": "她决定用保护膜覆盖桌子。",
+      "source": "Everyday conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The graphic designer created an overlay for the website's homepage.",
+      "translation": "图形设计师为网站主页创建了一个叠加图层。",
+      "source": "Technical documentation",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the film, an emotional overlay was used to convey the character's inner thoughts.",
+      "translation": "在电影中，使用了情感叠加来传达角色的内心想法。",
+      "source": "Film criticism",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The architect planned to overlay new structures on the existing framework.",
+      "translation": "建筑师计划在现有框架上叠加新结构。",
+      "source": "Architectural journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "over",
+        "meaning": "above or upon",
+        "language": "Old English"
+      },
+      {
+        "root": "lay",
+        "meaning": "to place or put",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语，起初表示在某物之上放置另一物，逐渐演变为现代意义上的覆盖或叠加，尤其在技术领域的发展中扩展了其应用，从14世纪的物质覆盖扩展到20世纪的数字和图形叠加。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "overlap",
+      "overlie",
+      "cover"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法，例如将 'overlay' 想象为层层叠加的蛋糕结构，以强化记忆；重复曝光法，通过多语境练习降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "superimpose",
+        "similarity": "0.8",
+        "context": "适用于技术或视觉覆盖语境，例如图形设计中"
+      },
+      {
+        "word": "cover",
+        "similarity": "0.7",
+        "context": "适用于一般覆盖语境，如日常物体保护"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uncover",
+        "context": "适用于移除覆盖的语境，例如揭开秘密"
+      },
+      {
+        "word": "expose",
+        "context": "适用于暴露底层内容的语境，如在科学实验中"
+      }
+    ],
+    "hypernyms": [
+      "cover"
+    ],
+    "hyponyms": [
+      "graphical overlay",
+      "network overlay"
+    ],
+    "collocations": [
+      {
+        "pattern": "overlay + noun",
+        "examples": [
+          "overlay image",
+          "overlay text"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + overlay",
+        "examples": [
+          "apply overlay",
+          "create overlay"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代技术文化中象征数字增强和多层信息整合，例如在社交媒体中用于滤镜和效果，但缺乏强烈的文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，强调创新和数字媒体应用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向传统覆盖含义",
+        "usage": "在英国英语中，常用于建筑或艺术领域"
+      }
+    ],
+    "historicalContext": "与工业革命相关的技术演变有关，象征人类对环境的改造和层叠创新，在文学中如狄更斯作品中隐喻社会阶层叠加。",
+    "modernUsage": "在社交媒体和数字平台上流行，例如Instagram的滤镜叠加，反映当代视觉文化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个蛋糕层层叠加的场景，每一层代表新元素。",
+      "keyElements": [
+        "蛋糕",
+        "层叠",
+        "覆盖"
+      ],
+      "emotionalConnection": "联结个人烘焙经历或兴奋感，以增强记忆保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Over + Lay = 覆盖放置",
+        "explanation": "通过词根分解联想，强化词汇结构记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'over lay'，联想到覆盖毯子",
+        "explanation": "利用声音相似性创建感官联想，提高认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "cover",
+      "layer",
+      "superimpose"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "overlaid",
+      "pastParticiple": "overlaid",
+      "presentParticiple": "overlaying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + overlay + object",
+        "description": "主语直接覆盖客体",
+        "examples": [
+          "The artist overlays colors on the canvas."
+        ]
+      },
+      {
+        "pattern": "Overlay + preposition + object",
+        "description": "覆盖与介词结合的结构",
+        "examples": [
+          "Overlay with a new layer."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'overlay' as a noun without context",
+        "correction": "Specify the type, e.g., 'graphical overlay'",
+        "explanation": "缺乏语境可能导致歧义，建议结合具体领域使用"
+      },
+      {
+        "mistake": "Confusing with 'overlap'",
+        "correction": "Use 'overlay' for covering, 'overlap' for partial intersection",
+        "explanation": "二者虽相关，但语义细微差异，需注意语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "技术",
+      "艺术",
+      "媒体"
+    ],
+    "tags": [
+      "覆盖",
+      "叠加",
+      "数字媒体"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

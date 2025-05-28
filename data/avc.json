@@ -1,0 +1,232 @@
+{
+  "word": "avc",
+  "phonetics": {
+    "british": "/ævˈsiː/",
+    "american": "/ævˈsiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An acronym for Advanced Video Coding, a standard for video compression used in digital video formats.",
+      "chineseTranslation": "高级视频编码",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for Audiovisual Controller, referring to hardware or software that manages audio and video signals.",
+      "chineseTranslation": "音视频控制器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "AVC encoder",
+      "meaning": "高级视频编码编码器",
+      "example": "The AVC encoder is essential for compressing high-definition video files.",
+      "exampleTranslation": "高级视频编码编码器对于压缩高清视频文件至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "use AVC",
+      "meaning": "使用高级视频编码",
+      "example": "Many streaming services use AVC to deliver content efficiently.",
+      "exampleTranslation": "许多流媒体服务使用高级视频编码来高效交付内容。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new camera supports AVC for better video quality.",
+      "translation": "新相机支持高级视频编码以获得更好的视频质量。",
+      "source": "Technical manual (e.g., from electronics industry sources like IEEE)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers implemented AVC in the system to reduce file sizes without losing detail.",
+      "translation": "工程师在系统中实施了高级视频编码，以在不丢失细节的情况下减小文件大小。",
+      "source": "News article from technology sector (e.g., CNET)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "AVC has become a standard in modern broadcasting.",
+      "translation": "高级视频编码已成为现代广播的标准。",
+      "source": "Academic paper (e.g., from ACM Digital Library)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English (as an acronym)",
+    "rootWords": [
+      {
+        "root": "AVC",
+        "meaning": "Derived from 'Advanced Video Coding'",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该术语起源于2003年国际标准化组织（ISO）和国际电工委员会（IEC）的标准制定，源自H.264视频压缩技术的发展，从早期的视频编码标准演变而来，现已广泛用于数字媒体领域。",
+    "firstKnownUse": "2003",
+    "relatedWords": [
+      "H.264",
+      "MPEG-4 AVC"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的分块法，将AVC视为技术缩写，并与实际应用场景（如视频播放）关联，以增强长期记忆；建议通过重复曝光于专业语境中来构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "H.264",
+        "similarity": "0.9",
+        "context": "在视频压缩和数字媒体领域使用，常互换"
+      },
+      {
+        "word": "MPEG-4 Part 10",
+        "similarity": "0.8",
+        "context": "技术标准语境中，强调视频编码协议"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uncompressed video",
+        "context": "与未压缩视频格式相对，在存储和传输效率上形成对比"
+      }
+    ],
+    "hypernyms": [
+      "video compression standard"
+    ],
+    "hyponyms": [
+      "HEVC"
+    ],
+    "collocations": [
+      {
+        "pattern": "AVC + noun (e.g., AVC format)",
+        "examples": [
+          "using AVC format in streaming"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + AVC (e.g., implement AVC)",
+        "examples": [
+          "developers implement AVC for efficiency"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数字技术文化中象征着视频传输效率的进步，隐含语义涉及全球数字媒体消费的标准化。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "常用于技术行业和消费电子产品",
+        "usage": "在硅谷和科技公司中作为通用术语"
+      },
+      {
+        "region": "欧洲",
+        "variation": "与欧盟标准相结合，常在广播和法规语境中使用",
+        "usage": "强调兼容性和国际标准"
+      }
+    ],
+    "historicalContext": "与20世纪末的数字革命相关，特别是在互联网和移动设备兴起时期；在文学和媒体中，代表技术创新，如在科幻小说中描述的未来通信。",
+    "modernUsage": "在社交媒体和在线平台（如YouTube、Netflix）中流行，用于讨论视频质量和流媒体趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个视频播放器中，一个高效的齿轮系统在压缩视频文件，同时画面清晰流畅。",
+      "keyElements": [
+        "齿轮",
+        "视频画面",
+        "压缩图标"
+      ],
+      "emotionalConnection": "联结个人观看高清电影的兴奋感，以触发积极回忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "AVC 像 'A Very Clear' video",
+        "explanation": "通过积极联想将缩写与 '非常清晰' 的视频质量联系起来，基于认知联想原则增强记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ævˈsiː/ 类似于 'a bee sees' clear images",
+        "explanation": "利用声音与视觉联觉，将发音与蜜蜂看到清晰画面的意象结合，促进多模态记忆"
+      }
+    ],
+    "wordAssociations": [
+      "video",
+      "codec",
+      "streaming"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., AVC standard)",
+        "description": "作为技术术语，通常用作名词短语",
+        "examples": [
+          "The AVC standard is widely adopted."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., with AVC)",
+        "description": "与介词结合，表示使用或关联",
+        "examples": [
+          "Videos encoded with AVC are more efficient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing AVC with other codecs like AVI",
+        "correction": "Use AVC specifically for Advanced Video Coding",
+        "explanation": "由于缩写相似，学习者常混淆；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always capitalize as AVC",
+        "explanation": "作为专有名词缩写，必须大写以符合技术规范"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus",
+    "domains": [
+      "technology",
+      "media",
+      "engineering"
+    ],
+    "tags": [
+      "acronym",
+      "digital media",
+      "compression"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC",
+      "IEEE standards"
+    ]
+  }
+}

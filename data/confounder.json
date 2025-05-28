@@ -1,0 +1,233 @@
+{
+  "word": "confounder",
+  "phonetics": {
+    "british": "/kənˈfaʊndə/",
+    "american": "/kənˈfaʊndər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A variable in a statistical analysis or study that affects both the dependent and independent variables, potentially leading to a false association and distorting the true relationship.",
+      "chineseTranslation": "混杂因素",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "potential confounder",
+      "meaning": "潜在的混杂因素",
+      "example": "Researchers must identify potential confounders before conducting the experiment.",
+      "exampleTranslation": "研究人员必须在进行实验之前识别潜在的混杂因素。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "adjust for confounders",
+      "meaning": "调整或控制混杂因素",
+      "example": "The study adjusted for confounders such as age and gender to ensure accurate results.",
+      "exampleTranslation": "该研究调整了诸如年龄和性别等混杂因素，以确保结果准确。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In epidemiological research, smoking is often a confounder when studying the link between stress and heart disease.",
+      "translation": "在流行病学研究中，吸烟通常是研究压力与心脏病关联时的混杂因素。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The statistician controlled for several confounders to isolate the effect of the new drug.",
+      "translation": "统计学家控制了几个混杂因素，以隔离新药的效果。",
+      "source": "Scientific publication (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Age and socioeconomic status can act as confounders in social science surveys.",
+      "translation": "年龄和 socioeconomic 地位可以在社会科学调查中充当混杂因素。",
+      "source": "News article (e.g., from general corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "fundere",
+        "meaning": "to pour or mix",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'confundere'，意为 '混合或混淆'，通过古法语 'confondre' 演变为英语 'confound'，最终在20世纪统计学和流行病学中发展为 'confounder'，用于描述干扰变量。",
+    "firstKnownUse": "Mid-20th century (e.g., around 1940s in statistical contexts)",
+    "relatedWords": [
+      "confound",
+      "confusion",
+      "confounding variable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学中的分块法，将 'confounder' 与 'confuse' 和 'founder' 联想，构建视觉图像，如一个混乱的混合物；通过重复出现在统计案例中强化记忆，以促进长期保留；建议初级学习者从简单句子开始，逐步增加语境复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "confounding variable",
+        "similarity": "0.9",
+        "context": "在统计学和研究语境中，用于描述干扰变量的相似情况"
+      },
+      {
+        "word": "intervening variable",
+        "similarity": "0.7",
+        "context": "在社会科学中，适用于部分相关语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "independent variable",
+        "context": "在实验设计中，独立变量不作为混杂因素，而直接影响因变量"
+      }
+    ],
+    "hypernyms": [
+      "variable"
+    ],
+    "hyponyms": [
+      "selection bias",
+      "measurement error"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjust for + confounder",
+        "examples": [
+          "We need to adjust for age as a confounder."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "potential + confounder",
+        "examples": [
+          "Identify potential confounders in the study."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在学术和科学社区中象征严谨的研究方法，强调消除偏差以求真实性；在西方文化中，特别是在英语国家，体现了证据-based 思维的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于流行病学和公共健康语境",
+        "usage": "在美国英语中，常见于医疗和数据科学讨论，以突出研究的可靠性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于统计模型的理论方面",
+        "usage": "在英国英语中，常出现在学术论文中，强调方法论的精确性"
+      }
+    ],
+    "historicalContext": "与20世纪科学革命相关，特别是在统计学发展中，用于解决研究中的偏差问题，如在Fisher和Pearson的工作中。",
+    "modernUsage": "在现代社交媒体和在线教育中，频繁出现在数据分析讨论中，如COVID-19研究中的混杂因素分析。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个混乱的实验室场景，其中多个变量如调酒师般混合在一起，导致实验结果紊乱。",
+      "keyElements": [
+        "混合物",
+        "实验室",
+        "变量"
+      ],
+      "emotionalConnection": "联结个人经历，如曾因忽略因素导致计划失败的挫败感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Confounder 像 'confuse founder'，一个建立者（founder）被混淆（confuse）了。",
+        "explanation": "通过声音和意义联想，帮助记忆词汇的核心概念"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-N-F用作提示：Confusion Of Necessary Factors。",
+        "explanation": "利用首字母缩写结合认知分块，简化复杂含义"
+      }
+    ],
+    "wordAssociations": [
+      "confuse",
+      "variable",
+      "bias",
+      "error"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "confounders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语的典型结构，常用于描述研究中的问题",
+        "examples": [
+          "The confounder affected the results."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词搭配，如 'for' 或 'in'",
+        "examples": [
+          "Adjust for the confounder in the model."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with 'confuser'",
+        "correction": "Use 'confounder' specifically in statistical contexts",
+        "explanation": " 'Confuser' 不是标准术语；学习者需区分专业词汇"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "confounders",
+        "explanation": "简单添加 -s，但需注意在句子中正确使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in academic domains)",
+    "domains": [
+      "science",
+      "statistics",
+      "epidemiology",
+      "research"
+    ],
+    "tags": [
+      "technical",
+      "academic",
+      "variable",
+      "bias"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

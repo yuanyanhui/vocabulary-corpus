@@ -1,0 +1,264 @@
+{
+  "word": "define",
+  "phonetics": {
+    "british": "/dɪˈfaɪn/",
+    "american": "/dɪˈfaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to state or describe exactly the nature, scope, or meaning of (something, especially an abstract concept)",
+      "chineseTranslation": "定义",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make clear the outline or boundaries of (something)",
+      "chineseTranslation": "界定",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a function or statement in programming that specifies the implementation of a subroutine or method",
+      "chineseTranslation": "定义（在编程中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "define a term",
+      "meaning": "定义一个术语",
+      "example": "In academic writing, it's essential to define a term before using it extensively.",
+      "exampleTranslation": "在学术写作中，在广泛使用一个术语之前，必须定义它。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "clearly define",
+      "meaning": "清晰地定义",
+      "example": "The contract must clearly define the responsibilities of each party.",
+      "exampleTranslation": "合同必须清晰地定义每一方的责任。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "define boundaries",
+      "meaning": "界定边界",
+      "example": "Therapists often help clients define boundaries in relationships.",
+      "exampleTranslation": "治疗师经常帮助客户在关系中界定边界。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The dictionary defines the word 'define' as to explain the meaning of something.",
+      "translation": "字典将“define”一词定义为解释某事物的含义。",
+      "source": "General reference (e.g., Oxford English Dictionary)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Scientists need to define the parameters of the experiment before starting.",
+      "translation": "科学家需要在开始实验前定义实验参数。",
+      "source": "Scientific literature (e.g., academic papers)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday conversation, people often define success differently based on their experiences.",
+      "translation": "在日常对话中，人们经常根据自己的经历来定义成功。",
+      "source": "Informal discourse (e.g., social media or interviews)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "fīnis",
+        "meaning": "boundary or limit",
+        "language": "Latin"
+      },
+      {
+        "root": "dē-",
+        "meaning": "from or down from",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 dēfīnīre（意为设定界限），通过古法语 definer 传入中古英语 define。该词从最初表示设定物理边界演变为抽象概念的解释和界定，反映了语言从具体到抽象的演变过程。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "definition",
+      "definitive",
+      "finite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉意象关联，如想象用线条划定边界；使用间隔重复法强化记忆；针对初级学习者，建议通过句子构建练习以建立语境连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "explain",
+        "similarity": "0.8",
+        "context": "适用于解释概念的正式场合，如教育或学术讨论"
+      },
+      {
+        "word": "describe",
+        "similarity": "0.7",
+        "context": "适用于描述事物的非正式语境，如日常对话"
+      },
+      {
+        "word": "specify",
+        "similarity": "0.6",
+        "context": "适用于精确界定的技术或法律语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confuse",
+        "context": "在解释不清楚概念时使用，如在辩论中"
+      },
+      {
+        "word": "obscure",
+        "context": "在使含义模糊的文学或艺术语境中"
+      }
+    ],
+    "hypernyms": [
+      "explain"
+    ],
+    "hyponyms": [
+      "define precisely",
+      "define narrowly"
+    ],
+    "collocations": [
+      {
+        "pattern": "define + noun (e.g., term, concept)",
+        "examples": [
+          "define a concept",
+          "define a problem"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + define (e.g., clearly define)",
+        "examples": [
+          "clearly define boundaries"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征清晰性和精确性，常用于强调理性思考和知识界定，在西方教育体系中具有核心作用。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于技术领域，如编程",
+        "usage": "例如，在美国科技产业中，'define' 经常出现在代码中以指定变量"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英式英语中更偏向学术和正式定义",
+        "usage": "例如，在英国教育中，常用于哲学或法律讨论"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，该词反映了西方文化对知识系统化和理性的追求，如在启蒙哲学家的作品中。",
+    "modernUsage": "在现代社交媒体上，该词用于个人发展语境，如定义生活目标，体现了数字时代自我反思的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：你在画布上用线条围出一个形状，代表将抽象概念转化为可见边界。",
+      "keyElements": [
+        "边界线",
+        "抽象形状",
+        "清晰轮廓"
+      ],
+      "emotionalConnection": "联结到个人经验，如定义人生目标时产生的满足感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'define' 联想为 'draw a fine line'（画一条精细的线），因为 'fine' 听起来像 'fīnis'。",
+        "explanation": "通过声音和视觉联想帮助记忆词源和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-F-I-N-E：Draw Exact Fine Lines In New Environments",
+        "explanation": "使用首字母缩略法结合实际应用场景以强化认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "boundary",
+      "explain",
+      "concept"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "defined",
+      "pastParticiple": "defined",
+      "presentParticiple": "defining",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + define + object",
+        "description": "主语 + 定义 + 宾语的结构，常用于陈述性句子",
+        "examples": [
+          "I define success as hard work."
+        ]
+      },
+      {
+        "pattern": "Define + object + in a sentence",
+        "description": "以 define 开头的祈使句结构，用于指令或解释",
+        "examples": [
+          "Define your goals clearly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'define' interchangeably with 'describe' without precision",
+        "correction": "Use 'define' for exact meanings and 'describe' for general explanations",
+        "explanation": "因为 'define' 强调精确性，而 'describe' 更侧重描述"
+      },
+      {
+        "mistake": "Confusing verb and noun forms in technical contexts",
+        "correction": "Distinguish based on context, e.g., verb in sentences vs. noun in code",
+        "explanation": "这可能导致语义混淆，尤其对初级学习者"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "science",
+      "business",
+      "technology"
+    ],
+    "tags": [
+      "verb",
+      "explanation",
+      "conceptual"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

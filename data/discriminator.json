@@ -1,0 +1,240 @@
+{
+  "word": "discriminator",
+  "phonetics": {
+    "british": "/dɪˈskrɪmɪneɪtə/",
+    "american": "/dɪˈskrɪməneɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that makes a distinction or separation, often implying unfair treatment based on characteristics such as race, gender, or age.",
+      "chineseTranslation": "歧视者或区分器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In machine learning and artificial intelligence, a component of a generative adversarial network (GAN) that attempts to distinguish between real and generated data.",
+      "chineseTranslation": "在机器学习中，用于区分真实数据和生成数据的组件",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "positive discriminator",
+      "meaning": "积极的区分器，通常指在机器学习中能够正确识别真实数据的组件",
+      "example": "In this GAN model, the positive discriminator helps improve the quality of generated images.",
+      "exampleTranslation": "在这个GAN模型中，积极的区分器有助于提高生成图像的质量。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "racial discriminator",
+      "meaning": "种族歧视者，指基于种族进行不公平对待的人",
+      "example": "The company was sued for employing a racial discriminator in their hiring process.",
+      "exampleTranslation": "公司因在招聘过程中雇用种族歧视者而被起诉。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The discriminator in the AI system was trained to identify fake news articles from real ones.",
+      "translation": "AI系统中的区分器被训练来识别假新闻和真实新闻。",
+      "source": "Technical article from arXiv (machine learning context)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As a social discriminator, he often made biased decisions based on people's backgrounds.",
+      "translation": "作为一名社会歧视者，他经常基于人们的背景做出偏见决定。",
+      "source": "News article from The Guardian (social context)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, a discriminator might unconsciously favor certain groups over others.",
+      "translation": "在日常生活中，歧视者可能无意识地偏好某些群体而非其他。",
+      "source": "Educational text from BBC Learning English",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "discriminare",
+        "meaning": "to separate or distinguish",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'discriminare'，意为区分或分离。词语在16世纪进入英语，用于表示区分事物。17世纪开始演变为社会语境中的歧视含义，而20世纪在技术领域，如统计学和AI中，扩展为区分器的概念。",
+    "firstKnownUse": "1600s",
+    "relatedWords": [
+      "discriminate",
+      "discrimination",
+      "discriminatory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将'discriminator'与'区分'的图像（如一个过滤网）联系起来，以强化记忆；使用间隔重复法复习多义词，避免混淆社会和技术语境；通过个人经历反思文化含义，促进情感记忆整合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "distinguisher",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如AI中，用于区分真实和假冒事物"
+      },
+      {
+        "word": "biaser",
+        "similarity": "0.6",
+        "context": "适用于社会语境，指带有偏见的人或事物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "equalizer",
+        "context": "适用于社会语境，指促进公平和无歧视的机制"
+      },
+      {
+        "word": "unifier",
+        "context": "适用于技术语境，指整合而不是区分的组件"
+      }
+    ],
+    "hypernyms": [
+      "identifier",
+      "separator"
+    ],
+    "hyponyms": [
+      "racial discriminator",
+      "gender discriminator"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + discriminator (e.g., racial + discriminator)",
+        "examples": [
+          "racial discriminator",
+          "AI discriminator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "The + discriminator + verb (e.g., The discriminator identifies)",
+        "examples": [
+          "The discriminator identifies fake data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常与社会不平等和种族歧视相关，象征着不公正的区分；在AI领域，则代表技术中立的区分机制，但可能隐含伦理问题，如算法偏见。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于社会正义语境，如反歧视运动",
+        "usage": "在美国英语中，常在法律和媒体讨论中出现，以强调平等权利"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在技术语境中更常见，如AI和工程",
+        "usage": "在英国英语中，可能更正式地用于学术和专业领域"
+      }
+    ],
+    "historicalContext": "与西方历史中的种族主义和殖民主义相关，如19世纪的歧视政策；在现代AI发展中，关联20世纪后期的机器学习革命。",
+    "modernUsage": "在社交媒体和在线讨论中，该词常用于#NoDiscrimination运动，或AI伦理辩论中，反映数字时代对公平性的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个过滤器网在筛选物品的场景，代表区分功能；社会语境中，联想到一个天平不平衡的图像。",
+      "keyElements": [
+        "过滤网",
+        "天平",
+        "AI机器人"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次不公平对待的事件，以触发情感记忆加深理解。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'discriminator'联想为'dis + criminal + or'，意为像罪犯般区分事物。",
+        "explanation": "通过声音和语义联想，帮助记忆多义性，避免混淆。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-S-C：Distinguish-Identify-Separate-Classify。",
+        "explanation": "使用首字母缩略法结合认知科学中的分块技巧，提升词汇保留。"
+      }
+    ],
+    "wordAssociations": [
+      "discriminate",
+      "filter",
+      "bias"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "discriminators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + discriminator",
+        "description": "作为主语或宾语出现，常用于描述行为或功能",
+        "examples": [
+          "The discriminator functions effectively."
+        ]
+      },
+      {
+        "pattern": "Adjective + discriminator",
+        "description": "用形容词修饰，表示类型，如种族歧视者",
+        "examples": [
+          "A racial discriminator was identified."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'discriminator' as a verb",
+        "correction": "Use as a noun only; for verb, use 'discriminate'",
+        "explanation": "该词为名词，非动词；母语为中文的学习者常将之误解为动词形式，导致句法错误。"
+      },
+      {
+        "mistake": "Overgeneralizing to mean only negative discrimination",
+        "correction": "Recognize technical uses",
+        "explanation": "在技术语境中是非负面含义；需注意语境区分以避免文化误解。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Social Sciences",
+      "Law"
+    ],
+    "tags": [
+      "AI",
+      "Bias",
+      "Discrimination",
+      "Ethics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

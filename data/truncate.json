@@ -1,0 +1,243 @@
+{
+  "word": "truncate",
+  "phonetics": {
+    "british": "/trʌŋˈkeɪt/",
+    "american": "/ˈtrʌŋ.keɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to shorten something by cutting off the top or end, often used in contexts like text or data processing",
+      "chineseTranslation": "截短；切断",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "shortened or cut off, as if by truncation",
+      "chineseTranslation": "截断的；缩短的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "truncate a file",
+      "meaning": "截短一个文件",
+      "example": "You may need to truncate a file to fit it within the storage limits.",
+      "exampleTranslation": "你可能需要截短一个文件以使其符合存储限制。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "truncate data",
+      "meaning": "截断数据",
+      "example": "In programming, developers often truncate data to remove unnecessary parts.",
+      "exampleTranslation": "在编程中，开发人员经常截断数据以去除不必要的部分。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The editor decided to truncate the article to meet the word limit.",
+      "translation": "编辑决定截短文章以符合字数限制。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, you can truncate a string using specific functions.",
+      "translation": "在计算中，你可以使用特定函数来截断字符串。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The novel was truncated in its film adaptation, losing some key details.",
+      "translation": "这部小说在电影改编中被截短，丢失了一些关键细节。",
+      "source": "Literary review (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "truncare",
+        "meaning": "to cut off or maim",
+        "language": "Latin"
+      },
+      {
+        "root": "truncus",
+        "meaning": "stem or trunk",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'truncare'，意为切断或使残缺。17世纪传入英语，主要用于描述物理切断，19世纪扩展到抽象和技术语境，如数学和计算机科学中，表示缩短数据或序列。",
+    "firstKnownUse": "约17世纪中期",
+    "relatedWords": [
+      "trunk",
+      "truncate",
+      "truncheon"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'truncate' 与树干（trunk）切断的图像关联，以增强记忆；通过间隔重复法复习技术语境下的使用，以减少干扰效应。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "shorten",
+        "similarity": "0.8",
+        "context": "适用于一般语境，如文本编辑"
+      },
+      {
+        "word": "abbreviate",
+        "similarity": "0.7",
+        "context": "适用于正式写作或摘要场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "elongate",
+        "context": "在描述扩展或加长时使用，例如在数据处理中"
+      },
+      {
+        "word": "extend",
+        "context": "在正式语境中，表示增加长度"
+      }
+    ],
+    "hypernyms": [
+      "shorten",
+      "cut"
+    ],
+    "hyponyms": [
+      "crop",
+      "trim"
+    ],
+    "collocations": [
+      {
+        "pattern": "truncate + noun (e.g., truncate a string)",
+        "examples": [
+          "truncate a database entry"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + truncate (e.g., need to truncate)",
+        "examples": [
+          "decide to truncate"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征效率和简洁，尤其在技术领域，体现现代社会对信息过载的应对策略，但缺乏强烈文化象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，常在科技和商业讨论中出现，以强调数据管理"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或文学语境",
+        "usage": "在英国英语中，偶尔用于历史或文学分析中，表示删减"
+      }
+    ],
+    "historicalContext": "与工业革命相关的文化背景有关，象征机械切断和现代编辑实践；在文学中，如狄更斯作品中，隐喻社会结构的简化。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述内容压缩，如Twitter上的字符限制。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一棵树（trunk），被一把剪刀切断顶部，形成一个缩短的树桩。",
+      "keyElements": [
+        "树干",
+        "剪刀",
+        "切断"
+      ],
+      "emotionalConnection": "联结个人经验，如剪头发时的缩短感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Truncate 听起来像 'trunk cut'，所以联想到切断树干。",
+        "explanation": "通过声音和视觉联想强化记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-U-N-C = Top Removed Under Necessity, Cut short",
+        "explanation": "使用首字母缩略词帮助构建语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "trunk",
+      "cut",
+      "shorten"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "truncated",
+      "pastParticiple": "truncated",
+      "presentParticiple": "truncating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + truncate + object",
+        "description": "主语 + 谓语（truncate） + 宾语的结构，常用于主动句",
+        "examples": [
+          "We truncate the text."
+        ]
+      },
+      {
+        "pattern": "To truncate + object",
+        "description": "不定式结构，用于目的或描述",
+        "examples": [
+          "To truncate errors in code."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'trunk' as a noun",
+        "correction": "Use 'truncate' only as verb or adjective",
+        "explanation": "学员常混淆词源，导致误用；通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'truncated'",
+        "explanation": "中级学习者可能遗忘规则变化；结合语块记忆改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "4560 (based on COCA corpus ranking)",
+    "domains": [
+      "technology",
+      "computing",
+      "literature"
+    ],
+    "tags": [
+      "verb",
+      "technical",
+      "editing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

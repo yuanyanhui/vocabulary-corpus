@@ -1,0 +1,250 @@
+{
+  "word": "numeric",
+  "phonetics": {
+    "british": "/njuːˈmɛrɪk/",
+    "american": "/nuːˈmɛrɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or consisting of numbers; involving numerical quantities or operations.",
+      "chineseTranslation": "与数字相关的；由数字组成的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Represented by or expressed in numbers, as opposed to letters or symbols.",
+      "chineseTranslation": "以数字表示的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "numeric data",
+      "meaning": "数字数据",
+      "example": "The system processes numeric data for statistical analysis.",
+      "exampleTranslation": "系统处理数字数据进行统计分析。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "numeric value",
+      "meaning": "数字值",
+      "example": "Each variable in the equation has a numeric value assigned.",
+      "exampleTranslation": "方程中的每个变量都有一个数字值分配。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "numeric keypad",
+      "meaning": "数字键盘",
+      "example": "Use the numeric keypad for faster data entry.",
+      "exampleTranslation": "使用数字键盘进行更快速的数据输入。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The numeric code on the package indicates its production date.",
+      "translation": "包装上的数字代码表示其生产日期。",
+      "source": "Commercial product description",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, numeric variables store integers or floats.",
+      "translation": "在编程中，数字变量存储整数或浮点数。",
+      "source": "Technical manual, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She prefers numeric methods for solving mathematical problems.",
+      "translation": "她更喜欢数字方法来解决数学问题。",
+      "source": "Educational text",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The survey results are presented in numeric form for clarity.",
+      "translation": "调查结果以数字形式呈现以提高清晰度。",
+      "source": "News article, e.g., from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "numerus",
+        "meaning": "number",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'numerus'，意为 '数字' 或 '数量'。在中世纪拉丁语中演变为 'numericus'，用于描述与数字相关的概念。17 世纪传入英语，逐渐扩展到数学和科学领域，现代意义强调数字表示或计算。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "numerical",
+      "numerate",
+      "enumerate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过重复练习数字相关的日常场景，如输入密码或计算账单，以强化记忆路径；使用间隔重复系统 (Spaced Repetition Systems) 来提升对词汇的长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "numerical",
+        "similarity": "0.9",
+        "context": "适用于数学或数据处理的语境中，例如在统计报告中"
+      },
+      {
+        "word": "quantitative",
+        "similarity": "0.7",
+        "context": "适用于强调数量或测量的语境中，例如科学研究"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-numeric",
+        "context": "适用于非数字或文字主导的语境中，例如在描述性文本"
+      },
+      {
+        "word": "qualitative",
+        "context": "适用于关注质量而非数量的语境中，例如社会研究"
+      }
+    ],
+    "hypernyms": [
+      "mathematical"
+    ],
+    "hyponyms": [
+      "integer",
+      "decimal"
+    ],
+    "collocations": [
+      {
+        "pattern": "numeric + noun (e.g., numeric data)",
+        "examples": [
+          "numeric input",
+          "numeric analysis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + numeric (e.g., pure numeric)",
+        "examples": [
+          "exact numeric"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着精确性和科学性，尤其在数学和科技领域；它反映了现代社会对数据驱动决策的偏好，但在中国文化中，可能与 '量化' 概念相关联，强调实用性和逻辑。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，'numeric' 经常出现在编程和数据处理中，以突出数字化的效率"
+      },
+      {
+        "region": "英国",
+        "variation": "与 'numerical' 互换使用，但略微更正式",
+        "usage": "在英国英语中，可能在学术写作中更常见，以强调历史数学传统"
+      }
+    ],
+    "historicalContext": "与启蒙运动中的科学革命相关联，如牛顿的数学贡献；在现代，伴随数字化浪潮，在文学和媒体中代表理性与精确。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述数据可视化或算法，如 TikTok 或 WeChat 中的数据统计趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字键盘上的按钮在闪烁，代表数字的世界。",
+      "keyElements": [
+        "键盘按钮",
+        "数字显示屏"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用计算器购物时计算总额，触发实用感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'numeric' 联想成 'new metric'，意思是 '新的测量方式'",
+        "explanation": "通过声音联想帮助记忆，结合认知科学中的双编码理论，将听觉和视觉元素结合"
+      },
+      {
+        "type": "缩略",
+        "content": "N-U-M-E-R-I-C 代表 'Numbers Used in Modern Everyday Routine In Computing'",
+        "explanation": "使用缩略词法创建故事性记忆路径，增强长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "number",
+      "calculate",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more numeric",
+      "superlative": "most numeric"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词的结构",
+        "examples": [
+          "numeric code"
+        ]
+      },
+      {
+        "pattern": "Subject + Verb + Adjective",
+        "description": "在句子中用作表语",
+        "examples": [
+          "The data is numeric."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'numerical'",
+        "correction": "Use 'numeric' for general contexts",
+        "explanation": "虽然相似，但 'numeric' 更常用于非正式或技术语境；基于语料分析，避免互换以保持精确"
+      },
+      {
+        "mistake": "Incorrect placement in sentence",
+        "correction": "Place before the noun it modifies",
+        "explanation": "英文形容词通常置于名词前；对于中文母语学习者，这可能因词序差异而出错"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus",
+    "domains": [
+      "科技",
+      "数学",
+      "商业"
+    ],
+    "tags": [
+      "数学词汇",
+      "技术术语",
+      "形容词"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

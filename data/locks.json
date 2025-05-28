@@ -1,0 +1,285 @@
+{
+  "word": "locks",
+  "phonetics": {
+    "british": "/lɒks/",
+    "american": "/lɑːks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used for fastening a door, gate, lid, or other object, typically requiring a key or combination to open.",
+      "chineseTranslation": "锁",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A section of a canal or river where the water level is controlled by gates, allowing boats to move between different levels.",
+      "chineseTranslation": "船闸",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A tuft or strand of hair, especially when curled or twisted.",
+      "chineseTranslation": "一绺头发",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fasten or secure something with a lock.",
+      "chineseTranslation": "锁上或锁住",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To become fixed or jammed, preventing movement.",
+      "chineseTranslation": "卡住或固定住",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lock and key",
+      "meaning": "锁和钥匙",
+      "example": "The safe is secured with a lock and key.",
+      "exampleTranslation": "保险箱用锁和钥匙保护着。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "under lock and key",
+      "meaning": "被锁起来",
+      "example": "The confidential documents are kept under lock and key.",
+      "exampleTranslation": "机密文件被锁起来保管。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "lock horns",
+      "meaning": "发生冲突",
+      "example": "The two leaders locked horns over the new policy.",
+      "exampleTranslation": "两位领导者在新政策上发生冲突。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pick a lock",
+      "meaning": "撬锁",
+      "example": "In the movie, the thief picks a lock to enter the house.",
+      "exampleTranslation": "在电影中，小偷撬锁进入房屋。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She always locks the door before going to bed.",
+      "translation": "她睡觉前总是锁门。",
+      "source": "Daily conversation (e.g., from everyday English corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The ship passed through the locks on the canal.",
+      "translation": "船通过了运河上的船闸。",
+      "source": "Technical or travel literature (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "His locks of hair fell over his eyes as he ran.",
+      "translation": "他的头发一绺绺地盖在眼睛上当他跑步时。",
+      "source": "Literary works (e.g., from novels in OED examples)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The software locks the file to prevent unauthorized access.",
+      "translation": "软件锁定文件以防止未经授权的访问。",
+      "source": "Technology articles (e.g., from online sources like Tech corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "loc",
+        "meaning": "enclosure or fastening",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'loc'，意为封闭物或紧固物，逐渐演变为现代英语中表示门锁、船闸或头发的含义；中世纪英语时期扩展到比喻性用法，如在文学中代表约束或固定。",
+    "firstKnownUse": "约公元 725 年",
+    "relatedWords": [
+      "unlock",
+      "key",
+      "block"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2 (CEFR)",
+    "pronunciationDifficulty": "3 (基于简单辅音和元音组合，初级学习者易掌握)",
+    "spellingDifficulty": "2 (拼写规则直观，无不规则变化)",
+    "meaningComplexity": "5 (多义词，需要根据语境区分)",
+    "usageComplexity": "4 (常见搭配，但需注意语域)",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将不同含义分组记忆；通过视觉联想将 'locks' 与钥匙的图像关联，以强化语境记忆；练习重复暴露（spaced repetition）来处理多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fasten",
+        "similarity": "0.8",
+        "context": "在正式语境中使用，如 'fasten the door' 表示锁门"
+      },
+      {
+        "word": "secure",
+        "similarity": "0.7",
+        "context": "在安全或技术语境中使用，如 'secure the gate'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unlock",
+        "context": "在日常语境中，表示打开或释放"
+      },
+      {
+        "word": "release",
+        "context": "在技术或比喻语境中，表示解除固定"
+      }
+    ],
+    "hypernyms": [
+      "mechanism",
+      "device"
+    ],
+    "hyponyms": [
+      "padlock",
+      "deadbolt"
+    ],
+    "collocations": [
+      {
+        "pattern": "lock + noun (e.g., lock the door)",
+        "examples": [
+          "lock the door",
+          "lock the car"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + lock (e.g., pick a lock)",
+        "examples": [
+          "pick a lock",
+          "change the lock"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'locks' 常象征安全和隐私，例如在文学中代表个人界限；在现代社会，象征数字安全如密码锁。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史语境，如运河船闸",
+        "usage": "在英国英语中，'locks' 在航海或历史叙述中更频繁"
+      },
+      {
+        "region": "美国",
+        "variation": "强调汽车或家居安全",
+        "usage": "在美国英语中，常与日常安全相关，如 'car locks'"
+      }
+    ],
+    "historicalContext": "在中世纪欧洲，'locks' 与封建社会的财产保护相关；在工业革命中，船闸促进了贸易。",
+    "modernUsage": "在社交媒体和数字时代，'locks' 常用于比喻网络安全，如智能手机的指纹锁。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙插入门锁的场景，门锁代表安全，周围有卷曲的头发作为额外元素。",
+      "keyElements": [
+        "钥匙",
+        "门锁",
+        "头发"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年锁门的记忆，以触发安全感情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'locks' 联想为 'lock stock'，代表完整的安全系统。",
+        "explanation": "通过视觉联想强化记忆，解释为将词与常见短语连接以提高认知保留。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /lɒks/ 联想为 'rock' 的声音，想象锁像岩石一样坚固。",
+        "explanation": "利用声音相似性创建联结，帮助初级学习者通过感官记忆掌握发音。"
+      }
+    ],
+    "wordAssociations": [
+      "key",
+      "secure",
+      "hair"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "locks",
+      "pastTense": "locked",
+      "pastParticiple": "locked",
+      "presentParticiple": "locking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., She locks the door)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句或陈述句",
+        "examples": [
+          "He locks his bike every day"
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the front door locks)",
+        "description": "名词短语作为主语",
+        "examples": [
+          "The locks on the canal are ancient"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'locks' with 'blocks'",
+        "correction": "Use 'locks' for fastening devices",
+        "explanation": "错误源于发音相似；建议通过语境区分，如 'locks' 与安全相关"
+      },
+      {
+        "mistake": "Incorrect verb form (e.g., 'lockes' instead of 'locks')",
+        "correction": "Use 'locks' as plural or third person singular",
+        "explanation": "英语动词规则简单，但学习者可能受母语影响；练习动词变形"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "security",
+      "daily life",
+      "technology"
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "mechanism",
+      "hair"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

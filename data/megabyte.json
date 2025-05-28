@@ -1,0 +1,236 @@
+{
+  "word": "megabyte",
+  "phonetics": {
+    "british": "/ˈmɛɡəbaɪt/",
+    "american": "/ˈmɛɡəˌbaɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of digital information storage equal to 1,000,000 bytes (in decimal systems) or 1,048,576 bytes (in binary systems), commonly used to measure computer memory or file sizes.",
+      "chineseTranslation": "兆字节",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one megabyte",
+      "meaning": "一个兆字节",
+      "example": "This image file is only one megabyte in size.",
+      "exampleTranslation": "这个图像文件的大小只有一兆字节。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "megabyte of memory",
+      "meaning": "兆字节的内存",
+      "example": "The smartphone comes with 4 megabytes of memory.",
+      "exampleTranslation": "这款智能手机配备了 4 兆字节的内存。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software update requires at least 10 megabytes of free space on your hard drive.",
+      "translation": "软件更新需要硬盘上至少有 10 兆字节的可用空间。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the early days of computing, a megabyte was considered a large amount of storage.",
+      "translation": "在计算机早期，一个兆字节被认为是很大的存储量。",
+      "source": "Historical article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She downloaded a song that was exactly 5 megabytes long.",
+      "translation": "她下载了一首正好 5 兆字节的歌曲。",
+      "source": "Modern usage (e.g., social media context from COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "mega-",
+        "meaning": "great or large",
+        "language": "Greek"
+      },
+      {
+        "root": "byte",
+        "meaning": "a sequence of bits",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The prefix 'mega-' derives from Greek 'megas' meaning 'great', and was adopted in scientific contexts in the 19th century. The term 'byte' emerged in the 1950s in computing to refer to a unit of data. 'Megabyte' was first used in the 1970s as computing technology advanced, evolving from earlier units like kilobyte to denote larger storage capacities, reflecting the rapid growth of digital storage needs.",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "kilobyte",
+      "gigabyte",
+      "terabyte"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个巨大的字节堆栈来代表'megabyte'；通过重复性练习和关联现有知识（如手机存储），增强记忆保留；对于中文母语学习者，建议比较与'兆'的相似性，以降低抽象概念的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "MB",
+        "similarity": "0.9",
+        "context": "在技术语境中用作缩写，常用于非正式或数字通信中"
+      },
+      {
+        "word": "mebibyte",
+        "similarity": "0.8",
+        "context": "在精确二进制计算中，强调技术准确性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "kilobyte",
+        "context": "表示较小存储单位，常用于对比文件大小"
+      },
+      {
+        "word": "byte",
+        "context": "作为基本单位，与之相对，用于基础数据测量"
+      }
+    ],
+    "hypernyms": [
+      "data unit",
+      "storage unit"
+    ],
+    "hyponyms": [
+      "binary megabyte",
+      "decimal megabyte"
+    ],
+    "collocations": [
+      {
+        "pattern": "megabyte + of + noun (e.g., memory, space)",
+        "examples": [
+          "a megabyte of data",
+          "several megabytes of storage"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + megabyte (e.g., free megabyte)",
+        "examples": [
+          "free megabytes available"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征数字时代的数据爆炸和存储需求，在全球文化中代表技术进步，但也隐含资源消耗的隐喻，如在环保讨论中。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "Often used in everyday tech contexts with decimal definition (1,000,000 bytes)",
+        "usage": "在美国英语中，常见于商业和消费电子产品描述"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "May align with binary definitions in scientific contexts",
+        "usage": "在英国英语中，强调精确性，尤其在学术或工程领域"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命相关，出现在诸如Apple和IBM的产品中，反映工业化社会的数字化转型。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于讨论数据计划或文件共享，体现了全球化数字文化的快速传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的字节金字塔，每一层代表百万字节，像一座现代数据山。",
+      "keyElements": [
+        "字节金字塔",
+        "百万字节",
+        "数据山"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆下载大文件时的兴奋或 frustration，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Mega sounds like 'mega big', so think of a 'big byte'.",
+        "explanation": "通过声音联想和视觉化，将'mega'与'大'关联，基于认知心理学中的心智图像技术"
+      },
+      {
+        "type": "缩略",
+        "content": "M for Mega, like a million marching bytes.",
+        "explanation": "使用缩略形式创建故事，运用叙事记忆技巧来提升词汇保留"
+      }
+    ],
+    "wordAssociations": [
+      "gigabyte",
+      "terabyte",
+      "storage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "megabytes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as measurement",
+        "description": "作为量词用于描述存储大小",
+        "examples": [
+          "This device has 8 megabytes."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "与介词结合表示关系",
+        "examples": [
+          "of megabytes available"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with gigabyte",
+        "correction": "Use megabyte for 1 million bytes and gigabyte for 1 billion bytes",
+        "explanation": "错误源于单位转换，常见于初级学习者；建议通过上下文练习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'megabytes' for plural",
+        "explanation": "英文名词复数规则需注意，尤其对中文母语者"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 words in COCA corpus for tech domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "business"
+    ],
+    "tags": [
+      "digital",
+      "storage",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

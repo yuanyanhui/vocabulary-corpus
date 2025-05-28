@@ -1,0 +1,260 @@
+{
+  "word": "timeline",
+  "phonetics": {
+    "british": "/ˈtaɪm.laɪn/",
+    "american": "/ˈtaɪm.laɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graphical representation of a sequence of events in chronological order, often used to visualize historical or project-related timelines.",
+      "chineseTranslation": "时间线",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a sequence of frames or data points that represent the progression of time in animations, videos, or data visualization.",
+      "chineseTranslation": "时间轴",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (informal)",
+      "definition": "To arrange or display events in a chronological sequence.",
+      "chineseTranslation": "按时间顺序排列",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "project timeline",
+      "meaning": "项目的时间线或进度表",
+      "example": "The project timeline was extended due to unforeseen delays.",
+      "exampleTranslation": "由于意外延误，项目时间线被延长了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "historical timeline",
+      "meaning": "历史事件的时间线",
+      "example": "The museum features an interactive historical timeline of ancient civilizations.",
+      "exampleTranslation": "博物馆展示了古代文明的互动历史时间线。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "social media timeline",
+      "meaning": "社交媒体上的时间轴",
+      "example": "Her social media timeline is filled with travel photos from around the world.",
+      "exampleTranslation": "她的社交媒体时间轴充满了世界各地的旅行照片。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The teacher drew a timeline on the board to illustrate the major events of World War II.",
+      "translation": "老师在黑板上画了一个时间线来阐释二战的重大事件。",
+      "source": "Educational textbook (e.g., from Cambridge English Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In video editing software, the timeline allows users to arrange clips and add effects seamlessly.",
+      "translation": "在视频编辑软件中，时间轴允许用户无缝地排列剪辑并添加效果。",
+      "source": "Technical manual (e.g., from Adobe documentation)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The company's timeline for launching the new product was pushed back by three months.",
+      "translation": "公司推出新产品的时间线被推迟了三个月。",
+      "source": "Business news (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "time",
+        "meaning": "A period or point in duration",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "line",
+        "meaning": "A straight or curved continuous extent of length",
+        "language": "Middle English (from Latin 'linea')"
+      }
+    ],
+    "historicalDevelopment": "The term 'timeline' emerged in the 19th century as a compound word from 'time' and 'line', initially used in historical and geological contexts to denote a linear representation of events. By the 20th century, it evolved to include applications in project management and digital media, reflecting advancements in visualization techniques.",
+    "firstKnownUse": "1870s (first recorded in English literature for historical sequencing)",
+    "relatedWords": [
+      "chronology",
+      "timescale",
+      "milestone"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common phonetic patterns in English, but stress on the first syllable may require practice for Chinese learners)",
+    "spellingDifficulty": "3 (out of 10, straightforward spelling with common morphemes, though compound words can be confusing)",
+    "meaningComplexity": "5 (out of 10, multiple contexts but core meaning is intuitive; intermediate learners may struggle with technical uses)",
+    "usageComplexity": "6 (out of 10, varies by domain; requires understanding of context for proper application)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个直线上的历史事件图片；通过间隔重复法复习不同语境下的例句，以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "chronology",
+        "similarity": "0.8",
+        "context": "适用于历史或事件序列的正式语境中"
+      },
+      {
+        "word": "schedule",
+        "similarity": "0.7",
+        "context": "适用于项目管理或日常规划的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disorder",
+        "context": "在描述无序或非线性事件时"
+      },
+      {
+        "word": "randomness",
+        "context": "在强调无时间顺序的语境中"
+      }
+    ],
+    "hypernyms": [
+      "sequence",
+      "representation"
+    ],
+    "hyponyms": [
+      "Gantt chart",
+      "event timeline"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + timeline (e.g., project timeline)",
+        "examples": [
+          "Create a project timeline",
+          "Review the historical timeline"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Timeline + preposition + noun (e.g., timeline of events)",
+        "examples": [
+          "The timeline of events in the novel"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'timeline' 象征有序性和进步，常用于教育和商业中隐含时间管理的重要性；在中文文化中，类似概念如 '时间线' 可能与历史叙事或计划相关，但强调集体历史而非个人。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in business and tech contexts",
+        "usage": "在美国英语中，常见于项目管理软件，如 Microsoft Project"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage in academic settings",
+        "usage": "在英国英语中，经常与历史教育结合，如 BBC 文档"
+      }
+    ],
+    "historicalContext": "该词与工业革命时代的时间管理理念相关联，如在19世纪的铁路和历史编年史中；在中国文化中，类似概念可追溯到传统年表，如《史记》的编年体。",
+    "modernUsage": "在社交媒体如 Twitter 或 Instagram 上，'timeline' 指个人动态流，反映数字时代的即时性和全球化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条直线河流，上面标记着不同的事件泡泡，如历史人物漂浮在河上。",
+      "keyElements": [
+        "直线河流",
+        "事件泡泡",
+        "时间标记"
+      ],
+      "emotionalConnection": "联结到个人经历，如回想自己的生活时间线，以触发 nostalgia 或成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Time like a line – think of a clock's hand moving along a straight path.",
+        "explanation": "通过空间联想加强视觉记忆，基于认知科学的空间认知理论"
+      },
+      {
+        "type": "缩略",
+        "content": "T-I-M-E-L-I-N-E: Time Is Moving Evenly, Like In A New Era.",
+        "explanation": "使用首字母缩略词创建故事，提升记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "chronicle",
+      "milestone",
+      "sequence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "timelines",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + timeline",
+        "description": "主语 + 动词 + 时间线结构，常用于描述使用或创建时间线",
+        "examples": [
+          "We created a timeline for the project."
+        ]
+      },
+      {
+        "pattern": "Timeline + of + noun",
+        "description": "时间线 + of + 名词结构，表示具体内容",
+        "examples": [
+          "The timeline of human evolution."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'timeline' with 'timelime' (spelling error)",
+        "correction": "Correct spelling is 'timeline'",
+        "explanation": "源自对复合词的拼写混淆；建议通过分词练习避免"
+      },
+      {
+        "mistake": "Using as a verb without context",
+        "correction": "Use in noun form or clarify in verb context",
+        "explanation": "中文学习者可能误用为动词；强调语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Business",
+      "Technology",
+      "History"
+    ],
+    "tags": [
+      "Time management",
+      "Visualization",
+      "Sequence"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

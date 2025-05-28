@@ -1,0 +1,241 @@
+{
+  "word": "quantity",
+  "phonetics": {
+    "british": "/ˈkwɒntɪti/",
+    "american": "/ˈkwɑːntəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The amount or number of something, especially when it can be measured or counted.",
+      "chineseTranslation": "数量",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measurable or countable property of a thing, often used in scientific or mathematical contexts.",
+      "chineseTranslation": "量（尤指科学中的可测量属性）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a large quantity of",
+      "meaning": "大量",
+      "example": "We have a large quantity of data to analyze.",
+      "exampleTranslation": "我们有大量数据需要分析。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "small quantity",
+      "meaning": "少量",
+      "example": "Only a small quantity of the chemical is needed for the experiment.",
+      "exampleTranslation": "实验只需要少量的化学品。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "quantity over quality",
+      "meaning": "数量优先于质量",
+      "example": "In mass production, companies often prioritize quantity over quality.",
+      "exampleTranslation": "在批量生产中，公司通常优先考虑数量而非质量。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The recipe calls for a specific quantity of flour to ensure the bread rises properly.",
+      "translation": "这个食谱要求特定数量的面粉来确保面包正确发酵。",
+      "source": "Cooking literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physics, quantity refers to variables like mass and velocity that can be quantified.",
+      "translation": "在物理学中，量指的是可以量化的变量，如质量和速度。",
+      "source": "Scientific texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She bought a quantity of books at the sale, but didn't check their quality.",
+      "translation": "她在特卖会上买了大量书籍，但没有检查它们的质量。",
+      "source": "Informal narrative",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "quant-",
+        "meaning": "how much or how great",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'quantitas'，意为'多少'，由 'quantus'（多少）演变而来。经由古法语 'quantité' 传入中古英语，最终演变为现代英语 'quantity'，其意义从抽象的测量扩展到具体数量的计数。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "quality",
+      "quantify",
+      "quantitative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用间隔重复法（spaced repetition）来记忆词汇关联；结合视觉图像，如将 'quantity' 想象为数字秤上的物品，以增强认知编码；针对中文学习者，强调区分 'quantity' 与 'quality' 的发音差异，通过双语对照练习避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "amount",
+        "similarity": "0.8",
+        "context": "适用于商业或日常语境中表示总体数字，例如在讨论库存时"
+      },
+      {
+        "word": "volume",
+        "similarity": "0.7",
+        "context": "常用于科学或贸易语境中表示三维空间中的数量"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "quality",
+        "context": "在强调标准或特性时使用，例如商业决策中 'quantity over quality' 的对比"
+      }
+    ],
+    "hypernyms": [
+      "measure"
+    ],
+    "hyponyms": [
+      "volume",
+      "mass",
+      "weight"
+    ],
+    "collocations": [
+      {
+        "pattern": "a [adjective] quantity of [noun]",
+        "examples": [
+          "a large quantity of water"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "quantity in [context]",
+        "examples": [
+          "quantity in economics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征工业化和现代化的价值观，强调效率和规模化生产，常与资本主义经济模式相关联，如在文学作品中代表物质丰裕或消费主义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式语境使用，语音强调 /ɒ/ 音",
+        "usage": "在英国英语中，常用于学术和正式报告中，以突出精确测量"
+      },
+      {
+        "region": "美国",
+        "variation": "更口语化，语音为 /ɑː/，常在商业语境简化表达",
+        "usage": "在美国英语中，经常与市场营销相关联，如 'buy in quantity' 表示批量购买"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的科学革命相关联，例如牛顿物理学中对量的强调，反映了从中世纪的质性描述向现代量化分析的转变。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于讨论大数据或在线购物趋势，如电商平台的 'bulk quantity' 折扣，体现全球化和技术驱动的语言演变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤上堆满苹果的场景，每个苹果代表一个单位的数量。",
+      "keyElements": [
+        "天平秤",
+        "苹果",
+        "数字计数"
+      ],
+      "emotionalConnection": "联结到个人购物经验，如购买大量水果时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'quantity' 联想为 'quant' 像 'question how many things' 的缩写",
+        "explanation": "通过问题形式强化记忆，帮助中文学习者从疑问句入手理解词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "听起来像 'kwan-ti-tee'，联想为 '宽体'（wide body），表示广阔的数量范围",
+        "explanation": "利用声音相似性创建图像，帮助认知加工和长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "amount",
+      "count",
+      "measure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "quantities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + quantity + of + noun",
+        "description": "主语 + 动词 + 数量 + of + 名词结构，常用于描述具体量",
+        "examples": [
+          "The quantity of food is sufficient."
+        ]
+      },
+      {
+        "pattern": "In + context + quantity",
+        "description": "在特定语境中使用数量，常见于正式表达",
+        "examples": [
+          "In commerce, quantity drives pricing."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'quantity' with 'quality'",
+        "correction": "Use 'quantity' for amount and 'quality' for standard",
+        "explanation": "中文学习者常因音似混淆；通过语境区分，如 'number' vs. 'standard'"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'quantities' for plural",
+        "explanation": "作为规则名词，确保在复数语境中正确添加 -ies"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 1000 words in corpora like COCA",
+    "domains": [
+      "science",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "measurement",
+      "noun",
+      "abstract concept"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

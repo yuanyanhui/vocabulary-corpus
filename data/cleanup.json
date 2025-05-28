@@ -1,0 +1,254 @@
+{
+  "word": "cleanup",
+  "phonetics": {
+    "british": "/ˈkliːnʌp/",
+    "american": "/ˈkliːnʌp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of removing dirt, waste, or unwanted items from an area, often to restore order or cleanliness.",
+      "chineseTranslation": "清理；清除",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove dirt, waste, or unwanted items from an area, making it clean and orderly.",
+      "chineseTranslation": "清理；清除",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cleanup crew",
+      "meaning": "清理队伍",
+      "example": "The cleanup crew worked tirelessly after the storm to remove debris from the streets.",
+      "exampleTranslation": "清理队伍在风暴后不懈地工作，从街道上清除碎片。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "environmental cleanup",
+      "meaning": "环境清理",
+      "example": "The government funded an environmental cleanup project to restore the polluted river.",
+      "exampleTranslation": "政府资助了一个环境清理项目，以恢复受污染的河流。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data cleanup",
+      "meaning": "数据清理",
+      "example": "Before analyzing the dataset, we performed a data cleanup to remove errors and duplicates.",
+      "exampleTranslation": "在分析数据集之前，我们进行了数据清理以去除错误和重复项。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the party, we spent hours on the cleanup to make the house spotless.",
+      "translation": "派对结束后，我们花了几个小时进行清理，使房子一尘不染。",
+      "source": " everyday conversation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The oil spill required a massive cleanup effort involving volunteers and experts.",
+      "translation": "石油泄漏需要大规模的清理努力，包括志愿者和专家。",
+      "source": "news article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, a cleanup function is used to free up memory and resources.",
+      "translation": "在软件开发中，清理函数用于释放内存和资源。",
+      "source": "technical documentation (e.g., from technical corpora like COCA)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "clean",
+        "meaning": "Free from dirt or impurities",
+        "language": "Old English (from Proto-Germanic *klainiz)"
+      },
+      {
+        "root": "up",
+        "meaning": "In an upward direction or to completion",
+        "language": "Old English (from Proto-Germanic *up)"
+      }
+    ],
+    "historicalDevelopment": "词源可追溯到古英语 'clǣne'（意思是纯净或干净），与 'up' 结合形成复合词。最初用于描述物理清理行为，19 世纪开始扩展到比喻意义，如数据或环境清理。根据 OED，这种复合词在 19 世纪中期开始流行，随着工业化和城市化， Cleanup 逐渐用于更广泛的语境。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "cleanse",
+      "purify",
+      "tidy up"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于简单的元音和辅音组合，易于初级学习者掌握)",
+    "spellingDifficulty": "4 (1-10, 拼写直观，但可能与 'clean up' 的分词形式混淆)",
+    "meaningComplexity": "5 (1-10, 语义相对简单，但根据语境可扩展到比喻用法)",
+    "usageComplexity": "6 (1-10, 需要理解语境，如物理 vs. 比喻清理)",
+    "learningTips": [
+      "结合认知科学，利用视觉想象将 'cleanup' 与日常清理场景关联，以强化记忆；建议通过间隔重复系统复习词汇；针对中文母语学习者，强调英语中复合词的形成以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tidy",
+        "similarity": "0.8",
+        "context": "适用于家庭或办公室的日常清理语境"
+      },
+      {
+        "word": "clear up",
+        "similarity": "0.9",
+        "context": "在非正式场合用于移除障碍或解决问题"
+      },
+      {
+        "word": "sanitize",
+        "similarity": "0.7",
+        "context": "强调卫生和消毒的语境，如医疗领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mess up",
+        "context": "表示制造混乱的语境，与清理相反"
+      },
+      {
+        "word": "pollute",
+        "context": "环境语境中，表示增加污染"
+      }
+    ],
+    "hypernyms": [
+      "maintenance",
+      "restoration"
+    ],
+    "hyponyms": [
+      "spring cleaning",
+      "hazardous waste removal"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + cleanup (e.g., environmental cleanup)",
+        "examples": [
+          "environmental cleanup",
+          "data cleanup"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + object (e.g., cleanup the mess)",
+        "examples": [
+          "cleanup the area"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常象征秩序和责任，尤其在环保运动中（如 Earth Day 活动），隐含对可持续性的强调。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于非正式语境，如社区活动",
+        "usage": "在美国英语中，经常与社会责任相关联，例如 'community cleanup days'"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式表达，如 'clear-up operation'",
+        "usage": "在英国英语中，常用于新闻报道中描述紧急响应"
+      }
+    ],
+    "historicalContext": "与工业革命相关，19 世纪的 Cleanup 词汇反映了城市卫生和环境改革的浪潮，例如 Victorian era 的公共卫生运动。",
+    "modernUsage": "在社交媒体和数字时代，常见于环保宣传或在线讨论，如 Twitter 上的 #cleanupcampaign"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个凌乱的房间，经过清理后变得整洁明亮。",
+      "keyElements": [
+        "扫帚、垃圾桶、闪亮的地板"
+      ],
+      "emotionalConnection": "联结个人经验，如童年打扫房间的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'cleanup' 联想为 'clean up the mess'，想象清洁工在清理垃圾。",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'cleanup' 的发音与清脆的扫地声音关联。",
+        "explanation": "利用多感官学习，结合听觉和视觉以改善长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "tidy",
+      "organize",
+      "sanitize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cleanups",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., We cleanup the park)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句或叙述",
+        "examples": [
+          "They cleanup after events."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the cleanup effort)",
+        "description": "作为名词短语，用于描述具体行动",
+        "examples": [
+          "The cleanup is scheduled for tomorrow."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'cleanup' as an adjective",
+        "correction": "Use 'clean-up' or rephrase",
+        "explanation": "Cleanup 主要为名词或动词，避免误用为形容词，如改 'cleanup job' 为 'clean-up job'"
+      },
+      {
+        "mistake": "Confusing with 'clean up' (two words)",
+        "correction": "Use 'cleanup' as one word for noun form",
+        "explanation": "中文母语学习者常因词形分离而混淆，需注意英语复合词规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "environmental",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "action",
+      "maintenance",
+      "environment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

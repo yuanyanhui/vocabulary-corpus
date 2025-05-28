@@ -1,0 +1,214 @@
+{
+  "word": "antilogarithm",
+  "phonetics": {
+    "british": "/ˌæn.tiˈlɒɡ.ə.rɪ.θəm/",
+    "american": "/ˌæn.tiˈlɑː.ɡə.rɪ.θəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number which is the result of raising a base to the power of a given logarithm; specifically, the inverse of a logarithm.",
+      "chineseTranslation": "反对数",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "find the antilogarithm",
+      "meaning": "寻找反对数",
+      "example": "To solve the equation, you need to find the antilogarithm of the value.",
+      "exampleTranslation": "为了求解方程，你需要找到该值的反对数。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "antilogarithm table",
+      "meaning": "反对数表",
+      "example": "Engineers often refer to an antilogarithm table for quick calculations.",
+      "exampleTranslation": "工程师们经常参考反对数表来进行快速计算。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the antilogarithm of 3 in base 10 is 1000.",
+      "translation": "在数学中，10进制下3的反对数是1000。",
+      "source": "Educational textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She used the antilogarithm to convert the logarithmic value back to its original number.",
+      "translation": "她使用反对数将对数值转换回原来的数字。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The calculator's antilogarithm function is essential for exponential growth problems.",
+      "translation": "计算器的反对数功能对于指数增长问题至关重要。",
+      "source": "Technology manual",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "anti-",
+        "meaning": "against or opposite",
+        "language": "Greek"
+      },
+      {
+        "root": "logarithm",
+        "meaning": "from Greek 'logos' meaning word, reason, or ratio",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪早期，旨在描述对数函数的反函数。起初，在对数表普及的时代，用于简化计算；从希腊词根演变而来，随着数学的现代化发展，该术语在科学文献中标准化。",
+    "firstKnownUse": "约1840年",
+    "relatedWords": [
+      "logarithm",
+      "antilog",
+      "exponent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法，将 'anti-' 视为 'opposite' 的视觉提示，并通过重复练习数学情境来强化记忆；建议使用斯宾塞-艾宾浩斯遗忘曲线来间隔复习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "antilog",
+        "similarity": "0.9",
+        "context": "主要在技术语境中，用于简化表达，例如在计算中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "logarithm",
+        "context": "在数学计算中，对立关系，表示从原始数字到指数的转换"
+      }
+    ],
+    "hypernyms": [
+      "inverse function"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "antilogarithm of [number]",
+        "examples": [
+          "the antilogarithm of 2"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "calculate the antilogarithm",
+        "examples": [
+          "calculate the antilogarithm in base 10"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征数学精确性和技术进步，尤其在工业革命期间的计算工具中隐含效率的隐喻；在非西方文化中，可能与现代教育体系的全球传播相关。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常使用 'antilog' 的缩写形式",
+        "usage": "在美国技术手册中，简化表达以适应快速计算需求"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "保留完整形式 'antilogarithm'，强调正式性",
+        "usage": "在英国教育体系中，用于学术写作以保持精确性"
+      }
+    ],
+    "historicalContext": "与19世纪的数学革命相关，如对数表的发明，帮助了航海和工程；在文学中，偶尔出现于科幻作品中，代表理性和逻辑。",
+    "modernUsage": "在社交媒体和在线教育平台上，趋势转向使用数字工具，如计算器App，以简化概念传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个翻转的阶梯，其中 'anti-' 代表阶梯的倒置，连接到对数的世界。",
+      "keyElements": [
+        "翻转阶梯",
+        "数字转换"
+      ],
+      "emotionalConnection": "联结到个人经历，如解决谜题的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Anti-logarithm: Anti means opposite, so it's the opposite of log.",
+        "explanation": "通过视觉联想 'anti-' 为镜像，反射出对数的原始值，帮助建立长时记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "A-N-T-I: Against Numerical Transformation Inverse",
+        "explanation": "使用首字母缩写结合故事法，基于认知关联来减少遗忘"
+      }
+    ],
+    "wordAssociations": [
+      "logarithm",
+      "exponent",
+      "inverse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "antilogarithms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The antilogarithm of [object]",
+        "description": "用作名词短语，描述特定计算对象",
+        "examples": [
+          "The antilogarithm of 4 is 10000 in base 10."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing antilogarithm with logarithm",
+        "correction": "Use antilogarithm for the inverse operation",
+        "explanation": "学习者常混淆两者功能；通过比较图表可澄清"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "antilogarithms",
+        "explanation": "英文名词规则添加 -s，但需注意发音"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "science",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "mathematical term",
+      "inverse function"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "word": "rate",
+  "phonetics": {
+    "british": "/reɪt/",
+    "american": "/reɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a measure, quantity, or frequency, typically one measured against some other quantity or measure",
+      "chineseTranslation": "比率，速度，等级",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "assign a standard or value to (something) according to a particular scale",
+      "chineseTranslation": "评估，评级，认为",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at any rate",
+      "meaning": "无论如何，至少",
+      "example": "At any rate, we must finish this project by tomorrow.",
+      "exampleTranslation": "无论如何，我们必须在明天之前完成这个项目。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "success rate",
+      "meaning": "成功率",
+      "example": "The success rate of this method is impressively high.",
+      "exampleTranslation": "这种方法的成功率非常高。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The unemployment rate has dropped significantly this year.",
+      "translation": "今年的失业率显著下降。",
+      "source": "news report",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "How would you rate the service at this restaurant?",
+      "translation": "你如何评价这家餐厅的服务？",
+      "source": "everyday conversation",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "rata",
+        "meaning": "fixed portion",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'rata'（固定部分）演变为中世纪法语 'rate'，意为比例或估价，14世纪进入英语，最初用于税收或估值的固定比例，后扩展为速度、频率或评价的含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "ratio",
+      "ration",
+      "rational"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1-B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "通过与 'ratio' 等相关词联系，理解其核心含义为 '比例' 或 '度量'。",
+      "结合具体场景（如评分、速度）反复练习不同语境下的用法。",
+      "使用可视化工具（如评分表）强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "evaluate",
+        "similarity": "0.8",
+        "context": "作为动词时，用于评估或评分"
+      },
+      {
+        "word": "proportion",
+        "similarity": "0.7",
+        "context": "作为名词时，表示比率或比例"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disregard",
+        "context": "作为动词时，表示忽视或不予评价"
+      }
+    ],
+    "hypernyms": [
+      "measure",
+      "assessment"
+    ],
+    "hyponyms": [
+      "interest rate",
+      "success rate"
+    ],
+    "collocations": [
+      {
+        "pattern": "rate of + noun",
+        "examples": [
+          "rate of growth",
+          "rate of inflation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "rate + noun",
+        "examples": [
+          "rate the performance",
+          "rate the movie"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'rate' 常用于量化评估（如评分系统），反映了西方社会对数据和客观标准的重视，尤其在商业和教育领域。",
+    "regionalVariations": [
+      {
+        "region": "British English",
+        "variation": "常用于 'rates' 指地方税",
+        "usage": "如 'council rates' 意为市政税"
+      },
+      {
+        "region": "American English",
+        "variation": "更常用于评分或速度",
+        "usage": "如 'interest rate' 或 'heart rate'"
+      }
+    ],
+    "historicalContext": "在中世纪英国，'rate' 常用于税收估算，与社会经济制度密切相关；现代则更多与数据分析和评估文化挂钩。",
+    "modernUsage": "在社交媒体和互联网时代，'rate' 常用于在线评分或评论，如 'rate this app'（评价这款应用）。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个评分表，上面有1到5颗星，你正在用笔给一部电影打分。",
+      "keyElements": [
+        "评分表",
+        "星星",
+        "笔"
+      ],
+      "emotionalConnection": "联想到最近看的一部电影，回忆对它的评价感受。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "rate 和 'great' 发音相似，联想 'rate something great'（评价某物很棒）。",
+        "explanation": "通过发音相似性建立记忆连接，强化对 'rate' 作为评价的含义。"
+      }
+    ],
+    "wordAssociations": [
+      "grade",
+      "score",
+      "evaluate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "rates",
+      "pastTense": "rated",
+      "pastParticiple": "rated",
+      "presentParticiple": "rating",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "rate something as + adjective",
+        "description": "用于评价某物为某种程度",
+        "examples": [
+          "They rated the movie as excellent."
+        ]
+      },
+      {
+        "pattern": "rate of + noun",
+        "description": "表示某种比率或速度",
+        "examples": [
+          "The rate of unemployment is increasing."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "混淆 'rate' 和 'ratio'",
+        "correction": "'rate' 更常指速度或频率，'ratio' 指比例关系",
+        "explanation": "'rate' 常与时间相关，如 'rate of speed'；'ratio' 多为静态对比，如 'male to female ratio'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 2000 words (COCA)",
+    "domains": [
+      "economics",
+      "education",
+      "everyday conversation"
+    ],
+    "tags": [
+      "measurement",
+      "evaluation",
+      "statistics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Corpus of Contemporary American English (COCA)",
+      "Oxford English Dictionary (OED)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

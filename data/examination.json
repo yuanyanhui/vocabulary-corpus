@@ -1,0 +1,266 @@
+{
+  "word": "examination",
+  "phonetics": {
+    "british": "/ɪɡˌzæmɪˈneɪʃən/",
+    "american": "/ɪɡˌzæməˈneɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A formal test of a person's knowledge or proficiency in a subject or skill.",
+      "chineseTranslation": "考试",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A detailed inspection or investigation of something, often in a medical or scientific context.",
+      "chineseTranslation": "检查；检验",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of examining or being examined.",
+      "chineseTranslation": "审查；审视",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take an examination",
+      "meaning": "参加考试",
+      "example": "Students must take an examination at the end of the semester.",
+      "exampleTranslation": "学生必须在学期末参加考试。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "medical examination",
+      "meaning": "身体检查",
+      "example": "Before joining the company, all employees undergo a medical examination.",
+      "exampleTranslation": "加入公司前，所有员工都要进行身体检查。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "under examination",
+      "meaning": "正在被审查或检验中",
+      "example": "The new policy is under examination by the committee.",
+      "exampleTranslation": "新政策正在委员会审查中。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The final examination will cover all chapters from the textbook.",
+      "translation": "期末考试将涵盖课本的所有章节。",
+      "source": "Educational textbook (e.g., from British National Corpus - BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the accident, the doctor performed a thorough examination of the patient.",
+      "translation": "事故后，医生对患者进行了彻底的检查。",
+      "source": "Medical literature (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The examination of the ancient artifact revealed new insights into historical trade routes.",
+      "translation": "对古代文物的检查揭示了历史贸易路线的全新洞见。",
+      "source": "Academic journal (e.g., from Oxford English Dictionary - OED)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "examinare",
+        "meaning": "to weigh or test",
+        "language": "Latin"
+      },
+      {
+        "root": "examen",
+        "meaning": "tongue of a balance, examination",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'examen'，意为天平的舌头或检查，演变为中古英语中表示测试或审视的过程。在17世纪，扩展到教育和医疗语境中，现代英语中强调正式评估。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "examine",
+      "examiner",
+      "examination"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'examination' 与个人考试经历关联，以增强记忆；使用间隔重复系统（如Anki）复习不同语境下的用法，以避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "test",
+        "similarity": "0.8",
+        "context": "在教育语境中，例如学校考试"
+      },
+      {
+        "word": "assessment",
+        "similarity": "0.7",
+        "context": "在正式评估或专业评价中"
+      },
+      {
+        "word": "inspection",
+        "similarity": "0.6",
+        "context": "在医疗或质量检查语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignorance",
+        "context": "表示缺乏知识或未经验证的状态"
+      },
+      {
+        "word": "neglect",
+        "context": "表示忽略或未进行检查的情况"
+      }
+    ],
+    "hypernyms": [
+      "evaluation",
+      "assessment"
+    ],
+    "hyponyms": [
+      "final examination",
+      "oral examination",
+      "physical examination"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + examination (e.g., final examination)",
+        "examples": [
+          "final examination",
+          "medical examination"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + examination (e.g., conduct an examination)",
+        "examples": [
+          "conduct an examination",
+          "pass an examination"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征教育体系的正式评估，隐含竞争和成就的隐喻，尤其在英美文化中与标准化测试（如SAT）相关，体现社会流动性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式学术考试，如A-levels",
+        "usage": "在英国英语中，常用于教育改革语境，强调考试的标准化"
+      },
+      {
+        "region": "美国",
+        "variation": "包括标准化测试和非正式评估",
+        "usage": "在美国英语中，常与大学入学考试结合，使用更宽泛"
+      }
+    ],
+    "historicalContext": "与工业革命后的教育改革相关，19世纪英国推广考试制度以促进公平；在文学中，如狄更斯的作品中，代表社会阶层上升的工具。",
+    "modernUsage": "在社交媒体和在线教育中，常见于讨论考试压力或远程评估趋势，如Zoom考试。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤（源自词根），一边放书本，一边放测试纸，代表权衡知识。",
+      "keyElements": [
+        "天平",
+        "书本",
+        "测试纸"
+      ],
+      "emotionalConnection": "联结个人考试经历的紧张感，以触发情绪记忆，增强长期保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Ex-amine-ation: 'Ex' 像出口，'amine' 像矿石，需要检验。",
+        "explanation": "通过视觉联想将词与检验过程连接，利用认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪɡˌzæmɪˈneɪʃən/ 听起来像 'egg examine nation'，想象一个国家在检查鸡蛋的质量。",
+        "explanation": "使用声音与图像的联结，促进海马体记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "test",
+      "quiz",
+      "checkup"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "examinations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + examination",
+        "description": "主语+动词+examination 结构，常用于描述进行检查的句子。",
+        "examples": [
+          "The doctor conducted an examination."
+        ]
+      },
+      {
+        "pattern": "examination + of + object",
+        "description": "examination of + 宾语，强调对象的检查内容。",
+        "examples": [
+          "An examination of the evidence was necessary."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'examination' as a verb",
+        "correction": "Use 'examine' as the verb form",
+        "explanation": " 'Examination' 是名词，不能直接用作动词；正确用法需转换词性。"
+      },
+      {
+        "mistake": "Confusing with 'examine'",
+        "correction": "Distinguish based on context",
+        "explanation": " 'Examine' 是动词，'examination' 是名词；母语为中文的学习者可能受词形影响混淆。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "education",
+      "medicine",
+      "business"
+    ],
+    "tags": [
+      "academic",
+      "formal",
+      "assessment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

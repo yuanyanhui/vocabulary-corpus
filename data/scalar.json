@@ -1,0 +1,243 @@
+{
+  "word": "scalar",
+  "phonetics": {
+    "british": "/ˈskeɪlə/",
+    "american": "/ˈskeɪlər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity that has magnitude but no direction, such as mass or temperature, as opposed to a vector.",
+      "chineseTranslation": "标量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to a scalar quantity or value.",
+      "chineseTranslation": "标量的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scalar quantity",
+      "meaning": "具有大小但没有方向的量",
+      "example": "In physics, speed is a scalar quantity because it lacks direction.",
+      "exampleTranslation": "在物理学中，速度是一种标量，因为它没有方向。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "scalar multiplication",
+      "meaning": "对向量或矩阵进行的标量乘法操作",
+      "example": "Scalar multiplication is a basic operation in linear algebra.",
+      "exampleTranslation": "标量乘法是线性代数中的基本运算。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist explained that temperature is a scalar, not a vector.",
+      "translation": "物理学家解释说温度是一种标量，而不是向量。",
+      "source": "Scientific textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, a scalar variable holds a single value, like an integer or string.",
+      "translation": "在编程中，标量变量保存单个值，如整数或字符串。",
+      "source": "Computer science article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She used scalar values to simplify the complex equation in her research.",
+      "translation": "她在研究中使用了标量值来简化复杂的方程。",
+      "source": "Academic paper",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "scalaris",
+        "meaning": "resembling a ladder",
+        "language": "Latin"
+      },
+      {
+        "root": "scala",
+        "meaning": "ladder or staircase",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'scala'（阶梯），演变为 'scalaris'，表示梯度或比例的概念。在17世纪，英语中开始用于数学和物理学，指具有大小但无方向的量，随着科学革命的发展，该词在19世纪标准化为现代意义。",
+    "firstKnownUse": "1660s",
+    "relatedWords": [
+      "scale",
+      "escalate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法，例如将 'scalar' 想象为一个阶梯，表示逐步增长的大小；通过重复暴露于科学语境中增强记忆路径；避免混淆向量，运用对比学习以强化区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "magnitude",
+        "similarity": "0.7",
+        "context": "适用于强调大小而非方向的科学语境"
+      },
+      {
+        "word": "single value",
+        "similarity": "0.6",
+        "context": "在编程中，用于描述非数组变量"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "vector",
+        "context": "在数学和物理学中，用于对比有方向的量"
+      },
+      {
+        "word": "tensor",
+        "context": "在高级数学中，用于多维复杂结构"
+      }
+    ],
+    "hypernyms": [
+      "quantity"
+    ],
+    "hyponyms": [
+      "mass",
+      "temperature",
+      "speed"
+    ],
+    "collocations": [
+      {
+        "pattern": "scalar + noun (e.g., scalar quantity)",
+        "examples": [
+          "scalar field",
+          "scalar product"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + scalar (e.g., physical scalar)",
+        "examples": [
+          "invariant scalar"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和简化，通常与启蒙运动和现代科学方法相关联，隐含语义强调定量分析而非定性描述。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在计算机科学中更常用于编程语境",
+        "usage": "例如，在美国英语中，'scalar' 在软件开发中频繁出现，以区别于数组或对象"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于物理学和数学的传统用法",
+        "usage": "在英国英语中，常见于学术讲座和教科书中"
+      }
+    ],
+    "historicalContext": "与17世纪的科学革命相关联，如牛顿的著作中隐含类似概念，推动了工业革命和现代技术发展。",
+    "modernUsage": "在社交媒体和在线教育中，'scalar' 常用于科普视频或编程教程，反映了全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个直立的阶梯，每一级代表一个标量值的大小，而没有方向性。",
+      "keyElements": [
+        "阶梯",
+        "大小增长",
+        "无方向"
+      ],
+      "emotionalConnection": "联结到个人经历，如爬楼梯时的逐步努力，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Scalar sounds like 'scale', like a weighing scale that measures size only.",
+        "explanation": "通过声音联想将 'scalar' 与 'scale' 联系，强化认知路径，避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-A-L-A-R: Size without Course And Location And Direction.",
+        "explanation": "使用首字母缩写结合解释，帮助构建结构化记忆网络"
+      }
+    ],
+    "wordAssociations": [
+      "scale",
+      "quantity",
+      "magnitude"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "scalars",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a scalar quantity)",
+        "description": "作为名词时，常用于描述具体概念的短语结构",
+        "examples": [
+          "This is a scalar in physics."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier (e.g., scalar values)",
+        "description": "作为形容词时，用于修饰名词，表示相关属性",
+        "examples": [
+          "The function returns scalar results."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing scalar with vector",
+        "correction": "Use scalar for quantities without direction",
+        "explanation": "源自语义相似性，需通过上下文区分以避免错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'scalars' for plural",
+        "explanation": "英语名词规则简单，但初级学习者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "computing"
+    ],
+    "tags": [
+      "technical",
+      "quantitative",
+      "physics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

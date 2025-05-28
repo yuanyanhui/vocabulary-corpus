@@ -1,0 +1,240 @@
+{
+  "word": "quantifier",
+  "phonetics": {
+    "british": "/ˈkwɒntɪfaɪə(r)/",
+    "american": "/ˈkwɑːntɪfaɪər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word or phrase that indicates the quantity of something, such as 'all', 'some', or 'none', often used in grammar or logic.",
+      "chineseTranslation": "量词",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In logic and mathematics, a symbol or operator that expresses the scope of a variable, such as 'for all' or 'there exists'.",
+      "chineseTranslation": "量化器",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "universal quantifier",
+      "meaning": "全称量化器，表示所有成员都满足条件",
+      "example": "In logic, the universal quantifier 'for all' is used to make general statements.",
+      "exampleTranslation": "在逻辑中，全称量化器 'for all' 用于作出一般性陈述。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "existential quantifier",
+      "meaning": "存在量化器，表示至少有一个成员满足条件",
+      "example": "The existential quantifier 'there exists' is common in mathematical proofs.",
+      "exampleTranslation": "存在量化器 'there exists' 在数学证明中很常见。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In English grammar, 'many' is a quantifier that describes a large but unspecified number.",
+      "translation": "在英语语法中，'many' 是一个量词，用于描述一个大但不具体的数字。",
+      "source": "Grammar textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The sentence 'All men are mortal' uses a universal quantifier in logical terms.",
+      "translation": "句子 'All men are mortal' 在逻辑术语中使用了全称量化器。",
+      "source": "Philosophical literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Some students prefer using quantifiers like 'few' in informal conversations.",
+      "translation": "一些学生喜欢在非正式对话中使用像 'few' 这样的量词。",
+      "source": "Daily conversations",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "quantus",
+        "meaning": "how great or how much",
+        "language": "Latin"
+      },
+      {
+        "root": "-ifier",
+        "meaning": "one that makes or produces",
+        "language": "Latin/French influence"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'quantus'，意思是 '多少'，通过法语演变为现代英语，最初在19世纪用于逻辑和数学领域，后来扩展到语法分析中，表示数量表达的演变。",
+    "firstKnownUse": "1830s",
+    "relatedWords": [
+      "quantity",
+      "quantify",
+      "quantitative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学原理，将词汇与视觉图像关联，例如想象一个天平秤来代表量化；结合间隔重复法复习以加强记忆痕迹；对于母语为中文的学习者，联结到汉语中的量词如 '一些' 或 '所有' 以降低认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "specifier",
+        "similarity": "0.7",
+        "context": "在语法语境中，用于指定数量，但不如 quantifier 精确"
+      },
+      {
+        "word": "enumerator",
+        "similarity": "0.6",
+        "context": "在数据或统计语境中，表示计数工具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "qualifier",
+        "context": "qualifier 强调质量或条件，而非数量，因此在描述语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "modifier"
+    ],
+    "hyponyms": [
+      "multiplier",
+      "determiner"
+    ],
+    "collocations": [
+      {
+        "pattern": "quantifier + noun",
+        "examples": [
+          "many books",
+          "some water"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + quantifier + context",
+        "examples": [
+          "in all cases",
+          "in some scenarios"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方学术文化中象征精确性和逻辑推理，常用于哲学和科学讨论中，隐含语义强调量化思维的普遍性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在技术语境，如计算机科学",
+        "usage": "在美国英语中，quantifier 常与数据分析结合"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向于语法和逻辑的传统使用",
+        "usage": "在英国英语中，更强调其在语言学中的角色"
+      }
+    ],
+    "historicalContext": "与启蒙运动和逻辑学发展相关，如亚里士多德和康德的哲学影响，在现代则与计算机科学和AI领域关联。",
+    "modernUsage": "在社交媒体和在线教育中，quantifier 常用于数据可视化和AI讨论，反映数字时代的信息量化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个装满不同数量物品的篮子，quantifier 像是一个标签贴在篮子上，表示 '多少'。",
+      "keyElements": [
+        "篮子",
+        "物品数量",
+        "标签"
+      ],
+      "emotionalConnection": "联结到个人购物经验，例如计算日常开销，以触发熟悉感和情绪共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Quantifier 听起来像 'quantity fire'，想象用火点燃数量来计算。",
+        "explanation": "通过声音联觉和视觉联想，帮助记忆词根和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "Q for Quantity",
+        "explanation": "使用首字母缩略法与基本概念连接，强化认知路径"
+      }
+    ],
+    "wordAssociations": [
+      "quantity",
+      "measure",
+      "logic"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "quantifiers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Quantifier + Noun",
+        "description": "量词直接修饰名词，构成数量表达",
+        "examples": [
+          "Some apples are red."
+        ]
+      },
+      {
+        "pattern": "In + Quantifier + Clause",
+        "description": "在句子中用于逻辑结构",
+        "examples": [
+          "In all probability, it will rain."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'qualifier'",
+        "correction": "Use 'quantifier' for quantity and 'qualifier' for quality",
+        "explanation": "母语为中文的学习者可能混淆，因为汉语中数量和质量表达相似，需要区分语境"
+      },
+      {
+        "mistake": "Incorrect placement in sentence",
+        "correction": "Place quantifier before the noun it modifies",
+        "explanation": "如 'Many people' 而非 'People many'，以符合英语句法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "academics",
+      "science",
+      "linguistics"
+    ],
+    "tags": [
+      "grammar",
+      "logic",
+      "mathematics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

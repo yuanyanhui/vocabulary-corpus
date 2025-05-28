@@ -1,0 +1,270 @@
+{
+  "word": "computation",
+  "phonetics": {
+    "british": "/ˌkɒm.pjʊˈteɪ.ʃən/",
+    "american": "/ˌkɑːm.pjəˈteɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of calculating or computing something, often involving mathematical or logical operations.",
+      "chineseTranslation": "计算的过程或行动",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A result obtained by computation, such as a calculated value or outcome.",
+      "chineseTranslation": "计算结果",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer science, the use of computers to perform calculations and process data.",
+      "chineseTranslation": "在计算机科学中，指计算机执行的计算和数据处理",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mathematical computation",
+      "meaning": "数学计算",
+      "example": "The mathematical computation required for this equation is quite complex.",
+      "exampleTranslation": "这个方程所需的数学计算相当复杂。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "computation time",
+      "meaning": "计算时间",
+      "example": "Reducing computation time is essential for efficient algorithms.",
+      "exampleTranslation": "减少计算时间对高效算法至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "perform a computation",
+      "meaning": "执行计算",
+      "example": "The software can perform a computation in milliseconds.",
+      "exampleTranslation": "该软件可以在几毫秒内执行计算。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The computation of the project's budget took several hours.",
+      "translation": "该项目的预算计算花了几个小时。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In artificial intelligence, computation involves processing vast amounts of data.",
+      "translation": "在人工智能中，计算涉及处理大量数据。",
+      "source": "Technical article (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She double-checked her computation to ensure there were no errors.",
+      "translation": "她仔细核对了自己的计算以确保没有错误。",
+      "source": "Educational text (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "computare",
+        "meaning": "to compute or reckon together",
+        "language": "Latin"
+      },
+      {
+        "root": "com-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "putare",
+        "meaning": "to reckon or think",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'computare'，意为一起计算或估算。该词传入中古英语后，演变为现代英语 'computation'，最初用于数学和会计领域，后来扩展到计算机科学和一般计算过程。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "compute",
+      "computer",
+      "computationally"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'computation' 与 'computer' 关联，创建视觉图像如一台计算机器；通过重复暴露于技术语境中增强语义网络；针对中文母语学习者，强调音节分解以避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "calculation",
+        "similarity": "0.8",
+        "context": "适用于数学或日常估算语境"
+      },
+      {
+        "word": "reckoning",
+        "similarity": "0.7",
+        "context": "适用于历史或航海计算语境"
+      },
+      {
+        "word": "processing",
+        "similarity": "0.6",
+        "context": "适用于计算机科学语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "simplification",
+        "context": "在复杂计算与简化过程相对的语境中"
+      },
+      {
+        "word": "abstraction",
+        "context": "在具体计算与抽象概念相对的语境中"
+      }
+    ],
+    "hypernyms": [
+      "process"
+    ],
+    "hyponyms": [
+      "addition",
+      "multiplication",
+      "algorithmic computation"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + computation (e.g., mathematical computation)",
+        "examples": [
+          "This involves heavy computational load."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + computation (e.g., perform computation)",
+        "examples": [
+          "We need to verify the computation."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着理性与科技进步，尤其在工业革命和数字时代，代表人类对知识和效率的追求；隐含语义包括逻辑思维和数据驱动决策。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，常与创新和技术相关联，例如在硅谷文化中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向学术和历史语境",
+        "usage": "在英国英语中，常见于数学教育和传统科学领域"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，如牛顿的计算方法影响了该词的演变；在文学中，如狄更斯的作品中，隐喻为社会秩序的工具。",
+    "modernUsage": "在社交媒体和数字平台上，常见于AI和大数据讨论，反映当代全球化的技术趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一台老式计算机在进行复杂计算，屏幕上显示数字在跳动。",
+      "keyElements": [
+        "计算机屏幕",
+        "数字跳动",
+        "计算按钮"
+      ],
+      "emotionalConnection": "联结个人经验，如回想使用计算器时的成就感，以增强记忆巩固"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'computation' 联想为 'computer + nation'，代表计算在国家科技中的作用",
+        "explanation": "通过视觉联想帮助记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/kɒm.pjʊˈteɪ.ʃən/' 联想为 'come put a shine'，表示计算带来光芒",
+        "explanation": "利用声音相似性增强听觉记忆，减少发音错误"
+      }
+    ],
+    "wordAssociations": [
+      "compute",
+      "calculate",
+      "algorithm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "computations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Computation",
+        "description": "作为名词的主语或宾语，常用于描述过程",
+        "examples": [
+          "Computation is key in data analysis."
+        ]
+      },
+      {
+        "pattern": "Adjective + Computation",
+        "description": "用形容词修饰，表示类型或性质",
+        "examples": [
+          "This rapid computation saved time."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'computer'",
+        "correction": "Use 'computation' for the process, not the device",
+        "explanation": "中文母语学习者常混淆音似词，需区分语义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "英语名词规则需记忆，避免遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "mathematics",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "mathematics",
+      "process",
+      "data"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

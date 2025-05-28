@@ -1,0 +1,232 @@
+{
+  "word": "acetyltransferase",
+  "phonetics": {
+    "british": "/əˌsɛtɪlˈtrænsfəreɪz/",
+    "american": "/əˌsɛtəlˈtrænsfəreɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An enzyme that catalyzes the transfer of an acetyl group from one molecule to another, often playing a role in biochemical reactions such as acetylation of proteins or metabolites.",
+      "chineseTranslation": "乙酰转移酶",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "histone acetyltransferase",
+      "meaning": "组蛋白乙酰转移酶，指一种特异性乙酰化组蛋白的酶",
+      "example": "Histone acetyltransferase regulates gene expression by modifying chromatin structure.",
+      "exampleTranslation": "组蛋白乙酰转移酶通过修改染色质结构来调控基因表达。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "chloramphenicol acetyltransferase",
+      "meaning": "氯霉素乙酰转移酶，一种用于抗生素抵抗机制的酶",
+      "example": "Chloramphenicol acetyltransferase is often used as a marker in genetic engineering.",
+      "exampleTranslation": "氯霉素乙酰转移酶常被用作遗传工程中的标记物。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Acetyltransferase enzymes are crucial for the acetylation process in cellular metabolism.",
+      "translation": "乙酰转移酶在细胞代谢的乙酰化过程中至关重要。",
+      "source": "Biochemical research articles (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In molecular biology, acetyltransferase can alter protein function through post-translational modifications.",
+      "translation": "在分子生物学中，乙酰转移酶可以通过翻译后修饰来改变蛋白质功能。",
+      "source": "Scientific textbooks (e.g., based on Lehninger's Principles of Biochemistry)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers are studying how acetyltransferase activity influences cancer development.",
+      "translation": "研究人员正在研究乙酰转移酶活性如何影响癌症发展。",
+      "source": "Medical journals (e.g., from Nature or Science)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "acetyl",
+        "meaning": "A chemical group derived from acetic acid",
+        "language": "Greek (via Latin, from Greek ἄκετος 'acetum' meaning vinegar)"
+      },
+      {
+        "root": "transferase",
+        "meaning": "An enzyme that transfers a functional group from one molecule to another",
+        "language": "Latin (from Latin trans- 'across' + ferre 'to carry' + -ase indicating an enzyme)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪生物化学的快速发展，'acetyl' 来源于19世纪对醋酸的化学研究，而 'transferase' 是1940年代酶分类系统建立时形成的。作为生化术语，它反映了从有机化学到酶学领域的演变过程，由早期的代谢研究扩展到现代分子生物学。",
+    "firstKnownUse": "1940s",
+    "relatedWords": [
+      "transferase",
+      "acetylase",
+      "deacetylase"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法（chunking）将词汇分解为 'acetyl' 和 'transferase'，并与实际生化实验图像关联；通过重复性间隔复习（spaced repetition）强化专业术语的长期记忆；建议初级学习者从简单生化概念入手，逐步构建语义网络以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "acetylase",
+        "similarity": "0.8",
+        "context": "在生化实验语境中，常互换使用，尤其指乙酰化反应"
+      },
+      {
+        "word": "N-acetyltransferase",
+        "similarity": "0.9",
+        "context": "特定于氮原子上的乙酰转移，常用于药物代谢研究"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deacetylase",
+        "context": "在酶学语境中，表示移除乙酰基的反向过程，如在表观遗传学中"
+      }
+    ],
+    "hypernyms": [
+      "enzyme"
+    ],
+    "hyponyms": [
+      "histone acetyltransferase",
+      "chloramphenicol acetyltransferase"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + acetyltransferase (e.g., substrate + acetyltransferase)",
+        "examples": [
+          "The substrate interacts with acetyltransferase."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Acetyltransferase + verb (e.g., acetyltransferase catalyzes)",
+        "examples": [
+          "Acetyltransferase catalyzes the reaction."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为科学术语，该词在全球生物医学社区中象征现代科学进步，但缺乏直接的文化隐喻；在英语国家，体现技术理性主义，而在中文语境中，代表跨文化科学交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和工业语境",
+        "usage": "在美国英语中，常见于生物技术专利和研究报告"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在发音上略有差异",
+        "usage": "在英国英语中，常见于大学生物化学课程"
+      }
+    ],
+    "historicalContext": "该词与20世纪的生化革命相关联，如DNA结构发现和酶学发展；在文学和社会中，间接反映科学伦理讨论，例如在科幻小说中涉及基因编辑。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于科学传播语境，如TED演讲或Reddit讨论，体现了全球化的科学知识共享趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景，其中一个分子像传递接力棒一样将乙酰基传递给另一个分子。",
+      "keyElements": [
+        "分子结构",
+        "实验室设备",
+        "化学反应"
+      ],
+      "emotionalConnection": "联结个人经验，如回想学校化学实验的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Acetyltransferase 像一个 '快递员' (acetyl as package, transferase as delivery)",
+        "explanation": "通过视觉联想将抽象酶类与日常生活快递概念连接，基于认知联想原理促进记忆编码"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /əˌsɛtəlˈtrænsfəreɪs/ 听起来像 'asset transfer ease'，表示资产轻松转移",
+        "explanation": "利用声音相似性创建幽默联想，符合认知科学的多感官学习策略"
+      }
+    ],
+    "wordAssociations": [
+      "enzyme",
+      "acetylation",
+      "biochemistry",
+      "catalyze"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "acetyltransferases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + acetyltransferase",
+        "description": "作为主语或宾语使用在句子中，表示生物过程",
+        "examples": [
+          "Acetyltransferase functions in the cell."
+        ]
+      },
+      {
+        "pattern": "Modifier + acetyltransferase",
+        "description": "常与形容词或限定词搭配，如 'specific acetyltransferase'",
+        "examples": [
+          "The specific acetyltransferase is activated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'acetylase'",
+        "correction": "Use 'acetyltransferase' for enzymes transferring acetyl groups specifically",
+        "explanation": "二者虽相关，但 'acetyltransferase' 更精确，指特定转移类型，避免语义混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'acetyltransferases' for plural",
+        "explanation": "英语名词规则加 -s，但初学者可能遗漏，影响专业写作"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus for general English, but high in scientific domains)",
+    "domains": [
+      "biochemistry",
+      "molecular biology",
+      "pharmacology"
+    ],
+    "tags": [
+      "enzyme",
+      "biochemical process",
+      "scientific terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "PubMed biochemical literature"
+    ]
+  }
+}

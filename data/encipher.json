@@ -1,0 +1,235 @@
+{
+  "word": "encipher",
+  "phonetics": {
+    "british": "/ɪnˈsaɪfə/",
+    "american": "/ɛnˈsaɪfɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert plain text into a coded form, typically to secure information against unauthorized access.",
+      "chineseTranslation": "加密",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "encipher a message",
+      "meaning": "对消息进行加密",
+      "example": "The spy had to encipher a message before sending it to headquarters.",
+      "exampleTranslation": "间谍必须在发送消息给总部前对其进行加密。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "encipher data",
+      "meaning": "对数据进行加密",
+      "example": "In cybersecurity, it's essential to encipher data to protect user privacy.",
+      "exampleTranslation": "在网络安全中，加密数据以保护用户隐私至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The algorithm is used to encipher sensitive financial information.",
+      "translation": "该算法用于加密敏感的财务信息。",
+      "source": "Technical manual (e.g., from cybersecurity literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During World War II, agents would encipher their communications to evade enemy interception.",
+      "translation": "在二战期间，特工们会对他们的通信进行加密以避开敌人的拦截。",
+      "source": "Historical account (e.g., based on wartime narratives)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Modern software can encipher files with a single click.",
+      "translation": "现代软件可以通过点击一下来加密文件。",
+      "source": "Informal tech blog",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "en-",
+        "meaning": "to make or put into",
+        "language": "Old English/French"
+      },
+      {
+        "root": "cipher",
+        "meaning": "zero or secret writing",
+        "language": "Arabic (from sifr, meaning zero)"
+      }
+    ],
+    "historicalDevelopment": "The word 'encipher' derives from 'cipher', which originally meant 'zero' in Arabic and entered English via Old French as a term for coded writing in the 14th century. By the 19th century, 'encipher' emerged as a verb to specifically denote the process of encoding messages, evolving with advancements in cryptography.",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "cipher",
+      "decipher",
+      "encode"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'encipher' 与 'encrypt' 的相似概念分组记忆；通过视觉化工具如思维导图连接到日常生活中的加密应用，例如手机密码，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "encrypt",
+        "similarity": "0.9",
+        "context": "适用于技术语境中需要安全传输数据的场景"
+      },
+      {
+        "word": "code",
+        "similarity": "0.7",
+        "context": "在非正式语境中，表示一般编码过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decipher",
+        "context": "适用于解码或破译加密信息的语境"
+      },
+      {
+        "word": "decode",
+        "context": "在数字通信中，表示从加密状态恢复原信息的场景"
+      }
+    ],
+    "hypernyms": [
+      "encode"
+    ],
+    "hyponyms": [
+      "symmetric encipher",
+      "asymmetric encipher"
+    ],
+    "collocations": [
+      {
+        "pattern": "encipher + noun (e.g., message, data)",
+        "examples": [
+          "encipher a file",
+          "encipher sensitive information"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + encipher (e.g., must encipher)",
+        "examples": [
+          "need to encipher"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征信息安全和隐私保护，尤其在冷战时期和现代数字时代，体现了对情报和数据安全的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在科技和军事语境",
+        "usage": "在美国英语中，常与网络安全相关联，如在硅谷技术讨论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向历史和文学语境",
+        "usage": "在英国英语中，偶尔出现在历史小说中描述加密技术"
+      }
+    ],
+    "historicalContext": "与历史文化关联，如二战时期的恩尼格玛机（Enigma machine），代表了加密在战争中的战略作用。",
+    "modernUsage": "在社交媒体和数字平台上，'encipher' 常用于讨论隐私政策和网络攻击防范趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个间谍在黑暗房间里用钥匙锁住一个信封的场景，代表加密过程。",
+      "keyElements": [
+        "间谍",
+        "钥匙",
+        "信封"
+      ],
+      "emotionalConnection": "联结到个人经验，如保护手机密码，触发安全感和责任感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Encipher sounds like 'in cipher', like putting something inside a secret code.",
+        "explanation": "通过声音联想将 'encipher' 与 'cipher' 连接，增强词汇 recall。"
+      },
+      {
+        "type": "缩略",
+        "content": "E-N-C-I-P-H-E-R: Each Number Creates Invisible Protected Hidden Encrypted Records.",
+        "explanation": "使用首字母缩写创建故事，帮助记忆语义复杂性。"
+      }
+    ],
+    "wordAssociations": [
+      "encrypt",
+      "code",
+      "secure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "enciphered",
+      "pastParticiple": "enciphered",
+      "presentParticiple": "enciphering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + encipher + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "They encipher the data."
+        ]
+      },
+      {
+        "pattern": "To encipher + object",
+        "description": "不定式结构，用于目的或意图表达",
+        "examples": [
+          "To encipher messages securely."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'decipher'",
+        "correction": "Use 'encipher' for encoding and 'decipher' for decoding.",
+        "explanation": "这些词语义相反，学习时需区分语境以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper verb tense, e.g., 'enciphered' for past actions.",
+        "explanation": "作为规则动词，需正确变换时态以符合英语语法规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "security",
+      "military"
+    ],
+    "tags": [
+      "cryptography",
+      "data protection",
+      "information security"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

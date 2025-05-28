@@ -1,0 +1,251 @@
+{
+  "word": "encrypt",
+  "phonetics": {
+    "british": "/ɪnˈkrɪpt/",
+    "american": "/ɪnˈkrɪpt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert information or data into a code to prevent unauthorized access.",
+      "chineseTranslation": "加密",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To encode messages or signals for security purposes, often in computing or communication.",
+      "chineseTranslation": "对信息进行编码以确保安全",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "encrypt data",
+      "meaning": "对数据进行加密",
+      "example": "You should always encrypt data before sending it over the internet.",
+      "exampleTranslation": "你应该在通过互联网发送数据之前对其进行加密。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "encrypt a file",
+      "meaning": "加密一个文件",
+      "example": "The software allows users to encrypt a file with a password.",
+      "exampleTranslation": "该软件允许用户用密码加密文件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "encrypt messages",
+      "meaning": "加密消息",
+      "example": "In secure communications, we encrypt messages to protect privacy.",
+      "exampleTranslation": "在安全通信中，我们加密消息以保护隐私。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Businesses must encrypt sensitive customer information to comply with data protection laws.",
+      "translation": "企业必须加密敏感的客户信息，以遵守数据保护法律。",
+      "source": "Business and legal contexts (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Cybersecurity experts recommend that you encrypt your emails to prevent hacking.",
+      "translation": "网络安全专家建议您加密电子邮件以防止黑客入侵。",
+      "source": "Technology articles (e.g., from news sources like BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The spy novel describes how agents encrypt their communications during missions.",
+      "translation": "这部间谍小说描述了特工在任务中如何加密他们的通信。",
+      "source": "Literature (e.g., from modern fiction)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "in or into",
+        "language": "Latin"
+      },
+      {
+        "root": "crypt",
+        "meaning": "hidden",
+        "language": "Greek (from kryptos)"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 kryptos（隐藏），通过拉丁语发展而来。16世纪时，'crypt' 开始用于指隐藏的东西，19世纪与 'in-' 结合形成 'encrypt'，最初用于密码学领域。20世纪，随着计算机技术的兴起，该词在现代语境中广泛用于数据安全。",
+    "firstKnownUse": "1920s",
+    "relatedWords": [
+      "encryption",
+      "decrypt",
+      "cryptography"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法将 'encrypt' 与日常生活中的密码锁或安全应用关联；通过重复练习发音，强化 'krɪpt' 的音节以改善记忆保留；建议初级学习者从视觉图像如锁链图标开始，建立情感连接以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "encode",
+        "similarity": "0.8",
+        "context": "适用于技术语境中需要转换数据以确保安全的场景"
+      },
+      {
+        "word": "scramble",
+        "similarity": "0.6",
+        "context": "常用于非正式语境中描述快速混淆信息"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decrypt",
+        "context": "适用于解码或还原加密信息的语境"
+      },
+      {
+        "word": "decode",
+        "context": "在通信或数据恢复的语境中使用"
+      }
+    ],
+    "hypernyms": [
+      "secure",
+      "protect"
+    ],
+    "hyponyms": [
+      "asymmetric encryption",
+      "symmetric encryption"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun (e.g., encrypt data)",
+        "examples": [
+          "encrypt files",
+          "encrypt communications"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + preposition (e.g., encrypt with)",
+        "examples": [
+          "encrypt with a key"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代数字文化中象征隐私和安全，反映了后工业社会对数据保护的强调，常与个人隐私权（如GDPR法规）相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，'encrypt' 在日常科技讨论中频繁出现，如手机应用安全"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，常见于政府和学术报告中，强调历史密码学传统"
+      }
+    ],
+    "historicalContext": "与二战时期的密码破译（如Enigma机器）相关，体现了西方文化中情报战的历史影响。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论在线隐私，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁住的宝箱，里面藏着秘密文件，代表数据被隐藏起来。",
+      "keyElements": [
+        "锁链",
+        "宝箱",
+        "隐藏文件"
+      ],
+      "emotionalConnection": "联结个人经验，如手机密码设置时的安全感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Encrypt 像 'in-crypt'，想象把东西放进坟墓（crypt）里隐藏。",
+        "explanation": "通过视觉联想加强语义记忆，利用认知科学中的双编码效应"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪnˈkrɪpt/ 听起来像 'in script'，联想到写在隐藏脚本里的代码。",
+        "explanation": "使用声音和视觉结合，帮助中级学习者克服发音障碍"
+      }
+    ],
+    "wordAssociations": [
+      "lock",
+      "secure",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "encrypted",
+      "pastParticiple": "encrypted",
+      "presentParticiple": "encrypting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We encrypt the data."
+        ]
+      },
+      {
+        "pattern": "Verb + with + object",
+        "description": "动词 + with + 宾语，强调使用工具或方法",
+        "examples": [
+          "Encrypt the file with a password."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'encrypt' as a noun",
+        "correction": "Use 'encryption' for the noun form",
+        "explanation": "学习者常混淆动词和名词形式，导致语法错误"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper tense, e.g., 'encrypted' for past",
+        "explanation": "中级学习者可能忽略时态变化，影响句子流畅性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for technology domains)",
+    "domains": [
+      "科技",
+      "商业",
+      "安全"
+    ],
+    "tags": [
+      "计算机",
+      "密码学",
+      "数据保护"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

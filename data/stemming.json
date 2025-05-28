@@ -1,0 +1,237 @@
+{
+  "word": "stemming",
+  "phonetics": {
+    "british": "/ˈstɛmɪŋ/",
+    "american": "/ˈstɛmɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of reducing inflected or derived words in a language to their word stem, base, or root form, commonly used in natural language processing and information retrieval.",
+      "chineseTranslation": "词干提取",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund or present participle)",
+      "definition": "The act of performing word stemming, often as part of computational linguistics tasks.",
+      "chineseTranslation": "进行词干提取",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stemming algorithm",
+      "meaning": "词干提取算法",
+      "example": "The stemming algorithm in this search engine helps improve query accuracy.",
+      "exampleTranslation": "这个搜索引擎中的词干提取算法有助于提高查询准确性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Porter stemming",
+      "meaning": "波特词干提取（一种特定算法）",
+      "example": "Porter stemming is a popular method for handling morphological variations in text.",
+      "exampleTranslation": "波特词干提取是一种处理文本形态变化的流行方法。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In natural language processing, stemming converts words like 'running' and 'ran' to their stem 'run'.",
+      "translation": "在自然语言处理中，词干提取将像 'running' 和 'ran' 这样的单词转换为它们的词根 'run'。",
+      "source": "Technical documentation from computational linguistics corpora, such as COCA",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The software uses stemming to optimize search results by grouping similar words.",
+      "translation": "该软件使用词干提取来优化搜索结果，通过对类似单词进行分组。",
+      "source": "Modern tech articles, e.g., from Wired magazine",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Stemming can sometimes lead to errors, such as confusing 'organ' with 'organization'.",
+      "translation": "词干提取有时会导致错误，例如将 'organ' 与 'organization' 混淆。",
+      "source": "Academic papers in linguistics, e.g., from JSTOR",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Old English",
+    "rootWords": [
+      {
+        "root": "stem",
+        "meaning": "The main part of a word or plant",
+        "language": "Old English (stem from Proto-Germanic *stammaz)"
+      }
+    ],
+    "historicalDevelopment": "Originating from Old English 'stem' meaning the stalk of a plant, it evolved metaphorically in Middle English to refer to the base of a word. By the 20th century, in computational contexts, it developed into 'stemming' as a technical term in linguistics, influenced by the rise of information retrieval systems in the 1960s.",
+    "firstKnownUse": "1960s, in the context of early computer science and linguistics",
+    "relatedWords": [
+      "stem",
+      "lemmatization",
+      "morphology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR, as it requires intermediate vocabulary knowledge and technical context understanding)",
+    "pronunciationDifficulty": "3 (Low difficulty; straightforward phonetics with common vowel and consonant sounds)",
+    "spellingDifficulty": "4 (Moderate; simple spelling but potential confusion with similar words like 'steaming')",
+    "meaningComplexity": "7 (High; involves abstract concepts in computational linguistics, requiring contextual understanding)",
+    "usageComplexity": "8 (High; primarily used in technical domains, with specific syntactic patterns)",
+    "learningTips": [
+      "使用分块学习法（chunking）将 'stemming' 与相关概念如 'lemmatization' 关联，以增强工作记忆；根据认知负荷理论，先掌握基础词汇再扩展到技术应用。",
+      "通过视觉映射创建心智图，将 'stemming' 连接到实际例子，如搜索引擎流程，以促进长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "lemmatization",
+        "similarity": "0.8",
+        "context": "在自然语言处理中，适用于信息检索和文本分析的语境"
+      },
+      {
+        "word": "morphological analysis",
+        "similarity": "0.7",
+        "context": "在语言学研究中，用于分解单词结构的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "full word expansion",
+        "context": "在需要完整形式表达的正式写作中"
+      }
+    ],
+    "hypernyms": [
+      "word processing",
+      "text normalization"
+    ],
+    "hyponyms": [
+      "Porter stemming",
+      "Snowball stemming"
+    ],
+    "collocations": [
+      {
+        "pattern": "stemming + noun (e.g., algorithm, process)",
+        "examples": [
+          "applying stemming techniques",
+          "implement stemming in code"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + stemming (e.g., perform stemming)",
+        "examples": [
+          "developers perform stemming on datasets"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语国家的信息技术文化中，该词象征着效率和简化，体现出数字时代对语言处理的实用主义；它反映了西方科学方法论对复杂性的简化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in American English tech contexts",
+        "usage": "在美国，'stemming' 经常出现在硅谷公司和学术讨论中，以强调算法效率"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with slight emphasis on theoretical linguistics",
+        "usage": "在英国，'stemming' 可能在大学课程中与历史语言学关联"
+      }
+    ],
+    "historicalContext": "与20世纪中叶的计算机革命相关，特别是在美国和英国的早期AI发展中；例如，在1960s的编程语言演变中，它体现了工业革命后对自动化语言处理的追求。",
+    "modernUsage": "在社交媒体和在线平台上，'stemming' 常用于AI讨论和编程论坛，如Reddit或Stack Overflow，反映数字本土化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一棵树（stem代表植物茎），然后将树干简化成核心部分，再扩展到单词，如将'running'简化到'run'，仿佛修剪树枝。",
+      "keyElements": [
+        "树干（stem）",
+        "简化过程",
+        "技术设备如电脑"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如使用搜索引擎时的 frustration 和成功感，以强化情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'stemming' as 'stream-lining' words, like streamlining a river's flow.",
+        "explanation": "通过视觉联想河流简化路径，结合双编码理论（视觉和语义），帮助记忆词汇的核心概念"
+      },
+      {
+        "type": "缩略",
+        "content": "S-T-E-M: Simplify To Essential Meaning",
+        "explanation": "使用首字母缩略词促进重复回忆，根据间隔重复法加强长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "stem",
+      "root",
+      "algorithm",
+      "process"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "stemming (as gerund)",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Subject] + verb + stemming",
+        "description": "在句子中作为名词短语使用，常与动作动词结合",
+        "examples": [
+          "We use stemming in our model."
+        ]
+      },
+      {
+        "pattern": "Gerund phrase: Verb + stemming + object",
+        "description": "作为动名词短语，表示过程",
+        "examples": [
+          "Stemming improves search efficiency."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing stemming with lemmatization",
+        "correction": "Use stemming for basic root reduction and lemmatization for dictionary forms",
+        "explanation": "源于语义相似性；学习者需理解上下文差异以避免混淆"
+      },
+      {
+        "mistake": "Incorrectly applying as a verb without context",
+        "correction": "Always pair with technical contexts",
+        "explanation": "作为技术术语，需在特定领域使用，以防止泛化错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium in technical domains)",
+    "domains": [
+      "technology",
+      "linguistics",
+      "computer science"
+    ],
+    "tags": [
+      "NLP",
+      "information retrieval",
+      "morphology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

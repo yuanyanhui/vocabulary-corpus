@@ -1,0 +1,257 @@
+{
+  "word": "given",
+  "phonetics": {
+    "british": "/ˈɡɪvən/",
+    "american": "/ˈɡɪvən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Specified or stated; assumed as a fact or condition.",
+      "chineseTranslation": "给定的；指定的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "past participle of give",
+      "definition": "Having been provided or supplied.",
+      "chineseTranslation": "给予的；提供的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Considering or in view of; as a premise.",
+      "chineseTranslation": "鉴于；考虑到",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "given that",
+      "meaning": "鉴于；考虑到",
+      "example": "Given that the weather is poor, we should postpone the trip.",
+      "exampleTranslation": "鉴于天气恶劣，我们应该推迟旅行。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "given name",
+      "meaning": "名字；教名",
+      "example": "Her given name is Elizabeth, but she prefers Liz.",
+      "exampleTranslation": "她的名字是伊丽莎白，但她更喜欢丽兹。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "take something as given",
+      "meaning": "将某事视为理所当然",
+      "example": "In economics, scarcity is taken as given.",
+      "exampleTranslation": "在经济学中，稀缺性被视为理所当然。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The problem must be solved given the constraints provided.",
+      "translation": "必须在给定的约束条件下解决问题。",
+      "source": "Academic text (e.g., from engineering manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Given his experience, he's the best candidate for the job.",
+      "translation": "鉴于他的经验，他是这份工作的最佳人选。",
+      "source": "Professional communication (e.g., job interviews)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She was given a book as a gift on her birthday.",
+      "translation": "她生日时收到了一本作为礼物的书。",
+      "source": "Informal narrative (e.g., everyday conversation)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "giefan",
+        "meaning": "to give",
+        "language": "Old English"
+      },
+      {
+        "root": "geb-",
+        "meaning": "to give",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'giefan'，意为 '给予'，其根源可追溯至原始日耳曼语 'geb-'，最终源于原始印欧语 '*ghabh-'。该词从表示实际赠与的动作演变为抽象的条件或假设状态，如在现代英语中用作形容词或连词。",
+    "firstKnownUse": "约 8 世纪",
+    "relatedWords": [
+      "give",
+      "forgive",
+      "misgive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'given' 的多重词性分解为独立模块，例如先掌握其作为形容词的用法，再扩展到连词；通过重复曝光（spaced repetition）强化在不同语境中的记忆，以提升对语义模糊性的适应性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "specified",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述已明确的事物，例如法律文件"
+      },
+      {
+        "word": "assumed",
+        "similarity": "0.7",
+        "context": "在学术讨论中，表示作为前提的假设"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ungiven",
+        "context": "在非正式语境中，表示未提供或未指定的情况"
+      },
+      {
+        "word": "withheld",
+        "context": "在商业或法律语境中，表示被保留的信息"
+      }
+    ],
+    "hypernyms": [
+      "provided"
+    ],
+    "hyponyms": [
+      "granted",
+      "assumed"
+    ],
+    "collocations": [
+      {
+        "pattern": "given + that clause",
+        "examples": [
+          "Given that it's late, we should leave."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be given + noun",
+        "examples": [
+          "He was given a chance."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征条件性假设，常用于逻辑推理或礼节性表达，体现了盎格鲁-撒克逊文化中注重事实基础的思维方式。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式书面语",
+        "usage": "在英国英语中，'given that' 常出现在学术和媒体语境，以强调理性讨论"
+      },
+      {
+        "region": "美国",
+        "variation": "更灵活地用于口语",
+        "usage": "在美国英语中，'given' 可能在日常对话中简化表达假设，而非严格的正式场合"
+      }
+    ],
+    "historicalContext": "与盎格鲁-撒克逊时代的赠与文化相关，在中世纪英语文学中出现，反映社会交换和义务的主题，如在乔叟的作品中。",
+    "modernUsage": "在现代社交媒体和数字通信中，'given that' 常用于推文或在线讨论，以快速表达条件性观点，促进跨文化交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个礼物盒子打开的情景，里面是已'给定的'物品，代表条件或事实。",
+      "keyElements": [
+        "礼物盒子",
+        "打开动作",
+        "条件标签"
+      ],
+      "emotionalConnection": "联结到个人经历，如收到生日礼物时的惊喜，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'given' as a 'gift in' a box – it's provided inside.",
+        "explanation": "通过视觉联想将 'given' 与 'gift' 关联，利用双重编码提升记忆保留率。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce 'given' like 'give in' to a condition.",
+        "explanation": "利用发音相似性创建听觉线索，基于认知语言学中的声音象征原则。"
+      }
+    ],
+    "wordAssociations": [
+      "provide",
+      "assume",
+      "condition"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": "given (as past participle of give)",
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + given + object",
+        "description": "用于被动结构，表示某物被提供",
+        "examples": [
+          "The information was given to us."
+        ]
+      },
+      {
+        "pattern": "Given + that clause",
+        "description": "用作连词引导条件从句",
+        "examples": [
+          "Given that you're ready, let's start."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'given' as a verb directly",
+        "correction": "Use 'give' as the base verb",
+        "explanation": "学习者常将 'given' 误用为动词原形，而非过去分词；需注意其词性转换。"
+      },
+      {
+        "mistake": "Confusing with 'giving'",
+        "correction": "Distinguish based on tense",
+        "explanation": "中文母语者可能混淆 'given' 和 'giving' 的时态；通过练习不同语境可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Business",
+      "Science"
+    ],
+    "tags": [
+      "Conditional",
+      "Assumption",
+      "Provision"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

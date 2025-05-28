@@ -1,0 +1,258 @@
+{
+  "word": "polymorph",
+  "phonetics": {
+    "british": "/ˈpɒlɪmɔːf/",
+    "american": "/ˈpɑːlɪmɔːrf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An organism or substance that can exist in more than one form or structure, often due to genetic or environmental factors.",
+      "chineseTranslation": "多形体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, a crystalline form of a compound that can have multiple structures while maintaining the same chemical composition.",
+      "chineseTranslation": "多晶型",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a concept in object-oriented programming where objects of different classes can be treated as objects of a common superclass.",
+      "chineseTranslation": "多态",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "polymorphic form",
+      "meaning": "多形体形式",
+      "example": "The polymorphic form of the protein allows it to adapt to various environmental conditions.",
+      "exampleTranslation": "这种蛋白质的多形体形式使它能够适应各种环境条件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "crystal polymorph",
+      "meaning": "晶体多晶型",
+      "example": "Scientists study crystal polymorphs to understand the stability of pharmaceutical compounds.",
+      "exampleTranslation": "科学家研究晶体多晶型以了解药物化合物的稳定性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "runtime polymorph",
+      "meaning": "运行时多态",
+      "example": "Runtime polymorph is a key feature in languages like Java for dynamic method invocation.",
+      "exampleTranslation": "运行时多态是像Java这样的语言中用于动态方法调用的关键特性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In biology, a polymorph is an insect that changes its color to blend with its surroundings.",
+      "translation": "在生物学中，多形体是一种能改变颜色以与周围环境融合的昆虫。",
+      "source": "Scientific literature (e.g., biology textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The drug's polymorph led to unexpected solubility issues during clinical trials.",
+      "translation": "这种药物的多晶型导致了临床试验中意想不到的溶解问题。",
+      "source": "Medical research articles (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Programmers use polymorph to write more flexible and reusable code in object-oriented systems.",
+      "translation": "程序员使用多态来编写更灵活和可重用的面向对象代码。",
+      "source": "Technology blogs (e.g., from Stack Overflow discussions)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "poly",
+        "meaning": "many",
+        "language": "Greek"
+      },
+      {
+        "root": "morph",
+        "meaning": "form or shape",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词“polymorphos”，意为“多形式”，最初用于描述自然界中的变异现象。19世纪传入英语，主要通过拉丁语中介发展而来，在生物学和化学领域逐渐演变为现代技术术语。",
+    "firstKnownUse": "1820s",
+    "relatedWords": [
+      "polymorphism",
+      "morphology",
+      "isomorph"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个形状多变的物体来强化记忆；使用间隔重复法复习，以改善长期保留；针对中文母语学习者，强调词根分析以连接到熟悉的汉字如'多'和'形'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multiform",
+        "similarity": "0.8",
+        "context": "适用于描述多种形式的物体或生物"
+      },
+      {
+        "word": "protean",
+        "similarity": "0.7",
+        "context": "常用于文学或比喻性语境中，表示变化多端"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monomorph",
+        "context": "适用于单一形式的语境，如生物学中的固定形态"
+      },
+      {
+        "word": "uniform",
+        "context": "在一般描述中，表示一致或不变的结构"
+      }
+    ],
+    "hypernyms": [
+      "form",
+      "structure"
+    ],
+    "hyponyms": [
+      "allele",
+      "crystal structure"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., crystal polymorph)",
+        "examples": [
+          "The crystal polymorph exhibits unique properties."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + noun (e.g., exhibit polymorph)",
+        "examples": [
+          "Insects exhibit polymorph to survive predators."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征适应性和多样性，常用于强调自然或技术领域的创新和变异，在西方教育中体现出对进化论的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，polymorph在编程讨论中更频繁出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向生物学和化学语境",
+        "usage": "在英国英语中，常与历史科学文献相关联"
+      }
+    ],
+    "historicalContext": "与达尔文进化论和现代化学发展相关，19世纪以来在西方科学革命中流行。",
+    "modernUsage": "在社交媒体和在线论坛中，polymorph常用于科技讨论，如AI和药物开发趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个变形金刚，它能改变多种形状，代表polymorph的多变性。",
+      "keyElements": [
+        "变形金刚",
+        "多种形状",
+        "适应环境"
+      ],
+      "emotionalConnection": "联结到个人经验，如观看科幻电影时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly + Morph = Many Forms (多 + 形 = 多种形状)",
+        "explanation": "通过词根联想，将'poly'与'许多'关联，'morph'与'形状'关联，帮助构建语义网络。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'poly-morph'，联想到'polymer'或变形过程。",
+        "explanation": "利用声音相似性，连接到熟悉词汇以强化认知路径。"
+      }
+    ],
+    "wordAssociations": [
+      "polymorphism",
+      "morphing",
+      "diversity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polymorphs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Polymorph",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The polymorph changes its form."
+        ]
+      },
+      {
+        "pattern": "Adjective + Polymorph",
+        "description": "用于修饰的结构",
+        "examples": [
+          "A stable polymorph is essential for the compound."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polymorphic' (adjective form)",
+        "correction": "Use 'polymorph' as a noun and 'polymorphic' as an adjective",
+        "explanation": "中文学习者常混淆词性，导致句法错误；需注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add 's' for plural (polymorphs)",
+        "explanation": "由于英语复数规则的多样性，初级学习者可能遗忘添加。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "biology"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "variation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

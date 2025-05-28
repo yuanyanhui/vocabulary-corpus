@@ -1,0 +1,232 @@
+{
+  "word": "enumerable",
+  "phonetics": {
+    "british": "/ɪˈnjuːmərəbl/",
+    "american": "/ɪˈnuːmərəbəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being counted, listed, or enumerated, especially in the context of sets, sequences, or data structures in mathematics and computer science.",
+      "chineseTranslation": "可枚举的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enumerable set",
+      "meaning": "可枚举集合",
+      "example": "In mathematics, an enumerable set can be listed in a sequence.",
+      "exampleTranslation": "在数学中，可枚举集合可以被列成一个序列。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "enumerable types",
+      "meaning": "可枚举类型",
+      "example": "In programming, enumerable types allow for iteration over elements.",
+      "exampleTranslation": "在编程中，可枚举类型允许对元素进行迭代。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of an enumerable infinite set is fundamental in set theory.",
+      "translation": "可枚举无限集合的概念在集合论中至关重要。",
+      "source": "Academic text (e.g., from mathematical literature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Programmers often deal with enumerable lists when processing data in arrays.",
+      "translation": "程序员在处理数组数据时经常遇到可枚举列表。",
+      "source": "Technical documentation (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Not all sets are enumerable, as some are too vast to list.",
+      "translation": "并非所有集合都是可枚举的，因为有些集合太大而无法列出。",
+      "source": "Educational resource (e.g., BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "enumerare",
+        "meaning": "to count out or reckon up",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'enumerabilis'，意为可计数的，源自 'enumerare'（计数）。该词经由古法语传入英语，在15世纪开始用于数学和逻辑语境中，逐渐扩展到现代计算机科学领域，反映了从古典计数概念到当代数据处理的演变。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "enumerate",
+      "enumeration",
+      "innumerable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "使用认知科学中的间隔重复法来记忆该词，与类似词汇如 'countable' 建立关联网络，以增强语义记忆；",
+      "通过视觉联想将 'enumerable' 与一个有序列表的图像连接，结合个人经验如列购物清单，以触发情绪记忆；",
+      "在学习中，采用双编码策略：先理解语义，然后用中文翻译强化，减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "countable",
+        "similarity": "0.8",
+        "context": "适用于数学语境中，表示集合可被一一列出"
+      },
+      {
+        "word": "listable",
+        "similarity": "0.7",
+        "context": "适用于编程语境中，表示数据可被迭代"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-enumerable",
+        "context": "适用于集合论中，表示集合无法被完全列出"
+      },
+      {
+        "word": "uncountable",
+        "context": "适用于数学中，表示无限集合如实数集"
+      }
+    ],
+    "hypernyms": [
+      "descriptive"
+    ],
+    "hyponyms": [
+      "recursively enumerable"
+    ],
+    "collocations": [
+      {
+        "pattern": "enumerable + noun (e.g., set, list)",
+        "examples": [
+          "An enumerable set",
+          "Enumerable types"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + enumerable (e.g., finitely enumerable)",
+        "examples": [
+          "Finitely enumerable sequence"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征精确性和系统性，尤其在科技和理性主义传统中隐含语义，如启蒙运动强调的分类与计数。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于计算机科学语境",
+        "usage": "在美国英语中，常见于编程和AI讨论，以强调数据处理效率"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向数学理论语境",
+        "usage": "在英国英语中，常与学术讨论结合，强调理论基础"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲数学革命相关，如康托尔的集合论发展，体现了工业革命后对分类系统的需求。",
+    "modernUsage": "在现代社交媒体和科技语境下，该词流行于在线论坛和编程社区，如GitHub讨论，反映了数字时代的信息组织趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个有序的数字序列，如珠子串成一排，每一颗珠子代表一个可列出的项目。",
+      "keyElements": [
+        "有序序列",
+        "计数珠子",
+        "列表图标"
+      ],
+      "emotionalConnection": "联结到日常生活经验，如列购物清单时的满足感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'enumerable' 联想为 'enum' + 'able'，像枚举表一样可操作。",
+        "explanation": "通过词根分解和视觉联想，增强词汇保留，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪˈnuːmərəbl/ 听起来像 'new number able'，代表新数字可被列出。",
+        "explanation": "利用声音与含义的联结，促进听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "count",
+      "list",
+      "sequence",
+      "iterate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more enumerable",
+      "superlative": "most enumerable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + enumerable",
+        "description": "用于描述名词的属性，例如 'The set is enumerable.'",
+        "examples": [
+          "The data is enumerable in this algorithm."
+        ]
+      },
+      {
+        "pattern": "Enumerable + noun phrase",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "An enumerable collection of items."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'innumerable'",
+        "correction": "Use 'enumerable' for countable items",
+        "explanation": " 'Innumerable' means too many to count, while 'enumerable' means capable of being listed; this confusion arises from similar spelling."
+      },
+      {
+        "mistake": "Incorrect usage in non-technical contexts",
+        "correction": "Restrict to technical domains",
+        "explanation": "Learners may overuse in everyday language; ensure context-specific application based on register rules."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "数学",
+      "计算机"
+    ],
+    "tags": [
+      "技术术语",
+      "数学概念",
+      "数据结构"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

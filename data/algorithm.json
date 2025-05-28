@@ -1,0 +1,250 @@
+{
+  "word": "algorithm",
+  "phonetics": {
+    "british": "/ˈælɡərɪðəm/",
+    "american": "/ˈælɡərɪðəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer",
+      "chineseTranslation": "算法",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a step-by-step procedure for solving a problem or accomplishing a task",
+      "chineseTranslation": "算法（解决问题的方法）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sorting algorithm",
+      "meaning": "排序算法",
+      "example": "Bubble sort is a simple sorting algorithm.",
+      "exampleTranslation": "冒泡排序是一种简单的排序算法。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "search algorithm",
+      "meaning": "搜索算法",
+      "example": "Binary search is an efficient search algorithm for ordered lists.",
+      "exampleTranslation": "二分搜索是一种高效的有序列表搜索算法。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The algorithm efficiently processes large datasets in machine learning.",
+      "translation": "该算法在机器学习中高效处理大型数据集。",
+      "source": "Technical article from a computer science journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Developers often optimize the algorithm to improve performance.",
+      "translation": "开发人员经常优化算法以提高性能。",
+      "source": "Software engineering textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, a recipe can be seen as a simple algorithm for cooking.",
+      "translation": "在日常生活中，食谱可以被视为一种简单的烹饪算法。",
+      "source": "Popular science book",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "algorithmus",
+        "meaning": "a set of rules for computation",
+        "language": "Latin"
+      },
+      {
+        "root": "al-Khwarizmi",
+        "meaning": "named after the Persian mathematician Muhammad ibn Musa al-Khwarizmi",
+        "language": "Arabic"
+      }
+    ],
+    "historicalDevelopment": "源自9世纪阿拉伯数学家al-Khwarizmi的作品，最初指代算术规则；13世纪传入欧洲后，通过拉丁语演变为现代意义，强调系统化的问题解决过程。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "algorithmic",
+      "algorist",
+      "algorithmically"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用视觉化工具如流程图来构建心智模型；将算法与日常生活任务关联，以增强记忆痕迹；通过重复练习和间隔复习，强化抽象概念的长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "procedure",
+        "similarity": "0.7",
+        "context": "在编程或问题解决的语境中"
+      },
+      {
+        "word": "method",
+        "similarity": "0.8",
+        "context": "泛指系统化的步骤"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "randomness",
+        "context": "表示无序或非确定性过程"
+      },
+      {
+        "word": "chaos",
+        "context": "在系统理论中，与结构化过程相对"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "method"
+    ],
+    "hyponyms": [
+      "binary search",
+      "quicksort",
+      "depth-first search"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + algorithm",
+        "examples": [
+          "efficient algorithm",
+          "complex algorithm"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + algorithm",
+        "examples": [
+          "implement an algorithm",
+          "design an algorithm"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征技术进步和逻辑思维，尤其在人工智能和数据科学领域，隐含了对精确性和效率的追求。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和教育",
+        "usage": "在美国英语中，算法常与硅谷文化关联，强调创新应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术语境中更正式",
+        "usage": "在英国英语中，算法常与历史数学传统联系，如牛津大学的教学"
+      }
+    ],
+    "historicalContext": "与伊斯兰黄金时代数学相关，反映了跨文化知识交流；例如，al-Khwarizmi的作品影响了欧洲文艺复兴时期的科学发展。",
+    "modernUsage": "在社交媒体和数字时代，算法用于描述推荐系统或AI决策，体现了对技术依赖的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个步步推进的迷宫地图，每条路径代表算法步骤。",
+      "keyElements": [
+        "流程图",
+        "步骤序列",
+        "问题解决"
+      ],
+      "emotionalConnection": "联结到个人经历，如玩电脑游戏时的策略规划，以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "acronym",
+        "content": "A Logical Guide To Handling Information Rapidly",
+        "explanation": "每个字母代表算法的核心特征，帮助通过结构化联想增强记忆"
+      },
+      {
+        "type": "association",
+        "content": "将algorithm与'logic highway'联想",
+        "explanation": "使用声音联觉和视觉想象，强化词汇与概念的神经连接"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "logic",
+      "flowchart",
+      "computation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "algorithms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object",
+        "description": "算法作为主语或宾语出现",
+        "examples": [
+          "The algorithm solves the problem."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "使用介词短语描述算法的属性",
+        "examples": [
+          "Algorithm in computer science is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'algorithm' with 'logarithm'",
+        "correction": "Use 'algorithm' for processes and 'logarithm' for mathematical functions",
+        "explanation": "这两个词发音相似，但前者指过程，后者指数学运算"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "algorithms",
+        "explanation": "作为可数名词，需添加-s，但初级学习者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "mathematics",
+      "computing",
+      "education"
+    ],
+    "tags": [
+      "tech",
+      "science",
+      "logic",
+      "problem-solving"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

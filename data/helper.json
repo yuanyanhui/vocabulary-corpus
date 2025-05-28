@@ -1,0 +1,255 @@
+{
+  "word": "helper",
+  "phonetics": {
+    "british": "/ˈhɛlpə/",
+    "american": "/ˈhɛlpɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that provides assistance or support to others.",
+      "chineseTranslation": "帮助者；助手",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or technology, a function or module that assists in performing a specific task.",
+      "chineseTranslation": "辅助函数；帮助模块",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, a type of cell, such as a helper T cell, that aids in immune responses.",
+      "chineseTranslation": "辅助细胞（如辅助T细胞）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "kitchen helper",
+      "meaning": "厨房助手",
+      "example": "She works as a kitchen helper in a busy restaurant.",
+      "exampleTranslation": "她在一家忙碌的餐厅担任厨房助手。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "community helper",
+      "meaning": "社区服务者",
+      "example": "Volunteers act as community helpers during disaster relief efforts.",
+      "exampleTranslation": "志愿者在救灾工作中充当社区服务者。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "helper function",
+      "meaning": "辅助函数",
+      "example": "The helper function simplifies the code by handling repetitive tasks.",
+      "exampleTranslation": "辅助函数通过处理重复任务来简化代码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The helper arrived just in time to fix the broken machine.",
+      "translation": "助手及时赶到修复了坏掉的机器。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many cultures, a helper is essential for community events.",
+      "translation": "在许多文化中，助手对于社区活动至关重要。",
+      "source": "Sociocultural essay",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Software developers often use helper classes to organize their code efficiently.",
+      "translation": "软件开发者经常使用辅助类来高效组织代码。",
+      "source": "Programming tutorial",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "helpan",
+        "meaning": "to help or assist",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语helpan（意为帮助），演变为中古英语helper，逐渐扩展到现代英语中，表示提供援助的人或物。该词在历史中从单纯的动词派生词发展为名词，融入拉丁语和诺曼语的影响，强调社会协作的语义。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "help",
+      "helping",
+      "helperness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用重复曝光法（spaced repetition）来强化记忆，例如通过间隔重复软件复习'helper'的各种语境；",
+      "创建个人联想，例如将'helper'与日常生活中的助手角色联系，如手机助手Siri，以增强情感连接和语义网络构建；",
+      "针对中文母语学习者，注意音译差异，避免将'helper'与汉语'帮助者'混淆，通过对比分析提高语义区分"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "assistant",
+        "similarity": "0.85",
+        "context": "在工作或日常环境中，用于描述提供支持的人员"
+      },
+      {
+        "word": "aide",
+        "similarity": "0.75",
+        "context": "在正式或政治语境中，表示辅助者"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "obstructor",
+        "context": "在冲突或阻碍语境中，表示阻挡者"
+      },
+      {
+        "word": "hindrance",
+        "context": "在日常障碍语境中，表示干扰因素"
+      }
+    ],
+    "hypernyms": [
+      "supporter",
+      "assistant"
+    ],
+    "hyponyms": [
+      "volunteer helper",
+      "technical helper"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + helper (e.g., community helper)",
+        "examples": [
+          "She is a reliable community helper."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Helper + preposition + object (e.g., helper in the kitchen)",
+        "examples": [
+          "He serves as a helper in the kitchen."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征合作与互助，常与志愿服务和社会责任相关联；在中文文化中，类似概念可能与'互助'或'雷锋精神'对应，强调集体主义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于非正式的社区角色",
+        "usage": "在英国英语中，常用于描述志愿者的非正式职位，如'helper in charity events'"
+      },
+      {
+        "region": "美国",
+        "variation": "强调专业化角色，如技术助手",
+        "usage": "在美国英语中，常见于职业语境，如'helper in IT support'"
+      }
+    ],
+    "historicalContext": "与工业革命后的社会分工相关，反映了从封建社会到现代的协作模式；在文学中，如狄更斯的作品中，helper 常代表社会底层互助。",
+    "modernUsage": "在社交媒体和数字时代，该词用于在线平台，如AI helper 工具，体现科技与日常生活的融合趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个友好的人手持工具箱，帮助他人修理物品。",
+      "keyElements": [
+        "工具箱",
+        "友好笑容",
+        "修理过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年时父母的帮助，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'helper'联想为'help her'，想象在帮助一个女性朋友。",
+        "explanation": "通过视觉和情感联想增强词汇保留，基于认知科学的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "H-E-L-P-E-R：Help Everyone Live Positively Every day, Representing assistance.",
+        "explanation": "使用首字母缩略法创建故事，提高记忆效率"
+      }
+    ],
+    "wordAssociations": [
+      "assist",
+      "support",
+      "aid"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "helpers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + helper",
+        "description": "主语+动词+助手结构，常用于描述角色",
+        "examples": [
+          "The teacher needs a helper."
+        ]
+      },
+      {
+        "pattern": "Helper + in + context",
+        "description": "助手+介词+语境结构，表示具体位置或角色",
+        "examples": [
+          "He is a helper in the office."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'helper' as a verb",
+        "correction": "Use 'help' as the verb form",
+        "explanation": "中文学习者常误将名词用作动词；正确区分词性以避免语法错误"
+      },
+      {
+        "mistake": "Confusing with 'helped'",
+        "correction": "Use 'helper' for the noun form only",
+        "explanation": "注意过去式'helped'与名词'helper'的区别，以提升句子流畅性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "社会",
+      "技术",
+      "教育"
+    ],
+    "tags": [
+      "援助",
+      "支持",
+      "角色"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "word": "null",
+  "phonetics": {
+    "british": "/nʌl/",
+    "american": "/nʌl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A special value or pointer indicating the absence of a value or object, often used in programming to represent no data.",
+      "chineseTranslation": "空值或无值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having no legal or binding force; invalid.",
+      "chineseTranslation": "无效的或无法律效力的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "null pointer",
+      "meaning": "指向空值的指针，常用于编程中表示内存地址无效",
+      "example": "A null pointer exception occurred in the code.",
+      "exampleTranslation": "代码中发生了空指针异常。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "null and void",
+      "meaning": "完全无效或被取消",
+      "example": "The contract was declared null and void.",
+      "exampleTranslation": "合同被宣布无效。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In programming, if a variable is set to null, it means it has no assigned value.",
+      "translation": "在编程中，如果一个变量被设置为 null，就表示它没有被赋值。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The court ruled that the agreement was null due to lack of signatures.",
+      "translation": "法院裁定该协议因缺少签名而无效。",
+      "source": "Legal texts (e.g., from BNC corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She felt null inside after the loss, as if nothing mattered anymore.",
+      "translation": "她在失去后感到内心空虚，仿佛一切都不再重要。",
+      "source": "Modern literature",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "nullus",
+        "meaning": "not any; none",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 nullus（意思是“没有一个”），在中世纪拉丁语中演变为表示“无效”的含义，传入英语后在17世纪用于数学和逻辑领域，19世纪扩展到编程和计算机科学中，表示缺失值。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "annul",
+      "nullify"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习 'null' 在不同语境下的含义；将词汇与个人编程经验关联，以增强记忆编码；通过视觉图示如空盒子代表空值，帮助建立语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "void",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于表示无值或无效状态"
+      },
+      {
+        "word": "nil",
+        "similarity": "0.7",
+        "context": "在编程或体育语境中，表示零或无"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "valid",
+        "context": "在法律或数据语境中，表示有效或有绑定力的状态"
+      },
+      {
+        "word": "existent",
+        "context": "在逻辑语境中，表示存在或有值的状态"
+      }
+    ],
+    "hypernyms": [
+      "value",
+      "state"
+    ],
+    "hyponyms": [
+      "null pointer",
+      "null value"
+    ],
+    "collocations": [
+      {
+        "pattern": "null + noun (e.g., null value)",
+        "examples": [
+          "The function returns a null value."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + null (e.g., is null)",
+        "examples": [
+          "The variable is null."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方技术文化中，该词象征数字化时代的空缺或无效，常隐含对数据完整性的强调；在中文学习者语境中，可能与编程文化相关联，代表现代科技的抽象概念。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于编程和科技领域",
+        "usage": "在美国英语中，'null' 频繁出现在软件开发讨论中，强调技术精确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在正式语境中可能更侧重法律含义",
+        "usage": "在英国英语中，'null and void' 是常见法律短语"
+      }
+    ],
+    "historicalContext": "与启蒙运动时期的逻辑和数学发展相关联，如在牛顿时代用于表示无效；在现代，关联计算机革命和社会对数字隐私的关注。",
+    "modernUsage": "在社交媒体和在线论坛中，'null' 常用于 meme 或科技讨论，反映数字时代的语言演变"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个空荡荡的盒子，里面什么都没有，代表 'null' 的空值状态",
+      "keyElements": [
+        "空盒子",
+        "无内容",
+        "虚无感"
+      ],
+      "emotionalConnection": "联结到个人经历，如丢失重要物品时的空虚感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Null 像 'nullify' 的简化，想象一个魔法师让东西消失",
+        "explanation": "通过视觉联想强化词汇与消失概念的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Null 听起来像 'knull'，联想成一个空洞的回音",
+        "explanation": "利用声音与图像的联觉，帮助记忆编码和检索"
+      }
+    ],
+    "wordAssociations": [
+      "empty",
+      "void",
+      "zero"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "nulls (in some technical contexts)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + null",
+        "description": "用于描述状态的谓语结构",
+        "examples": [
+          "The data is null."
+        ]
+      },
+      {
+        "pattern": "Null + noun phrase",
+        "description": "用作定语的结构，表示相关概念",
+        "examples": [
+          "A null pointer error."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'null' with 'zero'",
+        "correction": "Use 'null' for absence of value, not numerical zero",
+        "explanation": "中文学习者常混淆，因为两者均表示'无'，但 'null' 强调非数值缺失"
+      },
+      {
+        "mistake": "Using 'null' in informal speech incorrectly",
+        "correction": "Restrict to technical contexts",
+        "explanation": "避免在非技术语境中误用，以符合语域要求"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus for technical domains)",
+    "domains": [
+      "科技",
+      "计算机",
+      "法律"
+    ],
+    "tags": [
+      "编程术语",
+      "逻辑概念",
+      "无效状态"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

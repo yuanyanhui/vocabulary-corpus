@@ -1,0 +1,258 @@
+{
+  "word": "deadlock",
+  "phonetics": {
+    "british": "/ˈdɛdlɒk/",
+    "american": "/ˈdɛdlɑːk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A situation in which no progress can be made because opposing sides are unwilling or unable to reach an agreement or move forward.",
+      "chineseTranslation": "僵局",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a condition where two or more processes are unable to proceed because each is waiting for the other to release a resource.",
+      "chineseTranslation": "死锁（计算机术语）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To bring or come to a standstill; to cause a deadlock.",
+      "chineseTranslation": "使陷入僵局",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deadlock in negotiations",
+      "meaning": "谈判中的僵局",
+      "example": "The trade talks reached a deadlock in negotiations over tariffs.",
+      "exampleTranslation": "贸易谈判在关税问题上陷入僵局。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "break a deadlock",
+      "meaning": "打破僵局",
+      "example": "The mediator was brought in to break a deadlock in the peace process.",
+      "exampleTranslation": "调解人被引入以打破和平进程中的僵局。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "deadlock situation",
+      "meaning": "僵持局面",
+      "example": "The jury was in a deadlock situation, unable to reach a unanimous verdict.",
+      "exampleTranslation": "陪审团陷入僵持局面，无法达成一致裁决。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After hours of debate, the committee found itself in a deadlock over the budget proposal.",
+      "translation": "经过数小时辩论，委员会在预算提案上陷入僵局。",
+      "source": "Political discourse (e.g., from news articles in The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, a deadlock can crash the entire system if not handled properly.",
+      "translation": "在软件开发中，如果不正确处理，死锁可能会使整个系统崩溃。",
+      "source": "Technical writing (e.g., from computer science texts like those in COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The labor union and management are in a deadlock, with neither side willing to compromise.",
+      "translation": "工会和管理层处于僵局，谁都不愿意妥协。",
+      "source": "Business news (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "dead",
+        "meaning": "Completely or absolutely (from Old English 'dead')",
+        "language": "Old English"
+      },
+      {
+        "root": "lock",
+        "meaning": "A mechanism that fastens or holds something in place",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪早期英语，源自'dead'（意为完全的）和'lock'（意为锁定或固定）。最初用于描述物理上的锁定状态，后来演变为比喻意义，表示谈判或冲突中的僵持局面。到20世纪，在计算机科学中被采用以描述进程竞争资源时的停滞状态。",
+    "firstKnownUse": "1779",
+    "relatedWords": [
+      "stalemate",
+      "impasse",
+      "gridlock"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经历联想，例如想象一扇锁死的门来代表'deadlock'的僵局；使用间隔重复法（spaced repetition）来强化记忆，避免混淆与其他类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "stalemate",
+        "similarity": "0.8",
+        "context": "适用于战略或游戏中的僵局，例如棋类游戏"
+      },
+      {
+        "word": "impasse",
+        "similarity": "0.9",
+        "context": "常用于外交或谈判中的无进展情况"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resolution",
+        "context": "适用于解决冲突或达成协议的语境"
+      },
+      {
+        "word": "breakthrough",
+        "context": "表示在僵局后取得的重大进展"
+      }
+    ],
+    "hypernyms": [
+      "situation",
+      "condition"
+    ],
+    "hyponyms": [
+      "negotiation deadlock",
+      "traffic deadlock"
+    ],
+    "collocations": [
+      {
+        "pattern": "deadlock in + noun",
+        "examples": [
+          "deadlock in talks",
+          "deadlock in voting"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "reach a deadlock",
+        "examples": [
+          "The parties reached a deadlock."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征冲突或停滞的隐含语义，常用于政治和商业语境中，反映出西方文化对协商和妥协的强调。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于政治辩论，如国会僵局",
+        "usage": "例如，在美国选举中描述投票僵局的具体情况"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英式英语中可能更侧重于正式场合，如国际谈判",
+        "usage": "常在新闻报道中用于描述 Brexit 相关僵局"
+      }
+    ],
+    "historicalContext": "与工业革命时期劳资纠纷相关联，并在20世纪计算机时代扩展其含义，体现了科技对语言的影响。",
+    "modernUsage": "在现代社交媒体和新闻中，该词的传播趋势增加，用于描述全球事件如气候变化谈判的僵局。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一扇被完全锁死的门，里面的人无法出来，这代表了'deadlock'的僵持状态。",
+      "keyElements": [
+        "锁死的门",
+        "停滞的谈判"
+      ],
+      "emotionalConnection": "联结到个人经历中的争论或等待，触发挫败感以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dead + Lock = A lock that is dead (completely stuck)",
+        "explanation": "通过视觉联想将'dead'和'lock'组合，创建一幅静态图像，帮助初级学习者快速回忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'dead walk'，想象一个僵硬的行走者无法前进。",
+        "explanation": "利用语音相似性增强记忆，基于认知科学的声音-图像关联原则"
+      }
+    ],
+    "wordAssociations": [
+      "stalemate",
+      "gridlock",
+      "impasse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "deadlocks",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + deadlock",
+        "description": "主语加动词加'deadlock'的结构，常用于描述进入僵局的状态",
+        "examples": [
+          "They entered a deadlock."
+        ]
+      },
+      {
+        "pattern": "Deadlock + in + noun phrase",
+        "description": "表示在特定领域中的僵局",
+        "examples": [
+          "Deadlock in policy discussions."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'dead end'",
+        "correction": "Use 'deadlock' for situations involving opposition, not just a literal end.",
+        "explanation": "学习者常将'deadlock'误用为'dead end'，因为两者均涉及停滞；需区分语境"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as a verb correctly, e.g., 'deadlock the process'.",
+        "explanation": "'Deadlock'作为动词较少用，学习者可能遗忘其存在"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "politics",
+      "business",
+      "computing"
+    ],
+    "tags": [
+      "conflict",
+      "stagnation",
+      "technical terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

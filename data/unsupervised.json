@@ -1,0 +1,242 @@
+{
+  "word": "unsupervised",
+  "phonetics": {
+    "british": "/ʌnˈsʌpəvɑɪzd/",
+    "american": "/ʌnˈsʊpɚvaɪzd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not involving direct human control, oversight, or guidance, often used in contexts such as machine learning or child supervision.",
+      "chineseTranslation": "无监督的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unsupervised learning",
+      "meaning": "无监督学习",
+      "example": "Unsupervised learning allows algorithms to identify patterns without labeled data.",
+      "exampleTranslation": "无监督学习允许算法在没有标记数据的情况下识别模式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "unsupervised environment",
+      "meaning": "无监督环境",
+      "example": "Children should not be left in an unsupervised environment for safety reasons.",
+      "exampleTranslation": "出于安全考虑，孩子们不应该被留在无监督的环境中。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In machine learning, unsupervised models can cluster data points based on similarities.",
+      "translation": "在机器学习中，无监督模型可以基于相似性对数据点进行聚类。",
+      "source": "Technical literature (e.g., AI research papers)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The playground was unsupervised, so parents kept a close watch on their kids.",
+      "translation": "操场是无监督的，所以父母们密切关注着他们的孩子。",
+      "source": "Daily life contexts (e.g., parenting blogs)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Unsupervised algorithms have revolutionized data analysis in various industries.",
+      "translation": "无监督算法已经彻底改变了各个行业的数据分析。",
+      "source": "News articles (e.g., from BBC or The New York Times)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not or without",
+        "language": "Old English"
+      },
+      {
+        "root": "super-",
+        "meaning": "over or above",
+        "language": "Latin"
+      },
+      {
+        "root": "visum",
+        "meaning": "to see",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'supervidere'，意为 '俯视或监督'，通过古法语 'superviser' 演变为英语 'supervise'，然后添加前缀 'un-' 表示否定，形成 'unsupervised'。该词在19世纪末开始用于一般监督语境，并在20世纪早期扩展到技术领域，如教育和机器学习。",
+    "firstKnownUse": "Early 20th century (circa 1920, as per OED records)",
+    "relatedWords": [
+      "supervised",
+      "oversight",
+      "autonomous"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学中的双编码策略，将词汇与视觉图像结合，例如想象一个无人监控的机器人场景；通过间隔重复法复习，以加强长期记忆；针对中文母语学习者，关联到日常'无监督'概念如'自由活动'，以降低抽象性障碍。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "autonomous",
+        "similarity": "0.8",
+        "context": "适用于技术或日常语境中缺乏外部控制的情况"
+      },
+      {
+        "word": "self-directed",
+        "similarity": "0.7",
+        "context": "在教育或个人发展语境中，表示独立进行的活动"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "supervised",
+        "context": "与有外部指导或监控的语境相对，例如机器学习中的监督算法"
+      },
+      {
+        "word": "monitored",
+        "context": "在安全或工作语境中，表示持续观察的情况"
+      }
+    ],
+    "hypernyms": [
+      "uncontrolled",
+      "independent"
+    ],
+    "hyponyms": [
+      "self-learning",
+      "cluster analysis (in AI)"
+    ],
+    "collocations": [
+      {
+        "pattern": "unsupervised + noun",
+        "examples": [
+          "unsupervised learning",
+          "unsupervised data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in an unsupervised manner",
+        "examples": [
+          "The experiment was conducted in an unsupervised manner."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征着人工智能和自动化领域的创新，隐含着对人类干预减少的追求，常与西方文化中的 individualism（个人主义）相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和教育语境",
+        "usage": "在美国英语中，常见于硅谷公司和学术讨论中，强调创新和效率"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "使用类似，但可能更正式",
+        "usage": "在英国英语中，常出现在学术出版物或政策文件中，反映出对监管的谨慎态度"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪的自动化运动相关联，例如在英国的工厂管理历史中，'unsupervised' 曾表示机器独立操作的文化转变。",
+    "modernUsage": "在社交媒体和在线平台如Twitter或LinkedIn上流行，用于讨论AI伦理和远程工作趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人独自在实验室中探索数据，而没有人类操作员的指导。",
+      "keyElements": [
+        "机器人",
+        "探索",
+        "独立"
+      ],
+      "emotionalConnection": "联想到个人经历中的自由时刻，如独自旅行，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'unsupervised' 联想为 'un-super-vised'，意思是 '没有超级监督'。",
+        "explanation": "通过声音和视觉联想降低记忆负担，符合认知科学中的 elaboration 原则。"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-S：Unmonitored, No Supervision.",
+        "explanation": "使用首字母缩略形成简单口诀，促进工作记忆的编码。"
+      }
+    ],
+    "wordAssociations": [
+      "autonomous",
+      "free-range",
+      "AI-driven"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more unsupervised",
+      "superlative": "most unsupervised"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun + be + unsupervised",
+        "description": "用于描述主语的状态或条件",
+        "examples": [
+          "The algorithm is unsupervised."
+        ]
+      },
+      {
+        "pattern": "In an unsupervised + context",
+        "description": "表示在特定环境中的应用",
+        "examples": [
+          "In an unsupervised setting, errors can occur."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with a verb form",
+        "correction": "Use as an adjective only",
+        "explanation": "学习者常错误地将之视为动词；正确用法需确保其修饰名词，以避免语义混淆。"
+      },
+      {
+        "mistake": "Overgeneralizing to non-technical contexts",
+        "correction": "Limit to appropriate domains",
+        "explanation": "在非技术语境中，可能被误用；建议结合语域意识进行练习。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Education",
+      "Science"
+    ],
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Adjective",
+      "Technical Terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

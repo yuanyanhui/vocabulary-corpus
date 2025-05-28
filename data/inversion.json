@@ -1,0 +1,274 @@
+{
+  "word": "inversion",
+  "phonetics": {
+    "british": "/ɪnˈvɜːʃ(ə)n/",
+    "american": "/ɪnˈvɝʒən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of reversing the normal order or position of things, especially in grammar where the subject and verb are switched.",
+      "chineseTranslation": "倒装（尤指语法中主语和谓语的交换）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, a transformation that maps points to their inverses, such as in geometry or functions.",
+      "chineseTranslation": "反演（数学中将点映射到其逆点的变换）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A reversal of the usual temperature gradient in the atmosphere, where air temperature increases with altitude.",
+      "chineseTranslation": "逆温（大气层中温度随高度增加的异常现象）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In music, the alteration of a chord or interval by reversing its notes.",
+      "chineseTranslation": "转位（音乐中和弦或音程的逆转）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "grammatical inversion",
+      "meaning": "语法倒装",
+      "example": "Inversion is often used in questions for grammatical inversion.",
+      "exampleTranslation": "倒装常用于疑问句中进行语法倒装。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "inversion of control",
+      "meaning": "控制反转",
+      "example": "Inversion of control is a key principle in software design.",
+      "exampleTranslation": "控制反转是软件设计中的关键原则。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "temperature inversion",
+      "meaning": "温度逆转",
+      "example": "A temperature inversion can trap pollutants in the air.",
+      "exampleTranslation": "温度逆转可能导致污染物滞留在空气中。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In English poetry, inversion creates a rhythmic effect, as in 'Came the dawn.'",
+      "translation": "在英语诗歌中，倒装创造出节奏效果，例如 'Came the dawn.'",
+      "source": "Literary works, such as poetry from the Romantic era",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The mathematical concept of inversion helps in solving complex equations.",
+      "translation": "数学中的反演概念有助于解决复杂方程。",
+      "source": "Educational texts, such as textbooks on geometry",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Due to a temperature inversion, the city experienced poor air quality.",
+      "translation": "由于温度逆转，该城市空气质量变差。",
+      "source": "News articles from environmental reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Inversion in music theory involves flipping the notes of a chord.",
+      "translation": "在音乐理论中，转位涉及翻转和弦的音符。",
+      "source": "Music composition guides",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "inversio",
+        "meaning": "A turning about",
+        "language": "Latin"
+      },
+      {
+        "root": "invertere",
+        "meaning": "To turn upside down or reverse",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'invertere'（意为翻转），在中世纪拉丁语中演变为 'inversio'，用于表示翻转或逆转的概念。17世纪传入英语，首先在语法和修辞学中用于描述句子结构的改变，后来扩展到数学、物理等领域，反映了科学革命时期对逆转现象的兴趣。",
+    "firstKnownUse": "约17世纪",
+    "relatedWords": [
+      "reverse",
+      "conversion",
+      "reversion"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将多义词分组记忆，例如先掌握语法倒装，再扩展到技术语境；通过视觉联想将词根 'invertere' 想象为翻转物体，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reversal",
+        "similarity": "0.8",
+        "context": "适用于一般语境中的翻转，例如语法或日常描述"
+      },
+      {
+        "word": "upheaval",
+        "similarity": "0.6",
+        "context": "适用于表示重大变化的语境，如社会或环境变化"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maintenance",
+        "context": "适用于保持原有顺序或状态的语境"
+      },
+      {
+        "word": "preservation",
+        "context": "适用于保护原有结构的语境"
+      }
+    ],
+    "hypernyms": [
+      "transformation",
+      "change"
+    ],
+    "hyponyms": [
+      "grammatical inversion",
+      "temperature inversion"
+    ],
+    "collocations": [
+      {
+        "pattern": "inversion of + noun",
+        "examples": [
+          "inversion of control",
+          "inversion of expectations"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "subject-verb inversion",
+        "examples": [
+          "Inversion occurs in questions."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着创新和颠覆，常用于文学（如莎士比亚的倒装句）以增强表达力；在现代文化中，反演概念反映了后现代主义对传统规范的挑战。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于文学和正式语境",
+        "usage": "在英国英语中，inversion 常出现在诗歌和正式演讲中，以强调修辞效果"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术语境",
+        "usage": "在美国英语中，inversion 常用于科学和技术讨论，如气象学"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的修辞学相关联，例如莎士比亚作品中频繁使用倒装；在工业革命后，扩展到科学领域，体现了对自然规律的重新审视。",
+    "modernUsage": "在社交媒体和数字时代，inversion 常用于讨论技术创新，如编程模式，或在 memes 中表示意想不到的转折"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个翻转的沙漏，沙子从下往上流动，代表词的逆转含义。",
+      "keyElements": [
+        "沙漏",
+        "翻转",
+        "流动"
+      ],
+      "emotionalConnection": "联结个人经历，如回想童年玩翻转玩具时的惊喜，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Inversion 像 'in verse'，意思是诗歌中的翻转。",
+        "explanation": "通过词形联想，将 'inversion' 与诗歌（verse）联系，增强词汇在文学语境中的记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪnˈvɜːʃ(ə)n/ 听起来像 'in version'，想象软件更新版本的逆转。",
+        "explanation": "利用声音相似性，结合技术语境，帮助初级学习者建立多维度联想"
+      }
+    ],
+    "wordAssociations": [
+      "reverse",
+      "flip",
+      "upside down"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "inversions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与其他词语搭配形成短语，如 'grammatical inversion'",
+        "examples": [
+          "The inversion in the sentence changes its emphasis."
+        ]
+      },
+      {
+        "pattern": "In subject position",
+        "description": "在句子中用作主语或宾语",
+        "examples": [
+          "Inversion is a common technique."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'invasion'",
+        "correction": "Use 'inversion' for reversal and 'invasion' for intrusion",
+        "explanation": "这两个词发音相似，但含义不同；通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Overusing in formal writing",
+        "correction": "Limit to appropriate contexts",
+        "explanation": "中级学习者常错误地在非正式语境中使用倒装，建议练习多样化句子结构"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "education",
+      "science",
+      "literature"
+    ],
+    "tags": [
+      "grammar",
+      "mathematics",
+      "meteorology",
+      "music"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

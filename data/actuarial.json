@@ -1,0 +1,241 @@
+{
+  "word": "actuarial",
+  "phonetics": {
+    "british": "/ˌæktʃʊˈɛəriəl/",
+    "american": "/ˌæktʃuˈɛriəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the profession or work of actuaries, who use mathematics, statistics, and financial theory to study uncertain future events, especially in insurance and pensions.",
+      "chineseTranslation": "精算的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "actuarial science",
+      "meaning": "精算科学",
+      "example": "Actuarial science is crucial for assessing risks in the insurance industry.",
+      "exampleTranslation": "精算科学对于评估保险行业的风险至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "actuarial tables",
+      "meaning": "精算表",
+      "example": "Actuarial tables help predict life expectancy for pension planning.",
+      "exampleTranslation": "精算表有助于预测养老金规划中的预期寿命。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "actuarial risk",
+      "meaning": "精算风险",
+      "example": "The company faced significant actuarial risk due to climate change.",
+      "exampleTranslation": "该公司因气候变化而面临重大精算风险。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The actuarial analysis showed that the new policy would reduce long-term liabilities.",
+      "translation": "精算分析显示，新政策将减少长期负债。",
+      "source": "Financial reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She pursued a career in actuarial work after graduating with a degree in statistics.",
+      "translation": "她毕业后获得统计学学位，随后从事精算工作。",
+      "source": "Professional biographies (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the meeting, the expert presented actuarial data to support the investment strategy.",
+      "translation": "在会议中，专家呈现了精算数据以支持投资策略。",
+      "source": "Business news (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "actuarius",
+        "meaning": "Clerk or secretary dealing with accounts",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语actuarius（意为书记员或会计员）演变而来，通过中世纪拉丁语和法语actuaire，最终在18世纪进入英语，逐渐专指与统计和风险评估相关的领域。",
+    "firstKnownUse": "18th century",
+    "relatedWords": [
+      "actuary",
+      "actuarially"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法，将词汇分解为'Actu-'（源自拉丁语根）和'-arial'（表示相关性），结合实际情境如保险行业案例，以增强语境记忆；",
+      "应用重复间隔法，根据认知科学原理，每日复习以巩固长期记忆；",
+      "通过视觉辅助如图表展示风险评估过程，建立词汇与实际应用的连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "statistical",
+        "similarity": "0.7",
+        "context": "在风险评估和数据分析的语境中，例如金融报告"
+      },
+      {
+        "word": "risk-related",
+        "similarity": "0.6",
+        "context": "强调不确定性管理的专业场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "intuitive",
+        "context": "在决策过程中，直觉方法与基于数据的精算方法相对"
+      },
+      {
+        "word": "subjective",
+        "context": "主观判断与客观精算分析的对比中"
+      }
+    ],
+    "hypernyms": [
+      "mathematical",
+      "analytical"
+    ],
+    "hyponyms": [
+      "insurance-related",
+      "pension-actuarial"
+    ],
+    "collocations": [
+      {
+        "pattern": "actuarial + noun (e.g., analysis, tables)",
+        "examples": [
+          "actuarial analysis",
+          "actuarial models"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + actuarial + context",
+        "examples": [
+          "in actuarial terms"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征着理性、数据驱动的决策，尤其在盎格鲁-撒克逊文化中，与保险和金融行业的职业伦理相关，体现出对不确定性的科学管理。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和保险法规中",
+        "usage": "在美国，actuarial常与职业认证（如SOA考试）相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调在养老金和政府政策中的应用",
+        "usage": "在英国，actuarial词汇常出现在社会保障讨论中"
+      }
+    ],
+    "historicalContext": "与工业革命时期的保险业兴起相关，19世纪英国的精算师协会成立标志着该领域的专业化，在文学如狄更斯作品中，隐喻为社会稳定的支柱。",
+    "modernUsage": "在社交媒体和在线平台上，actuarial常用于讨论金融科技和AI风险模型，反映当代对数据隐私和预测的关注"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个保险公司办公室， actuarial 词汇与图表和计算器相关联，展示风险预测的场景",
+      "keyElements": [
+        "图表",
+        "计算器",
+        "风险图标"
+      ],
+      "emotionalConnection": "联结个人财务规划的经验，如购买保险时的焦虑，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Actuarial 像 'Action Trial'，代表通过数据试验（trial）采取行动（action）",
+        "explanation": "通过声音联想建立词汇与实际决策过程的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "A-C-T-U-A-R-I-A-L: A for Analysis, C for Calculation, T for Tables, etc.",
+        "explanation": "使用首字母缩略法分解词汇，提高记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "insurance",
+      "statistics",
+      "risk",
+      "pension"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more actuarial",
+      "superlative": "most actuarial"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词修饰名词，表示相关领域",
+        "examples": [
+          "actuarial expertise"
+        ]
+      },
+      {
+        "pattern": "In + Adjective + Noun phrase",
+        "description": "用于表达特定语境",
+        "examples": [
+          "in actuarial practice"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'actual'",
+        "correction": "Use 'actuarial' for insurance-related statistics",
+        "explanation": "二者发音相似，但actual意为真实的，而actuarial专指精算的"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more actuarial' instead of '*actuarialer'",
+        "explanation": "作为形容词，不规则比较级需使用more"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the 50,000-100,000 range in COCA corpus",
+    "domains": [
+      "finance",
+      "insurance",
+      "mathematics",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "professional",
+      "quantitative"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

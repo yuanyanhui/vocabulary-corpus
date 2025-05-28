@@ -1,0 +1,260 @@
+{
+  "word": "partition",
+  "phonetics": {
+    "british": "/pɑːˈtɪʃən/",
+    "american": "/ˈpɑrtɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A structure or feature that divides a space into separate areas, such as a wall or barrier.",
+      "chineseTranslation": "隔墙；分隔物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of dividing something into parts, especially in computing or data management.",
+      "chineseTranslation": "划分；分区（如计算机分区）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To divide or separate something into parts or sections.",
+      "chineseTranslation": "分隔；划分",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "partition wall",
+      "meaning": "隔墙",
+      "example": "The partition wall in the office provides privacy for employees.",
+      "exampleTranslation": "办公室的隔墙为员工提供隐私。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data partition",
+      "meaning": "数据分区",
+      "example": "You should create a data partition on your hard drive for better organization.",
+      "exampleTranslation": "你应该在硬盘上创建一个数据分区以更好地组织文件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "partition off",
+      "meaning": "用隔墙分隔",
+      "example": "They decided to partition off the large room into two smaller ones.",
+      "exampleTranslation": "他们决定用隔墙将大房间分成两个小房间。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The architect designed a glass partition to separate the meeting room from the hallway.",
+      "translation": "建筑师设计了一个玻璃隔墙，将会议室与走廊分开。",
+      "source": "Architectural literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, you can partition a hard drive to manage files more efficiently.",
+      "translation": "在计算机中，你可以对硬盘进行分区来更有效地管理文件。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The government plans to partition the land for new housing developments.",
+      "translation": "政府计划划分土地用于新的住房开发。",
+      "source": "News article",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "partitio",
+        "meaning": "division or sharing",
+        "language": "Latin"
+      },
+      {
+        "root": "partiri",
+        "meaning": "to divide or share",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'partitio'，最初指划分或分配的过程。中世纪拉丁语中演变为表示物理分隔的含义，并通过法语传入英语。在15世纪开始用于建筑和抽象概念的分隔，逐渐扩展到现代计算机领域的分区含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "portion",
+      "part",
+      "divide"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'partition' 与日常生活分隔场景关联，例如想象房间被墙壁分隔；使用重复间隔法（spaced repetition）复习其在不同语境中的含义，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "divide",
+        "similarity": "0.8",
+        "context": "适用于物理或抽象分隔的语境，如 'divide a room'（划分一个房间）"
+      },
+      {
+        "word": "separate",
+        "similarity": "0.7",
+        "context": "常用于表示隔离或区分的语境，如 'separate areas'（分隔区域）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unite",
+        "context": "适用于合并或连接的语境，例如在建筑中 'unite rooms'（连接房间）"
+      },
+      {
+        "word": "combine",
+        "context": "常用于整合部分的语境，如 'combine spaces'（合并空间）"
+      }
+    ],
+    "hypernyms": [
+      "divide",
+      "separate"
+    ],
+    "hyponyms": [
+      "wall partition",
+      "disk partition"
+    ],
+    "collocations": [
+      {
+        "pattern": "partition + noun (e.g., wall, drive)",
+        "examples": [
+          "partition wall",
+          "partition drive"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + partition (e.g., create partition)",
+        "examples": [
+          "create a partition"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征分隔与隐私，尤其在建筑设计中反映个人空间的重要性；在计算机文化中，代表数据管理的效率，与现代数字生活密切相关。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于建筑语境，强调历史建筑中的分隔",
+        "usage": "在英国英语中，常与历史遗产相关，如 'partition in Victorian houses'（维多利亚式房屋的隔墙）"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术语境，如计算机分区",
+        "usage": "在美国英语中，经常出现在科技讨论中，例如 'partition your SSD'（分区你的固态硬盘）"
+      }
+    ],
+    "historicalContext": "与历史文化关联紧密，例如在印度分治（Partition of India）事件中，该词用于表示领土划分，反映殖民主义后的社会分裂；在文学中，如英国小说中描述房间分隔，象征阶级差异。",
+    "modernUsage": "在现代社交媒体和科技语境下，该词流行于在线教程和家居设计视频中，体现了数字化生活与物理空间管理的融合趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个房间被一面墙分成两半，一侧是工作区，另一侧是休息区。",
+      "keyElements": [
+        "墙壁",
+        "分隔",
+        "空间"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己在家中用屏风分隔学习空间的经历，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'partition' 联想为 'part + it + ion'，表示 '部分它离子'，想象将一个物体分成部分。",
+        "explanation": "通过视觉联想增强词汇记忆，利用认知科学中的双编码理论（dual coding），结合图像和声音。"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'P for Part and Divide' 作为缩写记忆。",
+        "explanation": "应用Elaborative Rehearsal原则，通过扩展解释加深理解。"
+      }
+    ],
+    "wordAssociations": [
+      "divide",
+      "wall",
+      "section",
+      "split"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "partitions",
+      "pastTense": "partitioned",
+      "pastParticiple": "partitioned",
+      "presentParticiple": "partitioning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object + adverbial",
+        "description": "主语 + 动词 + 宾语 + 状语结构，常用于描述分隔动作。",
+        "examples": [
+          "They partitioned the room quickly."
+        ]
+      },
+      {
+        "pattern": "Noun phrase + preposition + noun",
+        "description": "名词短语 + 介词 + 名词结构，用于表示分隔关系。",
+        "examples": [
+          "The partition between the offices."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'partition' with 'portion'",
+        "correction": "Use 'partition' for dividing spaces or data, and 'portion' for a part of something.",
+        "explanation": "二者虽相关，但 'partition' 强调分隔过程，而 'portion' 指分配的部分；这常见于初级学习者混淆语义。"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'partitioned' for past actions.",
+        "explanation": "中文母语学习者可能忽略动词时态变化，导致句子不准确。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 words in COCA corpus",
+    "domains": [
+      "architecture",
+      "computing",
+      "business"
+    ],
+    "tags": [
+      "division",
+      "separation",
+      "technology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

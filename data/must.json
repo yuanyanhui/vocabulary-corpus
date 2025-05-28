@@ -1,0 +1,270 @@
+{
+  "word": "must",
+  "phonetics": {
+    "british": "/mʌst/",
+    "american": "/mʌst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "modal verb",
+      "definition": "Used to indicate necessity or obligation; something that is required.",
+      "chineseTranslation": "必须；不得不",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "modal verb",
+      "definition": "Used to express logical deduction or certainty about a present or future situation.",
+      "chineseTranslation": "一定；必定",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "modal verb",
+      "definition": "Used in the past to indicate necessity or obligation that was not fulfilled (in negative contexts).",
+      "chineseTranslation": "本该；原本必须",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that is essential or unavoidable.",
+      "chineseTranslation": "必需品；必要条件",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "must have",
+      "meaning": "表示过去的推测或未实现的必要性",
+      "example": "She must have forgotten about the meeting.",
+      "exampleTranslation": "她一定是忘记了会议。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "must not",
+      "meaning": "表示禁止或不允许",
+      "example": "You must not enter without permission.",
+      "exampleTranslation": "未经许可，你不得进入。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "a must",
+      "meaning": "表示某事是必需的或不可错过的",
+      "example": "Visiting the Eiffel Tower is a must when in Paris.",
+      "exampleTranslation": "在巴黎时，参观埃菲尔铁塔是必须的。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You must wear a helmet while riding a motorcycle.",
+      "translation": "骑摩托车时你必须戴头盔。",
+      "source": "Safety guidelines (e.g., from government regulations)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He must be the new manager; I've seen him in the office.",
+      "translation": "他一定是新经理；我见过他在办公室。",
+      "source": "Informal conversation (e.g., from everyday dialogue in BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many cultures, attending family gatherings must take precedence over work.",
+      "translation": "在许多文化中，参加家庭聚会必须优先于工作。",
+      "source": "Cultural essays (e.g., from academic sources like JSTOR)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Good communication skills are a must for successful leadership.",
+      "translation": "良好的沟通技能是成功领导力的必需品。",
+      "source": "Business articles (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "mōste",
+        "meaning": "past tense of 'motan' meaning 'to be allowed to' or 'to have to'",
+        "language": "Old English"
+      },
+      {
+        "root": "motan",
+        "meaning": "to be obliged or permitted",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'mōste'，是动词 'motan' 的过去式，最初表示许可或义务。在中古英语时期，演变为现代的必要性含义，并扩展到逻辑推测。随着英语的发展，它成为情态动词系统的一部分，在17世纪后更标准化用于表达义务和推测。",
+    "firstKnownUse": "Before 12th century (as recorded in the Oxford English Dictionary)",
+    "relatedWords": [
+      "musty",
+      "mote"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用重复暴露和间隔重复法（spaced repetition）来记忆情态动词的语义差异；例如，将 'must' 与个人义务场景关联，以强化 episodic memory。",
+      "通过视觉映射将 'must' 视为 '锁链' 象征，代表约束，帮助第二语言学习者建立语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "have to",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于表达类似必要性，例如日常对话"
+      },
+      {
+        "word": "should",
+        "similarity": "0.6",
+        "context": "在建议语境中，但不如 'must' 强迫性强"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "may",
+        "context": "表示许可或可能性，而非必要性，例如正式请求语境"
+      },
+      {
+        "word": "can",
+        "context": "表示能力或许可，与 'must' 的义务形成对比"
+      }
+    ],
+    "hypernyms": [
+      "modal verb"
+    ],
+    "hyponyms": [
+      "obligation verb"
+    ],
+    "collocations": [
+      {
+        "pattern": "must + verb",
+        "examples": [
+          "must go",
+          "must see"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "a must + noun",
+        "examples": [
+          "a must read",
+          "a must see"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'must' 象征个人和社会义务，常反映西方文化中强调责任和规则的价值观，例如在英国的传统礼仪中。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或礼仪语境",
+        "usage": "在英国英语中，'must' 可能更强调整体社会规范，如法律或习俗"
+      },
+      {
+        "region": "美国",
+        "variation": "更倾向于个人化表达",
+        "usage": "在美国英语中，'must' 常用于非正式建议，如旅游推荐"
+      }
+    ],
+    "historicalContext": "与英国维多利亚时代的社会规范相关，常出现在文学如狄更斯的作品中，强调道德义务；在现代，跨文化中可能与中国文化中的 '必须' 类似，但西方更注重个体责任。",
+    "modernUsage": "在社交媒体如 Twitter 上，'must' 用于推荐（如 'must-watch series'），反映全球数字文化中的普及趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁着的门，钥匙必须转动才能打开，代表 'must' 的必要性。",
+      "keyElements": [
+        "锁、钥匙、门"
+      ],
+      "emotionalConnection": "联结到个人经历，如必须完成作业的压力，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'Must' 听起来像 'mussed'（弄乱的），想象头发被弄乱必须整理。",
+        "explanation": "通过声音联觉增强词汇记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "M-U-S-T: Must Urgently Secure Task",
+        "explanation": "使用首字母缩略词帮助构建语义网络，促进长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "obligation",
+      "necessity",
+      "require"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + must + base verb",
+        "description": "用于表达必要性或推测的句法结构",
+        "examples": [
+          "I must leave now."
+        ]
+      },
+      {
+        "pattern": "must + have + past participle",
+        "description": "用于过去的推测",
+        "examples": [
+          "She must have arrived."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'must' for future obligations interchangeably with 'will'",
+        "correction": "Use 'must' for strong obligations and 'will' for predictions",
+        "explanation": "情态动词有特定语义；'must' 表示内部义务，而 'will' 表示未来事件"
+      },
+      {
+        "mistake": "Overusing 'must' in questions",
+        "correction": "Prefer 'have to' in questions for naturalness",
+        "explanation": "在英语中，'Must I?' 较正式；学习者常受母语影响而误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 100 in COCA corpus)",
+    "domains": [
+      "education",
+      "business",
+      "daily conversation"
+    ],
+    "tags": [
+      "obligation",
+      "modality",
+      "necessity"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

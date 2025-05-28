@@ -1,0 +1,254 @@
+{
+  "word": "server",
+  "phonetics": {
+    "british": "/ˈsɜːvə/",
+    "american": "/ˈsɝvər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A computer or system that provides resources, data, or services to other computers or devices over a network.",
+      "chineseTranslation": "服务器",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person employed to serve food and drinks in a restaurant or bar.",
+      "chineseTranslation": "服务员",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports such as tennis, the player who delivers the ball to start play.",
+      "chineseTranslation": "发球者",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "web server",
+      "meaning": "网络服务器",
+      "example": "The web server handles all incoming requests from users.",
+      "exampleTranslation": "网络服务器处理所有来自用户的传入请求。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "file server",
+      "meaning": "文件服务器",
+      "example": "The file server stores and manages documents for the entire company.",
+      "exampleTranslation": "文件服务器为整个公司存储和管理文档。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "server room",
+      "meaning": "服务器机房",
+      "example": "Access to the server room is restricted for security reasons.",
+      "exampleTranslation": "出于安全原因，服务器机房的访问受到限制。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company upgraded its server to handle more traffic during peak hours.",
+      "translation": "公司升级了其服务器，以处理高峰时段的更多流量。",
+      "source": "Technology news article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As a server in the restaurant, she always ensures customers are satisfied.",
+      "translation": "作为餐厅的服务员，她总是确保顾客满意。",
+      "source": "Modern fiction (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the tennis match, the server aced his opponent with a powerful shot.",
+      "translation": "在网球比赛中，发球者用一记有力的击球直接得分。",
+      "source": "Sports commentary (e.g., from general corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English from Old French 'serveur', derived from Latin 'servire' meaning 'to serve'.",
+    "rootWords": [
+      {
+        "root": "serv-",
+        "meaning": "To serve or be a slave",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'servire'（服务或 servitude），通过古法语演变为中古英语 'server'，最初指服务者或仆人。17世纪开始扩展到机械或技术语境，如计算机领域的发展源于工业革命后的机械服务概念。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "serve",
+      "servant",
+      "service"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10 scale; moderate due to vowel variations between British and American English, which may confuse intermediate learners)",
+    "spellingDifficulty": "3 (1-10 scale; straightforward spelling with common patterns, but potential confusion with similar words like 'sewer')",
+    "meaningComplexity": "6 (1-10 scale; multiple meanings require context differentiation, aligning with cognitive load theory for intermediate learners)",
+    "usageComplexity": "5 (1-10 scale; depends on domain, e.g., technical vs. everyday; based on schema theory, learners need to build domain-specific knowledge)",
+    "learningTips": [
+      "使用分块学习法（chunking）将不同语境下的含义分组，例如技术语境和技术语境分开，以减少认知负荷；结合图像记忆，如将服务器与计算机图标联想。",
+      "通过重复暴露（spaced repetition）练习发音差异，确保在真实对话中应用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "host",
+        "similarity": "0.8",
+        "context": "在技术语境中，指提供服务的设备，例如 'A host machine acts as a server in the network.'（在网络中，一台主机充当服务器。）"
+      },
+      {
+        "word": "waiter",
+        "similarity": "0.7",
+        "context": "在餐饮语境中，指餐厅服务人员，例如 'The waiter, or server, took our order.'（服务员或服务器记录了我们的订单。）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "client",
+        "context": "在技术语境中，指请求服务的设备，例如 'Unlike a server, a client initiates requests in a network.'（与服务器不同，客户端在网络中发起请求。）"
+      },
+      {
+        "word": "customer",
+        "context": "在餐饮语境中，指被服务者，例如 'The server serves the customer, not vice versa.'（服务员服务顾客，而不是反之。）"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "person"
+    ],
+    "hyponyms": [
+      "web server",
+      "database server"
+    ],
+    "collocations": [
+      {
+        "pattern": "server + noun (e.g., server farm)",
+        "examples": [
+          "The server farm supports global operations."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + server (e.g., run a server)",
+        "examples": [
+          "We need to run the server efficiently."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，'server' 象征技术基础设施和全球连接，体现了后工业社会的依赖性；在西方文化中，它可能隐含服务导向的价值，如在美国餐饮业中代表友好的客户服务。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在技术语境中，且在餐饮中常互换为 'waiter/waitress'",
+        "usage": "在美国英语中，'server' 在科技行业高度流行，反映出创新文化。"
+      },
+      {
+        "region": "英国",
+        "variation": "在餐饮中较少用，偏好 'waiter'，而在技术中与美国类似",
+        "usage": "英国英语中，'server' 保持中性，但历史语境中可能联想到殖民时代的服务角色。"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机时代的兴起相关，在文学如狄更斯的作品中，服务者角色反映社会阶层；在当代，关联到互联网文化和数据隐私辩论。",
+    "modernUsage": "在社交媒体和在线平台中，'server' 常用于游戏或云服务语境，体现数字化生活方式的全球趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字世界中的服务塔楼，塔楼顶部是计算机服务器，底部是餐厅服务员在忙碌。",
+      "keyElements": [
+        "塔楼",
+        "计算机图标",
+        "服务员制服"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己在餐厅用餐或使用在线服务的时刻，以触发积极情感强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'server' 联想为 'serve + er'，想象一个机器人在 'serve' 食物或数据。",
+        "explanation": "通过视觉联想增强海马体记忆路径，基于认知心理学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈsɝvər/' 联想为 'surf' 海浪，因为服务器像海浪一样传输数据。",
+        "explanation": "利用声音与图像的联结，促进长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "host",
+      "service",
+      "network"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "servers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + server",
+        "description": "作为主语或宾语的典型结构，例如在陈述句中描述其功能。",
+        "examples": [
+          "The server processes data quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + server",
+        "description": "使用形容词修饰以指定类型。",
+        "examples": [
+          "A dedicated server is essential for large websites."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'server' with 'sewer'",
+        "correction": "Use 'server' for computing or service roles.",
+        "explanation": "错误源于相似发音；通过语境区分以避免混淆。"
+      },
+      {
+        "mistake": "Using 'server' in wrong context, e.g., as a verb",
+        "correction": "It is a noun; use 'serve' as the verb.",
+        "explanation": "词性错误常见于初级学习者；强调语境分析。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "hospitality",
+      "sports"
+    ],
+    "tags": [
+      "computing",
+      "service",
+      "digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

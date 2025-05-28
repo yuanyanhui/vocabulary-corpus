@@ -1,0 +1,238 @@
+{
+  "word": "sparsity",
+  "phonetics": {
+    "british": "/ˈspɑːsɪti/",
+    "american": "/ˈspɑːrsəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being sparse; the condition of having few elements or being thinly distributed, often used in technical contexts such as mathematics or data analysis.",
+      "chineseTranslation": "稀疏性",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data sparsity",
+      "meaning": "数据稀疏性",
+      "example": "Data sparsity is a significant challenge in machine learning algorithms.",
+      "exampleTranslation": "在机器学习算法中，数据稀疏性是一个重大挑战。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sparsity pattern",
+      "meaning": "稀疏模式",
+      "example": "The sparsity pattern of the matrix affects computational efficiency.",
+      "exampleTranslation": "矩阵的稀疏模式影响计算效率。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics, sparsity refers to the low density of non-zero elements in a dataset.",
+      "translation": "在统计学中，稀疏性指的是数据集中的非零元素密度低。",
+      "source": "Academic text",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The sparsity of the population in rural areas makes service delivery difficult.",
+      "translation": "农村地区人口的稀疏性使得服务提供变得困难。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers are addressing sparsity in big data to improve predictive models.",
+      "translation": "研究人员正在解决大数据中的稀疏性以改进预测模型。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sparsus",
+        "meaning": "scattered or sparse",
+        "language": "Latin"
+      },
+      {
+        "root": "spargere",
+        "meaning": "to scatter",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'sparsus'，意为散布或稀疏，源自动词 'spargere'（散布）。该词经由古法语 'espars' 演变为中古英语，最终在17世纪进入现代英语，最初用于描述物理分布，现扩展至抽象和技术语境，如数据科学。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "sparse",
+      "sparsely",
+      "sparseness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'sparsity' 与稀疏的森林图像关联，以增强记忆；通过重复暴露于技术语境中进行间隔重复学习，以巩固理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "scarcity",
+        "similarity": "0.7",
+        "context": "适用于资源短缺的语境，例如经济领域"
+      },
+      {
+        "word": "thinness",
+        "similarity": "0.6",
+        "context": "适用于描述分布稀少的物理或抽象情况"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "density",
+        "context": "适用于高密集度的语境，如人口密集的城市"
+      },
+      {
+        "word": "abundance",
+        "context": "适用于资源丰富的语境，如自然资源"
+      }
+    ],
+    "hypernyms": [
+      "quality",
+      "state"
+    ],
+    "hyponyms": [
+      "data sparsity",
+      "population sparsity"
+    ],
+    "collocations": [
+      {
+        "pattern": "sparsity of [noun]",
+        "examples": [
+          "sparsity of data",
+          "sparsity of vegetation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] sparsity",
+        "examples": [
+          "high sparsity",
+          "low sparsity"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术与效率，尤其在数据科学和数学领域，体现出对资源优化的重视，但在东方文化如中国，可能与资源分配的哲学概念（如道家思想中的平衡）隐含关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如AI和大数据",
+        "usage": "在美国英语中，'sparsity' 在学术和商业讨论中频繁出现，强调创新和效率"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于地理或生态语境",
+        "usage": "在英国英语中，可能更侧重于历史或环境科学的应用"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，反映了西方对资源稀缺性的关注，如19世纪的地理探索中描述的土地稀疏性。",
+    "modernUsage": "在社交媒体和数字平台上，'sparsity' 常用于讨论AI算法和大数据挑战，体现当代技术驱动的社会趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个广阔的森林，只有零星的树木散布其中，代表稀疏分布。",
+      "keyElements": [
+        "森林",
+        "零星树木",
+        "广阔空间"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年时在空旷田野玩耍的自由感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'sparsity' 联想为 'sparse city'，一个空荡荡的城市。",
+        "explanation": "通过视觉联想帮助记忆词根和含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈspɑːsɪti/' 听起来像 'spa city'，想象一个稀疏的温泉城市。",
+        "explanation": "利用声音相似性创建有趣的记忆钩子"
+      }
+    ],
+    "wordAssociations": [
+      "sparse",
+      "scattered",
+      "thin"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sparsities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + sparsity + of + [noun]",
+        "description": "典型用于描述特定稀疏性的结构",
+        "examples": [
+          "The sparsity of the data"
+        ]
+      },
+      {
+        "pattern": "Subject in sentence",
+        "description": "作为主语的句法结构",
+        "examples": [
+          "Sparsity affects algorithm performance"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'scarcity'",
+        "correction": "Use 'sparsity' for distribution, 'scarcity' for availability",
+        "explanation": "二者虽相关，但 'sparsity' 强调分布而非数量短缺"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'sparsities' for plural",
+        "explanation": "作为可数名词，需要正确添加复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "数学",
+      "数据分析",
+      "生态"
+    ],
+    "tags": [
+      "技术术语",
+      "抽象概念",
+      "统计学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

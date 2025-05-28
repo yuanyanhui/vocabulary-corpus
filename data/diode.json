@@ -1,0 +1,237 @@
+{
+  "word": "diode",
+  "phonetics": {
+    "british": "/ˈdaɪəʊd/",
+    "american": "/ˈdaɪoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A semiconductor device with two terminals that allows current to flow in one direction only, commonly used in electronics for rectification and signal processing.",
+      "chineseTranslation": "二极管",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "light-emitting diode",
+      "meaning": "发光二极管",
+      "example": "A light-emitting diode is used in displays and lighting.",
+      "exampleTranslation": "发光二极管用于显示屏和照明。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Zener diode",
+      "meaning": "齐纳二极管，用于电压调节",
+      "example": "The Zener diode maintains a constant voltage in the circuit.",
+      "exampleTranslation": "齐纳二极管在电路中保持恒定电压。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use a diode to protect the circuit from reverse polarity.",
+      "translation": "工程师使用二极管来保护电路免受反向极性影响。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday devices like smartphones, diodes play a crucial role in power management.",
+      "translation": "在日常设备如智能手机中，二极管在电源管理中发挥关键作用。",
+      "source": "Popular science article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The invention of the diode revolutionized modern electronics.",
+      "translation": "二极管的发明革命性地改变了现代电子学。",
+      "source": "Historical text",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "di-",
+        "meaning": "two",
+        "language": "Greek"
+      },
+      {
+        "root": "hodos",
+        "meaning": "way or path",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term 'diode' was coined in the early 20th century by combining Greek roots 'di-' (meaning two) and 'hodos' (meaning way), originally to describe a two-electrode vacuum tube device. It evolved with the advent of semiconductor technology in the mid-20th century to refer to modern solid-state components.",
+    "firstKnownUse": "1919",
+    "relatedWords": [
+      "triode",
+      "transistor",
+      "rectifier"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "将二极管与日常生活中的电子设备联系起来，如手机充电器，以增强语义记忆；",
+      "使用间隔重复系统（spaced repetition）来复习发音和拼写；",
+      "通过视觉辅助工具如电路图，结合认知负载理论降低学习门槛"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rectifier",
+        "similarity": "0.7",
+        "context": "在电子电路中用于整流目的"
+      },
+      {
+        "word": "semiconductor diode",
+        "similarity": "0.9",
+        "context": "泛指半导体设备"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resistor",
+        "context": "在电路中，用于不同的功能，如阻挡电流而非单向流动"
+      }
+    ],
+    "hypernyms": [
+      "semiconductor device"
+    ],
+    "hyponyms": [
+      "LED",
+      "Zener diode",
+      "Schottky diode"
+    ],
+    "collocations": [
+      {
+        "pattern": "type of diode",
+        "examples": [
+          "light-emitting diode",
+          "Zener diode"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "diode in circuit",
+        "examples": [
+          "diode protection circuit"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科技文化中，二极管象征着电子革命和创新，经常出现在科幻文学和电影中，代表先进技术。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在工程和消费电子语境中",
+        "usage": "在美国英语中，常与日常技术产品相关联，如智能手机"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "使用方式类似，但可能在学术语境中更强调历史发展",
+        "usage": "在英国英语中，常见于教育和工业标准"
+      }
+    ],
+    "historicalContext": "二极管与20世纪电子学兴起相关联，如无线电和计算机的发明，体现了工业革命的延续。",
+    "modernUsage": "在社交媒体和科技新闻中，二极管常用于讨论可持续能源和AI设备，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个单向街道，只有从一个方向通行，就像二极管只允许电流单向流动。",
+      "keyElements": [
+        "单向街道",
+        "电流流动",
+        "电子设备"
+      ],
+      "emotionalConnection": "联想到开车时的交通规则，触发个人经验以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Diode 听起来像 'die ode'，但联想到 'two paths die out'，表示只有两个电极且单向。",
+        "explanation": "通过声音联想和简化概念，帮助记忆其结构和功能"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-O-D-E: D for direction, I for one way, O for only, D for device, E for electronics.",
+        "explanation": "使用首字母缩略法结合认知关联，强化词汇保留"
+      }
+    ],
+    "wordAssociations": [
+      "electron",
+      "circuit",
+      "voltage",
+      "semiconductor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "diodes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject or object",
+        "description": "作为句子的主语或宾语，常用于描述电子组件",
+        "examples": [
+          "The diode functions effectively.",
+          "We installed a diode in the system."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，表示位置或功能",
+        "examples": [
+          "Diodes in modern circuits are essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing diode with transistor",
+        "correction": "Use diode for one-way current control",
+        "explanation": "Diode and transistor are distinct; diode is simpler and unidirectional"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'diodes' for plural",
+        "explanation": "As a countable noun, it follows standard plural rules"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Electronics",
+      "Engineering",
+      "Technology"
+    ],
+    "tags": [
+      "Physics",
+      "Semiconductors",
+      "Components"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

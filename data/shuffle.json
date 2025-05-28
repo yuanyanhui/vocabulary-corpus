@@ -1,0 +1,266 @@
+{
+  "word": "shuffle",
+  "phonetics": {
+    "british": "/ˈʃʌfl/",
+    "american": "/ˈʃʌfl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mix the order of a deck of cards or other items by sliding them over each other.",
+      "chineseTranslation": "洗牌；洗乱",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To walk without lifting the feet fully from the ground, often in a lazy or dragging manner.",
+      "chineseTranslation": "拖着脚走；慢吞吞地走",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of mixing cards or items, or a rearrangement of order.",
+      "chineseTranslation": "洗牌动作；重新排列",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A dragging or sliding movement, especially in walking.",
+      "chineseTranslation": "拖步；蹒跚",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "shuffle cards",
+      "meaning": "洗牌",
+      "example": "Before starting the game, the dealer must shuffle cards thoroughly.",
+      "exampleTranslation": "在游戏开始前，庄家必须彻底洗牌。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "shuffle through",
+      "meaning": "快速翻阅或浏览",
+      "example": "She likes to shuffle through her notes before a meeting.",
+      "exampleTranslation": "她喜欢在会议前快速翻阅她的笔记。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "shuffle along",
+      "meaning": "慢慢地走或拖着走",
+      "example": "The tired hikers shuffled along the trail at dusk.",
+      "exampleTranslation": "疲惫的徒步者们在黄昏时拖着脚走在小径上。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The magician asked the audience to shuffle the deck before the trick.",
+      "translation": "魔术师要求观众洗牌后再表演魔术。",
+      "source": "Literature (e.g., from modern fiction)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the busy street, people shuffle past each other without making eye contact.",
+      "translation": "在繁忙的街道上，人们互相擦肩而过而不对视。",
+      "source": "News articles (e.g., urban life descriptions)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After a long day at work, he shuffled into the house and collapsed on the sofa.",
+      "translation": "工作一天后，他拖着疲惫的步伐走进房子，倒在沙发上。",
+      "source": "Colloquial usage (e.g., everyday conversation)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The algorithm can shuffle data to ensure randomness in the simulation.",
+      "translation": "该算法可以洗乱数据以确保模拟的随机性。",
+      "source": "Technical writing (e.g., from computer science texts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "schuffelen",
+        "meaning": "To shove or push",
+        "language": "Middle English (from Low German or Dutch)"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语的 schuffelen，最初指推动或推挤的动作，逐渐演变为表示混合或重新排列的含义，如在16世纪用于卡片游戏中；现代意义扩展到比喻性使用，如数据处理或步态描述。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "shuffleboard",
+      "shovel"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'shuffle' 与视觉图像（如洗牌的动作）关联，以增强记忆；对于中国学习者，建议通过重复练习发音以克服 'sh' 音的干扰，并使用双语对照表避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mix",
+        "similarity": "0.8",
+        "context": "适用于中性语境，如混合物品或数据"
+      },
+      {
+        "word": "jumble",
+        "similarity": "0.7",
+        "context": "适用于非正式语境，表示混乱的重新排列"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "organize",
+        "context": "适用于正式语境，如整理物品"
+      },
+      {
+        "word": "sort",
+        "context": "适用于技术语境，如分类数据"
+      }
+    ],
+    "hypernyms": [
+      "rearrange",
+      "move"
+    ],
+    "hyponyms": [
+      "reshuffle"
+    ],
+    "collocations": [
+      {
+        "pattern": "shuffle + noun (e.g., cards, feet)",
+        "examples": [
+          "shuffle cards",
+          "shuffle feet"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "shuffle through + object",
+        "examples": [
+          "shuffle through papers"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与卡片游戏（如扑克）相关，象征运气和公平性；在现代数字文化中，用于算法（如音乐播放列表的随机播放），隐含着娱乐和不确定性的主题。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于非正式口语中描述步态",
+        "usage": "在英国英语中，'shuffle' 可能强调缓慢的动作，以反映社交礼仪中的谦逊"
+      },
+      {
+        "region": "美国",
+        "variation": "常用于游戏和科技语境",
+        "usage": "在美国英语中，该词在娱乐业（如赌场）和编程中更频繁，体现出动态和创新的文化"
+      }
+    ],
+    "historicalContext": "与16世纪欧洲的纸牌游戏相关，反映了当时的社会娱乐和赌博文化；在文学作品中，如莎士比亚的戏剧中，隐喻人生中的不确定性。",
+    "modernUsage": "在社交媒体和数字平台上，'shuffle' 常用于音乐应用（如Spotify的随机播放），代表当代生活中的随意性和即时性趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个赌场场景中，魔术师快速洗牌的动作",
+      "keyElements": [
+        "卡片",
+        "双手滑动",
+        "随机顺序"
+      ],
+      "emotionalConnection": "联结个人经验，如童年玩牌的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'shuffle' 联想为 'shoe full'（一鞋充满），想象鞋子里的东西被混合",
+        "explanation": "通过声音联想帮助记忆拼写和发音，基于认知科学的声音-视觉整合原理"
+      },
+      {
+        "type": "缩略",
+        "content": "S-H-U-F-F-L-E: Shove, Hurry, Up, For, Fun, Like, Everyday",
+        "explanation": "使用首字母缩略词创建故事，增强叙事记忆以改善保留率"
+      }
+    ],
+    "wordAssociations": [
+      "mix",
+      "scramble",
+      "drag"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "shuffled",
+      "pastParticiple": "shuffled",
+      "presentParticiple": "shuffling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "He shuffles the cards."
+        ]
+      },
+      {
+        "pattern": "Verb + adverb",
+        "description": "动词 + 副词结构，用于强调方式",
+        "examples": [
+          "She shuffles slowly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'shovel'",
+        "correction": "Use 'shuffle' for mixing or walking",
+        "explanation": "二者发音相似，但 'shuffle' 指混合而非挖掘；中国学习者常受音译影响"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure regular verb conjugation",
+        "explanation": "作为规则动词，过去式为 'shuffled'，非规则动词混淆可能导致错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "娱乐",
+      "科技",
+      "日常生活"
+    ],
+    "tags": [
+      "动作",
+      "混合",
+      "游戏"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

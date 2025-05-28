@@ -1,0 +1,246 @@
+{
+  "word": "phishing",
+  "phonetics": {
+    "british": "/ˈfɪʃɪŋ/",
+    "american": "/ˈfɪʃɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The fraudulent practice of sending emails purporting to be from reputable companies or known individuals in order to induce individuals to reveal personal information, such as passwords and credit card numbers.",
+      "chineseTranslation": "网络钓鱼，指伪装成可信来源发送电子邮件或创建网站，以诱骗用户泄露个人信息的行为。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To attempt to obtain sensitive information, such as usernames, passwords, and credit card details, by disguising as a trustworthy entity.",
+      "chineseTranslation": "进行网络钓鱼，尝试通过伪装获取敏感信息。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "phishing attack",
+      "meaning": "网络钓鱼攻击",
+      "example": "The company suffered a phishing attack that compromised user data.",
+      "exampleTranslation": "该公司遭受了一次网络钓鱼攻击，导致用户数据泄露。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "spear phishing",
+      "meaning": "针对性网络钓鱼",
+      "example": "Spear phishing targets specific individuals within an organization.",
+      "exampleTranslation": "针对性网络钓鱼针对组织内的特定个人。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "phishing scam",
+      "meaning": "网络钓鱼诈骗",
+      "example": "Beware of phishing scams that mimic bank websites.",
+      "exampleTranslation": "要警惕模仿银行网站的网络钓鱼诈骗。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Cybercriminals often use phishing to steal financial information from unsuspecting users.",
+      "translation": "网络犯罪分子经常使用网络钓鱼来窃取不知情的用户的财务信息。",
+      "source": "News articles from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She fell victim to a phishing email that appeared to be from her bank.",
+      "translation": "她成为了一封伪装成银行邮件的网络钓鱼邮件的受害者。",
+      "source": "Modern literature and online security guides",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the digital age, phishing has become a common threat to online privacy.",
+      "translation": "在数字时代，网络钓鱼已成为对在线隐私的常见威胁。",
+      "source": "Academic texts from BNC (British National Corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from 'fishing' with influence from 'phone phreaking'",
+    "rootWords": [
+      {
+        "root": "fish",
+        "meaning": "To catch fish by angling",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪90年代的网络黑客文化，'phishing' 是对 'fishing' 的改编，其中 'ph' 来自 'phone phreaking'（电话黑客行为），表示通过欺骗 '钓取' 个人信息。随着互联网发展，该词从黑客行话演变为主流网络安全术语。",
+    "firstKnownUse": "1990s, particularly in online forums and early cybersecurity discussions",
+    "relatedWords": [
+      "phisher",
+      "phish",
+      "spear phishing"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level for intermediate users who can understand contemporary issues)",
+    "pronunciationDifficulty": "3 (1-10 scale; straightforward with common sounds like /ʃ/ and short vowels, easy for Chinese learners with basic English phonetics)",
+    "spellingDifficulty": "4 (1-10 scale; simple spelling but the 'ph' digraph may confuse learners familiar with 'f' sounds)",
+    "meaningComplexity": "6 (1-10 scale; involves understanding cybercrime concepts, which require contextual knowledge)",
+    "usageComplexity": "5 (1-10 scale; common in tech contexts but less in everyday conversation)",
+    "learningTips": [
+      "使用间隔重复系统来记忆词汇；将 'phishing' 与实际网络安全场景联系，如模拟电子邮件练习；根据认知科学，创建心智图将 'phishing' 与 'fishing' 联想，以增强语义记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "social engineering",
+        "similarity": "0.7",
+        "context": "在涉及心理操纵的网络安全语境中适用，例如欺骗用户提供信息。"
+      },
+      {
+        "word": "scamming",
+        "similarity": "0.6",
+        "context": "在非正式的犯罪描述中适用，特别是涉及欺诈的场合。"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "legitimate communication",
+        "context": "在对比真实和虚假互动的语境中适用，如官方通知与钓鱼邮件的区别。"
+      },
+      {
+        "word": "secure transaction",
+        "context": "在强调安全网络行为的语境中适用。"
+      }
+    ],
+    "hypernyms": [
+      "cybercrime",
+      "fraud"
+    ],
+    "hyponyms": [
+      "spear phishing",
+      "whaling"
+    ],
+    "collocations": [
+      {
+        "pattern": "phishing + noun (e.g., attack, email)",
+        "examples": [
+          "phishing email",
+          "phishing scheme"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + phishing (e.g., conduct phishing)",
+        "examples": [
+          "engage in phishing"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征现代数字时代的安全威胁，隐含语义涉及信任与欺骗的冲突，在西方文化中常与隐私保护和网络伦理相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业和媒体报道",
+        "usage": "在美国英语中，'phishing' 经常出现在网络安全教育中，以强调个人责任。"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能在正式报告中更强调法律后果",
+        "usage": "在英国英语中，常与数据保护法（如GDPR）相关联。"
+      }
+    ],
+    "historicalContext": "与20世纪末互联网兴起和黑客文化相关联，如早期AOL黑客事件；在文学和社会评论中，代表了全球化数字社会的风险。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于警示用户；在跨文化语境中，中国用户可能将其与本土网络诈骗术语（如 '电信诈骗'）对比。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个渔夫在数字海洋中用鱼钩钓取个人信息，如邮件或网站。",
+      "keyElements": [
+        "鱼钩代表欺骗",
+        "海洋象征互联网"
+      ],
+      "emotionalConnection": "联结个人经历，如曾收到可疑邮件的恐惧，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Phishing sounds like fishing; think of 'ph' as 'fake fishing' for data.",
+        "explanation": "通过声音联想将 'phishing' 与 'fishing' 连接，强化词汇记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-H-I-S-H: Pretend Hook for Information Stealing Habit.",
+        "explanation": "使用首字母缩写创建故事，帮助构建认知结构。"
+      }
+    ],
+    "wordAssociations": [
+      "fishing",
+      "hacking",
+      "scam",
+      "email"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "phishing (as in phishing activities)",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词用于描述行为",
+        "examples": [
+          "A phishing attempt was detected."
+        ]
+      },
+      {
+        "pattern": "Verb in progressive form",
+        "description": "作为动词用于进行时",
+        "examples": [
+          "They are phishing for passwords."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'fishing'",
+        "correction": "Use 'phishing' for cyber context only",
+        "explanation": "学习者可能误用为实际捕鱼行为；需区分语境。"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as gerund or noun appropriately",
+        "explanation": "中文学习者常忽略其作为动名词的使用。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in COCA corpus for tech domains)",
+    "domains": [
+      "科技",
+      "安全",
+      "商业"
+    ],
+    "tags": [
+      "网络安全",
+      "欺诈",
+      "数字犯罪"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "word": "determinism",
+  "phonetics": {
+    "british": "/dɪˈtɜːmɪnɪzəm/",
+    "american": "/dɪˈtɝːmənɪzəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The philosophical theory that all events, including human actions and decisions, are the inevitable results of preceding causes and conditions, leaving no room for free will.",
+      "chineseTranslation": "决定论",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In science, the idea that the state of a system at any given time is completely determined by its previous states and the laws of nature.",
+      "chineseTranslation": "科学决定论",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "academic"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The belief that human behavior is governed by internal or external forces beyond individual control.",
+      "chineseTranslation": "行为决定论",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hard determinism",
+      "meaning": "严格决定论，指完全否定自由意志的观点",
+      "example": "Hard determinism argues that every event is caused by preceding events.",
+      "exampleTranslation": "严格决定论认为每一个事件都是由先前事件引起的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "soft determinism",
+      "meaning": "柔和决定论，指承认因果关系但保留一定自由意志的观点",
+      "example": "Soft determinism reconciles causality with human agency.",
+      "exampleTranslation": "柔和决定论将因果关系与人类能动性调和起来。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "deterministic system",
+      "meaning": "决定性系统，指输出完全由输入和规则决定的系统",
+      "example": "In computer science, a deterministic system produces the same output for the same input.",
+      "exampleTranslation": "在计算机科学中，决定性系统对相同的输入产生相同的输出。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of determinism in physics suggests that the universe operates like a clockwork mechanism.",
+      "translation": "物理学中的决定论概念表明，宇宙像钟表机制一样运作。",
+      "source": "Scientific literature, e.g., from Stephen Hawking's works",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In philosophy, determinism challenges the idea of moral responsibility.",
+      "translation": "在哲学中，决定论质疑道德责任的概念。",
+      "source": "Academic texts, e.g., from Oxford English Dictionary examples",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Many psychologists debate whether human behavior is a product of determinism or free choice.",
+      "translation": "许多心理学家辩论人类行为是决定论还是自由选择的结果。",
+      "source": "News articles, e.g., from The New York Times",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The film's plot explores themes of determinism through the protagonist's predetermined fate.",
+      "translation": "这部电影的情节通过主角的预定命运探索决定论主题。",
+      "source": "Literature and film criticism",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "determinare",
+        "meaning": "to limit, fix, or determine",
+        "language": "Latin"
+      },
+      {
+        "root": "de-",
+        "meaning": "down from or completely",
+        "language": "Latin"
+      },
+      {
+        "root": "terminus",
+        "meaning": "boundary or end",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'determinare'，最初用于表示限制或固定意义。17世纪传入英语，主要通过法国哲学影响发展，在18-19世纪的启蒙运动和工业革命中演变为哲学和科学概念，强调因果关系和预定性。今天，它已扩展到心理学和计算机科学领域。",
+    "firstKnownUse": "约 1846 年",
+    "relatedWords": [
+      "determine",
+      "determinist",
+      "indeterminism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "通过认知科学原理，如埃宾浩斯遗忘曲线，利用重复间隔复习；将抽象概念与个人生活事件关联，例如用'命运之链'比喻因果关系，以增强记忆巩固；结合视觉辅助工具，如思维导图，将决定论与自由意志对比，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fatalism",
+        "similarity": "0.8",
+        "context": "适用于哲学讨论中，强调事件不可避免的语境"
+      },
+      {
+        "word": "predeterminism",
+        "similarity": "0.9",
+        "context": "在宗教或形而上学语境中，用于描述预先决定的命运"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "free will",
+        "context": "在道德和哲学辩论中，强调个人选择自由的语境"
+      },
+      {
+        "word": "indeterminism",
+        "context": "在科学和量子理论中，表示事件随机性的语境"
+      }
+    ],
+    "hypernyms": [
+      "philosophy",
+      "causality"
+    ],
+    "hyponyms": [
+      "causal determinism",
+      "logical determinism"
+    ],
+    "collocations": [
+      {
+        "pattern": "determinism in [field]",
+        "examples": [
+          "determinism in physics",
+          "determinism in psychology"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] determinism",
+        "examples": [
+          "hard determinism",
+          "soft determinism"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着对自由意志的质疑，常与启蒙运动哲学家如拉普拉斯和牛顿相关联，隐含语义涉及宿命与个人责任的张力；在东方文化，如中国哲学中，可能与'天命'或'因果'概念相呼应，促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重哲学和文学语境",
+        "usage": "在英国英语中，常用于学术讨论，如在牛津大学讲座中"
+      },
+      {
+        "region": "美国",
+        "variation": "更常应用于科学和技术领域",
+        "usage": "在美国英语中，常见于心理学和计算机科学语境，如在硅谷的技术演讲中"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，源自欧洲哲学传统，如笛卡尔和康德的辩论；在现代，影响了文学作品如托马斯·哈代的《德伯家的苔丝》以及社会学讨论。",
+    "modernUsage": "在社交媒体和在线论坛中，决定论常用于讨论人工智能伦理或心理健康趋势，例如TikTok上的哲学短视频。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多米诺骨牌效应场景，其中每个骨牌的倒下都不可避免地导致下一个，代表事件的因果链条。",
+      "keyElements": [
+        "多米诺骨牌",
+        "因果链",
+        "预定路径"
+      ],
+      "emotionalConnection": "联结个人经历，如回顾人生中的'不可避免'事件，以触发反思和情绪共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'determinism'联想为'de-term-in-ism'，其中'term'代表'终止'或'固定'，整体如'决定性的术语'。",
+        "explanation": "通过声音和意义联想，帮助记忆词汇的本质含义"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-T: Determined Events Totally",
+        "explanation": "使用缩略形式强化词汇结构，基于认知心理学中的分块编码原理"
+      }
+    ],
+    "wordAssociations": [
+      "fate",
+      "causality",
+      "inevitability"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + determinism",
+        "description": "作为主语或宾语出现，常用于抽象讨论",
+        "examples": [
+          "Determinism influences modern psychology."
+        ]
+      },
+      {
+        "pattern": "In [context], determinism + verb",
+        "description": "在特定语境中作为主题",
+        "examples": [
+          "In philosophy, determinism challenges free will."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing determinism with fatalism",
+        "correction": "Use determinism for causal explanations and fatalism for acceptance of fate",
+        "explanation": "两者虽相关，但前者更科学化，后者更情绪化"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Do not pluralize as it is an uncountable noun",
+        "explanation": "作为抽象名词，通常不加s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA语料库中排名约5000（基于2023年数据）",
+    "domains": [
+      "philosophy",
+      "science",
+      "psychology"
+    ],
+    "tags": [
+      "abstract",
+      "philosophical",
+      "theoretical"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

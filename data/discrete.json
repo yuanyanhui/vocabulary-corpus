@@ -1,0 +1,244 @@
+{
+  "word": "discrete",
+  "phonetics": {
+    "british": "/dɪˈskriːt/",
+    "american": "/dɪˈskriːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Individually separate and distinct; not connected or continuous.",
+      "chineseTranslation": "离散的；个别的；不连续的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Constituting a separate entity; often used in mathematical or scientific contexts to describe items that are individually identifiable.",
+      "chineseTranslation": "分离的；独立的；在数学或科学中指可区分的实体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "discrete data",
+      "meaning": "离散数据，指非连续的数据点",
+      "example": "In statistics, discrete data consists of countable items.",
+      "exampleTranslation": "在统计学中，离散数据由可计数的项目组成。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "discrete variable",
+      "meaning": "离散变量，指只能取特定值的变量",
+      "example": "A discrete variable in probability theory can only take integer values.",
+      "exampleTranslation": "在概率论中，离散变量只能取整数值。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "discrete set",
+      "meaning": "离散集合，指元素相互分离的集合",
+      "example": "In topology, a discrete set has no limit points.",
+      "exampleTranslation": "在拓扑学中，离散集合没有极限点。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The survey collected discrete responses from participants, such as yes or no answers.",
+      "translation": "调查收集了参与者的离散回应，例如是或否的答案。",
+      "source": "Academic research paper",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, algorithms often deal with discrete values rather than continuous ones.",
+      "translation": "在计算机科学中，算法通常处理离散值而非连续值。",
+      "source": "Technical textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The discrete nature of the particles makes them easier to model in quantum mechanics.",
+      "translation": "粒子的离散性质使它们在量子力学中更容易建模。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "discretus",
+        "meaning": "separated or distinct",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'discretus'，意为'分开'或'区分'，派生自'dis-'（分开）和'cretus'（从'cernere'，意为'分开'）。在中世纪拉丁语中演变为表示分离的概念，传入中古英语后用于描述不连续的事物，在17世纪的科学革命中广泛用于数学和哲学语境。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "discretion",
+      "discreet",
+      "discern"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将'discrete'与具体数学场景关联，避免与同音词'discreet'混淆；通过重复曝光和间隔重复（spaced repetition）强化语义记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "separate",
+        "similarity": "0.8",
+        "context": "适用于描述物理或概念上的分离，例如在科学环境中"
+      },
+      {
+        "word": "distinct",
+        "similarity": "0.7",
+        "context": "常用于强调个体差异，如在分类学中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuous",
+        "context": "适用于描述不间断的过程，例如在数学函数中"
+      },
+      {
+        "word": "connected",
+        "context": "在网络或关系语境中，表示紧密相联"
+      }
+    ],
+    "hypernyms": [
+      "separate"
+    ],
+    "hyponyms": [
+      "disjoint"
+    ],
+    "collocations": [
+      {
+        "pattern": "discrete + noun (e.g., discrete data)",
+        "examples": [
+          "discrete mathematics",
+          "discrete events"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + discrete (e.g., fully discrete)",
+        "examples": [
+          "fully discrete system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征理性分析和精确划分，尤其在数学和计算机科学领域，体现了启蒙运动以来对连续与离散的哲学辩论。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于技术语境，如计算机科学。",
+        "usage": "例如，在美国教育体系中，该词在STEM课程中频繁出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中可能更侧重于数学理论。",
+        "usage": "在英国学术出版物中，常与历史科学传统关联"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，如Newton和Leibniz的微积分发展中，离散概念挑战了连续性假设。",
+    "modernUsage": "在现代社交媒体和数字时代，该词常用于讨论数据隐私和算法，例如'discrete data points'在AI伦理讨论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一组分离的小岛屿（代表离散元素），它们之间有明显间隙，不像连绵的陆地。",
+      "keyElements": [
+        "小岛屿",
+        "间隙",
+        "分离"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩的积木玩具，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'discrete' as 'dots on a line' – separate points, not a solid line.",
+        "explanation": "通过视觉联想帮助记忆语义，避免与'discreet'（谨慎的）混淆，利用认知图式强化"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce it as 'dis-crete' like 'dis-connect' the pieces.",
+        "explanation": "利用声音相似性创建路径记忆，基于认知语言学的模式匹配"
+      }
+    ],
+    "wordAssociations": [
+      "separate",
+      "dots",
+      "island"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more discrete",
+      "superlative": "most discrete"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + discrete",
+        "description": "用于描述主语的属性，例如在句子中作表语",
+        "examples": [
+          "The data points are discrete."
+        ]
+      },
+      {
+        "pattern": "Adjective phrase with discrete",
+        "description": "用于修饰名词的短语结构",
+        "examples": [
+          "A discrete set of values is used in the model."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'discreet'",
+        "correction": "Use 'discrete' for separateness and 'discreet' for careful behavior.",
+        "explanation": "二者发音相似但语义不同，学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more discrete' instead of '*discreter'.",
+        "explanation": "作为形容词，该词不规则，不直接添加-er"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "mathematics"
+    ],
+    "tags": [
+      "mathematics",
+      "data analysis",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

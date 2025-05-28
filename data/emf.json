@@ -1,0 +1,234 @@
+{
+  "word": "emf",
+  "phonetics": {
+    "british": "/ˌiːˌɛmˈɛf/",
+    "american": "/ˌiːˌɛmˈɛf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Electromotive force, a measure of the electrical potential energy per unit charge provided by a source, typically measured in volts and essential in understanding electrical circuits and energy conversion.",
+      "chineseTranslation": "电动势",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "induced EMF",
+      "meaning": "感应电动势",
+      "example": "The changing magnetic field creates an induced EMF in the conductor.",
+      "exampleTranslation": "变化的磁场在导体中产生感应电动势。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "back EMF",
+      "meaning": "反电动势",
+      "example": "In a motor, back EMF opposes the applied voltage.",
+      "exampleTranslation": "在电机中，反电动势与施加的电压相对。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The EMF of the battery drives the current through the circuit.",
+      "translation": "电池的电动势驱动电流通过电路。",
+      "source": "Physics textbook (e.g., from educational resources like Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Electromagnetic induction generates EMF in the secondary coil of a transformer.",
+      "translation": "电磁感应在变压器的次级线圈中产生电动势。",
+      "source": "Scientific article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Understanding EMF is crucial for designing efficient renewable energy systems.",
+      "translation": "理解电动势对于设计高效的可再生能源系统至关重要。",
+      "source": "News article (e.g., from BBC Science)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English acronym",
+    "rootWords": [
+      {
+        "root": "ElectroMotive Force",
+        "meaning": "Force related to electricity and motion",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term emerged in the 19th century during the development of electromagnetism, derived from the works of Michael Faraday and James Clerk Maxwell; it evolved from descriptive physics terminology to a standardized acronym in electrical engineering by the late 1800s.",
+    "firstKnownUse": "Around 1880",
+    "relatedWords": [
+      "voltage",
+      "potential difference",
+      "electromotive series"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 7,
+    "usageComplexity": 6,
+    "learningTips": [
+      "结合认知科学，将电动势与实际场景如电池或发电机联系起来，利用重复曝光和间隔重复法增强记忆；",
+      "通过视觉化工具如电路模拟软件创建心理图像，以降低抽象概念的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "voltage",
+        "similarity": 0.8,
+        "context": "在电气工程语境中，当讨论电势差时"
+      },
+      {
+        "word": "potential",
+        "similarity": 0.7,
+        "context": "在物理学中，指代能量转换时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resistance",
+        "context": "在电路分析中，电动势驱动电流，而电阻阻碍电流"
+      },
+      {
+        "word": "impedance",
+        "context": "在交流电路中，电动势与阻抗形成对比"
+      }
+    ],
+    "hypernyms": [
+      "electrical quantity"
+    ],
+    "hyponyms": [
+      "Faraday's law EMF",
+      "self-induced EMF"
+    ],
+    "collocations": [
+      {
+        "pattern": "induced by a changing field",
+        "examples": [
+          "EMF induced by a changing magnetic field"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "generated in a circuit",
+        "examples": [
+          "EMF generated in a generator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科技文化中象征电气工程和现代能源革命的基石，常隐含对工业化时代的创新精神；在中国文化中，与科技创新政策相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "使用频率较高，在教育和工业语境中标准化",
+        "usage": "在美国英语中，常在STEM教育和工程实践中使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能在历史文献中更强调其物理学起源",
+        "usage": "在英国英语中，常见于学术讨论和历史科学文本"
+      }
+    ],
+    "historicalContext": "与19世纪的电磁理论发展相关，包括法拉第的实验和麦克斯韦的方程，在工业革命中推动了电力的应用。",
+    "modernUsage": "在社交媒体和在线教育平台上，讨论可再生能源和电动汽车时流行；跨文化中，中国用户可能在科技新闻中频繁遇到。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电池连接电路的场景，电流像河流般流动，电动势如同推动河流的引擎。",
+      "keyElements": [
+        "电池",
+        "电路",
+        "磁场变化"
+      ],
+      "emotionalConnection": "联结到个人经历，如组装简单电路时的成就感，以激发积极情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "缩略",
+        "content": "E for Electro (电的)，M for Motive (运动的)，F for Force (力量)",
+        "explanation": "通过分解首字母，构建视觉联想，帮助记忆词汇结构。"
+      },
+      {
+        "type": "联想",
+        "content": "将EMF与'能量推动力'联想起来",
+        "explanation": "利用认知联想原理，将抽象概念与日常能量来源（如手机充电）连接，提升长期保留。"
+      }
+    ],
+    "wordAssociations": [
+      "battery",
+      "generator",
+      "induction",
+      "voltage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject or object in technical sentences",
+        "description": "作为名词，通常出现在主语或宾语位置，描述物理过程",
+        "examples": [
+          "The EMF drives the electron flow."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrases with EMF",
+        "description": "与介词搭配，表示来源或方式",
+        "examples": [
+          "EMF from the power source energizes the device."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing EMF with simple voltage",
+        "correction": "EMF specifically refers to the potential without load",
+        "explanation": "学习者常混淆二者；需强调EMF是理想化概念。"
+      },
+      {
+        "mistake": "Incorrect capitalization as 'Emf'",
+        "correction": "Always use uppercase 'EMF' for the acronym",
+        "explanation": "作为缩写词，需保持大写以符合英语规范。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in scientific corpora (e.g., COCA frequency around 0.02 per million words)",
+    "domains": [
+      "Science",
+      "Engineering",
+      "Physics",
+      "Technology"
+    ],
+    "tags": [
+      "Physics",
+      "Electricity",
+      "Acronym",
+      "Technical Term"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)",
+      "Physics textbooks by authoritative publishers like Cambridge University Press"
+    ]
+  }
+}

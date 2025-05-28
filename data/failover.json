@@ -1,0 +1,251 @@
+{
+  "word": "failover",
+  "phonetics": {
+    "british": "/ˈfeɪl.əʊ.vər/",
+    "american": "/ˈfeɪl.oʊ.vɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of automatically switching to a redundant or standby system, server, or component when the primary one fails, ensuring continuity in computing or network operations.",
+      "chineseTranslation": "故障转移",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To switch automatically to a backup system or component in the event of a failure.",
+      "chineseTranslation": "进行故障转移",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automatic failover",
+      "meaning": "自动故障转移",
+      "example": "The system supports automatic failover to minimize downtime.",
+      "exampleTranslation": "该系统支持自动故障转移以最小化停机时间。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "failover mechanism",
+      "meaning": "故障转移机制",
+      "example": "Implementing a failover mechanism is essential for high-availability systems.",
+      "exampleTranslation": "为高可用性系统实施故障转移机制至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "database failover",
+      "meaning": "数据库故障转移",
+      "example": "In case of server failure, database failover ensures data integrity.",
+      "exampleTranslation": "在服务器故障情况下，数据库故障转移确保数据完整性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The network's failover feature allowed the company to maintain operations during the hardware failure.",
+      "translation": "网络的故障转移功能允许公司在硬件故障期间保持运营。",
+      "source": "Technical documentation (e.g., from Cisco systems)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Without a proper failover strategy, the entire application could crash unexpectedly.",
+      "translation": "没有适当的故障转移策略，整个应用程序可能意外崩溃。",
+      "source": "IT blog article (e.g., from TechRepublic)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers tested the failover process to ensure seamless transition in a live environment.",
+      "translation": "工程师测试了故障转移过程，以确保在实时环境中无缝过渡。",
+      "source": "Academic paper on system reliability",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "fail",
+        "meaning": "To not succeed or function",
+        "language": "Old French (from Latin fallere, meaning 'to deceive')"
+      },
+      {
+        "root": "over",
+        "meaning": "Above or beyond",
+        "language": "Old English (from Proto-Germanic *uber)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的计算机科学领域，结合了'fail'（失败）和'over'（转移），描述系统冗余机制的演变。从最初的硬件冗余概念发展到现代云计算中的软件定义转移，反映了技术进步对语言的影响。",
+    "firstKnownUse": "1970s",
+    "relatedWords": [
+      "failback",
+      "redundancy",
+      "high availability"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，将词汇与实际技术场景关联，如想象一个备用服务器作为'安全网'，利用视觉化记忆以增强长期保留；建议初级学习者通过重复上下文练习，避免孤立记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "redundancy switch",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述系统备份机制，例如云计算环境"
+      },
+      {
+        "word": "backup failover",
+        "similarity": "0.9",
+        "context": "强调数据保护的场景，如企业网络"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "system failure",
+        "context": "在技术故障语境中，表示完全崩溃而非转移"
+      },
+      {
+        "word": "single point of failure",
+        "context": "描述系统中的弱点，没有冗余机制"
+      }
+    ],
+    "hypernyms": [
+      "system redundancy"
+    ],
+    "hyponyms": [
+      "automatic failover",
+      "manual failover"
+    ],
+    "collocations": [
+      {
+        "pattern": "failover + noun (e.g., mechanism, process)",
+        "examples": [
+          "implement a failover strategy",
+          "test the failover system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + failover (e.g., automatic, seamless)",
+        "examples": [
+          "ensure automatic failover",
+          "achieve seamless failover"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征着可靠性和连续性，体现现代社会对数字基础设施的依赖，常用于企业环境中隐含风险管理理念。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in IT industries with emphasis on cloud computing.",
+        "usage": "在美国英语中，常与商业应用结合，如AWS或Azure服务"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage but with a focus on formal technical documentation.",
+        "usage": "在英国英语中，可能在学术或政府报告中更正式地出现"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命相关，特别是在冷战时期的军事技术和后来的互联网发展中，代表了从硬件故障到软件弹性的演进。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于IT讨论，如Reddit或LinkedIn，用户分享故障转移的最佳实践以提升数字韧性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个交通信号灯系统，当一个灯故障时，自动切换到备用灯，确保交通顺利。",
+      "keyElements": [
+        "信号灯",
+        "备用系统",
+        "无缝切换"
+      ],
+      "emotionalConnection": "联结个人经验，如手机自动切换Wi-Fi时的安心感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Failover 像 'fail over'，想象失败时跳过障碍。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈfeɪl.oʊ.vɚ/ 听起来像 'fail over'，联想到越过失败的桥梁。",
+        "explanation": "利用声音与图像的联觉，帮助第二语言学习者建立感官连接"
+      }
+    ],
+    "wordAssociations": [
+      "backup",
+      "redundancy",
+      "resilience"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "failovers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the failover process')",
+        "description": "作为名词用于描述系统机制",
+        "examples": [
+          "The failover occurred instantly."
+        ]
+      },
+      {
+        "pattern": "Verb in imperative (e.g., 'Initiate failover')",
+        "description": "作为动词在技术指令中出现",
+        "examples": [
+          "We need to failover to the secondary server."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'failover' as a general failure term",
+        "correction": "Use 'failover' specifically for switching mechanisms",
+        "explanation": "学习者常将之误解为单纯的'失败'，需强调其技术含义以避免语义混淆"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as noun primarily; if verb, ensure proper context",
+        "explanation": "由于该词多为名词，初学者可能错误地添加时态"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 0.02 per million words in technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "business"
+    ],
+    "tags": [
+      "IT terminology",
+      "system reliability",
+      "networking"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Online"
+    ]
+  }
+}

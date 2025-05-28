@@ -1,0 +1,243 @@
+{
+  "word": "triangulation",
+  "phonetics": {
+    "british": "/traɪˌæŋɡjʊˈleɪʃən/",
+    "american": "/traɪˌæŋɡjəˈleɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of determining the location of a point by measuring angles to it from known points, especially in surveying and navigation.",
+      "chineseTranslation": "三角测量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A research method in social sciences that involves using multiple sources or perspectives to verify findings and reduce bias.",
+      "chineseTranslation": "三角验证法",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "triangulation method",
+      "meaning": "三角测量方法",
+      "example": "The triangulation method is widely used in GPS technology.",
+      "exampleTranslation": "三角测量方法广泛用于GPS技术。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data triangulation",
+      "meaning": "数据三角验证",
+      "example": "Data triangulation ensures the reliability of qualitative research.",
+      "exampleTranslation": "数据三角验证确保了定性研究的可靠性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Surveyors rely on triangulation to accurately map remote areas.",
+      "translation": "测量员依靠三角测量来准确绘制偏远地区。",
+      "source": "Technical literature (e.g., surveying manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In qualitative studies, triangulation involves cross-verifying information from interviews, observations, and documents.",
+      "translation": "在定性研究中，三角验证涉及交叉核实访谈、观察和文件中的信息。",
+      "source": "Academic texts (e.g., social science journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Modern navigation systems use triangulation to pinpoint a user's location.",
+      "translation": "现代导航系统使用三角测量来精确定位用户位置。",
+      "source": "News articles (e.g., technology reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "triangle",
+        "meaning": "A three-sided figure",
+        "language": "Latin (from 'tri-' meaning three and 'angulus' meaning angle)"
+      },
+      {
+        "root": "-ation",
+        "meaning": "The action or process of",
+        "language": "Latin (suffix derived from 'atio')"
+      }
+    ],
+    "historicalDevelopment": "从古罗马的几何学概念演变而来，最初用于描述三角形的测量过程，通过17世纪的法国数学家推广到测绘领域，19世纪扩展到社会科学方法，以提高研究可靠性。",
+    "firstKnownUse": "1810s (first recorded in English surveying contexts)",
+    "relatedWords": [
+      "triangle",
+      "triangulate",
+      "trilateration"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 6,
+    "spellingDifficulty": 5,
+    "meaningComplexity": 7,
+    "usageComplexity": 8,
+    "learningTips": [
+      "将词汇分解为'tri-'（三）和'angulation'（角度化）来理解其几何含义；结合认知科学，利用视觉想象技术如心智图来关联日常生活中的导航应用。",
+      "通过重复曝光于专业语境中，强化记忆路径，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "trilateration",
+        "similarity": 0.7,
+        "context": "在测绘和导航领域，用于类似的位置确定技术"
+      },
+      {
+        "word": "cross-verification",
+        "similarity": 0.6,
+        "context": "在社会科学研究中，用于验证数据可靠性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unilateral approach",
+        "context": "在研究方法中，表示单一视角而非多源验证"
+      }
+    ],
+    "hypernyms": [
+      "measurement technique",
+      "research validation method"
+    ],
+    "hyponyms": [
+      "GPS triangulation",
+      "methodological triangulation"
+    ],
+    "collocations": [
+      {
+        "pattern": "triangulation in surveying",
+        "examples": [
+          "Triangulation in surveying provides precise coordinates."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "data triangulation",
+        "examples": [
+          "Data triangulation enhances the credibility of findings."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征科学精确性和多角度验证，在西方文化中体现理性主义和实证精神，尤其在技术进步的语境中。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "标准英语使用，无显著差异",
+        "usage": "常在正式学术和工程语境中使用，强调历史测绘传统"
+      },
+      {
+        "region": "United States",
+        "variation": "与英国类似，但更常应用于现代科技如GPS",
+        "usage": "在教育和商业语境中普及，反映创新文化"
+      }
+    ],
+    "historicalContext": "与18世纪工业革命相关的测绘技术有关，在文学如儒勒·凡尔纳的作品中象征探索精神。",
+    "modernUsage": "在社交媒体和数字时代，经常用于讨论研究方法或技术应用，如疫情追踪中的位置数据分析。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：三位测量员在不同点使用仪器形成三角形来定位一个山顶。",
+      "keyElements": [
+        "三角形",
+        "测量仪器",
+        "定位点"
+      ],
+      "emotionalConnection": "联结到个人旅行经历中的地图使用，激发好奇和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tri-angulation: Three angles for exact location.",
+        "explanation": "通过视觉联想三个角度的几何形状，帮助记忆词汇的核心含义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-I: Three, Reliable, Information.",
+        "explanation": "使用首字母缩略来强化多源验证的概念，促进长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "triangle",
+      "angle",
+      "survey",
+      "verify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "triangulations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "作为主语出现在句子中，表示过程或方法",
+        "examples": [
+          "Triangulation is essential for accurate results."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，描述应用场景",
+        "examples": [
+          "The study employed triangulation in its methodology."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'triangulate' (verb form)",
+        "correction": "Use 'triangulation' for the noun; 'triangulate' for the verb.",
+        "explanation": "作为名词时表示名词概念，作为动词时表示动作；学习者常混淆词性导致句法错误"
+      },
+      {
+        "mistake": "Overgeneralizing meaning",
+        "correction": "Specify the context (e.g., surveying vs. research)",
+        "explanation": "词汇在不同领域有细微差异，需根据语境选择适当释义以避免歧义"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "Science",
+      "Technology",
+      "Social Sciences",
+      "Engineering"
+    ],
+    "tags": [
+      "Geometry",
+      "Research Methods",
+      "Measurement",
+      "Validation"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

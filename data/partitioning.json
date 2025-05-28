@@ -1,0 +1,257 @@
+{
+  "word": "partitioning",
+  "phonetics": {
+    "british": "/pɑːˈtɪʃənɪŋ/",
+    "american": "/ˈpɑːrt̬ənɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of dividing something into parts or sections.",
+      "chineseTranslation": "分割的过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (gerund or present participle)",
+      "definition": "Dividing or separating something into distinct parts, often for organization or management.",
+      "chineseTranslation": "将某物分成部分",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "technical noun (in computing)",
+      "definition": "The process of dividing a storage device, such as a hard drive, into separate sections for data organization.",
+      "chineseTranslation": "（计算机中的）分区",
+      "level": "advanced",
+      "frequency": "high (in technical contexts)",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disk partitioning",
+      "meaning": "磁盘分区的过程",
+      "example": "Disk partitioning is essential for optimizing storage on modern computers.",
+      "exampleTranslation": "磁盘分区对于优化现代计算机的存储空间至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "room partitioning",
+      "meaning": "房间隔断的设计",
+      "example": "Room partitioning can create private spaces in open-plan offices.",
+      "exampleTranslation": "房间隔断可以在开放式办公室中创建私人空间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data partitioning",
+      "meaning": "数据分区的技术",
+      "example": "Data partitioning improves query performance in large databases.",
+      "exampleTranslation": "数据分区可以提高大型数据库的查询性能。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The partitioning of the land into smaller plots allowed for more efficient farming.",
+      "translation": "将土地分成更小的地块有助于更有效的耕作。",
+      "source": "Agricultural literature (e.g., from academic texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, partitioning a hard drive helps in managing files across different operating systems.",
+      "translation": "在计算机中，分区硬盘有助于在不同操作系统之间管理文件。",
+      "source": "Technical manuals (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The partitioning of the conference room with temporary walls enhanced privacy during meetings.",
+      "translation": "用临时隔墙对会议室进行分区提高了会议期间的隐私性。",
+      "source": "Business news (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "partitio",
+        "meaning": "A dividing or sharing out",
+        "language": "Latin"
+      },
+      {
+        "root": "partiri",
+        "meaning": "To divide or share",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'partitio' 演变而来，该词源自 'partiri'，意为分隔或分享。在中世纪英语中演变为 'partition'，最初用于物理分隔，如建筑或土地分隔。到17世纪，扩展到抽象概念，如政治或数据分隔；在现代英语中，尤其在20世纪后，随着计算机技术的兴起，发展出技术含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "partition",
+      "part",
+      "divide"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (moderate, due to the schwa sound /ə/ and stress on the third syllable, which may challenge Chinese learners accustomed to tonal languages)",
+    "spellingDifficulty": "6 (moderate, as it involves double consonants and suffixes, common errors include omitting letters in derived forms)",
+    "meaningComplexity": "7 (high, with multiple contexts like physical division and technical uses, requiring contextual inference)",
+    "usageComplexity": "6 (moderate, often in formal or technical settings, but straightforward in basic sentences)",
+    "learningTips": [
+      "利用认知科学中的分块学习法（chunking），将 'partitioning' 与相关词汇如 'divide' 或 'segment' 分组记忆；结合视觉辅助，如绘制分区示意图，以增强空间记忆；针对中文学习者，强调英汉对比以避免混淆相似词根。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dividing",
+        "similarity": "0.8",
+        "context": "适用于物理或抽象分隔的语境，如 'dividing a room'"
+      },
+      {
+        "word": "segmenting",
+        "similarity": "0.7",
+        "context": "多用于技术或数据处理语境，如 'segmenting data'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unifying",
+        "context": "在需要整合而非分隔的语境中，如 'unifying teams instead of partitioning them'"
+      },
+      {
+        "word": "merging",
+        "context": "在合并部分而非分隔的语境中，如 'merging files instead of partitioning them'"
+      }
+    ],
+    "hypernyms": [
+      "dividing"
+    ],
+    "hyponyms": [
+      "disk partitioning",
+      "room partitioning"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + partitioning (e.g., disk partitioning)",
+        "examples": [
+          "Effective disk partitioning requires careful planning."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Partitioning + of + noun (e.g., partitioning of data)",
+        "examples": [
+          "The partitioning of data enhances security."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征组织和效率，常用于建筑（如英国的房屋隔断，体现隐私文化）和技术领域（如美国的计算机文化，强调数据管理）；在中文文化中，可能与传统空间划分（如中国古建筑的屏风）相呼应，促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于建筑和历史语境",
+        "usage": "在英国英语中，常与历史地产分隔相关，如 'partitioning estates'"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术应用",
+        "usage": "在美国英语中，常见于计算机科学，如 'partitioning hard drives'，反映数字时代的影响"
+      }
+    ],
+    "historicalContext": "与工业革命相关的土地和资源分隔有关；在文学中，如莎士比亚的作品中隐含分隔主题；在现代，关联于全球化下的数据隐私问题。",
+    "modernUsage": "在社交媒体和科技语境下流行，如在线讨论分区存储，体现数字时代的效率需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个房间被墙壁分成几个部分，每个部分代表不同的活动，如工作区和休息区。",
+      "keyElements": [
+        "墙壁",
+        "分隔线",
+        "不同区域"
+      ],
+      "emotionalConnection": "联结到个人经历，如在家中重新布置空间，以触发积极的情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'partitioning' 联想为 'part + shining'，想象将一个发光的物体分成部分。",
+        "explanation": "通过视觉联想增强记忆，基于认知科学中的双编码理论（dual coding），结合图像和词汇。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /pɑːˈtɪʃənɪŋ/ 听起来像 'part of shining'，帮助回想分隔的概念。",
+        "explanation": "利用声音联想以改善语音记忆，符合工作记忆模型。"
+      }
+    ],
+    "wordAssociations": [
+      "divide",
+      "split",
+      "section"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "partitioning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + partitioning",
+        "description": "作为动名词用在句中，表示动作过程",
+        "examples": [
+          "We are considering partitioning the office."
+        ]
+      },
+      {
+        "pattern": "The partitioning of + noun",
+        "description": "用于正式结构，表示分隔的对象",
+        "examples": [
+          "The partitioning of the dataset was completed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'partitioning' as a simple verb without context",
+        "correction": "Use as a gerund or noun, e.g., 'partitioning data'",
+        "explanation": "中文学习者常将它误用为一般动词；需注意其功能性用法以符合英语句法。"
+      },
+      {
+        "mistake": "Confusing with 'portioning'",
+        "correction": "Use 'partitioning' for dividing into parts",
+        "explanation": "避免拼写错误，源于词根相似；通过词源分析可区分。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Architecture",
+      "Business"
+    ],
+    "tags": [
+      "Computing",
+      "Division",
+      "Organization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

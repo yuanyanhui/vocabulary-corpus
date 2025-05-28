@@ -1,0 +1,266 @@
+{
+  "word": "invocation",
+  "phonetics": {
+    "british": "/ˌɪnvəˈkeɪʃ(ə)n/",
+    "american": "/ˌɪnvəˈkeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of invoking or calling upon a deity, spirit, or power for assistance, protection, or inspiration.",
+      "chineseTranslation": "祈求；召唤",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action of citing or referring to something, such as a law, principle, or authority, to support an argument.",
+      "chineseTranslation": "援引；引用",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the process of calling a function or method to execute it.",
+      "chineseTranslation": "调用（计算机术语）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invocation of a deity",
+      "meaning": "对神灵的召唤",
+      "example": "The priest performed the invocation of a deity during the ceremony.",
+      "exampleTranslation": "牧师在仪式中进行了对神灵的召唤。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "legal invocation",
+      "meaning": "法律上的援引",
+      "example": "The lawyer's invocation of precedent helped win the case.",
+      "exampleTranslation": "律师对先例的援引帮助赢得了案件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "function invocation",
+      "meaning": "函数调用",
+      "example": "In programming, function invocation requires proper parameters.",
+      "exampleTranslation": "在编程中，函数调用需要正确的参数。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The opening invocation at the conference set a tone of reverence and unity.",
+      "translation": "会议的开场祈求设置了一种尊敬和团结的基调。",
+      "source": "Conference speeches (modern business contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In her novel, the author uses the invocation of ancient myths to explore modern themes.",
+      "translation": "在她的小说中，作者通过对古代神话的召唤来探讨现代主题。",
+      "source": "Literary works (e.g., from contemporary fiction)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The software error was due to an incorrect invocation of the API endpoint.",
+      "translation": "软件错误是由于对 API 端点的错误调用所致。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "invocare",
+        "meaning": "to call upon",
+        "language": "Latin"
+      },
+      {
+        "root": "in-",
+        "meaning": "upon or into",
+        "language": "Latin"
+      },
+      {
+        "root": "vocare",
+        "meaning": "to call",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'invocare'，意为 '召唤' 或 '呼吁'。在中世纪拉丁语中演变为 'invocatio'，用于宗教和法律语境。传入英语后，从14世纪开始用于宗教仪式，17世纪扩展到一般引用和现代技术领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "invoke",
+      "evocation",
+      "convocation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (由于元音和辅音集群，如 /ʃ(ə)n/ 可能对中文母语者造成挑战)",
+    "spellingDifficulty": "5 (拼写规则相对直观，但 'c' 和 'a' 的组合需注意)",
+    "meaningComplexity": "7 (多义性要求理解语境，如宗教 vs. 技术)",
+    "usageComplexity": "6 (需结合语境使用，避免混淆类似词汇)",
+    "learningTips": [
+      "利用认知科学原理，如通过视觉联想将 'invocation' 与 '召唤仪式' 的图像关联，以增强记忆；建议初级学习者从简单语境入手，逐步扩展到高级应用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "summons",
+        "similarity": "0.8",
+        "context": "适用于正式的法律或宗教语境中，表示正式的调用"
+      },
+      {
+        "word": "appeal",
+        "similarity": "0.7",
+        "context": "在非正式场合用于表达请求或引用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dismissal",
+        "context": "在法律或宗教语境中，表示拒绝或驱散"
+      },
+      {
+        "word": "neglect",
+        "context": "表示忽略或不予关注，与引用或召唤相反"
+      }
+    ],
+    "hypernyms": [
+      "action",
+      "process"
+    ],
+    "hyponyms": [
+      "prayer",
+      "citation"
+    ],
+    "collocations": [
+      {
+        "pattern": "invocation of [noun]",
+        "examples": [
+          "invocation of rights",
+          "invocation of a spell"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] invocation",
+        "examples": [
+          "perform invocation",
+          "avoid invocation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与宗教仪式（如基督教的祈祷）或法律辩论相关，象征权威的召唤；在中国文化中，可类比为道教的'召唤神灵'，强调精神层面的连接。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向正式宗教语境",
+        "usage": "在英国英语中，常用于议会或传统仪式"
+      },
+      {
+        "region": "美国",
+        "variation": "扩展到技术领域",
+        "usage": "在美国英语中，常见于编程和日常法律讨论"
+      }
+    ],
+    "historicalContext": "与欧洲中世纪宗教改革相关，常出现在莎士比亚作品中；在中国，受西方影响，现代翻译文学中出现。",
+    "modernUsage": "在社交媒体和科技平台上，词语趋势显示其在编程社区（如GitHub）中的流行，体现跨文化传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古代祭司在神殿中召唤神灵的场景，周围有烟雾和光芒。",
+      "keyElements": [
+        "祭司",
+        "召唤手势",
+        "神灵图像"
+      ],
+      "emotionalConnection": "联结个人祈求经历，如节日祈福，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'invocation' as 'in + vocation' – calling into a profession or spirit.",
+        "explanation": "通过词根联想帮助记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌɪnvəˈkeɪʃən/ 听起来像 'in vacation'，联想为 '在假期召唤冒险'。",
+        "explanation": "利用声音相似性触发记忆，符合多感官学习模式"
+      }
+    ],
+    "wordAssociations": [
+      "summon",
+      "call",
+      "pray"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "invocations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + invocation + of + object",
+        "description": "主语 + 动词 + invocation + of + 宾语结构，常用于描述过程",
+        "examples": [
+          "The ritual includes the invocation of spirits."
+        ]
+      },
+      {
+        "pattern": "Invocation as a noun in prepositional phrases",
+        "description": "作为名词出现在介词短语中",
+        "examples": [
+          "During the invocation, everyone remained silent."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'evocation'",
+        "correction": "Use 'invocation' for calling upon, not 'evocation' which means bringing to mind.",
+        "explanation": "二者虽相关，但语义不同；中文学习者常混淆类似词汇"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural as 'invocations'",
+        "explanation": "英语名词规则简单，但需注意一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "宗教",
+      "法律",
+      "科技",
+      "文学"
+    ],
+    "tags": [
+      "宗教术语",
+      "技术词汇",
+      "正式表达"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

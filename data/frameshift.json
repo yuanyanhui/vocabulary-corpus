@@ -1,0 +1,236 @@
+{
+  "word": "frameshift",
+  "phonetics": {
+    "british": "/ˈfreɪmʃɪft/",
+    "american": "/ˈfreɪmʃɪft/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of genetic mutation that occurs when the addition or deletion of nucleotides in a DNA sequence is not a multiple of three, resulting in a shift of the reading frame and often leading to a completely different amino acid sequence.",
+      "chineseTranslation": "移码突变",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frameshift mutation",
+      "meaning": "移码突变",
+      "example": "The frameshift mutation in the gene caused a premature stop codon.",
+      "exampleTranslation": "该基因中的移码突变导致了过早的终止密码子。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "frameshift error",
+      "meaning": "移码错误",
+      "example": "A single nucleotide insertion can lead to a frameshift error.",
+      "exampleTranslation": "单个核苷酸的插入可能导致移码错误。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Frameshift mutations are often deleterious because they alter the entire protein structure.",
+      "translation": "移码突变通常是有害的，因为它们会改变整个蛋白质结构。",
+      "source": "Scientific literature (e.g., genetics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers identified a frameshift in the DNA sequence that resulted in a nonfunctional enzyme.",
+      "translation": "研究人员在DNA序列中发现了一个移码突变，导致酶丧失功能。",
+      "source": "Academic journal article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In evolutionary biology, frameshifts can sometimes provide adaptive advantages.",
+      "translation": "在进化生物学中，移码突变有时能提供适应性优势。",
+      "source": "Educational resource (e.g., online biology courses)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "frame",
+        "meaning": "A structure or framework",
+        "language": "Old English (from Proto-Germanic *framaz)"
+      },
+      {
+        "root": "shift",
+        "meaning": "To change position or move",
+        "language": "Old English (sciftan, from Proto-Germanic *skiftijaną)"
+      }
+    ],
+    "historicalDevelopment": "该术语起源于20世纪中叶的分子生物学发展，特别是在DNA结构和遗传密码的发现过程中。'Frameshift' 结合了'frame'（表示DNA的阅读框架）和'shift'（表示位移），用于描述核苷酸插入或删除导致的阅读框架改变。从最初的遗传学概念演变为现代基因组学中的关键术语。",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "mutation",
+      "insertion",
+      "deletion",
+      "reading frame"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过将词汇与DNA双螺旋的可视化图像结合，使用空间记忆技巧；建议采用间隔重复系统（Spaced Repetition System）来强化对科学术语的长期保留；将术语与真实遗传学案例关联，以增强语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reading frame shift",
+        "similarity": "0.9",
+        "context": "在遗传学和分子生物学语境中，主要用于描述DNA序列的位移"
+      },
+      {
+        "word": "phase shift mutation",
+        "similarity": "0.8",
+        "context": "在某些技术讨论中，作为移码突变的同义表达"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "point mutation",
+        "context": "在遗传学语境中，指只改变单个核苷酸而不影响阅读框架的突变"
+      }
+    ],
+    "hypernyms": [
+      "mutation"
+    ],
+    "hyponyms": [
+      "insertion frameshift",
+      "deletion frameshift"
+    ],
+    "collocations": [
+      {
+        "pattern": "frameshift [noun]",
+        "examples": [
+          "frameshift mutation",
+          "frameshift error"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] frameshift",
+        "examples": [
+          "cause a frameshift"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征遗传学和生物技术领域的创新进展，并非特定文化象征，但在全球教育中促进了跨文化科学交流。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和研究语境",
+        "usage": "在美国英语中，常见于生物医学文献和教育材料"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能在某些专业术语中略有语义细微调整",
+        "usage": "在英国英语中，同样用于遗传学讨论，但强调历史科学贡献"
+      }
+    ],
+    "historicalContext": "与20世纪50年代的DNA双螺旋模型发现和遗传密码破译相关，体现了科学革命对语言的影响。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于科学普及文章和讨论组中，反映了生物技术在当代社会中的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个DNA链如一串珠子 necklace，突然有一颗珠子被添加或移除，导致整个字符串的阅读方式偏移。",
+      "keyElements": [
+        "DNA链",
+        "珠子",
+        "偏移"
+      ],
+      "emotionalConnection": "联结到拼图游戏中错位的拼块，触发挫败或好奇的情绪，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Frame + Shift = DNA框架滑动",
+        "explanation": "通过将'frame'联想为DNA的固定结构，'shift'为突然的移动，帮助构建视觉和运动记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "FS = Frame Slides",
+        "explanation": "使用缩写FS来代表'Frameshift'，并与滑动门或移位图像关联，基于认知联想原理简化记忆"
+      }
+    ],
+    "wordAssociations": [
+      "mutation",
+      "gene",
+      "DNA",
+      "shift key"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "frameshifts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in subject position",
+        "description": "作为句子的主语，用于描述事件或现象",
+        "examples": [
+          "Frameshift mutations disrupt protein synthesis."
+        ]
+      },
+      {
+        "pattern": "Noun in object position",
+        "description": "作为句子的宾语，用于表示结果或原因",
+        "examples": [
+          "Scientists study frameshift in genetic research."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing frameshift with other mutations",
+        "correction": "Distinguish by focusing on reading frame changes",
+        "explanation": "学习者常将移码突变与点突变混淆，因为前者影响整个序列，而后者仅改变单个点"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'frameshifts' for plural",
+        "explanation": "英文名词规则简单，但科学术语需注意一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank 15000+ in COCA), high in specialized scientific corpora",
+    "domains": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Medicine"
+    ],
+    "tags": [
+      "genetics",
+      "molecular biology",
+      "mutation",
+      "DNA"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "PubMed scientific database"
+    ]
+  }
+}

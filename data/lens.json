@@ -1,0 +1,268 @@
+{
+  "word": "lens",
+  "phonetics": {
+    "british": "/lɛnz/",
+    "american": "/lɛnz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A piece of glass or other transparent substance with curved sides for concentrating or dispersing light rays, especially in optical instruments.",
+      "chineseTranslation": "透镜；镜片",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The transparent part of the eye that focuses light rays onto the retina.",
+      "chineseTranslation": "（眼睛的）晶状体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or material that functions similarly to a lens in photography, microscopes, or other equipment.",
+      "chineseTranslation": "镜头（如摄影镜头）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something serve as a lens or to focus attention on something.",
+      "chineseTranslation": "用透镜聚焦；集中注意力于",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contact lens",
+      "meaning": "隐形眼镜",
+      "example": "She wears contact lenses for better vision.",
+      "exampleTranslation": "她戴隐形眼镜来改善视力。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "magnifying lens",
+      "meaning": "放大镜",
+      "example": "A magnifying lens is useful for reading small print.",
+      "exampleTranslation": "放大镜对阅读小字体很有帮助。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fish-eye lens",
+      "meaning": "鱼眼镜头",
+      "example": "Photographers use a fish-eye lens for wide-angle shots.",
+      "exampleTranslation": "摄影师使用鱼眼镜头来拍摄广角照片。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The photographer adjusted the lens to capture the perfect shot.",
+      "translation": "摄影师调整了镜头来捕捉完美的瞬间。",
+      "source": "Modern photography manuals (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Light enters the eye through the lens and forms an image on the retina.",
+      "translation": "光线通过晶状体进入眼睛，并在视网膜上形成图像。",
+      "source": "Scientific texts (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday life, a simple magnifying lens can help with detailed work.",
+      "translation": "在日常生活中，一个简单的放大镜可以帮助处理精细工作。",
+      "source": "General English corpora (e.g., COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team used a metaphorical lens to analyze social issues.",
+      "translation": "团队使用隐喻的透镜来分析社会问题。",
+      "source": "Academic writing (e.g., from JSTOR)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "lens",
+        "meaning": "lentil (a type of seed, due to its shape)",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'lens'，最初指扁豆的形状。17世纪进入英语，指光学设备中的弯曲透明物质，因为其形状类似于扁豆。从光学含义扩展到眼睛解剖学和比喻性使用，如在社会科学中。",
+    "firstKnownUse": "1690s",
+    "relatedWords": [
+      "lentil",
+      "lens-shaped"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于简单的音素组合，对中文母语者易于掌握)",
+    "spellingDifficulty": "4 (1-10, 拼写规则基本规则化，但可能与中文音译混淆)",
+    "meaningComplexity": "6 (1-10, 多重含义需要语境区分，基于认知语言学理论)",
+    "usageComplexity": "5 (1-10, 常见搭配多样，但语法简单)",
+    "learningTips": [
+      "结合认知科学，将 'lens' 与视觉图像联想，如相机镜头与眼睛的比喻；使用间隔重复法复习不同语境；避免混淆多义词，通过构建语义网络区分光学和比喻含义"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "glass",
+        "similarity": "0.7",
+        "context": "在光学设备语境中，指透明物质（光学语境）"
+      },
+      {
+        "word": "objective",
+        "similarity": "0.6",
+        "context": "在摄影语境中，指镜头组件（技术语境）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mirror",
+        "context": "光学语境中，反射而非折射（光学对比语境）"
+      },
+      {
+        "word": "blind",
+        "context": "比喻语境中，缺乏洞察力（认知对比语境）"
+      }
+    ],
+    "hypernyms": [
+      "optical device"
+    ],
+    "hyponyms": [
+      "convex lens",
+      "concave lens"
+    ],
+    "collocations": [
+      {
+        "pattern": "lens + noun (e.g., lens cap)",
+        "examples": [
+          "adjust the lens",
+          "clean the lens"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + lens (e.g., focus the lens)",
+        "examples": [
+          "replace the lens"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术进步和视觉认知，常用于比喻分析（如 'through a feminist lens'，表示从女权主义视角），体现了启蒙时代科学发展的影响。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和日常消费语境，如智能手机镜头",
+        "usage": "在非正式语境中流行，例如社交媒体讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向学术和技术术语",
+        "usage": "在正式写作中强调历史科学语境"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关，如牛顿光学研究；在现代，关联摄影和数字媒体发展。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于比喻性表达，如 'view through a historical lens'，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个相机镜头与眼睛晶状体的比喻场景：一个放大镜放在扁豆上，象征词源。",
+      "keyElements": [
+        "相机",
+        "眼睛",
+        "扁豆形状"
+      ],
+      "emotionalConnection": "联结个人视觉经验，如戴眼镜的记忆，触发情感共鸣以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Lens like lentil – both are lens-shaped.",
+        "explanation": "通过词源联想'扁豆'形状与透镜相似，帮助中文母语者记忆形态"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sound 'lens' like 'lens of light' – visualize light bending.",
+        "explanation": "使用声音与视觉联结，基于认知科学的多感官学习"
+      }
+    ],
+    "wordAssociations": [
+      "eye",
+      "camera",
+      "focus",
+      "magnify"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lenses",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the camera lens)",
+        "description": "作为名词用于描述物体或组件",
+        "examples": [
+          "The lens in the microscope is essential."
+        ]
+      },
+      {
+        "pattern": "Verb usage (e.g., to lens an event)",
+        "description": "作为动词用于比喻性聚焦",
+        "examples": [
+          "They lens their efforts on innovation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'lens' with 'lense' (non-standard spelling)",
+        "correction": "Use 'lens' for both singular and plural",
+        "explanation": "英文中无变体拼写，常因拼写错误导致"
+      },
+      {
+        "mistake": "Misusing in metaphors",
+        "correction": "Ensure context specifies the type (e.g., optical vs. analytical)",
+        "explanation": "中文母语者可能混淆字面与比喻含义，导致语境错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "photography",
+      "medicine"
+    ],
+    "tags": [
+      "optics",
+      "vision",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

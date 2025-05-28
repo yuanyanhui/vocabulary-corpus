@@ -1,0 +1,243 @@
+{
+  "word": "check",
+  "phonetics": {
+    "british": "/tʃɛk/",
+    "american": "/tʃɛk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "examine (something) in order to determine its accuracy, quality, or condition",
+      "chineseTranslation": "检查，核对",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "stop or slow the progress of (something, typically something undesirable)",
+      "chineseTranslation": "阻止，抑制",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an examination to test or ascertain accuracy, quality, or satisfactory condition",
+      "chineseTranslation": "检查，核查",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a move in chess that directly attacks an opponent's king",
+      "chineseTranslation": "将（国际象棋术语）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "check in",
+      "meaning": "登记（入住酒店或登机）",
+      "example": "We need to check in at the hotel before 3 PM.",
+      "exampleTranslation": "我们需要在下午3点前在酒店登记入住。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "check out",
+      "meaning": "结账离开；查看",
+      "example": "Let’s check out the new store downtown.",
+      "exampleTranslation": "我们去看看市中心的新商店吧。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Can you check the report for any errors before submission?",
+      "translation": "你能在提交前检查一下报告有没有错误吗？",
+      "source": "business context",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The teacher put a check next to the correct answers.",
+      "translation": "老师在正确答案旁边打了个勾。",
+      "source": "educational context",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The king is in check, so you need to move it.",
+      "translation": "国王被将了，你需要移动它。",
+      "source": "chess terminology",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "eschec",
+        "meaning": "a check at chess",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "起源于古法语'eschec'，意为国际象棋中的'将'，源于波斯语'shāh'（国王）。在中世纪英语中，'check'扩展为'检查'或'核对'，隐喻从棋盘上的控制到现实中的审查。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "chess",
+      "checkmate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "将'check'与日常场景（如核对清单）联系起来，形成情境记忆。",
+      "注意多义性，结合具体语境区分'检查'和'阻止'等含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "examine",
+        "similarity": "0.9",
+        "context": "检查或核对的语境"
+      },
+      {
+        "word": "verify",
+        "similarity": "0.85",
+        "context": "确认准确性的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "忽视或不检查的语境"
+      }
+    ],
+    "hypernyms": [
+      "inspect",
+      "review"
+    ],
+    "hyponyms": [
+      "double-check",
+      "cross-check"
+    ],
+    "collocations": [
+      {
+        "pattern": "check + noun",
+        "examples": [
+          "check the facts",
+          "check the time"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "check + preposition",
+        "examples": [
+          "check on someone",
+          "check into a hotel"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'check'常与严谨和责任感相关，尤其在商业和教育场景中，象征细致和可靠。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "check 也指支票（cheque 的美式拼写）",
+        "usage": "在金融语境中常用，如 'write a check'（开支票）。"
+      },
+      {
+        "region": "英国",
+        "variation": "支票拼写为 'cheque'",
+        "usage": "在金融语境中更常使用 'cheque'，如 'pay by cheque'。"
+      }
+    ],
+    "historicalContext": "与国际象棋的历史密切相关，反映中世纪欧洲贵族文化中策略和控制的象征。",
+    "modernUsage": "在社交媒体和流行文化中，'check'常用于非正式语境，如 'check this out'（看看这个），体现轻松和好奇的态度。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象自己在超市结账时，店员正在核对（check）你的购物清单，确保每件商品都已记录。",
+      "keyElements": [
+        "超市",
+        "清单",
+        "核对"
+      ],
+      "emotionalConnection": "联想到购物时的期待或紧张情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "check 发音类似中文'查克'，联想到'查'（检查）的动作。",
+        "explanation": "通过发音相似性，将英文单词与中文含义连接起来。"
+      }
+    ],
+    "wordAssociations": [
+      "verify",
+      "inspect",
+      "list"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "checks",
+      "pastTense": "checked",
+      "pastParticiple": "checked",
+      "presentParticiple": "checking",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "check + object",
+        "description": "直接跟宾语，表示检查某物",
+        "examples": [
+          "Check your email."
+        ]
+      },
+      {
+        "pattern": "check + preposition + object",
+        "description": "与介词搭配，表示特定动作或方向",
+        "examples": [
+          "Check on the kids."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "误用 check 和 cheque",
+        "correction": "在美国用 check 指支票，在英国用 cheque。",
+        "explanation": "拼写差异源于地域习惯，需注意语境。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "约 3000 名（COCA 语料库）",
+    "domains": [
+      "日常交流",
+      "商业",
+      "教育",
+      "游戏"
+    ],
+    "tags": [
+      "多义词",
+      "高频动词",
+      "国际象棋"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

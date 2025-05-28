@@ -1,0 +1,232 @@
+{
+  "word": "bioinformatics",
+  "phonetics": {
+    "british": "/ˌbaɪ.əʊˌɪn.fəˈmæt.ɪks/",
+    "american": "/ˌbaɪ.oʊˌɪn.fɚˈmæt̬.ɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The interdisciplinary field that combines biology, computer science, and information technology to analyze and interpret biological data, such as DNA sequences and protein structures.",
+      "chineseTranslation": "生物信息学",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bioinformatics tools",
+      "meaning": "生物信息学工具",
+      "example": "Researchers use bioinformatics tools to process genomic data efficiently.",
+      "exampleTranslation": "研究人员使用生物信息学工具来高效处理基因组数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bioinformatics analysis",
+      "meaning": "生物信息学分析",
+      "example": "The bioinformatics analysis revealed new patterns in the protein database.",
+      "exampleTranslation": "生物信息学分析揭示了蛋白质数据库中的新模式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Bioinformatics has revolutionized the way we understand genetic diseases.",
+      "translation": "生物信息学彻底改变了我们理解遗传疾病的方式。",
+      "source": "Scientific literature (e.g., from journals like Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She is studying bioinformatics to develop algorithms for DNA sequencing.",
+      "translation": "她在学习生物信息学，以开发用于DNA测序的算法。",
+      "source": "Academic contexts (e.g., university lectures)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In bioinformatics, big data plays a crucial role in predictive modeling.",
+      "translation": "在生物信息学中，大数据在预测建模中发挥关键作用。",
+      "source": "Technical reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "bio-",
+        "meaning": "life",
+        "language": "Greek (from 'bios')"
+      },
+      {
+        "root": "informatics",
+        "meaning": "the study of information processing",
+        "language": "English (from 'information' + '-ics')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪90年代，源自希腊语'bios'（生命）和英语'informatics'（信息学），最初用于描述将计算机科学应用于生物学的实践。随着基因组学兴起，该术语演变为一个独立的学科，强调数据分析在生物研究中的作用。",
+    "firstKnownUse": "1990s (first prominently used in scientific literature)",
+    "relatedWords": [
+      "genomics",
+      "proteomics",
+      "computational biology"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (根据CEFR框架，适合高级学习者，因为它涉及专业术语和跨学科知识)",
+    "pronunciationDifficulty": "6 (1-10规模，中等难度，因为包含元音组合如/əʊ/和/ɪn/，可能对中文母语者造成音节连接挑战)",
+    "spellingDifficulty": "7 (1-10规模，高难度，因为长词结构和不常见的后缀'-ics'容易出错)",
+    "meaningComplexity": "8 (1-10规模，高复杂度，因为它表示一个跨学科概念，需要理解生物学和计算机科学的结合)",
+    "usageComplexity": "7 (1-10规模，中高复杂度，因为主要限于技术语境，且需正确搭配其他专业术语)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将词汇分解为'bio-'和'informatics'，并通过视觉图表联想生物数据分析的实际场景；重复暴露（spaced repetition）以强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "computational biology",
+        "similarity": "0.8",
+        "context": "适用于科学研究的语境中，二者均涉及计算方法分析生物数据"
+      },
+      {
+        "word": "genomic informatics",
+        "similarity": "0.7",
+        "context": "专注于基因组数据的特定领域，强调信息处理技术"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "traditional biology",
+        "context": "传统生物学强调实验观察，而非计算分析"
+      }
+    ],
+    "hypernyms": [
+      "science",
+      "interdisciplinary field"
+    ],
+    "hyponyms": [
+      "sequence analysis",
+      "structural bioinformatics"
+    ],
+    "collocations": [
+      {
+        "pattern": "bioinformatics + noun (e.g., tools, software)",
+        "examples": [
+          "bioinformatics software",
+          "bioinformatics research"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + bioinformatics (e.g., apply, use)",
+        "examples": [
+          "apply bioinformatics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征技术进步和跨学科融合，隐含语义强调数据驱动的生物研究，在全球学术界代表创新。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技产业语境",
+        "usage": "在美国英语中，常与商业应用结合，如生物技术公司"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重学术和历史语境",
+        "usage": "在英国英语中，可能与传统科学机构相关联"
+      }
+    ],
+    "historicalContext": "与20世纪后期的基因革命和计算机技术发展相关，在文学和社会中象征科学现代性，例如在科学小说中出现。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于讨论AI在生物学中的应用趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景：科学家使用计算机分析DNA螺旋结构。",
+      "keyElements": [
+        "DNA螺旋",
+        "计算机屏幕",
+        "数据图表"
+      ],
+      "emotionalConnection": "联结个人对科技进步的兴奋感，或回想学习生物课时的好奇心"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bioinformatics = Bio (生命) + Informatics (信息学) = 像生物的'信息高速公路'",
+        "explanation": "通过视觉联想将词汇与交通网络类比，强化记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "B-I-O: Biology + Information + Operations",
+        "explanation": "使用首字母缩写结合个人经验，帮助构建认知框架"
+      }
+    ],
+    "wordAssociations": [
+      "genome",
+      "data analysis",
+      "algorithms"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bioinformaticses (不常见，通常保持不变)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + bioinformatics",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "Bioinformatics advances medical research."
+        ]
+      },
+      {
+        "pattern": "In + bioinformatics + context",
+        "description": "用于指定领域",
+        "examples": [
+          "In bioinformatics, accuracy is paramount."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'biology'",
+        "correction": "Use 'bioinformatics' for computational aspects",
+        "explanation": "中文母语者常混淆，因为'bio-'相似；需区分生物学和信息学结合"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Avoid adding '-s' unnecessarily",
+        "explanation": "作为不可数名词，通常不需复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 50,000 in COCA corpus, common in scientific domains)",
+    "domains": [
+      "科技",
+      "生物学",
+      "计算机科学"
+    ],
+    "tags": [
+      "科学术语",
+      "跨学科",
+      "数据分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

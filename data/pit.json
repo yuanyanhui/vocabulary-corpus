@@ -1,0 +1,289 @@
+{
+  "word": "pit",
+  "phonetics": {
+    "british": "/pɪt/",
+    "american": "/pɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a hole or cavity in the ground, often used for trapping or as a natural feature",
+      "chineseTranslation": "坑",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the hard stone in the middle of certain fruits, such as cherries or peaches",
+      "chineseTranslation": "果核",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an enclosed area for mining coal or other minerals",
+      "chineseTranslation": "矿井",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to remove the stone from a fruit",
+      "chineseTranslation": "去核",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a sunken area in a road or surface",
+      "chineseTranslation": "坑洼",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pit stop",
+      "meaning": "短暂停留，例如在旅行中加油或休息",
+      "example": "We made a quick pit stop at the service station before continuing our journey.",
+      "exampleTranslation": "我们在服务站做了一个短暂停留，然后继续旅行。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pit of despair",
+      "meaning": "绝望的深渊或低谷期",
+      "example": "After losing his job, he fell into a pit of despair.",
+      "exampleTranslation": "失业后，他陷入了绝望的深渊。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "cherry pit",
+      "meaning": "樱桃的果核",
+      "example": "Be careful with the cherry pit; it can be a choking hazard.",
+      "exampleTranslation": "小心樱桃的果核；它可能导致窒息。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The workers dug a deep pit for the new foundation.",
+      "translation": "工人们为新地基挖了一个深坑。",
+      "source": "Construction manual (e.g., from engineering texts)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She carefully pitted the olives before adding them to the salad.",
+      "translation": "她在把橄榄加入沙拉前小心地去掉了果核。",
+      "source": "Culinary recipe (e.g., from a cookbook like 'The Joy of Cooking')",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The old mining pit has been converted into a tourist attraction.",
+      "translation": "那个旧矿井已被改造成一个旅游景点。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the heat of the race, the driver made an emergency pit stop.",
+      "translation": "在比赛的高潮时刻，驾驶员进行了紧急的短暂停留。",
+      "source": "Sports commentary (e.g., from Formula 1 broadcasts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "pytt",
+        "meaning": "a hole or pit in the ground",
+        "language": "Old English"
+      },
+      {
+        "root": "puteus",
+        "meaning": "a well or pit",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'pytt'，该词又源自拉丁语 'puteus'，最初指井或洞穴。随时间演变为表示各种地表凹陷或空洞的含义，如矿井或陷阱。在中古英语时期扩展到水果的果核含义，反映了实际应用语境的演变。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "pitfall",
+      "pitting",
+      "pitman"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于简单的元音和辅音组合，易于初级学习者掌握)",
+    "spellingDifficulty": "2 (1-10, 拼写规则直观，无不规则变化)",
+    "meaningComplexity": "6 (1-10, 多义词需区分语境，适合中级学习者)",
+    "usageComplexity": "5 (1-10, 常见搭配需练习语境切换)",
+    "learningTips": [
+      "使用间隔重复系统（spaced repetition）来记忆多义性；将词汇与个人经历关联，如回想一次掉入坑中的故事，以增强认知编码；结合视觉辅助，如绘图软件描绘 'pit' 的不同场景，促进海马体记忆形成。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hole",
+        "similarity": "0.8",
+        "context": "在描述地表凹陷时使用，例如在建筑或自然语境中"
+      },
+      {
+        "word": "stone",
+        "similarity": "0.7",
+        "context": "特指水果果核的语境中"
+      },
+      {
+        "word": "mine",
+        "similarity": "0.6",
+        "context": "在工业或采矿语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hill",
+        "context": "与地形相关，表示凸起而非凹陷"
+      },
+      {
+        "word": "flesh",
+        "context": "与水果相关，表示果核的对立部分"
+      }
+    ],
+    "hypernyms": [
+      "cavity",
+      "excavation"
+    ],
+    "hyponyms": [
+      "quarry",
+      "sinkhole"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + pit (e.g., dig a pit)",
+        "examples": [
+          "dig a pit",
+          "fall into a pit"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "pit + noun (e.g., pit stop)",
+        "examples": [
+          "pit stop",
+          "pit crew"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'pit' 常象征危险或挑战，如在民间故事中代表陷阱，隐含对未知的警示；在现代文化中，与赛车文化相关，体现速度与停顿的平衡。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于矿业语境，受工业革命影响",
+        "usage": "在英国英语中，常与历史煤矿相关联，例如在威尔士地区"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于日常或体育语境，如赛车中的 'pit stop'",
+        "usage": "在美国英语中，常见于非正式对话中，强调实用性"
+      }
+    ],
+    "historicalContext": "与英国工业革命关联，'pit' 曾指煤矿，出现在文学作品如狄更斯的著作中，反映社会阶层和劳工斗争；在美国西部拓荒时代，代表生存挑战。",
+    "modernUsage": "在社交媒体和体育直播中流行，如 TikTok 上用于比喻个人低谷期，体现心理健康讨论的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个深坑，里面有水果的果核和矿工工具，周围是赛车停靠区。",
+      "keyElements": [
+        "深坑形象",
+        "果核符号",
+        "赛车场景"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年玩耍时挖坑的兴奋，或吃水果时的小心，避免负面联想以减少焦虑。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pit like a 'pit stop' in a race – a quick break, similar to pausing in a pit.",
+        "explanation": "通过视觉联想赛车场景，帮助记忆多义性，利用认知心理学中的双编码效应。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/pɪt/' 听起来像 'pit' 的声音，联想到掉入坑中的 'plop' 声。",
+        "explanation": "使用声音模拟增强听觉记忆，基于神经科学中感觉整合原理。"
+      }
+    ],
+    "wordAssociations": [
+      "hole",
+      "stone",
+      "mine",
+      "stop"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pits",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "pitting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a deep pit')",
+        "description": "用作名词时，常位于定语或主语位置",
+        "examples": [
+          "The pit in the road caused delays."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., 'pit the cherries')",
+        "description": "用作动词时，需跟宾语表示动作对象",
+        "examples": [
+          "She pitted the fruit carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'pit' with 'bit' in pronunciation",
+        "correction": "Use /pɪt/ with a clear 'p' sound",
+        "explanation": "由于音似错误，学习者可能混淆辅音，需练习口型区分。"
+      },
+      {
+        "mistake": "Using 'pit' incorrectly in context (e.g., for 'bit')",
+        "correction": "Ensure context matches meaning, like 'fruit pit' vs. 'animal pit'",
+        "explanation": "中级学习者常因语义多义性出错，建议通过语境练习避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Mining",
+      "Food",
+      "Sports",
+      "Daily life"
+    ],
+    "tags": [
+      "Physical features",
+      "Tools",
+      "Metaphors"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

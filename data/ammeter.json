@@ -1,0 +1,228 @@
+{
+  "word": "ammeter",
+  "phonetics": {
+    "british": "/ˈæm.iː.tə/",
+    "american": "/ˈæm.ə.tɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instrument used to measure the electric current in a circuit, typically calibrated in amperes.",
+      "chineseTranslation": "电流表",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "digital ammeter",
+      "meaning": "数字电流表",
+      "example": "The engineer calibrated the digital ammeter before testing the circuit.",
+      "exampleTranslation": "工程师在测试电路前校准了数字电流表。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "analog ammeter",
+      "meaning": "模拟电流表",
+      "example": "In older laboratories, an analog ammeter was commonly used for basic measurements.",
+      "exampleTranslation": "在旧实验室中，模拟电流表常用于基本测量。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ammeter displayed a current of 10 amperes when the device was turned on.",
+      "translation": "当设备开启时，电流表显示电流为10安培。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Students in the physics class learned how to connect an ammeter in a series circuit.",
+      "translation": "物理课上的学生学习了如何在串联电路中连接电流表。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In industrial settings, an ammeter is essential for monitoring electrical safety.",
+      "translation": "在工业环境中，电流表对于监控电气安全至关重要。",
+      "source": "News article on engineering",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "ampere",
+        "meaning": "Unit of electric current, named after André-Marie Ampère",
+        "language": "French/English"
+      },
+      {
+        "root": "meter",
+        "meaning": "Instrument for measuring",
+        "language": "Greek (from metron, meaning measure)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪，结合了'ampere'（电流单位）和'meter'（测量仪器），反映了电气科学的快速发展。从词源到现代，意思从单纯的测量工具演变为电子设备中的标准组件。",
+    "firstKnownUse": "1882",
+    "relatedWords": [
+      "voltmeter",
+      "ohmmeter",
+      "galvanometer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用视觉辅助如电子仪器图片来建立联想；结合认知科学原理，通过重复性实验练习强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ampere meter",
+        "similarity": "0.9",
+        "context": "技术语境中，用于精确测量电流"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "voltmeter",
+        "context": "测量电压而非电流，常在电路分析中对比使用"
+      }
+    ],
+    "hypernyms": [
+      "instrument",
+      "measuring device"
+    ],
+    "hyponyms": [
+      "moving-coil ammeter",
+      "clamp meter"
+    ],
+    "collocations": [
+      {
+        "pattern": "use an ammeter",
+        "examples": [
+          "We use an ammeter to check the current flow."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "connect an ammeter",
+        "examples": [
+          "Engineers connect an ammeter in series."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征科学和技术进步，常与工业革命和现代电气化相关联，隐含语义包括精确性和可靠性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "使用与英国相同，但更常在日常技术英语中",
+        "usage": "在美国英语中，常在教育和工程领域标准化使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "发音和拼写一致，但语境更偏向学术",
+        "usage": "在英国英语中，常与历史科学文献相关联"
+      }
+    ],
+    "historicalContext": "与19世纪的电气革命和科学家如Ampère的贡献相关联，在文学和社会背景中代表了工业化时代的创新。",
+    "modernUsage": "在现代社交媒体和在线教育中，流行于科技讨论和DIY电子项目。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景：一个科学家手持电流表，连接到电路板上观察读数。",
+      "keyElements": [
+        "实验室",
+        "电路板",
+        "读数显示"
+      ],
+      "emotionalConnection": "联结到个人科学课经验，触发好奇和探索情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Ammeter 听起来像 'am meter'，就像测量 'am' (ampere 的缩写)。",
+        "explanation": "通过声音联想和视觉图像结合，增强认知记忆路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "A-M-Meter: A for ampere, M for measure.",
+        "explanation": "使用缩略形式分解词汇，基于认知科学中的分块记忆原理。"
+      }
+    ],
+    "wordAssociations": [
+      "ampere",
+      "current",
+      "measure",
+      "electricity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ammeters",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + ammeter",
+        "description": "作为主语或宾语在句子中出现",
+        "examples": [
+          "The ammeter measures the current accurately."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with ammeter",
+        "description": "常与介词如 'in' 或 'with' 搭配",
+        "examples": [
+          "We tested the circuit with an ammeter."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing ammeter with voltmeter",
+        "correction": "Use ammeter for current and voltmeter for voltage",
+        "explanation": "二者测量不同电学参数，错误可能源于相似外观和语境。"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'ammeters' for plural",
+        "explanation": "作为常规名词，需正确添加 -s 后缀。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; approximately 0.01 occurrences per million words in COCA corpus",
+    "domains": [
+      "Science",
+      "Technology",
+      "Engineering"
+    ],
+    "tags": [
+      "Electricity",
+      "Measurement",
+      "Instruments",
+      "Physics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

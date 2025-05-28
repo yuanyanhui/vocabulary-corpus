@@ -1,0 +1,251 @@
+{
+  "word": "recoverable",
+  "phonetics": {
+    "british": "/rɪˈkʌvərəbl/",
+    "american": "/rɪˈkʌvərəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "able to be recovered, regained, or restored to a previous state or condition",
+      "chineseTranslation": "可恢复的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "capable of being retrieved or salvaged, especially in contexts like data, resources, or finance",
+      "chineseTranslation": "可收回的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "economically recoverable",
+      "meaning": "经济上可恢复的",
+      "example": "The oil reserves are economically recoverable with current technology.",
+      "exampleTranslation": "这些石油储备在当前技术条件下是经济上可恢复的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "recoverable resources",
+      "meaning": "可恢复的资源",
+      "example": "Companies are focusing on recoverable resources to promote sustainability.",
+      "exampleTranslation": "公司正在关注可恢复的资源以促进可持续发展。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "recoverable data",
+      "meaning": "可恢复的数据",
+      "example": "Special software can retrieve recoverable data from damaged hard drives.",
+      "exampleTranslation": "特殊的软件可以从损坏的硬盘中恢复可恢复的数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The files were recoverable after the system crash, thanks to the backup.",
+      "translation": "文件在系统崩溃后是可恢复的，多亏了备份。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In environmental law, only recoverable materials can be recycled without penalties.",
+      "translation": "在环境法中，只有可恢复的材料才能在不处罚的情况下被回收。",
+      "source": "Legal document (e.g., from BNC corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The investment was recoverable within two years, yielding significant profits.",
+      "translation": "这项投资在两年内是可收回的，并带来了可观的利润。",
+      "source": "Financial news (e.g., from news articles)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "recuperare",
+        "meaning": "to get back or recover",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'recuperare'，意为'取回'或'恢复'，经由古法语 'recouvrer' 演变为中古英语 'recoveren'，最终在17世纪标准化为现代英语 'recoverable'，逐渐扩展到包括资源、数据和财务恢复的语义。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "recover",
+      "recovery",
+      "recuperate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学中的重复暴露法，将 'recoverable' 与日常生活中的恢复场景（如数据恢复）联系起来；通过视觉联想将词根 're-' 视为'再次'，帮助构建语义网络以增强长期记忆；建议结合间隔重复系统（Spaced Repetition System）来复习相关词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "retrievable",
+        "similarity": "0.8",
+        "context": "在数据和技术语境中适用，例如文件恢复"
+      },
+      {
+        "word": "restorable",
+        "similarity": "0.7",
+        "context": "在环境或修复语境中适用，例如可修复的资源"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irrecoverable",
+        "context": "在财务或损失语境中适用，例如不可恢复的损失"
+      },
+      {
+        "word": "irreparable",
+        "context": "在损坏或修复失败的语境中适用，例如不可修复的伤害"
+      }
+    ],
+    "hypernyms": [
+      "possible"
+    ],
+    "hyponyms": [
+      "economically recoverable",
+      "environmentally recoverable"
+    ],
+    "collocations": [
+      {
+        "pattern": "recoverable + noun (e.g., resources, data)",
+        "examples": [
+          "recoverable resources",
+          "recoverable costs"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + recoverable (e.g., economically recoverable)",
+        "examples": [
+          "fully recoverable",
+          "partially recoverable"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代社会中象征可持续性和资源管理，尤其在环保运动中隐含对浪费的反思，体现了西方文化中对资源循环利用的强调。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在科技和商业语境中更常用，例如数据恢复",
+        "usage": "在美国英语中，常与数字化工具相关联，突出实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "在法律和环境语境中更正式，例如可回收材料",
+        "usage": "在英国英语中，可能更侧重历史和政策背景下的使用"
+      }
+    ],
+    "historicalContext": "与工业革命后的资源利用相关，特别是在19世纪的英国文学中出现，反映社会对殖民地资源恢复的讨论。",
+    "modernUsage": "在社交媒体和数字时代中，常见于环保话题和科技讨论，例如Twitter上的#RecoverableEnergy，显示出全球化的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：某人从水中捞起一个掉落的物品，表示恢复过程。",
+      "keyElements": [
+        "水面",
+        "掉落的物品",
+        "恢复动作"
+      ],
+      "emotionalConnection": "联结个人经验，如曾经丢失并找回的物品，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'recoverable' 联想为 're-cover-able'，意思是'再次覆盖可行'，代表恢复。",
+        "explanation": "通过词根分解和视觉联想，基于认知科学的空间记忆原理，帮助初级学习者建立直观连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'Re-Co-Ab' 代表 Recover-Cover-Able，简化记忆。",
+        "explanation": "利用缩略法减少认知负荷，符合工作记忆模型。"
+      }
+    ],
+    "wordAssociations": [
+      "recover",
+      "recycle",
+      "restore"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more recoverable",
+      "superlative": "most recoverable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + recoverable",
+        "description": "形容词修饰主语的典型结构，用于描述可恢复性。",
+        "examples": [
+          "The data is recoverable."
+        ]
+      },
+      {
+        "pattern": "recoverable + noun",
+        "description": "形容词前置修饰名词，常用于技术语境。",
+        "examples": [
+          "Recoverable resources are essential for sustainability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'recoverable' as a verb",
+        "correction": "Use as an adjective only",
+        "explanation": "学习者常误将其视为动词；正确理解其形容词性质以避免句法错误。"
+      },
+      {
+        "mistake": "Overgeneralizing meaning",
+        "correction": "Specify context, e.g., 'economically recoverable'",
+        "explanation": "在中文母语学习者中，易忽略语境差异；通过语义映射练习改进。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "environment",
+      "finance"
+    ],
+    "tags": [
+      "adjective",
+      "recovery",
+      "sustainability"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

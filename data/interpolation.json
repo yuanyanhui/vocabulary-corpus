@@ -1,0 +1,246 @@
+{
+  "word": "interpolation",
+  "phonetics": {
+    "british": "/ɪnˌtɜː.pəˈleɪ.ʃən/",
+    "american": "/ɪnˌtɝː.pəˈleɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of estimating values that fall between two known values in a sequence of data, often used in mathematics, statistics, and computing.",
+      "chineseTranslation": "插值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of inserting a passage or remark into a text, speech, or conversation, especially something that is not originally part of it.",
+      "chineseTranslation": "插入语或改写",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "linear interpolation",
+      "meaning": "线性插值",
+      "example": "Linear interpolation is commonly used to estimate values between two points on a straight line.",
+      "exampleTranslation": "线性插值常用于估算直线上的两个点之间的值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bilinear interpolation",
+      "meaning": "双线性插值",
+      "example": "Bilinear interpolation is applied in image processing to resize images smoothly.",
+      "exampleTranslation": "双线性插值在图像处理中用于平滑地调整图像大小。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "interpolation of data",
+      "meaning": "数据的插值",
+      "example": "Interpolation of data helps in creating a continuous function from discrete points.",
+      "exampleTranslation": "数据的插值有助于从离散点创建连续函数。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In computer graphics, interpolation is used to create smooth animations between keyframes.",
+      "translation": "在计算机图形学中，插值用于在关键帧之间创建平滑动画。",
+      "source": "Technical documentation, e.g., from computer science texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The historian noted an interpolation in the ancient manuscript that altered its original meaning.",
+      "translation": "历史学家注意到古代手稿中的插入语改变了其原意。",
+      "source": "Literary analysis, e.g., from Oxford English Dictionary examples",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the meeting, she made an interpolation to clarify the previous speaker's point.",
+      "translation": "在会议中，她插入了一段话来澄清前一位发言者的观点。",
+      "source": "Conversational English, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "interpolare",
+        "meaning": "to polish, to alter, or to renew",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'interpolare', which originally meant to refurbish or alter, the term evolved in the 17th century to refer to insertions in texts, and by the 19th century, it was adopted in mathematics to describe estimation between data points, reflecting advancements in scientific methodology.",
+    "firstKnownUse": "1610s",
+    "relatedWords": [
+      "interpolate",
+      "interpolationist"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用Spaced Repetition System (SRS) 来强化记忆多义词；将词汇与实际情境结合，如数学图表或对话场景，以提升认知关联；根据认知负荷理论，避免一次性学习过多技术术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "extrapolation",
+        "similarity": "0.7",
+        "context": "在数据分析中，常用于估计已知数据之外的值，与插值类似但侧重于扩展"
+      },
+      {
+        "word": "insertion",
+        "similarity": "0.8",
+        "context": "在文学或对话中，指添加内容，与插值的非技术含义相关"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extrapolation",
+        "context": "插值关注已知数据之间的估计，而外推关注数据之外的预测"
+      },
+      {
+        "word": "omission",
+        "context": "与插入相反，指遗漏或删除内容"
+      }
+    ],
+    "hypernyms": [
+      "estimation",
+      "insertion"
+    ],
+    "hyponyms": [
+      "linear interpolation",
+      "cubic interpolation"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + interpolation",
+        "examples": [
+          "perform interpolation",
+          "use interpolation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + interpolation",
+        "examples": [
+          "linear interpolation",
+          "bilinear interpolation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征精确性和创新，尤其在数学和计算机领域，体现了对数据操纵的重视；在中国文化语境中，可能与传统插图或文学改编相关，隐含对历史文本真实性的探讨。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More common in technical and computational contexts due to emphasis on STEM education.",
+        "usage": "在美国英语中，常用于学术和专业讨论中，以精确数据处理为主"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage, often in historical or literary analysis.",
+        "usage": "在英国英语中，可能强调其在文本编辑中的含义"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的文本校勘相关，在工业革命后扩展到科学领域；在中国，受西方影响，现代使用多见于翻译作品和科技文献。",
+    "modernUsage": "在社交媒体和在线教育中，常见于数据可视化工具和AI讨论，反映数字时代的信息处理趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个连接点之间的桥梁场景：两个已知数据点如山峰，插值像是一座桥梁连接它们。",
+      "keyElements": [
+        "桥梁",
+        "数据点",
+        "连接"
+      ],
+      "emotionalConnection": "联结到个人经历，如填补记忆空白，触发对学习过程的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Inter-polation sounds like 'inter-bridge' for connecting points.",
+        "explanation": "通过声音联想将'inter'视为'之间'，帮助记忆其估计中间值的含义"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-T-E-R-P-O-L-A-T-I-O-N: 'I Need To Estimate Really Precisely, Oh Look At That Interpolation!'",
+        "explanation": "使用首字母缩写故事增强记忆路径，基于认知科学中的叙事技巧"
+      }
+    ],
+    "wordAssociations": [
+      "estimate",
+      "bridge",
+      "insert"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "interpolations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词，常出现在主语或宾语位置，表示过程或动作",
+        "examples": [
+          "Interpolation is essential in data analysis."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词搭配，如'in interpolation of data'",
+        "examples": [
+          "The method involves interpolation of missing values."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interpolation' and 'extrapolation'",
+        "correction": "Use 'interpolation' for between points and 'extrapolation' for beyond points.",
+        "explanation": "源于语义相似性；学习者需区分上下文化境"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'interpolations' for plural forms.",
+        "explanation": "英语名词规则简单，但初学者可能遗忘添加-s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in the COCA corpus",
+    "domains": [
+      "technology",
+      "mathematics",
+      "literature"
+    ],
+    "tags": [
+      "technical term",
+      "mathematical concept",
+      "linguistic insertion"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

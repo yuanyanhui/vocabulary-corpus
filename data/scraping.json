@@ -1,0 +1,267 @@
+{
+  "word": "scraping",
+  "phonetics": {
+    "british": "/ˈskreɪpɪŋ/",
+    "american": "/ˈskreɪpɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of removing a thin layer or substance from a surface by rubbing it with something sharp or rough.",
+      "chineseTranslation": "刮除或擦除的行为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the automated process of extracting data from websites or other digital sources.",
+      "chineseTranslation": "在计算机领域，指从网站或其他数字来源自动提取数据的过程",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (present participle of 'scrape')",
+      "definition": "The ongoing action of scraping, such as to injure by a rough surface or to gather information.",
+      "chineseTranslation": "刮、擦或收集的进行时形式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "web scraping",
+      "meaning": "网络抓取",
+      "example": "Web scraping is a common technique used in data analysis.",
+      "exampleTranslation": "网络抓取是数据分析中常用的一种技术。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ice scraping",
+      "meaning": "冰层刮除",
+      "example": "Ice scraping on the windshield is necessary before driving in winter.",
+      "exampleTranslation": "在冬天开车前，必须对挡风玻璃上的冰层进行刮除。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "knee scraping",
+      "meaning": "膝盖擦伤",
+      "example": "After the fall, he had a minor knee scraping.",
+      "exampleTranslation": "摔倒后，他的膝盖有轻微的擦伤。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mechanic spent hours scraping off the old paint from the car.",
+      "translation": "机械师花了几个小时刮掉汽车上的旧油漆。",
+      "source": "Technical manual (e.g., from automotive contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern data science, scraping tools like Beautiful Soup are essential for gathering information.",
+      "translation": "在现代数据科学中，像 Beautiful Soup 这样的抓取工具对于收集信息至关重要。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She got a scraping on her elbow after slipping on the wet floor.",
+      "translation": "她在湿滑的地板上滑倒后，胳膊肘擦伤了。",
+      "source": "Daily conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Ethical considerations in scraping user data have become a hot topic in privacy debates.",
+      "translation": "在抓取用户数据时的道德考虑已成为隐私辩论的热门话题。",
+      "source": "News article (e.g., from online media)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English (from Old Norse)",
+    "rootWords": [
+      {
+        "root": "scrape",
+        "meaning": "To rub or scratch with something sharp",
+        "language": "Old Norse (skrapa)"
+      },
+      {
+        "root": "scrape",
+        "meaning": "To gather or collect roughly",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "起源于古挪威语的 skrapa，意为用尖物刮或擦，传入中古英语后演变为 scrape，逐渐扩展到现代英语中表示物理刮除或抽象数据提取的过程，尤其在20世纪后期随着计算机技术的发展而流行。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "scrape",
+      "scraper",
+      "scraping tool"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common English phonetic patterns but includes a diphthong /eɪ/ that may challenge intermediate learners)",
+    "spellingDifficulty": "5 (out of 10, due to the silent 'e' and common consonant blends, which can be confusing for Chinese learners accustomed to phonetic writing)",
+    "meaningComplexity": "6 (out of 10, as it has multiple meanings depending on context, requiring understanding of both literal and metaphorical uses)",
+    "usageComplexity": "7 (out of 10, involving technical contexts that demand familiarity with domains like computing)",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法（chunking）将 'scraping' 与其技术含义分开记忆，例如先联想物理动作再扩展到数字领域；",
+      "利用双编码理论（dual coding），将词汇与视觉图像配对，如想象刮冰的动作来强化记忆；",
+      "通过间隔重复（spaced repetition）系统复习不同语境下的用法，以提升长期保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "gathering",
+        "similarity": "0.7",
+        "context": "适用于数据提取语境，例如在非正式讨论中"
+      },
+      {
+        "word": "abrading",
+        "similarity": "0.8",
+        "context": "适用于物理刮除语境，如工业或日常描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "smoothing",
+        "context": "在表面处理语境中，表示相反的抛光或平滑动作"
+      },
+      {
+        "word": "ignoring",
+        "context": "在数据处理语境中，表示不提取或忽略信息"
+      }
+    ],
+    "hypernyms": [
+      "extraction",
+      "process"
+    ],
+    "hyponyms": [
+      "web scraping",
+      "data mining"
+    ],
+    "collocations": [
+      {
+        "pattern": "scraping + noun (e.g., data, surface)",
+        "examples": [
+          "scraping data from websites",
+          "scraping the surface of the issue"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + scraping (e.g., perform scraping)",
+        "examples": [
+          "conduct scraping operations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征效率和创新，尤其在技术领域代表数据时代的信息获取方式，但也隐含道德议题如隐私侵犯。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 'web scraping' 在硅谷文化中流行",
+        "usage": "在美国英语中，常与商业创新相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向物理含义，如 'scraping ice' 在日常用语中",
+        "usage": "在英国英语中，语境更注重传统手工操作"
+      }
+    ],
+    "historicalContext": "与工业革命相关，最初指手工劳作，如矿业中的刮除；20世纪后与数字文化关联，如在互联网时代体现数据民主化和潜在争议。",
+    "modernUsage": "在社交媒体和在线平台上，'scraping' 常讨论AI和大数据，但需注意跨文化敏感性，如在中国，类似术语可能涉及网络法规"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人用刮刀在冰冷的窗户上刮冰，同时屏幕上显示数据在流动被提取。",
+      "keyElements": [
+        "刮刀",
+        "冰层",
+        "数据流"
+      ],
+      "emotionalConnection": "联结个人经验，如童年滑冰时的擦伤，触发情绪记忆以加深印象"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'scraping' 联想为 'scrape + ing'，想象手指在刮板上滑动",
+        "explanation": "通过视觉和动觉联想强化词汇记忆，基于认知心理学中的多模态学习"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-R-A-P-E (Scraping Collects Relevant And Processed Extracted data)",
+        "explanation": "使用首字母缩略词帮助记忆技术含义，结合Elaborative Rehearsal原理"
+      }
+    ],
+    "wordAssociations": [
+      "scrape",
+      "gather",
+      "extract"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "scrapings (for noun form)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "scraping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + scraping + [of something]",
+        "description": "作为名词，常用于描述动作或过程",
+        "examples": [
+          "The scraping of the surface revealed hidden layers."
+        ]
+      },
+      {
+        "pattern": "Gerund phrase: Scraping + object",
+        "description": "作为动名词，用于句中表示进行时",
+        "examples": [
+          "Scraping data requires careful planning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'scraping' with 'scrapping' (meaning discarding)",
+        "correction": "Use 'scraping' for extraction and 'scrapping' for discarding",
+        "explanation": "源自词源混淆，常因拼写相似导致；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper use as a gerund or noun",
+        "explanation": "中文学习者可能误用为形容词；通过练习句法模式避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 10,000 words in COCA corpus (medium frequency)",
+    "domains": [
+      "technology",
+      "daily life",
+      "industry"
+    ],
+    "tags": [
+      "computing",
+      "mechanics",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "word": "consume",
+  "phonetics": {
+    "british": "/kənˈsjuːm/",
+    "american": "/kənˈsuːm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To eat or drink something, especially in large quantities.",
+      "chineseTranslation": "消耗；消费；食用",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To use up a resource, such as time, energy, or money.",
+      "chineseTranslation": "耗费；用尽",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To buy and use goods or services, often in the context of economics.",
+      "chineseTranslation": "消费；购买并使用",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who consumes goods or services; often used in plural form as 'consumers'.",
+      "chineseTranslation": "消费者",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "consume energy",
+      "meaning": "消耗能量",
+      "example": "Modern appliances consume less energy than older models.",
+      "exampleTranslation": "现代电器比老款型号消耗更少的能量。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "consume time",
+      "meaning": "消耗时间",
+      "example": "Preparing a full meal can consume a lot of time.",
+      "exampleTranslation": "准备一顿全餐会消耗很多时间。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "consume resources",
+      "meaning": "消耗资源",
+      "example": "Industries that consume resources unsustainably harm the environment.",
+      "exampleTranslation": "过度消耗资源的产业会损害环境。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "People consume more calories during festive seasons.",
+      "translation": "人们在节日期间消耗更多卡路里。",
+      "source": "General news articles, e.g., from BBC or CNN",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The new software will consume fewer system resources.",
+      "translation": "这个新软件将消耗更少的系统资源。",
+      "source": "Technology reviews, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a consumer-driven economy, people are encouraged to consume more.",
+      "translation": "在消费驱动型经济中，人们被鼓励消费更多。",
+      "source": "Economic literature, e.g., from BNC",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She consumes books at an astonishing rate.",
+      "translation": "她以惊人的速度阅读书籍。",
+      "source": "Literary works, e.g., modern novels",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "consumere",
+        "meaning": "to use up entirely",
+        "language": "Latin"
+      },
+      {
+        "root": "con-",
+        "meaning": "together or intensively",
+        "language": "Latin"
+      },
+      {
+        "root": "sumere",
+        "meaning": "to take",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'consumere'，意为完全使用或耗尽。该词在古罗马时代用于描述资源的使用，传入英语后在中世纪英语中演变为 'consumen'，逐渐扩展到现代意义，包括物质消费和抽象消耗，如时间或精力。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "consumption",
+      "consumer",
+      "consumeable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法：将 'consume' 与日常活动（如吃饭或购物）关联，创建个人化记忆宫殿；通过重复暴露于真实语境中增强长期记忆；避免混淆相似词如 'consume' 和 'conserve'，采用视觉联想如图片对比。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "devour",
+        "similarity": "0.8",
+        "context": "适用于食物或快速消耗语境，例如在非正式对话中"
+      },
+      {
+        "word": "expend",
+        "similarity": "0.7",
+        "context": "适用于资源或精力的正式语境"
+      },
+      {
+        "word": "use up",
+        "similarity": "0.9",
+        "context": "适用于日常口语中描述耗尽资源"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conserve",
+        "context": "在环境保护或资源管理语境中，例如 'conserve energy' 与 'consume energy' 的对比"
+      },
+      {
+        "word": "save",
+        "context": "在财务或时间管理语境中"
+      }
+    ],
+    "hypernyms": [
+      "utilize",
+      "expend"
+    ],
+    "hyponyms": [
+      "eat",
+      "drink",
+      "spend"
+    ],
+    "collocations": [
+      {
+        "pattern": "consume + noun (e.g., consume food)",
+        "examples": [
+          "consume food",
+          "consume time"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be consumed by + noun (e.g., be consumed by fire)",
+        "examples": [
+          "be consumed by passion"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词与消费主义相关，常象征物质主义和经济增长，但在东方文化如中国中，可能隐含对可持续发展的反思，例如在现代社会中强调'低碳消费'。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业语境，如 'consumer culture'",
+        "usage": "在美国英语中，常与经济政策相关，强调个人消费对GDP的影响"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "倾向于更正式的使用，如 'consume resources' 在环境讨论中",
+        "usage": "在英国英语中，可能与历史殖民主义语境相关联，讨论资源消耗"
+      }
+    ],
+    "historicalContext": "与工业革命相关，该词在19世纪的文学和经济著作中兴起，象征资本主义发展，如狄更斯作品中对社会不平等的描绘。",
+    "modernUsage": "在社交媒体和数字时代，'consume' 常用于描述内容消费，如 'content consumption'，反映了全球化的快节奏生活方式。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人在厨房里快速吃掉一顿饭，同时用手机购物，这代表了消耗食物和资源。",
+      "keyElements": [
+        "厨房",
+        "食物",
+        "手机",
+        "购物车"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年时的快速用餐，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'consume' 联想为 'con' (结合) + 'sum' (总和)，想象将事物加总并用尽。",
+        "explanation": "通过视觉联想加深记忆，符合认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kənˈsuːm/ 听起来像 'can sum'，联想为 '你可以总结它'，表示用尽。",
+        "explanation": "利用声音相似性增强听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "eat",
+      "spend",
+      "waste",
+      "devour"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "consumed",
+      "pastParticiple": "consumed",
+      "presentParticiple": "consuming",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + consume + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述直接动作",
+        "examples": [
+          "I consume coffee every morning."
+        ]
+      },
+      {
+        "pattern": "Be consumed by + noun",
+        "description": "表示被某种事物吞没或占据",
+        "examples": [
+          "He is consumed by his work."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'consume' interchangeably with 'consume up'",
+        "correction": "Use 'consume' alone or 'use up'",
+        "explanation": " 'Consume' 本身已表示耗尽，无需添加 'up'；这是受母语影响的错误"
+      },
+      {
+        "mistake": "Confusing with 'conservative'",
+        "correction": "Use 'conserve' for saving",
+        "explanation": "词形相似但含义相反，建议通过语境练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High; ranked in top 2000 words in COCA corpus",
+    "domains": [
+      "economics",
+      "daily life",
+      "environment",
+      "technology"
+    ],
+    "tags": [
+      "action verb",
+      "resource management",
+      "consumerism"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

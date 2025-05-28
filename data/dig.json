@@ -1,0 +1,266 @@
+{
+  "word": "dig",
+  "phonetics": {
+    "british": "/dɪɡ/",
+    "american": "/dɪɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To break up and move soil, earth, etc., as with a spade or shovel; to excavate.",
+      "chineseTranslation": "挖掘或翻土",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To understand or appreciate something, especially in informal contexts.",
+      "chineseTranslation": "理解或喜欢某事物（俚语）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "colloquial"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act or instance of digging, or the hole or channel produced by digging.",
+      "chineseTranslation": "挖掘行为或挖掘出的洞穴",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An archaeological excavation site.",
+      "chineseTranslation": "考古挖掘现场",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dig up",
+      "meaning": "挖掘出或发现某事物",
+      "example": "Archaeologists dug up ancient artifacts in the desert.",
+      "exampleTranslation": "考古学家在沙漠中挖掘出古代文物。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dig in",
+      "meaning": "开始吃东西或加深挖掘",
+      "example": "The soldiers dug in to prepare for the attack.",
+      "exampleTranslation": "士兵们挖掘战壕以准备进攻。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dig into",
+      "meaning": "深入调查或探究某事物",
+      "example": "She decided to dig into the company's financial records.",
+      "exampleTranslation": "她决定深入调查公司的财务记录。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Farmers dig the soil to plant seeds in the spring.",
+      "translation": "农民们在春天挖掘土壤来播种。",
+      "source": "Agricultural texts (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "I really dig that new song; it's got a great beat.",
+      "translation": "我真的很喜欢那首新歌；它有很棒的节奏。",
+      "source": "Informal music reviews (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team conducted a dig at the ancient Roman site last summer.",
+      "translation": "团队去年夏天在古罗马遗址进行了挖掘。",
+      "source": "Historical literature (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "diggian",
+        "meaning": "to dig or excavate",
+        "language": "Old English"
+      },
+      {
+        "root": "*dikjaną",
+        "meaning": "to dig",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 diggian，可能与原始日耳曼语 *dikjaną 相关联，该词最初指挖掘或刺穿行为。随时间演变为现代英语中表示物理挖掘和比喻性理解的含义，尤其在16世纪后开始出现俚语用法。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "ditch",
+      "digress"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法，例如将 'dig' 与挖土图像关联，以增强海马体记忆；对于中文母语学习者，比较 'dig' 与 '挖掘' 的语义差异，帮助避免负迁移效应。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "excavate",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如考古或建筑领域"
+      },
+      {
+        "word": "appreciate",
+        "similarity": "0.6",
+        "context": "适用于俚语语境，如音乐或文化欣赏"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fill",
+        "context": "在挖掘语境中，表示填埋或覆盖"
+      },
+      {
+        "word": "ignore",
+        "context": "在理解语境中，表示不理会或不欣赏"
+      }
+    ],
+    "hypernyms": [
+      "excavate",
+      "understand"
+    ],
+    "hyponyms": [
+      "shovel",
+      "comprehend"
+    ],
+    "collocations": [
+      {
+        "pattern": "dig + object (e.g., dig a hole)",
+        "examples": [
+          "He digs a hole in the garden."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "dig into + noun (e.g., dig into details)",
+        "examples": [
+          "She digs into the mystery."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'dig' 常与考古学相关联，象征探索历史和发现，如埃及金字塔挖掘；俚语用法在流行文化中体现年轻人对音乐或事物的认可。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于俚语，如 'I dig jazz music'",
+        "usage": "在美国非正式对话中表示赞赏，反映了20世纪60年代青年文化"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向于字面意义，如园艺或建筑",
+        "usage": "在英国中性语境中更常见，关联历史农业实践"
+      }
+    ],
+    "historicalContext": "与工业革命时期挖掘技术相关联，并在文学如莎士比亚作品中出现；现代中，关联社会运动，如嬉皮士文化中的 'dig' 表示精神探索。",
+    "modernUsage": "在社交媒体如Twitter上，'dig' 用于快速表达欣赏，但需注意跨文化敏感性，以避免误解中文母语者对俚语的认知。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个农民拿着铲子在花园里挖掘土块，同时脑海中浮现一首喜欢的歌曲。",
+      "keyElements": [
+        "铲子",
+        "土块",
+        "音乐音符"
+      ],
+      "emotionalConnection": "联结个人童年挖沙的经历，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dig sounds like 'digging for gold'",
+        "explanation": "通过联想 'dig' 与寻找宝藏的兴奋感，运用认知科学中的双编码理论将视觉和语义记忆结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /dɪɡ/ 像 'dig in' 的动作声",
+        "explanation": "利用声音与动作的联结，帮助中文学习者通过身体模拟强化长时记忆"
+      }
+    ],
+    "wordAssociations": [
+      "excavate",
+      "appreciate",
+      "shovel"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "dug",
+      "pastParticiple": "dug",
+      "presentParticiple": "digging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + dig + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "They dig the ground."
+        ]
+      },
+      {
+        "pattern": "Dig + in/on/into + preposition phrase",
+        "description": "表示深入或开始的句法",
+        "examples": [
+          "Dig into the past."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'digged' as past tense",
+        "correction": "dug",
+        "explanation": "英语中 'dig' 的过去式是不规则形式，因此避免使用规则变化"
+      },
+      {
+        "mistake": "Confusing with 'dig' in slang context",
+        "correction": "Use appropriately in informal settings",
+        "explanation": "中文学习者可能误用俚语，需根据语域选择正确语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "agriculture",
+      "archaeology",
+      "informal culture",
+      "daily life"
+    ],
+    "tags": [
+      "action verb",
+      "slang",
+      "physical activity"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "word": "wolf",
+  "phonetics": {
+    "british": "/wʊlf/",
+    "american": "/wʊlf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A wild carnivorous mammal of the dog family, typically living and hunting in packs and known for its howling.",
+      "chineseTranslation": "狼",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To devour food greedily or voraciously.",
+      "chineseTranslation": "狼吞虎咽地吃",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun (figurative)",
+      "definition": "A person who is predatory, rapacious, or fierce, often used metaphorically in literature or idioms.",
+      "chineseTranslation": "恶狼（比喻贪婪或危险的人）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cry wolf",
+      "meaning": "虚假地发出警告或求助，导致他人不相信真正的危险",
+      "example": "The boy who cried wolf was not believed when a real wolf appeared.",
+      "exampleTranslation": "那个喊狼的小男孩在真正的狼出现时没有人相信他。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "lone wolf",
+      "meaning": "独来独往、不与群体合作的人",
+      "example": "He prefers to be a lone wolf, working on projects by himself.",
+      "exampleTranslation": "他更喜欢做一只孤独的狼，独自处理项目。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "wolf in sheep's clothing",
+      "meaning": "外表善良但内心危险的人",
+      "example": "The charming salesman turned out to be a wolf in sheep's clothing.",
+      "exampleTranslation": "那位迷人的推销员原来是一只披着羊皮的狼。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The wolf howled at the full moon in the forest.",
+      "translation": "狼在森林里对着满月嚎叫。",
+      "source": "Literature (e.g., folklore tales)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In business, some executives act like wolves, preying on smaller companies.",
+      "translation": "在商业中，有些高管像狼一样，掠夺小公司。",
+      "source": "News articles (e.g., from The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She wolfed down her dinner after a long day at work.",
+      "translation": "她工作了一整天后狼吞虎咽地吃完了晚饭。",
+      "source": "Colloquial conversation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The novel depicts the wolf as a symbol of untamed wilderness.",
+      "translation": "这部小说将狼描绘成未被驯服的荒野象征。",
+      "source": "Academic texts (e.g., environmental literature)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "wulf",
+        "meaning": "A wild animal",
+        "language": "Old English"
+      },
+      {
+        "root": "wulfaz",
+        "meaning": "Wolf",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "wl̥kʷos",
+        "meaning": "Wolf",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'wulf'，其根源可追溯到原始印欧语 '*wl̥kʷos'，最初指代野生食肉动物。随着时间推移，该词在日耳曼语系中演变为现代英语 'wolf'，并扩展到比喻意义，如在文学中代表贪婪或孤立。",
+    "firstKnownUse": "约公元前 7 世纪，在古英语文献中",
+    "relatedWords": [
+      "werewolf",
+      "lupine",
+      "wolfish"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'wolf' 的字形与常见图像关联，例如想象狼的图像以强化视觉记忆；对于中国母语学习者，比较英语 'wolf' 与中文 '狼' 的文化差异，以避免语义混淆；使用间隔重复系统（spaced repetition）复习其多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "predator",
+        "similarity": "0.7",
+        "context": "在比喻语境中，指代危险或捕食者，如商业竞争"
+      },
+      {
+        "word": "coyote",
+        "similarity": "0.6",
+        "context": "在动物分类语境中，指代类似野生犬科动物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prey",
+        "context": "在生态语境中，指代狼的猎物，如鹿"
+      },
+      {
+        "word": "herbivore",
+        "context": "在动物行为语境中，指代非捕食性动物"
+      }
+    ],
+    "hypernyms": [
+      "carnivore",
+      "mammal"
+    ],
+    "hyponyms": [
+      "gray wolf",
+      "red wolf"
+    ],
+    "collocations": [
+      {
+        "pattern": "wolf + adjective (e.g., lone, howling)",
+        "examples": [
+          "lone wolf",
+          "howling wolf"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + wolf (e.g., hunt, howl)",
+        "examples": [
+          "wolves hunt in packs"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，狼常象征孤独、野性或危险，如在童话故事中（如《三只小猪》）；在中国文化中，狼可能代表狡猾或自然力量，但也用于中医或民间传说中作为负面隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于文学和历史语境",
+        "usage": "在英国英语中，常用于描述乡村传说或生态故事"
+      },
+      {
+        "region": "美国",
+        "variation": "强调野生保护和本土动物",
+        "usage": "在美国英语中，经常与国家公园或环保议题相关联"
+      }
+    ],
+    "historicalContext": "狼在欧洲中世纪文学中常与狼人神话关联，反映了对未知自然的恐惧；在现代，中国和西方文化中，狼作为生态象征，推动了环境保护运动。",
+    "modernUsage": "在社交媒体和流行文化中，'wolf' 常用于比喻独立的个体或在网络俚语中表示竞争者，如在游戏或商业讨论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个夜晚的森林，狼在月光下嚎叫，周围是树木和猎物。",
+      "keyElements": [
+        "月光",
+        "嚎叫",
+        "森林"
+      ],
+      "emotionalConnection": "联结个人童年故事或恐惧体验，以增强情绪记忆，例如回想中国民间故事中的狼"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Wolf sounds like 'wool' but with a fierce animal instead of soft fabric.",
+        "explanation": "通过声音联想，将 'wolf' 与 'wool' 比较，强化发音记忆，并结合视觉图像避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "W-O-L-F: Wild, Outcast, Lone, Fierce.",
+        "explanation": "使用首字母缩写结合个人经验，帮助中国学习者记忆多义性"
+      }
+    ],
+    "wordAssociations": [
+      "howl",
+      "pack",
+      "predator",
+      "lone"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "wolves",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + wolf",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The wolf runs fast."
+        ]
+      },
+      {
+        "pattern": "Adjective + wolf",
+        "description": "用于描述性短语",
+        "examples": [
+          "A lone wolf wanders the forest."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'wolf' as a verb incorrectly (e.g., 'I wolfed the food' mistaken for 'I ate the food wolf').",
+        "correction": "I wolfed down the food.",
+        "explanation": "错误源于动词形式的语义混淆；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Confusing plural form (e.g., 'wolfs' instead of 'wolves').",
+        "correction": "wolves",
+        "explanation": "英语名词变化规则；中国学习者可能受汉字影响忽略形态变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 2,500 in COCA corpus",
+    "domains": [
+      "nature",
+      "literature",
+      "idiomatic expressions",
+      "business"
+    ],
+    "tags": [
+      "animal",
+      "metaphor",
+      "wildlife"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

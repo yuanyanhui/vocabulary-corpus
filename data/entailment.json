@@ -1,0 +1,247 @@
+{
+  "word": "entailment",
+  "phonetics": {
+    "british": "/ɪnˈteɪlmənt/",
+    "american": "/ɛnˈteɪlmənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a logical consequence or implication that follows necessarily from a set of premises",
+      "chineseTranslation": "蕴涵",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of entailing property, especially in law, where it is restricted to a specific line of heirs",
+      "chineseTranslation": "限定继承",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "logical entailment",
+      "meaning": "逻辑蕴涵",
+      "example": "The logical entailment of the premises leads to a clear conclusion.",
+      "exampleTranslation": "前提的逻辑蕴涵导致了一个明确的结论。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "entailment relation",
+      "meaning": "蕴涵关系",
+      "example": "In semantics, the entailment relation between sentences is crucial for understanding meaning.",
+      "exampleTranslation": "在语义学中，句子之间的蕴涵关系对理解含义至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If all men are mortal and Socrates is a man, then the entailment is that Socrates is mortal.",
+      "translation": "如果所有人都终有一死，而苏格拉底是人，那么蕴涵就是苏格拉底是会死的。",
+      "source": "Philosophical text (e.g., from logic textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The entailment of the will ensured that the estate passed only to direct descendants.",
+      "translation": "遗嘱的限定继承确保了财产只传给直系后代。",
+      "source": "Legal document (e.g., from British common law discussions)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday conversation, entailment might not be explicitly stated but is implied.",
+      "translation": "在日常对话中，蕴涵可能不会被明确陈述，但会暗示出来。",
+      "source": "Modern linguistic analysis (e.g., COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Anglo-French",
+    "rootWords": [
+      {
+        "root": "entail",
+        "meaning": "to limit or restrict",
+        "language": "Old French (entailler, meaning to cut into)"
+      },
+      {
+        "root": "tail",
+        "meaning": "limit or boundary",
+        "language": "Old French (from Latin talea, meaning a cutting or stick)"
+      }
+    ],
+    "historicalDevelopment": "源自中世纪英语，最初用于法律语境中描述财产的限定继承（14世纪），后来扩展到逻辑和哲学领域（17世纪），反映了从具体法律术语到抽象推理概念的演变过程。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "entail",
+      "implication",
+      "deduction"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法（chunking）将 'entailment' 与常见逻辑推理场景关联，以增强长期记忆；",
+      "通过重复暴露（spaced repetition）在不同语境中练习，减少语义混淆；",
+      "利用双编码理论，将词汇与视觉图像（如逻辑链条图）结合，促进多模态学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "implication",
+        "similarity": "0.8",
+        "context": "适用于逻辑或哲学语境中，表示从前提推断出的结果"
+      },
+      {
+        "word": "consequence",
+        "similarity": "0.7",
+        "context": "在因果关系或结果分析中，使用频率较高"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "contradiction",
+        "context": "在逻辑语境中，表示与蕴涵相反的冲突关系"
+      },
+      {
+        "word": "independence",
+        "context": "表示概念间无必然联系的语境"
+      }
+    ],
+    "hypernyms": [
+      "implication",
+      "deduction"
+    ],
+    "hyponyms": [
+      "material entailment",
+      "strict entailment"
+    ],
+    "collocations": [
+      {
+        "pattern": "entailment in logic",
+        "examples": [
+          "The entailment in logic ensures validity."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "legal entailment",
+        "examples": [
+          "The legal entailment restricts inheritance."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方哲学和逻辑文化中象征理性推理的核心，隐含语义强调证据与结论的必然联系，常用于学术讨论中体现启蒙运动的理性传统。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重法律历史语境",
+        "usage": "在英国英语中，常与财产法相关联，如在历史小说中描述"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于学术和科技语境",
+        "usage": "在美国英语中，强调在人工智能和计算机科学中的应用"
+      }
+    ],
+    "historicalContext": "与启蒙运动和逻辑学发展相关，如亚里士多德和康德的哲学传统，在现代则与分析哲学相连。",
+    "modernUsage": "在社交媒体和在线教育中，'entailment' 趋势于AI和NLP领域讨论，但需注意跨文化理解，避免在非西方语境中造成误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个链条从一个前提延伸到结论的场景，代表必然的逻辑连接。",
+      "keyElements": [
+        "链条",
+        "前提",
+        "结论"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆学校逻辑课的挫败感，以激发动机学习"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Entailment 像 'entail a tail'，想象一条尾巴（tail）将事物连在一起。",
+        "explanation": "通过视觉联想强化记忆，基于认知联想原理连接新词与熟悉图像"
+      },
+      {
+        "type": "缩略",
+        "content": "E-N-T-A-I-L-M-E-N-T 代表 'Every Necessary Truth Always Implies Logical Meaning Every New Time'。",
+        "explanation": "使用首字母缩略法创建故事，运用叙事记忆技巧提升保留率"
+      }
+    ],
+    "wordAssociations": [
+      "implication",
+      "deduction",
+      "consequence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "entailments",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词，通常出现在主语或宾语位置，表示抽象概念。",
+        "examples": [
+          "The entailment is clear."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "常与 'of' 或 'in' 搭配，用于指定语境。",
+        "examples": [
+          "Entailment of the argument."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'entitlement'",
+        "correction": "Use 'entailment' for logical implication",
+        "explanation": "二者发音相似，但语义不同；通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "英语名词规则化复数形式，确保在学术写作中正确使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "academia",
+      "law",
+      "philosophy",
+      "technology"
+    ],
+    "tags": [
+      "logic",
+      "deduction",
+      "implication",
+      "semantics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

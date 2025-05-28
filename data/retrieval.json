@@ -1,0 +1,251 @@
+{
+  "word": "retrieval",
+  "phonetics": {
+    "british": "/rɪˈtriːvəl/",
+    "american": "/rɪˈtriːvəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of getting something back, especially data or information from a storage system.",
+      "chineseTranslation": "检索；取回",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The recovery of something lost or forgotten, often in a psychological or computational context.",
+      "chineseTranslation": "恢复；找回",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data retrieval",
+      "meaning": "数据检索过程",
+      "example": "Efficient data retrieval is essential for modern databases.",
+      "exampleTranslation": "高效的数据检索对于现代数据库至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "information retrieval",
+      "meaning": "信息检索技术",
+      "example": "Search engines rely on advanced information retrieval algorithms.",
+      "exampleTranslation": "搜索引擎依赖于先进的信息检索算法。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "memory retrieval",
+      "meaning": "记忆取回过程",
+      "example": "Memory retrieval can be influenced by emotional states.",
+      "exampleTranslation": "记忆取回可能受情绪状态的影响。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The retrieval of archived files took longer than expected due to system errors.",
+      "translation": "存档文件的检索花费了比预期更长的时间，因为系统出错。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In psychology, retrieval is the process by which information is brought back into consciousness.",
+      "translation": "在心理学中，检索是将信息带回意识的过程。",
+      "source": "Academic text (e.g., from psychology journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Quick retrieval of customer data helped the company resolve the issue promptly.",
+      "translation": "快速检索客户数据帮助公司及时解决了问题。",
+      "source": "Business news (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语",
+    "rootWords": [
+      {
+        "root": "retrahere",
+        "meaning": "拉回或取回",
+        "language": "Latin"
+      },
+      {
+        "root": "retrouver",
+        "meaning": "找到或恢复",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "该词起源于拉丁语 'retrahere'，意为拉回或取回，經由古法语 'retrouver' 演变为中古英语，最初用于指物體的找回，17世纪起扩展到抽象概念如信息恢复，在20世纪计算机时代广泛用于数据处理领域。",
+    "firstKnownUse": "约1600年",
+    "relatedWords": [
+      "retrieve",
+      "retrievalist"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过分块学习法（chunking）将 'retrieval' 与实际场景关联，如想象从电脑中提取文件；使用间隔重复系统（spaced repetition）强化记忆，避免混淆类似词汇；针对中文母语学习者，强调音节分解以改善发音。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "recovery",
+        "similarity": "0.8",
+        "context": "在数据或心理语境中适用，例如信息恢复场景"
+      },
+      {
+        "word": "recuperation",
+        "similarity": "0.7",
+        "context": "更正式的语境中用于恢复过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "loss",
+        "context": "与丢失或无法取回的语境相对"
+      },
+      {
+        "word": "forgetting",
+        "context": "在记忆相关语境中，表示无法检索信息"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "recovery"
+    ],
+    "hyponyms": [
+      "data retrieval",
+      "memory retrieval"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + retrieval (e.g., data retrieval)",
+        "examples": [
+          "data retrieval",
+          "information retrieval"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Retrieval + of + noun (e.g., retrieval of data)",
+        "examples": [
+          "retrieval of archived files"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征技术进步和信息时代的管理，常隐含对效率和访问权的重视，但在跨文化语境中，中国文化可能更强调集体记忆而非个人检索。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如AI和大数据",
+        "usage": "在美国英语中，'retrieval' 在商业和技术讨论中频繁出现，体现快速信息获取的文化"
+      },
+      {
+        "region": "英国",
+        "variation": "语调更正式，常用于学术语境",
+        "usage": "在英国英语中，可能与历史档案检索相关，强调传统知识的保存"
+      }
+    ],
+    "historicalContext": "与工业革命和数字革命相关，19世纪起用于图书馆和档案管理，20世纪后与计算机科学结合，反映西方对知识存储和访问的重视。",
+    "modernUsage": "在现代社交媒体和AI语境下流行，如搜索引擎算法，体现全球数字文化的快速传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人从巨大的文件柜中取出文件的过程",
+      "keyElements": [
+        "机器人",
+        "文件柜",
+        "取出动作"
+      ],
+      "emotionalConnection": "联结个人经验，如找回丢失的手机，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'retrieval' 联想为 're-TREE-val'，想象重新种植一棵树（re-tree）来代表取回",
+        "explanation": "通过视觉联想帮助记忆词根，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /rɪˈtriːvəl/ 听起来像 'retrieve a ball'，想象扔球然后捡回",
+        "explanation": "利用声音和动作的联结，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "retrieve",
+      "recover",
+      "fetch"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "retrievals",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + retrieval",
+        "description": "主语+动词+retrieval 结构，常用于描述过程",
+        "examples": [
+          "The system supports retrieval of data."
+        ]
+      },
+      {
+        "pattern": "Retrieval of + noun",
+        "description": "retrieval of + 名词 结构，表示具体取回对象",
+        "examples": [
+          "Retrieval of information is crucial."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'retrial' (a legal term)",
+        "correction": "Use 'retrieval' for data or memory contexts",
+        "explanation": "两者拼写相似，但语义不同；学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'retrievals' in formal writing",
+        "correction": "Always use 'retrievals' for plural forms",
+        "explanation": "作为可数名词，需正确添加 -s，但在某些技术语境中可能省略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约 5000 以内",
+    "domains": [
+      "科技",
+      "计算机",
+      "心理学",
+      "商业"
+    ],
+    "tags": [
+      "技术术语",
+      "信息处理",
+      "认知科学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

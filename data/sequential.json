@@ -1,0 +1,247 @@
+{
+  "word": "sequential",
+  "phonetics": {
+    "british": "/sɪˈkwɛnʃəl/",
+    "american": "/sɪˈkwɛnʃəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Arranged in or following a logical order or sequence; one after another in a series.",
+      "chineseTranslation": "顺序的；连续的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or operating in a sequence, especially in computing or processes.",
+      "chineseTranslation": "依序的；序列化的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sequential order",
+      "meaning": "顺序排列",
+      "example": "The books are arranged in sequential order on the shelf.",
+      "exampleTranslation": "这些书按顺序排列在书架上。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sequential processing",
+      "meaning": "顺序处理",
+      "example": "In computing, sequential processing handles tasks one at a time.",
+      "exampleTranslation": "在计算机中，顺序处理一次处理一个任务。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sequential events",
+      "meaning": "连续事件",
+      "example": "The story unfolds through a series of sequential events.",
+      "exampleTranslation": "故事通过一系列连续事件展开。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The teacher explained the concept using sequential steps to make it easier for students.",
+      "translation": "老师使用顺序步骤解释这个概念，让学生更容易理解。",
+      "source": "Educational text (e.g., from academic corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a sequential file system, data is stored and accessed in a linear fashion.",
+      "translation": "在顺序文件系统中，数据以线性方式存储和访问。",
+      "source": "Technical article (e.g., from computer science literature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The film's plot follows sequential flashbacks to reveal the protagonist's past.",
+      "translation": "这部电影的情节通过顺序的闪回揭示主角的过去。",
+      "source": "Literary analysis (e.g., from film reviews in BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sequ-",
+        "meaning": "to follow",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'sequi'（跟随），演变为古法语 'sequentiel'，然后进入中世纪英语，最终在18世纪标准化为现代英语 'sequential'，最初用于描述逻辑序列，随着工业革命扩展到技术领域。",
+    "firstKnownUse": "1804",
+    "relatedWords": [
+      "sequence",
+      "sequel",
+      "sequent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人经验联想，例如想象一个有序的队列来记忆 'sequential' 的顺序含义；使用间隔重复法（spaced repetition）强化记忆，以避免混淆相似的词汇如 'consecutive'；结合视觉辅助工具，如流程图，帮助中级学习者构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "consecutive",
+        "similarity": "0.8",
+        "context": "适用于描述时间或事件连续的语境，例如在叙述故事时"
+      },
+      {
+        "word": "successive",
+        "similarity": "0.7",
+        "context": "适用于正式场合描述一系列后续事件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "random",
+        "context": "适用于非顺序或无序的语境，例如数据处理中"
+      },
+      {
+        "word": "disordered",
+        "context": "适用于混乱或非序列化的语境，例如组织结构中"
+      }
+    ],
+    "hypernyms": [
+      "ordered"
+    ],
+    "hyponyms": [
+      "chronological",
+      "linear"
+    ],
+    "collocations": [
+      {
+        "pattern": "sequential + noun (e.g., sequential data)",
+        "examples": [
+          "sequential access",
+          "sequential logic"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + sequential + manner",
+        "examples": [
+          "in a sequential manner"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征逻辑和有序，常用于教育、科技领域，体现理性主义传统，例如在英语文学中代表叙事结构的严谨。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，常见于计算机科学，强调高效处理"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于学术和历史语境",
+        "usage": "在英国英语中，可能与文学叙述相关，强调顺序逻辑"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，反映了西方对系统化和顺序化的强调，例如在狄更斯的小说中用于描述社会事件序列。",
+    "modernUsage": "在现代社交媒体和数字时代，常见于在线教育和AI讨论中，体现快速信息处理的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个有序的队列，如人在排队等待，代表词汇的顺序含义。",
+      "keyElements": [
+        "队列",
+        "步骤",
+        "序列"
+      ],
+      "emotionalConnection": "联结到日常生活经验，如等待公交车，触发积极的有序感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'sequential' 联想为 'sequence' + 'al'，想象一个跟随的序列链。",
+        "explanation": "通过词根联想强化词汇结构，利用认知科学中的双编码理论（dual coding），结合视觉和语义记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "SEQ = Sequential Queue",
+        "explanation": "使用首字母缩写创建简易记忆钩子，促进海马体中的长期记忆形成"
+      }
+    ],
+    "wordAssociations": [
+      "sequence",
+      "order",
+      "chain",
+      "follow"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "more sequential",
+      "superlative": "most sequential"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + sequential",
+        "description": "用于描述主语的特性",
+        "examples": [
+          "The process is sequential."
+        ]
+      },
+      {
+        "pattern": "In a sequential manner",
+        "description": "用于表示方式",
+        "examples": [
+          "They performed the tasks in a sequential manner."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'consecutive'",
+        "correction": "Use 'sequential' for logical order, 'consecutive' for time-based succession",
+        "explanation": "中级学习者常混淆语义差异，导致语境错误；建议通过语料分析区分"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more sequential' instead of '*sequentialer'",
+        "explanation": "作为多音节形容词，不使用-er形式；参考英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "adjective",
+      "order",
+      "sequence",
+      "logic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "word": "domain",
+  "phonetics": {
+    "british": "/dəˈmeɪn/",
+    "american": "/doʊˈmeɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An area of territory owned or controlled by a particular ruler or government.",
+      "chineseTranslation": "领土或领域",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sphere of activity or knowledge; a field of interest or expertise.",
+      "chineseTranslation": "活动或知识的领域",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a distinct subset of the internet or a network that is identified by a unique name.",
+      "chineseTranslation": "在计算机中，指域名或网络子集",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A range of values or set of elements in mathematics or logic.",
+      "chineseTranslation": "在数学或逻辑中，指值的范围或元素集",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "public domain",
+      "meaning": "公共领域，指不受版权保护的公共财产",
+      "example": "This image is in the public domain and can be used freely.",
+      "exampleTranslation": "这张图片处于公共领域，可以自由使用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "domain name",
+      "meaning": "域名，指互联网地址的标识",
+      "example": "You need to register a domain name for your website.",
+      "exampleTranslation": "你需要为你的网站注册一个域名。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in the domain of",
+      "meaning": "在……领域中",
+      "example": "This topic falls in the domain of psychology.",
+      "exampleTranslation": "这个话题属于心理学领域。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The king ruled over a vast domain in medieval Europe.",
+      "translation": "国王在中世纪欧洲统治着一个广阔的领土。",
+      "source": "Historical literature, e.g., from chronicles",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her expertise lies in the domain of artificial intelligence.",
+      "translation": "她的专长在于人工智能领域。",
+      "source": "Academic articles, e.g., from journals",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The website's domain was registered last year.",
+      "translation": "这个网站的域名是去年注册的。",
+      "source": "News articles, e.g., from tech media",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In mathematics, the domain of a function defines its input values.",
+      "translation": "在数学中，一个函数的定义域定义了其输入值。",
+      "source": "Educational texts, e.g., textbooks",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dominus",
+        "meaning": "lord or master",
+        "language": "Latin"
+      },
+      {
+        "root": "dominium",
+        "meaning": "ownership or possession",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'dominus'（意为主人或领主），演变为 'dominium'（意为所有权），在中世纪传入英语，指领土或控制区域；17世纪扩展到抽象领域如知识范围；20世纪在计算机领域用于表示网络子集。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "dominion",
+      "dominant",
+      "dominate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'domain' 的不同含义分组记忆，例如先记忆地理含义再扩展到技术语境；使用心智图将词汇与个人经验关联，如将域名与日常上网体验连接，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "field",
+        "similarity": "0.8",
+        "context": "适用于学术或专业领域，例如 'field of study' 与 'domain of expertise' 类似"
+      },
+      {
+        "word": "realm",
+        "similarity": "0.7",
+        "context": "适用于抽象或幻想语境，例如 'realm of fantasy' 与 'domain of imagination'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subdomain",
+        "context": "适用于计算机语境，其中 'subdomain' 是 'domain' 的子集，表示更小的范围"
+      },
+      {
+        "word": "periphery",
+        "context": "适用于地理或抽象语境，表示边缘而非核心领域"
+      }
+    ],
+    "hypernyms": [
+      "area",
+      "sphere"
+    ],
+    "hyponyms": [
+      "internet domain",
+      "knowledge domain"
+    ],
+    "collocations": [
+      {
+        "pattern": "domain + of + noun",
+        "examples": [
+          "domain of science"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + domain",
+        "examples": [
+          "public domain"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征所有权和控制，如在历史语境中代表君主领土；在现代数字文化中，代表互联网身份和全球连接。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式或历史语境",
+        "usage": "在英国英语中，常与历史或法律相关，如 'Crown domain'"
+      },
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境",
+        "usage": "在美国英语中，强调商业应用，如 'domain registration for businesses'"
+      }
+    ],
+    "historicalContext": "与封建制度和殖民主义相关，例如在英国文学中如莎士比亚作品中出现，象征权力；在当代，关联到互联网时代的信息自由运动。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论在线隐私和全球网络，例如在Twitter或Reddit上的讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个国王守卫着一个巨大的领土地图，地图上标记着各种领域如科学和技术区。",
+      "keyElements": [
+        "国王",
+        "地图",
+        "领域标志"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆自己注册域名时的兴奋，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Domain 像 'do main'，意思是 '做主' 或控制主要区域。",
+        "explanation": "通过声音联想帮助记忆其控制或所有权的含义，基于认知联想原则"
+      },
+      {
+        "type": "缩略",
+        "content": "D-O-M-A-I-N: Dominates Ownership, Maps Areas In Networks.",
+        "explanation": "使用首字母缩写创建故事，增强词汇保留"
+      }
+    ],
+    "wordAssociations": [
+      "territory",
+      "field",
+      "website"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "domains",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with prepositional phrase",
+        "description": "名词短语常与介词短语结合，如 'in the domain of'",
+        "examples": [
+          "This is in the domain of ethics."
+        ]
+      },
+      {
+        "pattern": "As subject in a sentence",
+        "description": "作为句子的主语",
+        "examples": [
+          "The domain includes several countries."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'domain' with 'dominion'",
+        "correction": "Use 'domain' for general areas and 'dominion' for sovereign control",
+        "explanation": "两者虽相关，但 'domain' 更中性，而 'dominion' 强调权威"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Use 'domain of' instead of 'domain in'",
+        "explanation": "在某些语境中，'domain of' 是标准搭配"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Geography",
+      "Academics",
+      "Business"
+    ],
+    "tags": [
+      "Computing",
+      "Territory",
+      "Expertise",
+      "Internet"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

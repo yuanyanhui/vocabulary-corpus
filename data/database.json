@@ -1,0 +1,241 @@
+{
+  "word": "database",
+  "phonetics": {
+    "british": "/ˈdeɪtəbeɪs/",
+    "american": "/ˈdeɪtəˌbeɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A structured set of data held in a computer, especially one that is accessible in various ways.",
+      "chineseTranslation": "数据库",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put data into a database.",
+      "chineseTranslation": "将数据存入数据库",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "database management",
+      "meaning": "数据库管理",
+      "example": "Effective database management is essential for large-scale enterprises.",
+      "exampleTranslation": "有效的数据库管理对大型企业至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "relational database",
+      "meaning": "关系型数据库",
+      "example": "A relational database uses tables to store and organize data.",
+      "exampleTranslation": "关系型数据库使用表格来存储和组织数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company stores all customer information in a secure database.",
+      "translation": "公司将所有客户信息存储在一个安全的数据库中。",
+      "source": "Business news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers queried the database to analyze trends in climate data.",
+      "translation": "研究人员查询数据库以分析气候数据趋势。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday use, people interact with databases when shopping online.",
+      "translation": "在日常生活中，人们在网上购物时会与数据库互动。",
+      "source": "General media",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "data",
+        "meaning": "Facts or information",
+        "language": "Latin (from 'datum', meaning 'given')"
+      },
+      {
+        "root": "base",
+        "meaning": "Foundation or basis",
+        "language": "Old French (from Latin 'basis')"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪60年代的计算机科学领域，源自'data'（数据）和'base'（基础）的结合，最初用于描述结构化数据存储系统。从词源到现代，该词的含义从简单的记录系统演变为复杂的数字存储和检索机制，反映了信息技术的发展。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "databank",
+      "database management system",
+      "datastore"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 6,
+    "usageComplexity": 7,
+    "learningTips": [
+      "结合认知科学建议：使用分块记忆法（chunking）将'database'与实际应用场景关联，如想象一个文件柜存储数据；重复暴露法（spaced repetition）通过App复习相关术语，以加强长期记忆；避免混淆，建议与同音词进行对比练习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "datastore",
+        "similarity": 0.85,
+        "context": "在技术语境中，常用于描述类似存储系统的场景，例如云计算环境中"
+      },
+      {
+        "word": "repository",
+        "similarity": 0.7,
+        "context": "在软件开发语境中，指数据存储库，但强调更广泛的存储功能"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cache",
+        "context": "在技术语境中，'cache'表示临时存储，而'database'表示永久存储，因此适用于对比数据持久性场景"
+      }
+    ],
+    "hypernyms": [
+      "system",
+      "storage"
+    ],
+    "hyponyms": [
+      "relational database",
+      "NoSQL database",
+      "object-oriented database"
+    ],
+    "collocations": [
+      {
+        "pattern": "manage a database",
+        "examples": [
+          "She manages the database for the research team."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "query a database",
+        "examples": [
+          "Users can query the database using SQL commands."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代数字文化中象征信息存储和访问的革命，隐含语义涉及数据隐私和信息时代挑战，常与全球化和技术进步相关。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在美国英语中，常与创新和技术创业相关联，如硅谷文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "表达方式类似，但更强调正式术语",
+        "usage": "在英国英语中，可能在学术和政府语境中使用，以突出数据保护法规如GDPR"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命和互联网发展相关，该词反映了从机械记录到数字存储的转变，在文学和社会评论中（如乔治·奥威尔的《1984》）象征监控和信息控制。",
+    "modernUsage": "在社交媒体和数字平台上，该词的趋势显示为数据隐私辩论的焦点，如TikTok或Twitter上的讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的地下文件柜，里面存放着成千上万的标签化文件。",
+      "keyElements": [
+        "文件柜",
+        "标签",
+        "数据文件"
+      ],
+      "emotionalConnection": "联结到个人经验，如回忆整理照片的经历，以触发熟悉感和积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'data base' as a 'base' for 'data' soldiers in an army.",
+        "explanation": "通过视觉联想将抽象概念转化为生动图像，帮助强化记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "DB for Database, link to 'Double Base' like a strong foundation.",
+        "explanation": "利用首字母缩写结合比喻，基于认知关联原理提升回忆效率"
+      }
+    ],
+    "wordAssociations": [
+      "data",
+      "storage",
+      "information",
+      "system"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "databases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "作为句子的主语，常用于描述系统或工具",
+        "examples": [
+          "The database contains millions of records."
+        ]
+      },
+      {
+        "pattern": "Verb object",
+        "description": "当用作动词时，常后接对象，如'database the information'",
+        "examples": [
+          "They database all new entries daily."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'data base' as two words",
+        "correction": "Use as one word: 'database'",
+        "explanation": "在现代英语中，它是一个合成词；错误源于历史用法"
+      },
+      {
+        "mistake": "Misusing in plural form",
+        "correction": "databases (not databasis)",
+        "explanation": "学习者常受其他词汇影响而错误拼写"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "business",
+      "computing"
+    ],
+    "tags": [
+      "information technology",
+      "data management",
+      "digital storage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

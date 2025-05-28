@@ -1,0 +1,277 @@
+{
+  "word": "scrub",
+  "phonetics": {
+    "british": "/skrʌb/",
+    "american": "/skrʌb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To clean something by rubbing it hard with a brush and soap, often to remove dirt or stains.",
+      "chineseTranslation": "擦洗；刷洗",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To cancel or delete data, especially in computing or digital contexts.",
+      "chineseTranslation": "删除；清除",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Low-growing trees or shrubs, often in areas where larger vegetation cannot grow.",
+      "chineseTranslation": "灌木丛；矮树林",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who performs menial tasks, or in medical contexts, the act of cleaning before surgery.",
+      "chineseTranslation": "杂务工人；（医学术语）手术前洗刷",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scrub the floor",
+      "meaning": "擦洗地板",
+      "example": "She had to scrub the floor after the party to remove the spills.",
+      "exampleTranslation": "派对结束后，她不得不擦洗地板以清除污渍。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "scrub brush",
+      "meaning": "用于擦洗的刷子",
+      "example": "Use a scrub brush to clean the stubborn stains on the tiles.",
+      "exampleTranslation": "用擦洗刷清除瓷砖上顽固的污渍。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "scrub data",
+      "meaning": "删除或清除数据",
+      "example": "The technician will scrub data from the old hard drive before disposal.",
+      "exampleTranslation": "技术员会在丢弃旧硬盘前删除数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to scrub the bathtub; it's covered in grime.",
+      "translation": "我需要擦洗浴缸；它布满污垢。",
+      "source": "Everyday conversation (e.g., from domestic contexts in corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In computing, you can scrub sensitive information to prevent data breaches.",
+      "translation": "在计算机领域，你可以删除敏感信息以防止数据泄露。",
+      "source": "Technical article (e.g., from online tech sources in COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The hikers trudged through the dense scrub to reach the mountain peak.",
+      "translation": "徒步者们穿过茂密的灌木丛到达山顶。",
+      "source": "Literature (e.g., adventure novels in BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Surgeons must scrub thoroughly before entering the operating room.",
+      "translation": "外科医生必须彻底洗刷双手才能进入手术室。",
+      "source": "Medical texts (e.g., from professional journals in PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "scrubben",
+        "meaning": "to rub hard",
+        "language": "Middle Dutch (schrobben)"
+      },
+      {
+        "root": "scrob",
+        "meaning": "a shrub or low vegetation",
+        "language": "Old English or Scandinavian influences"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语 'scrubben'，最初指用力摩擦或擦洗，可能是从中古荷兰语 'schrobben' 借入，逐渐扩展到表示低矮植被或清除动作。从14世纪开始用于物理清洁，17世纪后扩展到比喻性或技术性用法，如在医学和计算中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "scrubby",
+      "scrubland",
+      "scrubber"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆多义词；将 'scrub' 与日常生活场景（如清洁活动）关联，以加强语境记忆；对于中国学习者，建议通过视觉化将英文发音 '/skrʌb/' 与汉字 '擦洗' 的动作图像结合，以减少混淆其他同音词的风险。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "clean",
+        "similarity": "0.8",
+        "context": "在清洁上下文中使用，如 'scrub' 和 'clean' 均可表示擦洗物体"
+      },
+      {
+        "word": "erase",
+        "similarity": "0.7",
+        "context": "在数据删除上下文中使用，如 'scrub data' 与 'erase data' 类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dirty",
+        "context": "在清洁上下文中使用，表示使物体变脏的反义"
+      },
+      {
+        "word": "preserve",
+        "context": "在数据上下文中使用，表示保留数据而非删除"
+      }
+    ],
+    "hypernyms": [
+      "clean",
+      "remove"
+    ],
+    "hyponyms": [
+      "scrub down",
+      "deep clean"
+    ],
+    "collocations": [
+      {
+        "pattern": "scrub + object (e.g., scrub the surface)",
+        "examples": [
+          "scrub the dishes",
+          "scrub the deck"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "scrub + adverb (e.g., scrub thoroughly)",
+        "examples": [
+          "scrub carefully",
+          "scrub quickly"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征日常劳动和清洁，通常隐含勤奋或基础维护的含义；在现代社会，可能与环保或卫生运动相关，如 'scrub' 在医疗文化中强调无菌操作。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于技术语境，如数据安全",
+        "usage": "例如，在美国科技行业，'scrub data' 频繁出现，以反映数字时代的隐私担忧"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中更侧重于物理清洁或自然环境",
+        "usage": "如在乡村描述中，'scrub' 常指荒地植被"
+      }
+    ],
+    "historicalContext": "与工业革命时期的清洁习惯相关，在文学如狄更斯作品中出现，象征社会底层劳动；在当代，关联到全球卫生标准，如COVID-19疫情中的手部清洁。",
+    "modernUsage": "在社交媒体和在线平台上，'scrub' 常用于非正式讨论，如TikTok上的清洁教程或Twitter上的数据隐私话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人拿着刷子在厨房用力擦洗地板，周围有肥皂泡和水渍。",
+      "keyElements": [
+        "刷子",
+        "肥皂泡",
+        "擦洗动作"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年帮助父母清洁家务，以触发积极回忆和情感强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'scrub' 联想为 'scrub-a-dub' (像儿歌中的声音)，表示擦洗动作",
+        "explanation": "通过声音联觉和儿歌记忆，帮助中国学习者快速回想发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-R-U-B: Scrub Cleans Rubbed Unclean Bits",
+        "explanation": "使用首字母缩略法结合认知科学中的分块记忆法，简化多义词的学习"
+      }
+    ],
+    "wordAssociations": [
+      "brush",
+      "cleanse",
+      "wipe",
+      "erase"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "scrubbed",
+      "pastParticiple": "scrubbed",
+      "presentParticiple": "scrubbing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句或描述性句子",
+        "examples": [
+          "I scrub the pot every day."
+        ]
+      },
+      {
+        "pattern": "Verb + adverb",
+        "description": "动词 + 副词结构，强调方式",
+        "examples": [
+          "Scrub thoroughly to remove all dirt."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'scrub' as a noun without context",
+        "correction": "Specify the context, e.g., 'scrub the floor' vs. 'the scrub in the forest'",
+        "explanation": "中国学习者常混淆名词和动词用法，导致语义模糊；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense formation",
+        "correction": "Use 'scrubbed' for past tense",
+        "explanation": "由于 'scrub' 是规则动词，中国学习者可能忘记添加 -ed 后缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "domestic",
+      "technology",
+      "medical",
+      "environmental"
+    ],
+    "tags": [
+      "cleaning",
+      "removal",
+      "vegetation",
+      "digital security"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "word": "radian",
+  "phonetics": {
+    "british": "/ˈreɪ.di.ən/",
+    "american": "/ˈreɪ.di.ən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of angular measure equal to the angle subtended at the center of a circle by an arc that is equal in length to the radius.",
+      "chineseTranslation": "弧度",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "radian measure",
+      "meaning": "弧度测量",
+      "example": "In physics, radian measure is essential for understanding rotational motion.",
+      "exampleTranslation": "在物理学中，弧度测量对于理解旋转运动至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in radians",
+      "meaning": "以弧度为单位",
+      "example": "Trigonometric functions are often calculated in radians.",
+      "exampleTranslation": "三角函数通常以弧度计算。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The angle of the sector is exactly one radian.",
+      "translation": "这个扇区的角度正好是一个弧度。",
+      "source": "Mathematics textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In advanced calculus, we convert degrees to radians for precise calculations.",
+      "translation": "在高等微积分中，我们将度数转换为弧度以进行精确计算。",
+      "source": "Academic lecture",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers use radians to design circular paths in robotics.",
+      "translation": "工程师们使用弧度来设计机器人中的圆形路径。",
+      "source": "Engineering report",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "radius",
+        "meaning": "ray or spoke",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'radius'，意为射线或辐条。18世纪引入数学中，用来描述圆周上弧长等于半径的角，逐渐演变为现代角度测量单位，以标准化科学计算。",
+    "firstKnownUse": "1714",
+    "relatedWords": [
+      "radius",
+      "radianal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉辅助如绘图圆来关联概念；将弧度与实际物理应用联系，以强化长期记忆；根据认知科学，重复练习并结合个人经验，如回想数学课上的圆周率计算。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rad",
+        "similarity": "0.9",
+        "context": "在非正式的数学讨论中，常用于缩写形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "degree",
+        "context": "在角度测量中，度表示基于360等分的圆，而弧度基于圆周和半径"
+      }
+    ],
+    "hypernyms": [
+      "unit of angle"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "measure in radians",
+        "examples": [
+          "Angles are measured in radians for trigonometric functions."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "convert to radians",
+        "examples": [
+          "We need to convert degrees to radians."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术社区中象征精确性和标准化，与启蒙运动时代理性主义相呼应，在全球教育中促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "Global",
+        "variation": "无显著差异",
+        "usage": "在英语国家中普遍使用于教育和专业领域，强调国际标准如SI单位"
+      },
+      {
+        "region": "United Kingdom and United States",
+        "variation": "在英国和美国，教学中可能强调其在牛顿物理学中的历史，但使用一致",
+        "usage": "在学术语境中常与度混合使用，以适应不同文化背景的学习者"
+      }
+    ],
+    "historicalContext": "与18世纪启蒙运动相关，特别是在牛顿和莱布尼茨的数学发展中，体现了西方科学革命对测量系统的贡献。",
+    "modernUsage": "在现代社交媒体和数字平台上，常用于编程语言如Python中的数学函数，反映科技全球化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个圆，其中弧长等于半径的弧所对应的角度。",
+      "keyElements": [
+        "圆",
+        "弧",
+        "半径"
+      ],
+      "emotionalConnection": "联结到个人经历，如学校数学课上的圆周率计算，以激发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Radian 听起来像 'ray'，而 'ray' 来自 'radius'，想象射线从圆心延伸。",
+        "explanation": "通过词根联想增强记忆，根据认知科学原理，利用视觉和语义关联改善保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'R for Radius Angle' 作为记忆提示。",
+        "explanation": "简化形式帮助快速回忆，基于重复曝光和分块编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "angle",
+      "circle",
+      "pi"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "radians",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + radian",
+        "description": "作为名词使用在句子中，表示角度单位",
+        "examples": [
+          "One radian equals approximately 57 degrees."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with radian",
+        "description": "与介词搭配，如 'in radians'",
+        "examples": [
+          "Calculate the angle in radians."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing radian with degree",
+        "correction": "Use radian for circular measurements based on radius",
+        "explanation": "许多学习者混淆单位，导致计算错误；通过比较示例加深理解。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'radians' for plural forms",
+        "explanation": "英语名词规则简单，但初学者可能遗忘复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; ranked around 15,000 in COCA corpus for STEM domains",
+    "domains": [
+      "Science",
+      "Mathematics",
+      "Engineering"
+    ],
+    "tags": [
+      "Mathematics",
+      "Unit",
+      "Angle",
+      "Measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "word": "hyperbola",
+  "phonetics": {
+    "british": "/haɪˈpɜːbələ/",
+    "american": "/haɪˈpɝbələ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A plane curve formed by the intersection of a plane with both halves of a double cone, such that the plane does not intersect the base of the cone and is not parallel to the slant height.",
+      "chineseTranslation": "双曲线，一种由平面与双锥相交形成的曲线",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rectangular hyperbola",
+      "meaning": "矩形双曲线，指一种特定类型的双曲线，其渐近线相互垂直",
+      "example": "A rectangular hyperbola is often used in physics to model inverse square laws.",
+      "exampleTranslation": "矩形双曲线常用于物理学中建模平方反比定律。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "asymptotes of a hyperbola",
+      "meaning": "双曲线的渐近线，指双曲线逼近但永不触及的直线",
+      "example": "The asymptotes of a hyperbola help in understanding its behavior at infinity.",
+      "exampleTranslation": "双曲线的渐近线有助于理解其在无穷远处的行为。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The graph of the equation x²/4 - y²/9 = 1 represents a hyperbola.",
+      "translation": "方程 x²/4 - y²/9 = 1 的图形代表一个双曲线。",
+      "source": "Mathematical textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In astronomy, the path of a comet can sometimes be described as a hyperbola.",
+      "translation": "在天文学中，彗星的轨道有时可以被描述为双曲线。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers use hyperbolas in designing certain types of bridges and antennas.",
+      "translation": "工程师在设计某些类型的桥梁和天线时使用双曲线。",
+      "source": "Engineering journal",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "hyper-",
+        "meaning": "over or beyond",
+        "language": "Greek"
+      },
+      {
+        "root": "bolē",
+        "meaning": "throw",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词汇 'hyperbolē'，最初指修辞学中的夸张手法，意为 '过度投射'。在数学中，由阿波罗尼奥斯在公元前3世纪引入，用于描述几何形状的 '过度' 曲线形态。从17世纪开始，在英语中被用于现代数学语境，演变为表示特定锥面截线的术语。",
+    "firstKnownUse": "1668",
+    "relatedWords": [
+      "hyperbole"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将双曲线的视觉图形与个人经验（如抛物线对比）结合；通过重复练习数学公式来强化记忆路径；建议初级学习者从简单图形入手，逐步增加抽象概念的关联，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "conic section",
+        "similarity": "0.7",
+        "context": "在数学背景下，指更广泛的曲线类型，但不完全相同"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ellipse",
+        "context": "在几何学中，表示封闭曲线，而双曲线是开放的"
+      }
+    ],
+    "hypernyms": [
+      "conic section"
+    ],
+    "hyponyms": [
+      "rectangular hyperbola"
+    ],
+    "collocations": [
+      {
+        "pattern": "hyperbola with asymptotes",
+        "examples": [
+          "The hyperbola with asymptotes x=2 and y=3"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "equation of a hyperbola",
+        "examples": [
+          "The standard equation of a hyperbola is x²/a² - y²/b² = 1"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征数学和科学领域的精确性，常与古希腊理性主义相关联；在东方文化如中国，类似概念可能与传统几何学（如周髀算经）相联系，但无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和物理应用",
+        "usage": "在美国英语中，强调实际应用，如卫星轨道"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于纯数学理论",
+        "usage": "在英国英语中，常在学术讨论中出现"
+      }
+    ],
+    "historicalContext": "与古希腊数学家如阿波罗尼奥斯相关联，体现了古典时代对几何学的追求；在现代，出现在科学革命时期，如牛顿的著作中。",
+    "modernUsage": "在社交媒体和教育平台上，常见于在线课程和科普视频，常用于解释复杂科学概念。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个双锥体被一个倾斜平面切割，形成两个无限延伸的曲线分支。",
+      "keyElements": [
+        "双锥体",
+        "倾斜平面",
+        "无限延伸"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看科幻电影中星际轨道的场景，以激发好奇心和视觉记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Hyperbola sounds like 'hyperbole', which means exaggeration; think of it as a curve that 'exaggerates' and goes on forever.",
+        "explanation": "通过声音联想强化词汇记忆，利用认知科学中的语音激活来连接数学概念与日常语言"
+      },
+      {
+        "type": "缩略",
+        "content": "H for Hyperbola, like two H's stretching out infinitely.",
+        "explanation": "使用视觉缩略法帮助初学者快速回忆图形特征"
+      }
+    ],
+    "wordAssociations": [
+      "ellipse",
+      "parabola",
+      "conic"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hyperbolas",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + hyperbola",
+        "description": "作为主语或宾语出现在句子中",
+        "examples": [
+          "A hyperbola describes the path."
+        ]
+      },
+      {
+        "pattern": "The [adjective] hyperbola",
+        "description": "与形容词搭配描述特定类型",
+        "examples": [
+          "The rectangular hyperbola is useful in physics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing hyperbola with hyperbole",
+        "correction": "Use hyperbola for the mathematical term and hyperbole for the rhetorical device",
+        "explanation": "两者发音相似，但语义不同；学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrectly pluralizing as hyperbolae",
+        "correction": "Use hyperbolas in modern English",
+        "explanation": "虽然 hyperbolae 是历史形式，但在当代英语中已不常见"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "mathematics",
+      "physics",
+      "engineering"
+    ],
+    "tags": [
+      "geometry",
+      "conic sections",
+      "mathematical terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

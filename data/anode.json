@@ -1,0 +1,199 @@
+{
+  "word": "anode",
+  "phonetics": {
+    "british": "/ˈænəʊd/",
+    "american": "/ˈænoʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The electrode in an electrochemical cell or electronic device from which electrons leave the system and flow into the external circuit; typically the positively charged terminal.",
+      "chineseTranslation": "阳极",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "anode ray",
+      "meaning": "阳极射线",
+      "example": "In early experiments, anode rays were observed in cathode ray tubes.",
+      "exampleTranslation": "在早期的实验中，阳极射线在阴极射线管中被观察到。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "anode material",
+      "meaning": "阳极材料",
+      "example": "The efficiency of the battery depends on the quality of the anode material.",
+      "exampleTranslation": "电池的效率取决于阳极材料的质量。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a typical battery, the anode is where oxidation occurs.",
+      "translation": "在典型的电池中，杨极是氧化发生的地方。",
+      "source": "Scientific literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During electrolysis, the anode attracts negatively charged ions.",
+      "translation": "在电解过程中，杨极吸引带负电荷的离子。",
+      "source": "Educational texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must select the right anode for optimal device performance.",
+      "translation": "工程师必须选择合适的阳极以获得最佳的设备性能。",
+      "source": "Technical reports",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "ana-",
+        "meaning": "up or upward",
+        "language": "Greek"
+      },
+      {
+        "root": "hodos",
+        "meaning": "way or path",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'anodos'，意为 'upward way'，最初用于描述电化学过程中的正极。在19世纪初，随着迈克尔·法拉第等科学家的研究，该词演变为现代科学术语，用于表示电子流出的电极。",
+    "firstKnownUse": "1834",
+    "relatedWords": [
+      "cathode",
+      "electrode",
+      "anode-cathode system"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如电池图示，以增强空间记忆；使用间隔重复法复习，强化神经元连接以提高长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "positive electrode",
+        "similarity": "0.8",
+        "context": "在电化学语境中，通常用于电池或电解池"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cathode",
+        "context": "在同一电化学系统中，表示电子流入的负极"
+      }
+    ],
+    "hypernyms": [
+      "electrode"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "anode in [context]",
+        "examples": [
+          "anode in battery",
+          "anode in electrolysis"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术进步和电气化革命，隐含语义涉及能量流动和创新。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "无显著差异，但常在科技语境中使用",
+        "usage": "在美国英语中，常见于工程和教育领域，如电池技术讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "与美国类似，但可能在历史科学文献中更强调其希腊起源",
+        "usage": "在英国英语中，常用于学术和工业语境，如在牛津英语词典的引用"
+      }
+    ],
+    "historicalContext": "与19世纪的电气实验相关，如法拉第的电化学发现，体现了工业革命时期科学与社会的互动。",
+    "modernUsage": "在现代社交媒体和科技传播中，常用于讨论可持续能源，如电动汽车电池的核心组件。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电池内部：阳极作为正极，电子从这里流出，就像河流向上涌动。",
+      "keyElements": [
+        "电池",
+        "正极",
+        "电子流动"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用手机充电时的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Anode sounds like 'a node up' – think of it as the 'up' or positive part in a circuit.",
+        "explanation": "通过声音联想强化词汇与概念的连接，基于认知科学中的双编码理论。"
+      }
+    ],
+    "wordAssociations": [
+      "cathode",
+      "battery",
+      "positive charge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "anodes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + anode",
+        "description": "作为主语或宾语出现于句子中，表示电化学组件。",
+        "examples": [
+          "The anode conducts electricity."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing anode with cathode",
+        "correction": "Use anode for the positive electrode",
+        "explanation": "Anode 和 cathode 在极性上相反，常因记忆混淆导致错误；通过对比学习可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "科技",
+      "物理学",
+      "化学"
+    ],
+    "tags": [
+      "电化学",
+      "电子设备",
+      "科学术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

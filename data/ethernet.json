@@ -1,0 +1,246 @@
+{
+  "word": "ethernet",
+  "phonetics": {
+    "british": "/ˈiːθənɛt/",
+    "american": "/ˈiːθərnɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A standard for connecting computers and other devices in a local area network (LAN) using cables to transmit data at high speeds.",
+      "chineseTranslation": "以太网",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A family of networking technologies that provide a common interface for linking devices within a limited area, such as a building or campus.",
+      "chineseTranslation": "以太网技术",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ethernet cable",
+      "meaning": "以太网电缆，用于连接设备传输数据",
+      "example": "Make sure you use a Category 6 Ethernet cable for better performance.",
+      "exampleTranslation": "确保使用Category 6以太网电缆以获得更好的性能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Ethernet port",
+      "meaning": "以太网端口，设备上的连接接口",
+      "example": "The laptop has two Ethernet ports for network connectivity.",
+      "exampleTranslation": "这台笔记本电脑有两个以太网端口用于网络连接。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Ethernet switch",
+      "meaning": "以太网交换机，用于管理网络流量",
+      "example": "An Ethernet switch can improve the efficiency of your home network.",
+      "exampleTranslation": "以太网交换机可以提高您家庭网络的效率。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The office network relies on Ethernet for fast and reliable data transfer.",
+      "translation": "办公室网络依赖以太网进行快速可靠的数据传输。",
+      "source": "Technical manual (e.g., from Cisco documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She connected her computer to the internet via an Ethernet connection instead of Wi-Fi.",
+      "translation": "她通过以太网连接而不是Wi-Fi将电脑连接到互联网。",
+      "source": "Modern technology article (e.g., from The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Ethernet technology has evolved significantly since its invention in the 1970s.",
+      "translation": "以太网技术自20世纪70年代发明以来已经有了重大发展。",
+      "source": "Historical tech review (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, from Greek",
+    "rootWords": [
+      {
+        "root": "ether",
+        "meaning": "The upper air or heavens",
+        "language": "Greek (aither)"
+      },
+      {
+        "root": "net",
+        "meaning": "A network or interconnected system",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'aither'，意为上层大气或以太，后与英语 'net' 结合，由Xerox PARC在1970s开发，最初用于描述一种广播式网络协议，逐渐演变为现代局域网标准。",
+    "firstKnownUse": "1973",
+    "relatedWords": [
+      "ether",
+      "network",
+      "LAN"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉化记忆将以太网想象为实际电缆网络的图像，以强化空间关联；通过重复性练习如模拟连接设备，应用间隔重复法（spaced repetition）来巩固词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "LAN",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述本地网络连接"
+      },
+      {
+        "word": "wired network",
+        "similarity": "0.7",
+        "context": "在非正式讨论中，指代有线连接系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wireless network",
+        "context": "在对比语境中，用于强调无线 vs. 有线连接"
+      }
+    ],
+    "hypernyms": [
+      "network technology"
+    ],
+    "hyponyms": [
+      "Fast Ethernet",
+      "Gigabit Ethernet"
+    ],
+    "collocations": [
+      {
+        "pattern": "Ethernet + noun (e.g., cable, port)",
+        "examples": [
+          "Ethernet cable",
+          "Ethernet connection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + Ethernet (e.g., use Ethernet)",
+        "examples": [
+          "connect via Ethernet"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征现代数字时代的基础设施，在全球技术文化中代表可靠性和连通性，尤其在西方文化中与创新和效率相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业标准语",
+        "usage": "在美国英语中，常在商业和教育语境中出现，如硅谷的技术讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能强调历史发展",
+        "usage": "在英国英语中，常与学术或历史技术语境结合"
+      }
+    ],
+    "historicalContext": "与20世纪70年代的计算机革命相关，源于Xerox PARC的项目，影响了互联网的兴起和社会数字化转型。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科技讨论，如Reddit或Twitter上的网络问题解答。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个办公室场景，多个电脑通过电缆连接成网状结构。",
+      "keyElements": [
+        "电缆",
+        "电脑网络",
+        "连接点"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆在家使用以太网连接时的稳定感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'Ethernet' 联想为 'Ether Net'，想象天空（ether）中的网状渔网。",
+        "explanation": "通过视觉联想强化词汇记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈiːθərnɛt/ 类似 'easy net'，想象一个简单的网络。",
+        "explanation": "利用声音相似性创建易记桥接，增强语音记忆"
+      }
+    ],
+    "wordAssociations": [
+      "network",
+      "cable",
+      "internet"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'an Ethernet connection')",
+        "description": "作为名词使用于短语中，表示具体技术元素",
+        "examples": [
+          "The Ethernet in this building is outdated."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'via Ethernet')",
+        "description": "与介词结合，表示连接方式",
+        "examples": [
+          "Data is transferred via Ethernet."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'internet'",
+        "correction": "Use 'Ethernet' for local networks only",
+        "explanation": "以太网专指局域网，而互联网是更广泛的系统"
+      },
+      {
+        "mistake": "Mispronunciation as /ˈɛθərnɛt/",
+        "correction": "Pronounce as /ˈiːθərnɛt/",
+        "explanation": "错误发音可能导致在技术讨论中被误解"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., top 10% in COCA for technical domains)",
+    "domains": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "技术术语",
+      "网络",
+      "通信"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Etymonline"
+    ]
+  }
+}

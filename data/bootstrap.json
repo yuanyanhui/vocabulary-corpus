@@ -1,0 +1,261 @@
+{
+  "word": "bootstrap",
+  "phonetics": {
+    "british": "/ˈbuːstræp/",
+    "american": "/ˈboʊstræp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A loop of leather or other material sewn at the top rear or side of a boot to help in pulling it on.",
+      "chineseTranslation": "靴子上的拉环或皮带，用于穿脱靴子",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of loading a program or data into a computer's memory, especially during startup.",
+      "chineseTranslation": "计算机启动过程或引导程序",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To start up a computer or a system by loading essential software.",
+      "chineseTranslation": "启动计算机或系统",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To achieve success or improvement through one's own efforts, often from a difficult starting point.",
+      "chineseTranslation": "自力更生地取得成功",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pull oneself up by one's bootstraps",
+      "meaning": "通过自己的努力从困境中崛起",
+      "example": "He managed to pull himself up by his bootstraps after losing his job.",
+      "exampleTranslation": "他丢了工作后，通过自力更生站了起来。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bootstrap program",
+      "meaning": "计算机启动程序",
+      "example": "The bootstrap program initializes the operating system.",
+      "exampleTranslation": "启动程序初始化操作系统。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the tech industry, a bootstrap process is essential for system initialization.",
+      "translation": "在科技行业，启动过程对系统初始化至关重要。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She decided to bootstrap her new business with savings from her previous job.",
+      "translation": "她决定用之前工作的积蓄自力更生启动新业务。",
+      "source": "Business news article (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The old boots had a sturdy bootstrap that made them easy to wear.",
+      "translation": "那双旧靴子有一个结实的拉环，便于穿脱。",
+      "source": "Literature (e.g., from everyday English corpora)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "boot",
+        "meaning": "A type of footwear",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "strap",
+        "meaning": "A strip of leather or other material for binding",
+        "language": "Middle English (from Old French)"
+      }
+    ],
+    "historicalDevelopment": "源自中世纪英语，指靴子上的皮带。17世纪开始用于比喻意义，意为自力更生。19世纪扩展到计算机领域，指系统启动过程。这种演变反映了从具体物体到抽象概念的转变，受工业革命和科技进步的影响。",
+    "firstKnownUse": "1789",
+    "relatedWords": [
+      "boot",
+      "strap",
+      "reboot"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先学习基本名词含义，再扩展到比喻和技术语境；通过视觉联想如想象拉靴子的动作来强化词汇记忆；针对中文学习者，强调避免将 'bootstrap' 与中文 '引导' 的直接翻译混淆，以防止语义转移错误。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "initiate",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述启动过程"
+      },
+      {
+        "word": "self-start",
+        "similarity": "0.7",
+        "context": "在比喻语境中，用于自力更生"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "shutdown",
+        "context": "在技术语境中，指停止系统"
+      },
+      {
+        "word": "depend",
+        "context": "在比喻语境中，指依赖他人"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "method"
+    ],
+    "hyponyms": [
+      "system boot",
+      "self-improvement"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun (e.g., bootstrap a system)",
+        "examples": [
+          "bootstrap the computer",
+          "bootstrap the startup"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "idiomatic phrase (e.g., pull up by bootstraps)",
+        "examples": [
+          "pull oneself up by bootstraps"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'pull oneself up by one's bootstraps' 象征美国梦和个人主义精神，代表通过自身努力克服 adversity，常用于励志语境；但在跨文化中，可能被视为忽略结构性不平等。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于比喻自力更生",
+        "usage": "在政治和励志演讲中频繁出现"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向于字面意思或技术术语",
+        "usage": "在日常对话中较少使用比喻表达"
+      }
+    ],
+    "historicalContext": "起源于19世纪的美国拓荒时代，象征个人奋斗；与工业革命和计算机时代相关联，在现代文学和社会评论中体现不平等。",
+    "modernUsage": "在社交媒体和商业语境下，常用于创业故事，反映数字时代自助文化"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人穿着靴子，拉着靴子上的皮带站起身来，同时脑中浮现计算机启动的画面。",
+      "keyElements": [
+        "靴子",
+        "皮带",
+        "启动图标"
+      ],
+      "emotionalConnection": "联结个人奋斗经历，如回想自己的第一次创业，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bootstrap 像 'boot' + 'strap'，想象靴子启动（boot up）系统。",
+        "explanation": "通过视觉和动作联想，帮助记忆多义性，避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "B for Boot and Begin.",
+        "explanation": "使用首字母缩写结合个人经验，形成认知锚点"
+      }
+    ],
+    "wordAssociations": [
+      "boot",
+      "strap",
+      "startup",
+      "self-made"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bootstraps",
+      "pastTense": "bootstrapped",
+      "pastParticiple": "bootstrapped",
+      "presentParticiple": "bootstrapping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + object (e.g., bootstrap the system)",
+        "description": "动词后接宾语，表示启动动作",
+        "examples": [
+          "They bootstrapped the new software."
+        ]
+      },
+      {
+        "pattern": "Idiomatic expression (e.g., pull oneself up by bootstraps)",
+        "description": "作为固定短语，用于比喻句",
+        "examples": [
+          "He pulled himself up by his bootstraps."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'bootstrap' as a noun in technical contexts incorrectly.",
+        "correction": "Ensure it refers to the process, not just the program.",
+        "explanation": "中文学习者常误将它与 'boot' 混淆，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Confusing the idiomatic meaning with literal meaning.",
+        "correction": "Use in appropriate cultural contexts.",
+        "explanation": "由于文化差异，需强调比喻用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked in top 10,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Business",
+      "Idiomatic expressions"
+    ],
+    "tags": [
+      "Computing",
+      "Idioms",
+      "Self-improvement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "word": "multivariable",
+  "phonetics": {
+    "british": "/ˌmʌl.tiˈvær.i.ə.bl/",
+    "american": "/ˌmʌl.tiˈvɛr.i.ə.bl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Involving or relating to more than one variable, especially in mathematical, scientific, or statistical contexts.",
+      "chineseTranslation": "多变量的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "multivariable calculus",
+      "meaning": "多变量微积分",
+      "example": "Multivariable calculus is essential for understanding functions of several variables.",
+      "exampleTranslation": "多变量微积分对于理解多个变量的函数至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "multivariable analysis",
+      "meaning": "多变量分析",
+      "example": "Multivariable analysis helps in identifying relationships between multiple factors.",
+      "exampleTranslation": "多变量分析有助于识别多个因素之间的关系。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In multivariable statistics, researchers often deal with datasets that include several independent variables.",
+      "translation": "在多变量统计中，研究人员经常处理包括多个自变量的数据集。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The engineer used multivariable modeling to predict outcomes based on temperature, pressure, and humidity.",
+      "translation": "工程师使用多变量建模来根据温度、压力和湿度预测结果。",
+      "source": "Technical report (e.g., from engineering literature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Understanding multivariable functions can be challenging for beginners in mathematics.",
+      "translation": "理解多变量函数对数学初学者来说可能具有挑战性。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "multi-",
+        "meaning": "many",
+        "language": "Latin"
+      },
+      {
+        "root": "variable",
+        "meaning": "changeable",
+        "language": "Latin (from variabilis)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于拉丁语 'multi-'（意为许多）和 'varius'（意为变化的），通过法语和英语的演变发展而来。最初在17世纪的数学和科学语境中出现，用于描述涉及多个变数的概念，随着近代科学革命而普及。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "multivariate",
+      "variable",
+      "multidimensional"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象多个变量如温度和压力在图表中互动；使用间隔重复法（spaced repetition）来强化记忆；针对母语为中文的学习者，建议通过对比英语和中文数学术语来减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multivariate",
+        "similarity": "0.9",
+        "context": "适用于统计和数据分析语境中，表示涉及多个变量的分析"
+      },
+      {
+        "word": "multidimensional",
+        "similarity": "0.8",
+        "context": "适用于描述多方面或多维度的概念，常在科学和技术领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "univariate",
+        "context": "适用于涉及单一变量的分析语境，例如在简单统计模型中"
+      },
+      {
+        "word": "single-variable",
+        "context": "适用于数学函数或方程中仅有一个变量的场景"
+      }
+    ],
+    "hypernyms": [
+      "variable"
+    ],
+    "hyponyms": [
+      "multivariable function",
+      "multivariable equation"
+    ],
+    "collocations": [
+      {
+        "pattern": "multivariable + noun (e.g., analysis, calculus)",
+        "examples": [
+          "multivariable analysis",
+          "multivariable function"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + multivariable (e.g., advanced multivariable)",
+        "examples": [
+          "advanced multivariable techniques"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征复杂性和系统性思考，常与现代科学方法论相关联；在跨文化语境中，中国学习者可能将其与本土数学教育（如高等代数）联系起来，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术性和学术性语境",
+        "usage": "在美国英语中，常出现在STEM教育和专业报告中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能在学术出版物中更正式",
+        "usage": "在英国英语中，强调在数学和工程领域的精确使用"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关联，例如牛顿的微积分发展，该词反映了从单一变量向复杂系统建模的转变；在当代，中国文化中，通过翻译和教育融入，如在清华大学等机构的课程中。",
+    "modernUsage": "在社交媒体和在线教育平台上（如Coursera或Khan Academy）流行，用于讨论数据科学和AI，但需注意专业语境以避免误用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个控制台上有多个旋钮，每个代表一个变量，如温度、速度和高度，调整它们会影响整体系统。",
+      "keyElements": [
+        "旋钮",
+        "变量",
+        "系统"
+      ],
+      "emotionalConnection": "联结到个人经验，例如回忆驾驶汽车时调整多个仪表盘，触发好奇心和实际应用感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Multi like multiple friends, variable like changing weather",
+        "explanation": "通过将 'multi' 联想为多个朋友，'variable' 联想为变化的天气，帮助构建视觉和情感记忆路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "M-V for Many Variables",
+        "explanation": "使用首字母缩写来简化记忆，并结合重复练习以强化神经通路。"
+      }
+    ],
+    "wordAssociations": [
+      "multiple",
+      "variables",
+      "complex",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more multivariable",
+      "superlative": "most multivariable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，常用于描述涉及多个变量的主题",
+        "examples": [
+          "multivariable equation"
+        ]
+      },
+      {
+        "pattern": "In + context + of + multivariable",
+        "description": "用于特定语境中，表示在多变量框架下的应用",
+        "examples": [
+          "in the context of multivariable analysis"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'multivariable' and 'multivariate'",
+        "correction": "Use 'multivariable' for mathematical contexts and 'multivariate' for statistical ones",
+        "explanation": "两者虽相关，但语境不同；中文学习者常混淆，应通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrectly forming comparatives",
+        "correction": "Use 'more multivariable' instead of '*multivariabler'",
+        "explanation": "作为形容词，不规则比较级需使用 'more' 而非添加后缀。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "数学",
+      "统计",
+      "工程"
+    ],
+    "tags": [
+      "数学词汇",
+      "科学术语",
+      "数据分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

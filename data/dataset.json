@@ -1,0 +1,243 @@
+{
+  "word": "dataset",
+  "phonetics": {
+    "british": "/ˈdeɪtəsɛt/",
+    "american": "/ˈdeɪtəˌsɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of organized data, typically stored and processed electronically, used for analysis, research, or machine learning.",
+      "chineseTranslation": "数据集",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "training dataset",
+      "meaning": "用于训练机器学习模型的数据集",
+      "example": "The training dataset was carefully curated to include diverse examples.",
+      "exampleTranslation": "这个训练数据集被仔细整理，以包含多样化的例子。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "test dataset",
+      "meaning": "用于测试模型性能的数据集",
+      "example": "We split the data into a training dataset and a test dataset.",
+      "exampleTranslation": "我们将数据分成训练数据集和测试数据集。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "large dataset",
+      "meaning": "规模庞大的数据集",
+      "example": "Handling a large dataset requires powerful computing resources.",
+      "exampleTranslation": "处理大型数据集需要强大的计算资源。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers used a dataset of over 1 million images to train the AI model.",
+      "translation": "研究人员使用了一个包含超过100万张图像的数据集来训练AI模型。",
+      "source": "Scientific article (e.g., from academic journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In data science, a clean dataset is essential for accurate predictions.",
+      "translation": "在数据科学中，一个干净的数据集对于准确的预测至关重要。",
+      "source": "Educational resource (e.g., online courses on Coursera)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company maintains a proprietary dataset for market analysis.",
+      "translation": "公司维护一个专有的数据集用于市场分析。",
+      "source": "Business news (e.g., from The Wall Street Journal)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "data",
+        "meaning": "Facts or information, often numerical",
+        "language": "Latin (from 'datum', meaning 'given')"
+      },
+      {
+        "root": "set",
+        "meaning": "A collection or group",
+        "language": "Old English (from 'settan', meaning 'to place')"
+      }
+    ],
+    "historicalDevelopment": "从词源来看，'data' 源自拉丁语 'datum'，最初指单一的事实；'set' 源自古英语，意为集合或放置。组合词 'dataset' 在20世纪中期随着计算机科学兴起而流行，用于描述结构化数据集合，从早期的统计学应用演变为现代数据科学中的核心概念。",
+    "firstKnownUse": "Mid-20th century (e.g., around 1960s in computing contexts)",
+    "relatedWords": [
+      "database",
+      "datastream",
+      "databank"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块编码（chunking）将 'dataset' 与实际数据处理场景关联，例如想象一个文件夹里堆满文件；",
+      "使用重复间隔学习（spaced repetition）复习相关短语，以强化记忆；",
+      "通过视觉映射（visual mapping）将词汇与图表或数据库图标联系起来，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "data collection",
+        "similarity": "0.8",
+        "context": "在研究或统计语境中，用于描述相同概念的数据聚集"
+      },
+      {
+        "word": "corpus",
+        "similarity": "0.7",
+        "context": "在语言学或文本分析中，特指大型文本数据集"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "single data point",
+        "context": "当强调单个数据元素时，与完整数据集相对"
+      }
+    ],
+    "hypernyms": [
+      "data structure",
+      "collection"
+    ],
+    "hyponyms": [
+      "training set",
+      "validation set",
+      "test set"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + dataset",
+        "examples": [
+          "large dataset",
+          "annotated dataset"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "dataset + verb",
+        "examples": [
+          "analyze the dataset",
+          "process the dataset"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，'dataset' 象征着信息时代的核心资源，常隐含大数据分析的创新与隐私挑战的张力。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和学术界",
+        "usage": "在美国英语中，强调商业应用，如在硅谷的科技公司"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更侧重于学术和政府数据",
+        "usage": "在英国英语中，常见于BBC或政府报告中"
+      }
+    ],
+    "historicalContext": "与20世纪后期的计算机革命和互联网发展相关，例如在统计学先驱如Florence Nightingale的作品中已有数据集合概念，但现代 'dataset' 主要与AI和大数据浪潮关联。",
+    "modernUsage": "在社交媒体和在线平台上流行，例如Twitter数据分析或Netflix的推荐算法，使用趋势显示其在全球数字化转型中的核心作用。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的文件柜，里面装满了各种数据卡片，每一张代表一个数据点。",
+      "keyElements": [
+        "文件柜",
+        "数据卡片",
+        "组织结构"
+      ],
+      "emotionalConnection": "联结到个人经验，如整理照片相册，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Data + Set = Like a set of dishes (data dishes), all organized together.",
+        "explanation": "通过视觉联想将 'dataset' 与日常物体关联，增强认知编码"
+      },
+      {
+        "type": "缩略",
+        "content": "DS for Data Set, picture a 'D' shaped data box.",
+        "explanation": "使用首字母缩写结合图像，帮助快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "database",
+      "spreadsheet",
+      "big data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "datasets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "The dataset contains valuable information."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词结合，如 'from the dataset'",
+        "examples": [
+          "Data was extracted from the dataset."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'database'",
+        "correction": "Use 'dataset' for a specific collection, 'database' for a structured system",
+        "explanation": "虽然相关，但 'dataset' 指临时集合，而 'database' 指永久存储系统"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "datasets (not datasett)",
+        "explanation": "英语名词复数通常加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "data analysis",
+      "AI"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "word": "byte",
+  "phonetics": {
+    "british": "/baɪt/",
+    "american": "/baɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of digital information that typically consists of eight bits, used as a basic unit of storage in computing and telecommunications.",
+      "chineseTranslation": "字节",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In informal contexts, a small amount or portion, though this is less common and derived from the original meaning of 'bite'.",
+      "chineseTranslation": "一小口或少量（非技术语境中的次要用法）",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "byte code",
+      "meaning": "字节码",
+      "example": "The Java Virtual Machine executes byte code to ensure platform independence.",
+      "exampleTranslation": "Java 虚拟机执行字节码以确保平台独立性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "kilobyte",
+      "meaning": "千字节",
+      "example": "A standard image file might be around 2 kilobytes in size.",
+      "exampleTranslation": "一个标准图像文件的大小可能约为 2 千字节。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "byte order",
+      "meaning": "字节顺序",
+      "example": "Endianness determines the byte order in which data is stored.",
+      "exampleTranslation": "端序决定了数据存储的字节顺序。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Each byte in the memory represents a unique character in the ASCII table.",
+      "translation": "内存中的每个字节都代表 ASCII 表中的一个独特字符。",
+      "source": "Technical documentation, such as from IEEE standards",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The software update is only a few bytes, so it downloads quickly.",
+      "translation": "软件更新只有几个字节，所以下载很快。",
+      "source": "Informal tech blog",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In computing history, the concept of a byte evolved to standardize data processing.",
+      "translation": "在计算历史中，字节的概念演变为标准化数据处理。",
+      "source": "Academic text from a computer science journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "bite",
+        "meaning": "To cut or tear with the teeth, implying a small piece",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'bītan'，意为用牙咬，取其'小片'之意。20世纪60年代，在计算机科学中被借用来表示数据的最小单位，最初不固定大小，但后来标准化为8位二进制数字。这反映了从物理概念到抽象数字概念的演变过程。",
+    "firstKnownUse": "1961",
+    "relatedWords": [
+      "bit",
+      "octet",
+      "nibble"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用视觉化联想将 'byte' 与 'bite' 的图像联系，如想象一个苹果被咬下一小块，然后扩展到计算机存储；使用间隔重复法（spaced repetition）强化记忆，以适应第二语言学习者的认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "octet",
+        "similarity": "0.8",
+        "context": "在技术语境中，特别是在欧洲计算机标准中，用于表示8位字节"
+      },
+      {
+        "word": "data unit",
+        "similarity": "0.6",
+        "context": "泛指数据存储单位，但不如 'byte' 具体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "kilobyte",
+        "context": "表示更大规模的数据单位，因此在规模上相反"
+      }
+    ],
+    "hypernyms": [
+      "data unit"
+    ],
+    "hyponyms": [
+      "nibble"
+    ],
+    "collocations": [
+      {
+        "pattern": "byte + size modifier",
+        "examples": [
+          "megabyte",
+          "gigabyte"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + byte",
+        "examples": [
+          "process a byte",
+          "store a byte"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，'byte' 象征着信息技术的核心基础，隐含语义涉及数据存储和传输的效率，常与创新和全球连接相关；在西方文化中，它代表了从机械计算到数字革命的进步。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "标准化为8位",
+        "usage": "在美国英语中，'byte' 主要用于计算机科学教育和行业标准"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔与历史计量单位混用",
+        "usage": "在英国英语中，可能强调其在电信历史中的演变"
+      }
+    ],
+    "historicalContext": "与20世纪中叶的计算机发展相关，如ENIAC和UNIVAC项目，'byte' 体现了工业革命向信息革命的过渡，并在文学如威廉·吉布森的赛博朋克小说中出现。",
+    "modernUsage": "在社交媒体和在线平台上，'byte' 常用于讨论数据隐私和云计算趋势，例如TikTok或Twitter上的科技讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个苹果被咬下一小块（bite），然后将这小块转化为计算机屏幕上的数据块。",
+      "keyElements": [
+        "苹果",
+        "咬痕",
+        "数据图标"
+      ],
+      "emotionalConnection": "联结到个人经验，如吃零食时的满足感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Byte sounds like bite; think of a byte as a 'bite' of data.",
+        "explanation": "通过声音联想将 'byte' 与 'bite' 连接，利用认知语言学的听觉记忆路径，便于第二语言学习者"
+      },
+      {
+        "type": "缩略",
+        "content": "B-Y-T-E: Big You Transfer Easily",
+        "explanation": "使用首字母缩写创建故事，结合视觉和叙事元素强化长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "bit",
+      "data",
+      "computer",
+      "storage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bytes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词，通常出现在计量语境中，如 'a byte of data'",
+        "examples": [
+          "The file size is measured in bytes."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词结合，表示数据关系，如 'in bytes'",
+        "examples": [
+          "Data is transmitted in bytes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'byte' with 'bit'",
+        "correction": "Use 'byte' for 8 bits",
+        "explanation": "学习者常混淆二者规模；通过对比解释可避免认知错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add 's' for plural",
+        "explanation": "英文名词规则简单，但非母语者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "science"
+    ],
+    "tags": [
+      "computing terminology",
+      "data storage",
+      "digital"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

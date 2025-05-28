@@ -1,0 +1,247 @@
+{
+  "word": "requirement",
+  "phonetics": {
+    "british": "/rɪˈkwaɪəmənt/",
+    "american": "/rɪˈkwaɪrmənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that is needed or wanted; a thing that is compulsory or necessary as a condition for something else to happen or be done.",
+      "chineseTranslation": "要求；必需品；条件",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A formal statement of what is needed or expected, especially in a legal, technical, or business context.",
+      "chineseTranslation": "规定；需求规格",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "meet the requirements",
+      "meaning": "满足要求",
+      "example": "The software must meet the requirements for data security.",
+      "exampleTranslation": "该软件必须满足数据安全的要求。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "basic requirements",
+      "meaning": "基本条件",
+      "example": "Applicants must fulfill the basic requirements for the job.",
+      "exampleTranslation": "申请者必须满足这份工作的基本条件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new building must comply with all safety requirements.",
+      "translation": "新建筑必须符合所有安全要求。",
+      "source": "Technical documentation (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "One of the key requirements for success in this role is strong communication skills.",
+      "translation": "在这个职位上取得成功的一个关键要求是出色的沟通技能。",
+      "source": "Business articles (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday life, a good education is often seen as a fundamental requirement.",
+      "translation": "在日常生活中，良好的教育通常被视为基本要求。",
+      "source": "General corpora (e.g., OED examples)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "requirere",
+        "meaning": "to seek again or to need",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "again",
+        "language": "Latin"
+      },
+      {
+        "root": "quaerere",
+        "meaning": "to seek or ask",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'requirere'，意为再次寻求或需要。该词在14世纪进入英语，通过古法语演变，最初用于表示必要条件或需求。在现代英语中，它已扩展到法律、技术和日常语境中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "require",
+      "requisite",
+      "inquiry"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 由于简单的音节结构，但辅音群可能对初学者有挑战)",
+    "spellingDifficulty": "5 (1-10, 拼写规则相对直观，但多音节可能导致错误)",
+    "meaningComplexity": "6 (1-10, 语义可扩展到抽象概念，需要上下文理解)",
+    "usageComplexity": "5 (1-10, 常见于正式语境，但需注意搭配)",
+    "learningTips": [
+      "结合认知科学，建议使用间隔重复法复习词汇；将 'requirement' 与个人需求场景关联，如工作要求，以增强记忆编码；通过视觉映射将词根 're-' 和 'quaerere' 联想到 '再次寻求' 的图像，以促进语义网络构建。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "necessity",
+        "similarity": "0.8",
+        "context": "适用于强调必需性的语境，如 'A necessity for survival.'（生存的必需品）"
+      },
+      {
+        "word": "condition",
+        "similarity": "0.7",
+        "context": "适用于条件性要求，如 'Under certain conditions.'（在某些条件下）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "option",
+        "context": "适用于非强制性语境，如 'It's just an option, not a requirement.'（这只是一个选择，不是要求）"
+      },
+      {
+        "word": "luxury",
+        "context": "适用于非必需品语境，如 'A luxury rather than a requirement.'（奢侈品而非必需品）"
+      }
+    ],
+    "hypernyms": [
+      "demand",
+      "need"
+    ],
+    "hyponyms": [
+      "prerequisite",
+      "specification"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + requirement",
+        "examples": [
+          "fulfillment of requirements"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + requirement",
+        "examples": [
+          "strict requirements"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征标准化和合规性，常用于教育、法律和商业领域，隐含语义强调社会规范和责任。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术或法律语境，如法规要求",
+        "usage": "在美国英语中，常见于政策文件，强调实用性和强制性。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，强调传统和历史规范",
+        "usage": "在英国英语中，常与历史制度相关，如教育要求。"
+      }
+    ],
+    "historicalContext": "与工业革命相关的标准化运动有关，如19世纪的英国工厂法规中首次广泛使用，反映了社会对秩序和效率的追求。",
+    "modernUsage": "在社交媒体和数字时代，'requirement' 常用于在线社区讨论工作机会或技术规格，体现全球化的影响。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁着的门，只有满足特定要求（如钥匙）才能打开，代表 'requirement' 的必要性。",
+      "keyElements": [
+        "钥匙、门、障碍"
+      ],
+      "emotionalConnection": "联结到个人经历，如求职面试中的资格要求，以触发挫折或成就感的情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'requirement' 联想成 're-quire-ment'，像 're-fire a ment'（重新点燃一颗子弹），象征反复需要。",
+        "explanation": "通过视觉联想增强词汇保留，利用认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "REQ = Required Essential Quality",
+        "explanation": "创建缩写以简化记忆，基于分块编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "need",
+      "demand",
+      "obligation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "requirements",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + requirement",
+        "description": "主语+动词+要求结构，常用于陈述必要条件。",
+        "examples": [
+          "The law imposes strict requirements."
+        ]
+      },
+      {
+        "pattern": "Requirement + for + noun",
+        "description": "要求+用于+名词结构，表示特定需求。",
+        "examples": [
+          "Requirements for the job include experience."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'requirement' as a verb",
+        "correction": "Use 'require' as the verb form",
+        "explanation": " 'Requirement' 是名词，不能直接用作动词；常见于非母语学习者混淆词性。"
+      },
+      {
+        "mistake": "Confusing with 'required'",
+        "correction": "Distinguish as noun vs. adjective",
+        "explanation": " 'Required' 是形容词形式；需注意语境以避免混用。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "education",
+      "technology",
+      "legal"
+    ],
+    "tags": [
+      "formal",
+      "abstract",
+      "necessity"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

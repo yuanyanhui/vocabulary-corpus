@@ -1,0 +1,262 @@
+{
+  "word": "translate",
+  "phonetics": {
+    "british": "/trænsˈleɪt/",
+    "american": "/trænzˈleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to express the sense of words or text in another language",
+      "chineseTranslation": "翻译（将文字或话语从一种语言转换为另一种语言）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to change something from one form or medium to another",
+      "chineseTranslation": "转化（例如，将想法从一种形式转换为另一种形式）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person who translates text from one language to another",
+      "chineseTranslation": "翻译者（一种较少见的用法，主要在特定语境中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "translate into",
+      "meaning": "翻译成",
+      "example": "She can translate the document into French.",
+      "exampleTranslation": "她可以将这份文件翻译成法语。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "machine translate",
+      "meaning": "机器翻译",
+      "example": "We use software to machine translate emails quickly.",
+      "exampleTranslation": "我们使用软件快速进行机器翻译电子邮件。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "translate from",
+      "meaning": "从……翻译",
+      "example": "The book was originally translated from Spanish.",
+      "exampleTranslation": "这本书最初是从西班牙语翻译过来的。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to translate this article for my research.",
+      "translation": "我需要为我的研究翻译这篇文章。",
+      "source": "Academic writing (e.g., from scholarly articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The app can translate speech in real-time during conversations.",
+      "translation": "这个应用可以在对话中实时翻译语音。",
+      "source": "Technology and everyday use (e.g., from app descriptions)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Poets often struggle to translate the nuances of emotion accurately.",
+      "translation": "诗人经常难以准确翻译情感的细微差别。",
+      "source": "Literary works (e.g., from novels or essays)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "translat-",
+        "meaning": "carried across",
+        "language": "Latin"
+      },
+      {
+        "root": "transferre",
+        "meaning": "to carry across",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'translatum'，是 'transferre' 的过去分词，意为 '携带或转移'。在中世纪拉丁语中演变为翻译语言的含义，13世纪传入英语，最初用于宗教文本翻译，如圣经。现代英语中扩展到一般语言转换和比喻性转化。",
+    "firstKnownUse": "约13世纪",
+    "relatedWords": [
+      "translation",
+      "transliterate",
+      "transfer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'translate' 与实际翻译情境关联，如想象国际会议场景；利用双语对照练习强化语义网络，避免混淆相近词汇；通过重复暴露（spaced repetition）改善保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "interpret",
+        "similarity": "0.8",
+        "context": "适用于口头翻译或解释语境，如会议中"
+      },
+      {
+        "word": "render",
+        "similarity": "0.7",
+        "context": "适用于正式书面翻译语境，如文学作品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "originate",
+        "context": "适用于创建原创内容而非转换语境"
+      },
+      {
+        "word": "obfuscate",
+        "context": "适用于使内容更模糊而非清晰的语境"
+      }
+    ],
+    "hypernyms": [
+      "convert",
+      "transform"
+    ],
+    "hyponyms": [
+      "localize",
+      "dub"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + language",
+        "examples": [
+          "translate into English",
+          "translate from German"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "translate + text type",
+        "examples": [
+          "translate a poem",
+          "translate a contract"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在全球化和多语文化中，该词象征跨文化交流和理解，但也隐含潜在的文化失真风险，如文学翻译中可能丢失原作的细微文化元素。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调正式和文学翻译",
+        "usage": "在英国英语中，常用于学术和出版语境，如 'translate a Shakespearean play'"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术性和即时翻译",
+        "usage": "在美国英语中，常用于数字工具语境，如 'use Google to translate'"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的文本翻译有关，如圣经从拉丁语翻译到其他语言，推动了宗教改革；现代中，与全球化浪潮相关，促进了文化多样性。",
+    "modernUsage": "在社交媒体和AI时代，常见于在线翻译工具，如TikTok上的实时字幕，反映了数字交流的便利性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个桥梁场景，将一种语言的文字'携带'到另一种语言的另一边。",
+      "keyElements": [
+        "桥梁",
+        "文字行李",
+        "语言旗帜"
+      ],
+      "emotionalConnection": "联结个人旅行经历，如出国旅游时使用翻译App，触发成就感和好奇心。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'translate' as 'transfer late' – transferring words later to another language.",
+        "explanation": "通过声音联想帮助记忆词汇结构，结合视觉想象增强认知保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-A-N-S: Transfer Really Across New Spaces.",
+        "explanation": "使用首字母缩略词创建故事，基于认知科学中的叙事记忆原理。"
+      }
+    ],
+    "wordAssociations": [
+      "transfer",
+      "language",
+      "bridge",
+      "convert"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "translated",
+      "pastParticiple": "translated",
+      "presentParticiple": "translating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + translate + object + into language",
+        "description": "主语 + 翻译 + 宾语 + 到语言",
+        "examples": [
+          "I translate texts into Chinese."
+        ]
+      },
+      {
+        "pattern": "Translate + object + from language",
+        "description": "翻译 + 宾语 + 从语言",
+        "examples": [
+          "Translate the book from French."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'translate' interchangeably with 'interpret' in all contexts",
+        "correction": "Use 'translate' for written text and 'interpret' for spoken language",
+        "explanation": "翻译通常指书面，而解释指口头；混淆可能导致语境错误。"
+      },
+      {
+        "mistake": "Forgetting to specify the target language",
+        "correction": "Always include 'into' or 'from' for clarity",
+        "explanation": "在英语中，指定语言有助于避免歧义。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Education",
+      "Technology",
+      "Literature",
+      "Business"
+    ],
+    "tags": [
+      "Language",
+      "Conversion",
+      "Communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

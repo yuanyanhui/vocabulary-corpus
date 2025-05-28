@@ -1,0 +1,240 @@
+{
+  "word": "increment",
+  "phonetics": {
+    "british": "/ˈɪŋ.krɪ.mənt/",
+    "american": "/ˈɪŋ.krə.mənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an increase or addition, especially one of a series on a fixed scale",
+      "chineseTranslation": "增量；增加；（尤指一系列固定规模中的）增额",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to increase by a regular amount or in a series of steps",
+      "chineseTranslation": "按固定量增加；逐步增加",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "increment by",
+      "meaning": "按...增加",
+      "example": "The counter increments by 1 each time you press the button.",
+      "exampleTranslation": "每次按下按钮，计数器增加1。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "salary increment",
+      "meaning": "工资增长",
+      "example": "Employees are eligible for a salary increment after one year of service.",
+      "exampleTranslation": "员工在服务一年后有资格获得工资增长。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software updates in small increments to avoid major disruptions.",
+      "translation": "软件以小幅增量更新，以避免重大中断。",
+      "source": "技术文章",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Each increment in the tax rate affects lower-income families the most.",
+      "translation": "税率的每一次增加对低收入家庭影响最大。",
+      "source": "新闻报道",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We need to increment our efforts if we want to meet the deadline.",
+      "translation": "如果我们想赶上最后期限，就需要逐步增加努力。",
+      "source": "日常对话",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "incrementum",
+        "meaning": "增长",
+        "language": "Latin"
+      },
+      {
+        "root": "in-",
+        "meaning": "进入，向内",
+        "language": "Latin"
+      },
+      {
+        "root": "crescere",
+        "meaning": "生长",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词源于拉丁语'incrementum'，意为'增长'，由'in-'（向内）和'crescere'（生长）构成。14世纪进入英语，最初用于描述数量或体积的增加，后来扩展到技术领域（如编程中的计数增加）和经济领域（如工资增长）。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "increase",
+      "incremental",
+      "crescent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "将'increment'与'increase'对比学习，注意其在技术语境中的特有含义。",
+      "通过编程或工资增长的实际场景强化记忆。",
+      "反复练习发音中的重音位置（ˈɪŋ.krɪ.mənt），避免与类似词混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "increase",
+        "similarity": "0.8",
+        "context": "一般增加或增长的语境"
+      },
+      {
+        "word": "growth",
+        "similarity": "0.6",
+        "context": "数量或规模增长的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decrease",
+        "context": "数量或规模减少的语境"
+      },
+      {
+        "word": "reduction",
+        "context": "数值或努力减少的语境"
+      }
+    ],
+    "hypernyms": [
+      "addition",
+      "enhancement"
+    ],
+    "hyponyms": [
+      "step",
+      "raise"
+    ],
+    "collocations": [
+      {
+        "pattern": "increment of",
+        "examples": [
+          "an increment of 5% in sales"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "increment in",
+        "examples": [
+          "an increment in workload"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'increment'常与进步、系统性提升相关联，特别是在技术（编程）和经济（薪资调整）领域，具有正面含义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如编程中的'increment operator'（++）。",
+        "usage": "常出现在软件开发或数据分析的语境中。"
+      },
+      {
+        "region": "英国",
+        "variation": "更倾向于用于正式语境，如工资或税收的'increment'。",
+        "usage": "常见于政府文件或公司政策中。"
+      }
+    ],
+    "historicalContext": "该词在工业革命时期开始广泛用于描述生产或机械效率的逐步提高，与现代科技进步的理念紧密相关。",
+    "modernUsage": "在现代社交媒体或技术论坛中，'increment'常用于讨论软件更新或数据处理，体现系统化思维。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个计数器，每次点击按钮，数字增加1，屏幕上显示'increment'。",
+      "keyElements": [
+        "计数器",
+        "数字增加",
+        "按钮"
+      ],
+      "emotionalConnection": "联想到完成任务时逐步增加的成就感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联觉",
+        "content": "将'increment'拆分为'in-cream-mint'，想象在冰淇淋中加入薄荷，每次加一点，味道逐步提升。",
+        "explanation": "通过熟悉的意象（冰淇淋和薄荷）强化对'increment'逐步增加的记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "increase",
+      "step",
+      "progress"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "increments",
+      "pastTense": "incremented",
+      "pastParticiple": "incremented",
+      "presentParticiple": "incrementing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "increment + by + number/amount",
+        "description": "表示按某个数量或幅度增加",
+        "examples": [
+          "The value increments by 10 each cycle."
+        ]
+      },
+      {
+        "pattern": "increment + noun",
+        "description": "表示某事物逐步增加",
+        "examples": [
+          "We need to increment our production capacity."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "混淆'increment'和'increase'，用错语境",
+        "correction": "'increment'更常用于固定或逐步增加，'increase'更通用。",
+        "explanation": "'increment'强调系统性或固定量的增加，'increase'则无此限制。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "约在英语词汇前10,000名内",
+    "domains": [
+      "技术",
+      "经济",
+      "学术"
+    ],
+    "tags": [
+      "增长",
+      "技术术语",
+      "逐步"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

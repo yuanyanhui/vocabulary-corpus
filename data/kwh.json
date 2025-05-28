@@ -1,0 +1,222 @@
+{
+  "word": "kwh",
+  "phonetics": {
+    "british": "/ˌkɪləʊˈwɒt ˈaʊə/",
+    "american": "/ˌkɪloʊˈwɑːt ˈaʊər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of energy representing the amount of work done by a power of 1,000 watts operating for one hour, commonly used in electricity and energy consumption.",
+      "chineseTranslation": "千瓦时（电能单位）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cost per kWh",
+      "meaning": "每千瓦时成本",
+      "example": "The utility company charges 10 cents per kWh for electricity usage.",
+      "exampleTranslation": "公用事业公司对每千瓦时的电力使用收取10美分。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "energy consumption in kWh",
+      "meaning": "以千瓦时计的能源消耗",
+      "example": "The annual energy consumption in kWh for this household is around 5,000.",
+      "exampleTranslation": "这个家庭的年度能源消耗约为5,000千瓦时。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The solar panel generates about 10 kWh of electricity per day.",
+      "translation": "太阳能板每天产生约10千瓦时的电力。",
+      "source": "Technical reports from renewable energy sources, e.g., COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In 2023, the average household electricity bill was based on usage measured in kWh.",
+      "translation": "在2023年，平均家庭电费账单基于以千瓦时衡量的使用量。",
+      "source": "News articles from BBC and The New York Times",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must calculate the total kWh to assess the efficiency of the new battery system.",
+      "translation": "工程师必须计算总千瓦时来评估新电池系统的效率。",
+      "source": "Academic texts from engineering journals",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Greek and Old English",
+    "rootWords": [
+      {
+        "root": "kilo",
+        "meaning": "One thousand",
+        "language": "Greek (from χίλιοι, khilioi)"
+      },
+      {
+        "root": "watt",
+        "meaning": "Unit of power",
+        "language": "Named after James Watt, Scottish inventor"
+      },
+      {
+        "root": "hour",
+        "meaning": "A period of sixty minutes",
+        "language": "Old English (from ġeāra)"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的计量系统演变；'kilo' 来自希腊语表示一千，'watt' 命名于18世纪的蒸汽机发明家James Watt，'hour' 源自古英语时间单位；组合形成于20世纪初作为标准化电能单位，以反映工业革命后的能源测量需求。",
+    "firstKnownUse": "约1900年",
+    "relatedWords": [
+      "kilowatt",
+      "megawatt-hour",
+      "joule"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想将'kWh' 与电表或太阳电池板图像关联，以强化语境记忆；通过重复练习能源相关对话，运用间隔重复法（spaced repetition）提升保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "kilowatt-hour",
+        "similarity": "1.0",
+        "context": "在技术语境中完全等同，用于正式能源报告"
+      },
+      {
+        "word": "unit of energy",
+        "similarity": "0.8",
+        "context": "泛指能源计量，但需指定上下文，如电力计算"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "watt",
+        "context": "表示瞬时功率，而非累积能源"
+      }
+    ],
+    "hypernyms": [
+      "energy unit"
+    ],
+    "hyponyms": [
+      "megawatt-hour"
+    ],
+    "collocations": [
+      {
+        "pattern": "measure in kWh",
+        "examples": [
+          "We measure electricity usage in kWh."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "cost of kWh",
+        "examples": [
+          "The cost of kWh varies by region."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代社会中象征可持续能源和环境保护，特别是在西方文化中，与气候变化议题相关，常用于推广绿色生活方式。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "常用于公用事业账单和政策文件中",
+        "usage": "在英国，kWh 强调能源效率法规，如欧盟标准"
+      },
+      {
+        "region": "United States",
+        "variation": "在商业和日常用语中更常见",
+        "usage": "在美国，kWh 用于电力公司计费和环保宣传"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪电力普及相关，在文学和社会评论中象征现代化，例如狄更斯作品中隐含的能源变革。",
+    "modernUsage": "在社交媒体和在线论坛中，kWh 常用于讨论电动汽车和可再生能源趋势，如Twitter上的气候峰会报道。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电表显示器上闪烁的数字，代表家庭用电量。",
+      "keyElements": [
+        "电表",
+        "数字显示",
+        "太阳光"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆家庭电费账单带来的紧迫感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'kWh' 联想为'kilo-watt-hour'，想象一千个小灯泡亮一小时。",
+        "explanation": "通过视觉联想强化词汇与实际场景的连接，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "K for 'kilo' (一千)，W for 'watt' (功率)，H for 'hour' (时间)。",
+        "explanation": "使用分解法帮助分解复杂缩写，提升词汇识别的认知效率"
+      }
+    ],
+    "wordAssociations": [
+      "energy",
+      "power",
+      "electricity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "kWh (unchanged, as it is an acronym)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为计量单位，通常在句子中作为名词短语使用",
+        "examples": [
+          "The device consumes 5 kWh per day."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing kWh with kW",
+        "correction": "Use kWh for energy and kW for power",
+        "explanation": "kW 表示功率，而 kWh 表示能源总量；母语为中文的学习者常混淆计量单位"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical domains (e.g., ranked in top 10% in COCA for energy texts)",
+    "domains": [
+      "science",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "energy",
+      "measurement",
+      "units"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

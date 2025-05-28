@@ -1,0 +1,239 @@
+{
+  "word": "instantiate",
+  "phonetics": {
+    "british": "/ɪnˈstænʃieɪt/",
+    "american": "/ɪnˈstænʃiˌeɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To create an object or instance of a class in object-oriented programming.",
+      "chineseTranslation": "在面向对象编程中创建类的实例",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To represent a general concept by a specific example or instance.",
+      "chineseTranslation": "用具体例子来代表一般概念",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "instantiate an object",
+      "meaning": "创建对象",
+      "example": "In programming, you must instantiate an object to use its methods.",
+      "exampleTranslation": "在编程中，你必须创建对象才能使用其方法。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "instantiate a class",
+      "meaning": "实例化一个类",
+      "example": "The developer needs to instantiate a class before initializing variables.",
+      "exampleTranslation": "开发人员需要在初始化变量前实例化一个类。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Programmers often instantiate classes to manage data efficiently in software development.",
+      "translation": "程序员经常实例化类来高效管理软件开发中的数据。",
+      "source": "Technical documentation (e.g., from programming tutorials)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The philosopher used everyday scenarios to instantiate abstract theories in his lecture.",
+      "translation": "这位哲学家在演讲中使用日常生活场景来实例化抽象理论。",
+      "source": "Academic literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You can instantiate the model with real data to test its accuracy.",
+      "translation": "你可以利用真实数据来实例化该模型以测试其准确性。",
+      "source": "Scientific article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "instantia",
+        "meaning": "example or presence",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'instantia'，意为 '例子' 或 '存在'，通过中世纪英语演变为表示创建具体实例的含义，尤其在 20 世纪计算机科学兴起后，用于编程语境中描述从抽象类到具体对象的转换过程。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "instance",
+      "instantaneous",
+      "instigate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": 7,
+    "spellingDifficulty": 6,
+    "meaningComplexity": 8,
+    "usageComplexity": 7,
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象工厂生产线创建产品来代表 'instantiate'；利用间隔重复法强化记忆，以适应第二语言学习者的认知模式。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "exemplify",
+        "similarity": 0.7,
+        "context": "在一般或学术语境中，用于说明概念的具体化"
+      },
+      {
+        "word": "actualize",
+        "similarity": 0.6,
+        "context": "在哲学或理论语境中，表示将抽象转化为现实"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abstract",
+        "context": "在理论讨论中，表示从具体到一般化的过程"
+      },
+      {
+        "word": "generalize",
+        "context": "在科学语境中，表示从实例到普遍原则的推断"
+      }
+    ],
+    "hypernyms": [
+      "create"
+    ],
+    "hyponyms": [
+      "objectify"
+    ],
+    "collocations": [
+      {
+        "pattern": "instantiate + noun (e.g., object, class)",
+        "examples": [
+          "instantiate an object",
+          "instantiate a class"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "instantiate in + context",
+        "examples": [
+          "instantiate in a program"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科技文化中象征抽象概念的实际应用，常隐含效率和创新的语义；在西方教育体系中，强调从理论到实践的转化。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在编程和科技领域更常用",
+        "usage": "美国英语中常用于技术文档和教育材料，反映硅谷文化对创新的强调。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "略微正式化表达",
+        "usage": "英国英语中可能在学术语境中使用，但频率较低，体现出跨大西洋语言差异。"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机科学的发展相关，起源于拉丁语传统，通过启蒙运动的理性主义影响，在现代社会中与数字化转型相联结。",
+    "modernUsage": "在社交媒体和在线学习平台上流行，尤其在编程社区，如 GitHub 或 Stack Overflow 的讨论中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个虚拟工厂，'instantiate' 像启动生产线一样创建具体产品。",
+      "keyElements": [
+        "工厂",
+        "生产线",
+        "产品实例"
+      ],
+      "emotionalConnection": "联结到个人编程经历的成就感，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Instantiate 听起来像 'instant' + 'create'，表示立即创建。",
+        "explanation": "通过声音和语义联想，帮助第二语言学习者建立长期记忆路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-S-T-A-N-T 代表 'I Need Something To Activate Now, Try Creating'",
+        "explanation": "使用首字母缩略法结合故事叙述，基于认知心理学中的叙事编码原理。"
+      }
+    ],
+    "wordAssociations": [
+      "instance",
+      "create",
+      "object",
+      "example"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "instantiated",
+      "pastParticiple": "instantiated",
+      "presentParticiple": "instantiating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + instantiate + object",
+        "description": "主语 + 动词 + 宾语结构，常用于技术语境。",
+        "examples": [
+          "The system instantiates the class."
+        ]
+      },
+      {
+        "pattern": "instantiate + in + context",
+        "description": "动词 + 介词短语结构，表示在特定环境中创建。",
+        "examples": [
+          "instantiate in a new environment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'instantiate' with 'instance'",
+        "correction": "Use 'instantiate' for the action of creating",
+        "explanation": "学习者常混淆二者，因为它们词源相关；建议通过语境区分。"
+      },
+      {
+        "mistake": "Incorrectly using in non-technical contexts",
+        "correction": "Reserve for technical or formal use",
+        "explanation": "作为专业术语，错误泛化可能导致语义偏差；结合语域训练避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate in technical corpora (e.g., rank approximately 8000 in COCA for computing domain)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Academia"
+    ],
+    "tags": [
+      "Programming",
+      "Object-oriented",
+      "Abstraction"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

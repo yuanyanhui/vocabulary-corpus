@@ -1,0 +1,249 @@
+{
+  "word": "polymerase",
+  "phonetics": {
+    "british": "/pəˈlɪməreɪz/",
+    "american": "/pəˈlɪməreɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An enzyme that catalyzes the synthesis of nucleic acid polymers, such as DNA or RNA, by linking nucleotides together.",
+      "chineseTranslation": "聚合酶",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "DNA polymerase",
+      "meaning": "DNA 聚合酶，指催化 DNA 合成的酶",
+      "example": "DNA polymerase is essential for DNA replication in cells.",
+      "exampleTranslation": "DNA 聚合酶对细胞中的 DNA 复制至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "RNA polymerase",
+      "meaning": "RNA 聚合酶，指催化 RNA 合成的酶",
+      "example": "RNA polymerase transcribes DNA into RNA during gene expression.",
+      "exampleTranslation": "RNA 聚合酶在基因表达过程中将 DNA 转录成 RNA。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "polymerase chain reaction",
+      "meaning": "聚合酶链式反应，一种分子生物学技术",
+      "example": "Polymerase chain reaction is used to amplify DNA sequences.",
+      "exampleTranslation": "聚合酶链式反应用于放大 DNA 序列。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The polymerase enzyme plays a crucial role in the replication of genetic material.",
+      "translation": "聚合酶酶在遗传物质的复制中发挥着至关重要的作用。",
+      "source": "Scientific literature, e.g., from biochemistry textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In molecular biology, polymerase is often used to synthesize new strands of DNA.",
+      "translation": "在分子生物学中，聚合酶常用于合成新的 DNA 链。",
+      "source": "Academic articles, e.g., from journals like Nature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers discovered a new type of polymerase that functions at extreme temperatures.",
+      "translation": "研究人员发现了一种能在极端温度下工作的新的聚合酶。",
+      "source": "News articles on scientific advancements",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Without polymerase, the process of transcription would not occur in living cells.",
+      "translation": "没有聚合酶，活细胞中的转录过程就不会发生。",
+      "source": "Educational resources, e.g., from Khan Academy",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语和现代科学术语",
+    "rootWords": [
+      {
+        "root": "poly",
+        "meaning": "many",
+        "language": "Greek (希腊语)"
+      },
+      {
+        "root": "meros",
+        "meaning": "part",
+        "language": "Greek (希腊语)"
+      },
+      {
+        "root": "-ase",
+        "meaning": "an enzyme",
+        "language": "Modern scientific suffix from Latin and Greek influences"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语 'poly'（多）和 'meros'（部分），组合形成 'polymer'（聚合物），后加上 '-ase' 后缀表示酶类物质。这种组合出现在 20 世纪生物化学的发展中，随着 DNA 和 RNA 研究的进展而演变。最初用于描述催化聚合反应的酶，从一般化学术语扩展到分子生物学。",
+    "firstKnownUse": "约 1950s",
+    "relatedWords": [
+      "polymer",
+      "enzyme",
+      "catalyze"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (根据 CEFR 标准，适合高级学习者)",
+    "pronunciationDifficulty": "6 (1-10 量表；由于辅音群和元音变化，可能对中文母语者造成挑战，如 /pəˈlɪməreɪs/ 中的 schwa 音)",
+    "spellingDifficulty": "5 (拼写相对直接，但科学术语的组合可能导致混淆)",
+    "meaningComplexity": "8 (语义涉及生物化学概念，需要背景知识)",
+    "usageComplexity": "7 (主要限于技术语境，使用需结合特定领域)",
+    "learningTips": [
+      "使用分块记忆法将 'poly' 与 '许多' 联想，将 '-ase' 与 '酶' 联系；结合认知科学，创建视觉图表如 DNA 螺旋结构以强化语境记忆；通过重复性练习，如朗读科学文章，改善语音和语义整合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nucleic acid polymerase",
+        "similarity": "0.9",
+        "context": "在分子生物学语境中，用于精确描述 DNA 或 RNA 合成酶"
+      },
+      {
+        "word": "synthetase",
+        "similarity": "0.7",
+        "context": "在更广泛的生化反应语境中，泛指合成酶"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "depolymerase",
+        "context": "在生化语境中，指分解聚合物的酶，与合成过程相反"
+      }
+    ],
+    "hypernyms": [
+      "enzyme"
+    ],
+    "hyponyms": [
+      "DNA polymerase",
+      "RNA polymerase"
+    ],
+    "collocations": [
+      {
+        "pattern": "polymerase + noun (e.g., polymerase activity)",
+        "examples": [
+          "The polymerase activity was measured in the lab."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + polymerase (e.g., inhibit polymerase)",
+        "examples": [
+          "Scientists inhibit polymerase to study gene expression."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征分子生物学的进步，没有显著的隐含语义，但在全球科学社区中代表技术创新和医疗应用，如 PCR 技术在疫情中的作用。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "使用更常见于学术和工业语境",
+        "usage": "在美国英语中，常在生物技术公司和研究机构中使用，强调实际应用"
+      },
+      {
+        "region": "英国",
+        "variation": "类似美国，但可能在正式学术出版物中更精确",
+        "usage": "在英国英语中，偏向于理论讨论，如在大学课程中"
+      }
+    ],
+    "historicalContext": "与 20 世纪中叶的分子生物学革命相关，如 Watson 和 Crick 的 DNA 结构发现，推动了聚合酶在遗传学和医学中的应用。",
+    "modernUsage": "在社交媒体和在线教育中流行，如 TikTok 上的科学普及视频，或 COVID-19 疫苗开发的讨论中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂组装线，工人（代表聚合酶）将许多小零件（核苷酸）连接成长链（DNA 或 RNA）。",
+      "keyElements": [
+        "工厂组装线",
+        "小零件",
+        "长链"
+      ],
+      "emotionalConnection": "联结到个人经验，如拼图游戏的兴奋感，触发积极情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly-mer-ase 像 '许多部分连接酶'，将 'poly' 想象为许多积木。",
+        "explanation": "通过视觉联想增强认知加工，根据双编码理论结合图像和词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /pəˈlɪməreɪz/ 听起来像 'pull a merry race'，想象拉扯许多彩色丝带。",
+        "explanation": "利用声音与图像的联结，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "enzyme",
+      "DNA",
+      "synthesis",
+      "replication"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polymerases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + polymerase",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "Polymerase catalyzes the reaction."
+        ]
+      },
+      {
+        "pattern": "Polymerase + of + noun",
+        "description": "表示所属关系的结构",
+        "examples": [
+          "The polymerase of the virus is unique."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polymer'",
+        "correction": "Use 'polymerase' for the enzyme specifically",
+        "explanation": "学习者常混淆 'polymer'（聚合物）和 'polymerase'（酶），需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /pɒlɪˈmɛrəs/",
+        "correction": "Pronounce as /pəˈlɪməreɪz/",
+        "explanation": "中文母语者可能错误强调重音，影响听力理解"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 50,000 in COCA corpus (中等频次，主要在科学领域)",
+    "domains": [
+      "科技",
+      "生物学",
+      "医学"
+    ],
+    "tags": [
+      "生物化学",
+      "酶类",
+      "分子生物学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "word": "gauge",
+  "phonetics": {
+    "british": "/ɡeɪdʒ/",
+    "american": "/ɡeɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instrument or device for measuring the size, amount, or degree of something.",
+      "chineseTranslation": "测量仪器或装置，用于测量大小、数量或程度。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A means of estimating something, such as public opinion or a situation.",
+      "chineseTranslation": "评估手段，用于估计公众意见或情势。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To estimate or determine the amount, level, or volume of something.",
+      "chineseTranslation": "估计或确定某事物的数量、水平或体积。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To measure the dimensions or capacity of something using a gauge.",
+      "chineseTranslation": "使用测量仪器测量某事物的尺寸或容量。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gauge the market",
+      "meaning": "评估市场情况",
+      "example": "Business leaders often gauge the market before launching a new product.",
+      "exampleTranslation": "商业领袖通常在推出新产品前评估市场情况。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pressure gauge",
+      "meaning": "压力测量仪",
+      "example": "The mechanic checked the pressure gauge on the tire.",
+      "exampleTranslation": "机械师检查了轮胎上的压力测量仪。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "take someone's gauge",
+      "meaning": "了解某人的能力和水平",
+      "example": "In negotiations, it's important to take the opponent's gauge early.",
+      "exampleTranslation": "在谈判中，及早了解对手的水平很重要。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use a gauge to ensure the pipes are the correct diameter.",
+      "translation": "工程师使用测量仪确保管道的直径正确。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She tried to gauge his reaction before sharing the bad news.",
+      "translation": "她在分享坏消息前试图评估他的反应。",
+      "source": "Modern literature (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The survey serves as a gauge of public sentiment on climate change.",
+      "translation": "这份调查用作评估公众对气候变化看法的手段。",
+      "source": "News article (e.g., from news corpora like The Guardian)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In sailing, the wind gauge helps adjust the sails for optimal speed.",
+      "translation": "在航海中，风速测量仪有助于调整帆以达到最佳速度。",
+      "source": "Specialized domain (e.g., from maritime texts in COCA)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old North French",
+    "rootWords": [
+      {
+        "root": "ga(u)ge",
+        "meaning": "Measuring instrument",
+        "language": "Old North French"
+      }
+    ],
+    "historicalDevelopment": "从古北法语中的 'ga(u)ge' 演变而来，最初指测量工具或标准，可能源自古高地德语 'galgo'（意为杆或标杆）。在中世纪英语中，它被借入以表示测量或评估，逐渐扩展到现代英语中的抽象含义，如评估情况。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "gager (to pledge)",
+      "gaugeable (capable of being measured)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统（spaced repetition）结合视觉图像，例如想象一个仪表盘来记忆'gauge'的测量含义；基于认知科学，创建个人关联，如将'gauge'与日常生活中的温度计联系，以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "measure",
+        "similarity": "0.8",
+        "context": "在技术或正式语境中，用于量化评估"
+      },
+      {
+        "word": "assess",
+        "similarity": "0.7",
+        "context": "在商业或社交语境中，用于估计情况"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在决策语境中，表示不进行评估"
+      },
+      {
+        "word": "overlook",
+        "context": "在观察语境中，表示忽略测量"
+      }
+    ],
+    "hypernyms": [
+      "instrument",
+      "tool"
+    ],
+    "hyponyms": [
+      "pressure gauge",
+      "fuel gauge"
+    ],
+    "collocations": [
+      {
+        "pattern": "gauge + noun (e.g., gauge the depth)",
+        "examples": [
+          "gauge the depth of the water"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + gauge (e.g., to gauge accurately)",
+        "examples": [
+          "to gauge public opinion"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方工业文化中，'gauge' 象征精确性和科学方法，常用于工程和科学领域，隐含语义为理性决策；在中文文化中，可与传统测量工具如 '准绳' 关联，强调平衡和准确。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如汽车或工程",
+        "usage": "在日常美式英语中，强调实用性和量化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重历史语境，如铁路轨距（railway gauge）",
+        "usage": "在正式或历史语境中，使用更精确"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'gauge' 在19世纪英国兴起，用于标准化测量，促进了全球贸易和科学发展；在文学中，如狄更斯的作品中，象征社会评估。",
+    "modernUsage": "在社交媒体和数字时代，'gauge' 用于在线调查或数据分析，反映当代对信息即时性的需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个汽车仪表盘，指针在转动，显示油量或速度。",
+      "keyElements": [
+        "仪表盘",
+        "指针",
+        "测量"
+      ],
+      "emotionalConnection": "联结个人驾车经历的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Gauge 像 'gate' 的守护者，守卫着正确的测量。",
+        "explanation": "通过声音联想将 'gauge' 与 'gate' 连接，创建视觉故事以提升认知保留"
+      },
+      {
+        "type": "缩略",
+        "content": "G.A.U.G.E. = Get Accurate Understanding of Great Estimates",
+        "explanation": "使用首字母缩略法结合实际应用，帮助初级学习者构建结构化记忆"
+      }
+    ],
+    "wordAssociations": [
+      "measure",
+      "scale",
+      "assess",
+      "tool"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "gauges",
+      "pastTense": "gauged",
+      "pastParticiple": "gauged",
+      "presentParticiple": "gauging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + object (e.g., gauge something)",
+        "description": "作为动词，直接后接名词短语，表示评估对象。",
+        "examples": [
+          "They gauged the distance accurately."
+        ]
+      },
+      {
+        "pattern": "Noun + preposition (e.g., gauge of something)",
+        "description": "作为名词，用于描述测量工具的类型。",
+        "examples": [
+          "The gauge of the wire is standard."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'gauge' with 'gorge'",
+        "correction": "Use 'gauge' for measurement and 'gorge' for a deep valley.",
+        "explanation": "发音相似可能导致混淆；通过语境区分，如技术 vs. 地理。"
+      },
+      {
+        "mistake": "Incorrect verb form, e.g., 'gauging' as 'gaugeing'",
+        "correction": "Always spell as 'gauging' (not 'gaugeing').",
+        "explanation": "英语拼写规则要求在 'e' 后添加 'u' 但不重复。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "engineering"
+    ],
+    "tags": [
+      "measurement",
+      "assessment",
+      "tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

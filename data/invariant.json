@@ -1,0 +1,242 @@
+{
+  "word": "invariant",
+  "phonetics": {
+    "british": "/ɪnˈveə.ri.ənt/",
+    "american": "/ɪnˈver.i.ənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not changing in form or function under a set of transformations or conditions.",
+      "chineseTranslation": "不变的；不随条件变化的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity or property that remains unchanged under certain transformations.",
+      "chineseTranslation": "不变量；不变元",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invariant under",
+      "meaning": "在某种变换下保持不变",
+      "example": "The speed of light is invariant under Lorentz transformations.",
+      "exampleTranslation": "光速在洛伦兹变换下是不变的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "topological invariant",
+      "meaning": "拓扑学中的不变量",
+      "example": "Euler characteristic is a topological invariant.",
+      "exampleTranslation": "欧拉特征是一个拓扑不变量。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In physics, energy is often considered an invariant quantity in isolated systems.",
+      "translation": "在物理学中，能量通常被视为孤立系统中的不变量。",
+      "source": "Scientific literature, e.g., from physics textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm ensures that the data structure remains invariant during operations.",
+      "translation": "该算法确保数据结构在操作过程中保持不变。",
+      "source": "Computer science articles",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Mathematicians study invariants to understand symmetries in geometric shapes.",
+      "translation": "数学家研究不变量来理解几何形状的对称性。",
+      "source": "Academic papers",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "not",
+        "language": "Latin"
+      },
+      {
+        "root": "varius",
+        "meaning": "varying or diverse",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'in-'（不）和 'varius'（变化的），通过法语和英语演变。最初在19世纪数学语境中出现，用于描述在变换下保持不变的属性，随着现代科学发展扩展到物理和计算机科学。",
+    "firstKnownUse": "约1850年",
+    "relatedWords": [
+      "variant",
+      "vary",
+      "invariable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'invariant' 与具体科学情境关联，如想象一个不变的钟摆；利用重复间隔法（spaced repetition）强化语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "constant",
+        "similarity": "0.8",
+        "context": "适用于科学和技术语境中表示不变化的属性"
+      },
+      {
+        "word": "unchanging",
+        "similarity": "0.7",
+        "context": "在一般描述中表示稳定的状态"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "variant",
+        "context": "在科学语境中，表示随条件变化的属性"
+      },
+      {
+        "word": "variable",
+        "context": "在数学或统计中，表示可变化的量"
+      }
+    ],
+    "hypernyms": [
+      "property"
+    ],
+    "hyponyms": [
+      "Lorentz invariant",
+      "topological invariant"
+    ],
+    "collocations": [
+      {
+        "pattern": "invariant under [transformation]",
+        "examples": [
+          "The law is invariant under rotation."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "global invariant",
+        "examples": [
+          "Global invariants are preserved across the system."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征稳定性与普遍性，尤其在物理学和数学领域，体现了理性主义传统。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于技术术语，如计算机科学。",
+        "usage": "在美国学术和工业语境中更频繁出现"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中可能更侧重于数学理论。",
+        "usage": "英国语境下常与历史科学文献关联"
+      }
+    ],
+    "historicalContext": "与19世纪的科学革命相关，如爱因斯坦的相对论中使用了该概念，反映了工业时代对不变规律的追求。",
+    "modernUsage": "在社交媒体和在线教育中，常见于科普内容，体现了全球科学传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个固定的钟摆在不同环境中摆动，但其能量保持不变。",
+      "keyElements": [
+        "钟摆",
+        "能量",
+        "稳定"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年玩耍的玩具，触发熟悉感和好奇心。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'invariant' 联想为 'in' (不变) + 'variant' (变量)，想象一个锁住的变量。",
+        "explanation": "通过视觉联想强化记忆，避免混淆类似词汇。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ɪnˈver.i.ənt/' 像 'in very ant'，想象一只顽固的蚂蚁不改变方向。",
+        "explanation": "利用声音和图像结合，提升语音记忆效果。"
+      }
+    ],
+    "wordAssociations": [
+      "constant",
+      "stable",
+      "unchanged"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more invariant",
+      "superlative": "most invariant"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + invariant",
+        "description": "主语 + 系动词 + 不变形容词",
+        "examples": [
+          "The property is invariant."
+        ]
+      },
+      {
+        "pattern": "Invariant + under + noun",
+        "description": "不变形容词 + under + 名词短语",
+        "examples": [
+          "It remains invariant under stress."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'invariant' as a verb",
+        "correction": "Use as adjective or noun only",
+        "explanation": "该词不是动词，常被初学者误用为动作词。"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with 'under' for transformations",
+        "explanation": "错误搭配可能导致语义模糊，确保与特定语境结合。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，COCA 语料库中排名约 20,000",
+    "domains": [
+      "科技",
+      "数学",
+      "物理"
+    ],
+    "tags": [
+      "技术术语",
+      "科学",
+      "抽象概念"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

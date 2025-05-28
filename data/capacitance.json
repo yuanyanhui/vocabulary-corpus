@@ -1,0 +1,239 @@
+{
+  "word": "capacitance",
+  "phonetics": {
+    "british": "/kəˈpæsɪtəns/",
+    "american": "/kəˈpæsɪtəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability of a system, especially a capacitor, to store an electric charge.",
+      "chineseTranslation": "电容",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, the measure of the amount of electric charge that can be stored per unit voltage.",
+      "chineseTranslation": "电荷存储能力",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "capacitance value",
+      "meaning": "电容值，指电容器的存储电荷能力数值",
+      "example": "The capacitance value of this capacitor is 10 microfarads.",
+      "exampleTranslation": "这个电容器的电容值是10微法拉。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "stray capacitance",
+      "meaning": "寄生电容，指电路中意外形成的电容",
+      "example": "Stray capacitance can cause errors in high-frequency circuits.",
+      "exampleTranslation": "寄生电容可能在高频电路中引起误差。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In electronics, capacitance is a key factor in determining how capacitors function in circuits.",
+      "translation": "在电子学中，电容是决定电容器在电路中如何工作的关键因素。",
+      "source": "Technical manual (e.g., from engineering textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The engineer measured the capacitance of the device to ensure it met safety standards.",
+      "translation": "工程师测量了设备的电容以确保它符合安全标准。",
+      "source": "News article on technology (e.g., BBC Science)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Capacitance plays a crucial role in modern smartphones, allowing for efficient energy storage.",
+      "translation": "电容在现代智能手机中发挥着关键作用，允许高效的能量存储。",
+      "source": "Popular science article (e.g., from Wired magazine)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "capacitas",
+        "meaning": "capacity or ability to hold",
+        "language": "Latin"
+      },
+      {
+        "root": "capax",
+        "meaning": "able to contain or hold",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'capacitas'，最初指容纳或容量的概念。在19世纪，随着电学的发展，该词被应用于物理学中描述电荷存储能力，从一般容量概念演变为特定于电容器的技术术语。",
+    "firstKnownUse": "1837",
+    "relatedWords": [
+      "capacity",
+      "capacitor",
+      "capacious"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'capacitance' 与电容器图像关联，以强化记忆；通过重复练习技术语境下的句子，运用间隔重复法提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "capacity",
+        "similarity": "0.8",
+        "context": "在电气语境中适用，尤其指电荷存储，但 'capacity' 更广泛"
+      },
+      {
+        "word": "electric storage",
+        "similarity": "0.7",
+        "context": "用于描述电容的具体功能，在技术讨论中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resistance",
+        "context": "在电路理论中，'resistance' 指阻碍电流，而 'capacitance' 指存储电荷"
+      }
+    ],
+    "hypernyms": [
+      "property",
+      "electrical characteristic"
+    ],
+    "hyponyms": [
+      "electric capacitance",
+      "capacitive reactance"
+    ],
+    "collocations": [
+      {
+        "pattern": "measure + capacitance",
+        "examples": [
+          "We need to measure the capacitance of the circuit."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "capacitance + in + context",
+        "examples": [
+          "Capacitance in capacitors is vital for filtering signals."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科技文化中象征创新和电气工程进步，主要用于教育和工业语境中，并无强烈隐含语义，但反映了工业革命后的科学发展。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于工程和科技讨论",
+        "usage": "例如，在硅谷科技公司中，'capacitance' 频繁出现在产品设计中"
+      },
+      {
+        "region": "英国",
+        "variation": "与美式类似，但可能在学术语境中更正式",
+        "usage": "在英国的教育系统中，常用于物理学课程"
+      }
+    ],
+    "historicalContext": "与19世纪的电气革命相关，如法拉第和麦克斯韦的贡献，该词体现了西方科学史中从理论到应用的演变。",
+    "modernUsage": "在现代社交媒体和在线论坛中，'capacitance' 常出现在科技博客或YouTube教程中，反映数字时代的技术普及趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电容器像一个水箱，存储电荷就像存储水，'capacitance' 代表这个存储能力。",
+      "keyElements": [
+        "电容器图像",
+        "水箱比喻",
+        "电荷流动"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用手机充电时电容的作用，触发好奇和实际应用的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Capacitance sounds like 'capacity dance' – imagine charges dancing in a container.",
+        "explanation": "通过声音联想和视觉化，帮助记忆词汇与概念的关联，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "C for Capacitance and Charge storage.",
+        "explanation": "使用首字母缩略法结合语义关联，提升回忆效率。"
+      }
+    ],
+    "wordAssociations": [
+      "capacitor",
+      "charge",
+      "voltage"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "capacitances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + capacitance",
+        "description": "作为主语或宾语使用在句子中，表示属性或测量",
+        "examples": [
+          "Capacitance affects the circuit's performance."
+        ]
+      },
+      {
+        "pattern": "The + capacitance + of + noun",
+        "description": "用于描述特定对象的电容属性",
+        "examples": [
+          "The capacitance of the capacitor is high."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing capacitance with capacity",
+        "correction": "Use capacitance specifically for electrical contexts",
+        "explanation": "许多学习者混淆二者，因为它们词源相关，但前者专指电学"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use capacitances for plural forms",
+        "explanation": "作为可数名词，需要正确添加 -s，但初学者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "工程",
+      "物理学"
+    ],
+    "tags": [
+      "电气工程",
+      "物理属性",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

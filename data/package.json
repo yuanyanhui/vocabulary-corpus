@@ -1,0 +1,270 @@
+{
+  "word": "package",
+  "phonetics": {
+    "british": "/ˈpækɪdʒ/",
+    "american": "/ˈpækɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A wrapped or boxed object; a container with its contents, such as a parcel or bundle.",
+      "chineseTranslation": "包裹；包；一组物品",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of software programs sold or distributed as a single unit.",
+      "chineseTranslation": "软件包",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To wrap or put into a container for transport or storage.",
+      "chineseTranslation": "包装；打包",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To compile or organize items into a single unit, such as a deal or offer.",
+      "chineseTranslation": "捆绑；组合",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software package",
+      "meaning": "软件程序的集合，通常作为一个单元分发",
+      "example": "I downloaded a new software package to enhance my computer's performance.",
+      "exampleTranslation": "我下载了一个新的软件包来提升电脑的性能。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "package deal",
+      "meaning": "一揽子交易或协议，包括多个相关项目",
+      "example": "The hotel offers a package deal that includes flights, accommodation, and meals.",
+      "exampleTranslation": "酒店提供了一个包括机票、住宿和餐食的一揽子交易。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "care package",
+      "meaning": "包含生活必需品的包裹，通常用于支援他人",
+      "example": "She sent a care package to her friend studying abroad with snacks and books.",
+      "exampleTranslation": "她给在国外学习的朋友寄了一个包含零食和书籍的关怀包裹。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The delivery driver left the package on the doorstep.",
+      "translation": "送货司机把包裹留在了门阶上。",
+      "source": "Common everyday conversation, based on COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "This software package is essential for data analysis in scientific research.",
+      "translation": "这个软件包对科学研究中的数据分析至关重要。",
+      "source": "Technical writing, from academic texts in BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "They decided to package the products more attractively to boost sales.",
+      "translation": "他们决定更吸引人地包装产品来提升销售额。",
+      "source": "Business news, from The Guardian",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the holiday season, families often package gifts with colorful wrapping paper.",
+      "translation": "在节日季节，家庭通常用彩色包装纸包装礼物。",
+      "source": "Cultural literature, from modern novels",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（从古法语）",
+    "rootWords": [
+      {
+        "root": "pack",
+        "meaning": "打包或捆绑",
+        "language": "古英语和日耳曼语"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语 'package'，源自古法语 'pacage'，意为打包或负载，最终追溯到日耳曼语根 'pakko-'，意为紧凑物或捆绑。从中世纪的贸易和运输语境演变为现代意义，包括物理包装和抽象组合，如软件包。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "packet",
+      "pack",
+      "packaging"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象一个盒子来记忆名词含义；对于动词，使用重复练习和语境故事以增强记忆痕迹；针对中文学习者，比较英语'package'与汉语'包装'的相似性，以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bundle",
+        "similarity": "0.8",
+        "context": "在商业或运输语境中，用于表示一组物品"
+      },
+      {
+        "word": "wrap",
+        "similarity": "0.7",
+        "context": "作为动词时，用于包装物品的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unpack",
+        "context": "在拆开包装的语境中"
+      },
+      {
+        "word": "separate",
+        "context": "在分解组合的语境中"
+      }
+    ],
+    "hypernyms": [
+      "container",
+      "item"
+    ],
+    "hyponyms": [
+      "gift package",
+      "mail package"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + package (e.g., send a package)",
+        "examples": [
+          "Send a package",
+          "Receive a package"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + package (e.g., sealed package)",
+        "examples": [
+          "Sealed package",
+          "Fragile package"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着商业化和礼物交换，例如圣诞节包装礼物代表关怀和节日精神；在跨文化语境中，包装反映了消费主义和环境保护议题，如减少过度包装。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于电子商务语境，如Amazon包裹",
+        "usage": "在美国日常用语中，'package'经常与在线购物相关"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于传统邮寄，如Royal Mail包裹",
+        "usage": "在英国，'package'常与历史悠久的邮政系统相关联"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的贸易扩张有关，在维多利亚时代文学中常出现包装作为社会阶层象征；在现代，关联于全球化贸易和数字产品分发。",
+    "modernUsage": "在社交媒体和在线平台上，'package'用于描述订阅服务或病毒式营销趋势，如Netflix软件包。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个彩色盒子被包裹起来，里面装着礼物或物品。",
+      "keyElements": [
+        "盒子",
+        "礼物",
+        "包装纸"
+      ],
+      "emotionalConnection": "联结到个人经历，如收到节日礼物的喜悦，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'package'联想为'pack + age'，想象一个老式行李箱（age表示古老），里面打包物品。",
+        "explanation": "通过视觉联想帮助记忆词根和意义，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈpækɪdʒ/'听起来像'pack it up'，想象将东西打包的声音。",
+        "explanation": "利用听觉线索强化发音记忆，减少错误"
+      }
+    ],
+    "wordAssociations": [
+      "box",
+      "wrap",
+      "delivery"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "packages",
+      "pastTense": "packaged",
+      "pastParticiple": "packaged",
+      "presentParticiple": "packaging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + [Adjective] + package",
+        "description": "名词短语结构，常用于描述具体物品",
+        "examples": [
+          "A large package arrived today."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: Subject + package + object",
+        "description": "动词短语结构，用于表示动作",
+        "examples": [
+          "They package goods for export."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'package' with 'packet' (e.g., using 'package' for small envelopes)",
+        "correction": "Use 'packet' for smaller items like envelopes",
+        "explanation": "区别在于规模和语境；'package' 通常指较大物品"
+      },
+      {
+        "mistake": "Incorrect verb form (e.g., 'packaged' as irregular)",
+        "correction": "It is regular: packaged",
+        "explanation": "作为规则动词，避免不必要的变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "commerce",
+      "technology",
+      "daily life"
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "transport",
+      "software"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

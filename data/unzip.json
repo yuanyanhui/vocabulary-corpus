@@ -1,0 +1,228 @@
+{
+  "word": "unzip",
+  "phonetics": {
+    "british": "/ʌnˈzɪp/",
+    "american": "/ʌnˈzɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To extract or decompress files that have been compressed using a zip utility, restoring them to their original form.",
+      "chineseTranslation": "解压缩",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unzip a file",
+      "meaning": "解压缩一个文件",
+      "example": "You can unzip a file using the built-in tools in your operating system.",
+      "exampleTranslation": "您可以使用操作系统中的内置工具解压缩一个文件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "unzip an archive",
+      "meaning": "解压缩一个存档文件",
+      "example": "First, unzip an archive before editing its contents.",
+      "exampleTranslation": "首先，解压缩一个存档文件，然后编辑其内容。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to unzip the folder to view all the images inside.",
+      "translation": "我需要解压缩文件夹才能查看里面的所有图像。",
+      "source": "Technical manual (e.g., from software documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After downloading the software, remember to unzip it on your desktop.",
+      "translation": "下载软件后，记得在桌面解压缩它。",
+      "source": "Online tutorial (e.g., from a tech website)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a professional setting, developers often unzip code repositories to start working.",
+      "translation": "在专业环境中，开发人员经常解压缩代码仓库以开始工作。",
+      "source": "News article (e.g., technology news)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "zip",
+        "meaning": "Originally an onomatopoeic word for the sound of a fastener closing quickly, later extended to mean compressing data.",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪早期的'zip'一词，用于描述拉链的快速关闭声音。1980年代，随着个人计算机的兴起，该词扩展到数据压缩领域，特别是PKZIP软件的出现，使'unzip'作为反向操作的术语流行起来。",
+    "firstKnownUse": "1980s",
+    "relatedWords": [
+      "zip",
+      "compress",
+      "extract"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学原理，将'unzip'与拉链动作联想起来，利用视觉和运动记忆来强化词汇；建议初学者在实际计算机操作中重复使用，以建立语境关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "extract",
+        "similarity": "0.8",
+        "context": "在文件管理语境中，例如数据恢复场景"
+      },
+      {
+        "word": "decompress",
+        "similarity": "0.9",
+        "context": "在技术或专业语境中，用于描述逆向压缩过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "zip",
+        "context": "在压缩文件语境中，例如数据存储时"
+      },
+      {
+        "word": "compress",
+        "context": "在数据优化或缩小文件大小的语境中"
+      }
+    ],
+    "hypernyms": [
+      "decompress"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "unzip + noun (e.g., file, archive)",
+        "examples": [
+          "unzip the file",
+          "unzip an archive"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "unzip + preposition + location",
+        "examples": [
+          "unzip to a folder"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征了数字时代的数据可访问性和便利性，在全球计算机文化中代表了信息共享和处理的隐含语义，尤其在互联网社区中强调效率。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于非正式技术讨论中",
+        "usage": "在美国英语中，'unzip' 在软件开发和日常计算语境中高度流行，常见于科技公司如Apple或Microsoft的产品文档。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔与'decompress'互换使用，但'unzip'仍为主流",
+        "usage": "在英国英语中，术语保持一致，但可能在学术语境中更偏向正式表达。"
+      }
+    ],
+    "historicalContext": "与20世纪80年代个人计算机革命相关联，例如PKZIP软件的发明，推动了数据压缩技术的普及，并影响了现代数字文化。",
+    "modernUsage": "在社交媒体和在线论坛中常见，用于文件分享语境，如GitHub或其他平台，反映了全球数字化转型的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拉链袋子被拉开，里面涌出许多文件和数据。",
+      "keyElements": [
+        "拉链",
+        "文件",
+        "数据流"
+      ],
+      "emotionalConnection": "联结到打开礼物或解锁新内容的兴奋感，以增强个人记忆痕迹。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Unzip sounds like unzipping a jacket in cold weather.",
+        "explanation": "通过声音联想和日常动作，将词汇与熟悉的物理体验连接起来，利用认知联想原理提升记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-Z-I-P: Uncover New Zipped Items Properly.",
+        "explanation": "使用首字母缩略法创建短语，帮助构建结构化记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "zip",
+      "open",
+      "extract",
+      "decompress"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "unzipped",
+      "pastParticiple": "unzipped",
+      "presentParticiple": "unzipping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + unzip + object",
+        "description": "主语直接后接动词'unzip'和宾语，常用于命令句或陈述句。",
+        "examples": [
+          "I unzip the file."
+        ]
+      },
+      {
+        "pattern": "unzip + object + adverbial phrase",
+        "description": "动词后接宾语和状语短语，以指定位置或方式。",
+        "examples": [
+          "Unzip the archive to the desktop."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'unzip' with 'zip'",
+        "correction": "Use 'unzip' only for decompression",
+        "explanation": "学习者常混淆二者含义，导致语境错误；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'unzipped' for past",
+        "explanation": "中文母语学习者可能忽略动词时态变化；使用重复句型练习来纠正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 500 occurrences per million words)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Digital Media"
+    ],
+    "tags": [
+      "computing",
+      "file management",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

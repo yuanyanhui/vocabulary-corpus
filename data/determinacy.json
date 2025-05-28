@@ -1,0 +1,238 @@
+{
+  "word": "determinacy",
+  "phonetics": {
+    "british": "/dɪˈtɜːmɪnəsi/",
+    "american": "/dɪˈtɝːmɪnəsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state or quality of being determinate; the condition of being precisely defined, fixed, or certain, often used in contexts like mathematics, philosophy, or logic to denote absence of ambiguity.",
+      "chineseTranslation": "确定性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lack of determinacy",
+      "meaning": "缺乏确定性",
+      "example": "The lack of determinacy in quantum mechanics challenges traditional notions of causality.",
+      "exampleTranslation": "量子力学中的确定性缺失挑战了传统的因果概念。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "high determinacy",
+      "meaning": "高度确定性",
+      "example": "In classical physics, high determinacy allows for precise predictions of particle trajectories.",
+      "exampleTranslation": "在经典物理学中，高度确定性允许对粒子轨迹进行精确预测。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The determinacy of the legal contract ensured that all parties understood their obligations clearly.",
+      "translation": "法律合同的确定性确保了所有各方都清楚地理解他们的义务。",
+      "source": "Legal documents (e.g., from British National Corpus - BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Philosophers debate the determinacy of free will in the face of deterministic natural laws.",
+      "translation": "哲学家们辩论在决定论自然法则面前自由意志的确定性。",
+      "source": "Philosophical texts (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday decision-making, a lack of determinacy can lead to hesitation and error.",
+      "translation": "在日常决策中，缺乏确定性可能导致犹豫和错误。",
+      "source": "General discourse (e.g., modern essays)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "determin-",
+        "meaning": "to limit or define",
+        "language": "Latin"
+      },
+      {
+        "root": "-acy",
+        "meaning": "state or quality of",
+        "language": "Latin/Greek via Old French"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'determinare' (to limit or decide), which combines 'de-' (from) and 'terminare' (to bound). The term evolved through Old French 'determiner' in the Middle Ages, entering English in the 17th century to denote precision in philosophical and scientific contexts, expanding to modern usage in logic and mathematics by the 19th century.",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "determine",
+      "determinant",
+      "indeterminacy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "通过认知科学原理，如分块学习（chunking），将 'determinacy' 与相关概念如 'certainty' 联系起来，以减少认知负荷；",
+      "使用视觉映射将抽象语义与具体场景关联，例如想象一个锁定的盒子代表确定性；",
+      "结合双语激活，鼓励学习者从中文 '确定性' 出发，逐步构建英语语境记忆，避免母语干扰"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "certainty",
+        "similarity": "0.8",
+        "context": "适用于哲学或科学语境中强调无歧义的状态"
+      },
+      {
+        "word": "definiteness",
+        "similarity": "0.7",
+        "context": "常用于法律或数学领域，强调精确性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indeterminacy",
+        "context": "适用于量子物理或不确定性理论的讨论中"
+      },
+      {
+        "word": "ambiguity",
+        "context": "在文学或日常语言中，表示模糊或不明确的状态"
+      }
+    ],
+    "hypernyms": [
+      "quality",
+      "state"
+    ],
+    "hyponyms": [
+      "logical determinacy",
+      "mathematical determinacy"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + determinacy",
+        "examples": [
+          "the determinacy of outcomes"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + determinacy",
+        "examples": [
+          "high determinacy in predictions"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性与精确，尤其在科学和哲学领域，体现启蒙运动的遗产，如笛卡尔的思想；在中国文化中，可与 '天命' 或 '定数' 隐含关联，但需谨慎以避免文化误读。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in academic discourse with a focus on philosophical traditions.",
+        "usage": "在英国英语中，常见于正式学术论文中"
+      },
+      {
+        "region": "United States",
+        "variation": "Often appears in scientific contexts, such as physics, with a pragmatic emphasis.",
+        "usage": "在美国英语中，更多用于技术报告或教育材料"
+      }
+    ],
+    "historicalContext": "与启蒙时代欧洲理性主义相关，如洛克和休谟的哲学讨论；在中国，受西方影响的现代语境中，与科学革命的传播相联。",
+    "modernUsage": "在社交媒体和在线论坛中，词语用于讨论人工智能的伦理问题，如算法的确定性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个精确的罗盘指向单一方向，代表 'determinacy' 的固定性。",
+      "keyElements": [
+        "罗盘",
+        "固定方向",
+        "无变数"
+      ],
+      "emotionalConnection": "联结个人决策经验，如计划旅行时使用地图，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'determinacy' as 'determine + city' – a city that is fully mapped and unchangeable.",
+        "explanation": "通过视觉联想将抽象概念具体化，利用认知科学中的双编码理论（dual coding），结合图像和文字"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/dɪˈtɜːmɪnəsi/' 像 'dee-term-in-a-see'，联想到 'see' 一个确定的景象。",
+        "explanation": "利用声音与视觉的联觉，促进海马体记忆巩固"
+      }
+    ],
+    "wordAssociations": [
+      "certainty",
+      "fixity",
+      "precision"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "determinacies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + determinacy",
+        "description": "主语 + 动词 + 确定性，常用于描述状态",
+        "examples": [
+          "The theory emphasizes determinacy in its core principles."
+        ]
+      },
+      {
+        "pattern": "Adjective + determinacy",
+        "description": "形容词 + 确定性，用于修饰程度",
+        "examples": [
+          "High determinacy is essential in experimental design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'determinism'",
+        "correction": "Use 'determinacy' for the state, not the philosophical doctrine",
+        "explanation": "学习者常混淆二者语义；通过区分语境可避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'determinacies' for plural forms",
+        "explanation": "作为可数名词，需注意复数形式以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "philosophy",
+      "mathematics",
+      "science",
+      "law"
+    ],
+    "tags": [
+      "abstract concept",
+      "technical term",
+      "formal language"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

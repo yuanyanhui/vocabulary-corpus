@@ -1,0 +1,247 @@
+{
+  "word": "vector",
+  "phonetics": {
+    "british": "/ˈvɛktə/",
+    "american": "/ˈvɛktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity that has both magnitude and direction, often represented by an arrow in mathematics and physics.",
+      "chineseTranslation": "向量（具有大小和方向的量）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An organism, such as an insect, that transmits a pathogen from one host to another.",
+      "chineseTranslation": "媒介或载体（如昆虫传播病原体）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "scientific"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To direct or guide something along a specific path, often in computing or navigation.",
+      "chineseTranslation": "引导或定向",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "vector space",
+      "meaning": "向量空间（数学中一组向量的集合）",
+      "example": "In linear algebra, a vector space is a set of vectors that can be added and multiplied by scalars.",
+      "exampleTranslation": "在线性代数中，向量空间是一组可以相加并乘以标量的向量集合。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "disease vector",
+      "meaning": "疾病媒介（如蚊子传播疟疾）",
+      "example": "Mosquitoes are a common disease vector for malaria in tropical regions.",
+      "exampleTranslation": "蚊子是热带地区疟疾的常见疾病媒介。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist explained how velocity is a vector because it includes both speed and direction.",
+      "translation": "物理学家解释了速度为什么是一个向量，因为它包括速度和方向。",
+      "source": "Scientific textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer graphics, vector images maintain quality when resized.",
+      "translation": "在计算机图形学中，向量图像在调整大小时保持质量不变。",
+      "source": "Technology article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The mosquito acts as a vector for the Zika virus, spreading it across populations.",
+      "translation": "蚊子作为寨卡病毒的媒介，在人群中传播它。",
+      "source": "Health report (e.g., from WHO documents)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "vector",
+        "meaning": "one who carries or conveys",
+        "language": "Latin"
+      },
+      {
+        "root": "vehere",
+        "meaning": "to carry",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'vector'，意为携带者或输送者，起源于 'vehere'（携带）。该词在17世纪通过科学语境传入英语，先用于数学和物理领域表示有方向的量，后来扩展到生物学中描述病原体传播者。",
+    "firstKnownUse": "约1670年，在科学文献中首次出现",
+    "relatedWords": [
+      "vehicle",
+      "convey"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化记忆法将向量想象为带有箭头的汽车路径，以强化方向概念；对于中文母语学习者，使用双语对照练习避免混淆相似词汇，如 'vector' 与 'factor' 的区别。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "matrix",
+        "similarity": "0.7",
+        "context": "在数学语境中，适用于线性代数领域，但不如 vector 精确"
+      },
+      {
+        "word": "carrier",
+        "similarity": "0.8",
+        "context": "在生物学语境中，用于描述传播病原体的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scalar",
+        "context": "在数学中，scalar 仅表示大小而无方向，与 vector 相对"
+      }
+    ],
+    "hypernyms": [
+      "quantity"
+    ],
+    "hyponyms": [
+      "velocity",
+      "force"
+    ],
+    "collocations": [
+      {
+        "pattern": "vector + noun (e.g., vector field)",
+        "examples": [
+          "a vector field in physics"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + vector (e.g., calculate vector)",
+        "examples": [
+          "to calculate a vector sum"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和方向性，尤其在STEM领域，体现了理性主义和量化思维；在中文文化中，可能与中医的 '气' 或现代科技翻译相关联，但缺乏强烈象征性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，更常用于技术语境，如计算机图形",
+        "usage": "美国科技产业中频繁出现，常见于教育和商业"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，偏向学术语境，如物理学理论",
+        "usage": "英国教育体系中用于正式教学"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，反映了欧洲科学发展；在文学中，如H.G. Wells的作品中，vector 可隐喻社会传播。",
+    "modernUsage": "在社交媒体和数字时代，vector 常用于AI和数据可视化，常在Twitter或LinkedIn上讨论技术趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头指向的汽车在地图上行驶，箭头代表方向和速度。",
+      "keyElements": [
+        "箭头",
+        "汽车",
+        "地图路径"
+      ],
+      "emotionalConnection": "联结个人驾车经历，触发方向感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Vector 像 'victor'（胜利者），想象一个胜利者带着箭头前进。",
+        "explanation": "通过积极情感联想强化词汇记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Vector 听起来像 'vector wind'，联想到风的流动方向。",
+        "explanation": "利用声音与视觉的联觉，帮助中级学习者构建多模态记忆网络"
+      }
+    ],
+    "wordAssociations": [
+      "arrow",
+      "direction",
+      "path"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "vectors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + vector",
+        "description": "主语是向量，通常用于定义语境",
+        "examples": [
+          "Velocity is a vector."
+        ]
+      },
+      {
+        "pattern": "Vector + of + noun",
+        "description": "表示向量的组成部分",
+        "examples": [
+          "The vector of force in physics."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing vector with scalar",
+        "correction": "Use vector for quantities with direction",
+        "explanation": "中文学习者常混淆，因为两者在翻译中相似；需强调方向概念"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'vectors' for plural",
+        "explanation": "英语中名词复数规则简单，但初学者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "science",
+      "technology",
+      "mathematics",
+      "biology"
+    ],
+    "tags": [
+      "mathematics",
+      "physics",
+      "computing",
+      "biology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

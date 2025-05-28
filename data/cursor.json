@@ -1,0 +1,235 @@
+{
+  "word": "cursor",
+  "phonetics": {
+    "british": "/ˈkɜː.sər/",
+    "american": "/ˈkɝː.sɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A movable symbol on a computer screen that indicates the current position, typically where the next character will be entered or an action will occur.",
+      "chineseTranslation": "光标",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, any indicator or pointer that moves to show position or selection, as in databases or graphical interfaces.",
+      "chineseTranslation": "指示器或指针",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mouse cursor",
+      "meaning": "鼠标光标",
+      "example": "The mouse cursor changed to a hand when hovering over the link.",
+      "exampleTranslation": "当鼠标悬停在链接上时，鼠标光标变成了手形。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cursor keys",
+      "meaning": "光标键",
+      "example": "Use the cursor keys to navigate through the menu.",
+      "exampleTranslation": "使用光标键来导航菜单。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The cursor blinked impatiently on the login screen, waiting for the password.",
+      "translation": "光标在登录屏幕上不耐烦地闪烁，等待密码输入。",
+      "source": "Modern technology literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In graphic design software, the cursor transforms into various tools based on the selected function.",
+      "translation": "在图形设计软件中，光标会根据选定的功能转变为各种工具。",
+      "source": "Educational tutorials",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Programmers often manipulate the cursor position in code to enhance user experience.",
+      "translation": "程序员经常在代码中操作光标位置来提升用户体验。",
+      "source": "Software development articles",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "cursorem",
+        "meaning": "runner or one who runs",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'cursorem'，意为“跑者”，最初用于描述快速移动的事物。在17世纪的英语中演变为表示移动对象的含义，到20世纪60年代，随着计算机技术的兴起，扩展为现代计算机术语，指屏幕上的移动指示器。",
+    "firstKnownUse": "17th century, with computing-specific use in the 1960s",
+    "relatedWords": [
+      "cursorial (related to running or swift movement)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "通过将光标与“跑步者”的意象联系，利用认知联想来增强记忆；建议结合视觉辅助工具，如动画演示，以促进大脑的视觉-空间加工。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pointer",
+        "similarity": "0.8",
+        "context": "在图形用户界面中，用于表示选择或定位"
+      },
+      {
+        "word": "indicator",
+        "similarity": "0.7",
+        "context": "在一般技术语境中，作为位置标记"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "static element",
+        "context": "在动态 vs. 静态对比中，指不移动的屏幕组件"
+      },
+      {
+        "word": "fixed point",
+        "context": "在编程中，指不变的位置标记"
+      }
+    ],
+    "hypernyms": [
+      "indicator"
+    ],
+    "hyponyms": [
+      "text cursor",
+      "mouse pointer"
+    ],
+    "collocations": [
+      {
+        "pattern": "move the cursor",
+        "examples": [
+          "Move the cursor to the right."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "position the cursor",
+        "examples": [
+          "Position the cursor at the beginning of the line."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字文化中，光标象征着用户互动和导航能力，体现出现代科技对效率和即时性的强调，尤其在西方文化中代表个人控制和探索。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语，如 'cursor' 在软件开发中",
+        "usage": "在美国英语中，强调在日常计算和编程中的通用性"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能在正式语境中更精确",
+        "usage": "在英国英语中，常见于教育和专业文档，以突出技术精确性"
+      }
+    ],
+    "historicalContext": "与计算机革命相关，起源于20世纪中叶的早期界面设计，影响了文学和社会讨论，如在科幻作品中代表人类与机器的互动。",
+    "modernUsage": "在社交媒体和移动应用中，光标的使用趋势增加，反映了全球数字化转型，但在中国等地区，可能与本土化界面（如触屏操作）结合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象光标是一个在屏幕上奔跑的小人，就像一个信使在传递信息。",
+      "keyElements": [
+        "奔跑的小人",
+        "屏幕环境",
+        "信息传递"
+      ],
+      "emotionalConnection": "联结到个人电脑使用经验，如编写电子邮件时的兴奋感，以强化情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cursor 听起来像 'courier'（信使），它快速移动。",
+        "explanation": "通过声音联想，将光标视为信使，帮助建立长期记忆路径。"
+      },
+      {
+        "type": "视觉化",
+        "content": "将光标描绘为闪烁的箭头。",
+        "explanation": "利用认知科学中的双编码理论，结合图像和声音以提高保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "pointer",
+      "blink",
+      "navigate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cursors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + cursor",
+        "description": "作为主语或宾语在句子中出现，常用于描述动作或位置",
+        "examples": [
+          "The cursor moves automatically."
+        ]
+      },
+      {
+        "pattern": "Verb + the cursor",
+        "description": "在命令或描述性句子中作为直接宾语",
+        "examples": [
+          "Click on the cursor to select."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'cursor' with 'coarser'",
+        "correction": "Use 'cursor' for computer-related terms and 'coarser' for texture descriptions.",
+        "explanation": "拼写相似但语义不同，常因音似错误导致混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'cursors' for plural.",
+        "explanation": "作为可数名词，需正确添加 -s 后缀。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Education"
+    ],
+    "tags": [
+      "Computer science",
+      "User interface",
+      "Digital tools"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

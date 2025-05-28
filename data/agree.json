@@ -1,0 +1,290 @@
+{
+  "word": "agree",
+  "phonetics": {
+    "british": "/əˈɡriː/",
+    "american": "/əˈɡri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb (intransitive)",
+      "definition": "to have the same opinion as someone else; to be in harmony",
+      "chineseTranslation": "同意某人的意见",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (transitive)",
+      "definition": "to consent to or approve of something",
+      "chineseTranslation": "同意或批准某事",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to match or correspond with something",
+      "chineseTranslation": "符合或一致",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun (archaic or rare)",
+      "definition": "an agreement or harmony",
+      "chineseTranslation": "协议或和谐",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "agree with",
+      "meaning": "同意某人或某物",
+      "example": "I agree with your assessment of the situation.",
+      "exampleTranslation": "我同意你对情况的评估。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "agree to",
+      "meaning": "同意做某事",
+      "example": "She agreed to the terms of the contract.",
+      "exampleTranslation": "她同意了合同条款。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "agree on",
+      "meaning": "就某事达成一致",
+      "example": "The team agreed on a new strategy.",
+      "exampleTranslation": "团队就新策略达成了共识。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "agree with something",
+      "meaning": "与某物一致或适合",
+      "example": "This diet doesn't agree with me.",
+      "exampleTranslation": "这种饮食不适合我。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After a long discussion, we finally agree on the project timeline.",
+      "translation": "经过长时间讨论，我们终于就项目时间表达成一致。",
+      "source": "Business meeting context (e.g., from corporate emails in COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "I don't agree with your political views, but I respect your right to express them.",
+      "translation": "我不赞同你的政治观点，但尊重你表达的权利。",
+      "source": "Social media debate (e.g., from Twitter in contemporary corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The experimental results agree with the theoretical predictions.",
+      "translation": "实验结果与理论预测一致。",
+      "source": "Scientific article (e.g., from academic journals in BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In informal chats, friends often agree to disagree on trivial matters.",
+      "translation": "在非正式聊天中，朋友们经常同意在琐事上分歧。",
+      "source": "Casual conversation (e.g., from spoken corpora like COCA)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "gratus",
+        "meaning": "pleasing or agreeable",
+        "language": "Latin"
+      },
+      {
+        "root": "ad-",
+        "meaning": "to or towards",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from Latin 'adgratus' meaning 'to make pleasing', which evolved through Old French 'agreer' in the 12th century to Middle English 'agree' by the 14th century, shifting from a sense of making something pleasing to denoting consensus or harmony.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "agreement",
+      "agreeable",
+      "disagree"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 4,
+    "usageComplexity": 5,
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与个人经历关联，例如想象同意场景中的肢体语言；通过间隔重复系统复习不同语境下的用法，以强化长时记忆；对于中文母语学习者，注意区分'同意'与'同意某物'的细微差异，避免母语干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "consent",
+        "similarity": 0.8,
+        "context": "在正式同意或许可的语境中，如法律文件"
+      },
+      {
+        "word": "acquiesce",
+        "similarity": 0.7,
+        "context": "在被动或不情愿同意的语境中"
+      },
+      {
+        "word": "concur",
+        "similarity": 0.9,
+        "context": "在正式或专业讨论中表示意见一致"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disagree",
+        "context": "在意见分歧的对话中"
+      },
+      {
+        "word": "object",
+        "context": "在反对或不同意的正式场合"
+      }
+    ],
+    "hypernyms": [
+      "accept"
+    ],
+    "hyponyms": [
+      "nod",
+      "assent"
+    ],
+    "collocations": [
+      {
+        "pattern": "agree + with + noun/pronoun",
+        "examples": [
+          "I agree with her."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "agree + to + verb",
+        "examples": [
+          "They agreed to meet later."
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "agree + on + noun",
+        "examples": [
+          "We agreed on the price."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征社会和谐和共识，尤其在西方民主社会中，'agree' 强调个人意见的表达和互敬，但也可能隐含妥协的文化规范，如英美文化中的 'agree to disagree' 表示尊重分歧。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于正式或礼貌用法，如在议会辩论中",
+        "usage": "在英国英语中，常用于强调集体决策"
+      },
+      {
+        "region": "美国",
+        "variation": "更 casual 和直接，如在日常对话中",
+        "usage": "在美国英语中，常与非正式表达结合，如 'Yeah, I agree!'"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动相关的理性辩论有关，如在莎士比亚作品中出现，反映了文艺复兴时期的社会共识需求。",
+    "modernUsage": "在社交媒体和全球化的语境下，'agree' 常用于在线互动，如点赞或评论，以体现数字时代的快速共识趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个人在点头并握手的场景，表示意见一致。",
+      "keyElements": [
+        "点头",
+        "握手",
+        "微笑"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次家庭讨论中达成的共识，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'agree' as 'a green light' for ideas, where green means go ahead together.",
+        "explanation": "通过视觉联想将词汇与交通信号灯关联，利用认知科学中的图像记忆原理，帮助中文母语者快速回忆同意的正面含义。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce 'agree' and link it to the sound of 'a tree' swaying in agreement with the wind.",
+        "explanation": "运用声音和图像的联觉技巧，基于多模态学习理论，增强发音和语义的记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "consent",
+      "harmony",
+      "nod"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "agreed",
+      "pastParticiple": "agreed",
+      "presentParticiple": "agreeing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + agree + with + object",
+        "description": "主语同意对象的结构，常用于表达意见一致。",
+        "examples": [
+          "She agrees with me."
+        ]
+      },
+      {
+        "pattern": "Subject + agree + to + infinitive",
+        "description": "主语同意做某事的结构。",
+        "examples": [
+          "He agreed to help."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'agree' without preposition when needed",
+        "correction": "Add the correct preposition, e.g., 'agree with' for opinions.",
+        "explanation": "中文学习者常受母语影响，忽略前置词；通过练习句型可避免。"
+      },
+      {
+        "mistake": "Confusing with 'agreeable'",
+        "correction": "Use 'agree' for actions, 'agreeable' for adjectives.",
+        "explanation": "区分动词和形容词形态，以提高精确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 words in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "动词",
+      "共识",
+      "社会互动"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

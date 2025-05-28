@@ -1,0 +1,241 @@
+{
+  "word": "spreadsheet",
+  "phonetics": {
+    "british": "/ˈsprɛdʃiːt/",
+    "american": "/ˈsprɛdʃiːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A digital document or program consisting of an interactive grid of rows and columns, used for organizing, calculating, and analyzing data.",
+      "chineseTranslation": "电子表格",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange or organize data into a spreadsheet format.",
+      "chineseTranslation": "将数据整理成电子表格",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Excel spreadsheet",
+      "meaning": "使用Excel软件创建的电子表格",
+      "example": "I created an Excel spreadsheet to track our monthly expenses.",
+      "exampleTranslation": "我创建了一个Excel电子表格来跟踪我们的月度开支。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Google Sheets spreadsheet",
+      "meaning": "使用Google Sheets创建的在线电子表格",
+      "example": "We collaborated on a Google Sheets spreadsheet for the project budget.",
+      "exampleTranslation": "我们为项目预算合作使用了一个Google Sheets电子表格。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She uses a spreadsheet to manage her household budget effectively.",
+      "translation": "她使用电子表格有效地管理家庭预算。",
+      "source": "Modern business articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In data analysis, a spreadsheet can handle complex formulas and visualizations.",
+      "translation": "在数据分析中，电子表格可以处理复杂的公式和可视化。",
+      "source": "Technical documentation (e.g., from academic sources like JSTOR)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He quickly spreadsheeted the sales data to identify trends.",
+      "translation": "他迅速将销售数据整理成电子表格以识别趋势。",
+      "source": "Informal online forums (e.g., BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "spread",
+        "meaning": "To extend or lay out",
+        "language": "Old English (from Proto-Germanic *sprēdan-)"
+      },
+      {
+        "root": "sheet",
+        "meaning": "A large piece of material, like paper",
+        "language": "Old English (from Proto-Germanic *skautijaz)"
+      }
+    ],
+    "historicalDevelopment": "The term 'spreadsheet' emerged in the late 20th century, combining 'spread' (implying expansion or layout) and 'sheet' (referring to a page or document). It evolved with the advent of personal computers in the 1970s and 1980s, initially popularized by software like VisiCalc in 1979, transitioning from manual ledger sheets to digital tools for financial and data management.",
+    "firstKnownUse": "1979",
+    "relatedWords": [
+      "worksheet",
+      "ledger",
+      "database"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个网格状表格来联想'spreadsheet'；通过重复练习数字工具的使用来强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "worksheet",
+        "similarity": "0.8",
+        "context": "在教育或简单数据组织语境中，适用于类似表格结构"
+      },
+      {
+        "word": "table",
+        "similarity": "0.7",
+        "context": "在一般数据呈现语境中，但不如spreadsheet精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "handwritten note",
+        "context": "在非数字或手动记录语境中，表示传统方法"
+      }
+    ],
+    "hypernyms": [
+      "software",
+      "document"
+    ],
+    "hyponyms": [
+      "Excel file",
+      "CSV file"
+    ],
+    "collocations": [
+      {
+        "pattern": "spreadsheet + verb (e.g., create, update)",
+        "examples": [
+          "create a spreadsheet",
+          "update the spreadsheet"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + spreadsheet (e.g., interactive, dynamic)",
+        "examples": [
+          "interactive spreadsheet"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代商业和教育文化中，spreadsheet象征效率和数据驱动决策，常隐含科技进步的语义，但在一些文化中（如某些发展中国家），它可能代表数字鸿沟。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in professional settings with software like Microsoft Excel",
+        "usage": "强调商业应用，在美国企业文化中是标准工具"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but with preferences for Google Sheets in collaborative environments",
+        "usage": "在学术和政府语境中更常见，反映欧盟数据保护法规的影响"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，源于早期会计和财务实践，如维多利亚时代的手工账本，但数字化后成为全球商业标准。",
+    "modernUsage": "在社交媒体和远程工作中流行，例如通过Zoom分享spreadsheet以促进团队协作。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的网格表格铺展开来，像一张床单（sheet）在桌上展开（spread），上面布满数字和公式。",
+      "keyElements": [
+        "网格",
+        "数字公式",
+        "电脑屏幕"
+      ],
+      "emotionalConnection": "联结到个人财务管理的情绪，例如回想使用表格节省开支的成就感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'spread' as spreading butter on a sheet of bread, but digitally as data on a grid.",
+        "explanation": "通过视觉和触觉联想强化词汇记忆，利用多模态编码"
+      },
+      {
+        "type": "缩略",
+        "content": "S-P-R-E-A-D-S-H-E-E-T: Spread Sheets Help Everyone Enter Data Tidily.",
+        "explanation": "使用首字母缩写创建故事，提高词汇保留率"
+      }
+    ],
+    "wordAssociations": [
+      "grid",
+      "Excel",
+      "data",
+      "calculate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "spreadsheets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + spreadsheet + [modifier]",
+        "description": "名词短语结构，常用于描述具体工具",
+        "examples": [
+          "the interactive spreadsheet"
+        ]
+      },
+      {
+        "pattern": "Verb + spreadsheet",
+        "description": "动词搭配结构，用于动作描述",
+        "examples": [
+          "manage the spreadsheet"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'spread sheet' as two words",
+        "correction": "Always use as one word: 'spreadsheet'",
+        "explanation": "这是合成词，避免分隔以符合现代英语标准"
+      },
+      {
+        "mistake": "Using as a verb incorrectly",
+        "correction": "Ensure context is appropriate; it's less common",
+        "explanation": "动词形式较少用，学习者需区分名词和动词语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5,000 words in COCA corpus for business domains)",
+    "domains": [
+      "technology",
+      "business",
+      "education"
+    ],
+    "tags": [
+      "computing",
+      "data management",
+      "software"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

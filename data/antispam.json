@@ -1,0 +1,252 @@
+{
+  "word": "antispam",
+  "phonetics": {
+    "british": "/ˌæn.tiˈspæm/",
+    "american": "/ˌæn.tiˈspæm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Software, tools, or techniques used to detect and block unsolicited and unwanted bulk messages, such as spam emails.",
+      "chineseTranslation": "用于检测和阻止垃圾邮件或垃圾信息的软件、技术或措施",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Designed or intended to prevent spam, as in antispam policies or features.",
+      "chineseTranslation": "旨在防止垃圾邮件或信息的，形容词形式",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "antispam filter",
+      "meaning": "反垃圾邮件过滤器",
+      "example": "The email service uses an advanced antispam filter to protect users from phishing attempts.",
+      "exampleTranslation": "电子邮件服务使用先进的反垃圾邮件过滤器来保护用户免受网络钓鱼攻击。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "antispam software",
+      "meaning": "反垃圾邮件软件",
+      "example": "Installing antispam software can significantly reduce the amount of junk mail in your inbox.",
+      "exampleTranslation": "安装反垃圾邮件软件可以大大减少收件箱中的垃圾邮件量。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "antispam measures",
+      "meaning": "反垃圾邮件措施",
+      "example": "Companies implement various antispam measures to comply with data protection regulations.",
+      "exampleTranslation": "公司实施各种反垃圾邮件措施以符合数据保护规定。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many modern smartphones come with built-in antispam features to block unwanted calls.",
+      "translation": "许多现代智能手机都内置了反垃圾功能来阻止 unwanted 来电。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The antispam system successfully identified and deleted over 90% of the incoming spam emails.",
+      "translation": "反垃圾邮件系统成功识别并删除了90%以上的传入垃圾邮件。",
+      "source": "Business reports (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the era of digital communication, antispam tools have become essential for maintaining online security.",
+      "translation": "在数字通信时代，反垃圾邮件工具已成为维护在线安全的关键。",
+      "source": "Academic texts (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (from Greek and English roots)",
+    "rootWords": [
+      {
+        "root": "anti-",
+        "meaning": "against",
+        "language": "Greek"
+      },
+      {
+        "root": "spam",
+        "meaning": "irrelevant or unsolicited repetitive messages",
+        "language": "English (originating from a 1970 Monty Python sketch)"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪70年代的Monty Python喜剧短剧中' Spam '一词，用于描述重复的、烦人的内容；随后在1980年代被用于互联网术语，指泛滥的电子邮件；'anti-'前缀从希腊语演变而来，表示反对或对抗；整体词在1990年代随着电子邮件普及而发展为现代意义。",
+    "firstKnownUse": "Approximately 1990s in computing contexts",
+    "relatedWords": [
+      "antivirus",
+      "firewall",
+      "spam filter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it involves technical vocabulary common in intermediate digital literacy contexts)",
+    "pronunciationDifficulty": "4 (out of 10; straightforward compound word with common sounds, but the stress on 'spam' may require practice for non-native speakers)",
+    "spellingDifficulty": "5 (out of 10; compound word formation is logical, but learners may confuse it with similar terms like 'anti-spam' with a hyphen)",
+    "meaningComplexity": "6 (out of 10; requires understanding of context in digital communication, drawing from cognitive linguistics where abstract concepts like 'unwanted messages' need contextual mapping)",
+    "usageComplexity": "5 (out of 10; typically used in specific domains, but patterns are predictable once domain is known)",
+    "learningTips": [
+      "结合认知科学，将词汇与个人数字体验关联，例如回想收到垃圾邮件的挫败感来强化记忆；使用间隔重复系统复习；通过视觉图表展示词汇在网络安全生态中的位置，以提升语义网络构建。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "spam blocker",
+        "similarity": "0.8",
+        "context": "适用于技术语境中，用于描述类似功能的工具"
+      },
+      {
+        "word": "spam prevention",
+        "similarity": "0.7",
+        "context": "在正式报告或商业讨论中，表示预防措施"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "spam generator",
+        "context": "在网络安全语境中，表示制造垃圾邮件的工具"
+      },
+      {
+        "word": "spam promoter",
+        "context": "在道德讨论中，表示推广垃圾信息的活动"
+      }
+    ],
+    "hypernyms": [
+      "security software",
+      "filtering tool"
+    ],
+    "hyponyms": [
+      "email antispam",
+      "web antispam"
+    ],
+    "collocations": [
+      {
+        "pattern": "antispam + noun (e.g., filter, software)",
+        "examples": [
+          "antispam filter",
+          "antispam policy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + antispam (e.g., implement antispam)",
+        "examples": [
+          "deploy antispam measures"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词反映了数字时代中对隐私和信息泛滥的担忧，在西方文化中象征网络安全和个人权利的保护；隐含语义涉及对商业滥用（如广告泛滥）的批判。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用作技术术语，在科技行业流行",
+        "usage": "在美国英语中，常与日常数字工具相关联，如手机应用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式地写作 'anti-spam' 以.hyphen",
+        "usage": "在英国英语中，强调在政策和法规中的应用，如欧盟数据保护法"
+      }
+    ],
+    "historicalContext": "与20世纪互联网兴起相关，源自Monty Python的幽默文化，并延伸到社会问题如信息过载和网络欺凌。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于讨论AI驱动的反垃圾技术；反映当代跨文化趋势，如中国互联网中的类似词汇'反垃圾'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字盾牌阻挡洪水般的垃圾邮件图标。",
+      "keyElements": [
+        "盾牌",
+        "垃圾邮件图标",
+        "网络屏障"
+      ],
+      "emotionalConnection": "联结个人对收到烦人广告的挫败感，触发保护隐私的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Anti-像'对立'，Spam像'垃圾食品'，所以Antispam是'对垃圾食品的盾牌'。",
+        "explanation": "通过比喻将词汇与日常生活物品关联，增强认知记忆路径"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˌæn.tiˈspæm/'听起来像'anti-problem'，帮助记住其防护功能。",
+        "explanation": "利用声音相似性结合语义，基于认知科学中的声音-含义映射"
+      }
+    ],
+    "wordAssociations": [
+      "blocker",
+      "protector",
+      "filter"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "antispams (though rarely used, as it's often uncountable)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., antispam software)",
+        "description": "作为名词短语使用，常与动词如'implement'或'adopt'搭配",
+        "examples": [
+          "We adopted antispam software for better security."
+        ]
+      },
+      {
+        "pattern": "Adjective + noun (e.g., advanced antispam)",
+        "description": "在形容词位置修饰其他名词",
+        "examples": [
+          "The advanced antispam feature enhanced email safety."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'anti-spam' as two words",
+        "correction": "Use as one word 'antispam' in most contexts",
+        "explanation": "在现代英语中，通常写作一个词，以符合技术术语规范"
+      },
+      {
+        "mistake": "Overgeneralizing to non-digital contexts",
+        "correction": "Limit to digital or communication contexts",
+        "explanation": "该词主要用于网络安全领域，避免在一般对话中误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "security",
+      "business"
+    ],
+    "tags": [
+      "digital security",
+      "internet terminology",
+      "cyber protection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

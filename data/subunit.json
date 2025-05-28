@@ -1,0 +1,245 @@
+{
+  "word": "subunit",
+  "phonetics": {
+    "british": "/ˈsʌb.juː.nɪt/",
+    "american": "/ˈsʌb.jun.ɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A smaller component or division that forms part of a larger unit, often used in scientific contexts such as biology or chemistry.",
+      "chineseTranslation": "子单位",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biochemistry, a distinct polypeptide chain that combines with others to form a larger protein complex.",
+      "chineseTranslation": "亚单位（如在生化结构中）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alpha subunit",
+      "meaning": "alpha 子单位",
+      "example": "The alpha subunit of the G protein plays a key role in signal transduction.",
+      "exampleTranslation": "G 蛋白的 alpha 子单位在信号转导中发挥关键作用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "subunit vaccine",
+      "meaning": "子单位疫苗",
+      "example": "Subunit vaccines use only specific parts of the virus to stimulate immunity.",
+      "exampleTranslation": "子单位疫苗仅使用病毒的特定部分来刺激免疫力。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The enzyme consists of two subunits that work together to catalyze the reaction.",
+      "translation": "该酶由两个子单位组成，它们共同作用催化反应。",
+      "source": "Scientific literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In molecular biology, the ribosome is made up of a large subunit and a small subunit.",
+      "translation": "在分子生物学中，核糖体由大子单位和小子单位组成。",
+      "source": "Academic texts (e.g., BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers identified a new subunit in the protein structure that could lead to breakthroughs in drug design.",
+      "translation": "研究人员在蛋白质结构中发现了一个新的子单位，这可能导致药物设计的突破。",
+      "source": "News articles (e.g., from online scientific journals)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "Under or below",
+        "language": "Latin"
+      },
+      {
+        "root": "unit",
+        "meaning": "A single, whole entity",
+        "language": "Latin (from 'unitas', meaning unity)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'sub'（意为在之下）和 'unitas'（意为统一），通过中古英语演变为现代英语。该词在19世纪科学革命期间开始在生物学和化学中流行，用于描述复杂结构的组成部分，从一般性描述演变为特定技术术语。",
+    "firstKnownUse": "Early 20th century (first recorded in scientific contexts around 1905, as per OED)",
+    "relatedWords": [
+      "subgroup",
+      "subcomponent",
+      "substructure"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, as the word has straightforward vowel sounds but potential stress variation for Chinese learners)",
+    "spellingDifficulty": "3 (1-10, simple combination of common roots, but 'sub-' prefix may confuse with similar words)",
+    "meaningComplexity": "6 (1-10, requires understanding of scientific contexts, which can be abstract for intermediate learners)",
+    "usageComplexity": "5 (1-10, often in technical fields, but basic structures are straightforward)",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将 'subunit' 与已知词汇如 'unit' 关联；通过视觉化想象分子结构来增强记忆；建议使用间隔重复系统（spaced repetition）以巩固语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subcomponent",
+        "similarity": "0.8",
+        "context": "适用于技术或工程语境中描述部分组成，如 'subcomponent in a machine'（机器中的子组件）"
+      },
+      {
+        "word": "subdivision",
+        "similarity": "0.6",
+        "context": "适用于更广泛的分类语境中，如 'subdivision of a category'（类别的子划分）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "适用于强调完整性而非部分的语境中，如 'the whole structure versus a subunit'（整个结构与子单位）"
+      },
+      {
+        "word": "unit",
+        "context": "适用于对比整体与部分的语境中，如 'a full unit versus a subunit'（完整单位与子单位）"
+      }
+    ],
+    "hypernyms": [
+      "component",
+      "part"
+    ],
+    "hyponyms": [
+      "polypeptide chain",
+      "ribosomal subunit"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + subunit",
+        "examples": [
+          "part of a subunit",
+          "function of the subunit"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Subunit + verb",
+        "examples": [
+          "subunit binds",
+          "subunit interacts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征精确性和模块化思考，常用于生物学和化学领域，体现还原论方法；在中国文化中，可能与传统中医的整体观形成对比，但现代科学语境下无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于生物技术产业语境",
+        "usage": "在美国英语中，常见于学术和商业讨论，如疫苗开发"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向于正式学术语境",
+        "usage": "在英国英语中，常见于大学教育和科研报告"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和20世纪分子生物学兴起相关，反映了西方科学对复杂系统的分解分析；在中文语境下，与改革开放后引进的现代科学术语相关。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于科普内容，如 YouTube 视频或微信公众号文章中讨论 COVID-19 疫苗。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个更大的拼图（代表整体单位），其中一个小片段（subunit）是关键部分。",
+      "keyElements": [
+        "拼图片段",
+        "分子模型"
+      ],
+      "emotionalConnection": "联结个人经验，如组装乐高玩具时的子部件，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Subunit sounds like 'sub-menu' in a computer, where it's a smaller part of the main menu.",
+        "explanation": "通过声音联想将科学概念与日常技术体验连接，提升认知关联"
+      },
+      {
+        "type": "缩略",
+        "content": "S-U-B: Smaller Unit Below",
+        "explanation": "使用首字母缩写结合视觉记忆，帮助分解词汇结构"
+      }
+    ],
+    "wordAssociations": [
+      "unit",
+      "subgroup",
+      "component"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subunits",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + subunit",
+        "description": "作为主语或宾语出现，常用于描述结构",
+        "examples": [
+          "The subunit functions independently."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with subunit",
+        "description": "常与 'of' 搭配表示所属",
+        "examples": [
+          "The structure includes a subunit of the complex."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'sub-unit' (hyphenated form)",
+        "correction": "Use 'subunit' without hyphen in modern English",
+        "explanation": "在当代英语中，不再使用连字符，除非特定风格指南要求"
+      },
+      {
+        "mistake": "Overgeneralizing to non-scientific contexts",
+        "correction": "Limit to technical usage",
+        "explanation": "中文学习者可能误用在日常语境中，需强调语域限制"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in scientific domains)",
+    "domains": [
+      "science",
+      "biology",
+      "chemistry",
+      "technology"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "biological"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

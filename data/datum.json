@@ -1,0 +1,239 @@
+{
+  "word": "datum",
+  "phonetics": {
+    "british": "/ˈdeɪtəm/",
+    "american": "/ˈdeɪtəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single piece of information or a fact used as a basis for reasoning, calculation, or discussion, especially in scientific or statistical contexts.",
+      "chineseTranslation": "数据点或事实",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In surveying and geodesy, a reference point or value from which measurements are made.",
+      "chineseTranslation": "基准点或参考值",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "datum point",
+      "meaning": "数据点或参考点",
+      "example": "The datum point in the experiment was set at zero.",
+      "exampleTranslation": "实验中的数据点被设置为零。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "raw datum",
+      "meaning": "原始数据",
+      "example": "Scientists collected raw datum from the field for analysis.",
+      "exampleTranslation": "科学家从实地收集原始数据进行分析。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Each datum collected from the survey contributes to the overall analysis.",
+      "translation": "从调查中收集的每个数据点都对整体分析有所贡献。",
+      "source": "Academic paper (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In GPS technology, the datum is crucial for accurate positioning.",
+      "translation": "在 GPS 技术中，基准点对于精确定位至关重要。",
+      "source": "Technical manual (e.g., from engineering texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The researcher treated every datum as a potential breakthrough.",
+      "translation": "研究人员将每个数据点视为潜在的突破。",
+      "source": "Scientific literature (e.g., BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "datum",
+        "meaning": "something given",
+        "language": "Latin"
+      },
+      {
+        "root": "dare",
+        "meaning": "to give",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'datum'，意为 '给予的东西'，最初用于指代在罗马法律中提供的证据或事实。17 世纪传入英语，主要在科学和哲学语境中使用，随着统计学和数据科学的兴起，演变为现代意义上的 '数据点'。",
+    "firstKnownUse": "约 1640 年",
+    "relatedWords": [
+      "data",
+      "date"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块编码法（chunking）将 'datum' 与 'data' 的复数形式关联；通过视觉记忆技巧，想象 'datum' 作为 'data' 的单一 '宝石'，便于强化语义记忆；建议初级学习者通过重复暴露于专业语境中以提升词汇保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fact",
+        "similarity": "0.7",
+        "context": "在一般描述性语境中，例如科学报告"
+      },
+      {
+        "word": "piece of data",
+        "similarity": "0.9",
+        "context": "在数据分析或统计语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hypothesis",
+        "context": "在科学方法中，'datum' 是已知事实，而 'hypothesis' 是推测"
+      }
+    ],
+    "hypernyms": [
+      "information",
+      "fact"
+    ],
+    "hyponyms": [
+      "statistical datum",
+      "geodetic datum"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + preposition + datum",
+        "examples": [
+          "based on datum"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + datum",
+        "examples": [
+          "raw datum",
+          "accurate datum"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征客观性和实证主义，体现启蒙运动以来对事实的强调，常隐含在数据驱动的社会中如大数据时代。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 IT 和工程",
+        "usage": "在美国英语中，'datum' 常在正式报告中出现，以强调精确性"
+      },
+      {
+        "region": "英国",
+        "variation": "在学术写作中更传统地使用",
+        "usage": "英国英语中可能更注重其拉丁语根源，在历史语境如地理学中使用"
+      }
+    ],
+    "historicalContext": "与启蒙运动和科学革命相关，如牛顿时代对经验数据的依赖；在现代，关联大数据和 AI 发展。",
+    "modernUsage": "在社交媒体和数字平台上，'datum' 常用于讨论隐私和信息安全，但可能被简化词汇取代"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个单一的数据点如一颗闪耀的宝石，放在一个更大的数据宝箱中。",
+      "keyElements": [
+        "宝石",
+        "宝箱",
+        "数据点"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆一次科学实验的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'datum' 联想为 'date + um'，如一个特定的日期标记。",
+        "explanation": "通过声音联想强化发音记忆，结合个人日历经验"
+      },
+      {
+        "type": "缩略",
+        "content": "D-A-T-U-M 代表 'Data A Tiny Unit Means'",
+        "explanation": "利用缩略词创建故事，帮助认知加工和长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "data",
+      "fact",
+      "information"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "data",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Datum",
+        "description": "作为主语或宾语出现，例如在陈述句中",
+        "examples": [
+          "The datum supports the theory."
+        ]
+      },
+      {
+        "pattern": "Prepositional Phrase with Datum",
+        "description": "与介词搭配，表示来源或基础",
+        "examples": [
+          "Based on the datum provided."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'data' as singular",
+        "correction": "Use 'datum' for singular or correct 'data' as plural",
+        "explanation": "学习者常混淆 'datum' 和 'data'，尤其在非技术语境中；正确用法基于语数一致性"
+      },
+      {
+        "mistake": "Mispronouncing as /ˈdætəm/",
+        "correction": "Pronounce as /ˈdeɪtəm/",
+        "explanation": "由于美式变体影响，初学者可能错误发音；建议听力练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，根据 COCA 语料库，约 0.01% 出现率",
+    "domains": [
+      "科技",
+      "学术",
+      "商业"
+    ],
+    "tags": [
+      "数据",
+      "科学术语",
+      "信息处理"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

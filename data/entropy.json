@@ -1,0 +1,260 @@
+{
+  "word": "entropy",
+  "phonetics": {
+    "british": "/ˈɛntrəpi/",
+    "american": "/ˈɛntroʊpi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the disorder or randomness in a closed system, often used in thermodynamics to describe the natural progression towards chaos.",
+      "chineseTranslation": "熵，在热力学中表示封闭系统中无序或随机性的度量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In information theory, a quantitative measure of uncertainty or information content in a set of data.",
+      "chineseTranslation": "熵，在信息论中表示数据不确定性或信息量的量化指标",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A metaphorical concept referring to a gradual decline into disorder or inefficiency in various contexts, such as organizations or societies.",
+      "chineseTranslation": "熵，比喻性概念，指组织或社会逐渐走向无序或低效的状态",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "increase in entropy",
+      "meaning": "熵的增加",
+      "example": "The second law of thermodynamics states that there is always an increase in entropy in an isolated system.",
+      "exampleTranslation": "热力学第二定律指出，孤立系统中熵总是增加的。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Shannon entropy",
+      "meaning": "香农熵",
+      "example": "Shannon entropy is a key concept in data compression and cryptography.",
+      "exampleTranslation": "香农熵是数据压缩和密码学中的关键概念。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "entropy production",
+      "meaning": "熵产生",
+      "example": "Entropy production is inevitable in any irreversible process.",
+      "exampleTranslation": "在任何不可逆过程中，熵产生都是不可避免的。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a closed room, entropy will eventually lead to the even distribution of heat.",
+      "translation": "在一个封闭的房间里，熵最终会导致热量的均匀分布。",
+      "source": "Scientific literature (e.g., physics textbooks)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The concept of entropy helps explain why information systems require constant energy input to maintain order.",
+      "translation": "熵的概念有助于解释为什么信息系统需要持续的能量输入来维持秩序。",
+      "source": "Information theory discussions (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Over time, the entropy of the company increased, leading to inefficiencies and eventual decline.",
+      "translation": "随着时间推移，这家公司的熵增加了，导致了低效和最终衰退。",
+      "source": "Business articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "εν (en)",
+        "meaning": "in",
+        "language": "Greek"
+      },
+      {
+        "root": "τροπή (tropē)",
+        "meaning": "a turning or change",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词“εντροπία (entropia)”，最初指“内部转变”，19世纪由德国物理学家鲁道夫·克劳修斯引入热力学中，表示系统能量不可用部分的增加；20世纪扩展到信息论，由克劳德·香农使用以描述不确定性。",
+    "firstKnownUse": "1865",
+    "relatedWords": [
+      "energy",
+      "thermodynamics",
+      "disorder"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法，将熵的概念与日常生活中的混乱场景（如房间变乱）关联，以增强记忆痕迹；利用重复间隔法复习科学语境下的多义性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "disorder",
+        "similarity": "0.8",
+        "context": "在热力学语境中，表示系统无序状态"
+      },
+      {
+        "word": "randomness",
+        "similarity": "0.7",
+        "context": "在信息论中，指数据的不确定性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "order",
+        "context": "在科学语境中，表示系统的高度组织化状态"
+      },
+      {
+        "word": "structure",
+        "context": "在比喻性使用中，指高效的组织形式"
+      }
+    ],
+    "hypernyms": [
+      "measure",
+      "quantity"
+    ],
+    "hyponyms": [
+      "thermodynamic entropy",
+      "information entropy"
+    ],
+    "collocations": [
+      {
+        "pattern": "entropy of [noun]",
+        "examples": [
+          "entropy of the universe",
+          "entropy of a gas"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] entropy",
+        "examples": [
+          "increase entropy",
+          "measure entropy"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征自然界不可逆转的衰退趋势，常隐含哲学含义，如存在主义对混乱的反思；在中文文化中，与道家思想的“无序”概念有潜在关联，但主要用于现代科学翻译。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于信息技术和商业语境",
+        "usage": "在美国英语中，entropy 常在科技公司讨论中比喻组织衰退"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向传统热力学语境",
+        "usage": "在英国英语中，强调其物理学起源，常见于学术出版物"
+      }
+    ],
+    "historicalContext": "与工业革命和现代科学发展相关，19世纪的热力学革命中兴起；在中国文化中，通过翻译引入，关联到古代阴阳平衡概念。",
+    "modernUsage": "在社交媒体和科技语境下流行，用于比喻生活或社会问题，如'生活熵增'在中文网络讨论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个杂乱的房间，随着时间推移变得越来越乱，代表熵的增加。",
+      "keyElements": [
+        "杂乱房间",
+        "时间推移",
+        "无序状态"
+      ],
+      "emotionalConnection": "联结个人经验，如清理桌面后的短暂秩序感，以触发对熵不可逆性的情绪反思"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Entropy sounds like 'entry' plus 'tropy' – think of 'entering a trophy room that becomes messy over time'.",
+        "explanation": "通过声音联想和视觉化，强化词与混乱过程的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "E for 'Energy lost to mess'.",
+        "explanation": "使用首字母缩略结合个人经验，帮助初级学习者记忆核心含义"
+      }
+    ],
+    "wordAssociations": [
+      "chaos",
+      "disorder",
+      "uncertainty"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "entropies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] of entropy",
+        "description": "用于描述熵的具体属性或测量",
+        "examples": [
+          "The level of entropy in the system"
+        ]
+      },
+      {
+        "pattern": "[Verb] with increasing entropy",
+        "description": "表示熵增加的动态过程",
+        "examples": [
+          "Processes with increasing entropy"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing entropy with energy",
+        "correction": "Distinguish entropy as a measure of disorder, not energy itself",
+        "explanation": "学习者常混淆科学术语，建议通过对比学习避免"
+      },
+      {
+        "mistake": "Using entropy as a verb",
+        "correction": "Use it only as a noun",
+        "explanation": "熵是名词，非动词；错误可能源于翻译不当"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in scientific corpora (e.g., ranked in top 10,000 in COCA for technical domains)",
+    "domains": [
+      "science",
+      "technology",
+      "philosophy"
+    ],
+    "tags": [
+      "physics",
+      "information theory",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "word": "preconditioning",
+  "phonetics": {
+    "british": "/priːkənˈdɪʃənɪŋ/",
+    "american": "/priːkənˈdɪʃənɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of preparing something or someone in advance for a specific condition, purpose, or event, often to improve resilience or performance.",
+      "chineseTranslation": "预处理",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "verb (present participle)",
+      "definition": "The act of subjecting something to preliminary conditions or treatments to adapt it for future use or to enhance its response.",
+      "chineseTranslation": "预先条件处理",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cardiac preconditioning",
+      "meaning": "心脏预处理",
+      "example": "Cardiac preconditioning can protect the heart from ischemic damage.",
+      "exampleTranslation": "心脏预处理可以保护心脏免受缺血损伤。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "psychological preconditioning",
+      "meaning": "心理预处理",
+      "example": "Psychological preconditioning helps athletes perform under pressure.",
+      "exampleTranslation": "心理预处理有助于运动员在压力下发挥。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In medical research, preconditioning the cells with mild stress can enhance their survival rates.",
+      "translation": "在医学研究中，通过温和压力对细胞进行预处理，可以提高它们的存活率。",
+      "source": "Scientific literature (e.g., from PubMed databases)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers use preconditioning techniques to test materials under simulated environmental conditions.",
+      "translation": "工程师使用预处理技术在模拟环境条件下测试材料。",
+      "source": "Technical reports (e.g., from engineering journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The coach emphasized the importance of mental preconditioning for the team's success in the tournament.",
+      "translation": "教练强调了心理预处理对团队在锦标赛中取得成功的重要性。",
+      "source": "Sports news (e.g., from BBC Sports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（从拉丁语演变）",
+    "rootWords": [
+      {
+        "root": "pre-",
+        "meaning": "在…之前",
+        "language": "拉丁语（prae-）"
+      },
+      {
+        "root": "condition",
+        "meaning": "条件或状态",
+        "language": "拉丁语（conditio，意为协议或规定）"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪初的科学和技术领域，由'pre-'（表示之前）和'condition'（表示条件）组合而成。最初用于工程和医学语境中描述预先准备过程，随着认知科学和心理学的兴起，其含义扩展到心理和行为适应领域。",
+    "firstKnownUse": "约1920年",
+    "relatedWords": [
+      "precondition",
+      "conditioning",
+      "reconditioning"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将'pre-'视为前缀记忆核心含义，然后关联'conditioning'以构建语义网络；对于中文母语学习者，建议通过视觉化场景联想，如想象'预处理'为汽车引擎预热，以增强长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "preparation",
+        "similarity": "0.8",
+        "context": "在一般语境中，用于描述提前准备的过程，例如工程或教育领域"
+      },
+      {
+        "word": "acclimatization",
+        "similarity": "0.7",
+        "context": "在环境适应语境中，用于描述使某物适应新条件的过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unpreparedness",
+        "context": "在紧急或非预处理语境中，表示缺乏准备的状态"
+      },
+      {
+        "word": "spontaneity",
+        "context": "在自发行为语境中，表示无预先条件的过程"
+      }
+    ],
+    "hypernyms": [
+      "preparation",
+      "adaptation"
+    ],
+    "hyponyms": [
+      "ischemic preconditioning",
+      "thermal preconditioning"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + preconditioning (e.g., cardiac preconditioning)",
+        "examples": [
+          "Cardiac preconditioning improves heart function."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Preconditioning + verb (e.g., preconditioning involves)",
+        "examples": [
+          "Preconditioning involves exposing materials to stress."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征着预防性和适应性策略，常隐含在现代医学和工程领域的创新中，体现出对风险管理的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如AI和生物技术",
+        "usage": "在美国英语中，常在学术和商业讨论中出现，以强调创新和效率"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向正式和历史语境",
+        "usage": "在英国英语中，可能与传统科学文献相关联，强调系统性准备"
+      }
+    ],
+    "historicalContext": "与20世纪工业革命和现代医学发展相关，特别是在二战后兴起的认知心理学中，该词体现了西方文化对预见性和韧性的追求。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于讨论个人发展或技术创新，如TikTok上的心理预处理视频，反映出全球数字时代的适应趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一辆汽车在寒冷天气前进行预热引擎的过程，代表'preconditioning'。",
+      "keyElements": [
+        "引擎预热",
+        "寒冷天气",
+        "准备过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己为考试预先复习的情绪，以增强记忆动机"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'pre-'联想为'准备之前'，和'conditioning'联想为'条件训练'，组合成'提前训练'。",
+        "explanation": "通过视觉联想和情感触发，基于认知科学中的双编码理论（dual coding theory），将词汇与图像和个人经历结合，提高记忆效率。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-C：Preparation-Conditioning",
+        "explanation": "使用缩略形式创建acronym，帮助学习者快速回忆词汇结构。"
+      }
+    ],
+    "wordAssociations": [
+      "preparation",
+      "adaptation",
+      "training"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "preconditioning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + preconditioning",
+        "description": "主语 + 动词 + 预处理作为宾语的结构，常用于描述过程",
+        "examples": [
+          "The experiment involves preconditioning the samples."
+        ]
+      },
+      {
+        "pattern": "Preconditioning as a noun phrase",
+        "description": "预处理作为名词短语，用于句子主语或宾语",
+        "examples": [
+          "Preconditioning is essential in modern engineering."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'precondition' (noun form)",
+        "correction": "Use 'preconditioning' for the process, and 'precondition' for a single condition.",
+        "explanation": "中文母语学习者常混淆词形，建议通过语境区分以避免语义错误。"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Ensure proper use as a gerund or participle.",
+        "explanation": "在句子中错误使用时态，学习者应练习句法模式以提升准确性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（根据COCA语料库，约每百万词15次）",
+    "domains": [
+      "科技",
+      "医学",
+      "教育"
+    ],
+    "tags": [
+      "技术术语",
+      "过程描述",
+      "适应策略"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

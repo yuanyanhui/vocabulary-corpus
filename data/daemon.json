@@ -1,0 +1,238 @@
+{
+  "word": "daemon",
+  "phonetics": {
+    "british": "/ˈdiːmən/",
+    "american": "/ˈdeɪmən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A supernatural being or spirit, often benevolent, in ancient Greek mythology or later interpretations.",
+      "chineseTranslation": "守护神或精灵",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a background process that runs continuously and performs system tasks without user interaction.",
+      "chineseTranslation": "后台进程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "system daemon",
+      "meaning": "系统后台进程",
+      "example": "The system daemon manages network connections in the background.",
+      "exampleTranslation": "系统后台进程在后台管理网络连接。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "daemon process",
+      "meaning": "守护进程",
+      "example": "A daemon process is essential for maintaining server stability.",
+      "exampleTranslation": "守护进程对于维护服务器稳定性至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In ancient mythology, a daemon was considered a guiding spirit for individuals.",
+      "translation": "在古代神话中，守护神被视为个人的指导精神。",
+      "source": "Literature, such as Plato's works",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The web server runs a daemon to handle incoming requests efficiently.",
+      "translation": "网络服务器运行一个后台进程来高效处理传入请求。",
+      "source": "Technical documentation, such as from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern interpretations of daemons often appear in fantasy literature, like in Philip Pullman's novels.",
+      "translation": "现代对守护神的解读常出现在幻想文学中，例如菲利普·普尔曼的小说。",
+      "source": "Contemporary fiction",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "daimon",
+        "meaning": "神灵或命运",
+        "language": "古希腊语"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'daimon'，最初指代一种非人类但有影响力的精神实体。在罗马时代演变为拉丁语 'daemon'，在中世纪基督教语境中常被负面解读为恶魔，但现代英语中恢复了中性或正面含义，尤其在计算机术语中，指后台程序。",
+    "firstKnownUse": "约公元前5世纪，在古希腊文献中",
+    "relatedWords": [
+      "demon",
+      "genius"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分层记忆法，先学习神话语境再扩展到技术语境，以减少语义混淆；建议通过重复暴露和关联联结，如将 'daemon' 与希腊神话图像关联，以强化长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "spirit",
+        "similarity": "0.8",
+        "context": "在神话语境中，用于描述超自然实体"
+      },
+      {
+        "word": "background process",
+        "similarity": "0.9",
+        "context": "在技术语境中，用于计算机系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "angel",
+        "context": "神话语境中，守护神可能与天使相对，但不直接对立"
+      },
+      {
+        "word": "foreground application",
+        "context": "技术语境中，与后台进程相对的用户界面程序"
+      }
+    ],
+    "hypernyms": [
+      "entity",
+      "process"
+    ],
+    "hyponyms": [
+      "system daemon",
+      "user daemon"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + daemon (e.g., system daemon)",
+        "examples": [
+          "system daemon",
+          "network daemon"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + daemon (e.g., run a daemon)",
+        "examples": [
+          "run a daemon"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征守护或隐秘力量，在希腊罗马神话中代表个人命运的引导；在现代数字文化中，体现技术自治和后台运行的概念。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向神话含义",
+        "usage": "在英国英语中，常用于文学和历史语境"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于技术术语",
+        "usage": "在美国英语中，特别是在科技领域，强调计算机进程"
+      }
+    ],
+    "historicalContext": "与古希腊哲学（如柏拉图作品）相关联，在文艺复兴时期被重新诠释；工业革命后，扩展到机械和数字领域。",
+    "modernUsage": "在社交媒体和科技讨论中流行，例如编程论坛或科幻影视中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个隐形守护者站在电脑屏幕后，默默运行程序，就如神话中的守护神。",
+      "keyElements": [
+        "守护者形象",
+        "电脑屏幕",
+        "后台运行"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己使用手机时的后台应用，触发安全感和神秘感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Daemon 像 'demon' 但更友好，像守护者。",
+        "explanation": "通过视觉联想，将其与正面精神实体关联，避免与 'demon' 的负面含义混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "D-A-E-M-O-N: D for Divine, A for Assistant, E for Eternal, M for Monitor, O for Operation, N for Network.",
+        "explanation": "使用首字母缩写法结合语义分组，增强记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "guardian",
+      "background",
+      "spirit"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "daemons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + daemon",
+        "description": "作为主语或宾语使用",
+        "examples": [
+          "The daemon runs continuously."
+        ]
+      },
+      {
+        "pattern": "Adjective + daemon",
+        "description": "修饰词前置",
+        "examples": [
+          "A benevolent daemon guides the hero."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'demon'",
+        "correction": "Use 'daemon' for benevolent spirits or processes",
+        "explanation": "源自历史语境的不同，许多学习者混淆二者含义"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'daemons' instead of 'daemones'",
+        "explanation": "英语中不使用拉丁化复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "mythology",
+      "literature"
+    ],
+    "tags": [
+      "computing",
+      "supernatural",
+      "historical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

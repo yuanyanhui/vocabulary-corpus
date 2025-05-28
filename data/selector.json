@@ -1,0 +1,261 @@
+{
+  "word": "selector",
+  "phonetics": {
+    "british": "/sɪˈlɛktə/",
+    "american": "/səˈlɛktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that selects or chooses something, often used in contexts like sports teams or computing.",
+      "chineseTranslation": "选择器；选拔者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a pattern or code that identifies and selects elements in a document, such as in CSS or HTML.",
+      "chineseTranslation": "（计算机中的）选择器",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mechanism or device that makes selections, such as in machinery or electronics.",
+      "chineseTranslation": "选择装置",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "CSS selector",
+      "meaning": "CSS 选择器，用于在网页中选择特定元素",
+      "example": "The CSS selector targets all paragraphs on the page.",
+      "exampleTranslation": "CSS 选择器针对页面上的所有段落。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "team selector",
+      "meaning": "球队选拔者，指负责选择队员的人",
+      "example": "The team selector chose the best players for the national squad.",
+      "exampleTranslation": "球队选拔者为国家队选择了最好的球员。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "gear selector",
+      "meaning": "变速器选择器，指汽车中的换挡装置",
+      "example": "The gear selector in the car allows smooth shifting between speeds.",
+      "exampleTranslation": "汽车中的变速器选择器允许平滑换挡。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In web development, a selector is essential for styling elements efficiently.",
+      "translation": "在网页开发中，选择器对于高效样式化元素至关重要。",
+      "source": "Technical documentation, such as MDN Web Docs",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The national team's selector announced the final squad for the World Cup.",
+      "translation": "国家队的选拔者公布了世界杯的最终阵容。",
+      "source": "Sports news, e.g., BBC Sports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used the selector on the washing machine to choose the delicate cycle.",
+      "translation": "她使用洗衣机的选择器选择了温和洗涤模式。",
+      "source": "Daily life context, e.g., everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "As a jury selector, his role was to ensure a fair trial process.",
+      "translation": "作为陪审团选拔者，他的角色是确保审判过程的公平性。",
+      "source": "Legal literature, e.g., from court proceedings",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "select-",
+        "meaning": "to choose",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'selegere'，意为 '选择' 或 '挑选'。在中世纪拉丁语中演变为 'selector'，用于表示选择者或选择过程。在17世纪英语中首次用于机械或人为选择的概念，并于20世纪扩展到计算领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "select",
+      "selection",
+      "elector"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "根据认知科学，利用间隔重复法记忆 'selector' 的多重含义；将词汇与个人经验关联，例如联想网页设计中的实际应用，以增强海马体记忆路径；通过视觉化练习，如绘制选择过程的图表，帮助中文母语学习者克服语义模糊问题。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "chooser",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于表示个人选择行为，例如日常决策"
+      },
+      {
+        "word": "filter",
+        "similarity": "0.7",
+        "context": "在技术语境中用于筛选信息，与选择器功能类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rejector",
+        "context": "在选拔语境中，表示拒绝或排除选项"
+      },
+      {
+        "word": "deselector",
+        "context": "在计算语境中，表示取消选择"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "CSS selector",
+      "jury selector"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + selector",
+        "examples": [
+          "class selector",
+          "ID selector"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + selector",
+        "examples": [
+          "use a selector",
+          "configure the selector"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'selector' 象征效率和选择自由，尤其在技术和体育领域；它反映了西方文化对个人决策和优化的重视，但在中文文化中可能与集体决策概念相对。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于体育语境，如足球队选拔",
+        "usage": "在英国英语中，常与历史悠久的体育传统相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重技术语境，如编程中的选择器",
+        "usage": "在美国英语中，与创新和技术文化紧密结合"
+      }
+    ],
+    "historicalContext": "该词与工业革命时期机械选择装置的发明有关，并在20世纪数字时代扩展；文学中，如狄更斯的作品中，隐喻社会选择过程。",
+    "modernUsage": "在社交媒体和数字平台上，'selector' 常用于算法推荐系统，体现当代全球化的信息筛选趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个虚拟的选择面板，上面有按钮和箭头，表示从众多选项中挑选一个。",
+      "keyElements": [
+        "按钮",
+        "箭头",
+        "选项列表"
+      ],
+      "emotionalConnection": "联结到日常生活中的决策时刻，如在线购物时使用过滤器，触发成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'selector' 联想为 'select + or'，想象一个 'or' 形状的工具在选择。",
+        "explanation": "通过视觉联想增强记忆编码，利用大脑的图像处理能力"
+      },
+      {
+        "type": "缩略",
+        "content": "S-E-L-E-C-T-O-R: 'S' for select, 'E' for efficient tool.",
+        "explanation": "使用首字母缩略法结合意义分组，促进工作记忆的组织"
+      }
+    ],
+    "wordAssociations": [
+      "choose",
+      "filter",
+      "pick"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "selectors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + selector",
+        "description": "主语 + 动词 + 选择器结构，常用于描述使用行为",
+        "examples": [
+          "The program uses a selector."
+        ]
+      },
+      {
+        "pattern": "Selector + of + noun",
+        "description": "选择器 + of + 名词结构，表示所属或类型",
+        "examples": [
+          "Selector of the team."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'selecter' (incorrect spelling)",
+        "correction": "selector",
+        "explanation": "错误源于拼写混淆；正确形式基于标准英语正字法"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use 'select' as the verb form",
+        "explanation": "'Selector' 是名词，非动词；中文学习者常受翻译影响误用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "sports",
+      "engineering"
+    ],
+    "tags": [
+      "computing",
+      "selection",
+      "mechanism"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "word": "subset",
+  "phonetics": {
+    "british": "/ˈsʌbsɛt/",
+    "american": "/ˈsʌbsɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of elements that is part of a larger set, where every element of the subset is also an element of the larger set.",
+      "chineseTranslation": "子集",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or data structures, a subset refers to a derived collection from a larger dataset, often used in algorithms or database queries.",
+      "chineseTranslation": "子集（在计算机或数据结构中）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To form or treat as a subset, often in mathematical or logical contexts.",
+      "chineseTranslation": "形成子集或视为子集",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "proper subset",
+      "meaning": "真子集，指子集中不包含原集的所有元素",
+      "example": "A proper subset of {1, 2, 3} could be {1, 2}.",
+      "exampleTranslation": "一个{1, 2, 3}的真子集可以是{1, 2}。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "power subset",
+      "meaning": "幂集，指一个集合的所有可能子集的集合",
+      "example": "The power subset of {A, B} includes {}, {A}, {B}, and {A, B}.",
+      "exampleTranslation": "{A, B}的幂集包括空集、{A}、{B}和{A, B}。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In set theory, a subset is a set where all elements are contained within another set.",
+      "translation": "在集合论中，子集是一个所有元素都包含在另一个集合中的集合。",
+      "source": "Mathematical textbooks, such as those from Oxford University Press",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The marketing team analyzed a subset of the customer data to identify trends.",
+      "translation": "营销团队分析了客户数据的一个子集来识别趋势。",
+      "source": "Business reports from COCA (Corpus of Contemporary American English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers often work with subsets of large datasets to optimize performance.",
+      "translation": "程序员经常处理大型数据集的子集来优化性能。",
+      "source": "Technical articles from BNC (British National Corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "under or below",
+        "language": "Latin"
+      },
+      {
+        "root": "set",
+        "meaning": "a collection or group",
+        "language": "Old English, derived from Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语的'sub-'（意为'下'或'次'）与英语'set'结合，最初在17世纪的数学语境中演变为现代意义，用于描述一个集合包含在另一个集合内的概念，随着集合论的发展，该词在19世纪逐渐标准化。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "superset",
+      "set",
+      "subsetting"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将子集概念与日常生活分组联系起来，例如将家庭成员视为一个集合的子集；利用重复间隔法（spaced repetition）复习数学示例以加强记忆；避免抽象化，通过视觉图表如维恩图（Venn diagrams）构建心理模型。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "subgroup",
+        "similarity": "0.8",
+        "context": "在分组或分类语境中适用，常用于社会科学或组织结构"
+      },
+      {
+        "word": "portion",
+        "similarity": "0.6",
+        "context": "在非正式语境中描述部分集合，但精确性较低"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superset",
+        "context": "在集合论中，指包含子集的更大集合，常用于数学或计算机科学"
+      },
+      {
+        "word": "universe",
+        "context": "在更广泛的语境中，指所有元素的总集合，如在统计学中"
+      }
+    ],
+    "hypernyms": [
+      "set"
+    ],
+    "hyponyms": [
+      "proper subset",
+      "empty subset"
+    ],
+    "collocations": [
+      {
+        "pattern": "subset of [noun]",
+        "examples": [
+          "subset of data",
+          "subset of elements"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "create a subset from [noun]",
+        "examples": [
+          "create a subset from the array"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征逻辑和分类的严谨性，尤其在数学和计算机领域，隐含语义强调系统性和分层结构，但在东方文化如中国中，可能与儒家分类思想相呼应。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如数据科学",
+        "usage": "在日常商业英语中频繁出现，强调实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向学术语境，如纯数学",
+        "usage": "在正式教育中更常见，保持中性语域"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲数学革命相关，如康托尔集合论的兴起，该词反映了工业时代对分类和组织的需求，在现代中国文化中，通过翻译引入教育体系。",
+    "modernUsage": "在社交媒体和数字平台上，常见于科技讨论，如Reddit或Weibo上的数据分析主题，趋势显示其在AI和大数据领域的普及。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个大盒子（代表原集合）里面有一个小盒子（代表子集），小盒子只包含大盒子的一部分物品。",
+      "keyElements": [
+        "盒子",
+        "物品",
+        "包含关系"
+      ],
+      "emotionalConnection": "联结到个人经验，如整理抽屉时将部分物品放入小袋子，触发秩序感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub-set sounds like 'sub-settle', meaning a smaller settlement inside a city.",
+        "explanation": "通过声音联想将抽象概念转化为具体场景，帮助记忆词汇结构"
+      },
+      {
+        "type": "缩略",
+        "content": "S-U-B: Smaller Under Bigger.",
+        "explanation": "使用首字母缩写结合视觉化，基于认知负载理论减少记忆负担"
+      }
+    ],
+    "wordAssociations": [
+      "set",
+      "group",
+      "portion"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "subsets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "子集作为主语的句法结构，常用于定义或描述",
+        "examples": [
+          "The subset contains only even numbers."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "使用'of'短语表示所属关系",
+        "examples": [
+          "A subset of the population was surveyed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing subset with superset",
+        "correction": "Use subset for the smaller set and superset for the larger one",
+        "explanation": "学员常混淆方向性，建议通过对比图表区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural: subsets",
+        "explanation": "英语名词规则简单，但初级学员可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in COCA corpus",
+    "domains": [
+      "mathematics",
+      "computer science",
+      "data analysis",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "abstract"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

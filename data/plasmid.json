@@ -1,0 +1,233 @@
+{
+  "word": "plasmid",
+  "phonetics": {
+    "british": "/ˈplæzmɪd/",
+    "american": "/ˈplæzmɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small, circular piece of DNA that is separate from the chromosomal DNA of a cell and can replicate independently; commonly used in genetic engineering and molecular biology.",
+      "chineseTranslation": "质粒",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "plasmid vector",
+      "meaning": "质粒载体",
+      "example": "Scientists use a plasmid vector to insert foreign DNA into bacterial cells.",
+      "exampleTranslation": "科学家使用质粒载体将外来DNA插入细菌细胞。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "recombinant plasmid",
+      "meaning": "重组质粒",
+      "example": "The recombinant plasmid was engineered to express the desired protein.",
+      "exampleTranslation": "该重组质粒被设计用来表达所需的蛋白质。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "plasmid isolation",
+      "meaning": "质粒分离",
+      "example": "Plasmid isolation is a key step in cloning experiments.",
+      "exampleTranslation": "质粒分离是克隆实验中的关键步骤。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The plasmid carries genes that confer antibiotic resistance to the host bacterium.",
+      "translation": "质粒携带赋予宿主细菌抗生素抵抗力的基因。",
+      "source": "Scientific literature, e.g., from molecular biology textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In genetic engineering, plasmids are often used as vehicles for gene transfer.",
+      "translation": "在基因工程中，质粒经常被用作基因转移的载体。",
+      "source": "Academic articles, e.g., from Nature journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers discovered a new plasmid in the soil bacteria that could degrade pollutants.",
+      "translation": "研究人员在土壤细菌中发现了一种新的质粒，能够降解污染物。",
+      "source": "Environmental science reports",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "plasma",
+        "meaning": "something formed or molded",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term 'plasmid' derives from the Greek 'plasma', meaning 'something formed'. It was first used in the mid-20th century in microbiology to describe extrachromosomal genetic elements. Over time, as molecular biology advanced, its meaning evolved to emphasize its role in replication and genetic manipulation, particularly with the discovery of DNA structure in the 1950s.",
+    "firstKnownUse": "1952",
+    "relatedWords": [
+      "plasma",
+      "plasmidome"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "Use spaced repetition to reinforce the term by associating it with visual diagrams of DNA structures; connect it to real-world applications like CRISPR technology to leverage schema activation in cognitive learning."
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "vector",
+        "similarity": "0.8",
+        "context": "在基因工程语境中，用于描述携带DNA的结构（在基因工程语境中）"
+      },
+      {
+        "word": "episome",
+        "similarity": "0.7",
+        "context": "在微生物学中，指能独立复制的遗传元素（在微生物学中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "chromosome",
+        "context": "与质粒相对，指细胞的染色体DNA（与质粒相对）"
+      }
+    ],
+    "hypernyms": [
+      "genetic element"
+    ],
+    "hyponyms": [
+      "bacterial plasmid",
+      "viral plasmid"
+    ],
+    "collocations": [
+      {
+        "pattern": "plasmid + noun (e.g., plasmid DNA)",
+        "examples": [
+          "The plasmid DNA was amplified in E. coli."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + plasmid (e.g., isolate plasmid)",
+        "examples": [
+          "They isolated the plasmid from the culture."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "In scientific communities, 'plasmid' symbolizes innovation in biotechnology and genetic modification, often associated with ethical debates on GMOs, reflecting Western scientific traditions.",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in academic and industrial contexts with emphasis on applications in biotech industries.",
+        "usage": "Prevalent in American English scientific writing, such as in patents and research papers."
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage but with slight differences in pronunciation emphasis.",
+        "usage": "Used in British English in educational settings, e.g., in university lectures."
+      }
+    ],
+    "historicalContext": "The concept emerged during the post-WWII era of molecular biology advancements, linked to figures like James Watson and Francis Crick, influencing global scientific discourse on genetics.",
+    "modernUsage": "In contemporary social media and online forums, it's discussed in contexts like biohacking and CRISPR, showing trends in popularized science education."
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "Imagine a small, looping ring of DNA floating inside a bacterial cell, like a mini satellite orbiting a planet.",
+      "keyElements": [
+        "ring of DNA",
+        "bacterial cell",
+        "satellite"
+      ],
+      "emotionalConnection": "Link it to excitement of scientific discovery, such as curing diseases, to create a positive emotional trigger based on personal interest in biology."
+    },
+    "mnemonicDevices": [
+      {
+        "type": "visual association",
+        "content": "Think of 'plasmid' as 'plasma kid' – a small, energetic entity carrying genetic information.",
+        "explanation": "This uses visual imagery and word play to aid recall through dual-coding in cognitive science."
+      },
+      {
+        "type": "acronym",
+        "content": "P-L-A-S-M-I-D: Portable Loop for Added Genetic Material in DNA",
+        "explanation": "Breaks down the word into an acronym to facilitate chunking and long-term memory retention."
+      }
+    ],
+    "wordAssociations": [
+      "DNA",
+      "bacteria",
+      "vector",
+      "gene"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "plasmids",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + plasmid",
+        "description": "作为句子的主语或宾语使用（作为句子的主语或宾语使用）",
+        "examples": [
+          "The plasmid replicates independently."
+        ]
+      },
+      {
+        "pattern": "Adjective + plasmid",
+        "description": "用形容词修饰（用形容词修饰）",
+        "examples": [
+          "This recombinant plasmid is highly efficient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing plasmid with chromosome",
+        "correction": "Use plasmid for extrachromosomal DNA",
+        "explanation": "Plasmid refers specifically to non-chromosomal DNA, while chromosome is the main genetic material."
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "plasmids",
+        "explanation": "Simply add -s for plural, as it is a regular noun."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in the COCA corpus",
+    "domains": [
+      "science",
+      "biology",
+      "genetics",
+      "biotechnology"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "molecular biology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

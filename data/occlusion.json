@@ -1,0 +1,274 @@
+{
+  "word": "occlusion",
+  "phonetics": {
+    "british": "/əˈkluːʒən/",
+    "american": "/əˈkluːʒən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or state of blocking or obstructing something, such as a passage or vessel.",
+      "chineseTranslation": "阻塞；闭塞",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In dentistry, the relationship between the upper and lower teeth when the jaws are closed.",
+      "chineseTranslation": "咬合",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In meteorology, the process where one mass of air displaces another, often leading to weather changes.",
+      "chineseTranslation": "气团遮蔽",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer graphics, the obstruction of one object by another from a particular viewpoint.",
+      "chineseTranslation": "遮挡",
+      "level": "academic",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "coronary occlusion",
+      "meaning": "冠状动脉阻塞",
+      "example": "The patient suffered from coronary occlusion, which led to a heart attack.",
+      "exampleTranslation": "患者患有冠状动脉阻塞，导致心脏病发作。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dental occlusion",
+      "meaning": "牙齿咬合",
+      "example": "Proper dental occlusion is essential for effective chewing and speech.",
+      "exampleTranslation": "正确的牙齿咬合对有效的咀嚼和言语至关重要。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "occlusion of light",
+      "meaning": "光的遮挡",
+      "example": "The occlusion of light by the clouds made the eclipse visible.",
+      "exampleTranslation": "云层对光的遮挡使日食变得可见。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The occlusion in the artery was caused by a blood clot.",
+      "translation": "动脉中的阻塞是由血栓引起的。",
+      "source": "Medical literature (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In orthodontics, correcting occlusion can improve overall oral health.",
+      "translation": "在正畸学中，纠正咬合可以改善整体口腔健康。",
+      "source": "Dental textbooks (e.g., from academic sources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The weather forecast predicted an occlusion that would bring rain.",
+      "translation": "天气预报预测将有气团遮蔽带来降雨。",
+      "source": "News articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Graphic designers must account for occlusion in 3D rendering to ensure realism.",
+      "translation": "图形设计师必须在3D渲染中考虑遮挡以确保真实性。",
+      "source": "Technical publications (e.g., from OED references)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "occludere",
+        "meaning": "to close up or shut",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'occludere'，意为'关闭或堵塞'，该词在14世纪进入英语，主要用于医学和科学语境中，随着科学领域的进展，其含义扩展到气象学和牙科等领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "occlude",
+      "occlusive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化记忆法联想'occlusion'与'关闭门'的图像，将其与个人经历如门被堵塞的场景关联，以增强长期记忆；使用间隔重复系统复习多义词以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "blockage",
+        "similarity": "0.8",
+        "context": "适用于医学语境中表示管道或血管的阻塞"
+      },
+      {
+        "word": "obstruction",
+        "similarity": "0.9",
+        "context": "适用于一般语境中表示任何形式的阻碍"
+      },
+      {
+        "word": "eclipse",
+        "similarity": "0.6",
+        "context": "适用于气象或天文语境中表示遮蔽"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clearance",
+        "context": "适用于医学语境中表示清除阻塞"
+      },
+      {
+        "word": "opening",
+        "context": "适用于一般语境中表示开放或无阻碍的状态"
+      }
+    ],
+    "hypernyms": [
+      "blockage",
+      "interference"
+    ],
+    "hyponyms": [
+      "coronary occlusion",
+      "dental occlusion"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + occlusion (e.g., arterial occlusion)",
+        "examples": [
+          "arterial occlusion",
+          "venous occlusion"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "occlusion of + noun (e.g., occlusion of light)",
+        "examples": [
+          "occlusion of light",
+          "occlusion of vision"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征健康风险，常与心脏病或牙科问题相关联；在科学语境中，代表自然现象如日食，隐含人类对宇宙奥秘的探索。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术术语，如计算机图形学",
+        "usage": "在美国英语中，'occlusion' 在科技和医疗领域频繁出现，强调实用性和专业性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于气象学语境",
+        "usage": "在英国英语中，常与天气预报相关联，反映其岛国气候特征"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期科学革命相关，源自拉丁语的'occlusion' 在17世纪的欧洲医学文献中流行，体现了对人体和自然机制的系统研究。",
+    "modernUsage": "在现代社交媒体和数字平台上，'occlusion' 常用于健康教育或科技讨论，如 TikTok 上的牙科视频或 Reddit 的气象论坛。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个门被物体堵塞的场景，代表阻塞的概念。",
+      "keyElements": [
+        "门（door）",
+        "堵塞物体（blocking object）",
+        "黑暗空间（dark space）"
+      ],
+      "emotionalConnection": "联结个人经历，如童年时门被卡住的挫败感，以触发情绪记忆并强化词汇保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'occlusion' 联想为 'a closed ocean'，因为 'oc-' 听起来像 'a closed'",
+        "explanation": "通过声音联觉帮助初级学习者记忆发音和含义，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "O-C-L-U-S-I-O-N: 'Obstruct-Close-Lock-Up-Shut-In-Obstruct-Once-Not'",
+        "explanation": "使用首字母缩写创建故事，增强叙事记忆以应对多义词。"
+      }
+    ],
+    "wordAssociations": [
+      "block",
+      "shut",
+      "eclipse"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "occlusions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with occlusion as object",
+        "description": "该结构中，'occlusion' 作为名词对象，常用于描述事件或状态。",
+        "examples": [
+          "The doctor diagnosed an occlusion."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with occlusion",
+        "description": "使用介词短语，如 'of occlusion' 来指定类型。",
+        "examples": [
+          "Treatment of occlusion is critical."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'occlude' as a verb",
+        "correction": "Use 'occlusion' as a noun only",
+        "explanation": "学习者常将该词误用为动词；正确区分词性以避免语法错误。"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Specify context for each meaning",
+        "explanation": "由于多义性，初级学习者可能混淆医学与气象含义；通过语境练习改善。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "医学",
+      "气象学",
+      "牙科",
+      "计算机科学"
+    ],
+    "tags": [
+      "技术术语",
+      "科学词汇",
+      "抽象概念"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

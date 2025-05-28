@@ -1,0 +1,258 @@
+{
+  "word": "detect",
+  "phonetics": {
+    "british": "/dɪˈtekt/",
+    "american": "/dɪˈtekt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to discover or identify the existence, presence, or fact of something through examination, investigation, or evidence",
+      "chineseTranslation": "发现或侦测",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to perceive or sense something that is not immediately obvious, often using instruments or senses",
+      "chineseTranslation": "感知或察觉",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "detect a problem",
+      "meaning": "发现问题",
+      "example": "The software can detect a problem in the system before it causes a crash.",
+      "exampleTranslation": "软件可以在系统崩溃前发现问题。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "detect lies",
+      "meaning": "侦测谎言",
+      "example": "Polygraph tests are used to detect lies during interrogations.",
+      "exampleTranslation": "测谎仪在审讯中用于侦测谎言。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "detect changes",
+      "meaning": "察觉变化",
+      "example": "Sensors detect changes in temperature and alert the user.",
+      "exampleTranslation": "传感器察觉温度变化并提醒用户。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The detective was able to detect the hidden clues at the crime scene.",
+      "translation": "侦探能够在犯罪现场发现隐藏的线索。",
+      "source": "Literature (e.g., detective novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern radar systems can detect aircraft from miles away.",
+      "translation": "现代雷达系统能够从数英里外侦测飞机。",
+      "source": "News articles (e.g., technology reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She could detect a hint of sarcasm in his voice during the meeting.",
+      "translation": "她在会议中察觉到他声音中的一丝讽刺。",
+      "source": "Conversational English",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "detect-",
+        "meaning": "to uncover or reveal",
+        "language": "Latin"
+      },
+      {
+        "root": "de-",
+        "meaning": "from or down",
+        "language": "Latin"
+      },
+      {
+        "root": "tegere",
+        "meaning": "to cover",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'detectus'，是 'de-'（表示从...中取出）和 'tegere'（覆盖）的组合。最初用于表示揭开覆盖物或揭示隐藏事物。在中世纪拉丁语中演变为 'detectare'，意思是调查或发现。进入英语后，从14世纪开始用于法律和科学语境，逐渐扩展到现代的广泛使用，如技术侦测。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "detection",
+      "detective",
+      "detectible"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用间隔重复法（spaced repetition）结合词汇卡片，将 'detect' 与实际场景（如侦探故事）关联，以强化记忆；",
+      "根据认知语言学原理，通过视觉化练习，将词根 'de-' 和 'tegere' 想象为 '从覆盖中取出'，帮助构建语义网络；",
+      "针对中文母语学习者，强调与 '发现' 的相似性，但注意语境差异，避免直接翻译导致的混淆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "discover",
+        "similarity": "0.8",
+        "context": "在探索或意外找到语境中适用，例如科学发现"
+      },
+      {
+        "word": "identify",
+        "similarity": "0.7",
+        "context": "在确认身份或特征的正式语境中适用，例如生物识别"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "miss",
+        "context": "在忽略或未察觉的语境中适用，例如 'fail to detect the error'"
+      },
+      {
+        "word": "overlook",
+        "context": "在无意中忽略的非正式语境中适用，例如日常对话"
+      }
+    ],
+    "hypernyms": [
+      "perceive"
+    ],
+    "hyponyms": [
+      "scan",
+      "trace"
+    ],
+    "collocations": [
+      {
+        "pattern": "detect + noun (e.g., detect fraud)",
+        "examples": [
+          "detect fraud",
+          "detect errors"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "detect + in (e.g., detect in the sample)",
+        "examples": [
+          "detect viruses in the sample"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与侦探小说、犯罪剧和科技创新（如AI侦测）相关联，象征着理性与揭露真相的精神，例如在福尔摩斯故事中代表智力优势",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和日常语境",
+        "usage": "在美国英语中，'detect' 经常出现在技术手册或新闻中，如 'COVID-19 detection kits'"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式或文学语境",
+        "usage": "在英国英语中，常用于历史或文学作品中，如 'detecting espionage'"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，该词在19世纪的侦探文学（如柯南·道尔作品）中流行，反映了社会对科学和秩序的追求",
+    "modernUsage": "在社交媒体和数字时代，该词常用于AI和网络安全语境中，如病毒检测软件，在跨文化交流中强调隐私和监控议题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探使用放大镜从隐藏处取出宝藏的场景",
+      "keyElements": [
+        "放大镜",
+        "隐藏物",
+        "宝藏"
+      ],
+      "emotionalConnection": "联结个人好奇心或侦探故事的兴奋感，以触发长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Detect sounds like 'de-tect'，联想到 'de-' 为去除，'tect' 像 'protect' 的相反",
+        "explanation": "通过对比联想强化语义，帮助中文母语者避免混淆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /dɪˈtekt/ 像 'detect a secret'，想象窃听器的声音",
+        "explanation": "利用认知科学的多模态学习，结合听觉和视觉元素提升记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "discover",
+      "uncover",
+      "investigate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "detected",
+      "pastParticiple": "detected",
+      "presentParticiple": "detecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + detect + object",
+        "description": "主语 + 动词 + 宾语结构，常用于陈述发现",
+        "examples": [
+          "We detect anomalies in the data."
+        ]
+      },
+      {
+        "pattern": "detect + in + location",
+        "description": "在特定位置或环境中发现",
+        "examples": [
+          "They detect the signal in the noise."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'detect' as a noun",
+        "correction": "Use 'detection' as the noun form",
+        "explanation": " 'Detect' 是动词，非名词；中文学习者常受翻译影响误用"
+      },
+      {
+        "mistake": "Confusing with 'protect'",
+        "correction": "Distinguish based on context",
+        "explanation": "音似词 'protect' 意为保护；通过语境区分以避免语义错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "science",
+      "law enforcement",
+      "daily conversation"
+    ],
+    "tags": [
+      "action verb",
+      "sensory perception",
+      "investigation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

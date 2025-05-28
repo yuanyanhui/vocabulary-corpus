@@ -1,0 +1,237 @@
+{
+  "word": "immutable",
+  "phonetics": {
+    "british": "/ɪˈmjuːtəbl/",
+    "american": "/ɪˈmjuːtəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not able to be changed or altered; unchangeable.",
+      "chineseTranslation": "不可变的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "immutable object",
+      "meaning": "不可变对象",
+      "example": "In programming, an immutable object cannot be modified after it is created.",
+      "exampleTranslation": "在编程中，不可变对象在创建后无法被修改。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "immutable law",
+      "meaning": "不可改变的法则",
+      "example": "The laws of physics include immutable laws that govern the universe.",
+      "exampleTranslation": "物理定律包括了支配宇宙的不可改变的法则。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Strings in Python are immutable, meaning you cannot change their content directly.",
+      "translation": "在Python中，字符串是不可变的，意味着你无法直接更改它们的内容。",
+      "source": "Programming documentation (e.g., Python official guide)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The ancient philosophers debated the concept of an immutable truth that transcends time.",
+      "translation": "古代哲学家们辩论了超越时间的不可变真理的概念。",
+      "source": "Philosophical literature (e.g., Plato's works)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In legal contexts, an immutable contract cannot be altered without mutual consent.",
+      "translation": "在法律语境中，不可变合同在没有双方同意的情况下无法更改。",
+      "source": "News articles on contract law",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "im-",
+        "meaning": "不；否定前缀",
+        "language": "Latin"
+      },
+      {
+        "root": "mutabilis",
+        "meaning": "可改变的",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'immutabilis'，由 'in-'（不）与 'mutabilis'（可改变的，由 'mutare' 意思是改变）组合而来。通过古法语 'immuable' 演变为英语，最初用于哲学和神学语境，表示永恒不变的事物，在17世纪后扩展到科学和技术领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "mutable",
+      "mutation",
+      "immovability"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法，将 'im-' 视为否定前缀并联想 'not'，然后将 'mutable' 与 'mutate' 关联；通过重复暴露于编程或哲学语境中增强语义网络；运用双编码策略，如视觉化一个锁住的箱子代表不可变性，以加强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unchangeable",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如法律或科学讨论中强调永久性"
+      },
+      {
+        "word": "unalterable",
+        "similarity": "0.9",
+        "context": "常用于技术或哲学语境中描述不可修改的特性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mutable",
+        "context": "适用于对比语境，如编程中可变 vs. 不可变对象"
+      },
+      {
+        "word": "changeable",
+        "context": "在日常对话中用于强调可变性，与正式语境中的 'immutable' 相对"
+      }
+    ],
+    "hypernyms": [
+      "permanent",
+      "fixed"
+    ],
+    "hyponyms": [
+      "read-only",
+      "constant"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., immutable data)",
+        "examples": [
+          "immutable data",
+          "immutable principles"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + adjective (e.g., truly immutable)",
+        "examples": [
+          "truly immutable laws"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与哲学（如柏拉图的永恒理念）和现代技术（如区块链中的不可变数据）相关联，象征稳定性和可靠性；在中文文化中，可类比为 '恒定' 或 '不变之道'，如道家思想中的概念。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如软件开发",
+        "usage": "在美国英语中，强调在计算机科学中的实际应用，例如加密货币的不可变账本"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向正式学术语境",
+        "usage": "在英国英语中，常出现在哲学或法律讨论中，保持较为传统的语义"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的科学革命相关联，如牛顿的定律被视为不可变的宇宙法则；在现代社会中，与数字时代的数据安全和隐私保护紧密相连。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科技讨论，如Twitter上的编程话题，或Reddit的哲学版块，反映了全球数字文化的传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个被冰封的石头雕像，代表无法改变的固体状态。",
+      "keyElements": [
+        "冰封",
+        "石头",
+        "雕像"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆童年玩耍的固定玩具，触发安全感和稳定情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'im' as 'I'm not' and 'mutable' as 'able to mutate like a chameleon'.",
+        "explanation": "通过视觉联想将否定前缀与变色龙的形象结合，增强词汇记忆的认知连接。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-M-M-U-T-A-B-L-E: I Must Make Unchanging Things Always Be Like Eternity.",
+        "explanation": "使用首字母缩写故事法，创建叙事以辅助重复回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "unchanging",
+      "fixed",
+      "permanent",
+      "static"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more immutable",
+      "superlative": "most immutable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + immutable + object",
+        "description": "用于描述事物的不可变性",
+        "examples": [
+          "The data is immutable."
+        ]
+      },
+      {
+        "pattern": "Adverb + immutable + noun",
+        "description": "强调程度或语境",
+        "examples": [
+          "Truly immutable principles guide our decisions."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'immoral'",
+        "correction": "Use 'immutable' for unchangeable aspects",
+        "explanation": "二者发音相似，但 'immutable' 指不可变，而 'immoral' 指不道德；注意语境区分以避免语义错误。"
+      },
+      {
+        "mistake": "Incorrectly using as a verb",
+        "correction": "Treat as an adjective only",
+        "explanation": "该词仅为形容词，不能变形为动词形式，如避免说 'immutate'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "philosophy",
+      "law"
+    ],
+    "tags": [
+      "adjective",
+      "abstract",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

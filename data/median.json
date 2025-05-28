@@ -1,0 +1,259 @@
+{
+  "word": "median",
+  "phonetics": {
+    "british": "/ˈmiːdiən/",
+    "american": "/ˈmiːdiən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The middle value in a list of numbers arranged in order, such that half the numbers are below it and half are above it.",
+      "chineseTranslation": "中值（统计学中排序后中间的值）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Situated in the middle or relating to the middle of something.",
+      "chineseTranslation": "中间的；正中的",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A line segment joining a vertex of a triangle to the midpoint of the opposite side.",
+      "chineseTranslation": "中线（三角形中从顶点到对边中点的线段）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "median value",
+      "meaning": "中值",
+      "example": "The median value of the dataset is 25.",
+      "exampleTranslation": "该数据集的中值为25。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "median line",
+      "meaning": "中线",
+      "example": "The median line divides the highway into two lanes.",
+      "exampleTranslation": "中线将高速公路分成两个车道。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "population median",
+      "meaning": "总体中值",
+      "example": "The population median income has risen steadily.",
+      "exampleTranslation": "总体中值收入稳步上升。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics, the median is often used to represent central tendency in skewed distributions.",
+      "translation": "在统计学中，中值常用于表示偏态分布中的中心趋势。",
+      "source": "Academic text (e.g., statistics textbook)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The median strip on the road helps prevent head-on collisions.",
+      "translation": "道路上的中间隔离带有助于防止迎面相撞。",
+      "source": "Daily conversation (e.g., traffic reports)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "For the triangle ABC, the median from vertex A intersects the midpoint of side BC.",
+      "translation": "对于三角形ABC，从顶点A的中线与边BC的中点相交。",
+      "source": "Mathematical literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "medi",
+        "meaning": "middle",
+        "language": "Latin"
+      },
+      {
+        "root": "anus",
+        "meaning": "pertaining to",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语“medianus”，意为“中间的”，在中世纪拉丁语中用于数学和统计语境，15世纪传入英语，逐渐扩展到统计学和几何学领域，现代意义强调中间位置或值的平衡性。",
+    "firstKnownUse": "1590s",
+    "relatedWords": [
+      "medium",
+      "mediate",
+      "medial"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象数字序列的中间位置；使用间隔重复法复习多重含义，以强化记忆迁移；通过个人经验，如日常生活中的中间线，构建情感联系以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "middle",
+        "similarity": "0.8",
+        "context": "表示位置或数值的中间状态"
+      },
+      {
+        "word": "central",
+        "similarity": "0.7",
+        "context": "强调核心或中间位置的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extreme",
+        "context": "表示非中间的边界或极端位置"
+      },
+      {
+        "word": "peripheral",
+        "context": "表示边缘或外围的语境"
+      }
+    ],
+    "hypernyms": [
+      "average"
+    ],
+    "hyponyms": [
+      "arithmetic mean"
+    ],
+    "collocations": [
+      {
+        "pattern": "median of [data set]",
+        "examples": [
+          "the median of the numbers",
+          "the median of the income data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "draw the median",
+        "examples": [
+          "draw the median line"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征平衡和公平，尤其在统计学中代表不受极端值影响的中间值，常用于讨论社会经济不平等。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "常用于交通语境，如median strip（中间隔离带）",
+        "usage": "在美国英语中，更强调实际应用，如道路设计，以突出安全和秩序"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重统计学语境，少见交通用法",
+        "usage": "在英国英语中，优先用于学术和数学讨论"
+      }
+    ],
+    "historicalContext": "与统计学的兴起相关，19世纪工业革命时期用于分析数据公平性，并在20世纪文学和社会评论中象征中庸之道。",
+    "modernUsage": "在现代社交媒体和数据科学领域，频繁出现于讨论AI算法和大数据分析的趋势中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个有序的数字队列，median是队列正中间的值，像一条平衡的桥梁。",
+      "keyElements": [
+        "有序队列",
+        "中间位置",
+        "平衡桥梁"
+      ],
+      "emotionalConnection": "联结到个人经历，如计算成绩的中值时感受到的公平感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Median听起来像'media'，媒体往往处于注意力的中心。",
+        "explanation": "通过声音联想强化中间含义，帮助初级学习者快速回忆"
+      },
+      {
+        "type": "缩略",
+        "content": "M for Middle and Median",
+        "explanation": "使用首字母缩略法与位置概念关联，提升认知编码"
+      }
+    ],
+    "wordAssociations": [
+      "mean",
+      "mode",
+      "average"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "medians",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] is the median of [object].",
+        "description": "用于统计语境，描述中间值的位置",
+        "examples": [
+          "The median is the middle value of the data."
+        ]
+      },
+      {
+        "pattern": "[Adjective] [noun] line",
+        "description": "用于几何语境，表示中间线段",
+        "examples": [
+          "The median line divides the shape."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing median with mean",
+        "correction": "Use median for the middle value and mean for the average.",
+        "explanation": "许多学习者混淆二者，因为两者均涉及统计中心，但median不受极端值影响"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'medians' for plural.",
+        "explanation": "英语中名词复数规则简单，但初学者可能遗忘添加-s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for academic domains)",
+    "domains": [
+      "Mathematics",
+      "Statistics",
+      "Geography",
+      "Traffic"
+    ],
+    "tags": [
+      "statistics",
+      "middle",
+      "central tendency"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

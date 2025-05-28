@@ -1,0 +1,261 @@
+{
+  "word": "polling",
+  "phonetics": {
+    "british": "/ˈpəʊlɪŋ/",
+    "american": "/ˈpoʊlɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of collecting votes from people in an election or survey.",
+      "chineseTranslation": "投票或调查过程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A method of regularly checking the status of a device or system, especially in computing.",
+      "chineseTranslation": "定期检查设备或系统状态的方法",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "The act of interrogating or sampling data at fixed intervals.",
+      "chineseTranslation": "以固定间隔查询或采样数据",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "opinion polling",
+      "meaning": "民意调查",
+      "example": "Opinion polling shows that the candidate is leading by 10 points.",
+      "exampleTranslation": "民意调查显示该候选人领先10个百分点。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "exit polling",
+      "meaning": "出口民调",
+      "example": "Exit polling can provide early indications of election results.",
+      "exampleTranslation": "出口民调可以提供选举结果的初步指示。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "polling station",
+      "meaning": "投票站",
+      "example": "Voters must go to their designated polling station to cast their ballots.",
+      "exampleTranslation": "选民必须前往指定的投票站投递选票。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The latest polling data indicates a shift in public opinion towards environmental issues.",
+      "translation": "最新的民意调查数据显示公众对环境问题的看法发生了转变。",
+      "source": "News article from BBC (2023)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, polling is used to monitor hardware devices for incoming data.",
+      "translation": "在计算机领域，轮询用于监视硬件设备是否有传入数据。",
+      "source": "Technical documentation from IEEE (2020)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the election, long lines formed at the polling stations across the city.",
+      "translation": "在选举期间，城市各投票站排起了长队。",
+      "source": "Literary work, modern journalism",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "poll",
+        "meaning": "Head or top of the head",
+        "language": "Old English (from Proto-Germanic *pollaz)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'poll'，最初指头或头颅，延伸到指点名或计头（作为投票方式），17世纪开始用于选举和调查；19世纪扩展到技术领域如计算机轮询。",
+    "firstKnownUse": "约1620年，在英国选举语境中",
+    "relatedWords": [
+      "poll",
+      "polling booth",
+      "ballot"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the vowel sounds vary slightly between British and American English, but no complex clusters)",
+    "spellingDifficulty": "3 (out of 10, straightforward spelling with common patterns)",
+    "meaningComplexity": "6 (out of 10, multiple meanings depending on context, requiring contextual inference)",
+    "usageComplexity": "5 (out of 10, common in formal contexts but less intuitive for non-native speakers)",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法（chunking）将 'polling' 与选举情境关联；通过重复暴露（spaced repetition）练习不同语域；建议创建个人心智图，将词汇与真实生活事件连接以增强长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "surveying",
+        "similarity": "0.8",
+        "context": "在民意调查语境中，例如政治讨论"
+      },
+      {
+        "word": "voting",
+        "similarity": "0.7",
+        "context": "在选举相关语境中"
+      },
+      {
+        "word": "interrogating",
+        "similarity": "0.6",
+        "context": "在技术或数据处理语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abstaining",
+        "context": "在投票语境中，指不参与"
+      },
+      {
+        "word": "ignoring",
+        "context": "在技术语境中，指不主动检查"
+      }
+    ],
+    "hypernyms": [
+      "data collection",
+      "monitoring"
+    ],
+    "hyponyms": [
+      "exit polling",
+      "online polling"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + polling (e.g., opinion polling)",
+        "examples": [
+          "opinion polling",
+          "exit polling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + polling (e.g., conduct polling)",
+        "examples": [
+          "conduct polling",
+          "analyze polling data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在民主文化中象征公民参与和公共意见表达，尤其在西方国家如美国和英国的选举中隐含社会共识和政治透明度的含义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式选举语境",
+        "usage": "在英国，polling 常与 'polling day' 搭配，指选举日"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于民意调查和实时数据",
+        "usage": "在美国，polling 常用于媒体预测，如 'CNN polling'"
+      }
+    ],
+    "historicalContext": "与历史文化关联，如17世纪英国的选举改革和社会运动，反映了从封建到现代民主的演变；在文学中，如狄更斯的作品中出现，象征社会变革。",
+    "modernUsage": "在现代社交媒体和数字平台下，polling 趋势于在线调查和实时反馈，如Twitter民意投票，体现了全球化的公众参与。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个投票箱（poll box）周围的人群在投递选票，场景中包括旗帜和新闻记者。",
+      "keyElements": [
+        "投票箱",
+        "人群",
+        "数据图表"
+      ],
+      "emotionalConnection": "联结个人选举经历或对民主的兴奋感，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'polling' 联想为 'people polling'，即人们在拉票。",
+        "explanation": "通过视觉联想强化词汇与社会活动的连接，基于认知联想原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈpoʊlɪŋ/ 像 'pole leaning'，想象一杆子在倾斜时计数。",
+        "explanation": "利用声音相似性辅助记忆，符合多模态学习理论"
+      }
+    ],
+    "wordAssociations": [
+      "vote",
+      "survey",
+      "data",
+      "election"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null (as it is often uncountable, but can be 'pollings' in technical contexts)",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "polling",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + polling",
+        "description": "主语 + 动词 + polling 结构，常用于描述过程",
+        "examples": [
+          "They are conducting polling now."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with polling",
+        "description": "名词短语中包含 polling",
+        "examples": [
+          "The polling results are surprising."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'pole' or 'pulling'",
+        "correction": "Use 'polling' specifically for voting or checking",
+        "explanation": "源自语音相似性，导致混淆；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect collocation, e.g., 'do polling' instead of 'conduct polling'",
+        "correction": "Use 'conduct polling' in formal contexts",
+        "explanation": "正式语域要求精确搭配，以避免非正式语气"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "politics",
+      "technology",
+      "social sciences"
+    ],
+    "tags": [
+      "democracy",
+      "data analysis",
+      "survey"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

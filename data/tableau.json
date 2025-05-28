@@ -1,0 +1,243 @@
+{
+  "word": "tableau",
+  "phonetics": {
+    "british": "/ˈtæbloʊ/",
+    "american": "/ˈtæbloʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A vivid or striking scene or representation, often static and picturesque, as in art or theater.",
+      "chineseTranslation": "画面；场景",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and data visualization, a platform or software for creating interactive visual analytics.",
+      "chineseTranslation": "数据可视化平台",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "living tableau",
+      "meaning": "活的或动态的场景，通常用于描述戏剧或表演中的静态再现",
+      "example": "The actors created a living tableau to depict the historical event.",
+      "exampleTranslation": "演员们创造了一个活的画面来描绘历史事件。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "tableau vivant",
+      "meaning": "静止的活人场景，常用于艺术表演",
+      "example": "The museum hosted a tableau vivant of famous paintings.",
+      "exampleTranslation": "博物馆举办了一个著名画作的静止活人场景。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The final scene of the play was a dramatic tableau of frozen figures under the spotlight.",
+      "translation": "戏剧的最后一个场景是一个在聚光灯下静止人物的生动画面。",
+      "source": "Theater literature (e.g., from Shakespearean adaptations)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In business meetings, we use Tableau to analyze sales data and create insightful visualizations.",
+      "translation": "在商务会议中，我们使用Tableau来分析销售数据并创建有洞见的可视化图表。",
+      "source": "Corporate reports (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The artist's installation featured a tableau of everyday objects arranged to evoke emotion.",
+      "translation": "艺术家的装置艺术展示了一个由日常物品排列而成的生动场景，以唤起情感。",
+      "source": "Art criticism (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "French",
+    "rootWords": [
+      {
+        "root": "tableau",
+        "meaning": "A small picture or board",
+        "language": "Old French"
+      },
+      {
+        "root": "tabula",
+        "meaning": "Board, tablet, or plank",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'tabula'，意为木板或平板，演变为古法语 'tableau'，指小画或场景。在英语中，从17世纪开始借用，最初用于描述绘画或舞台场景，逐渐扩展到现代数据可视化领域，反映了从具体艺术再现到抽象数字表示的演变过程。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "table",
+      "tablet",
+      "tableaux (plural form)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 基于音节简单且常见于借词，但对中文母语者可能有元音发音挑战)",
+    "spellingDifficulty": "5 (1-10, 拼写规则相对直观，但结尾的 'eau' 组合可能导致混淆)",
+    "meaningComplexity": "6 (1-10, 语义多层，包括艺术和技术语境，需要语境理解)",
+    "usageComplexity": "5 (1-10, 常见于特定领域，但基础句法简单)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'tableau' 与视觉图像关联，例如想象一幅静态画作；使用间隔重复（spaced repetition）复习不同语境，以增强长期记忆；为中文学习者，建议通过双语对照练习发音，避免母语干扰如元音混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "scene",
+        "similarity": "0.8",
+        "context": "适用于艺术或戏剧语境中，强调视觉再现"
+      },
+      {
+        "word": "vista",
+        "similarity": "0.7",
+        "context": "适用于描述广阔或生动的视觉场景"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "chaos",
+        "context": "在艺术语境中，对比有序的静态场景与无序状态"
+      },
+      {
+        "word": "abstraction",
+        "context": "在数据语境中，对比具体的可视化与抽象概念"
+      }
+    ],
+    "hypernyms": [
+      "representation",
+      "visualization"
+    ],
+    "hyponyms": [
+      "tableau vivant",
+      "data dashboard"
+    ],
+    "collocations": [
+      {
+        "pattern": "tableau of [noun]",
+        "examples": [
+          "tableau of historical figures"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "create a tableau",
+        "examples": [
+          "artists create a tableau"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征静态美学和叙事再现，常用于艺术和表演中隐含情感深度；在数据时代，则代表信息可视化的现代工具，体现了从传统艺术到数字创新的转变。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于艺术和历史语境",
+        "usage": "英国英语中，常在文学或戏剧评论中出现，强调文化遗产"
+      },
+      {
+        "region": "United States",
+        "variation": "更侧重技术应用，如Tableau软件",
+        "usage": "美国英语中，在商业和科技领域流行，反映创新导向"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期绘画和19世纪法国印象主义有关，常出现在文学作品如狄更斯的小说中；在现代，关联数字革命和社会媒体的视觉文化。",
+    "modernUsage": "在社交媒体和商业环境中流行，用于描述Instagram上的视觉故事或数据分析工具，体现了全球数字化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个博物馆中的静态展览，人物像照片一样冻结在场景中。",
+      "keyElements": [
+        "静止画面",
+        "色彩鲜艳",
+        "历史人物"
+      ],
+      "emotionalConnection": "联结个人参观艺术展的经历，触发对童年记忆或惊奇感的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'table' plus 'oh' for a surprising scene.",
+        "explanation": "通过将 'tableau' 联想为 'table'（桌子）和 'oh'（惊叹），帮助记忆其视觉冲击力；基于认知科学中的视觉联想原理，提升词汇保留。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'tab-loh'，联想到轻敲木板的声音。",
+        "explanation": "利用多感官学习，结合听觉和触觉记忆词源。"
+      }
+    ],
+    "wordAssociations": [
+      "picture",
+      "scene",
+      "visualize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tableaux or tableaus",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + tableau + of + [noun]",
+        "description": "典型结构用于描述场景的组成部分",
+        "examples": [
+          "a tableau of soldiers"
+        ]
+      },
+      {
+        "pattern": "Verb + tableau",
+        "description": "如 'create a tableau'，表示动作与对象",
+        "examples": [
+          "They arranged a tableau."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'table'",
+        "correction": "Use 'tableau' for scenes, not furniture.",
+        "explanation": "中文学习者常混淆音似词，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'tableaux' in formal contexts.",
+        "explanation": "法语借词影响，需注意英语复数规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "arts",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "visual arts",
+      "data analysis",
+      "borrowed words"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

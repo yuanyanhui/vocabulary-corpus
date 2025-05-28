@@ -1,0 +1,288 @@
+{
+  "word": "bank",
+  "phonetics": {
+    "british": "/bæŋk/",
+    "american": "/bæŋk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A financial institution where people can keep money safely, borrow money, and use various financial services.",
+      "chineseTranslation": "银行",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The land alongside or sloping down to a river or lake.",
+      "chineseTranslation": "河岸",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A long, high mass or pile of something, such as snow or clouds.",
+      "chineseTranslation": "堆积物（如雪堆）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To deposit money in a bank.",
+      "chineseTranslation": "将钱存入银行",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To tilt or turn an aircraft or vehicle to one side.",
+      "chineseTranslation": "（飞机或车辆）倾斜",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood bank",
+      "meaning": "储存血液供医疗使用的地方",
+      "example": "The hospital relies on the blood bank for emergency transfusions.",
+      "exampleTranslation": "医院依赖血液库进行紧急输血。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bank on",
+      "meaning": "依靠或指望某事发生",
+      "example": "You can bank on her to arrive on time.",
+      "exampleTranslation": "你可以指望她准时到达。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "river bank",
+      "meaning": "河流的岸边",
+      "example": "We had a picnic on the river bank.",
+      "exampleTranslation": "我们在河岸上野餐。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to visit the bank to withdraw some cash.",
+      "translation": "我需要去银行取些现金。",
+      "source": "Daily conversation (based on COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The children played along the bank of the stream.",
+      "translation": "孩子们在河岸边玩耍。",
+      "source": "Literature, e.g., from children's stories",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The pilot had to bank the plane sharply to avoid the storm.",
+      "translation": "飞行员不得不让飞机急剧倾斜以避开风暴。",
+      "source": "News article (e.g., from BBC reports)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to bank her savings for future investments.",
+      "translation": "她决定将积蓄存入银行以供未来投资。",
+      "source": "Financial advice (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Multiple origins depending on sense",
+    "rootWords": [
+      {
+        "root": "banca",
+        "meaning": "Bench (referring to money lenders' benches in markets)",
+        "language": "Italian (from Germanic)"
+      },
+      {
+        "root": "banke",
+        "meaning": "Slope or ridge",
+        "language": "Old English (from Proto-Germanic *bankō)"
+      }
+    ],
+    "historicalDevelopment": "在金融意义上，源自中世纪意大利的'banca'，指交易员的摊位；后来演变为现代银行系统。在地理意义上，从古英语'banke'演变，意为河岸或坡地；该词通过日耳曼语系传播，并在中世纪英语中标准化。",
+    "firstKnownUse": "12th century for financial sense; 10th century for geographical sense",
+    "relatedWords": [
+      "bench",
+      "bankrupt",
+      "embankment"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR, based on intermediate learner's familiarity with common nouns and verbs)",
+    "pronunciationDifficulty": "3 (1-10 scale; simple consonant-vowel structure, easy for Chinese speakers despite the short vowel /æ/)",
+    "spellingDifficulty": "2 (1-10 scale; straightforward spelling with no silent letters, aligning with phonetic patterns)",
+    "meaningComplexity": "7 (1-10 scale; polysemy with multiple senses requires contextual disambiguation, challenging for intermediate learners)",
+    "usageComplexity": "6 (1-10 scale; varies by context, e.g., financial vs. geographical, demanding awareness of collocations)",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习多义词；将词汇与个人经历关联，如想象自己的银行账户；通过语境线索构建语义网络，以减少混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "institution",
+        "similarity": "0.7",
+        "context": "在金融语境中，用于正式描述"
+      },
+      {
+        "word": "shore",
+        "similarity": "0.8",
+        "context": "在地理语境中，指河岸"
+      },
+      {
+        "word": "tilt",
+        "similarity": "0.6",
+        "context": "在技术语境中，用于动词形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withdraw",
+        "context": "在金融语境中，与'bank (verb)'相对"
+      },
+      {
+        "word": "debtor",
+        "context": "在金融语境中，与银行角色相对"
+      }
+    ],
+    "hypernyms": [
+      "financial entity",
+      "landform"
+    ],
+    "hyponyms": [
+      "commercial bank",
+      "investment bank",
+      "riverbank"
+    ],
+    "collocations": [
+      {
+        "pattern": "bank + of + noun (e.g., bank of a river)",
+        "examples": [
+          "The bank of the Thames is popular for walks."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + bank (e.g., open a bank)",
+        "examples": [
+          "They decided to open a bank account."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'bank'象征经济稳定和资本主义体系；在中文文化中，可能联想到传统金融实践，如古代钱庄，体现了社会信任和财富积累的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业语境，如'drive-through bank'",
+        "usage": "在日常对话中强调便利性"
+      },
+      {
+        "region": "英国",
+        "variation": "更正式，常与历史银行如Bank of England相关",
+        "usage": "在正式或历史语境中使用"
+      }
+    ],
+    "historicalContext": "与工业革命和现代金融体系相关；在文学中，如狄更斯的小说中，'bank'代表社会阶层差异。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线银行应用；反映全球化趋势，如中文使用者可能接触到'bank'作为国际贸易术语。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个河流的河岸边有一座银行大楼，代表两种含义的结合。",
+      "keyElements": [
+        "河流",
+        "大楼",
+        "金钱符号"
+      ],
+      "emotionalConnection": "联结到个人首次存钱的经历，以触发积极情绪和记忆巩固"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bank like a bench by the bank (river)",
+        "explanation": "通过视觉联想将金融'bank'与河岸'bank'连接，运用认知科学中的双编码理论增强记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Sound of /bæŋk/ like a 'bang' of money dropping into a safe",
+        "explanation": "利用声音联想帮助发音记忆，基于多感官学习原则。"
+      }
+    ],
+    "wordAssociations": [
+      "money",
+      "river",
+      "save",
+      "tilt"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "banks",
+      "pastTense": "banked (for verb)",
+      "pastParticiple": "banked (for verb)",
+      "presentParticiple": "banking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + bank (e.g., I bank money)",
+        "description": "主语 + 动词 + bank 对象",
+        "examples": [
+          "She banks her salary every month."
+        ]
+      },
+      {
+        "pattern": "The + bank + of + noun (e.g., the bank of the river)",
+        "description": "用作名词短语表示位置",
+        "examples": [
+          "We walked along the bank of the lake."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bank' with 'bench'",
+        "correction": "Use 'bank' for financial or geographical contexts",
+        "explanation": "源自词源相似性；学习者应注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect verb form, e.g., 'I banked the money yesterday' misused",
+        "correction": "Ensure proper tense usage",
+        "explanation": "中文学习者可能忽略动词时态；通过练习语境句可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 in COCA corpus)",
+    "domains": [
+      "finance",
+      "geography",
+      "transportation"
+    ],
+    "tags": [
+      "polysemy",
+      "noun",
+      "verb",
+      "economics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

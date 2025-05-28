@@ -1,0 +1,240 @@
+{
+  "word": "granularity",
+  "phonetics": {
+    "british": "/ˌɡræn.jʊˈlær.ɪ.ti/",
+    "american": "/ˌɡræn.jəˈlær.ə.t̬i/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or condition of being composed of grains or small particles; the level of detail or fineness in a system, data, or analysis.",
+      "chineseTranslation": "粒度",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and data science, the scale at which data is divided or analyzed, affecting precision and complexity.",
+      "chineseTranslation": "（数据或系统的）精细度",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "level of granularity",
+      "meaning": "粒度级别",
+      "example": "The level of granularity in this database allows for detailed user tracking.",
+      "exampleTranslation": "这个数据库的粒度级别允许对用户进行详细跟踪。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "adjust granularity",
+      "meaning": "调整粒度",
+      "example": "You can adjust granularity in the settings to improve performance.",
+      "exampleTranslation": "您可以在设置中调整粒度以提升性能。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In geographic information systems, increasing granularity means including more detailed map features.",
+      "translation": "在地里信息系统中，提高粒度意味着包括更多详细的地图特征。",
+      "source": "Technical documentation (e.g., from GIS software manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The granularity of the economic data helps policymakers make informed decisions.",
+      "translation": "经济数据的粒度有助于决策者做出明智的决定。",
+      "source": "News article (e.g., The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Artists often play with granularity in textures to create realistic effects in digital art.",
+      "translation": "艺术家经常在纹理的粒度上玩弄，以在数字艺术中创建逼真的效果。",
+      "source": "Literary or creative writing (e.g., modern art critiques)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "gran-",
+        "meaning": "Grain or small particle",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'granum' meaning 'grain', the word evolved through Middle English 'granular' in the 17th century to 'granularity' in the 19th century, expanding from physical particle descriptions to metaphorical uses in science and technology by the 20th century.",
+    "firstKnownUse": "19th century (e.g., first recorded in English texts around 1847, as per Oxford English Dictionary)",
+    "relatedWords": [
+      "granule",
+      "granular",
+      "grain"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "Use spaced repetition to reinforce the word's association with visual images of grains or data points, drawing from cognitive load theory to break down complex meanings.",
+      "Link the word to everyday objects like sand grains for intermediate learners, aiding in schema activation as per Anderson's cognitive theory."
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "detail",
+        "similarity": "0.8",
+        "context": "在描述数据或分析的精细程度时使用"
+      },
+      {
+        "word": "fineness",
+        "similarity": "0.7",
+        "context": "在技术或材料科学语境中，强调颗粒或结构的精细性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "coarseness",
+        "context": "在对比粒度时，用于表示粗略或不详细的水平"
+      },
+      {
+        "word": "simplicity",
+        "context": "在数据处理语境中，表示较低的复杂度和细节水平"
+      }
+    ],
+    "hypernyms": [
+      "quality",
+      "attribute"
+    ],
+    "hyponyms": [
+      "data granularity",
+      "spatial granularity"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + granularity",
+        "examples": [
+          "level of granularity",
+          "degree of granularity"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjust + granularity",
+        "examples": [
+          "adjust granularity settings"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "In Western technical and scientific cultures, 'granularity' symbolizes precision and analytical depth, often associated with efficiency in data-driven societies, but it lacks strong symbolic metaphors in everyday culture.",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech and business contexts with emphasis on data analytics.",
+        "usage": "Frequently appears in American English in corporate reports, reflecting a culture of innovation and detail-oriented problem-solving."
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar usage but with a slight preference for formal academic language.",
+        "usage": "Often seen in British scientific literature, maintaining a neutral tone without regional slang."
+      }
+    ],
+    "historicalContext": "The term gained prominence during the Industrial Revolution in Europe, linked to advancements in microscopy and material science, and later in the digital age with computing, reflecting societal shifts towards empirical analysis.",
+    "modernUsage": "In contemporary social media and tech discussions, it's prevalent in platforms like Twitter or LinkedIn for debates on data privacy, indicating a trend towards democratization of technical language."
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "Imagine a magnifying glass zooming into a sandy beach, where each grain represents a data point.",
+      "keyElements": [
+        "magnifying glass",
+        "sand grains",
+        "data points"
+      ],
+      "emotionalConnection": "Connect to a personal experience of examining details in nature, evoking curiosity and exploration to enhance emotional encoding as per Paivio's dual-coding theory."
+    },
+    "mnemonicDevices": [
+      {
+        "type": "visual association",
+        "content": "Think of 'granularity' as 'grain-ularity', linking to rice grains for size and detail.",
+        "explanation": "This uses visual imagery to create a mental hook, reducing cognitive load for intermediate learners."
+      },
+      {
+        "type": "acronym",
+        "content": "G-R-A-N: Grain Represents A New level of detail.",
+        "explanation": "Breaks down the word into memorable parts, applying elaborative rehearsal from memory science."
+      }
+    ],
+    "wordAssociations": [
+      "grain",
+      "detail",
+      "precision"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "granularities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "用作名词，通常在句子中描述属性或水平",
+        "examples": [
+          "The granularity is high in this model."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词搭配，如 'of granularity'",
+        "examples": [
+          "We discussed the level of granularity required."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'granular' as an adjective without context",
+        "correction": "Use 'granularity' specifically for the noun form",
+        "explanation": "Learners may misuse it as an adjective; clarify through context to avoid semantic errors."
+      },
+      {
+        "mistake": "Overgeneralizing to mean only physical particles",
+        "correction": "Apply to both physical and abstract contexts",
+        "explanation": "For Chinese learners, emphasize metaphorical uses to prevent literal translations."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in the COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "technology",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "technical term",
+      "abstract noun",
+      "data analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

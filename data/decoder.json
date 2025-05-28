@@ -1,0 +1,239 @@
+{
+  "word": "decoder",
+  "phonetics": {
+    "british": "/dɪˈkəʊdə/",
+    "american": "/dɪˈkoʊdər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, circuit, or program that converts encoded data or signals into a more understandable or original form, such as decrypting messages or decoding video signals.",
+      "chineseTranslation": "解码器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and electronics, a component that interprets and processes input signals to produce output based on predefined rules.",
+      "chineseTranslation": "译码器",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "video decoder",
+      "meaning": "视频解码器",
+      "example": "The video decoder in the TV set converts the digital signal into a viewable image.",
+      "exampleTranslation": "电视机中的视频解码器将数字信号转换为可观看的图像。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "audio decoder",
+      "meaning": "音频解码器",
+      "example": "Modern smartphones include an audio decoder for high-fidelity sound playback.",
+      "exampleTranslation": "现代智能手机包含音频解码器，用于高保真声音播放。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The decoder in the satellite receiver allows us to watch international channels.",
+      "translation": "卫星接收器中的解码器允许我们观看国际频道。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cryptography, a decoder is essential for breaking encrypted codes during wartime.",
+      "translation": "在密码学中，解码器在战时破解加密代码时至关重要。",
+      "source": "Historical text (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Software developers often use a decoder to process binary data in programming.",
+      "translation": "软件开发者经常使用解码器来处理编程中的二进制数据。",
+      "source": "Educational material (e.g., from online tech forums)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "down or away from",
+        "language": "Latin"
+      },
+      {
+        "root": "code",
+        "meaning": "a system of signals or symbols",
+        "language": "Latin (from codex, meaning 'book' or 'trunk')"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'codex'，意为书籍或树干，演变为英语 'code' 表示编码系统。'Decode' 则在19世纪中期出现，结合前缀 'de-' 表示逆转过程，到20世纪，随着电子和计算机技术的发展，'decoder' 成为特定设备或程序的术语。",
+    "firstKnownUse": "Early 20th century (around 1920, as per OED records)",
+    "relatedWords": [
+      "encode",
+      "decode",
+      "cipher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，使用分块学习法（chunking）将 'decoder' 与 'encode' 配对记忆，以强化语义对比；对于中文母语学习者，联想日常生活中的电子设备如手机解码器，以建立视觉和语境关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decipherer",
+        "similarity": "0.8",
+        "context": "适用于密码学或文本解码语境中"
+      },
+      {
+        "word": "interpreter",
+        "similarity": "0.6",
+        "context": "在软件或语言翻译语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "encoder",
+        "context": "在数据处理语境中，表示编码过程的反面"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "program"
+    ],
+    "hyponyms": [
+      "video decoder",
+      "audio decoder"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + decoder (e.g., signal decoder)",
+        "examples": [
+          "digital signal decoder"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + decoder (e.g., use a decoder)",
+        "examples": [
+          "install a decoder"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和信息解密，常与冷战时期的间谍活动或现代数字隐私相关联，隐含语义涉及信任和安全。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech contexts like computing hardware",
+        "usage": "在美国，'decoder' 经常出现在消费电子产品描述中，以强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, often in broadcasting (e.g., TV decoder)",
+        "usage": "在英国，'decoder' 与媒体和通信行业紧密相关，体现历史广播技术的演变"
+      }
+    ],
+    "historicalContext": "与20世纪的无线电和密码破译技术相关，如二战中的Enigma机器，反映了科技在社会和军事背景中的作用。",
+    "modernUsage": "在社交媒体和数字时代，'decoder' 常用于讨论算法和AI，例如TikTok视频的解码器，体现全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁着的宝箱，里面是隐藏的信息；'decoder' 像一把钥匙，将复杂代码解开。",
+      "keyElements": [
+        "钥匙",
+        "宝箱",
+        "代码"
+      ],
+      "emotionalConnection": "联结个人对解谜游戏的兴奋感，触发好奇心以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'decoder' as 'de-code-er' – removing the code to reveal the original.",
+        "explanation": "通过声音和语义联想，将 'de-' 视为 '去除'，帮助中文母语者建立直观连接"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-C-O-D-E-R: Decode Every Coded Object Daily, Easily Revealed.",
+        "explanation": "使用首字母缩略法结合日常生活场景，增强认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "encrypt",
+      "translate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "decoders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + decoder",
+        "description": "主语 + 动词 + 解码器，常用于描述设备功能",
+        "examples": [
+          "The system uses a decoder."
+        ]
+      },
+      {
+        "pattern": "Decoder + of + noun",
+        "description": "解码器 + of + 名词，表示特定类型",
+        "examples": [
+          "Decoder of signals"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'decoder' with 'encoder'",
+        "correction": "Use 'decoder' for decoding and 'encoder' for encoding",
+        "explanation": "中文学习者常混淆方向性词汇，需注意语义对比"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural (decoders)",
+        "explanation": "英语名词规则简单，但初级学习者易遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "electronics"
+    ],
+    "tags": [
+      "tech",
+      "digital",
+      "communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

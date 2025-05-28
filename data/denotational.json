@@ -1,0 +1,223 @@
+{
+  "word": "denotational",
+  "phonetics": {
+    "british": "/ˌdiːnəʊˈteɪʃənl/",
+    "american": "/ˌdiːnoʊˈteɪʃənl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to the direct or explicit meaning conveyed by a word, symbol, or expression, as opposed to implied or associative meanings.",
+      "chineseTranslation": "指称的；表示的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "denotational semantics",
+      "meaning": "指称语义",
+      "example": "Denotational semantics provides a mathematical framework for defining the meaning of programming languages.",
+      "exampleTranslation": "指称语义为定义编程语言的含义提供了一个数学框架。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "denotational approach",
+      "meaning": "指称方法",
+      "example": "The denotational approach in linguistics focuses on the literal reference of terms.",
+      "exampleTranslation": "语言学中的指称方法侧重于术语的字面引用。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In philosophy, the denotational aspect of language deals with what words actually refer to in the real world.",
+      "translation": "在哲学中，语言的指称方面处理单词在现实世界中实际指代的内容。",
+      "source": "Philosophical texts, such as works by Bertrand Russell",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Computer scientists use denotational methods to model the behavior of software systems.",
+      "translation": "计算机科学家使用指称方法来建模软件系统的行为。",
+      "source": "Academic papers in computer science",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The word 'dog' has a denotational meaning that refers to a specific animal species.",
+      "translation": "单词 'dog' 的指称含义指的是一个特定的动物物种。",
+      "source": "Linguistic studies",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "denotare",
+        "meaning": "to mark out or indicate",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Latin 'denotare', meaning 'to mark out', which evolved through Old French 'denoter' into Middle English 'denote'. The adjective 'denotational' emerged in the 20th century in the context of semantics and logic, expanding to denote explicit, referential meanings in fields like philosophy and computer science.",
+    "firstKnownUse": "Mid-20th century (e.g., around 1950 in logical positivism)",
+    "relatedWords": [
+      "denote",
+      "notation",
+      "denotation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将 'denotational' 与其根词 'denote' 分解记忆；创建个人语境联想，例如将词汇与实际符号系统联系，以增强长期记忆；通过重复暴露于专业语料中，强化语义网络的构建。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "referential",
+        "similarity": "0.8",
+        "context": "在语言学和哲学语境中，用于描述直接引用或指称的含义"
+      },
+      {
+        "word": "literal",
+        "similarity": "0.7",
+        "context": "在正式写作中，指非比喻的直接表达"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "connotative",
+        "context": "在语义分析中，指暗示的或联想性的含义，与直接指称相对"
+      }
+    ],
+    "hypernyms": [
+      "semantic"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "denotational + semantics",
+        "examples": [
+          "denotational semantics in programming"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "denotational + meaning",
+        "examples": [
+          "denotational meaning of terms"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征直接、客观的表达方式，常与分析哲学和逻辑学相关，强调事实而非情感隐喻；在中文文化中，可能与儒家或现代语言哲学的精确性概念呼应。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学和AI领域",
+        "usage": "在美国学术环境中，'denotational' 常出现在技术讨论中，以突出模型的精确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向哲学和语言学语境",
+        "usage": "在英国，词汇可能更侧重于理论框架，如逻辑实证主义"
+      }
+    ],
+    "historicalContext": "与20世纪的分析哲学和形式逻辑相关，例如维特根斯坦和罗素的作品，反映了西方对语言精确性的追求；在中文语境中，与现代翻译理论的兴起有关。",
+    "modernUsage": "在社交媒体和在线教育中，'denotational' 常用于AI和编程讨论，但在中国，可能会通过翻译软件或学术交流传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头直接指向一个物体，比如一个标签指向苹果，代表词汇的直接指称。",
+      "keyElements": [
+        "箭头",
+        "物体",
+        "标签"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用地图导航，触发熟悉感和实用性情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'denotational' 联想为 'denote a national flag'，意思是 '标示一个国家的旗帜'，强调直接标识。",
+        "explanation": "通过声音和视觉联想，帮助建立词汇与实际对象的认知连接，提升记忆保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'Deno-T' 代表 'Denotational' 和 'True meaning'，简化为真实现象。",
+        "explanation": "利用缩略法结合认知负载理论，减少记忆负担"
+      }
+    ],
+    "wordAssociations": [
+      "denote",
+      "meaning",
+      "semantics",
+      "reference"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词修饰名词，表示直接含义的属性",
+        "examples": [
+          "denotational semantics"
+        ]
+      },
+      {
+        "pattern": "In + denotational + context",
+        "description": "在句子中用作介词短语的一部分，描述语境",
+        "examples": [
+          "In denotational terms"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'connotational'",
+        "correction": "Use 'denotational' for direct reference",
+        "explanation": "Learners often mix it with implied meanings; clarify through context analysis"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /dɛnəʊteɪʃənl/",
+        "correction": "Pronounce as /ˌdiːnəʊˈteɪʃənl/",
+        "explanation": "Common for intermediate learners due to vowel sound variations"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank approximately 15,000 in COCA corpus)",
+    "domains": [
+      "Linguistics",
+      "Computer Science",
+      "Philosophy"
+    ],
+    "tags": [
+      "Semantics",
+      "Reference",
+      "Technical Terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "word": "rely",
+  "phonetics": {
+    "british": "/rɪˈlaɪ/",
+    "american": "/rɪˈlaɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to depend on someone or something for support, help, or supply",
+      "chineseTranslation": "依靠；依赖",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to be confident in the truth or ability of someone or something",
+      "chineseTranslation": "信赖；信任",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rely on",
+      "meaning": "依靠某人或某事",
+      "example": "You can rely on your friends in times of need.",
+      "exampleTranslation": "在需要时你可以依靠你的朋友。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "rely upon",
+      "meaning": "依赖某人或某事（更正式的表达）",
+      "example": "The success of the project relies upon accurate data.",
+      "exampleTranslation": "项目的成功依赖于准确的数据。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I rely on public transportation to get to work every day.",
+      "translation": "我每天依靠公共交通工具去上班。",
+      "source": "Daily conversation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In business, companies often rely on market analysis to make decisions.",
+      "translation": "在商业中，公司经常依赖市场分析来做决定。",
+      "source": "Business article (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She relies heavily on her family for emotional support during tough times.",
+      "translation": "她在困难时期 heavily 依靠她的家人获得情感支持。",
+      "source": "Literature (e.g., from modern novels in BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old French relier",
+    "rootWords": [
+      {
+        "root": "ligare",
+        "meaning": "to bind",
+        "language": "Latin"
+      },
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'ligare'（意为绑缚），通过古法语 'relier' 演变为中古英语 'relyen'，最初表示绑缚或连接，逐渐扩展到抽象意义如依赖或信任；在17世纪后，现代英语中更侧重于依赖关系的发展。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "reliable",
+      "reliance",
+      "ally"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'rely' 与日常依赖场景关联，如想象日常生活中的支持系统；利用重复暴露（spaced repetition）在句子中使用该词，以强化语义网络；为中文母语学习者，强调词根 'ligare' 的绑缚意象，以建立跨语言联想。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "depend",
+        "similarity": "0.9",
+        "context": "适用于正式语境，如商业或学术讨论中，表示对事物的依赖"
+      },
+      {
+        "word": "trust",
+        "similarity": "0.8",
+        "context": "适用于人际关系语境中，表示对人的信心"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "distrust",
+        "context": "在怀疑或不信任的语境中，例如政治或社交互动"
+      },
+      {
+        "word": "independ",
+        "context": "在强调自立的语境中，如个人发展讨论"
+      }
+    ],
+    "hypernyms": [
+      "depend"
+    ],
+    "hyponyms": [
+      "lean on",
+      "count on"
+    ],
+    "collocations": [
+      {
+        "pattern": "rely on + noun/pronoun",
+        "examples": [
+          "rely on friends",
+          "rely on technology"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "rely upon + formal contexts",
+        "examples": [
+          "rely upon evidence"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征信任与互助，隐含语义强调个人或社会系统的相互依赖，如在美国文化中，常与自力更生（self-reliance）形成对比，反映独立精神的双重性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于使用 'rely upon' 在正式场合",
+        "usage": "在英国英语中，常见于文学或官方文件，以突出传统礼节"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用 'rely on' 在日常对话",
+        "usage": "在美国英语中，强调实用性和直接性，常在商业或科技语境下使用"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，源自拉丁语的绑缚概念，在工业革命后演变为现代社会中依赖技术的象征，如在英国文学（如狄更斯作品）中体现社会阶层间的依赖关系。",
+    "modernUsage": "在社交媒体和数字时代，'rely' 常用于讨论在线依赖，如依赖算法或社交网络，反映全球化的互连趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个桥（bridge）连接两侧的场景，代表 'rely' 的依赖关系。",
+      "keyElements": [
+        "桥（bridge）",
+        "连接（connection）",
+        "支持（support）"
+      ],
+      "emotionalConnection": "联结个人经验，如回想依赖朋友的时刻，以触发积极情绪和记忆巩固"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'rely' 联想为 're-link'，意为重新连接。",
+        "explanation": "通过视觉联想词根 'ligare'（绑缚），帮助记忆语义，并结合认知科学中的双编码（dual coding）理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /rɪˈlaɪ/ 类似 're-lie'，想象躺靠在某物上。",
+        "explanation": "利用声音与动作的联觉，提升记忆保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "depend",
+      "trust",
+      "support"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "relied",
+      "pastParticiple": "relied",
+      "presentParticiple": "relying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + rely on + object",
+        "description": "主语 + 依靠 + 宾语的结构，常用于表达依赖关系。",
+        "examples": [
+          "He relies on his team."
+        ]
+      },
+      {
+        "pattern": "Rely + on + gerund/infinitive",
+        "description": "依靠后接动名词或不定式，扩展句子复杂性。",
+        "examples": [
+          "She relies on working hard."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'rely' without 'on' or 'upon'",
+        "correction": "Always use 'rely on' or 'rely upon'",
+        "explanation": "单独使用 'rely' 会导致句子不完整，这是因为该词需搭配介词以表示依赖对象。"
+      },
+      {
+        "mistake": "Confusing with 'reply'",
+        "correction": "Use 'rely' for dependence and 'reply' for response",
+        "explanation": "发音相似可能导致混淆，通过语境区分，如 'rely' 涉及信任，而 'reply' 涉及回应。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "psychology",
+      "daily life"
+    ],
+    "tags": [
+      "dependence",
+      "trust",
+      "verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

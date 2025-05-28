@@ -1,0 +1,257 @@
+{
+  "word": "reproducibility",
+  "phonetics": {
+    "british": "/ˌriː.prə.dʒuː.səˈbɪl.ɪ.ti/",
+    "american": "/ˌriː.prə.duː.səˈbɪl.ə.ti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being able to be reproduced or replicated under the same conditions, often used in scientific, experimental, or technical contexts to ensure reliability of results.",
+      "chineseTranslation": "可再现性",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability of a study, experiment, or process to yield the same outcomes when repeated by different researchers or in different settings.",
+      "chineseTranslation": "再现能力",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ensure reproducibility",
+      "meaning": "确保结果或实验的可再现性",
+      "example": "Scientists must ensure reproducibility in their experiments to validate findings.",
+      "exampleTranslation": "科学家必须确保实验的可再现性来验证发现。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "lack of reproducibility",
+      "meaning": "缺乏可再现性",
+      "example": "The lack of reproducibility in the study raised questions about its validity.",
+      "exampleTranslation": "该研究缺乏可再现性，引发了对其有效性的质疑。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "high reproducibility",
+      "meaning": "高可再现性",
+      "example": "High reproducibility is a hallmark of well-designed clinical trials.",
+      "exampleTranslation": "高可再现性是设计良好的临床试验的标志。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In scientific research, reproducibility is essential for building trustworthy knowledge.",
+      "translation": "在科学研究中，可再现性对于建立可信知识至关重要。",
+      "source": "Academic journal (e.g., Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The team's failure to achieve reproducibility led to the retraction of their paper.",
+      "translation": "该团队未能实现可再现性，导致他们的论文被撤回。",
+      "source": "Scientific news article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Ensuring reproducibility in software development involves rigorous testing protocols.",
+      "translation": "在软件开发中，确保可再现性需要严格的测试协议。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "又，再",
+        "language": "Latin"
+      },
+      {
+        "root": "producere",
+        "meaning": "生产，产生",
+        "language": "Latin"
+      },
+      {
+        "root": "-ibility",
+        "meaning": "…性，…状态",
+        "language": "Latin via French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 're-' (表示重复) 和 'producere' (意为 '产生')，通过中古英语演变为 'reproduce'，并在18世纪末添加后缀 '-ibility' 形成名词，最初用于生物学和科学实验的语境中，以强调实验结果的重复性；现代意义扩展到社会科学和数据科学。",
+    "firstKnownUse": "Circa 1880",
+    "relatedWords": [
+      "reproduce",
+      "replication",
+      "duplicability"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的分块编码策略，将 'reproducibility' 与科学实验的视觉图像关联，如重复实验的场景；结合双编码方法，使用中文翻译 '可再现性' 作为记忆锚点，以增强跨语言迁移；建议通过间隔重复系统 (SRS) 复习，针对中间级学习者强化语义网络连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "replicability",
+        "similarity": "0.9",
+        "context": "科学实验和研究中，用于强调结果的可重复性"
+      },
+      {
+        "word": "repeatability",
+        "similarity": "0.8",
+        "context": "工程和技术领域，焦点在于过程的可靠重复"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irreproducibility",
+        "context": "当实验结果无法重复时，常用于批评性讨论中"
+      },
+      {
+        "word": "unreliability",
+        "context": "在数据或结果不可信的语境下使用"
+      }
+    ],
+    "hypernyms": [
+      "reliability",
+      "consistency"
+    ],
+    "hyponyms": [
+      "experimental reproducibility",
+      "statistical reproducibility"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + reproducibility",
+        "examples": [
+          "importance of reproducibility"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + reproducibility",
+        "examples": [
+          "high reproducibility",
+          "low reproducibility"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征着知识的可验证性和学术诚信，尤其在后现代科学哲学中强调避免主观偏差；它反映了启蒙运动以来对实证主义的追求。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于学术和实验语境，使用较为正式",
+        "usage": "在英国英语中，常与历史科学传统（如牛津科学社团）相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "在科技和商业语境中更常见，强调实际应用",
+        "usage": "在美国英语中，受硅谷文化影响，常用于数据科学和AI领域"
+      }
+    ],
+    "historicalContext": "与19世纪的科学革命相关联，如达尔文进化论的实验验证；在文学和社会评论中（如Thomas Kuhn的《科学革命的结构》），它体现了科学范式的转变。",
+    "modernUsage": "在社交媒体和在线论坛中，特别是在COVID-19疫情期间，'reproducibility' 成为讨论假新闻和科学误导的热门话题，体现数字时代的信息可靠性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家在实验室中重复实验的过程：一个按钮被按下，相同的化学反应反复发生。",
+      "keyElements": [
+        "重复按钮",
+        "实验室设备",
+        "相同结果"
+      ],
+      "emotionalConnection": "联结到个人经历，如学生时代重复作业的挫败感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re-pro-duce-ibility = Re-run production ability",
+        "explanation": "通过将词汇分解为 're-' (再) 和 'produce' (生产)，联想为 '再次生产的能力'，利用视觉联想增强认知编码"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音如 'ree-pro-doo-si-bi-li-ty'，联想为 'replay a movie' (重播电影)",
+        "explanation": "利用声音相似性与熟悉场景连接，基于认知心理学中的双重编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "replicate",
+      "reliable",
+      "experiment"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "reproducibilities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + reproducibility",
+        "description": "作为主语或宾语出现于句子中，强调概念的抽象性",
+        "examples": [
+          "Reproducibility ensures scientific progress."
+        ]
+      },
+      {
+        "pattern": "Adjective + of + reproducibility",
+        "description": "用于修饰词组，突出特质",
+        "examples": [
+          "The importance of reproducibility cannot be overstated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'reproductivity'",
+        "correction": "Use 'reproducibility' for scientific contexts",
+        "explanation": " 'Reproductivity' is not standard; learners often mix it with biological terms, leading to semantic errors"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'reproducibilities' for multiple instances",
+        "explanation": "As an uncountable noun in many contexts, but countable in technical discussions"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "academia",
+      "research"
+    ],
+    "tags": [
+      "scientific term",
+      "abstract noun",
+      "technical vocabulary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

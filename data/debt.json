@@ -1,0 +1,259 @@
+{
+  "word": "debt",
+  "phonetics": {
+    "british": "/dɛt/",
+    "american": "/dɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sum of money that is owed or due to someone as a result of borrowing or an obligation.",
+      "chineseTranslation": "债务",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A state of being under obligation to pay or repay someone or something, often extended metaphorically to moral or social obligations.",
+      "chineseTranslation": "欠款或责任",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that is owed or required, such as a debt of gratitude.",
+      "chineseTranslation": "亏欠或感激之情",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "national debt",
+      "meaning": "国家债务",
+      "example": "The national debt has reached unprecedented levels due to recent economic policies.",
+      "exampleTranslation": "国家债务由于最近的经济政策达到了前所未有的水平。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in debt",
+      "meaning": "负债状态",
+      "example": "After the business failed, he found himself in debt to several creditors.",
+      "exampleTranslation": "生意失败后，他发现自己欠了几位债权人的债务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "debt ceiling",
+      "meaning": "债务上限",
+      "example": "The government raised the debt ceiling to avoid a financial crisis.",
+      "exampleTranslation": "政府提高了债务上限以避免金融危机。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She accumulated a large debt from student loans, which took years to repay.",
+      "translation": "她从学生贷款中积累了大量债务，这花了数年时间才偿还。",
+      "source": "Financial news articles (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In many cultures, debt is not just financial but also a moral obligation that binds communities together.",
+      "translation": "在许多文化中，债务不仅仅是财务问题，还是一种将社区联系在一起的道德义务。",
+      "source": "Academic texts (e.g., from cultural anthropology studies)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The company decided to restructure its debt to improve cash flow and investor confidence.",
+      "translation": "公司决定重组其债务以改善现金流和投资者信心。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "deb-",
+        "meaning": "to owe",
+        "language": "Latin"
+      },
+      {
+        "root": "debitum",
+        "meaning": "something owed",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'debere'（意为 'to owe'）演变而来，通过古法语 'dette' 进入中古英语 'dette'，并在14世纪标准化为 'debt'，反映了中世纪欧洲金融和法律概念的发展。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "debit",
+      "indebted",
+      "creditor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知关联法，将 'debt' 与个人财务经验联系，如想象一个沉重的包袱代表债务，以增强记忆；根据双编码理论，结合视觉和语义提示进行重复练习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "obligation",
+        "similarity": "0.8",
+        "context": "适用于正式语境中强调责任或财务承诺，例如法律文件"
+      },
+      {
+        "word": "liability",
+        "similarity": "0.7",
+        "context": "常用于商业或财务语境中，表示潜在风险"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asset",
+        "context": "在财务语境中，对比债务与资产，例如在资产负债表中"
+      },
+      {
+        "word": "credit",
+        "context": "在经济语境中，表示积极的财务状况而非负债"
+      }
+    ],
+    "hypernyms": [
+      "liability"
+    ],
+    "hyponyms": [
+      "bad debt",
+      "public debt"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + debt",
+        "examples": [
+          "incur debt",
+          "repay debt"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + debt",
+        "examples": [
+          "outstanding debt",
+          "substantial debt"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征财务责任和个人诚信，常与资本主义经济模式相关联；在东方文化如中国，可能隐含家族义务的含义，强调集体债务。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更强调消费者债务，如信用卡债务",
+        "usage": "在美国英语中，常用于讨论个人财务管理和社会不平等"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于历史和政府债务",
+        "usage": "在英国英语中，常与历史性财政政策相关联，如英国国债"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的借贷系统和文艺复兴时期的金融革命有关，例如在莎士比亚的作品中，债务常被用于探讨道德困境。",
+    "modernUsage": "在社交媒体和数字经济中，债务常与'债务陷阱'或'学生贷款危机'等话题相关，常在Twitter或金融博客中讨论跨文化财务压力。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁链缠绕的金钱袋子，代表债务的负担。",
+      "keyElements": [
+        "锁链",
+        "金钱袋子",
+        "负担"
+      ],
+      "emotionalConnection": "联结到个人财务压力或家庭经历，以触发负面情绪记忆增强保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "声音联想",
+        "content": "Debt sounds like 'death' of finances.",
+        "explanation": "通过声音相似性，将债务与财务'死亡'联想，基于认知语言学的听觉编码原则"
+      },
+      {
+        "type": "视觉缩略",
+        "content": "D-E-B-T: Debt Equals Borrowing Trouble.",
+        "explanation": "使用首字母缩写创建短语，结合记忆宫殿技巧以改进长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "loan",
+      "borrow",
+      "owe"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "debts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + debt",
+        "description": "主语加动词加债务的结构，常用于描述拥有或处理债务",
+        "examples": [
+          "He owes a debt."
+        ]
+      },
+      {
+        "pattern": "In + debt",
+        "description": "介词短语表示状态",
+        "examples": [
+          "She is in debt."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'debt' with 'debit'",
+        "correction": "Use 'debt' for the obligation and 'debit' for accounting entries.",
+        "explanation": "这源于词源相似性，但语境不同；学习者应注意语义区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'debts' for plural.",
+        "explanation": "作为常规名词，容易被非英语母语者忽略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "finance",
+      "economics",
+      "law"
+    ],
+    "tags": [
+      "money",
+      "obligation",
+      "finance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

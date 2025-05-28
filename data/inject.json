@@ -1,0 +1,258 @@
+{
+  "word": "inject",
+  "phonetics": {
+    "british": "/ɪnˈdʒɛkt/",
+    "american": "/ɪnˈdʒɛkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to introduce a liquid or other substance into the body or a part of it using a syringe or similar device",
+      "chineseTranslation": "注射",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to introduce or add something into a situation, system, or process, often metaphorically",
+      "chineseTranslation": "注入；引入",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to insert malicious code or data into a program or system",
+      "chineseTranslation": "注入（如代码注入）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inject capital",
+      "meaning": "注入资金",
+      "example": "The company decided to inject capital into the new project to ensure its success.",
+      "exampleTranslation": "公司决定为新项目注入资金以确保其成功。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "SQL inject",
+      "meaning": "SQL注入（一种网络安全漏洞）",
+      "example": "Hackers can SQL inject code to access sensitive databases.",
+      "exampleTranslation": "黑客可以通过SQL注入代码来访问敏感数据库。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "inject humor",
+      "meaning": "注入幽默元素",
+      "example": "The speaker tried to inject humor into the presentation to keep the audience engaged.",
+      "exampleTranslation": "演讲者试图在演讲中注入幽默元素以保持观众的兴趣。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Doctors inject vaccines to prevent diseases.",
+      "translation": "医生注射疫苗来预防疾病。",
+      "source": "Medical literature, e.g., WHO guidelines",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The government plans to inject funds into the education sector.",
+      "translation": "政府计划向教育部门注入资金。",
+      "source": "News articles, e.g., BBC News",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you should avoid allowing users to inject scripts into your website.",
+      "translation": "在编程中，你应该避免允许用户向你的网站注入脚本。",
+      "source": "Technical documentation, e.g., OWASP",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "into",
+        "language": "Latin"
+      },
+      {
+        "root": "jacere",
+        "meaning": "to throw",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'injacere'，意为 '投进' 或 '注入'。在17世纪传入英语，首先用于医学语境，表示使用针管引入物质。随着时间推移，扩展到比喻意义，如在经济或计算机领域。",
+    "firstKnownUse": "1616",
+    "relatedWords": [
+      "injection",
+      "eject"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过认知科学原理，如双编码理论，将单词与视觉图像（如注射器图片）结合，以增强记忆；",
+      "使用间隔重复系统（Spaced Repetition System）复习不同语境下的用法，以改善长期保留；",
+      "将单词与个人经验关联，例如回想一次疫苗注射经历，以创建情感连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "administer",
+        "similarity": "0.8",
+        "context": "在医疗语境中，用于药物或疫苗的引入"
+      },
+      {
+        "word": "introduce",
+        "similarity": "0.7",
+        "context": "在比喻语境中，用于思想或资金的注入"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extract",
+        "context": "在医疗语境中，表示从身体中取出物质"
+      },
+      {
+        "word": "withdraw",
+        "context": "在经济语境中，表示撤回资金"
+      }
+    ],
+    "hypernyms": [
+      "insert"
+    ],
+    "hyponyms": [
+      "vaccinate"
+    ],
+    "collocations": [
+      {
+        "pattern": "inject + noun (e.g., inject funds, inject code)",
+        "examples": [
+          "inject funds into the economy",
+          "inject code into the system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be injected with + noun",
+        "examples": [
+          "be injected with a vaccine"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与医疗和科技创新相关，象征快速引入变化，如疫苗接种在公共卫生中的作用；在一些文化中，可能隐含负面含义，如计算机安全中的注入攻击。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 'code injection'",
+        "usage": "在美国英语中，强调创新和风险管理"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式医学用法",
+        "usage": "在英国英语中，常见于正式报告和文学"
+      }
+    ],
+    "historicalContext": "与工业革命和现代医学发展相关，例如18世纪的疫苗发明；在文学中，如狄更斯的作品中，用于比喻社会变革。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论网络安全或经济刺激计划，如COVID-19疫苗注射的全球趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个医生使用针管将液体注入手臂的场景",
+      "keyElements": [
+        "针管",
+        "液体",
+        "手臂"
+      ],
+      "emotionalConnection": "联结到个人经历，如儿时打针的紧张感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Inject 听起来像 'in-ject'，想象 'in' 代表进入，'ject' 像 'project' 的投射",
+        "explanation": "通过声音联想和视觉投射，帮助建立词汇与动作的认知连接"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-J-E-C-T: I Need Just Enough Confidence To Succeed",
+        "explanation": "使用首字母缩略词与积极情绪结合，促进记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "syringe",
+      "infuse",
+      "insert"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "injected",
+      "pastParticiple": "injected",
+      "presentParticiple": "injecting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + inject + object + into + location",
+        "description": "主语 + 注入 + 宾语 + 到 + 位置",
+        "examples": [
+          "The nurse injects the medicine into the patient's arm."
+        ]
+      },
+      {
+        "pattern": "Inject + noun + to + purpose",
+        "description": "注入 + 名词 + 以 + 目的",
+        "examples": [
+          "They inject funds to stimulate growth."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'inject' without proper preposition",
+        "correction": "Use 'inject into' for physical or metaphorical introduction",
+        "explanation": "错误源于母语影响，可能忽略介词；正确用法基于英语句法规则"
+      },
+      {
+        "mistake": "Confusing with 'eject'",
+        "correction": "Use 'inject' for adding, 'eject' for removing",
+        "explanation": "二者发音相似，可能导致混淆；通过语境区分以避免错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "medicine",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "verb",
+      "action",
+      "introduction"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

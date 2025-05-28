@@ -1,0 +1,277 @@
+{
+  "word": "distance",
+  "phonetics": {
+    "british": "/ˈdɪstəns/",
+    "american": "/ˈdɪstəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The amount of space between two points or objects.",
+      "chineseTranslation": "距离（两个点或物体之间的空间量）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The extent of difference or separation in time, relationship, or emotional connection.",
+      "chineseTranslation": "距离（在时间、关系或情感上的差异或分离）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make something seem farther away or less immediate, often emotionally.",
+      "chineseTranslation": "疏远（使某事显得更远或不那么直接，通常是情感上）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, a scalar quantity that refers to how much ground an object has covered during its motion.",
+      "chineseTranslation": "距离（在物理学中，指物体在运动过程中覆盖的标量量）",
+      "level": "academic",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "long distance",
+      "meaning": "长距离",
+      "example": "She called her family from a long distance.",
+      "exampleTranslation": "她从长途打电话给她的家人。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "keep at a distance",
+      "meaning": "保持距离",
+      "example": "It's wise to keep dangerous animals at a distance.",
+      "exampleTranslation": "明智的做法是与危险的动物保持距离。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "distance learning",
+      "meaning": "远程学习",
+      "example": "Many universities offer distance learning programs online.",
+      "exampleTranslation": "许多大学提供在线远程学习课程。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The distance between New York and London is about 5,500 kilometers.",
+      "translation": "纽约和伦敦之间的距离大约是5500公里。",
+      "source": "Geographical text (e.g., from National Geographic)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Emotional distance can strain even the strongest relationships.",
+      "translation": "情感距离可能会破坏甚至最牢固的关系。",
+      "source": "Psychological literature (e.g., from self-help books)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physics, distance is calculated as the integral of speed over time.",
+      "translation": "在物理学中，距离被计算为速度随时间积分。",
+      "source": "Academic textbook (e.g., from a physics corpus like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He tried to distance himself from the controversy by issuing a public statement.",
+      "translation": "他试图通过发表公开声明来与争议保持距离。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "distare",
+        "meaning": "to stand apart",
+        "language": "Latin"
+      },
+      {
+        "root": "dis-",
+        "meaning": "apart or away",
+        "language": "Latin"
+      },
+      {
+        "root": "stare",
+        "meaning": "to stand",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'distantia'，是'distare'的派生词，意为'站立分开'。在中世纪拉丁语中演变为表示物理或抽象分离的含义，到17世纪英语中广泛用于现代意义，包括空间和情感距离。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "distant",
+      "distantly",
+      "distanceable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用双编码法：将'distance'与中文'距离'的视觉图像（如地图上的线条）关联，并通过个人经历回忆（如旅行中的距离感）增强记忆；对于初级学习者，重复使用间隔重复系统以巩固词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "space",
+        "similarity": "0.8",
+        "context": "在物理或空间语境中适用，如描述物体间的间隔"
+      },
+      {
+        "word": "remoteness",
+        "similarity": "0.7",
+        "context": "在情感或关系语境中适用，如表示疏远"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "proximity",
+        "context": "在空间语境中，表示接近而非分离"
+      },
+      {
+        "word": "closeness",
+        "context": "在情感语境中，表示亲近而非疏远"
+      }
+    ],
+    "hypernyms": [
+      "separation",
+      "extent"
+    ],
+    "hyponyms": [
+      "physical distance",
+      "emotional distance"
+    ],
+    "collocations": [
+      {
+        "pattern": "distance + preposition (e.g., from, to)",
+        "examples": [
+          "The distance from here to the city is 10 miles."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + distance (e.g., long, short)",
+        "examples": [
+          "A long distance relationship requires trust."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征个人空间和情感界限，常用于强调独立性，如美国文化中'personal distance'隐含隐私需求；在中文文化中，类似概念可能涉及'界限'，强调和谐。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式语境中的使用，如在文学中表示社会阶层距离",
+        "usage": "在英国英语中，常与历史语境结合，如维多利亚时代的社会距离"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用在日常和科技语境，如'long distance call'在通信中",
+        "usage": "在美国英语中，强调实际应用，如在线教育中的'distance learning'"
+      }
+    ],
+    "historicalContext": "与工业革命相关，19世纪的英国文学（如狄更斯作品）中常用于描述社会不平等；在中国文化中，类似概念见于古典文学，如《红楼梦》中的人际距离。",
+    "modernUsage": "在社交媒体时代，'social distance'用于疫情语境（如COVID-19），反映全球化和数字传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条从你站立的点延伸到远方地平线的直线，代表物理距离；添加情感元素，如一个渐行渐远的朋友影子。",
+      "keyElements": [
+        "直线",
+        "地平线",
+        "影子"
+      ],
+      "emotionalConnection": "联结个人旅行经历的孤独感或思念情绪，以强化词汇记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'distance' as 'dis' (分开) + 'stance' (站立)，就像两个人站得远远。",
+        "explanation": "通过词根联想，结合视觉化帮助初级学习者建立持久记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈdɪstəns/'听起来像'dis-tense'，想象拉紧的绳子拉远距离。",
+        "explanation": "利用声音与触觉联想，基于认知科学的多模态学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "far",
+      "away",
+      "gap"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "distances",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + distance + preposition",
+        "description": "主语 + 动词 + 距离 + 介词结构，常用于描述位置",
+        "examples": [
+          "The runner covered a great distance in the race."
+        ]
+      },
+      {
+        "pattern": "Adjective + distance",
+        "description": "形容词 + 距离结构，用于修饰距离的特性",
+        "examples": [
+          "It's a short distance to the store."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'distance' with 'distances' in singular contexts",
+        "correction": "Use 'distance' for singular",
+        "explanation": "中文学习者常受名词复数影响，错误添加's'；需注意语境"
+      },
+      {
+        "mistake": "Misusing as a verb without proper context",
+        "correction": "Ensure emotional or metaphorical use",
+        "explanation": "由于'distance'作为动词较少见，学习者可能混淆其名词和动词形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "daily life",
+      "psychology"
+    ],
+    "tags": [
+      "space",
+      "measurement",
+      "emotion"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

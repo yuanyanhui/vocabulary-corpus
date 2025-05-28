@@ -1,0 +1,263 @@
+{
+  "word": "transcribe",
+  "phonetics": {
+    "british": "/trænˈskraɪb/",
+    "american": "/trænˈskraɪb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To write down or make a written copy of spoken words, sounds, or other material.",
+      "chineseTranslation": "抄写；转录",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert speech or audio into written text, often using technology.",
+      "chineseTranslation": "转录语音",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In genetics or molecular biology, to create a complementary RNA copy of a sequence of DNA.",
+      "chineseTranslation": "转录（遗传学意义）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "transcribe a lecture",
+      "meaning": "抄写或转录讲座内容",
+      "example": "She had to transcribe a lecture for her assignment.",
+      "exampleTranslation": "她必须为作业转录一个讲座。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "transcribe from audio",
+      "meaning": "从音频源转录内容",
+      "example": "The journalist decided to transcribe from audio to ensure accuracy.",
+      "exampleTranslation": "记者决定从音频转录以确保准确性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "transcribe music",
+      "meaning": "转录音乐或乐谱",
+      "example": "Composers often transcribe music for different instruments.",
+      "exampleTranslation": "作曲家经常为不同乐器转录音乐。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The secretary was asked to transcribe the meeting minutes accurately.",
+      "translation": "秘书被要求准确转录会议记录。",
+      "source": "Business communication (e.g., corporate emails)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In historical research, scholars transcribe ancient manuscripts to preserve knowledge.",
+      "translation": "在历史研究中，学者们转录古代手稿以保存知识。",
+      "source": "Academic literature (e.g., from history books)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Using AI tools, it's now easier to transcribe interviews for journalism.",
+      "translation": "使用AI工具，现在更容易为新闻转录访谈。",
+      "source": "Modern media (e.g., online articles from The Guardian)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "transcribere",
+        "meaning": "to copy across",
+        "language": "Latin"
+      },
+      {
+        "root": "scribere",
+        "meaning": "to write",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'transcribere'，其中 'trans-' 表示 'across' 或 'beyond'，'scribere' 表示 'to write'。该词经由古法语 'transcrire' 传入英语，在16世纪开始用于书面复制的语境中，随着技术进步，扩展到音频和数字转录。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "transcription",
+      "scribe",
+      "describe"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法记忆词根 'trans-' 和 'scribe'；通过视觉联想，如想象从录音机到纸张的转移过程，以加强语义连接；针对初级学习者，建议从简单句子练习发音以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "copy",
+        "similarity": "0.8",
+        "context": "适用于一般复制语境，如文件或文本"
+      },
+      {
+        "word": "record",
+        "similarity": "0.7",
+        "context": "常用于音频或视频转录的语境"
+      },
+      {
+        "word": "write down",
+        "similarity": "0.9",
+        "context": "在非正式场合用于快速笔记"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "erase",
+        "context": "适用于删除或清除内容的语境"
+      },
+      {
+        "word": "ignore",
+        "context": "在选择性记录或不记录信息的语境中"
+      }
+    ],
+    "hypernyms": [
+      "write"
+    ],
+    "hyponyms": [
+      "audio transcription",
+      "genetic transcription"
+    ],
+    "collocations": [
+      {
+        "pattern": "transcribe [something] from [source]",
+        "examples": [
+          "transcribe notes from a video"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transcribe into [format]",
+        "examples": [
+          "transcribe speech into text"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征知识保存和学术诚信，尤其在历史文献和现代数字化时代体现；在跨文化语境中，强调口头传统向书面形式的转换，如在口述历史中。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如语音识别软件",
+        "usage": "在美国英语中，经常与AI和媒体相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向学术和历史语境",
+        "usage": "在英国英语中，常用于博物馆或档案转录"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的抄写传统相关联，如中世纪的抄写员；在现代，关联数字人文和AI发展。",
+    "modernUsage": "在社交媒体和在线平台上，常见于视频字幕和播客转录的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一位学者从老式录音机中听取声音，并将其手写到笔记本上。",
+      "keyElements": [
+        "录音机",
+        "笔记本",
+        "笔"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆课堂笔记的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Transcribe 像 'transfer scribe'，意思是转移写作者。",
+        "explanation": "通过词根联想 'trans-' (转移) 和 'scribe' (写作者)，帮助构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /trænˈskraɪb/ 听起来像 'train scribe'，想象一列火车载着写作者。",
+        "explanation": "利用声音相似性增强发音记忆，基于认知科学的多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "transfer",
+      "write",
+      "record",
+      "copy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "transcribed",
+      "pastParticiple": "transcribed",
+      "presentParticiple": "transcribing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + transcribe + object + from + source",
+        "description": "主语 + 转录 + 宾语 + 从 + 来源",
+        "examples": [
+          "She transcribes the speech from the recording."
+        ]
+      },
+      {
+        "pattern": "Transcribe + object + into + format",
+        "description": "转录 + 宾语 + 到 + 格式",
+        "examples": [
+          "Transcribe the audio into text."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'describe'",
+        "correction": "Use 'transcribe' for copying exact words",
+        "explanation": "Learners often mix up due to similar sounds; focus on precise meaning differences"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper verb conjugation, e.g., 'transcribed' for past",
+        "explanation": "Common for intermediate learners; practice with timeline exercises"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Approximately 500 occurrences per million words (based on COCA corpus)",
+    "domains": [
+      "education",
+      "science",
+      "media"
+    ],
+    "tags": [
+      "verb",
+      "writing",
+      "technology"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

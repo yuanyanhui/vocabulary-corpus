@@ -1,0 +1,245 @@
+{
+  "word": "classifier",
+  "phonetics": {
+    "british": "/ˈklæsɪfaɪə/",
+    "american": "/ˈklæsəˌfaɪər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, algorithm, or system that sorts or categorizes items based on specified criteria, commonly used in machine learning and data processing.",
+      "chineseTranslation": "分类器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linguistics, a word or morpheme that specifies the type of noun it accompanies, often used in classifier languages like Chinese (e.g., 'a piece of paper').",
+      "chineseTranslation": "量词或分类词",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "machine learning classifier",
+      "meaning": "机器学习中的分类器",
+      "example": "The machine learning classifier accurately predicted user behavior based on historical data.",
+      "exampleTranslation": "这个机器学习分类器基于历史数据准确预测了用户行为。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "image classifier",
+      "meaning": "图像分类器",
+      "example": "An image classifier can distinguish between cats and dogs in uploaded photos.",
+      "exampleTranslation": "图像分类器可以区分上传照片中的猫和狗。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In artificial intelligence, a classifier is essential for organizing large datasets.",
+      "translation": "在人工智能中，分类器对于组织大型数据集至关重要。",
+      "source": "Technical article from a computer science journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Linguists use classifiers to understand how languages like Chinese structure nouns.",
+      "translation": "语言学家使用分类词来理解像中文这样的语言如何构建名词。",
+      "source": "Academic linguistics text",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The new software includes a simple classifier for sorting emails into folders.",
+      "translation": "新软件包括一个简单的分类器，用于将电子邮件分类到文件夹中。",
+      "source": " Everyday technology blog",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "class",
+        "meaning": "A group or category",
+        "language": "Latin (from 'classis', meaning a division or fleet)"
+      },
+      {
+        "root": "ify",
+        "meaning": "To make or render",
+        "language": "French (from 'ifier', derived from Latin 'facere')"
+      },
+      {
+        "root": "er",
+        "meaning": "One who performs an action",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "The term evolved from Latin 'classis' through Old French 'classe' and Middle English 'class', combined with the suffix '-ify' from French to form 'classify' in the 18th century, and then '-er' was added to denote an agent or tool by the 19th century. This reflects the shift from general categorization in classical languages to specialized applications in modern technology.",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "classification",
+      "classify",
+      "categorizer"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (Moderate; the word involves common vowel shifts between British and American English, which may confuse intermediate learners with Chinese phonology backgrounds due to differences in syllable structure.)",
+    "spellingDifficulty": "4 (Moderate; straightforward spelling but potential confusion with similar words like 'class' or 'clarifier', based on morpheme recognition in language learning theory.)",
+    "meaningComplexity": "6 (Moderate to high; multiple meanings across domains require contextual understanding, aligning with cognitive load theory for second language acquisition.)",
+    "usageComplexity": "7 (High; depends on technical contexts, making it challenging for intermediate learners to apply without domain-specific knowledge, as per Vygotsky's zone of proximal development.)",
+    "learningTips": [
+      "将词汇与视觉图像结合，例如想象一个机器在分类物体；使用间隔重复法复习不同语境；通过联想母语量词（如中文的'个'）来桥接认知鸿沟。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "categorizer",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于数据处理和AI领域"
+      },
+      {
+        "word": "sorter",
+        "similarity": "0.6",
+        "context": "在一般分类任务中，但不如classifier精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "randomizer",
+        "context": "在需要无序或混淆元素的情境中，与系统性分类相对"
+      }
+    ],
+    "hypernyms": [
+      "algorithm",
+      "tool"
+    ],
+    "hyponyms": [
+      "decision tree classifier",
+      "neural network classifier"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + classifier (e.g., image + classifier)",
+        "examples": [
+          "machine learning classifier",
+          "text classifier"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Classifier + for + purpose",
+        "examples": [
+          "classifier for emails"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代科技文化中，classifier象征着数据驱动决策和AI的兴起，体现出后工业社会对分类和效率的强调；在中文文化中，与量词相关，隐含语义涉及语言的结构性差异。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech slang",
+        "usage": "在美国英语中，常见于AI和软件开发语境中，以非正式方式出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage",
+        "usage": "在英国英语中，可能强调其在学术和历史语言学中的应用"
+      }
+    ],
+    "historicalContext": "起源于19世纪的分类科学，与达尔文进化论和图书馆分类系统（如Dewey Decimal System）相关联，反映了西方理性主义传统；在当代，关联于数字时代的数据隐私和算法偏见讨论。",
+    "modernUsage": "在社交媒体和在线平台上，classifier用于内容 moderation 和推荐系统，体现了全球数字文化的包容性，但也引发了关于AI伦理的跨文化辩论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人手持分类篮，将苹果和香蕉分开。",
+      "keyElements": [
+        "机器人",
+        "分类篮",
+        "苹果和香蕉"
+      ],
+      "emotionalConnection": "联结到日常生活中的购物经历，例如在超市挑选水果时使用分类标签，触发熟悉感和实用性情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Class + ifier = Like a class teacher who classifies students.",
+        "explanation": "通过将classifier与'班级老师'联想，结合认知科学中的双编码理论，将视觉和语义记忆相结合以增强保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-L-A-S-S-I-F-Y-E-R: Classify Every Item For You Easily Repeatedly.",
+        "explanation": "使用首字母缩略法创建故事，基于Elaborative Rehearsal原则，帮助中级学习者构建叙事记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "classify",
+      "category",
+      "sorter"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "classifiers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + classifier",
+        "description": "作为名词出现在主语或宾语位置，常用于描述工具或过程。",
+        "examples": [
+          "The classifier works efficiently."
+        ]
+      },
+      {
+        "pattern": "Noun + classifier + for + object",
+        "description": "表示分类的目的或对象。",
+        "examples": [
+          "A classifier for images."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'classifier' in linguistics vs. tech",
+        "correction": "Use context to distinguish (e.g., 'linguistic classifier' vs. 'AI classifier')",
+        "explanation": "中文母语学习者可能混淆量词与技术术语，导致语境错误；建议通过语境练习避免。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "由于英语复数规则的系统性，与中文无复数形式不同，需要强化模式识别。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "technology",
+      "linguistics",
+      "data science"
+    ],
+    "tags": [
+      "AI",
+      "categorization",
+      "grammar"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

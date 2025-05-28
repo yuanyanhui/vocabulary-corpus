@@ -1,0 +1,250 @@
+{
+  "word": "uncommitted",
+  "phonetics": {
+    "british": "/ˌʌnkəˈmɪtɪd/",
+    "american": "/ˌʌnkəˈmɪtɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not pledged or bound to a particular course of action; not committed emotionally, politically, or in any other way.",
+      "chineseTranslation": "未承诺的；未定的；未投入的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing or data management, referring to resources or changes that have not yet been saved or finalized.",
+      "chineseTranslation": "未提交的；未保存的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "uncommitted resources",
+      "meaning": "尚未分配或使用的资源",
+      "example": "The company has uncommitted resources that can be allocated to new projects.",
+      "exampleTranslation": "公司有尚未分配的资源，可以用于新项目。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "uncommitted vote",
+      "meaning": "未表决或未承诺的选票",
+      "example": "In the election, many voters remained uncommitted until the last minute.",
+      "exampleTranslation": "在选举中，许多选民直到最后一刻才决定投票。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She remained uncommitted to the relationship, fearing it might not last.",
+      "translation": "她对这段关系保持未承诺的状态，担心它可能不会持久。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The uncommitted funds in the budget were used to cover unexpected expenses.",
+      "translation": "预算中未分配的资金被用来支付意外开支。",
+      "source": "Business reports (e.g., from financial corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, an uncommitted change can be lost if the system crashes.",
+      "translation": "在软件开发中，未提交的更改在系统崩溃时可能会丢失。",
+      "source": "Technical documentation (e.g., from tech corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not; opposite of",
+        "language": "Old English"
+      },
+      {
+        "root": "commit",
+        "meaning": "to entrust or pledge",
+        "language": "Latin (from committere)"
+      }
+    ],
+    "historicalDevelopment": "该词源自古英语的前缀 'un-'（表示否定），结合拉丁词根 'committere'（由 'com-' 意为 'together' 和 'mittere' 意为 'to send' 组成），最初用于表示委托或承诺。从中世纪英语开始演变为现代含义，强调未绑定或未决定的状态，尤其在17世纪的法律和政治语境中流行。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "commit",
+      "commitment",
+      "uncommittedly"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'un-' 前缀与其他否定词如 'unhappy' 关联，以强化记忆；通过重复暴露于真实语境中（如阅读新闻），提升语义理解；建议初级学习者使用视觉映射，将 'uncommitted' 与未锁定的门图像联系，以利用空间记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "undecided",
+        "similarity": "0.8",
+        "context": "在决策或情感语境中适用，例如犹豫不决的个人选择"
+      },
+      {
+        "word": "neutral",
+        "similarity": "0.7",
+        "context": "在中立立场或非偏向的社交互动中适用"
+      },
+      {
+        "word": "free",
+        "similarity": "0.6",
+        "context": "在资源或时间未分配的商业语境中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "committed",
+        "context": "在情感或职业承诺的语境中适用，例如已婚或已签约的状态"
+      },
+      {
+        "word": "dedicated",
+        "context": "在专注或忠诚的语境中适用，例如职业奉献"
+      }
+    ],
+    "hypernyms": [
+      "unbound",
+      "unpledged"
+    ],
+    "hyponyms": [
+      "undecided voter",
+      "unallocated funds"
+    ],
+    "collocations": [
+      {
+        "pattern": "uncommitted + noun (e.g., resources, vote)",
+        "examples": [
+          "uncommitted resources",
+          "uncommitted vote"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "remain uncommitted",
+        "examples": [
+          "She remained uncommitted."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常隐含个人自由和避免承诺的象征意义，尤其在现代社会中反映出对关系或政治立场的灵活性；在中文文化中，可能与 '自由主义' 或 '未绑定' 的概念相关联，强调个人选择的自主性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于政治语境，如未决定的选民",
+        "usage": "在美国选举中，'uncommitted' 常描述独立投票者，体现民主过程的多样性"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于非正式或情感语境",
+        "usage": "在英国，常见于个人关系描述，反映出文化对隐私和独立性的重视"
+      }
+    ],
+    "historicalContext": "与历史文化关联，如启蒙运动时期的个人主义思潮；在文学和社会背景中，19世纪的英国小说中常用于描述角色的犹豫不决。",
+    "modernUsage": "在现代社交媒体上，'uncommitted' 常用于讨论关系状态或商业决策，体现数字时代下的快速变化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个未锁定的箱子，里面是自由漂浮的物品，象征未承诺的状态。",
+      "keyElements": [
+        "未锁定的箱子",
+        "漂浮物品",
+        "自由符号"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己犹豫不决的时刻，以触发情绪记忆并强化词汇 retention"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'uncommitted' 联想为 'un-' (not) + 'committed' (locked in), 如未锁定的门。",
+        "explanation": "通过视觉联想加深记忆，利用认知科学中的双编码理论，将词汇与图像结合"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-C: Unlocked, Not Committed.",
+        "explanation": "使用缩略形式创建易记短语，帮助中级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "undecided",
+      "free",
+      "neutral"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more uncommitted",
+      "superlative": "most uncommitted"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + uncommitted",
+        "description": "形容词用于描述主语的状态",
+        "examples": [
+          "He is uncommitted to the plan."
+        ]
+      },
+      {
+        "pattern": "Uncommitted + noun phrase",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "The uncommitted resources were reallocated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'uncommented'",
+        "correction": "Use 'uncommitted' for non-pledged states",
+        "explanation": "学习者常混淆相似词汇；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrectly using as a verb",
+        "correction": "It is an adjective, not a verb",
+        "explanation": "由于词形类似 'commit'，中级学习者可能误用；强调词性识别"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "politics",
+      "business",
+      "personal relationships",
+      "technology"
+    ],
+    "tags": [
+      "adjective",
+      "negation",
+      "decision-making"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

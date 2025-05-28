@@ -1,0 +1,281 @@
+{
+  "word": "host",
+  "phonetics": {
+    "british": "/həʊst/",
+    "american": "/hoʊst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who receives or entertains guests, especially in their own home.",
+      "chineseTranslation": "主人；接待者",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A presenter of a television or radio program.",
+      "chineseTranslation": "主持人；司仪",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An animal or plant on or in which another organism lives, feeding on it.",
+      "chineseTranslation": "宿主；寄主",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A computer or program that provides services to other computers or programs on a network.",
+      "chineseTranslation": "主机；服务器",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To act as host at an event or for a broadcast.",
+      "chineseTranslation": "主持；主办",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "host a party",
+      "meaning": "主办或主持聚会",
+      "example": "She decided to host a party for her colleagues.",
+      "exampleTranslation": "她决定为她的同事们主办一个聚会。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "host family",
+      "meaning": "接待家庭（如交换生或游客的寄宿家庭）",
+      "example": "The exchange student lived with a host family in London.",
+      "exampleTranslation": "交换生在伦敦和一个接待家庭住在一起。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "web host",
+      "meaning": "网站主机或服务器",
+      "example": "Choose a reliable web host for your online business.",
+      "exampleTranslation": "为你的在线业务选择一个可靠的网站主机。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "As the host of the event, he welcomed all the guests warmly.",
+      "translation": "作为活动的东道主，他热情地欢迎所有客人。",
+      "source": "Modern conversation (e.g., from everyday social interactions)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The TV host interviewed the celebrity on live television.",
+      "translation": "电视主持人现场采访了这位名人。",
+      "source": "Media and entertainment (e.g., from news broadcasts, based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "This computer serves as the host for the entire network system.",
+      "translation": "这台计算机作为整个网络系统的主机。",
+      "source": "Technical writing (e.g., from IT manuals, based on BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The virus requires a host cell to replicate.",
+      "translation": "病毒需要宿主细胞来复制。",
+      "source": "Scientific literature (e.g., from biology texts, based on academic corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (from Latin)",
+    "rootWords": [
+      {
+        "root": "hospes",
+        "meaning": "guest, host, stranger",
+        "language": "Latin"
+      },
+      {
+        "root": "hoste",
+        "meaning": "host, army",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'hospes'，最初指代客人或主人，演变为中世纪法语 'hoste'，扩展到现代英语中表示接待者或主持人的含义；在技术语境中，20世纪发展为计算机术语。",
+    "firstKnownUse": "约公元1000年",
+    "relatedWords": [
+      "hospital",
+      "hospitality",
+      "hostile"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 基于简单辅音和元音组合，适合中级学习者)",
+    "spellingDifficulty": "4 (1-10, 拼写规则较直观，但需注意无声字母)",
+    "meaningComplexity": "6 (1-10, 多义词需区分语境，涉及认知负荷)",
+    "usageComplexity": "5 (1-10, 常见于多种语域，但需练习语境切换)",
+    "learningTips": [
+      "使用间隔重复法结合语境记忆；将词汇与个人经历关联，如回想一次聚会；根据认知科学，创建心智图以区分多义性"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "presenter",
+        "similarity": "0.8",
+        "context": "在媒体语境中，用于电视或广播主持"
+      },
+      {
+        "word": "entertainer",
+        "similarity": "0.7",
+        "context": "在社交或表演语境中，表示活动主持者"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "guest",
+        "context": "在社交语境中，表示被邀请者而非邀请者"
+      },
+      {
+        "word": "parasite",
+        "context": "在生物语境中，表示非宿主的关系"
+      }
+    ],
+    "hypernyms": [
+      "person",
+      "organism",
+      "device"
+    ],
+    "hyponyms": [
+      "emcee",
+      "server"
+    ],
+    "collocations": [
+      {
+        "pattern": "host + event/noun",
+        "examples": [
+          "host a conference",
+          "host a website"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be a host to",
+        "examples": [
+          "be a host to visitors"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征待客之道和社交礼仪，隐含着慷慨和责任感的含义；在中文文化中，类似概念可联想到'主人翁'或'东道主'，强调人际和谐。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重正式社交场合，如'host at a dinner party'",
+        "usage": "在英国英语中，常用于中上层社会礼仪"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于非正式和商业语境，如'host a podcast'",
+        "usage": "在美国英语中，强调娱乐性和包容性"
+      }
+    ],
+    "historicalContext": "源自中世纪欧洲的待客传统，与骑士文化和宗教习俗相关；在现代，关联到全球化时代的主持文化，如奥斯卡颁奖典礼。",
+    "modernUsage": "在社交媒体和在线平台上流行，如YouTube主持人，反映数字时代的人际互动趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个温暖的家庭聚会场景，主人（host）热情地招待客人。",
+      "keyElements": [
+        "聚会、微笑、食物"
+      ],
+      "emotionalConnection": "联结到个人经历，如回想一次家庭晚餐，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'host'联想为'hotel'的简化形式，代表接待场所。",
+        "explanation": "通过视觉联想加深记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/həʊst/'听起来像'hoist'（举起），想象举起欢迎的旗帜。",
+        "explanation": "利用声音相似性创建感官记忆，提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "hospitality",
+      "event",
+      "server"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hosts",
+      "pastTense": "hosted",
+      "pastParticiple": "hosted",
+      "presentParticiple": "hosting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "He hosts the show."
+        ]
+      },
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "名词短语作为主语，常用于描述角色",
+        "examples": [
+          "The host greeted the guests."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'host' with 'ghost'",
+        "correction": "Use 'host' for a person or device, not 'ghost' which means spirit.",
+        "explanation": "发音相似可能导致混淆；通过语境区分"
+      },
+      {
+        "mistake": "Incorrect verb form in past tense",
+        "correction": "Use 'hosted' instead of 'hostted'.",
+        "explanation": "英语动词规则变形；练习常规过去式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 2000 words in general corpora (e.g., COCA rank: 1500)",
+    "domains": [
+      "social",
+      "media",
+      "technology",
+      "biology"
+    ],
+    "tags": [
+      "social interaction",
+      "technology",
+      "entertainment"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "word": "asynchronous",
+  "phonetics": {
+    "british": "/eɪˈsɪŋkrənəs/",
+    "american": "/eɪˈsɪŋkrənəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not occurring at the same time; lacking synchronization.",
+      "chineseTranslation": "异步的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, referring to processes that do not happen simultaneously and may proceed independently.",
+      "chineseTranslation": "在计算机中，指不同时发生的进程",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "asynchronous communication",
+      "meaning": "不同时进行的通信方式",
+      "example": "Asynchronous communication allows team members to respond at their convenience.",
+      "exampleTranslation": "异步通信允许团队成员在方便时回复。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "asynchronous learning",
+      "meaning": "不需实时互动的学习模式",
+      "example": "Many online courses use asynchronous learning to accommodate different schedules.",
+      "exampleTranslation": "许多在线课程采用异步学习来适应不同的时间表。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In asynchronous programming, tasks can run in the background without blocking the main thread.",
+      "translation": "在异步编程中，任务可以在后台运行而不阻塞主线程。",
+      "source": "Technical documentation (e.g., from programming guides)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The asynchronous nature of email means you don't have to reply immediately.",
+      "translation": "电子邮件的异步特性意味着你不必立即回复。",
+      "source": "Daily communication (e.g., business emails)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Asynchronous events in history, like the Industrial Revolution, influenced global development at varying paces.",
+      "translation": "历史上异步事件，如工业革命，以不同的速度影响了全球发展。",
+      "source": "Academic texts (e.g., history books)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "a-",
+        "meaning": "不；没有",
+        "language": "Greek"
+      },
+      {
+        "root": "synchronous",
+        "meaning": "同时发生的；从 syn-（一起）和 chronos（时间）",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自希腊语，a- 表示否定，synchronous 来自 syn-（一起）和 chronos（时间）。在1740年左右首次用于英语中，指非同时性现象，尤其在科学和技术领域演变。19世纪后，随着通信和计算机技术的兴起，该词在现代语境中广泛用于描述独立进程。",
+    "firstKnownUse": "1740",
+    "relatedWords": [
+      "synchronous",
+      "asynchronism",
+      "asynchronicity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将词汇与具体技术场景关联；通过重复曝光（如在编程练习中重复使用）增强记忆痕迹；避免混淆同源词，如与'synchronous'对比以强化语义差异。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "non-synchronous",
+        "similarity": "0.8",
+        "context": "适用于技术语境中，指不需同时进行的进程"
+      },
+      {
+        "word": "independent",
+        "similarity": "0.6",
+        "context": "在一般语境中，指不依赖其他事件的发生"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "synchronous",
+        "context": "适用于需要同时发生的场景，如实时通信"
+      },
+      {
+        "word": "simultaneous",
+        "context": "在描述事件时，指同时进行的情况"
+      }
+    ],
+    "hypernyms": [
+      "non-concurrent"
+    ],
+    "hyponyms": [
+      "asynchronous transfer mode"
+    ],
+    "collocations": [
+      {
+        "pattern": "asynchronous + noun (e.g., communication, learning)",
+        "examples": [
+          "asynchronous communication",
+          "asynchronous processing"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + asynchronous (e.g., fully asynchronous)",
+        "examples": [
+          "fully asynchronous system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，该词象征效率和灵活性，尤其在科技驱动的社会中，代表了对时间管理的适应性隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业，如软件开发",
+        "usage": "在美国英语中，常见于商业和技术讨论，以强调独立性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在学术语境中更正式",
+        "usage": "在英国英语中，常与教育或历史语境结合"
+      }
+    ],
+    "historicalContext": "该词与工业革命和数字时代相关联，反映了人类社会从同步互动向异步协作的转变，如电报发明促进了异步通信。",
+    "modernUsage": "在社交媒体和在线平台中，该词描述远程工作趋势，如异步视频会议，体现了全球化背景下跨文化协作的普及。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时钟，其中指针不一起移动，代表不同步的事件。",
+      "keyElements": [
+        "时钟",
+        "独立指针",
+        "背景进程"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆远程工作的灵活性，以触发积极情绪和实际应用感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'asynchronous'联想为'async'像一个独自跳舞的人，不需跟上音乐节奏。",
+        "explanation": "通过视觉联想增强词汇 retention，利用认知科学中的双编码理论（dual coding）"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/eɪˈsɪŋkrənəs/'听起来像'ace in chronic mess'，表示在混乱中保持独立。",
+        "explanation": "声音联想帮助记忆，利用听觉和语义加工以改善回忆准确性"
+      }
+    ],
+    "wordAssociations": [
+      "async",
+      "delay",
+      "independent"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more asynchronous",
+      "superlative": "most asynchronous"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "用作形容词修饰名词，强调非同步特性",
+        "examples": [
+          "asynchronous operations"
+        ]
+      },
+      {
+        "pattern": "In + context + asynchronous",
+        "description": "在句子中描述特定语境下的使用",
+        "examples": [
+          "In computing, asynchronous methods are essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'synchronous'",
+        "correction": "Use 'asynchronous' for non-simultaneous events",
+        "explanation": "学习者常混淆二者语义；建议通过对比练习避免错误"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /æsɪŋˈkrɒnəs/",
+        "correction": "Pronounce as /eɪˈsɪŋkrənəs/",
+        "explanation": "发音错误可能源于母语影响；使用IPA练习可纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "time-related",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

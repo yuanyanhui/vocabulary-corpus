@@ -1,0 +1,263 @@
+{
+  "word": "tracing",
+  "phonetics": {
+    "british": "/ˈtreɪsɪŋ/",
+    "american": "/ˈtreɪsɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of finding or discovering the origin, path, or development of something, often used in contexts like investigation or genealogy.",
+      "chineseTranslation": "追踪或追溯的过程，例如在调查或家谱学中",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A copy of a drawing, map, or other design made by tracing over the original lines.",
+      "chineseTranslation": "通过描摹原图而制作的复制品",
+      "level": "basic",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "gerund (from verb 'trace')",
+      "definition": "The ongoing action of following or outlining something carefully, such as in digital graphics or forensic analysis.",
+      "chineseTranslation": "跟踪或描绘的持续动作，如在数字图形或法医分析中",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contact tracing",
+      "meaning": "接触者追踪，通常用于公共卫生中跟踪感染者",
+      "example": "Public health officials implemented contact tracing to control the spread of the virus.",
+      "exampleTranslation": "公共卫生官员实施接触者追踪以控制病毒传播。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ray tracing",
+      "meaning": "光线追踪技术，用于计算机图形渲染",
+      "example": "Modern video games use ray tracing for more realistic lighting effects.",
+      "exampleTranslation": "现代视频游戏使用光线追踪技术来实现更真实的照明效果。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "IP address tracing",
+      "meaning": "IP地址追踪，用于识别在线用户的来源",
+      "example": "Law enforcement uses IP address tracing to investigate cybercrimes.",
+      "exampleTranslation": "执法部门使用IP地址追踪来调查网络犯罪。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The detective's tracing of the suspect's movements led to a breakthrough in the case.",
+      "translation": "侦探对嫌疑人行动的追踪导致了案件的突破。",
+      "source": "Crime fiction literature, e.g., from Agatha Christie's works",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In art class, students practiced tracing famous paintings to improve their drawing skills.",
+      "translation": "在艺术课上，学生们练习描摹著名画作以提高绘图技能。",
+      "source": "Educational contexts, e.g., from COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Advanced software now allows for precise tracing of genetic lineages in ancestry research.",
+      "translation": "先进的软件现在允许精确追踪遗传谱系进行祖先研究。",
+      "source": "Scientific articles, e.g., from academic databases like PubMed",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "tracier",
+        "meaning": "to draw or pull",
+        "language": "Old French"
+      },
+      {
+        "root": "tractus",
+        "meaning": "drawn or pulled",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word 'tracing' derives from Middle English 'tracen', evolving from Old French 'tracier', which itself stems from Vulgar Latin *tractiare and Latin 'trahere' (meaning 'to draw'). Over time, it developed from a literal sense of drawing lines to metaphorical uses in investigation and technology, reflecting shifts in societal needs from medieval art to modern digital forensics.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "trace",
+      "track",
+      "trail",
+      "trajectory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word follows common English phonetic patterns with no complex clusters)",
+    "spellingDifficulty": "3 (out of 10, straightforward spelling with regular vowel-consonant patterns, based on language learning theory from Krashen's input hypothesis)",
+    "meaningComplexity": "6 (out of 10, multiple contextual meanings require inference, drawing from cognitive linguistics models)",
+    "usageComplexity": "5 (out of 10, varies by field but generally contextual; informed by second language acquisition theories)",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习不同语境下的词汇；将' tracing' 与个人经历关联，如追踪家庭历史，以增强记忆编码；结合视觉辅助工具如思维导图来构建语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tracking",
+        "similarity": "0.8",
+        "context": "在技术或调查语境中，例如监控系统"
+      },
+      {
+        "word": "following",
+        "similarity": "0.7",
+        "context": "在非正式的日常追踪活动中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignoring",
+        "context": "当不进行追踪时，例如在隐私保护语境中"
+      },
+      {
+        "word": "losing",
+        "context": "追踪失败的场景，如在导航中"
+      }
+    ],
+    "hypernyms": [
+      "investigation",
+      "replication"
+    ],
+    "hyponyms": [
+      "genealogical tracing",
+      "forensic tracing"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + tracing (e.g., contact tracing)",
+        "examples": [
+          "effective tracing methods",
+          "digital tracing tools"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + tracing (e.g., perform tracing)",
+        "examples": [
+          "conduct tracing operations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'tracing' 象征着发现与连接，常用于侦探小说和家族历史中，体现出对根源和身份的追求；在东方文化如中国，可能与家谱文化相呼应，但强调集体记忆。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More emphasis on technological applications, like in cybersecurity.",
+        "usage": "在美国英语中，常用于现代科技语境，例如COVID-19接触者追踪"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, with historical ties to exploration and art.",
+        "usage": "在英国英语中，可能出现在历史研究或艺术教育中"
+      }
+    ],
+    "historicalContext": "该词与文艺复兴时期的艺术描摹技术相关联，并延伸到19世纪的侦探文学，如柯南·道尔的作品；在20世纪，与科学和技术革命相结合，成为数字时代的关键概念。",
+    "modernUsage": "在社交媒体和在线平台上，'tracing' 常用于隐私讨论和AI应用，反映出全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探手持放大镜沿着足迹追踪线索的场景，将' tracing' 视为一条发光的路径。",
+      "keyElements": [
+        "侦探",
+        "足迹",
+        "放大镜"
+      ],
+      "emotionalConnection": "联结到个人探索未知的兴奋感，如寻找家族根源，以触发长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'tracing' as 'trace + ing' like drawing a line that follows something.",
+        "explanation": "通过视觉联想将词汇与动作结合，利用认知科学中的双编码理论（视觉和语义）增强记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈtreɪsɪŋ/ 听起来像 'train seeing', 想象火车在轨道上追踪路径。",
+        "explanation": "声音联想帮助建立听觉-视觉连接，基于Paivio的双编码模型"
+      }
+    ],
+    "wordAssociations": [
+      "track",
+      "trace",
+      "follow",
+      "path"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tracings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + tracing",
+        "description": "作为名词使用在句子主语或宾语位置",
+        "examples": [
+          "Tracing requires patience and precision."
+        ]
+      },
+      {
+        "pattern": "Gerund phrase",
+        "description": "用作动名词短语",
+        "examples": [
+          "He enjoys tracing his family history."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'tracking' in meaning",
+        "correction": "Use 'tracing' for detailed following or copying, while 'tracking' is for monitoring.",
+        "explanation": "源自语义细微差异，学习者需注意语境以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural (tracings)",
+        "explanation": "英语名词规则简单，但初级学习者常遗漏尾缀"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (based on 2023 data)",
+    "domains": [
+      "technology",
+      "law enforcement",
+      "art",
+      "science"
+    ],
+    "tags": [
+      "investigation",
+      "replication",
+      "digital",
+      "historical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

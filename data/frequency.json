@@ -1,0 +1,254 @@
+{
+  "word": "frequency",
+  "phonetics": {
+    "british": "/ˈfriːkwənsi/",
+    "american": "/ˈfriːkwənsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The rate at which something occurs over a particular period of time or the number of occurrences in a given sample.",
+      "chineseTranslation": "频率",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The proportion of the occurrences of a particular event or item in a sample to the total number of events or items.",
+      "chineseTranslation": "出现频率",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics, the number of waves or vibrations per unit of time, usually measured in hertz.",
+      "chineseTranslation": "物理学中的频率",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "high frequency",
+      "meaning": "高频率",
+      "example": "This radio station operates on a high frequency band.",
+      "exampleTranslation": "这个广播电台在高频率波段运作。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "frequency band",
+      "meaning": "频率带",
+      "example": "The frequency band for Wi-Fi signals is carefully regulated.",
+      "exampleTranslation": "Wi-Fi 信号的频率带受到严格监管。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "word frequency",
+      "meaning": "单词频率",
+      "example": "In corpus linguistics, word frequency helps analyze language patterns.",
+      "exampleTranslation": "在语料库语言学中，单词频率有助于分析语言模式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The frequency of earthquakes in this region has increased over the past decade.",
+      "translation": "这个地区的地震频率在过去十年中有所增加。",
+      "source": "Scientific reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In music, frequency determines the pitch of a note.",
+      "translation": "在音乐中，频率决定了音符的音高。",
+      "source": "Educational materials",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Market researchers analyze customer purchase frequency to predict trends.",
+      "translation": "市场研究员分析客户购买频率以预测趋势。",
+      "source": "Business news",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "frequent-",
+        "meaning": "频繁的或密集的",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'frequentia'，最初意为'拥挤'或'集合'，在中世纪英语中演变为表示'经常发生'或'重复率'，到现代英语中扩展到科学和技术语境，如物理学中的波频率。",
+    "firstKnownUse": "16th 世纪",
+    "relatedWords": [
+      "frequent",
+      "infrequency",
+      "frequency analysis"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将频率与日常生活事件（如心跳频率）关联，以增强长期记忆；建议通过重复暴露于真实语境中来降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rate",
+        "similarity": "0.8",
+        "context": "在统计或科学语境中，用于描述事件发生的速度"
+      },
+      {
+        "word": "incidence",
+        "similarity": "0.7",
+        "context": "在流行病学中，表示事件或现象的发生率"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "infrequency",
+        "context": "当描述事件很少发生时，例如在稀有事件分析中"
+      },
+      {
+        "word": "rarity",
+        "context": "在文化或自然语境中，表示不常见的事物"
+      }
+    ],
+    "hypernyms": [
+      "rate",
+      "occurrence"
+    ],
+    "hyponyms": [
+      "vibration frequency",
+      "sampling frequency"
+    ],
+    "collocations": [
+      {
+        "pattern": "frequency of + noun",
+        "examples": [
+          "frequency of visits",
+          "frequency of errors"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "high/low frequency",
+        "examples": [
+          "high frequency trading"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征着数据驱动决策，例如在音乐和通信中代表创新和效率，但在某些文化中可能隐含对自然节奏的反思，如中国传统中对'频率'的类比于中医脉搏。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在科技语境中更常用，如频率分析在AI中",
+        "usage": "在美国英语中，常与商业和技术结合，如'frequency in marketing'"
+      },
+      {
+        "region": "英国",
+        "variation": "更注重学术语境，如物理学中的频率",
+        "usage": "在英国英语中，可能在正式报告中更精确使用"
+      }
+    ],
+    "historicalContext": "与工业革命相关的科学发展有关，如19世纪的电磁波理论；在文学中，如狄更斯的作品中隐喻社会事件的频率。",
+    "modernUsage": "在社交媒体和数字时代下，频率常用于讨论内容发布或病毒传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时钟在滴答作响，每个滴答代表一个事件的频率。",
+      "keyElements": [
+        "时钟",
+        "滴答声",
+        "重复模式"
+      ],
+      "emotionalConnection": "联结到个人经验，如每天的心跳频率，以触发熟悉感和情感共鸣"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Frequency 像 'free queen see'，想象一个自由的女王在重复出现。",
+        "explanation": "通过声音联想帮助记忆发音和含义"
+      },
+      {
+        "type": "缩略",
+        "content": "FREQ = Frequently Repeated Event Quickly",
+        "explanation": "使用首字母缩写强化词汇与概念的连接"
+      }
+    ],
+    "wordAssociations": [
+      "rate",
+      "cycle",
+      "vibration"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "frequencies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + frequency + of + noun",
+        "description": "主语 + 动词 + 频率 + of + 名词 结构，常用于描述统计",
+        "examples": [
+          "The frequency of storms has risen."
+        ]
+      },
+      {
+        "pattern": "Adjective + frequency",
+        "description": "形容词 + 频率 结构，用于修饰",
+        "examples": [
+          "High frequency sounds can be harmful."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing frequency with frequency as in physics only",
+        "correction": "Use in broader contexts like statistics",
+        "explanation": "学习者常将该词局限于科学领域，需扩展到日常使用"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural",
+        "explanation": "作为可数名词，需注意复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "科学术语",
+      "统计",
+      "语言学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

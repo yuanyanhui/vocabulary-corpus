@@ -1,0 +1,242 @@
+{
+  "word": "pseudograph",
+  "phonetics": {
+    "british": "/ˈsjuːdəɡrɑːf/",
+    "american": "/ˈsuːdəɡræf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graph in mathematics that permits multiple edges between the same pair of vertices and loops at vertices.",
+      "chineseTranslation": "在数学中，允许同一对顶点之间有多重边以及顶点上的环的图",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A falsely written or forged document, though less common in modern usage.",
+      "chineseTranslation": "伪造的文件或书写物",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "simple pseudograph",
+      "meaning": "简单的伪图",
+      "example": "In graph theory, a simple pseudograph is one without loops.",
+      "exampleTranslation": "在图论中，一个简单的伪图是没有环的。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "multigraph vs. pseudograph",
+      "meaning": "多重图与伪图的比较",
+      "example": "A pseudograph can include loops, unlike a standard multigraph.",
+      "exampleTranslation": "伪图可以包括环，这不同于标准多重图。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mathematician illustrated a pseudograph to demonstrate multiple connections between nodes.",
+      "translation": "数学家通过伪图来演示节点之间的多重连接。",
+      "source": "Academic text, e.g., from a graph theory textbook",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In some historical contexts, a pseudograph was used to refer to a forged manuscript.",
+      "translation": "在某些历史语境中，伪图用于指代伪造的手稿。",
+      "source": "Literary or historical analysis",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers in computer science often work with pseudographs to model complex networks.",
+      "translation": "计算机科学的研究者经常使用伪图来建模复杂的网络。",
+      "source": "Scientific journal, e.g., from IEEE publications",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "pseudes",
+        "meaning": "false or lying",
+        "language": "Greek"
+      },
+      {
+        "root": "graph",
+        "meaning": "to write or draw",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 'pseudes'（假的）和 'graphē'（书写），最初用于描述伪造的书写或图形。在19世纪数学发展中，该词演变为图论术语，指代允许多重边和环的图形结构，反映了从一般伪造概念向特定技术术语的演变。",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "pseudonym",
+      "autograph",
+      "graph"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，利用分块学习法将 'pseudograph' 与基本图论概念关联，例如通过视觉化工具如思维导图记忆其结构；建议初级学习者从简单图形联想开始，避免认知 overload，并通过重复性练习强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multigraph",
+        "similarity": "0.7",
+        "context": "在技术语境中，适用于描述类似图结构，但 pseudograph 更强调环的存在"
+      },
+      {
+        "word": "forgery",
+        "similarity": "0.4",
+        "context": "在非技术语境中，强调伪造的含义"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "authentic graph",
+        "context": "在历史或艺术语境中，表示真实图形的对立"
+      },
+      {
+        "word": "simple graph",
+        "context": "在数学语境中，指无多重边或环的图形"
+      }
+    ],
+    "hypernyms": [
+      "graph"
+    ],
+    "hyponyms": [
+      "looped pseudograph"
+    ],
+    "collocations": [
+      {
+        "pattern": "pseudograph with loops",
+        "examples": [
+          "A pseudograph with loops can represent self-referential systems."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "analyze a pseudograph",
+        "examples": [
+          "Scientists analyze a pseudograph to understand network redundancies."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方学术文化中象征技术精确性和数学抽象，常用于教育和科研中体现理性思维；在非西方文化中，可能缺乏直接对应，强调跨文化理解以避免误解为一般伪造。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical education",
+        "usage": "在美国英语中，常在计算机科学课程中出现，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage",
+        "usage": "在英国英语中，更倾向于学术出版物，保持传统数学语境"
+      }
+    ],
+    "historicalContext": "与19世纪欧洲数学革命相关，如图论的兴起，体现了工业时代对复杂系统的建模；在文学中，可能与伪造文件主题关联，如狄更斯作品中的伪证。",
+    "modernUsage": "在现代社交媒体和在线教育中，常见于技术论坛或 MOOCs，趋势显示其在数据科学领域的传播增加。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个带有假边和环的迷宫图，代表虚假连接的网络。",
+      "keyElements": [
+        "迷宫",
+        "假边",
+        "环结构"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年拼图游戏中的错误连接，触发好奇心以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pseudo (假的) + Graph (图) = 假图",
+        "explanation": "通过视觉联想将 'pseudo' 与面具或假面联系，构建一个假的图形场景，帮助记忆核心含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像 'suit a graph'，想象一套衣服覆盖在图上，表示伪装。",
+        "explanation": "利用声音相似性创建图像，帮助认知加工和长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "fake",
+      "network",
+      "loop",
+      "drawing"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pseudographs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "作为主语的典型结构，常用于描述性句子",
+        "examples": [
+          "The pseudograph shows multiple edges."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于短语中表示关系",
+        "examples": [
+          "Analysis of the pseudograph revealed errors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'pseudonym'",
+        "correction": "Use 'pseudograph' only for graphs or forged writings",
+        "explanation": "二者虽有共同词根，但语义不同；学习者需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural",
+        "explanation": "作为可数名词，需正确添加复数形式以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "Science",
+      "Mathematics",
+      "Technology"
+    ],
+    "tags": [
+      "Technical term",
+      "Graph theory",
+      "Forgery"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

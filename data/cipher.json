@@ -1,0 +1,279 @@
+{
+  "word": "cipher",
+  "phonetics": {
+    "british": "/ˈsaɪfə/",
+    "american": "/ˈsaɪfər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A secret or disguised way of writing; a code used to keep information hidden.",
+      "chineseTranslation": "密码",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The symbol 0; a representation of nothing or zero in mathematics.",
+      "chineseTranslation": "零",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To encode a message using a cipher; to convert into secret writing.",
+      "chineseTranslation": "用密码编码",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An unimportant or insignificant person.",
+      "chineseTranslation": "无足轻重的人",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cipher text",
+      "meaning": "加密文本",
+      "example": "The cipher text was decrypted to reveal the original message.",
+      "exampleTranslation": "加密文本被解密以显示原始消息。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "decipher a cipher",
+      "meaning": "破译密码",
+      "example": "Cryptographers worked tirelessly to decipher the ancient cipher.",
+      "exampleTranslation": "密码学家不懈地努力破译古代密码。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "simple cipher",
+      "meaning": "简单密码",
+      "example": "A simple cipher was used for basic encryption in early computing.",
+      "exampleTranslation": "早期计算中使用简单密码进行基本加密。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The detective struggled to break the cipher in the encrypted letter.",
+      "translation": "侦探努力破解加密信中的密码。",
+      "source": "Mystery novel",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, cipher is often synonymous with zero in certain contexts.",
+      "translation": "在数学中，cipher 在某些语境中与零同义。",
+      "source": "Educational textbook",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "During the war, agents used a complex cipher to communicate sensitive information.",
+      "translation": "在战争期间，特工使用复杂密码来传达敏感信息。",
+      "source": "Historical documentary",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He was just a cipher in the organization, with no real influence.",
+      "translation": "他只是组织中的一个无足轻重的人，没有真正的影响力。",
+      "source": "Modern literature",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Arabic",
+    "rootWords": [
+      {
+        "root": "ṣifr",
+        "meaning": "zero or empty",
+        "language": "Arabic"
+      }
+    ],
+    "historicalDevelopment": "从阿拉伯语 'ṣifr' 意思是 '零'，经由古法语 'cifrei' 演变为中世纪英语 'cifer'，逐渐扩展到表示秘密书写系统；14 世纪开始在英语中用于密码学语境。",
+    "firstKnownUse": "13th century",
+    "relatedWords": [
+      "decipher",
+      "encipher",
+      "cypher"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学原理，通过分层记忆法先学习基本含义（如数学零），然后扩展到高级语境（如密码学）；结合视觉图像，如将 'cipher' 联想成一个锁定的箱子，以加强语义关联和长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "code",
+        "similarity": "0.8",
+        "context": "在加密或通信语境中"
+      },
+      {
+        "word": "zero",
+        "similarity": "0.9",
+        "context": "在数学或数量语境中"
+      },
+      {
+        "word": "encipher",
+        "similarity": "0.7",
+        "context": "在技术编码语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "plaintext",
+        "context": "在加密语境中，指未加密的原始文本"
+      },
+      {
+        "word": "decipher",
+        "context": "在密码学语境中，指解码过程"
+      }
+    ],
+    "hypernyms": [
+      "symbol",
+      "code system"
+    ],
+    "hyponyms": [
+      "substitution cipher",
+      "transposition cipher",
+      "Vigenère cipher"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + cipher",
+        "examples": [
+          "decode a cipher",
+          "create a cipher"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + cipher",
+        "examples": [
+          "complex cipher",
+          "simple cipher"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，cipher 象征 secrecy 和智慧，常与间谍小说、历史密码学（如恩尼格玛机）相关，隐含对知识保护的重视；在跨文化语境中，中国文化可能更倾向于等同于 '密码'，与孙子兵法的战略隐喻相呼应。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术或军事语境，常拼作 'cipher'",
+        "usage": "在数字安全和计算机科学中广泛使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "有时拼作 'cypher'，在历史和文学中更常见",
+        "usage": "在莎士比亚时代作品中出现，强调文化遗产"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的加密技术相关，如达·芬奇的手稿；在中国文化中，类似概念见于古代兵书，如《孙子兵法》的隐秘策略。",
+    "modernUsage": "在社交媒体和数字时代，cipher 常用于网络安全讨论中，如加密货币和在线隐私保护的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古老的宝箱，上面有旋转的密码盘，代表秘密和零的象征。",
+      "keyElements": [
+        "锁",
+        "数字盘",
+        "隐藏宝藏"
+      ],
+      "emotionalConnection": "联结到个人经验，如解锁手机密码时的成就感，以触发积极情绪和记忆巩固。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cipher 听起来像 'safer'，所以想象用密码使信息更安全。",
+        "explanation": "通过声音联觉和视觉联想，增强词汇在认知网络中的位置。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-I-P-H-E-R: Code Is Protected, Hidden, Encrypted, Really.",
+        "explanation": "使用首字母缩略法结合故事构建，提高记忆保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "secret",
+      "zero",
+      "lock"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ciphers",
+      "pastTense": "ciphered",
+      "pastParticiple": "ciphered",
+      "presentParticiple": "ciphering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object",
+        "description": "用作动词时，常出现在主语-动词-宾语结构中",
+        "examples": [
+          "They cipher the message carefully."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "用作名词时，可作为主语或宾语",
+        "examples": [
+          "The cipher was unbreakable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'cipher' with 'cypher' in informal contexts",
+        "correction": "Use 'cipher' in standard English; 'cypher' may be a variant in British English or slang.",
+        "explanation": "学习者常混淆拼写变体，需注意语域差异。"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Distinguish between mathematical and cryptographic uses.",
+        "explanation": "由于多义性，初级学习者可能错误应用语境。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (rank approximately 4500 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Mathematics",
+      "Literature",
+      "Security"
+    ],
+    "tags": [
+      "Cryptography",
+      "Encryption",
+      "Numbers",
+      "Symbols"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "word": "inverse",
+  "phonetics": {
+    "british": "/ɪnˈvɜːs/",
+    "american": "/ɪnˈvɝs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Opposite or contrary in position, direction, order, or effect.",
+      "chineseTranslation": "相反的；反向的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thing that is the opposite or reverse of something else.",
+      "chineseTranslation": "反面；逆",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inverse proportion",
+      "meaning": "反比例",
+      "example": "In inverse proportion, as one quantity increases, the other decreases.",
+      "exampleTranslation": "在反比例中，随着一个量增加，另一个量减少。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "inverse function",
+      "meaning": "反函数",
+      "example": "The inverse function reverses the effect of the original function.",
+      "exampleTranslation": "反函数逆转原函数的效果。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The inverse of addition is subtraction.",
+      "translation": "加法的反面是减法。",
+      "source": "Educational text",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "There is an inverse relationship between supply and demand in economics.",
+      "translation": "在经济学中，供需之间存在反向关系。",
+      "source": "Business news",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In photography, the inverse square law applies to light intensity.",
+      "translation": "在摄影中，反平方定律适用于光强度。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "in, on, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "vertere",
+        "meaning": "to turn",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'inversus'，意为 'turned upside down'，通过古法语演变为英语，逐渐扩展到表示相反或反转的概念，在17世纪开始广泛用于数学和科学语境。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "invert",
+      "version",
+      "reverse"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用视觉联想，如想象物体翻转来记忆 'inverse' 的含义；结合认知科学，关联个人经验，例如日常生活中的反转事件，以增强记忆保留；通过重复练习数学情境应用，提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "reverse",
+        "similarity": "0.9",
+        "context": "在描述方向或顺序时，例如数学公式中"
+      },
+      {
+        "word": "opposite",
+        "similarity": "0.8",
+        "context": "在一般概念比较时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "direct",
+        "context": "在数学或逻辑上下文中，表示直接而非反转"
+      },
+      {
+        "word": "straight",
+        "context": "在物理或路径描述中"
+      }
+    ],
+    "hypernyms": [
+      "opposite"
+    ],
+    "hyponyms": [
+      "reciprocal"
+    ],
+    "collocations": [
+      {
+        "pattern": "inverse of",
+        "examples": [
+          "the inverse of the matrix"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "inverse relationship",
+        "examples": [
+          "an inverse relationship between variables"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词主要用于科学和数学领域，象征逻辑反转或平衡，无强烈的隐喻意义，但在哲学中可能隐含对对立概念的探讨。",
+    "regionalVariations": [
+      {
+        "region": "美国英语",
+        "variation": "发音差异，例如元音更卷舌",
+        "usage": "含义一致，主要在技术语境中使用"
+      },
+      {
+        "region": "英国英语",
+        "variation": "发音更接近标准英式",
+        "usage": "在学术写作中较为正式"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关的科学发展有关，例如牛顿物理学中反向力的概念；在文学中，偶尔用于象征社会反转，如狄更斯的作品。",
+    "modernUsage": "在现代社交媒体和科技语境下，常用于讨论反转现象，如病毒传播的逆转趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个物体被翻转，例如一个杯子从正立变为倒置的状态。",
+      "keyElements": [
+        "翻转",
+        "相反",
+        "物体"
+      ],
+      "emotionalConnection": "联结到个人经历中的反转时刻，如从失败到成功的转变，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Inverse 听起来像 'in verse'，想象诗歌的行倒置。",
+        "explanation": "通过声音联想帮助记忆其反转含义，基于认知科学中的声音-含义关联原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-V-E-R-S-E：I for 'inverted', N for 'not same'。",
+        "explanation": "使用首字母缩写创建视觉记忆路径，提高认知保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "opposite",
+      "reverse",
+      "flip"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more inverse",
+      "superlative": "most inverse"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + is + inverse + of + object",
+        "description": "用于描述反面关系",
+        "examples": [
+          "Water is the inverse of fire in some myths."
+        ]
+      },
+      {
+        "pattern": "Inverse + noun phrase",
+        "description": "修饰名词，表示相反属性",
+        "examples": [
+          "An inverse effect on the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'in verse'",
+        "correction": "Inverse means opposite",
+        "explanation": "它们发音相似，但 'inverse' 指概念反转，而 'in verse' 指诗歌形式。"
+      },
+      {
+        "mistake": "Incorrectly using as verb",
+        "correction": "Use as adjective or noun",
+        "explanation": "'Inverse' 不是动词形式，应避免误用为 'to inverse'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "General"
+    ],
+    "tags": [
+      "mathematics",
+      "opposite",
+      "reverse"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA"
+    ]
+  }
+}

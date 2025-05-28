@@ -1,0 +1,234 @@
+{
+  "word": "sine",
+  "phonetics": {
+    "british": "/saɪn/",
+    "american": "/saɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, the trigonometric function that is equal to the ratio of the length of the side opposite an angle to the length of the hypotenuse in a right-angled triangle.",
+      "chineseTranslation": "正弦",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A function in trigonometry that can be extended to represent periodic phenomena, such as waves or oscillations.",
+      "chineseTranslation": "正弦函数",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sine wave",
+      "meaning": "正弦波",
+      "example": "The sound wave produced by the tuning fork is a perfect sine wave.",
+      "exampleTranslation": "音叉产生的声波是一个完美的正弦波。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sine function",
+      "meaning": "正弦函数",
+      "example": "The sine function is used to model the height of tides over time.",
+      "exampleTranslation": "正弦函数被用来模拟潮汐高度的变化。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In trigonometry, the sine of an angle is calculated as opposite over hypotenuse.",
+      "translation": "在三角学中，正弦角的值是相对边除以斜边。",
+      "source": "Educational textbook (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers often use sine waves to analyze electrical signals in circuits.",
+      "translation": "工程师经常使用正弦波来分析电路中的电信号。",
+      "source": "Technical article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The mathematician explained that the sine value for π/2 radians is 1.",
+      "translation": "数学家解释说，π/2 弧度的正弦值是 1。",
+      "source": "Academic lecture (e.g., from MIT OpenCourseWare)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "sinus",
+        "meaning": "bosom or fold",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Latin 'sinus', meaning a bay or fold, which was used in early translations of Arabic trigonometric texts where 'jiba' (meaning chord) was mistranslated. Over time, it evolved in Medieval Latin to specifically denote the trigonometric function in European mathematics during the Renaissance.",
+    "firstKnownUse": "Around the 16th century",
+    "relatedWords": [
+      "cosine",
+      "tangent",
+      "arcsine"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过视觉化三角形图形来记忆正弦的定义；结合认知科学，利用重复间隔学习法复习三角函数；将正弦与日常生活中的波浪现象关联，以增强记忆的持久性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sin",
+        "similarity": "0.9",
+        "context": "主要在数学语境中使用，与正弦函数高度相关"
+      },
+      {
+        "word": "sine function",
+        "similarity": "0.8",
+        "context": "在工程和物理学中作为正弦函数的同义表达"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cosine",
+        "context": "在三角函数中，正弦的对立面，常用于表示相邻边的比率"
+      }
+    ],
+    "hypernyms": [
+      "trigonometric function"
+    ],
+    "hyponyms": [
+      "unit sine",
+      "sine integral"
+    ],
+    "collocations": [
+      {
+        "pattern": "sine of [angle]",
+        "examples": [
+          "sine of 30 degrees"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "sine wave in [context]",
+        "examples": [
+          "sine wave in electronics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为数学概念，正弦在科学和技术领域象征精确性和周期性，在西方文化中与启蒙运动和理性主义相关，但在东方文化如中国，可能与古代天文学（如周公测量日影）有隐含关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和计算机科学语境",
+        "usage": "在美国教育体系中，正弦经常在高中数学课程中教授"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术语境中可能更强调其历史起源",
+        "usage": "英国的数学教育中，常与拉丁语根源结合讨论"
+      }
+    ],
+    "historicalContext": "正弦起源于古巴比伦和印度数学，并在阿拉伯世界发展，后经欧洲传播，与文艺复兴时期的科学革命相关。",
+    "modernUsage": "在现代社交媒体和在线教育中，正弦常用于科普视频或App，如YouTube教程，反映全球数字化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个直角三角形，其中正弦代表从角度到对边和斜边的比率。",
+      "keyElements": [
+        "三角形",
+        "角度",
+        "波浪曲线"
+      ],
+      "emotionalConnection": "联结到观看海浪的个人经历，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sine as 'sin' in a triangle – think of it as the 'sinful' opposite side sneaking up the hypotenuse.",
+        "explanation": "通过幽默联想将抽象概念转化为生动故事，提升记忆效果。"
+      },
+      {
+        "type": "缩略",
+        "content": "SOH-CAH-TOA (Sine = Opposite/Hypotenuse)",
+        "explanation": "使用首字母缩略词帮助快速回忆三角函数定义。"
+      }
+    ],
+    "wordAssociations": [
+      "wave",
+      "cycle",
+      "angle",
+      "trigonometry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The sine of [noun]",
+        "description": "用作名词短语，表示计算正弦值",
+        "examples": [
+          "The sine of 90 degrees is 1."
+        ]
+      },
+      {
+        "pattern": "[Verb] the sine function",
+        "description": "作为函数在句子中充当主语或宾语",
+        "examples": [
+          "We plot the sine function on the graph."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing sine with cosine",
+        "correction": "Remember sine is opposite over hypotenuse",
+        "explanation": "错误源于相似三角函数；通过视觉辅助工具区分"
+      },
+      {
+        "mistake": "Mispronouncing as 'sign'",
+        "correction": "Pronounce as /saɪn/",
+        "explanation": "拼写与单词 'sign' 相似；练习音标以避免混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10% in COCA for technical domains)",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering"
+    ],
+    "tags": [
+      "trigonometry",
+      "mathematics",
+      "functions"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

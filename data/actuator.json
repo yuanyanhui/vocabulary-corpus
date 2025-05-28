@@ -1,0 +1,239 @@
+{
+  "word": "actuator",
+  "phonetics": {
+    "british": "/ˈæktʃueɪtə/",
+    "american": "/ˈæktʃueɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mechanical device that converts energy, such as electrical or hydraulic energy, into motion or force to perform a specific function.",
+      "chineseTranslation": "执行器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In electronics and automation, a component that responds to a control signal by moving or controlling a mechanism.",
+      "chineseTranslation": "致动器",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "linear actuator",
+      "meaning": "线性执行器，指沿直线运动的执行器",
+      "example": "The linear actuator in the robotic arm ensures precise movement.",
+      "exampleTranslation": "机器人臂中的线性执行器确保了精确的运动。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "pneumatic actuator",
+      "meaning": "气动执行器，使用压缩空气驱动的设备",
+      "example": "Pneumatic actuators are commonly used in manufacturing for valve control.",
+      "exampleTranslation": "气动执行器在制造业中常用于阀门控制。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer installed a new actuator to improve the machine's efficiency.",
+      "translation": "工程师安装了一个新的执行器来提高机器的效率。",
+      "source": "Technical manual (e.g., from engineering literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern cars, the actuator controls the automatic door locks.",
+      "translation": "在现代汽车中，执行器控制自动门锁。",
+      "source": "News article on automotive technology",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers are developing advanced actuators for prosthetic limbs.",
+      "translation": "研究人员正在为假肢开发先进的执行器。",
+      "source": "Scientific journal (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "actuare",
+        "meaning": "to put into action",
+        "language": "Latin"
+      },
+      {
+        "root": "actum",
+        "meaning": "a deed or act",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'actuare'，意为'使行动起来'，演变为中世纪拉丁语用于机械概念，最终在17世纪英语中用于描述转换能量以产生运动的装置，随着工业革命而普及到现代工程领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "actuate",
+      "action",
+      "activate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (中等难度，由于包含辅音群如 /ktʃ/，可能对中文母语者造成轻微挑战)",
+    "spellingDifficulty": "4 (相对简单，但 'c' 和 't' 的组合需注意拼写规则)",
+    "meaningComplexity": "6 (语义依赖技术背景，需理解抽象概念)",
+    "usageComplexity": "7 (常用于专业语境，需掌握搭配和上下文)",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法：先将词汇与视觉图像（如机械装置图）关联，再通过重复练习强化记忆；利用双编码理论，将英文词汇与中文母语经验（如日常工具）连接，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "effector",
+        "similarity": "0.8",
+        "context": "在生物学或机器人学语境中，适用于描述类似功能的组件"
+      },
+      {
+        "word": "driver",
+        "similarity": "0.7",
+        "context": "在电子工程中，强调驱动机制的场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sensor",
+        "context": "传感器检测输入，而执行器产生输出，常在自动化系统中对比使用"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "solenoid actuator",
+      "hydraulic actuator"
+    ],
+    "collocations": [
+      {
+        "pattern": "actuator + noun (e.g., actuator system)",
+        "examples": [
+          "electric actuator system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + actuator (e.g., install an actuator)",
+        "examples": [
+          "replace the actuator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方工程文化中象征技术创新和自动化，常隐含效率与现代化的语义；在跨文化语境中，中国制造业中广泛使用，体现科技全球化的影响。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在日常技术讨论中，如汽车工业",
+        "usage": "在美国英语中，常与创新科技关联，如智能家居设备"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调工程精确性，可能在学术语境中使用",
+        "usage": "在英国英语中，常见于正式技术报告中"
+      }
+    ],
+    "historicalContext": "与工业革命和20世纪自动化发展相关，在文学如H.G. Wells的科幻作品中象征未来技术；在社会背景中，反映了西方对机械化的追求。",
+    "modernUsage": "在社交媒体和在线论坛中，流行于科技爱好者讨论，如TikTok上的DIY项目，或Twitter上的工程趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人手臂在工厂中移动物品，执行器像手臂的'肌肉'一样工作。",
+      "keyElements": [
+        "机器人",
+        "机械臂",
+        "运动"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆使用遥控玩具车的按钮，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Actuator sounds like 'action starter' – think of it as the starter for any action in machines.",
+        "explanation": "通过声音联想将词汇与动作概念连接，利用认知联想原理促进长期记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "A-C-T: Action-Convert-Trigger (执行器通过转换能量触发动作)",
+        "explanation": "使用缩略形式分解词汇，结合视觉编码帮助中文母语者快速回想。"
+      }
+    ],
+    "wordAssociations": [
+      "action",
+      "motor",
+      "control"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "actuators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + actuator",
+        "description": "作为主语或宾语的典型结构，常用于描述设备功能",
+        "examples": [
+          "The actuator operates smoothly."
+        ]
+      },
+      {
+        "pattern": "Adjective + actuator",
+        "description": "用形容词修饰以强调特性",
+        "examples": [
+          "A reliable actuator is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'actor' (a person in a play)",
+        "correction": "Use 'actuator' only for mechanical devices",
+        "explanation": "中文母语者可能因发音相似误用；需区分语境以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "英语名词规则简单，但初学者易遗忘复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "technology",
+      "engineering",
+      "manufacturing"
+    ],
+    "tags": [
+      "mechanical",
+      "automation",
+      "electronics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

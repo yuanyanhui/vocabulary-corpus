@@ -1,0 +1,248 @@
+{
+  "word": "cephalosporin",
+  "phonetics": {
+    "british": "/ˌsɛfələʊˈspɔːrɪn/",
+    "american": "/ˌsɛfəloʊˈspɔrɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A broad-spectrum antibiotic derived from the fungus Acremonium (formerly Cephalosporium), used to treat bacterial infections by inhibiting cell wall synthesis.",
+      "chineseTranslation": "头孢菌素，一种从黴菌（如头孢霉）中提取的广谱抗生素，用于抑制细菌细胞壁合成以治疗感染。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Any of a group of beta-lactam antibiotics that include first-, second-, third-, and fourth-generation compounds, effective against a wide range of gram-positive and gram-negative bacteria.",
+      "chineseTranslation": "任何一组β-内酰胺抗生素，包括第一代、第二代、第三代和第四代化合物，对多种革兰氏阳性和阴性细菌有效。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "first-generation cephalosporin",
+      "meaning": "第一代头孢菌素",
+      "example": "Cephalexin is a first-generation cephalosporin commonly prescribed for skin infections.",
+      "exampleTranslation": "头孢氨苄是一种第一代头孢菌素，常用于治疗皮肤感染。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cephalosporin allergy",
+      "meaning": "头孢菌素过敏",
+      "example": "Patients with a cephalosporin allergy should inform their doctor before surgery.",
+      "exampleTranslation": "有头孢菌素过敏的患者应在手术前告知医生。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "broad-spectrum cephalosporin",
+      "meaning": "广谱头孢菌素",
+      "example": "Ceftriaxone is a broad-spectrum cephalosporin used in hospital settings for severe infections.",
+      "exampleTranslation": "头孢曲松是一种广谱头孢菌素，在医院环境中用于治疗严重感染。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor prescribed a course of cephalosporin to treat the patient's urinary tract infection.",
+      "translation": "医生开了一种头孢菌素疗程来治疗患者的尿路感染。",
+      "source": "Medical textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern pharmacology, cephalosporin has become a staple for combating antibiotic-resistant bacteria.",
+      "translation": "在现代药理学中，头孢菌素已成为对抗抗生素耐药细菌的支柱。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Although effective, cephalosporin can cause side effects like diarrhea in some individuals.",
+      "translation": "虽然有效，但头孢菌素可能会在某些个体中引起副作用如腹泻。",
+      "source": "Health education material (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "kephalē",
+        "meaning": "头部",
+        "language": "希腊语"
+      },
+      {
+        "root": "sporos",
+        "meaning": "种子或孢子",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "该词源于1945年在意大利撒丁岛发现的一种黴菌Cephalosporium acremonium，从希腊语kephalē（头部）和sporos（种子）演变而来。最初用于描述从该黴菌中提取的抗生素物质，后来扩展到一类β-内酰胺抗生素的统称。20世纪中叶，随着抗生素研究的进展，该词的含义从特定化合物扩展到整个药物类别。",
+    "firstKnownUse": "1945年",
+    "relatedWords": [
+      "cephalosporium",
+      "cephradine",
+      "cefuroxime"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议通过重复曝光和间隔重复法（如Spaced Repetition System）学习此词；将词与实际医疗场景关联，以增强语境记忆；对于母语为中文的学习者，可使用双语对照表来减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "beta-lactam antibiotic",
+        "similarity": "0.8",
+        "context": "在医疗语境中，用于描述类似抗生素类别，如在医院处方时"
+      },
+      {
+        "word": "penicillin derivative",
+        "similarity": "0.7",
+        "context": "在抗生素分类讨论中，尤其针对结构相似性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bacteriostatic agent",
+        "context": "在药物效果对比中，头孢菌素为杀菌剂，而此为抑制剂"
+      }
+    ],
+    "hypernyms": [
+      "antibiotic"
+    ],
+    "hyponyms": [
+      "cefazolin",
+      "ceftazidime"
+    ],
+    "collocations": [
+      {
+        "pattern": "cephalosporin + [generation] + [use]",
+        "examples": [
+          "first-generation cephalosporin for skin infections"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[patient] + [reaction] + cephalosporin",
+        "examples": [
+          "allergic reaction to cephalosporin"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征现代抗生素革命的进步，但在中国文化中，常与公共卫生和抗生素滥用问题相关联，隐含对合理用药的警示。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于临床指南中",
+        "usage": "在美国英语中，强调其在公共卫生政策中的角色，如CDC指南"
+      },
+      {
+        "region": "英国",
+        "variation": "在正式医学文献中更标准化",
+        "usage": "英国英语中，常与NHS（英国国民保健服务）相关联，用于治疗指南"
+      }
+    ],
+    "historicalContext": "与第二次世界大战后抗生素发现浪潮相关，源自意大利的发现，反映了20世纪中叶全球医疗合作的背景。",
+    "modernUsage": "在社交媒体和在线健康论坛中，常见用于讨论抗生素耐药性问题，如在Twitter或微信群组中传播健康教育。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个头盔形状的种子（结合词根kephalē和sporos），代表保护细菌的'头盔'被头孢菌素破坏的场景。",
+      "keyElements": [
+        "头盔形状",
+        "种子形象",
+        "破坏细菌"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次生病用药的经历，以触发情感记忆增强保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cephalosporin sounds like 'sea full of spores' – imagine the sea protecting against invaders, like the drug fights bacteria.",
+        "explanation": "通过声音联想和视觉化，帮助记忆词源和功能，基于认知联想原理减少遗忘。"
+      },
+      {
+        "type": "缩略",
+        "content": "CEP-HALO-SPORIN: CEP for ceph, HALO for head protection, SPORIN for spores.",
+        "explanation": "使用首字母缩写和形象联想，符合认知科学中分块编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "antibiotic",
+      "infection",
+      "bacteria",
+      "medicine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cephalosporins",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语的句法结构，常用于描述药物作用",
+        "examples": [
+          "Cephalosporin effectively treats bacterial infections."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases",
+        "description": "用于介词短语中，表示药物类型",
+        "examples": [
+          "Treatment with cephalosporin reduced the infection."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'penicillin'",
+        "correction": "Distinguish based on structure and spectrum",
+        "explanation": "学习者常混淆类似抗生素；通过比较图表纠正，以避免语义错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'cephalosporins' for plural",
+        "explanation": "英文中添加-s形成复数；母语干扰可能导致遗漏。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium in medical domains)",
+    "domains": [
+      "medicine",
+      "pharmacology",
+      "healthcare"
+    ],
+    "tags": [
+      "antibiotic",
+      "bacteria",
+      "infection",
+      "drug"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "PubMed medical database"
+    ]
+  }
+}

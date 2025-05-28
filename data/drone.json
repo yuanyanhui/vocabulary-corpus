@@ -1,0 +1,279 @@
+{
+  "word": "drone",
+  "phonetics": {
+    "british": "/drəʊn/",
+    "american": "/droʊn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An unmanned aircraft or spacecraft that is guided remotely or by an onboard computer.",
+      "chineseTranslation": "无人机",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A male bee that does not work and has no sting, typically fertilizing the queen.",
+      "chineseTranslation": "雄蜂",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A continuous low humming or buzzing sound.",
+      "chineseTranslation": "嗡嗡声",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make a continuous low droning sound.",
+      "chineseTranslation": "发出嗡嗡声",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To speak in a monotonous tone.",
+      "chineseTranslation": "以单调的声音说话",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drone technology",
+      "meaning": "无人机技术",
+      "example": "Advancements in drone technology have revolutionized aerial photography.",
+      "exampleTranslation": "无人机技术的进步彻底改变了航空摄影。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "drone strike",
+      "meaning": "无人机袭击",
+      "example": "The military conducted a drone strike on the enemy base.",
+      "exampleTranslation": "军队对敌方基地发动了无人机袭击。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "drone on",
+      "meaning": "无休止地谈论",
+      "example": "He tends to drone on about his travels during meetings.",
+      "exampleTranslation": "他在会议中常常无休止地谈论他的旅行。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company uses drones for delivering packages in remote areas.",
+      "translation": "该公司使用无人机在偏远地区运送包裹。",
+      "source": "Modern business news (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the beehive, the drone's only role is to mate with the queen.",
+      "translation": "在蜂巢中，雄蜂的唯一作用是与蜂王交配。",
+      "source": "Scientific literature (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The engine began to drone as the plane taxied down the runway.",
+      "translation": "引擎开始嗡嗡作响，飞机沿着跑道滑行。",
+      "source": "Literary fiction (e.g., from OED examples)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She droned through her presentation, putting the audience to sleep.",
+      "translation": "她以单调的声音进行演讲，让听众昏昏欲睡。",
+      "source": "Colloquial usage in media",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "drān",
+        "meaning": "Male bee",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'drān'，最初指雄蜂。13世纪扩展到指懒散或不工作的人，17世纪进一步用于描述持续的嗡嗡声。19世纪开始应用于机械装置，如无人驾驶飞行器，这反映了技术术语的演变。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "dronish",
+      "droner"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'drone' 与无人机图像关联，以强化记忆；使用间隔重复法复习多义词；针对中国学习者，比较 'drone' 与 '蜂' 的文化差异以提升语境理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "buzz",
+        "similarity": "0.7",
+        "context": "适用于描述声音的语境，如 'The drone of the engine is similar to a buzz.'"
+      },
+      {
+        "word": "unmanned aerial vehicle",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如 'Drone is often synonymous with unmanned aerial vehicle in military discussions.'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "worker bee",
+        "context": "在生物语境中，'drone' 的反义词，指辛勤工作的蜜蜂。"
+      },
+      {
+        "word": "silence",
+        "context": "在声音语境中，'drone' 的反义词，指没有嗡嗡声的环境。"
+      }
+    ],
+    "hypernyms": [
+      "vehicle",
+      "insect"
+    ],
+    "hyponyms": [
+      "quadcopter",
+      "military drone"
+    ],
+    "collocations": [
+      {
+        "pattern": "drone + noun (e.g., drone technology)",
+        "examples": [
+          "drone surveillance",
+          "drone delivery"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + drone (e.g., operate a drone)",
+        "examples": [
+          "fly a drone",
+          "use a drone"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代文化中，'drone' 象征技术进步和军事力量，但也隐含隐私和道德问题的隐喻，如在西方媒体中常与监控社会联系。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于军事和技术语境",
+        "usage": "在美国英语中，'drone' 常与无人机袭击相关，反映了地缘政治影响。"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于生物学含义",
+        "usage": "在英国英语中，'drone' 保留更多历史生物学语境，但现代使用也包括技术领域。"
+      }
+    ],
+    "historicalContext": "与工业革命和航空技术发展相关，在文学如莎士比亚作品中象征懒散；在当代，关联到反恐战争和社会监控。",
+    "modernUsage": "在社交媒体和新闻中，'drone' 常用于讨论电子商务和娱乐，如 TikTok 上的无人机视频，体现全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天空中的无人机在嗡嗡飞行，旁边有一群雄蜂。",
+      "keyElements": [
+        "无人机图像",
+        "嗡嗡声效果",
+        "雄蜂群"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看科幻电影的兴奋感，以增强记忆 retention。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'drone' 联想为 'dragon' 的变体，想象一条会飞的龙在嗡嗡作响。",
+        "explanation": "通过声音和视觉联想，帮助中国学习者记住发音和含义。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-R-O-N-E: D for device, R for remote, O for operation, N for noise, E for environment.",
+        "explanation": "使用首字母缩略法结合多义词，基于认知科学的分块编码原理。"
+      }
+    ],
+    "wordAssociations": [
+      "buzz",
+      "fly",
+      "bee",
+      "technology"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "drones",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "droning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + drone",
+        "description": "主语 + 动词 + drone 的结构，常用于描述动作。",
+        "examples": [
+          "The plane drones overhead."
+        ]
+      },
+      {
+        "pattern": "Drone as subject",
+        "description": "drone 作为主语的句法。",
+        "examples": [
+          "Drones are used in surveillance."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'drone' with 'drown'",
+        "correction": "Use 'drone' for unmanned aircraft or sound",
+        "explanation": "两者发音相似，但 'drown' 意为溺水；中国学习者需注意元音差异。"
+      },
+      {
+        "mistake": "Overusing in formal contexts",
+        "correction": "Replace with more specific terms like 'UAV'",
+        "explanation": "在正式语域中，'drone' 可能显得过于口语化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "military",
+      "biology",
+      "daily life"
+    ],
+    "tags": [
+      "aviation",
+      "insects",
+      "sound",
+      "modern tech"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

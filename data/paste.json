@@ -1,0 +1,268 @@
+{
+  "word": "paste",
+  "phonetics": {
+    "british": "/peɪst/",
+    "american": "/peɪst/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thick, soft, moist substance that is typically used for sticking things together or as a filling.",
+      "chineseTranslation": "糊状物；浆糊",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the action of inserting text or data that has been copied from one place to another.",
+      "chineseTranslation": "粘贴（计算机术语）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To stick something with paste or to insert copied text or data into a document or file.",
+      "chineseTranslation": "粘贴；黏合",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To apply a thick substance smoothly onto a surface.",
+      "chineseTranslation": "涂抹糊状物",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "copy and paste",
+      "meaning": "复制并粘贴",
+      "example": "I often use copy and paste to transfer information between documents.",
+      "exampleTranslation": "我经常使用复制并粘贴来在文件之间传输信息。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "paste up",
+      "meaning": "张贴或黏合海报",
+      "example": "The team will paste up posters around the city for the event.",
+      "exampleTranslation": "团队将为活动在城市周围张贴海报。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "toothpaste",
+      "meaning": "牙膏",
+      "example": "Don't forget to apply toothpaste before brushing your teeth.",
+      "exampleTranslation": "刷牙前别忘了涂牙膏。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She used paste to fix the broken pieces of the vase.",
+      "translation": "她用浆糊修复了花瓶的碎件。",
+      "source": "Daily conversation (informal register)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In graphic design, you can paste images directly into the software.",
+      "translation": "在图形设计中，你可以直接将图像粘贴到软件中。",
+      "source": "Technical manual (formal register)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The chef decided to paste the ingredients together for a smooth sauce.",
+      "translation": "厨师决定将原料搅拌成光滑的酱料。",
+      "source": "Culinary literature (neutral register)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Quickly paste the code snippet into the terminal to run the script.",
+      "translation": "快速将代码片段粘贴到终端中运行脚本。",
+      "source": "Programming forum (informal register)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "pasta",
+        "meaning": "Dough or paste",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'pasta'，意为面团或糊状物，通过古法语 'paste' 演变为现代英语，最初用于指代黏合物质，后来扩展到计算机领域的复制粘贴功能，尤其在 20 世纪计算机革命中普及。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "pasta",
+      "pastry"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'paste' 的不同语义（如物理黏合和计算机操作）分组记忆，以减少认知负荷；",
+      "使用双编码理论，将词汇与视觉图像（如黏合物体或键盘图标）关联，以增强长期记忆；",
+      "针对中文母语学习者，建议通过对比母语 '粘贴' 的相似性进行迁移学习，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "glue",
+        "similarity": "0.7",
+        "context": "在物理黏合语境中适用，例如家居修理"
+      },
+      {
+        "word": "attach",
+        "similarity": "0.8",
+        "context": "在计算机或一般固定语境中适用，例如文件处理"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "detach",
+        "context": "在分离或移除语境中适用，例如从文档中删除内容"
+      },
+      {
+        "word": "separate",
+        "context": "在分解糊状物或取消粘贴语境中适用"
+      }
+    ],
+    "hypernyms": [
+      "adhesive"
+    ],
+    "hyponyms": [
+      "toothpaste",
+      "wallpaper paste"
+    ],
+    "collocations": [
+      {
+        "pattern": "Verb + Noun (e.g., paste something onto something)",
+        "examples": [
+          "Paste the photo onto the card."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Noun + Preposition (e.g., paste in computing)",
+        "examples": [
+          "Perform a copy and paste operation."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'paste' 象征着连接或整合，常用于比喻社会或数字互动（如社交媒体的复制粘贴），体现出现代生活中的便利性；在跨文化语境中，与中文 '粘贴' 类似，但英语中更强调技术应用。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机语境，如 'Ctrl + V' 快捷键",
+        "usage": "在美国英语中，'paste' 在日常科技对话中高度频繁，反映数字时代的文化适应"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向传统意义，如手工黏合",
+        "usage": "在英国英语中，'paste' 常与艺术或手工相关联，如在学校手工课中使用"
+      }
+    ],
+    "historicalContext": "与工业革命相关的黏合技术发展，以及 20 世纪后期的计算机革命；例如，在文学中，狄更斯的小说中可能出现手工黏合的描述，而现代网络文化则强调数字粘贴。",
+    "modernUsage": "在社交媒体和在线环境中流行，例如 TikTok 或 Twitter 中的内容粘贴，反映全球数字文化的共享趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人在使用电脑时，按下粘贴键，同时有一团糊状物从屏幕上出现并黏合到文档中。",
+      "keyElements": [
+        "键盘图标",
+        "糊状物",
+        "文档页面"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年手工课的愉悦感或首次学习电脑的成就感，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'paste' 联想为 'pass to eat'，因为它像传递食物（pasta）一样黏合信息。",
+        "explanation": "通过声音联想和视觉图像结合，基于认知联想理论，帮助记忆多义词"
+      },
+      {
+        "type": "缩略",
+        "content": "P-A-S-T-E: Paste Always Stick Things Easily.",
+        "explanation": "使用首字母缩略词创建故事，运用叙事记忆技巧以提高保留率"
+      }
+    ],
+    "wordAssociations": [
+      "glue",
+      "copy",
+      "attach",
+      "pasta"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pastes",
+      "pastTense": "pasted",
+      "pastParticiple": "pasted",
+      "presentParticiple": "pasting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + Object + Preposition",
+        "description": "动词后接宾语和介词结构，常用于描述动作",
+        "examples": [
+          "Paste the image onto the page."
+        ]
+      },
+      {
+        "pattern": "Noun Phrase",
+        "description": "作为名词时，用于描述物质或动作",
+        "examples": [
+          "The paste is ready for use."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'paste' with 'past'",
+        "correction": "Use 'paste' for the verb or noun related to sticking, and 'past' for time or history.",
+        "explanation": "中文学习者常混淆同音词；建议通过语境区分以避免错误"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper conjugation, e.g., 'pasted' for past actions.",
+        "explanation": "由于英语动词规则简单，但需注意语境一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Daily life",
+      "Crafts"
+    ],
+    "tags": [
+      "Computing",
+      "Adhesives",
+      "Verbs"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

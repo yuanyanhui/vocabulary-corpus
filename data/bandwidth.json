@@ -1,0 +1,251 @@
+{
+  "word": "bandwidth",
+  "phonetics": {
+    "british": "/ˈbændwɪdθ/",
+    "american": "/ˈbændwɪθ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The range of frequencies within a given band, especially the capacity for data transfer over a network or communication channel.",
+      "chineseTranslation": "带宽",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A metaphorical measure of the capacity or resources available for a particular activity, such as cognitive or emotional processing.",
+      "chineseTranslation": "（比喻义）容量或资源限度",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "increase bandwidth",
+      "meaning": "增加带宽",
+      "example": "To handle more users, the company decided to increase bandwidth on their servers.",
+      "exampleTranslation": "为了处理更多用户，公司决定增加服务器的带宽。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "limited bandwidth",
+      "meaning": "有限的带宽",
+      "example": "In rural areas, limited bandwidth can make streaming videos impossible.",
+      "exampleTranslation": "在农村地区，有限的带宽可能使流媒体视频无法播放。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bandwidth throttling",
+      "meaning": "带宽限制",
+      "example": "ISPs sometimes use bandwidth throttling to manage network traffic during peak hours.",
+      "exampleTranslation": "互联网服务提供商有时在高峰时段使用带宽限制来管理网络流量。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new router doubled our internet bandwidth, allowing for smoother video calls.",
+      "translation": "新路由器将我们的互联网带宽翻倍，使视频通话更流畅。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In psychology, bandwidth refers to the limits of human attention and cognitive processing.",
+      "translation": "在心理学中，带宽指的是人类注意力和认知处理能力的限度。",
+      "source": "Academic text (e.g., from psychological literature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "With limited bandwidth on the old system, the team struggled to upload large files efficiently.",
+      "translation": "在旧系统有限的带宽下，团队难以高效上传大文件。",
+      "source": "Business report (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "band",
+        "meaning": "A range or strip (from Old English 'band' meaning bond or strip)",
+        "language": "Old English"
+      },
+      {
+        "root": "width",
+        "meaning": "The measurement of something from side to side (from Old English 'wid' meaning wide)",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪初的电子学和物理学，指特定频率范围；20世纪中叶开始应用于电信领域；到20世纪90年代，随着互联网兴起，扩展到计算和网络技术中，并衍生出比喻义，如认知或资源容量。",
+    "firstKnownUse": "1930s",
+    "relatedWords": [
+      "broadband",
+      "narrowband",
+      "throughput"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的分块编码策略，将'bandwidth'与实际网络体验关联，例如想象数据流如水管流量；通过重复暴露于技术语境中增强长期记忆；结合视觉辅助，如图表展示带宽概念，以降低语义复杂度对中文母语学习者的干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "capacity",
+        "similarity": "0.8",
+        "context": "在技术语境中，指数据传输能力，例如网络环境"
+      },
+      {
+        "word": "throughput",
+        "similarity": "0.7",
+        "context": "在计算语境中，指处理数据的能力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "narrowband",
+        "context": "在通信语境中，指低数据传输速率"
+      },
+      {
+        "word": "bottleneck",
+        "context": "在资源限制语境中，指系统中的限制因素"
+      }
+    ],
+    "hypernyms": [
+      "capacity",
+      "range"
+    ],
+    "hyponyms": [
+      "data bandwidth",
+      "spectral bandwidth"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + bandwidth (e.g., internet bandwidth)",
+        "examples": [
+          "high bandwidth networks",
+          "low bandwidth connections"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + bandwidth (e.g., manage bandwidth)",
+        "examples": [
+          "optimize bandwidth usage"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征数字连接和效率，常隐含全球化和信息时代快速性的含义；在中文文化中，可能与'带宽'对应，强调技术进步对日常生活的影响。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于日常科技讨论，如互联网服务",
+        "usage": "在美国英语中，bandwidth 经常在商业和消费语境中出现，例如广告中推广高速互联网"
+      },
+      {
+        "region": "英国",
+        "variation": "类似美国，但可能更侧重技术精确性",
+        "usage": "在英国英语中，常用于学术和工程领域，以强调技术标准"
+      }
+    ],
+    "historicalContext": "与20世纪电子通信革命相关，如无线电和电视的发展；在文学和社会评论中，bandwidth 象征信息过载现象，例如在后现代主义作品中讨论注意力经济。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于比喻个人精力或在线会议效率，例如TikTok或Twitter上的讨论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个宽阔的河流（代表带宽），水流顺畅代表高数据传输；窄河道代表限制。",
+      "keyElements": [
+        "河流宽度",
+        "水流速度",
+        "障碍物"
+      ],
+      "emotionalConnection": "联结个人上网体验的挫败感，如视频缓冲时，触发负面情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'bandwidth'联想为'band'（乐队）和'width'（宽度），想象乐队在宽广舞台上表演，表示更多空间和能力。",
+        "explanation": "通过视觉联想增强记忆痕迹，利用认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈbændwɪdθ/'听起来像'band width'，联想到乐队宽度，辅助发音记忆。",
+        "explanation": "结合听觉和视觉刺激，提高对中文母语者的语音保留"
+      }
+    ],
+    "wordAssociations": [
+      "network",
+      "speed",
+      "capacity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bandwidths",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + bandwidth (e.g., We need more bandwidth)",
+        "description": "作为名词用在主语或宾语位置，表示资源需求",
+        "examples": [
+          "The system requires additional bandwidth."
+        ]
+      },
+      {
+        "pattern": "Adjective + bandwidth (e.g., high bandwidth)",
+        "description": "用形容词修饰，表示程度",
+        "examples": [
+          "This device supports high bandwidth connections."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing bandwidth with speed (e.g., using 'bandwidth' to mean download speed)",
+        "correction": "Use 'bandwidth' for capacity and 'speed' for rate",
+        "explanation": "Bandwidth 指容量而非速度，常由中文母语者混淆，因为翻译时可能不精确"
+      },
+      {
+        "mistake": "Incorrect pluralization (e.g., *bandwiths)",
+        "correction": "bandwidths",
+        "explanation": "拼写错误常见于非母语者，需注意字母顺序"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "communications"
+    ],
+    "tags": [
+      "technical",
+      "digital",
+      "metaphorical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

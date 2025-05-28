@@ -1,0 +1,243 @@
+{
+  "word": "decrement",
+  "phonetics": {
+    "british": "/ˈdiːkrɪmənt/",
+    "american": "/ˈdɛkrəmənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A reduction or decrease in quantity, value, or size, often used in mathematical, scientific, or computing contexts.",
+      "chineseTranslation": "减少；减量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To reduce a value or quantity by a specified amount, typically in programming or mathematical operations.",
+      "chineseTranslation": "递减；减少",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decrement operator",
+      "meaning": "编程中用于减少变量值的操作符，例如 -- 在 C++ 中",
+      "example": "In programming, the decrement operator is used to decrease a variable by one.",
+      "exampleTranslation": "在编程中，递减操作符用于将变量减少一。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "annual decrement",
+      "meaning": "每年的减少量，通常用于统计或经济指标",
+      "example": "The annual decrement in population growth was reported in the census.",
+      "exampleTranslation": "人口增长的年度减少量在人口普查中被报告。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software includes a function to handle the decrement of inventory levels automatically.",
+      "translation": "该软件包括一个自动处理库存水平减少的函数。",
+      "source": "Technical manual (e.g., from software documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Economists observed a significant decrement in consumer spending during the recession.",
+      "translation": "经济学家在经济衰退期间观察到消费者支出的大幅减少。",
+      "source": "News article (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You can decrement the counter by clicking the minus button.",
+      "translation": "您可以通过点击减号按钮来递减计数器。",
+      "source": "User interface description",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "decrementum",
+        "meaning": "a decreasing or reduction",
+        "language": "Latin"
+      },
+      {
+        "root": "decrescere",
+        "meaning": "to grow less",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语 'decrementum'，意为减少或衰减，由 'de-'（向下）和 'crescere'（增长）组成。在中世纪拉丁语中演变为数学和科学语境的术语，17世纪传入英语，用于表示数量的减少。在现代英语中，尤其在技术领域，含义扩展到编程和统计。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "decrease",
+      "diminish",
+      "reduce"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将 'decrement' 与常见数学或编程情境关联；例如，通过视觉化一个递减的计数器来强化记忆路径；建议初级学习者从简单重复到复杂应用逐步过渡，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decrease",
+        "similarity": "0.8",
+        "context": "在正式或技术语境中用于表示数量减少，例如经济报告"
+      },
+      {
+        "word": "reduction",
+        "similarity": "0.7",
+        "context": "在商业或科学语境中，表示规模或价值的缩小"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "increment",
+        "context": "在技术语境中，表示增加，与 'decrement' 相对，例如编程中的 ++ 操作符"
+      },
+      {
+        "word": "increase",
+        "context": "在一般语境中，表示增长，与减少相对"
+      }
+    ],
+    "hypernyms": [
+      "reduction",
+      "change"
+    ],
+    "hyponyms": [
+      "population decrement",
+      "value decrement"
+    ],
+    "collocations": [
+      {
+        "pattern": "decrement + noun (e.g., decrement in sales)",
+        "examples": [
+          "a decrement in efficiency"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + decrement (e.g., perform a decrement)",
+        "examples": [
+          "to apply a decrement"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要作为技术或科学术语，没有强烈的象征意义，但反映了西方文化对量化分析和效率优化的强调，例如在工业革命后的科学语境中。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于编程和科技领域",
+        "usage": "在美国英语中，'decrement' 经常出现在软件开发和数据分析中，与日常语言较少交织"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式学术语境",
+        "usage": "在英国英语中，偶尔用于经济或历史分析，以强调渐进式减少"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的量化思维相联，例如在19世纪的科学文献中出现，体现了西方文化对精确测量和变化过程的关注。",
+    "modernUsage": "在现代社交媒体和数字平台上，'decrement' 常用于科技讨论，如在线课程或编程论坛，反映了全球数字化的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个向下箭头表示减少的场景，例如一个库存计数器从10逐步递减到0。",
+      "keyElements": [
+        "向下箭头",
+        "计数器",
+        "减少过程"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆购物时库存减少的挫败感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'decrement' 联想为 'de-crease-ment'，类似于衣服变小。",
+        "explanation": "通过声音和视觉联想帮助记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Down, C for Count – Decrement means counting down.",
+        "explanation": "使用首字母缩略法强化词汇与动作的关联，促进长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "decrease",
+      "downward",
+      "reduce"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "decrements",
+      "pastTense": "decremented",
+      "pastParticiple": "decremented",
+      "presentParticiple": "decrementing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., We decrement the value)",
+        "description": "主语 + 动词 + 宾语结构，常用于命令句或描述性句子",
+        "examples": [
+          "They will decrement the counter."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a decrement in value)",
+        "description": "名词短语结构，用于表示抽象减少",
+        "examples": [
+          "There was a significant decrement in output."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'increment'",
+        "correction": "Use 'decrement' for reduction only",
+        "explanation": "学习者常混淆正反义词；建议通过对比练习区分语境"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Ensure proper tense, e.g., 'decremented' for past",
+        "explanation": "由于词尾规则性，初级学习者可能遗漏-ed；使用重复句型练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "商业",
+      "数学"
+    ],
+    "tags": [
+      "技术术语",
+      "量化",
+      "变化"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

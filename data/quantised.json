@@ -1,0 +1,239 @@
+{
+  "word": "quantised",
+  "phonetics": {
+    "british": "/ˈkwɒn.taɪzd/",
+    "american": "/ˈkwɑːn.taɪzd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "Past participle of 'quantize', meaning to limit or restrict a physical quantity to discrete values, as in physics or digital processing.",
+      "chineseTranslation": "量化的（过去分词形式）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Describing something that has been converted into discrete units or levels.",
+      "chineseTranslation": "被量化的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quantised energy levels",
+      "meaning": "量化能量级别",
+      "example": "In quantum mechanics, electrons occupy quantised energy levels.",
+      "exampleTranslation": "在量子力学中，电子占据量化能量级别。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "quantised signal",
+      "meaning": "量化信号",
+      "example": "The quantised signal reduced the file size without losing much quality.",
+      "exampleTranslation": "量化信号在不损失太多质量的情况下减小了文件大小。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist explained how light can be quantised into photons.",
+      "translation": "物理学家解释了光如何被量化成光子。",
+      "source": "Scientific literature (e.g., from physics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In digital audio, sound waves are quantised to improve storage efficiency.",
+      "translation": "在数字音频中，声波被量化以提高存储效率。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern cryptography often relies on quantised data for secure transmission.",
+      "translation": "现代密码学经常依赖量化数据进行安全传输。",
+      "source": "Academic papers (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "quantus",
+        "meaning": "how much",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'quantus'，意为 '多少'，经由法语 'quantité' 演变为英语 'quantity'。在20世纪早期，随着量子力学的兴起，'quantize' 被创造用于描述将连续变量转化为离散值的过程，最终演变为 'quantised'。",
+    "firstKnownUse": "Early 20th century (around 1920s, in quantum physics contexts)",
+    "relatedWords": [
+      "quantize",
+      "quantity",
+      "quantitative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'quantised' 与量子力学概念关联；通过视觉图示记忆词根 'quantus' 与数字离散化的图像，以增强长时记忆；针对中文母语学习者，建议与类似词汇如 '量化' 进行双语对比，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "discretized",
+        "similarity": "0.8",
+        "context": "适用于技术语境，如信号处理中（在技术语境中，例如信号处理）"
+      },
+      {
+        "word": "digitized",
+        "similarity": "0.7",
+        "context": "适用于数字转换语境，如数据处理（在数字转换语境中，例如数据处理）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuous",
+        "context": "适用于强调非离散状态的语境（在强调非离散状态的语境中）"
+      },
+      {
+        "word": "analog",
+        "context": "适用于对比数字和模拟系统的语境（在对比数字和模拟系统的语境中）"
+      }
+    ],
+    "hypernyms": [
+      "converted",
+      "transformed"
+    ],
+    "hyponyms": [
+      "quantized energy",
+      "quantized wave"
+    ],
+    "collocations": [
+      {
+        "pattern": "quantised + noun (e.g., levels, data)",
+        "examples": [
+          "quantised levels",
+          "quantised data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be quantised in + context",
+        "examples": [
+          "be quantised in physics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征现代物理学的革命性进展，隐含着从连续到离散的认知转变，常与量子力学相关联，体现人类对自然界的抽象理解。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用 'quantised' 作为标准拼写",
+        "usage": "在英式英语中更常见于学术和科学出版物"
+      },
+      {
+        "region": "美国",
+        "variation": "常使用 'quantized' 拼写",
+        "usage": "在美式英语中，特别是在技术行业和教育中更流行"
+      }
+    ],
+    "historicalContext": "与20世纪初的量子革命相关联，如爱因斯坦和波尔的贡献，在文学和文化中象征科学不确定性，例如在科幻小说中代表技术进步。",
+    "modernUsage": "在社交媒体和在线教育平台上，'quantised' 常用于讨论人工智能和加密技术，反映数字时代的信息处理趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯状的能量级别图景，其中连续的阶梯被分割成离散的台阶。",
+      "keyElements": [
+        "阶梯",
+        "离散台阶",
+        "能量球"
+      ],
+      "emotionalConnection": "联结到个人经历，如玩电子游戏中的分数系统，触发好奇和成就感以强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Quantised sounds like 'quantity sized' – think of sizing up quantities into boxes.",
+        "explanation": "通过声音联想将 'quantised' 与 'quantity' 连接，利用认知关联增强词汇保留。"
+      },
+      {
+        "type": "视觉化",
+        "content": "Picture quanta as tiny boxes holding energy levels.",
+        "explanation": "使用图像编码原理，将抽象概念转化为具体视觉，帮助中级学习者避免混淆。"
+      }
+    ],
+    "wordAssociations": [
+      "quantity",
+      "discrete",
+      "physics"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "quantised (for quantize)",
+      "pastParticiple": "quantised",
+      "presentParticiple": "quantising",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + quantised + in + context",
+        "description": "主语 + be 动词 + quantised + in + 语境，用于描述状态",
+        "examples": [
+          "Energy is quantised in quantum systems."
+        ]
+      },
+      {
+        "pattern": "Verb + quantised + object",
+        "description": "动词 + quantised + 对象，用于过程描述",
+        "examples": [
+          "The system quantised the data."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'quantized' spelling",
+        "correction": "Use 'quantised' in British English contexts",
+        "explanation": "中文学习者常因拼写变体混淆，建议检查语域以选择正确形式。"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Reserve for technical usage",
+        "explanation": "避免在非专业语境中使用，以防止语义不当扩展。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "物理学",
+      "计算机科学"
+    ],
+    "tags": [
+      "技术术语",
+      "科学",
+      "量化"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

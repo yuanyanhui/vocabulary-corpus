@@ -1,0 +1,253 @@
+{
+  "word": "emulator",
+  "phonetics": {
+    "british": "/ɪˈmjuːleɪtə/",
+    "american": "/ɪˈmjuːlətər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A hardware or software system that enables one computer system (called the host) to behave like another computer system (called the guest).",
+      "chineseTranslation": "模拟器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that copies or mimics the behavior of another system, often used in computing, gaming, or testing environments.",
+      "chineseTranslation": "仿真器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "emulator software",
+      "meaning": "模拟器软件",
+      "example": "This emulator software allows you to run old video games on modern devices.",
+      "exampleTranslation": "这个模拟器软件允许你在现代设备上运行旧的视频游戏。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hardware emulator",
+      "meaning": "硬件模拟器",
+      "example": "Engineers use a hardware emulator to test circuit designs without building physical prototypes.",
+      "exampleTranslation": "工程师使用硬件模拟器测试电路设计，而无需构建物理原型。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "game emulator",
+      "meaning": "游戏模拟器",
+      "example": "A game emulator can recreate the experience of playing classic consoles on a PC.",
+      "exampleTranslation": "游戏模拟器可以在PC上重现经典游戏主机的体验。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Developers often rely on an emulator to test mobile apps on different operating systems.",
+      "translation": "开发人员经常依赖模拟器在不同操作系统上测试移动应用。",
+      "source": "Technical documentation from software engineering contexts, such as articles in IEEE publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the gaming community, an emulator is a popular tool for preserving retro games.",
+      "translation": "在游戏社区，模拟器是一种流行的工具，用于保存复古游戏。",
+      "source": "Modern online forums and gaming blogs, e.g., Reddit discussions",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The new emulator from the company simulates the processing power of a supercomputer at a fraction of the cost.",
+      "translation": "该公司的新模拟器以极低成本模拟了超级计算机的处理能力。",
+      "source": "Business news articles, e.g., from The New York Times",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "aemulus",
+        "meaning": "rival or competing",
+        "language": "Latin"
+      },
+      {
+        "root": "emulate",
+        "meaning": "to strive to equal or excel",
+        "language": "Latin via Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'aemulus'，意为竞争者或对手。16世纪传入英语时，最初用于表示竞争或模仿行为。随着计算机技术的兴起，在20世纪后期，词汇扩展到技术领域，指代模拟其他系统的设备或程序。这反映了从社会竞争到技术仿真的语义演变。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "emulate",
+      "simulation",
+      "imitate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法：先将 'emulator' 与 'imitate' 进行语义关联，再通过实际应用场景（如手机应用测试）构建记忆网络，以增强长期保留。",
+      "利用双编码理论：将词汇与视觉图像配对，例如想象一个复制其他设备的机器人，以加强视听记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "simulator",
+        "similarity": "0.8",
+        "context": "适用于技术或训练环境，例如飞行模拟器"
+      },
+      {
+        "word": "imitator",
+        "similarity": "0.7",
+        "context": "在非技术语境中表示模仿者，但较少用于计算机领域"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "original",
+        "context": "适用于强调真实系统而非仿真，例如 'original hardware' 与 'emulator' 的对比"
+      },
+      {
+        "word": "prototype",
+        "context": "在开发阶段，表示实际构建的模型而非模拟版本"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "program"
+    ],
+    "hyponyms": [
+      "virtual machine",
+      "game console emulator"
+    ],
+    "collocations": [
+      {
+        "pattern": "emulator + noun (e.g., emulator software)",
+        "examples": [
+          "emulator software",
+          "emulator device"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + emulator (e.g., use an emulator)",
+        "examples": [
+          "run an emulator",
+          "develop an emulator"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在当代数字文化中，该词象征技术创新和怀旧，例如游戏爱好者使用模拟器重温经典游戏，这隐含了保存文化遗产的意义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和娱乐行业",
+        "usage": "在美国英语中，'emulator' 经常出现在软件开发和游戏社区的讨论中，强调实用性和开源文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，强调历史和技术演变",
+        "usage": "在英国英语中，常与教育或研究语境相关联，如博物馆使用模拟器展示历史设备"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关联，例如早期计算机模拟器的发明反映了工业革命后的技术进步，并在文学如科幻小说中象征复制现实。",
+    "modernUsage": "在社交媒体和在线社区中流行，例如TikTok或YouTube教程中讨论游戏模拟器，体现了全球数字共享趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人（emulator）在复制另一个机器人的动作，就如同镜子中的映像。",
+      "keyElements": [
+        "机器人",
+        "镜子",
+        "复制动作"
+      ],
+      "emotionalConnection": "联结个人经验，如童年玩游戏机的回忆，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Emulator 听起来像 'emulate' 和 'computer' 的结合",
+        "explanation": "通过声音联想将词汇与计算机模拟的概念连接，基于认知联想原理提高回忆效率"
+      },
+      {
+        "type": "缩略",
+        "content": "E-M-U-L-A-T-O-R: Each Mirror Unlocks Lost Ancient Tech Or Reality",
+        "explanation": "使用首字母缩写创建故事，帮助中文母语学习者通过叙事方式记忆词汇结构"
+      }
+    ],
+    "wordAssociations": [
+      "imitate",
+      "simulate",
+      "virtual"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "emulators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + emulator",
+        "description": "作为名词用在主语或宾语位置，表示工具或设备",
+        "examples": [
+          "The emulator runs smoothly."
+        ]
+      },
+      {
+        "pattern": "Adjective + emulator",
+        "description": "用形容词修饰以强调特性",
+        "examples": [
+          "This advanced emulator supports multiple platforms."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'emulate' (verb)",
+        "correction": "Use 'emulator' as a noun for the device, and 'emulate' as a verb for the action.",
+        "explanation": "中文学习者常混淆动词和名词形式，导致语义错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural: emulators",
+        "explanation": "英语名词规则简单，但初级学习者可能遗漏复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus, indicating medium usage in technical domains",
+    "domains": [
+      "technology",
+      "computing",
+      "gaming"
+    ],
+    "tags": [
+      "tech",
+      "software",
+      "simulation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "word": "determinant",
+  "phonetics": {
+    "british": "/dɪˈtɜːmɪnənt/",
+    "american": "/dɪˈtɝːmɪnənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A factor or element that decides or influences the outcome of something; in mathematics, a scalar value computed from the elements of a square matrix.",
+      "chineseTranslation": "决定因素；在数学中，为一个方阵的标量值",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that establishes or fixes the nature, value, or extent of an outcome.",
+      "chineseTranslation": "确立或固定结果性质、价值或范围的事物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Serving to determine or decide something.",
+      "chineseTranslation": "决定或确定的",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "determinant factor",
+      "meaning": "决定性因素",
+      "example": "Economic policies are a determinant factor in national development.",
+      "exampleTranslation": "经济政策是国家发展中的决定性因素。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "key determinant",
+      "meaning": "关键决定因素",
+      "example": "Education is often a key determinant of social mobility.",
+      "exampleTranslation": "教育常常是社会流动的关键决定因素。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "environmental determinant",
+      "meaning": "环境决定因素",
+      "example": "Climate change acts as an environmental determinant for species migration.",
+      "exampleTranslation": "气候变化充当了物种迁移的环境决定因素。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The determinant of this matrix is calculated to be zero, indicating it is singular.",
+      "translation": "这个矩阵的行列式计算结果为零，表明它是奇异的。",
+      "source": "Mathematical textbook (e.g., from academic sources like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Genetics can be a major determinant in determining one's susceptibility to certain diseases.",
+      "translation": "遗传学可以是决定某人对某些疾病易感性的主要因素。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In business, market demand is often the primary determinant of pricing strategies.",
+      "translation": "在商业中，市场需求通常是定价策略的主要决定因素。",
+      "source": "Business news (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "determinare",
+        "meaning": "to limit or fix",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'determinare'，意为限制或固定，演变为中世纪拉丁语用于逻辑和数学语境，最终在17世纪进入英语，扩展到数学行列式和一般决定因素的含义。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "determine",
+      "determination",
+      "determinism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过认知科学原理，将词汇与视觉图像结合，例如想象一个矩阵作为'决定锁'，以强化记忆；建议初级学习者从简单句法开始，逐步增加语境以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "factor",
+        "similarity": "0.8",
+        "context": "在商业或科学语境中，用于表示影响结果的元素"
+      },
+      {
+        "word": "decisive element",
+        "similarity": "0.7",
+        "context": "在正式讨论中，用于强调关键影响"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insignificant factor",
+        "context": "在分析中，当元素不影响结果时"
+      },
+      {
+        "word": "negligible influence",
+        "context": "在科学语境中，表示可忽略的影响"
+      }
+    ],
+    "hypernyms": [
+      "factor",
+      "influence"
+    ],
+    "hyponyms": [
+      "genetic determinant",
+      "economic determinant"
+    ],
+    "collocations": [
+      {
+        "pattern": "determinant of [noun]",
+        "examples": [
+          "determinant of success",
+          "determinant of health"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] determinant",
+        "examples": [
+          "key determinant",
+          "major determinant"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与科学理性主义相关联，象征逻辑和确定性，尤其在数学和社会科学中；在中文学习者语境中，可能隐含强调个人努力vs.外部因素的辩论。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和社会科学语境",
+        "usage": "在美国英语中，强调实用性和数据驱动决策"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术语境中更正式，常用于数学和哲学",
+        "usage": "英国英语倾向于保留其历史拉丁根源的精确性"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，反映了西方对确定性和因果关系的追求；在现代中文文化中，可能与儒家命运观形成对比。",
+    "modernUsage": "在社交媒体和数字平台上，常见于讨论AI和数据分析，但需注意跨文化敏感性，以避免将'决定因素'简化为宿命论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁链结构，其中'determinant'是一个关键锁扣，连接各种因素。",
+      "keyElements": [
+        "锁链",
+        "钥匙",
+        "连接点"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一个决定性事件，触发成就感或遗憾，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'determinant'联想为'determine + ant'，仿佛蚂蚁（ant）在确定路径。",
+        "explanation": "通过视觉联想和故事化，运用认知科学中的双编码理论，提高词汇保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Decide, E for Establish, T for Total influence.",
+        "explanation": "使用首字母缩写结合空间记忆技巧，帮助中级学习者构建结构化记忆网络。"
+      }
+    ],
+    "wordAssociations": [
+      "factor",
+      "decide",
+      "matrix"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "determinants",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "as a noun in subject position",
+        "description": "作为主语使用，通常在正式句子中",
+        "examples": [
+          "The determinant influences the outcome."
+        ]
+      },
+      {
+        "pattern": "in prepositional phrases",
+        "description": "在介词短语中表示关系",
+        "examples": [
+          "The key determinant of success is hard work."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'determinate' (an adjective meaning fixed)",
+        "correction": "Use 'determinant' for factors or matrices",
+        "explanation": "中文学习者常混淆相似词根，导致语义错误；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'determinants' for plural",
+        "explanation": "由于英语复数规则的多样性，初级学习者可能遗忘添加's'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "business",
+      "social sciences"
+    ],
+    "tags": [
+      "technical",
+      "abstract",
+      "causal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

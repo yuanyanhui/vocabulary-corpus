@@ -1,0 +1,250 @@
+{
+  "word": "polynomial",
+  "phonetics": {
+    "british": "/ˌpɒlɪˈnəʊmiəl/",
+    "american": "/ˌpɑːlɪˈnoʊmiəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An algebraic expression that consists of variables and coefficients, involving only the operations of addition, subtraction, multiplication, and non-negative integer exponents of variables.",
+      "chineseTranslation": "多项式",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of or relating to polynomials, often describing equations or functions.",
+      "chineseTranslation": "多项式的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "polynomial equation",
+      "meaning": "多项式方程",
+      "example": "The mathematician solved the polynomial equation to find the roots.",
+      "exampleTranslation": "数学家求解多项式方程以找到根部。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "polynomial function",
+      "meaning": "多项式函数",
+      "example": "A polynomial function can be graphed as a smooth curve.",
+      "exampleTranslation": "多项式函数可以绘制成平滑曲线。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cubic polynomial",
+      "meaning": "三次多项式",
+      "example": "This cubic polynomial has three roots in the complex plane.",
+      "exampleTranslation": "这个三次多项式在复平面上有三个根。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In algebra, a polynomial is an expression like 3x^2 + 2x + 1.",
+      "translation": "在代数中，多项式是一个像3x^2 + 2x + 1这样的表达式。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scientist used a polynomial model to predict population growth.",
+      "translation": "科学家使用多项式模型来预测人口增长。",
+      "source": "Scientific article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Polynomial regression is a common technique in data analysis.",
+      "translation": "多项式回归是数据分析中的常见技术。",
+      "source": "News article on technology",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "poly-",
+        "meaning": "many",
+        "language": "Greek (from 'polys')"
+      },
+      {
+        "root": "nomial",
+        "meaning": "term or name",
+        "language": "Latin (from 'nomen', meaning name)"
+      }
+    ],
+    "historicalDevelopment": "一词源自希腊语 'polys'（多）和拉丁语 'nomen'（名称），最初在17世纪用于数学中描述具有多个术语的表达式。从1670年代开始在数学文献中出现，逐渐演变为现代代数中的标准术语，反映了从古典语言到科学术语的演变过程。",
+    "firstKnownUse": "1670s",
+    "relatedWords": [
+      "binomial",
+      "monomial",
+      "trinomial"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个有多个部分的等式来强化记忆；使用间隔重复法复习，以提升长期保留效果；针对母语为中文的学习者，将词根与类似汉字结构进行类比，如 'poly-' 类似于 '多' 的含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multinomial",
+        "similarity": "0.8",
+        "context": "在统计学或代数上下文中使用，适用于描述类似多项式的复杂表达式"
+      },
+      {
+        "word": "algebraic expression",
+        "similarity": "0.7",
+        "context": "在一般数学讨论中，作为更广泛的术语"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monomial",
+        "context": "当描述只有一个术语的表达式时，例如在简单代数中"
+      },
+      {
+        "word": "linear equation",
+        "context": "在涉及直线关系的数学模型中"
+      }
+    ],
+    "hypernyms": [
+      "algebraic expression"
+    ],
+    "hyponyms": [
+      "quadratic polynomial",
+      "cubic polynomial"
+    ],
+    "collocations": [
+      {
+        "pattern": "polynomial + noun (e.g., equation, function)",
+        "examples": [
+          "polynomial equation",
+          "polynomial function"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + polynomial (e.g., cubic polynomial)",
+        "examples": [
+          "cubic polynomial"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为数学术语，该词在全球科学教育中象征理性与精确性，但在西方文化中，常与启蒙运动的理性主义相关联；在中国文化中，与传统数学遗产如《九章算术》相呼应，但无特定象征意义。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用更注重历史语境，如在牛津数学传统中",
+        "usage": "在学术讨论中更正式，常见于高等教育"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于应用科学，如在工程和计算机科学中",
+        "usage": "在技术报告和教育中更常见"
+      }
+    ],
+    "historicalContext": "该词与17世纪欧洲数学革命相关联，如牛顿和莱布尼茨的贡献；在现代，中国数学教育中被纳入标准课程，体现了跨文化知识传播。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于AI和数据科学讨论中，例如在TikTok或YouTube教程中简化解释。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个花园中有许多花朵，每个花朵代表多项式中的一个术语，花朵数量越多，表达越复杂。",
+      "keyElements": [
+        "花园",
+        "花朵",
+        "术语"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如回忆数学课堂的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly-nomial: 'Poly' 像 '许多'，'nomial' 像 '名称'，所以许多名称的表达式。",
+        "explanation": "通过词根联想，帮助母语为中文的学习者将 'poly-' 与 '多' 对应，强化词汇连接"
+      },
+      {
+        "type": "缩略",
+        "content": "P-O-L-Y: Many Parts Only Yield Equations",
+        "explanation": "使用首字母缩写结合简单句子，促进认知加工和记忆巩固"
+      }
+    ],
+    "wordAssociations": [
+      "algebra",
+      "equation",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polynomials",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + polynomial",
+        "description": "作为主语或宾语出现，例如在陈述句中",
+        "examples": [
+          "The polynomial represents a curve."
+        ]
+      },
+      {
+        "pattern": "Adjective + polynomial",
+        "description": "用作形容词修饰其他名词",
+        "examples": [
+          "This is a cubic polynomial."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'binomial'",
+        "correction": "Use 'polynomial' for expressions with multiple terms",
+        "explanation": "许多学习者混淆术语数量，常因未区分词根导致"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "polynomials (add -s)",
+        "explanation": "英文名词复数规则简单，但非母语者可能遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 in COCA corpus for academic domains)",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "数学",
+      "代数",
+      "科学术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

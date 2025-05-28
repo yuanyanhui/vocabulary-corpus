@@ -1,0 +1,240 @@
+{
+  "word": "weighting",
+  "phonetics": {
+    "british": "/ˈweɪtɪŋ/",
+    "american": "/ˈweɪtɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or method of assigning relative importance or values to different factors, items, or data points, often used in statistics, mathematics, or decision-making to adjust for bias or emphasis.",
+      "chineseTranslation": "加权",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "The act of applying weights to elements in a system, such as in algorithms or surveys, to influence outcomes or represent proportional significance.",
+      "chineseTranslation": "加权过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "weighting factor",
+      "meaning": "加权因子",
+      "example": "The weighting factor in the economic model accounts for inflation rates.",
+      "exampleTranslation": "经济模型中的加权因子考虑了通货膨胀率。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "statistical weighting",
+      "meaning": "统计加权",
+      "example": "Statistical weighting ensures that underrepresented groups are given more influence in the analysis.",
+      "exampleTranslation": "统计加权确保了代表性不足的群体在分析中获得更多影响力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In survey research, weighting is essential to make the sample more representative of the population.",
+      "translation": "在调查研究中，加权对于使样本更能代表总体至关重要。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm uses weighting to prioritize urgent tasks over routine ones.",
+      "translation": "该算法使用加权来优先处理紧急任务而非常规任务。",
+      "source": "Technology article (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": " weighting can significantly alter the results of a poll if not applied correctly.",
+      "translation": "如果加权应用不当，会显著改变民意调查的结果。",
+      "source": "News media (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "weight",
+        "meaning": "Heaviness or mass",
+        "language": "Old English (from Proto-Germanic *wihtiz)"
+      }
+    ],
+    "historicalDevelopment": "The term derives from Old English 'wiht', meaning 'something' or 'creature', evolving through Middle English to mean 'heaviness' or 'burden'. By the 19th century, 'weighting' emerged as a gerund form in mathematical and statistical contexts, reflecting the Industrial Revolution's influence on quantitative analysis, where assigning weights became common in engineering and economics.",
+    "firstKnownUse": "Late 19th century (circa 1880, as per Oxford English Dictionary records)",
+    "relatedWords": [
+      "weight",
+      "weigh",
+      "counterweight"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 6,
+    "usageComplexity": 5,
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象天平上的不同物体代表加权过程，以增强记忆；",
+      "通过间隔重复系统（Spaced Repetition Systems）复习相关例句，帮助巩固语义关联；",
+      "将 'weighting' 与日常生活中的决策场景联系，如购物时的优先级排序，触发情感记忆以提高保留率"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "balancing",
+        "similarity": 0.7,
+        "context": "在统计或决策语境中，用于调整数据平衡（在统计或决策语境中）"
+      },
+      {
+        "word": "scaling",
+        "similarity": 0.8,
+        "context": "在数学模型中，表示比例调整（在数学模型中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "equalizing",
+        "context": "当需要无偏见处理数据时，通常在公平分配语境中使用（当需要无偏见处理数据时）"
+      },
+      {
+        "word": "unweighted",
+        "context": "在非加权分析中，表示原始或等值处理（在非加权分析中）"
+      }
+    ],
+    "hypernyms": [
+      "adjustment",
+      "modification"
+    ],
+    "hyponyms": [
+      "statistical weighting",
+      "algorithmic weighting"
+    ],
+    "collocations": [
+      {
+        "pattern": "weighting + noun (e.g., weighting factor)",
+        "examples": [
+          "The weighting scheme improved accuracy."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + weighting (e.g., apply weighting)",
+        "examples": [
+          "Researchers apply weighting to datasets."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征公正性和数据精确性，尤其在民主选举和市场分析中，隐含语义强调理性决策，但在中国文化语境中，可能与 '平衡' 或 '调和' 相关联，体现儒家思想的和谐原则。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical and business contexts with emphasis on data-driven decisions.",
+        "usage": "在美国，'weighting' 经常出现在市场调查中，以反映多元社会结构（在美国，经常出现在市场调查中）"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal usage, often in academic or governmental reports.",
+        "usage": "在英国，'weighting' 可用于政策制定中调整区域差异（在英国，用于政策制定中）"
+      }
+    ],
+    "historicalContext": "该词与19世纪的工业革命和20世纪的统计学发展相关，在文学如狄更斯的作品中，隐喻社会不平等；在中国，现代表现为大数据时代的工具，关联到数字经济改革。",
+    "modernUsage": "在社交媒体和AI算法中流行，用于内容推荐，反映全球数字化趋势（在社交媒体和AI算法中流行）"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中不同大小的物体代表数据点，你在添加砝码（weights）来平衡它。",
+      "keyElements": [
+        "天平",
+        "砝码",
+        "数据点"
+      ],
+      "emotionalConnection": "联结到个人经历，如在决策时权衡优缺点，触发成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'weighting' as 'wait-ing' for balance – like waiting for the scale to stabilize.",
+        "explanation": "通过声音联想将 'weighting' 与 'waiting' 连接，结合视觉想象增强认知加工（通过声音联想增强认知加工）"
+      },
+      {
+        "type": "缩略",
+        "content": "W-E-I-G-H-T: Weigh Each Item's Greater Importance Through Adjustment.",
+        "explanation": "使用首字母缩写创建故事，基于认知科学中的叙事记忆技巧（使用首字母缩写创建故事）"
+      }
+    ],
+    "wordAssociations": [
+      "balance",
+      "scale",
+      "adjust"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "weightings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "weighting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the weighting of data')",
+        "description": "用作名词时，常置于定语或动词后，表示过程或方法（用作名词时）",
+        "examples": [
+          "The weighting of factors is crucial."
+        ]
+      },
+      {
+        "pattern": "Gerund in sentence (e.g., 'Weighting improves accuracy')",
+        "description": "作为动名词使用，连接动作和结果（作为动名词使用）",
+        "examples": [
+          "Weighting data requires careful calculation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'weighing' (as in measuring weight)",
+        "correction": "Use 'weighting' for assigning importance, not physical measurement.",
+        "explanation": "错误源于词形相似；正确区分语境以避免混淆（错误源于词形相似）"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'weightings' for plural forms.",
+        "explanation": "英文名词规则需注意后缀-s（英文名词规则需注意）"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Statistics",
+      "Business"
+    ],
+    "tags": [
+      "Mathematics",
+      "Data Analysis",
+      "Quantitative Methods"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

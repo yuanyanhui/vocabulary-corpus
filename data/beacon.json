@@ -1,0 +1,250 @@
+{
+  "word": "beacon",
+  "phonetics": {
+    "british": "/ˈbiːkən/",
+    "american": "/ˈbiːkən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fire or light set up in a high or prominent place as a warning, signal, or celebration.",
+      "chineseTranslation": "灯塔或信号火",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that serves as a guide or warning to others.",
+      "chineseTranslation": "指导者或警告信号",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To serve as a signal or guide, often by shining a light.",
+      "chineseTranslation": "充当信号或指导作用",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beacon of hope",
+      "meaning": "希望的象征",
+      "example": "The new policy serves as a beacon of hope for the struggling economy.",
+      "exampleTranslation": "这项新政策为挣扎中的经济充当了希望的灯塔。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "light a beacon",
+      "meaning": "点亮信号火或象征性地点亮希望",
+      "example": "Communities around the world light beacons to commemorate historical events.",
+      "exampleTranslation": "世界各地的社区点亮灯塔来纪念历史事件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old lighthouse acted as a beacon for sailors navigating the stormy seas.",
+      "translation": "这座旧灯塔充当了航行在暴风雨海洋中的水手的信号灯。",
+      "source": "Literature (e.g., from maritime novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In times of crisis, leaders must be a beacon of stability and guidance.",
+      "translation": "在危机时刻，领导者必须成为稳定和指导的灯塔。",
+      "source": "News articles (e.g., from BBC or CNN)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The app uses Bluetooth beacons to send location-based notifications to users.",
+      "translation": "该应用使用蓝牙信标向用户发送基于位置的通知。",
+      "source": "Technology blogs (e.g., from tech corpora like COCA)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "beacen",
+        "meaning": "sign or signal",
+        "language": "Old English"
+      },
+      {
+        "root": "*baukną",
+        "meaning": "beacon or sign",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'beacen'，意为标志或信号，可能与日耳曼语系的视觉信号相关。随时间演变为现代英语，扩展至比喻意义，如指导或希望的象征，在中世纪用于军事和航海。",
+    "firstKnownUse": "约 10 世纪",
+    "relatedWords": [
+      "beak",
+      "beck"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法：将 'beacon' 与灯塔的图像联系，触发个人经历中的导航场景，以增强记忆保留；对于中文母语学习者，强调词根分析以减少混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "guidelight",
+        "similarity": "0.8",
+        "context": "在航海或比喻指导的语境中使用"
+      },
+      {
+        "word": "signal",
+        "similarity": "0.7",
+        "context": "作为警告或通信的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "obstacle",
+        "context": "在阻碍而不是指导的语境中"
+      },
+      {
+        "word": "darkness",
+        "context": "象征性地与光明的对比语境中"
+      }
+    ],
+    "hypernyms": [
+      "signal"
+    ],
+    "hyponyms": [
+      "lighthouse",
+      "flare"
+    ],
+    "collocations": [
+      {
+        "pattern": "beacon + of + noun",
+        "examples": [
+          "beacon of hope",
+          "beacon of freedom"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "act as a beacon",
+        "examples": [
+          "act as a beacon in the night"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征希望和指导，如在英国历史中，灯塔用于警告入侵或庆祝事件，隐含语义为领导力和启迪。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史和文学语境",
+        "usage": "在正式场合如纪念日中使用，强调传统信号系统"
+      },
+      {
+        "region": "美国",
+        "variation": "扩展至现代技术如蓝牙信标",
+        "usage": "在科技和日常对话中更常见，体现创新文化"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的战争和航海相关，如英国的 'Beacon Hill' 事件，用于信号传递；在中国文化中，可类比为烽火台，体现跨文化警报系统。",
+    "modernUsage": "在社交媒体和科技语境下流行，如 GPS 应用，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个山顶上的灯塔在夜晚闪耀，引导失落的船只。",
+      "keyElements": [
+        "灯塔",
+        "光芒",
+        "导航"
+      ],
+      "emotionalConnection": "联结个人经历中的方向感或希望时刻，以强化情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'beacon' 联想为 'be a con'，意为 '成为一个骗局的相反，即指导'。",
+        "explanation": "通过对比法减少混淆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈbiːkən/ 听起来像 'bee can'，想象蜜蜂能找到方向。",
+        "explanation": "利用声音与图像的联觉增强词汇保留"
+      }
+    ],
+    "wordAssociations": [
+      "light",
+      "guide",
+      "signal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "beacons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "beaconing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Subject] as a beacon",
+        "description": "用作名词，表示比喻性指导",
+        "examples": [
+          "She served as a beacon for the team."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: to beacon something",
+        "description": "用作动词，表示发出信号",
+        "examples": [
+          "The tower beacons the way."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'bacon'",
+        "correction": "Use 'beacon' for signals",
+        "explanation": "语音相似可能导致混淆；建议通过发音练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'beaconing' for present participle",
+        "explanation": "初级学习者常遗漏动词变形；强调语境练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "history",
+      "literature"
+    ],
+    "tags": [
+      "signaling",
+      "guidance",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

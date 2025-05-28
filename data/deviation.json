@@ -1,0 +1,241 @@
+{
+  "word": "deviation",
+  "phonetics": {
+    "british": "/ˌdiːviˈeɪʃən/",
+    "american": "/ˌdiːviˈeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of departing from an established or usual course or standard.",
+      "chineseTranslation": "偏差；偏离",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics, the difference between an observed value and the mean of a set of values.",
+      "chineseTranslation": "偏差（统计学意义）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "standard deviation",
+      "meaning": "标准偏差",
+      "example": "The standard deviation of the test scores indicates the variability in student performance.",
+      "exampleTranslation": "测试分数的标准偏差表明了学生表现的变异性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "deviation from the norm",
+      "meaning": "从规范的偏离",
+      "example": "Her deviation from the norm in fashion design made her collections stand out.",
+      "exampleTranslation": "她在时尚设计中对规范的偏离使她的系列脱颖而出。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pilot reported a slight deviation in the flight path due to bad weather.",
+      "translation": "飞行员报告了由于恶劣天气导致的飞行路径轻微偏差。",
+      "source": "Aviation reports (e.g., from FAA documents)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In psychology, deviation from social norms can sometimes indicate creative thinking.",
+      "translation": "在心理学中，对社会规范的偏离有时表明创造性思维。",
+      "source": "Academic psychology texts (e.g., based on APA publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The company's financial deviation from projections led to an emergency board meeting.",
+      "translation": "公司财务数据的偏差导致了紧急董事会会议。",
+      "source": "Business news (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "deviat-",
+        "meaning": "to turn aside or diverge",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'deviatio', stemming from 'deviare' (to turn out of the way), it entered Middle English via Old French in the 15th century, initially referring to physical wandering before evolving to include abstract senses like statistical variance by the 19th century.",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "deviate",
+      "deviationist",
+      "deviatory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 5,
+    "meaningComplexity": 6,
+    "usageComplexity": 7,
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一条直线突然弯曲来代表偏差；通过重复暴露于真实语境中（如统计图表）增强记忆痕迹；针对中文母语学习者，建议与类似词汇如'偏移'进行对比以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "divergence",
+        "similarity": 0.8,
+        "context": "在科学和技术语境中，用于表示从标准的分开"
+      },
+      {
+        "word": "departure",
+        "similarity": 0.7,
+        "context": "在一般或非正式语境中，表示从常规的改变"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conformity",
+        "context": "在社会或技术语境中，表示遵守标准或一致性"
+      },
+      {
+        "word": "adherence",
+        "context": "在正式语境中，表示严格遵循规则"
+      }
+    ],
+    "hypernyms": [
+      "variation"
+    ],
+    "hyponyms": [
+      "standard deviation",
+      "angular deviation"
+    ],
+    "collocations": [
+      {
+        "pattern": "deviation from",
+        "examples": [
+          "deviation from the plan",
+          "deviation from expectations"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "measure of deviation",
+        "examples": [
+          "measure of deviation in data"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征创新与规范的张力，例如在文学中代表个人叛逆，在科学中体现数据多样性；它反映了对秩序与变化的平衡重视。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于统计和商业语境中，以量化方式表达。",
+        "usage": "在美国英语中，常见于数据分析报告中，强调精确性。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术和正式语境中更常见，表达可能更注重历史或哲学含义。",
+        "usage": "在英国英语中，常用于科学论文或政策讨论中。"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，强调理性与测量；在文学如狄更斯的作品中，偏差象征社会变革。",
+    "modernUsage": "在社交媒体和数字时代，常见于讨论心理健康或AI偏差问题，如算法偏差在Twitter上的争论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个箭头从直线路径上突然转向，代表从预定路线的偏离。",
+      "keyElements": [
+        "箭头",
+        "路径",
+        "转向"
+      ],
+      "emotionalConnection": "联结到个人经历中的意外改变，如旅行中路线偏差带来的新发现，以增强情感记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'deviation'联想为'deviate'（偏离）加上'-ion'（动作后缀），想象一个物体在偏离后形成波浪。",
+        "explanation": "通过空间联想和词汇分解，利用认知科学中的视觉-语言整合来强化长期记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "'Deviation'听起来像'deviate + ion'，联想到电子在磁场中偏离路径。",
+        "explanation": "利用声音与图像的联觉，帮助母语为中文的学习者通过熟悉的科学概念桥接记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "diverge",
+      "stray",
+      "vary"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "deviations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Deviation from [noun]",
+        "description": "表示从特定标准或规范的偏离，常用于名词短语中。",
+        "examples": [
+          "Deviation from the rules"
+        ]
+      },
+      {
+        "pattern": "[Subject] causes deviation",
+        "description": "用于句子中描述原因，常见于正式语境。",
+        "examples": [
+          "Bad weather causes deviation in flight paths"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'deviation' with 'deviate' as a verb",
+        "correction": "Use 'deviation' for the noun and 'deviate' for the verb",
+        "explanation": "中文学习者常混淆词性；'deviate'是动词（如to deviate from），而'deviation'是名词。"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for neutral or technical use",
+        "explanation": "在非正式对话中，改用简单词汇如'change'以避免生硬。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; ranked approximately 5,000 in COCA corpus with around 10,000 occurrences",
+    "domains": [
+      "Science",
+      "Statistics",
+      "Business",
+      "Psychology"
+    ],
+    "tags": [
+      "Variation",
+      "Error",
+      "Measurement",
+      "Divergence"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

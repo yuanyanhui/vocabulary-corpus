@@ -1,0 +1,279 @@
+{
+  "word": "witness",
+  "phonetics": {
+    "british": "/ˈwɪtnəs/",
+    "american": "/ˈwɪtnəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who sees an event take place and can give a firsthand account of it.",
+      "chineseTranslation": "目击者；证人",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Evidence or a sign of something.",
+      "chineseTranslation": "证据；迹象",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To see or know by personal experience.",
+      "chineseTranslation": "目击；见证",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To be present at or take part in an event as a witness, often in a legal context.",
+      "chineseTranslation": "作证；出席见证",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "witness protection",
+      "meaning": "证人保护程序",
+      "example": "The government provides witness protection for those who testify against criminals.",
+      "exampleTranslation": "政府为那些对罪犯作证的人提供证人保护。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "eye witness",
+      "meaning": "目击证人",
+      "example": "The eye witness described the suspect's appearance in detail.",
+      "exampleTranslation": "目击证人详细描述了嫌疑人的外貌。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "bear witness",
+      "meaning": "作证或证明某事",
+      "example": "She bore witness to the accident in court.",
+      "exampleTranslation": "她在法庭上对事故作证。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The witness testified in court that he saw the defendant at the scene.",
+      "translation": "证人在法庭上作证说他看到被告人在现场。",
+      "source": "Legal proceedings (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We were witnesses to a historic event when the peace treaty was signed.",
+      "translation": "当和平条约签订时，我们见证了一个历史性事件。",
+      "source": "News article (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The old photograph serves as a witness to the changes in the city over the years.",
+      "translation": "这张老照片作为城市多年变化的证据。",
+      "source": "Literary work (e.g., from general corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She witnessed the joy on her child's face when he opened the gift.",
+      "translation": "她见证了孩子打开礼物时的喜悦。",
+      "source": "Daily conversation (e.g., from everyday corpora)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "wit",
+        "meaning": "knowledge or intelligence",
+        "language": "Old English (from Proto-Germanic *wit-)"
+      },
+      {
+        "root": "ness",
+        "meaning": "state or condition",
+        "language": "Old English (from Proto-Germanic *nis-)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'gewitnes'，意为 '知识或证词'，演变为现代英语 'witness'，最初与智慧和观察相关，后来扩展到法律和个人经历语境中，反映了从认知到证实的语义转变。",
+    "firstKnownUse": "约公元前 1000 年，在盎格鲁-撒克逊时期",
+    "relatedWords": [
+      "testify",
+      "evidence",
+      "observe"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，使用分块学习法，将 'witness' 与个人经历关联，如回想一次目击事件，以增强记忆痕迹；",
+      "采用双编码策略，将词汇与视觉图像配对，例如想象一个法庭场景，以改善海马体记忆；",
+      "通过间隔重复系统复习，针对中间级学习者，逐步增加语境复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "observer",
+        "similarity": "0.8",
+        "context": "在非正式场合用于描述目击者，例如日常生活事件"
+      },
+      {
+        "word": "spectator",
+        "similarity": "0.7",
+        "context": "适用于娱乐或公共事件，如体育比赛"
+      },
+      {
+        "word": "testifier",
+        "similarity": "0.9",
+        "context": "在法律语境中，强调正式作证"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignorant",
+        "context": "表示不知情或未目击的语境，例如 'He was ignorant of the events.'"
+      },
+      {
+        "word": "overlooker",
+        "context": "非正式场合，表示忽略或未注意"
+      }
+    ],
+    "hypernyms": [
+      "observer",
+      "participant"
+    ],
+    "hyponyms": [
+      "eye witness",
+      "expert witness"
+    ],
+    "collocations": [
+      {
+        "pattern": "witness + noun (e.g., witness statement)",
+        "examples": [
+          "He provided a witness statement to the police."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + witness (e.g., to witness an event)",
+        "examples": [
+          "They witnessed the ceremony firsthand."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与法律公正和个人诚信相关联，象征着真相和证词的可靠性，例如在法庭戏剧中代表道德责任。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更强调正式法律语境",
+        "usage": "在英国，常用于刑事审判中，体现历史悠久的普通法传统"
+      },
+      {
+        "region": "United States",
+        "variation": "扩展到媒体和新闻报道",
+        "usage": "在美国，经常出现在电视新闻中，反映民主社会对目击证词的依赖"
+      }
+    ],
+    "historicalContext": "与英国普通法系统相关，源自中世纪的审判实践，在文学如莎士比亚的作品中出现，体现社会对证词的重视。",
+    "modernUsage": "在社交媒体时代，常用于在线事件报道，例如 '#witness' 标签在推特上传播实时新闻趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个法庭场景，其中一个人手持放大镜观察事件",
+      "keyElements": [
+        "法庭",
+        "放大镜",
+        "事件发生"
+      ],
+      "emotionalConnection": "联结到个人的一次目击经历，如交通事故，以触发情绪记忆并增强保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'witness' 联想为 'with-ness'，意思是 '与...在一起的知识'",
+        "explanation": "通过词根分解，结合视觉联想，帮助中间级学习者构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈwɪtnəs/ 听起来像 'win test'，代表 '赢得测试' 的证据",
+        "explanation": "利用声音相似性，创建有趣的联想以提高认知参与度"
+      }
+    ],
+    "wordAssociations": [
+      "observe",
+      "testify",
+      "evidence"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "witnesses",
+      "pastTense": "witnessed",
+      "pastParticiple": "witnessed",
+      "presentParticiple": "witnessing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "She witnessed the accident."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词的短语结构",
+        "examples": [
+          "The witness in the case was reliable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'witness' as an adjective",
+        "correction": "Use it as a noun or verb only",
+        "explanation": "学习者常错误地将它用作形容词；正确时需搭配适当的句法"
+      },
+      {
+        "mistake": "Confusing with 'witnesses' plural form",
+        "correction": "Add -es for plural",
+        "explanation": "中文母语学习者可能忽略英语名词复数规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "legal",
+      "news",
+      "daily conversation"
+    ],
+    "tags": [
+      "law",
+      "observation",
+      "evidence"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

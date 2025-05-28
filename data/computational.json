@@ -1,0 +1,256 @@
+{
+  "word": "computational",
+  "phonetics": {
+    "british": "/ˌkɒm.pjʊˈteɪ.ʃən.əl/",
+    "american": "/ˌkɑːm.pjʊˈteɪ.ʃən.əl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or involving computation, especially in the context of computers, algorithms, or mathematical processes.",
+      "chineseTranslation": "计算的；计算机的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Pertaining to the use of computers to solve problems or perform simulations.",
+      "chineseTranslation": "涉及计算机计算的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computational linguistics",
+      "meaning": "计算语言学",
+      "example": "Computational linguistics is a field that applies computer science to language analysis.",
+      "exampleTranslation": "计算语言学是将计算机科学应用于语言分析的领域。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "computational model",
+      "meaning": "计算模型",
+      "example": "The team developed a computational model to simulate climate change.",
+      "exampleTranslation": "团队开发了一个计算模型来模拟气候变化。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "computational power",
+      "meaning": "计算能力",
+      "example": "Modern supercomputers provide immense computational power for complex tasks.",
+      "exampleTranslation": "现代超级计算机为复杂任务提供巨大的计算能力。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The research focuses on computational methods to optimize data processing.",
+      "translation": "该研究专注于计算方法来优化数据处理。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, computational tools help us navigate traffic more efficiently.",
+      "translation": "在日常生活中，计算工具帮助我们更有效地导航交通。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Computational errors can lead to significant problems in scientific simulations.",
+      "translation": "计算错误可能导致科学模拟中的重大问题。",
+      "source": "Technical report",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "compute",
+        "meaning": "to calculate or reckon",
+        "language": "Latin (from 'computare', meaning to sum up)"
+      },
+      {
+        "root": "-al",
+        "meaning": "pertaining to or characterized by",
+        "language": "Latin (suffix forming adjectives)"
+      }
+    ],
+    "historicalDevelopment": "The word evolved from Latin 'computare' (to compute), which entered Old French as 'compter', then into Middle English as 'compute' in the 15th century. The suffix '-al' was added in the 19th century to form adjectives, reflecting the rise of mechanical and later digital computation during the Industrial Revolution.",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "computation",
+      "computer",
+      "compute",
+      "calculational"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一台计算机在处理数据，以增强记忆定型。",
+      "通过间隔重复系统（Spaced Repetition System）复习词汇及其语境，以利用遗忘曲线原理。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "calculative",
+        "similarity": "0.7",
+        "context": "在数学或数据处理语境中"
+      },
+      {
+        "word": "algorithmic",
+        "similarity": "0.8",
+        "context": "涉及算法和计算机程序的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analog",
+        "context": "在数字 vs. 模拟技术语境中"
+      },
+      {
+        "word": "manual",
+        "context": "在自动化 vs. 手工操作语境中"
+      }
+    ],
+    "hypernyms": [
+      "technical",
+      "adjectival"
+    ],
+    "hyponyms": [
+      "algorithmic",
+      "numerical"
+    ],
+    "collocations": [
+      {
+        "pattern": "computational + noun (e.g., computational science)",
+        "examples": [
+          "computational thinking",
+          "computational biology"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + computational (e.g., highly computational)",
+        "examples": [
+          "intensely computational tasks"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征着现代科技时代的数据驱动和人工智能发展，在西方文化中代表创新和效率，尤其在硅谷文化中隐含快速计算的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于非正式科技讨论中",
+        "usage": "在美国英语中，常出现在商业和教育语境，如科技公司报告"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "表达更正式，强调学术方面",
+        "usage": "在英国英语中，常见于大学课程和科学出版物"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，起源于二战时期的加密和模拟技术，在冷战期间成为科学领域的关键术语。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论AI和大数据趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个忙碌的计算机实验室，屏幕上显示快速计算的数字和图形。",
+      "keyElements": [
+        "计算机屏幕",
+        "数据流",
+        "算法图表"
+      ],
+      "emotionalConnection": "联想到科技进步带来的成就感或日常便利，例如使用手机导航"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'computational' 联想为 'computer + national'，想象计算机在'国家'级任务中计算。",
+        "explanation": "通过声音和语义联想强化记忆，基于认知联想原理。"
+      },
+      {
+        "type": "缩略",
+        "content": "C-O-M-P-U-T-E + AL = 计算工具",
+        "explanation": "分解词根以创建缩略形式，帮助构建长期记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "computer",
+      "calculation",
+      "algorithm",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more computational",
+      "superlative": "most computational"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun + computational (e.g., computational approach)",
+        "description": "用作定语修饰名词，表示与计算相关的特性",
+        "examples": [
+          "This is a computational method."
+        ]
+      },
+      {
+        "pattern": "Be verb + computational (e.g., is computational)",
+        "description": "用于主语描述，表示本质属性",
+        "examples": [
+          "The process is highly computational."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'computer'",
+        "correction": "Use 'computational' for processes, not devices",
+        "explanation": "学习者常误用为名词；需记住它是形容词，源自计算概念。"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more computational' instead of '*computationaler'",
+        "explanation": "作为三音节形容词，使用 'more' 形成比较级。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "Science",
+      "Technology",
+      "Computing",
+      "Education"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "computing",
+      "mathematics"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

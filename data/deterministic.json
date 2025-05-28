@@ -1,0 +1,237 @@
+{
+  "word": "deterministic",
+  "phonetics": {
+    "british": "/dɪˌtɜːmɪˈnɪstɪk/",
+    "american": "/dɪˌtɝːmɪˈnɪstɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the doctrine that all events, including human actions, are determined by preceding causes or natural laws, leaving no room for free will.",
+      "chineseTranslation": "与决定论相关的，指所有事件都由先前原因或自然法则决定，没有自由意志的空间。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing and mathematics, describing a system, algorithm, or process that produces the same output for a given input every time, without randomness.",
+      "chineseTranslation": "在计算机和数学中，指系统、算法或过程对给定输入总是产生相同输出，没有随机性。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deterministic system",
+      "meaning": "决定论系统，指行为完全由初始条件决定的系统。",
+      "example": "In physics, a deterministic system can predict future states based on initial conditions.",
+      "exampleTranslation": "在物理学中，一个决定论系统可以基于初始条件预测未来的状态。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "deterministic algorithm",
+      "meaning": "决定论算法，指每次运行输入相同时输出都相同的算法。",
+      "example": "A deterministic algorithm is essential for reliable simulations in engineering.",
+      "exampleTranslation": "决定论算法在工程模拟中至关重要，因为它能确保可靠性。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of a deterministic universe has been debated in philosophy for centuries.",
+      "translation": "决定论宇宙的概念在哲学中已经被争论了几个世纪。",
+      "source": "Philosophical literature, such as works by Laplace",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Programmers often prefer deterministic algorithms to avoid unexpected results in software testing.",
+      "translation": "程序员通常更喜欢决定论算法，以避免软件测试中的意外结果。",
+      "source": "Technical articles from sources like IEEE",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a deterministic model, every cause leads to a predictable effect.",
+      "translation": "在一个决定论模型中，每一个原因都会导致可预测的效果。",
+      "source": "Scientific journals, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "determin-",
+        "meaning": "To limit or fix",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'determinare'，意为限制或决定。该词在19世纪哲学中发展，用于描述事件由先前原因决定的理论，后来扩展到科学和技术领域，如计算机科学中表示可预测性。",
+    "firstKnownUse": "1846",
+    "relatedWords": [
+      "determine",
+      "determination",
+      "determinism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'deterministic' 与相关概念如 'random' 分离存储；通过重复曝光于技术语境中增强语义记忆；利用双编码理论，将词汇与视觉图像（如钟表机制）关联，以改善长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "predictable",
+        "similarity": "0.8",
+        "context": "在科学和技术语境中适用，例如预测系统行为"
+      },
+      {
+        "word": "inevitable",
+        "similarity": "0.7",
+        "context": "在哲学语境中用于描述不可避免的事件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "random",
+        "context": "在技术语境中，指不确定的过程，如随机算法"
+      },
+      {
+        "word": "stochastic",
+        "context": "在统计和计算机语境中，指涉及概率的系统"
+      }
+    ],
+    "hypernyms": [
+      "predictable"
+    ],
+    "hyponyms": [
+      "causal"
+    ],
+    "collocations": [
+      {
+        "pattern": "deterministic + noun (e.g., system, algorithm)",
+        "examples": [
+          "deterministic system",
+          "deterministic model"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + deterministic (e.g., fully deterministic)",
+        "examples": [
+          "fully deterministic process"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征哲学上的决定论与自由意志的辩论，常隐含对人类行为可预测性的质疑；在东方文化如中国，可能与儒家命运论相关联，但使用较少。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，强调实际应用，如AI算法"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重哲学和学术语境",
+        "usage": "在英国英语中，常与历史哲学讨论结合"
+      }
+    ],
+    "historicalContext": "与18世纪启蒙运动相关，如拉普拉斯妖思想，反映工业革命后对科学确定性的追求；在现代，与量子力学不确定性原理形成对比。",
+    "modernUsage": "在社交媒体和科技讨论中流行，用于描述AI和机器学习，但需注意跨文化理解，以避免对自由意志的误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个精确的齿轮机器，每次输入都导致相同的输出运转，没有变数。",
+      "keyElements": [
+        "齿轮",
+        "机器",
+        "固定路径"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆钟表或自动化过程，触发对控制和预见性的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'deterministic' as 'determined + stick' – it sticks to one outcome.",
+        "explanation": "通过联想将词汇与 'determined' 的决心概念连接，增强认知关联"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/dɪˌtɜːmɪˈnɪstɪk/' 像 'dee-term-in-stick'，想象一根棍子固定事物。",
+        "explanation": "利用声音与视觉联觉，帮助记忆词汇的发音和含义"
+      }
+    ],
+    "wordAssociations": [
+      "predictable",
+      "fixed",
+      "inevitable"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more deterministic",
+      "superlative": "most deterministic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + deterministic",
+        "description": "用于描述主语的属性，例如 'The algorithm is deterministic.'",
+        "examples": [
+          "The system is deterministic in its operations."
+        ]
+      },
+      {
+        "pattern": "deterministic + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A deterministic approach to problem-solving."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'determined' as a verb form",
+        "correction": "Use 'deterministic' only as an adjective",
+        "explanation": "学习者常混淆其形容词性质；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overgeneralizing to mean 'certain' in everyday contexts",
+        "correction": "Restrict to technical or philosophical uses",
+        "explanation": "由于语义复杂度，初级学习者可能误用；强调语域重要性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "philosophy",
+      "science"
+    ],
+    "tags": [
+      "technical",
+      "philosophical",
+      "adjective"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

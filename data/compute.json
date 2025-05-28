@@ -1,0 +1,260 @@
+{
+  "word": "compute",
+  "phonetics": {
+    "british": "/kəmˈpjuːt/",
+    "american": "/kəmˈpjuːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To calculate or reckon a figure or amount, often using mathematical methods or algorithms.",
+      "chineseTranslation": "计算",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To process data using a computer or computational system.",
+      "chineseTranslation": "处理数据",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of computing, especially in the context of information technology.",
+      "chineseTranslation": "计算过程",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "compute a value",
+      "meaning": "计算一个数值",
+      "example": "The software can compute a value based on user input.",
+      "exampleTranslation": "软件可以根据用户输入计算一个数值。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "parallel compute",
+      "meaning": "并行计算",
+      "example": "Parallel compute speeds up data processing in high-performance computing.",
+      "exampleTranslation": "并行计算加速了高性能计算中的数据处理。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "compute resources",
+      "meaning": "计算资源",
+      "example": "Cloud services provide scalable compute resources for businesses.",
+      "exampleTranslation": "云服务为企业提供可扩展的计算资源。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers must compute the structural integrity before building the bridge.",
+      "translation": "工程师必须在建造桥梁之前计算其结构完整性。",
+      "source": "Engineering textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The algorithm can compute complex equations in seconds.",
+      "translation": "该算法可以在几秒内计算复杂的方程。",
+      "source": "Technology article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, we compute vast amounts of data daily.",
+      "translation": "在现代计算中，我们每天计算大量数据。",
+      "source": "Scientific journal",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "computare",
+        "meaning": "to reckon together",
+        "language": "Latin"
+      },
+      {
+        "root": "putare",
+        "meaning": "to think or reckon",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'computare'，意为 '一起计算'，由前缀 'com-'（一起）和 'putare'（计算或思考）组成。该词传入古法语 'compter'，然后在17世纪进入英语，用于表示数学计算。随着计算机技术的兴起，其含义扩展到数据处理和计算过程。",
+    "firstKnownUse": "1631",
+    "relatedWords": [
+      "computer",
+      "computation",
+      "compute-intensive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与实际计算设备（如计算器）进行视觉联想，以增强记忆；使用间隔重复法复习，关联个人经历如使用手机计算器，以减少遗忘率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "calculate",
+        "similarity": "0.8",
+        "context": "适用于数学或精确计算的语境，例如在科学领域"
+      },
+      {
+        "word": "reckon",
+        "similarity": "0.7",
+        "context": "适用于非正式或估算的语境，例如日常对话"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "estimate",
+        "context": "适用于需要近似值而非精确计算的语境，例如商业预测"
+      },
+      {
+        "word": "guess",
+        "context": "适用于非正式、非精确的语境，例如随意推测"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "calculate"
+    ],
+    "hyponyms": [
+      "add",
+      "multiply",
+      "integrate"
+    ],
+    "collocations": [
+      {
+        "pattern": "compute + noun (e.g., compute data)",
+        "examples": [
+          "compute data",
+          "compute results"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "compute in + context (e.g., compute in real-time)",
+        "examples": [
+          "compute in real-time"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征着技术进步和理性思维，尤其在工业革命和数字时代，代表了人类对计算能力的依赖。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如云计算",
+        "usage": "在美国英语中，'compute' 经常出现在科技行业和商业讨论中，以强调效率和数据处理"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式或学术语境",
+        "usage": "在英国英语中，'compute' 可能更常用于数学或工程领域，与历史悠久的科学传统相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机发明相关联，例如艾伦·图灵的工作推动了'compute' 在二战后的流行。",
+    "modernUsage": "在现代社交媒体和数字平台上，'compute' 常用于讨论人工智能和云计算趋势，例如在Twitter或LinkedIn上的科技话题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个计算器在屏幕上显示数字的过程，代表词汇的计算含义。",
+      "keyElements": [
+        "计算器",
+        "数字显示",
+        "数据流"
+      ],
+      "emotionalConnection": "联结个人经验，如使用智能手机计算账单，以触发积极的学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'compute' 联想为 'computer' 的根源，就像树根一样支持整个技术树。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/kəmˈpjuːt/' 听起来像 'come put'，想象把数字放进计算器。",
+        "explanation": "利用声音和动作的联结，提高听觉记忆的持久性"
+      }
+    ],
+    "wordAssociations": [
+      "calculator",
+      "data",
+      "algorithm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "computed",
+      "pastParticiple": "computed",
+      "presentParticiple": "computing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + compute + object",
+        "description": "主语 + 动词 + 宾语 的结构，常用于描述计算动作",
+        "examples": [
+          "We compute the results."
+        ]
+      },
+      {
+        "pattern": "Compute + in + context",
+        "description": "表示在特定环境中计算",
+        "examples": [
+          "Compute in real-time."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'compute' with 'computer'",
+        "correction": "Use 'compute' as a verb for the action, and 'computer' as a noun for the device.",
+        "explanation": "二者虽相关，但前者是动词形式，学习者需注意词性区分以避免语义混淆"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'computes' for plural subjects",
+        "correction": "Ensure subject-verb agreement, e.g., 'They compute' instead of 'They computes'.",
+        "explanation": "基于英语语法规则，动词需与主语一致"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "mathematics",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "data processing",
+      "algorithm"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

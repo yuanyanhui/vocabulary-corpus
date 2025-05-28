@@ -1,0 +1,239 @@
+{
+  "word": "heuristic",
+  "phonetics": {
+    "british": "/hjʊəˈrɪstɪk/ or /hjuːˈrɪstɪk/",
+    "american": "/hjʊˈrɪstɪk/ or /hjuːˈrɪstɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a method of problem-solving that involves trial and error or rule-of-thumb techniques, often used in computing and artificial intelligence to find approximate solutions.",
+      "chineseTranslation": "与启发式方法相关的；通过实验或经验法则解决问题的方法",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A heuristic method or process; a practical approach to problem-solving that prioritizes speed over accuracy.",
+      "chineseTranslation": "启发式方法或过程；一种注重速度而非精确性的实用问题解决方法",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "heuristic approach",
+      "meaning": "启发式方法",
+      "example": "In machine learning, a heuristic approach is often used to optimize algorithms.",
+      "exampleTranslation": "在机器学习中，启发式方法经常用于优化算法。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "heuristic search",
+      "meaning": "启发式搜索",
+      "example": "Heuristic search algorithms help in navigating complex data structures efficiently.",
+      "exampleTranslation": "启发式搜索算法有助于高效导航复杂的數據结构。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers often employ heuristic methods to troubleshoot issues in real-time.",
+      "translation": "工程师们经常使用启发式方法来实时解决问题。",
+      "source": "Technical literature, such as IEEE publications",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, a heuristic can be as simple as using past experiences to make quick decisions.",
+      "translation": "在日常生活中，启发式方法可以简单到使用过去的经验来做出快速决定。",
+      "source": "General psychology texts, like those from APA",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The AI system's heuristic evaluation led to a 20% improvement in performance.",
+      "translation": "该AI系统的启发式评估导致了性能提升20%。",
+      "source": "News articles from technology sectors, e.g., The New York Times",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "heuriskein",
+        "meaning": "to find or discover",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek 'heuriskein', meaning 'to find'. It was adopted into English in the 19th century through philosophical and scientific contexts, evolving from its original sense in ancient rhetoric to modern applications in cognitive psychology and computer science, where it now emphasizes practical, exploratory problem-solving.",
+    "firstKnownUse": "1660s, in philosophical texts",
+    "relatedWords": [
+      "eureka",
+      "discovery"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (Upper Intermediate)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "将词汇与实际问题解决场景关联，利用认知锚定技术，例如想象日常生活中的试错过程；通过重复暴露于技术语境中增强记忆痕迹，根据斯宾塞的认知学习理论逐步增加复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "empirical",
+        "similarity": "0.8",
+        "context": "适用于实验性或基于经验的语境中"
+      },
+      {
+        "word": "intuitive",
+        "similarity": "0.7",
+        "context": "适用于快速决策或本能判断的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "algorithmic",
+        "context": "适用于精确、步骤明确的计算方法，与启发式的试错方法相对"
+      },
+      {
+        "word": "deductive",
+        "context": "适用于逻辑推理严谨的科学或哲学语境中"
+      }
+    ],
+    "hypernyms": [
+      "method",
+      "approach"
+    ],
+    "hyponyms": [
+      "trial-and-error",
+      "rule-of-thumb"
+    ],
+    "collocations": [
+      {
+        "pattern": "heuristic + noun (e.g., method, algorithm)",
+        "examples": [
+          "heuristic method",
+          "heuristic algorithm"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + heuristic (e.g., simple heuristic)",
+        "examples": [
+          "simple heuristic",
+          "advanced heuristic"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征创新和实用主义，尤其在科技和教育领域，体现出对实验性思维的重视；在中国文化中，可与'摸着石头过河'的隐喻关联，代表渐进式探索。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in tech and business contexts with a focus on efficiency.",
+        "usage": "在美国，常用于AI和商业决策中，强调快速迭代。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Slightly more formal, often in academic settings.",
+        "usage": "在英国，更多见于哲学和教育讨论中。"
+      }
+    ],
+    "historicalContext": "该词与古希腊哲学家如苏格拉底的探索精神相关，在20世纪与计算机科学兴起相结合；在中国，现代表现为创新驱动发展的文化叙事。",
+    "modernUsage": "在社交媒体和在线教育中，该词常用于讨论AI伦理和问题解决策略，反映全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个探险家在使用试错方法穿越迷宫的场景。",
+      "keyElements": [
+        "探险家",
+        "迷宫",
+        "试错"
+      ],
+      "emotionalConnection": "联结个人经历中类似决策时刻的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Heuristic sounds like 'your risk' – taking risks to find solutions.",
+        "explanation": "通过声音联想将词汇与风险决策联系，利用Paivio的双编码理论加强视觉和听觉记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "H-E-U-R: Help Explore Useful Routes.",
+        "explanation": "使用缩略词帮助构建结构化记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "discovery",
+      "innovation",
+      "problem-solving"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more heuristic",
+      "superlative": "most heuristic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + heuristic",
+        "description": "作为形容词修饰名词的结构",
+        "examples": [
+          "This is a heuristic technique."
+        ]
+      },
+      {
+        "pattern": "Heuristic + of + noun",
+        "description": "表示方法的结构",
+        "examples": [
+          "Heuristic of problem-solving."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'hierarchical'",
+        "correction": "Use 'heuristic' for trial-based methods.",
+        "explanation": "这两个词发音相似，但语义不同；学习者应注意语境区分。"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Reserve for appropriate problem-solving scenarios.",
+        "explanation": "中级学习者常错误泛化，建议通过语料库练习识别语域。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in COCA corpus",
+    "domains": [
+      "technology",
+      "education",
+      "psychology"
+    ],
+    "tags": [
+      "cognitive",
+      "problem-solving",
+      "AI"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

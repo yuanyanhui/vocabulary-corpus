@@ -1,0 +1,238 @@
+{
+  "word": "extrapolate",
+  "phonetics": {
+    "british": "/ɪkˈstræpəleɪt/",
+    "american": "/ɪkˈstræpəleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To estimate or infer something beyond the known data by extending patterns or trends observed in the existing information.",
+      "chineseTranslation": "推断；外推",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To project or predict future outcomes based on historical data, often used in scientific, statistical, or analytical contexts.",
+      "chineseTranslation": "预测；推测",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "extrapolate from data",
+      "meaning": "基于数据进行推断",
+      "example": "Scientists often extrapolate from data to predict climate changes.",
+      "exampleTranslation": "科学家们经常基于数据推断气候变化。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "extrapolate trends",
+      "meaning": "外推趋势",
+      "example": "Economists extrapolate trends to forecast market behavior.",
+      "exampleTranslation": "经济学家们外推趋势来预测市场行为。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Based on the sales figures from the past five years, we can extrapolate that profits will increase next quarter.",
+      "translation": "基于过去五年的销售数据，我们可以推断下个季度利润将增加。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In historical analysis, historians sometimes extrapolate events from limited artifacts to reconstruct ancient societies.",
+      "translation": "在历史分析中，历史学家有时基于有限的文物推断事件来重建古代社会。",
+      "source": "Academic text (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Don't just extrapolate from one experiment; we need more evidence to confirm the hypothesis.",
+      "translation": "不要仅基于一个实验进行推断；我们需要更多证据来证实假设。",
+      "source": "Scientific discussion (e.g., from scientific journals)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "extra-",
+        "meaning": "outside or beyond",
+        "language": "Latin"
+      },
+      {
+        "root": "polare",
+        "meaning": "to smooth or polish",
+        "language": "Latin (derived from Greek influence)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'extra-'（意思是“外部”或“超出”）和 'polare'（意思是“平滑”或“抛光”），最初用于数学和几何学中扩展数据点的概念。19世纪时，该词被引入英语，用于统计和科学预测，从单纯的数学外推演变为更广泛的推断过程。",
+    "firstKnownUse": "1819",
+    "relatedWords": [
+      "interpolate",
+      "extrapolation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，如使用分块学习（chunking）将 'extrapolate' 与 'extra'（额外）和 'polate'（类似于推断）关联，以增强记忆；对于中文母语学习者，建议通过视觉化场景将词汇与数据图表联系，减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "infer",
+        "similarity": "0.8",
+        "context": "适用于科学或数据分析语境中，需要基于证据进行推断"
+      },
+      {
+        "word": "deduce",
+        "similarity": "0.7",
+        "context": "常用于逻辑推理或正式讨论中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "interpolate",
+        "context": "适用于在现有数据中插入新值，而非外推"
+      }
+    ],
+    "hypernyms": [
+      "estimate",
+      "predict"
+    ],
+    "hyponyms": [
+      "linear extrapolation",
+      "statistical extrapolation"
+    ],
+    "collocations": [
+      {
+        "pattern": "extrapolate [something] from [source]",
+        "examples": [
+          "extrapolate conclusions from evidence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "extrapolate to [future scenario]",
+        "examples": [
+          "extrapolate to future trends"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征理性分析和科学方法，常隐含对数据驱动决策的重视；在跨文化语境中，中国学习者可能将其与本土预测工具（如占卜或传统预言）对比，以增强理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于商业和科技语境",
+        "usage": "在美国英语中，常在数据驱动的决策中出现，如商业预测"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向学术和科学语境",
+        "usage": "在英国英语中，强调历史和理论基础"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和科学方法的兴起相关，常出现在统计学和数学文献中；例如，在达尔文进化论中，类似概念用于推断物种演变。",
+    "modernUsage": "在现代社交媒体和数字时代，该词常用于数据分析工具（如AI预测），反映了对大数据的依赖趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家站在数据图表外，延伸线条到未来场景中。",
+      "keyElements": [
+        "数据图表",
+        "延伸线条",
+        "未来预测"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆 childhood games of extending patterns, 以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Extra + Polate = Extend the pole (像延长杆子一样外推)",
+        "explanation": "通过视觉联想 'extra' 表示额外延伸， 'polate' 联想到 'pole'（杆子），帮助中文母语者记忆词汇结构"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Extrapolate sounds like 'extra play late' (额外玩耍到晚)",
+        "explanation": "将发音与晚间额外活动联想，代表扩展到更远的时间或数据"
+      }
+    ],
+    "wordAssociations": [
+      "predict",
+      "forecast",
+      "infer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "extrapolated",
+      "pastParticiple": "extrapolated",
+      "presentParticiple": "extrapolating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + extrapolate + from + object",
+        "description": "主语从对象中进行推断的结构",
+        "examples": [
+          "We extrapolate from the data."
+        ]
+      },
+      {
+        "pattern": "Extrapolate + to + future reference",
+        "description": "用于预测未来的句法",
+        "examples": [
+          "Extrapolate to next year."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'interpolate'",
+        "correction": "Use 'extrapolate' for extending beyond data",
+        "explanation": "中文学习者常混淆二者；'extrapolate' 强调超出现有数据，而 'interpolate' 是插入数据间隙"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'extrapolated'",
+        "explanation": "在句中需注意动词时态一致性，以避免时间序列错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "business",
+      "academics"
+    ],
+    "tags": [
+      "mathematics",
+      "prediction",
+      "analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

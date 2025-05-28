@@ -1,0 +1,253 @@
+{
+  "word": "stateless",
+  "phonetics": {
+    "british": "/ˈsteɪtləs/",
+    "american": "/ˈsteɪt.ləs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not recognized as a citizen of any country; lacking a nationality or state affiliation.",
+      "chineseTranslation": "无国籍的；没有国家的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, not storing or maintaining any information about previous interactions; session-independent.",
+      "chineseTranslation": "（在计算机术语中）无状态的；不保存先前交互信息的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stateless person",
+      "meaning": "无国籍人士",
+      "example": "A stateless person often faces challenges in accessing basic rights like education and healthcare.",
+      "exampleTranslation": "一个无国籍人士经常在获取教育和医疗等基本权利方面面临挑战。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "stateless nation",
+      "meaning": "无国家实体支持的民族或群体",
+      "example": "The Kurdish people are often cited as an example of a stateless nation.",
+      "exampleTranslation": "库尔德人经常被视为无国家实体的民族示例。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "stateless protocol",
+      "meaning": "无状态协议",
+      "example": "HTTP is a stateless protocol, meaning each request from a client is independent.",
+      "exampleTranslation": "HTTP 是一种无状态协议，意味着每个客户端请求都是独立的。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many refugees become stateless due to conflicts that erase their national identities.",
+      "translation": "许多难民由于冲突而变得无国籍。",
+      "source": "News articles (e.g., from UNHCR reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In web development, a stateless application simplifies server management by not retaining user sessions.",
+      "translation": "在网络开发中，无状态应用通过不保留用户会话来简化服务器管理。",
+      "source": "Technical documentation (e.g., from MDN Web Docs)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The novel explores the plight of a stateless family trying to navigate international borders.",
+      "translation": "这部小说探讨了一个无国籍家庭试图穿越国际边界的困境。",
+      "source": "Literature (e.g., inspired by works like those of Graham Greene)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "state",
+        "meaning": "A political entity or condition",
+        "language": "Latin (from 'status', meaning 'standing' or 'condition')"
+      },
+      {
+        "root": "less",
+        "meaning": "Without or lacking",
+        "language": "Old English (from 'leas', meaning 'free from')"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'status' 演变为中古英语 'state'，表示政治实体；后与后缀 '-less' 结合，形成现代英语 'stateless'，最初用于描述缺乏政治归属的个体。17 世纪开始广泛用于法律和政治语境，随着全球化，该词扩展到计算机科学。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "statehood",
+      "statism",
+      "homeless"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'stateless' 与无国籍者的图像关联，以强化记忆；对于中文母语学习者，使用双语对照法，避免混淆类似词汇如 'homeless'。",
+      "通过间隔重复系统（spaced repetition）复习，确保长期保留；将词汇置于真实语境中，如新闻报道，以提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "nationless",
+        "similarity": "0.8",
+        "context": "适用于法律和政治语境中缺乏国家认同的情况"
+      },
+      {
+        "word": "unaffiliated",
+        "similarity": "0.7",
+        "context": "在组织或政治背景中，表示不隶属任何实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stateful",
+        "context": "在计算机语境中，表示保留状态的系统"
+      },
+      {
+        "word": "nationalized",
+        "context": "在政治语境中，表示获得国家认同"
+      }
+    ],
+    "hypernyms": [
+      "adjectival descriptors of status"
+    ],
+    "hyponyms": [
+      "refugee",
+      "asylum-seeker"
+    ],
+    "collocations": [
+      {
+        "pattern": "stateless + noun (e.g., person, society)",
+        "examples": [
+          "stateless individual",
+          "stateless community"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + stateless",
+        "examples": [
+          "The child was born stateless."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征国际人权议题，常与难民危机和全球化相关，隐含对国家认同的反思；在中文文化中，可能与历史事件如二战难民相联结。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于法律定义",
+        "usage": "在英国，常用于移民政策讨论"
+      },
+      {
+        "region": "United States",
+        "variation": "扩展到技术领域",
+        "usage": "在美国，常见于科技和政治辩论中"
+      }
+    ],
+    "historicalContext": "与20世纪的两次世界大战相关，词语兴起于国际法框架下，如联合国公约对无国籍者的保护。",
+    "modernUsage": "在社交媒体和数字平台上，经常用于讨论移民政策和网络安全趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个没有护照的人站在边境线上，周围是模糊的国界线。",
+      "keyElements": [
+        "边境线",
+        "无护照",
+        "模糊身份"
+      ],
+      "emotionalConnection": "联结个人移民经历或对自由的向往，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "State-less: 无国家，就像less money是无钱一样。",
+        "explanation": "通过词根联想强化 'less' 的含义，帮助中文学习者记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈsteɪtləs/ 听起来像 'stay less'，表示 'stay' 在某个地方的时间更少。",
+        "explanation": "利用声音相似性创建认知钩子，提升发音和语义保留"
+      }
+    ],
+    "wordAssociations": [
+      "refugee",
+      "nomad",
+      "anonymous"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more stateless",
+      "superlative": "most stateless"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + stateless",
+        "description": "用于描述主语的状态",
+        "examples": [
+          "The refugee is stateless."
+        ]
+      },
+      {
+        "pattern": "Stateless + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A stateless society exists in some remote areas."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'homeless'",
+        "correction": "Use 'stateless' for lack of nationality, not just lack of home",
+        "explanation": "中文学习者常混淆，因为两者均涉及 '无'，但语境不同"
+      },
+      {
+        "mistake": "Incorrect comparative form",
+        "correction": "Use 'more stateless' instead of '*statelesser'",
+        "explanation": "作为形容词，不规则比较级需遵循标准规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 10-20 occurrences per million words)",
+    "domains": [
+      "politics",
+      "law",
+      "technology",
+      "social sciences"
+    ],
+    "tags": [
+      "adjective",
+      "legal term",
+      "computing term",
+      "international relations"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

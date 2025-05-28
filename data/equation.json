@@ -1,0 +1,262 @@
+{
+  "word": "equation",
+  "phonetics": {
+    "british": "/ɪˈkweɪʒən/",
+    "american": "/ɪˈkweɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical statement that two expressions are equal, typically indicated by an equals sign (=).",
+      "chineseTranslation": "方程",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A situation or problem in which several factors must be balanced or considered together.",
+      "chineseTranslation": "等式或平衡状态",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, a symbolic representation of a chemical reaction.",
+      "chineseTranslation": "化学方程式",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "linear equation",
+      "meaning": "直线方程",
+      "example": "The linear equation y = mx + b represents a straight line on a graph.",
+      "exampleTranslation": "直线方程 y = mx + b 在图表上表示一条直线。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "quadratic equation",
+      "meaning": "二次方程",
+      "example": "Solving a quadratic equation often involves the formula x = [-b ± √(b² - 4ac)] / (2a).",
+      "exampleTranslation": "求解二次方程通常使用公式 x = [-b ± √(b² - 4ac)] / (2a)。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "balance an equation",
+      "meaning": "平衡方程式",
+      "example": "In chemistry, you must balance an equation to ensure the number of atoms is equal on both sides.",
+      "exampleTranslation": "在化学中，必须平衡方程式以确保两侧原子数量相等。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist derived the equation that explains the relationship between energy and mass.",
+      "translation": "物理学家推导出解释能量和质量关系的方程。",
+      "source": "Scientific literature (e.g., based on Einstein's work)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, managing work and family can be seen as a delicate equation.",
+      "translation": "在日常生活中，管理工作和家庭可以视为一个微妙的平衡。",
+      "source": "Modern media articles",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Students spent hours solving the complex equation in their math exam.",
+      "translation": "学生们花了几个小时在数学考试中求解这个复杂的方程。",
+      "source": "Educational contexts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The chemical equation for water formation is 2H₂ + O₂ → 2H₂O.",
+      "translation": "水形成的化学方程式是 2H₂ + O₂ → 2H₂O。",
+      "source": "Chemistry textbooks (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "aequatio",
+        "meaning": "making equal",
+        "language": "Latin"
+      },
+      {
+        "root": "aequus",
+        "meaning": "equal",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'aequatio'（意为使平等）演变而来，通过古法语 'equacion' 进入中世纪英语，最终在16世纪标准化为现代英语形式，用于数学和科学语境中，表示平衡或相等关系的概念。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "equality",
+      "equate",
+      "inequality"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，使用视觉化工具如绘图软件来构建方程模型，以加强空间记忆；建议通过重复练习和关联已有知识（如基本数学概念）来降低认知负荷，根据斯宾塞的记忆曲线定期复习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "formula",
+        "similarity": "0.8",
+        "context": "在数学或科学语境中，常用于表示结构化表达方式"
+      },
+      {
+        "word": "expression",
+        "similarity": "0.7",
+        "context": "在代数语境中，指代数学表述，但不如 'equation' 强调相等性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inequality",
+        "context": "在数学中，表示不等式或不平衡状态，如用于不等号的表达"
+      }
+    ],
+    "hypernyms": [
+      "mathematical statement"
+    ],
+    "hyponyms": [
+      "differential equation",
+      "algebraic equation"
+    ],
+    "collocations": [
+      {
+        "pattern": "solve an equation",
+        "examples": [
+          "She solved the equation quickly.",
+          "They attempted to solve the complex equation."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "form an equation",
+        "examples": [
+          "The scientist formed an equation based on experimental data."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征理性思维和科学进步，常与启蒙运动和现代教育相关联，隐含语义包括平衡与和谐。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用更偏向正式学术语境",
+        "usage": "在英国英语中，常见于教育和科学讨论中，与美国英语类似，但强调历史性语境"
+      },
+      {
+        "region": "美国",
+        "variation": "在日常和技术语境中使用更频繁",
+        "usage": "在美国英语中，常用于跨学科应用，如商业决策中 'equation of success'"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关联，例如牛顿的著作中频繁出现，反映了欧洲文化对量化知识的追求。",
+    "modernUsage": "在社交媒体和数字时代，'equation' 常用于比喻性表达，如在推特或在线论坛中讨论生活平衡，体现了全球化的文化融合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中两侧的物体代表方程的两边，必须保持平衡。",
+      "keyElements": [
+        "天平",
+        "平衡",
+        "数字符号"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆学校数学课的成就感，以触发积极情绪和强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "E-Q-U-A-T-I-O-N: 'Equal Questions Under Analysis To Investigate Outcomes Naturally'",
+        "explanation": "通过首字母缩略词形式，将词汇与分析过程关联，基于认知联想原理增强长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'equation' 的发音与 'equal nation' 联想，想象一个平等的社会。",
+        "explanation": "利用声音相似性创建心理图像，根据Paivio的双编码理论结合视觉和听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "math",
+      "solve",
+      "balance",
+      "formula"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "equations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + equation",
+        "description": "方程作为句中主语或宾语出现，常用于描述动作或状态。",
+        "examples": [
+          "The equation works perfectly."
+        ]
+      },
+      {
+        "pattern": "In + equation",
+        "description": "用于表示在方程中的位置或关系。",
+        "examples": [
+          "In the equation, x equals 5."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'equation' with 'equitation' (horse riding)",
+        "correction": "Use 'equation' for mathematical contexts",
+        "explanation": "源自拼写相似，但语义完全不同；学习者应注意语境区分"
+      },
+      {
+        "mistake": "Incorrectly forming plurals as 'equation's'",
+        "correction": "Use 'equations'",
+        "explanation": "英语名词复数规则简单，但非母语者常遗漏 's' 结尾"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "math",
+      "science",
+      "abstract concept"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

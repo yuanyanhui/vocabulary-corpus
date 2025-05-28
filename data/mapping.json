@@ -1,0 +1,253 @@
+{
+  "word": "mapping",
+  "phonetics": {
+    "british": "/ˈmæpɪŋ/",
+    "american": "/ˈmæpɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or activity of creating a map or a visual representation of an area, data, or concepts.",
+      "chineseTranslation": "绘图过程或活动",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To create a map of an area or to establish a correspondence between two sets of elements, as in mathematics or computing.",
+      "chineseTranslation": "绘制地图或建立对应关系",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "A function that associates elements of one set with elements of another set, often used in mathematics and computer science.",
+      "chineseTranslation": "映射函数，在数学和计算机科学中用于关联两个集合的元素",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mind mapping",
+      "meaning": "思维导图技术",
+      "example": "Mind mapping is a useful technique for brainstorming ideas.",
+      "exampleTranslation": "思维导图是一种有用的 brainstorm 想法的技术。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "genetic mapping",
+      "meaning": "基因定位",
+      "example": "Genetic mapping helps scientists understand inherited diseases.",
+      "exampleTranslation": "基因定位帮助科学家理解遗传疾病。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "data mapping",
+      "meaning": "数据映射",
+      "example": "Data mapping is essential in database integration processes.",
+      "exampleTranslation": "数据映射在数据库整合过程中至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The explorers spent months mapping the uncharted territory.",
+      "translation": "探险者们花了数月时间绘制那片未知的领土地图。",
+      "source": "Historical literature, such as travelogues from the 19th century",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, mapping algorithms are used to optimize search functions.",
+      "translation": "在计算机科学中，映射算法被用于优化搜索功能。",
+      "source": "Technical articles from sources like IEEE",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She created a mind mapping diagram to organize her project ideas.",
+      "translation": "她创建了一个思维导图来组织她的项目想法。",
+      "source": "Modern educational contexts, such as business training",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "mappa",
+        "meaning": "napkin or cloth",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'mappa'，最初指布料或餐巾，后来演变为指绘制的地图或图表。在中世纪，词语扩展到地理和航海领域，17 世纪起在数学和科学中用于表示对应关系，现代英语中进一步应用于计算机和认知科学。",
+    "firstKnownUse": "约 15 世纪",
+    "relatedWords": [
+      "map",
+      "remapping",
+      "topography"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，如想象绘制地图的过程，以增强空间记忆；使用间隔重复法复习不同语境下的用法，以避免混淆技术术语。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "charting",
+        "similarity": "0.8",
+        "context": "在地理或数据可视化语境中适用，常用于正式报告"
+      },
+      {
+        "word": "plotting",
+        "similarity": "0.7",
+        "context": "在绘图或规划语境中适用，适合非正式讨论"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "erasing",
+        "context": "在移除或取消对应关系的语境中适用，例如在数字编辑中"
+      },
+      {
+        "word": "distorting",
+        "context": "在扭曲或误导映射的语境中适用，如在信息误传中"
+      }
+    ],
+    "hypernyms": [
+      "representation",
+      "process"
+    ],
+    "hyponyms": [
+      "geographic mapping",
+      "conceptual mapping"
+    ],
+    "collocations": [
+      {
+        "pattern": "mapping + noun (e.g., mapping software)",
+        "examples": [
+          "using mapping software for navigation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + mapping (e.g., perform mapping)",
+        "examples": [
+          "scientists perform mapping of the genome"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国和欧洲文化中象征探索与发现，如哥伦布的航海映射代表了殖民主义时代的精神；在现代文化中，映射隐含数据隐私和全球定位的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于传统地理映射",
+        "usage": "在英国英语中，常用于历史和教育语境中强调精确性"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 GIS（Geographic Information System）",
+        "usage": "在美国英语中，映射常与创新和数字化相关联"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的探险和启蒙运动相关联，如在莎士比亚作品中隐喻知识的扩展；在20世纪，映射成为科学革命的一部分，尤其在计算机科学的发展中。",
+    "modernUsage": "在社交媒体和数字平台上，映射用于虚拟现实和数据分析的趋势日益增多，例如在 TikTok 或 LinkedIn 上讨论思维导图工具。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个探险家手持指南针和纸张，在森林中绘制地图的过程。",
+      "keyElements": [
+        "指南针",
+        "森林",
+        "纸张"
+      ],
+      "emotionalConnection": "联结个人旅行经历的兴奋感，以触发长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'mapping' 联想为 'map' + 'ping'，像乒乓球在两个点间弹跳，代表对应关系。",
+        "explanation": "通过视觉和运动联想，帮助强化词汇在不同语境中的记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-P-P-I-N-G: Make A Plan, Plot It, Navigate Gently",
+        "explanation": "使用首字母缩略法结合故事，帮助初级学习者构建叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "map",
+      "navigation",
+      "diagram"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "mappings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "mapping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., They are mapping the area)",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We are mapping the new territory."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with modifier (e.g., digital mapping techniques)",
+        "description": "名词短语加修饰语结构，用于技术描述",
+        "examples": [
+          "Advanced mapping tools are essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'mapping' with 'mopping' (cleaning floors)",
+        "correction": "Use 'mapping' for cartography or data correspondence",
+        "explanation": "发音相似可能导致混淆，通过上下文区分"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'I mapped' instead of 'I mapping'",
+        "explanation": "作为动词时需注意时态一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "tags": [
+      "cartography",
+      "data processing",
+      "mathematics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "word": "Deletable",
+  "phonetics": {
+    "british": "/dɪˈliːtəbl/",
+    "american": "/dɪˈliːtəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being deleted or removed, especially in the context of data, files, or content.",
+      "chineseTranslation": "可删除的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deletable content",
+      "meaning": "可删除的内容",
+      "example": "The software allows users to mark deletable content for easy removal.",
+      "exampleTranslation": "该软件允许用户标记可删除的内容以便轻松移除。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "deletable files",
+      "meaning": "可删除的文件",
+      "example": "In cloud storage, deletable files can be permanently erased to free up space.",
+      "exampleTranslation": "在云存储中，可删除的文件可以被永久删除以释放空间。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This feature ensures that only deletable items are removed from the database.",
+      "translation": "这个功能确保只有可删除的项目从数据库中移除。",
+      "source": "Technical documentation (e.g., from software manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern apps, users can identify deletable photos to manage their storage efficiently.",
+      "translation": "在现代应用程序中，用户可以识别可删除的照片来高效管理存储空间。",
+      "source": "General technology articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The policy states that all deletable records must be archived before deletion.",
+      "translation": "该政策规定所有可删除的记录在删除前必须归档。",
+      "source": "Business and legal contexts (e.g., from BNC corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "delet-",
+        "meaning": "to destroy or erase",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'deletus'（破坏的意思）演变而来，通过古法语和中古英语，最终在现代英语中作为 'delete' 的形容词形式 'deletable'，用于表示可被移除的状态。这种演变反映了语言对技术需求的适应。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "delete",
+      "deletion",
+      "erasable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个垃圾桶图标代表 'deletable' 项目，以增强记忆；",
+      "通过间隔重复系统（Spaced Repetition System）复习该词在技术语境中的使用，以改善长期保留；",
+      "将词汇与个人经验关联，如回想删除手机文件的经历，以创建情感连接"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "removable",
+        "similarity": "0.8",
+        "context": "在物理或数字环境中使用，例如 'removable media' 与 'deletable files' 类似，但前者更强调可移动性"
+      },
+      {
+        "word": "erasable",
+        "similarity": "0.9",
+        "context": "主要在数字或书写语境中，强调可擦除性，如 'erasable ink' 与 'deletable text'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "permanent",
+        "context": "用于强调不可删除的永久性，例如在数据存储中，'permanent files' 与 'deletable files' 相对"
+      },
+      {
+        "word": "irremovable",
+        "context": "在技术语境中，表示无法删除的项目，与 'deletable' 在文件管理中形成对比"
+      }
+    ],
+    "hypernyms": [
+      "modifiable"
+    ],
+    "hyponyms": [
+      "recyclable (in digital waste management)"
+    ],
+    "collocations": [
+      {
+        "pattern": "deletable + noun",
+        "examples": [
+          "deletable data",
+          "deletable messages"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + deletable",
+        "examples": [
+          "temporarily deletable files"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着信息自由和隐私控制，体现现代社会对数据管理的重视，但也隐含对永久删除的潜在风险，如数据恢复问题。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业和日常数字工具中",
+        "usage": "在美国英语中，常见于软件界面和科技报道，以强调用户友好的删除功能"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，偏向于在专业文档中应用，以突出数据合规性"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和20世纪计算机发展相关，反映了从机械删除到数字删除的演变；在文学中，如乔治·奥威尔《1984》中的记忆删除主题，与 'deletable' 的概念有隐喻关联。",
+    "modernUsage": "在社交媒体和在线平台上流行，例如Twitter上的 'deletable tweets'，体现了即时通信的文化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个数字垃圾桶，里面装满了可删除的文件，像旧照片或文档，正在被拖拽进去。",
+      "keyElements": [
+        "垃圾桶图标",
+        "文件图标",
+        "删除动作"
+      ],
+      "emotionalConnection": "联结到个人经验，如清理手机时的成就感，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'deletable' 联想成 'delete + able'，意思是 '能被删除的'。",
+        "explanation": "通过词根分解，利用认知语言学中的形态分析，帮助学习者构建词汇网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/dɪˈliːtəbl/' 听起来像 'delete a ball'，想象扔掉一个球代表删除物品。",
+        "explanation": "应用多感官学习原理，将声音与动作结合，提升记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "erase",
+      "remove",
+      "trash"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more deletable",
+      "superlative": "most deletable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + deletable + object",
+        "description": "用于描述某物可被删除的属性，例如在陈述句中。",
+        "examples": [
+          "The file is deletable."
+        ]
+      },
+      {
+        "pattern": "Adjective phrase with deletable",
+        "description": "作为定语修饰名词。",
+        "examples": [
+          "Only deletable items are selected."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'deleteable' (misspelling)",
+        "correction": "Use 'deletable' with one 'e'",
+        "explanation": "源自拼写规则，'delete' 的词尾直接加 '-able'，常见于非母语学习者"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "It is an adjective, not a verb; use 'delete' instead",
+        "explanation": "部分学习者可能误用为动词形式，需通过语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "data management"
+    ],
+    "tags": [
+      "adjective",
+      "digital",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

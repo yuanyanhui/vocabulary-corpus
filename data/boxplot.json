@@ -1,0 +1,239 @@
+{
+  "word": "boxplot",
+  "phonetics": {
+    "british": "/ˈbɒks.plɒt/",
+    "american": "/ˈbɑːks.plɑːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graphical representation of a dataset's distribution, typically showing the median, quartiles, and outliers to summarize data spread and identify potential anomalies.",
+      "chineseTranslation": "箱形图",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "create a boxplot",
+      "meaning": "创建箱形图",
+      "example": "To visualize the data distribution, we need to create a boxplot in R.",
+      "exampleTranslation": "为了可视化数据分布，我们需要在R语言中创建箱形图。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "interpret a boxplot",
+      "meaning": "解释箱形图",
+      "example": "Learning to interpret a boxplot helps in understanding statistical variability.",
+      "exampleTranslation": "学会解释箱形图有助于理解统计变异性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "boxplot analysis",
+      "meaning": "箱形图分析",
+      "example": "The boxplot analysis revealed outliers in the experimental data.",
+      "exampleTranslation": "箱形图分析揭示了实验数据中的异常值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics class, the teacher used a boxplot to illustrate the range of test scores.",
+      "translation": "在统计课上，老师使用箱形图来说明考试成绩的范围。",
+      "source": "Educational textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Data scientists often rely on boxplots to detect outliers in large datasets during machine learning projects.",
+      "translation": "数据科学家在机器学习项目中经常依赖箱形图来检测大型数据集中的异常值。",
+      "source": "Technical article (e.g., from academic journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The boxplot in the research paper clearly showed the median salary differences across regions.",
+      "translation": "研究论文中的箱形图清楚地显示了不同地区的中位数薪资差异。",
+      "source": "News and professional reports (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "box",
+        "meaning": "A container or enclosed space",
+        "language": "Old English (from Proto-Germanic *buhsaz)"
+      },
+      {
+        "root": "plot",
+        "meaning": "A plan, map, or graphical representation",
+        "language": "Old English (from Proto-Germanic *platjaz, meaning flat)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的统计学领域，结合了'box'（表示数据箱体，如四分位数范围）和'plot'（表示图表）。最初由John Tukey在1977年提出，用于描述数据分布的视觉化方法，从简单的统计图表演变为现代数据分析工具。",
+    "firstKnownUse": "1977",
+    "relatedWords": [
+      "box and whisker plot",
+      "histogram",
+      "scatter plot"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将'boxplot'分解为'box'和'plot'，并通过视觉图像记忆如想象一个盒子里的胡须图；对于中文母语学习者，关联到类似的数据可视化概念以增强迁移学习效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "box and whisker plot",
+        "similarity": "0.9",
+        "context": "在统计数据可视化语境中，用于详细描述数据分布"
+      },
+      {
+        "word": "quartile plot",
+        "similarity": "0.7",
+        "context": "在技术性数据分析中，强调四分位数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter plot",
+        "context": "虽然不是严格反义，但散点图更注重点状分布而非总结性统计"
+      }
+    ],
+    "hypernyms": [
+      "graph",
+      "chart"
+    ],
+    "hyponyms": [
+      "Tukey's boxplot"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + boxplot (e.g., create, analyze)",
+        "examples": [
+          "create a boxplot",
+          "analyze the boxplot data"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "boxplot + noun (e.g., of data)",
+        "examples": [
+          "boxplot of sales figures"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征数据可视化的实用性和客观性，代表现代数据驱动决策的文化趋势，并无特定隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在学术和商业语境",
+        "usage": "在美国英语中，常见于数据科学教育和软件工具，如Python或R语言"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更强调在统计教育中的教学应用",
+        "usage": "在英国英语中，常用于研究报告以突出数据总结"
+      }
+    ],
+    "historicalContext": "与20世纪统计学革命相关，特别是在John Tukey的工作中，反映了科学方法论的演进和社会对数据分析的需求。",
+    "modernUsage": "在社交媒体和在线教育平台上流行，用于数据可视化工具如Tableau或Excel，促进全球数据素养提升"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个装满数据的盒子，里面有胡须延伸出去，表示异常值。",
+      "keyElements": [
+        "盒子（box）",
+        "胡须（whiskers）",
+        "数据点"
+      ],
+      "emotionalConnection": "联结到个人数据分析经历，如查看考试成绩分布，触发成就感或好奇心"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Boxplot 像一个神秘的宝箱（box），里面藏着数据秘密（plot）。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "B for Box and Data Plot.",
+        "explanation": "使用首字母缩略结合重复练习，提升长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "box",
+      "plot",
+      "data",
+      "statistics"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "boxplots",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a boxplot of data)",
+        "description": "作为名词，常用于描述或分析对象",
+        "examples": [
+          "The boxplot shows the data distribution."
+        ]
+      },
+      {
+        "pattern": "In sentences with verbs (e.g., use a boxplot)",
+        "description": "与动词结合表示动作或工具",
+        "examples": [
+          "We use a boxplot to visualize trends."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'histogram'",
+        "correction": "Distinguish based on representation: boxplot for summary statistics vs. histogram for frequency.",
+        "explanation": "中文母语学习者可能混淆统计术语，需通过比较学习避免"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'boxplots' for plural.",
+        "explanation": "英语名词复数规则简单，但需注意特定词汇"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15000 in COCA corpus",
+    "domains": [
+      "technology",
+      "science",
+      "education"
+    ],
+    "tags": [
+      "statistics",
+      "data visualization",
+      "graphical analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

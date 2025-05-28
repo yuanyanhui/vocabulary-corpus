@@ -1,0 +1,240 @@
+{
+  "word": "spammer",
+  "phonetics": {
+    "british": "/ˈspæmər/",
+    "american": "/ˈspæmɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or automated system that sends unsolicited and often repetitive messages, especially via email or other digital platforms, with the intent to advertise or deceive.",
+      "chineseTranslation": "垃圾邮件发送者",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, anyone who engages in spamming activities across various media, such as social media, forums, or text messages.",
+      "chineseTranslation": "泛指在各种媒介中发送垃圾信息的个体或系统",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "email spammer",
+      "meaning": "发送垃圾邮件的个体",
+      "example": "The company implemented new filters to block email spammers.",
+      "exampleTranslation": "公司实施了新的过滤器来阻挡垃圾邮件发送者。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "social media spammer",
+      "meaning": "在社交媒体上发送垃圾信息的用户",
+      "example": "Social media spammers often promote fake products in comment sections.",
+      "exampleTranslation": "社交媒体垃圾邮件发送者经常在评论区推广假冒产品。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The spammer flooded my inbox with advertisements for dubious weight-loss pills.",
+      "translation": "那个垃圾邮件发送者用可疑的减肥药广告淹没了我的收件箱。",
+      "source": "Modern digital communication contexts, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In cybersecurity discussions, identifying a spammer is crucial to maintaining network integrity.",
+      "translation": "在网络安全讨论中，识别垃圾邮件发送者对于维护网络完整性至关重要。",
+      "source": "Technical articles, e.g., from academic sources like IEEE",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She reported the spammer to the platform's moderators after receiving multiple unwanted messages.",
+      "translation": "她向平台的 moderation 报告了那个垃圾邮件发送者，因为收到了多条不需要的信息。",
+      "source": "Informal online forums, e.g., from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from 'spam'",
+    "rootWords": [
+      {
+        "root": "spam",
+        "meaning": "Originally a brand name for canned meat, later used metaphorically in a 1970 Monty Python sketch to represent repetitive, unwanted content.",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪90年代的互联网文化，其中'spam'源自Monty Python的喜剧短剧，用于描述重复的台词；随后在电子邮件和在线环境中演变为表示非预期的商业信息；到21世纪，扩展到社交媒体和数字营销领域。",
+    "firstKnownUse": "1990s, particularly in early internet forums",
+    "relatedWords": [
+      "spam",
+      "spamming",
+      "spambot"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR level, as it involves common digital terminology for intermediate learners)",
+    "pronunciationDifficulty": "4 (1-10 scale; straightforward with common vowel sounds, but the 'æ' sound may require practice for Chinese speakers)",
+    "spellingDifficulty": "3 (1-10 scale; simple phonetic spelling, but learners may confuse with similar words like 'hammer')",
+    "meaningComplexity": "5 (1-10 scale; involves contextual understanding of digital ethics, but core meaning is direct)",
+    "usageComplexity": "6 (1-10 scale; usage depends on technological contexts, which may vary across cultures)",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将'spammer'与互联网体验关联，如回想个人收到的垃圾邮件；利用双编码理论，通过视觉图像（如邮箱图标被淹没的画面）增强记忆；对于中文学习者，比较'spammer'与'垃圾邮件'的语境差异以促进迁移学习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "spambot",
+        "similarity": "0.8",
+        "context": "适用于自动化系统语境，如机器人发送信息"
+      },
+      {
+        "word": "troll",
+        "similarity": "0.6",
+        "context": "适用于社交媒体上故意干扰的语境，但不完全相同"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "legitimate user",
+        "context": "在数字平台中，指合规的、授权的用户"
+      },
+      {
+        "word": "moderator",
+        "context": "指管理并阻止垃圾信息的平台管理员"
+      }
+    ],
+    "hypernyms": [
+      "user",
+      "perpetrator"
+    ],
+    "hyponyms": [
+      "email spammer",
+      "social media spammer"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + spammer (e.g., email + spammer)",
+        "examples": [
+          "detect a spammer",
+          "block the spammer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + spammer (e.g., report + spammer)",
+        "examples": [
+          "identify the spammer",
+          "filter out spammers"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词反映了数字时代的信息泛滥和隐私问题，在西方文化中象征网络欺诈和商业侵扰；在中文文化中，类似于'刷屏'或'水军'，隐含了对在线诚信的担忧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和技术语境",
+        "usage": "在美国英语中，常与法律（如CAN-SPAM Act）相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更侧重于社交媒体",
+        "usage": "在英国英语中，常出现在日常对话中，强调礼貌和反垃圾措施"
+      }
+    ],
+    "historicalContext": "与20世纪末互联网兴起相关，源自Monty Python的幽默元素；在文学和社会中，代表了信息过载的现代困境，如在赛伯朋克小说中。",
+    "modernUsage": "在社交媒体和在线社区中流行，特别是在中文互联网如微信或微博中，常用于讨论网络安全趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个邮箱被成堆的信件淹没，信件上写着乱七八糟的广告。",
+      "keyElements": [
+        "邮箱",
+        "广告信件",
+        "淹没"
+      ],
+      "emotionalConnection": "联结到个人经历，如收到讨厌的推销邮件时的 frustration 情绪，以强化长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'spammer'联想为'spam hammer'，想象用锤子砸碎垃圾邮件。",
+        "explanation": "通过视觉和动作联想增强记忆，基于认知心理学中的双编码效应"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将'spammer'的发音与'spam alarm'类似，想象警报声提醒垃圾邮件。",
+        "explanation": "利用声音与视觉的联结，促进海马体记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "spam",
+      "email",
+      "block"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "spammers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + spammer",
+        "description": "作为主语或宾语出现，常用于陈述句",
+        "examples": [
+          "The spammer was banned."
+        ]
+      },
+      {
+        "pattern": "Adjective + spammer",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "Persistent spammers are a nuisance."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'spinner' or 'hammer'",
+        "correction": "Use 'spammer' only for unsolicited messages",
+        "explanation": "中文学习者可能因音似混淆；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "英语名词规则简单，但初学者易遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 words in COCA corpus for digital domains)",
+    "domains": [
+      "technology",
+      "communication",
+      "internet"
+    ],
+    "tags": [
+      "digital",
+      "cybersecurity",
+      "informal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

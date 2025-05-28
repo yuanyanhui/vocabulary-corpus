@@ -1,0 +1,233 @@
+{
+  "word": "polyhedron",
+  "phonetics": {
+    "british": "/ˌpɒl.iˈhiː.drən/",
+    "american": "/ˌpɑː.liˈhiː.drən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A three-dimensional shape with flat polygonal faces, straight edges, and vertices.",
+      "chineseTranslation": "多面体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "regular polyhedron",
+      "meaning": "正多面体",
+      "example": "A dodecahedron is a regular polyhedron with twelve pentagonal faces.",
+      "exampleTranslation": "十二面体是一种正多面体，具有十二个五边形面。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "convex polyhedron",
+      "meaning": "凸多面体",
+      "example": "In geometry, a convex polyhedron has no indentations on its surface.",
+      "exampleTranslation": "在几何学中，凸多面体在其表面没有凹陷。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The architect used a polyhedron as the model for the new museum's design.",
+      "translation": "建筑师使用多面体作为新博物馆设计模型。",
+      "source": "Architectural literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer graphics, polyhedrons are fundamental for creating 3D models.",
+      "translation": "在计算机图形学中，多面体是创建3D模型的基础。",
+      "source": "Technical articles",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Children often play with toys shaped like simple polyhedrons, such as cubes or pyramids.",
+      "translation": "孩子们经常玩形状像简单多面体的玩具，例如立方体或金字塔。",
+      "source": "Educational materials",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "poly",
+        "meaning": "many",
+        "language": "Greek"
+      },
+      {
+        "root": "hedron",
+        "meaning": "base or seat",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词 'polyedron'，意为 '许多面'，通过拉丁语传入英语，并在文艺复兴时期发展为现代几何术语，用于描述三维形状。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "polygon",
+      "polygonal",
+      "tetrahedron"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉图像记忆多面体的三维形状，例如将词汇与日常生活物体如骰子联系起来；结合认知科学原理，通过重复练习和空间思维训练增强记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "solid",
+        "similarity": "0.7",
+        "context": "在几何学中，指三维形状"
+      },
+      {
+        "word": "three-dimensional figure",
+        "similarity": "0.8",
+        "context": "在数学或艺术语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "plane figure",
+        "context": "二维形状，与多面体的三维特性相对"
+      }
+    ],
+    "hypernyms": [
+      "shape",
+      "geometric figure"
+    ],
+    "hyponyms": [
+      "cube",
+      "pyramid",
+      "dodecahedron"
+    ],
+    "collocations": [
+      {
+        "pattern": "regular polyhedron",
+        "examples": [
+          "A cube is a regular polyhedron."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "convex polyhedron",
+        "examples": [
+          "The crystal structure forms a convex polyhedron."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，多面体象征着数学美学和宇宙秩序，尤其在古希腊哲学中代表和谐；在中国文化中，类似概念出现在传统建筑和风水设计中。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于科技和教育语境",
+        "usage": "在美国英语中，常在STEM教育中强调其在计算机建模中的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更注重历史和学术语境",
+        "usage": "在英国英语中，常与古典几何学历史相关联"
+      }
+    ],
+    "historicalContext": "与古希腊数学家如欧几里得相关联，在文艺复兴时期通过艺术和科学复兴；在中国，类似概念见于汉代数学著作。",
+    "modernUsage": "在现代社交媒体和数字平台上，常用于讨论3D打印和虚拟现实，但其使用趋势受限于专业领域。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个多面体如骰子，旋转在手中，展示其多边面。",
+      "keyElements": [
+        "骰子",
+        "多边面",
+        "三维旋转"
+      ],
+      "emotionalConnection": "联结到童年玩耍经验，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly means many, hedron means faces, so think of 'many faces on a dice'.",
+        "explanation": "通过词根联想，将词汇与常见物体关联，基于认知科学中的视觉-空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "P-H: Poly for plenty, Hedron for hard edges.",
+        "explanation": "使用首字母缩略词创建简单口诀，帮助记忆结构"
+      }
+    ],
+    "wordAssociations": [
+      "polygon",
+      "tetrahedron",
+      "cube"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polyhedrons or polyhedra",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun as subject",
+        "description": "作为句子的主语，表示三维形状",
+        "examples": [
+          "The polyhedron exhibits perfect symmetry."
+        ]
+      },
+      {
+        "pattern": "Noun in prepositional phrase",
+        "description": "用于描述结构或组成部分",
+        "examples": [
+          "The model includes a polyhedron in its design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing polyhedron with polygon",
+        "correction": "Use polyhedron for 3D shapes and polygon for 2D shapes",
+        "explanation": "由于两者词根相似，学习者常混淆维度差异"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'polyhedra' in formal contexts",
+        "explanation": "英语中，某些科学术语有拉丁复数形式，需要注意语域"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "science",
+      "art",
+      "technology"
+    ],
+    "tags": [
+      "geometry",
+      "three-dimensional",
+      "shape"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

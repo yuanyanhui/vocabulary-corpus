@@ -1,0 +1,236 @@
+{
+  "word": "receptor",
+  "phonetics": {
+    "british": "/rɪˈsɛptər/",
+    "american": "/rɪˈsɛptər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A molecule, typically a protein, that receives and responds to a specific signal, such as a hormone or neurotransmitter, often on the surface of a cell.",
+      "chineseTranslation": "受体",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or structure that receives signals, such as in electronics or sensory systems.",
+      "chineseTranslation": "接收器",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cell receptor",
+      "meaning": "细胞受体",
+      "example": "The cell receptor plays a crucial role in immune responses.",
+      "exampleTranslation": "细胞受体在免疫反应中扮演关键角色。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sensory receptor",
+      "meaning": "感觉受体",
+      "example": "Sensory receptors in the skin detect temperature changes.",
+      "exampleTranslation": "皮肤中的感觉受体检测温度变化。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The receptor on the neuron binds to serotonin, triggering a cascade of signals.",
+      "translation": "神经元上的受体与血清素结合，引发信号级联反应。",
+      "source": "Scientific article (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modern technology, a receptor in the smartphone antenna captures wireless signals.",
+      "translation": "在现代技术中，智能手机天线中的接收器捕获无线信号。",
+      "source": "Technology review (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers are studying how receptors in the brain influence behavior.",
+      "translation": "研究人员正在研究大脑中受体如何影响行为。",
+      "source": "Academic paper (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "recept-",
+        "meaning": "received or receiving",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'receptor' 演变而来，意为 '接收者'，源自 'recipere'（接收）。在19世纪末生物学兴起时，该词被引入现代科学语境，用于描述分子或细胞的信号接收功能。",
+    "firstKnownUse": "Early 20th century",
+    "relatedWords": [
+      "reception",
+      "receiver",
+      "reciprocate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 5,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 7,
+    "usageComplexity": 6,
+    "learningTips": [
+      "通过认知科学原理，将受体比作门锁和钥匙的比喻，以强化空间记忆；结合重复间隔学习法，定期复习以巩固语义关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sensor",
+        "similarity": 0.7,
+        "context": "在技术或生物传感器上下文中使用"
+      },
+      {
+        "word": "detector",
+        "similarity": 0.6,
+        "context": "在信号检测的科学语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "effector",
+        "context": "在生物学中，指产生反应的结构，而非接收信号的结构"
+      }
+    ],
+    "hypernyms": [
+      "protein",
+      "molecule"
+    ],
+    "hyponyms": [
+      "G-protein coupled receptor",
+      "ion channel receptor"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + receptor",
+        "examples": [
+          "dopamine receptor",
+          "estrogen receptor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "receptor + verb",
+        "examples": [
+          "receptor binds"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征信号接收和响应机制，常隐含在医学和生物技术领域的创新中，代表人类对自然世界的理解。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中更常用于技术语境，如电子设备",
+        "usage": "例如，在美国科技产业中，'receptor' 常与创新相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，更强调生物学语境",
+        "usage": "如在学术出版物中用于神经科学讨论"
+      }
+    ],
+    "historicalContext": "与20世纪生物学革命相关，例如分子生物学的兴起，该词反映了科学对细胞通信的认识，并延伸到社会隐喻，如文化中的 '接收信息'。",
+    "modernUsage": "在社交媒体和在线教育中，常见于科普文章或健康讨论，体现了全球科学传播的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个门卫（receptor）站在细胞大门前，检查并接收特定的钥匙（信号分子）进入。",
+      "keyElements": [
+        "门卫",
+        "钥匙",
+        "细胞大门"
+      ],
+      "emotionalConnection": "联结到日常安全检查的个人经验，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Receptor 听起来像 'receiver'，如足球中的接球手。",
+        "explanation": "通过体育场景的视觉联想，帮助强化词汇记忆和语义连接"
+      },
+      {
+        "type": "缩略",
+        "content": "R-E-C-E-P-T-O-R：'R' for Receive, 'E' for External signals.",
+        "explanation": "使用首字母缩写结合故事法，促进认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "sensor",
+      "antenna",
+      "lock"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "receptors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + receptor",
+        "description": "作为主语或宾语的典型结构",
+        "examples": [
+          "The receptor detects signals."
+        ]
+      },
+      {
+        "pattern": "Adjective + receptor + in + context",
+        "description": "用于描述特定类型的受体",
+        "examples": [
+          "A specific receptor in the brain controls emotions."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing receptor with receiver in non-technical contexts",
+        "correction": "Use receptor only for biological or technical signals",
+        "explanation": "虽然同源，但 receiver 更常用于一般通信，而 receptor 专指科学机制"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'receptors' for plural",
+        "explanation": "作为可数名词，需正确添加 -s 以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 4500 in COCA corpus",
+    "domains": [
+      "Science",
+      "Biology",
+      "Medicine",
+      "Technology"
+    ],
+    "tags": [
+      "Technical",
+      "Biological",
+      "Scientific"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

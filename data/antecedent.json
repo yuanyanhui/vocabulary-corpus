@@ -1,0 +1,251 @@
+{
+  "word": "antecedent",
+  "phonetics": {
+    "british": "/ænˈtiːsɪdənt/",
+    "american": "/ˌæn.tɪˈsiː.dənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word, phrase, or clause to which a pronoun refers, especially in grammar.",
+      "chineseTranslation": "先行词（在语法中，指代词所指的词、短语或从句）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A preceding event, cause, or circumstance that leads to a subsequent event.",
+      "chineseTranslation": "前因或前例（指导致后续事件的前置事件或情况）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Preceding in time or order; existing or occurring before something else.",
+      "chineseTranslation": "先行的或以前的（在时间或顺序上位于之前的）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "antecedent action",
+      "meaning": "先前行动（指故事或事件中的前置行为）",
+      "example": "The antecedent action in the novel provides crucial background information.",
+      "exampleTranslation": "小说中的先前行动提供了关键的背景信息。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "logical antecedent",
+      "meaning": "逻辑前因（指逻辑推理中的前置条件）",
+      "example": "In this argument, the antecedent action must be proven first.",
+      "exampleTranslation": "在这一论证中，先行行动必须首先被证明。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the sentence 'Sarah lost her keys, so she was late', 'Sarah' is the antecedent of 'she'.",
+      "translation": "在句子 'Sarah lost her keys, so she was late' 中，'Sarah' 是 'she' 的先行词。",
+      "source": "Grammar textbook (e.g., from Cambridge Grammar of English)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The antecedent events of the war, including economic tensions, shaped international relations.",
+      "translation": "战争的前因事件，包括经济紧张局势，塑造了国际关系。",
+      "source": "Historical text (e.g., from a BBC documentary transcript)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "As an antecedent measure, the company implemented new policies to prevent future risks.",
+      "translation": "作为先前措施，公司实施了新政策以防止未来风险。",
+      "source": "Business report (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "ante-",
+        "meaning": "before",
+        "language": "Latin"
+      },
+      {
+        "root": "cedere",
+        "meaning": "to go or yield",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'antecedentem'，意为 'going before' 或 'preceding'，通过古法语演变为中古英语，在14世纪进入现代英语，主要用于语法和逻辑语境中，表示前置关系，随着语言演变，其含义扩展到更广泛的因果关系。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "consequent",
+      "subsequent",
+      "predecessor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法将 'antecedent' 与其语法角色关联，例如将词汇与个人经历中的代词使用场景联系；通过重复暴露于真实语料中增强语义网络；避免混淆相似词汇，利用视觉辅助如思维导图强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "predecessor",
+        "similarity": "0.8",
+        "context": "适用于历史或顺序语境中，表示先前的事物（例如，在讨论继承关系时）"
+      },
+      {
+        "word": "forerunner",
+        "similarity": "0.7",
+        "context": "适用于表示先导或预兆的语境中（例如，在科技发展讨论中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "consequent",
+        "context": "适用于因果关系语境中，表示后续或结果的事物（例如，在逻辑推理中）"
+      },
+      {
+        "word": "subsequent",
+        "context": "适用于时间顺序语境中，表示之后的元素（例如，在叙述事件时）"
+      }
+    ],
+    "hypernyms": [
+      "cause",
+      "predecessor"
+    ],
+    "hyponyms": [
+      "grammatical antecedent",
+      "logical antecedent"
+    ],
+    "collocations": [
+      {
+        "pattern": "antecedent + noun (e.g., antecedent event)",
+        "examples": [
+          "The antecedent event triggered the reaction."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "of + antecedent (e.g., antecedent of a pronoun)",
+        "examples": [
+          "The antecedent of 'it' is unclear."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要用于学术和正式语境中，象征逻辑性和因果关系的分析，常在西方教育体系中强调理性思维，例如在英语文学中用于解析叙事结构。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式学术写作中",
+        "usage": "在英国英语中，偏向于语法和历史语境，例如在文学分析中"
+      },
+      {
+        "region": "美国",
+        "variation": "在法律和商业语境中更常见",
+        "usage": "在美国英语中，常用于政策讨论或商业报告中，表示前置条件"
+      }
+    ],
+    "historicalContext": "与启蒙运动和理性主义相关，该词在17世纪的哲学作品中（如约翰·洛克的著作）频繁出现，反映了西方文化对因果关系的重视。",
+    "modernUsage": "在现代社交媒体和在线教育中，该词用于讨论心理健康或社会事件的前因后果，但需注意跨文化敏感性，因为非西方文化可能更倾向于整体观而非线性因果。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时间线，'antecedent' 代表线上的一个早期点，连接到一个代词或后续事件。",
+      "keyElements": [
+        "时间线",
+        "连接箭头",
+        "代词图标"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆童年事件导致的结果，触发情感共鸣以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'antecedent' as 'ante-' (before) + 'cedent' (like descending stairs first)",
+        "explanation": "通过视觉联想将词汇分解为部分，结合认知科学的空间记忆原理，帮助初级学习者建立直观联系"
+      },
+      {
+        "type": "缩略",
+        "content": "A-N-T-E: Ante (before) Needs To Exist",
+        "explanation": "使用首字母缩写强化语义，基于重复和模式识别的认知原则"
+      }
+    ],
+    "wordAssociations": [
+      "predecessor",
+      "cause",
+      "beforehand"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "antecedents",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + antecedent + of + noun",
+        "description": "典型结构用于定义关系（例如，表示代词的先行词）",
+        "examples": [
+          "'John' is the antecedent of 'he'."
+        ]
+      },
+      {
+        "pattern": "Antecedent + verb + object",
+        "description": "用于描述前置事件（例如，在叙述中）",
+        "examples": [
+          "The antecedent event influenced the outcome."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing antecedent with pronoun",
+        "correction": "Ensure the antecedent clearly precedes the pronoun",
+        "explanation": "学习者常错误地将先行词与代词互换，原因可能是语序认知偏差"
+      },
+      {
+        "mistake": "Overusing in informal speech",
+        "correction": "Use in formal contexts only",
+        "explanation": "中级学习者可能在非正式语境中误用，建议通过语域练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "education",
+      "law",
+      "literature"
+    ],
+    "tags": [
+      "grammar",
+      "logic",
+      "causality"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

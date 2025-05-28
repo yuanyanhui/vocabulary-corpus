@@ -1,0 +1,281 @@
+{
+  "word": "pawn",
+  "phonetics": {
+    "british": "/pɔːn/",
+    "american": "/pɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chess piece of the lowest value and rank, typically starting on the second row and moving forward one square at a time.",
+      "chineseTranslation": "国际象棋中最弱的棋子，通常从第二排开始，向前移动一格。",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An object that is deposited as security for a loan, especially in a pawnshop.",
+      "chineseTranslation": "典当物品，作为贷款的抵押物。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who is used by others as a tool or dupe, often in a manipulative or exploitative manner.",
+      "chineseTranslation": "被他人利用的人，通常作为工具或傀儡。",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To deposit an object as security for a loan.",
+      "chineseTranslation": "典当物品以换取贷款。",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To attempt to pass off or dispose of something, often deceptively.",
+      "chineseTranslation": "试图欺骗性地转手或处理某物。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pawn shop",
+      "meaning": "典当铺",
+      "example": "He went to the pawn shop to sell his old watch.",
+      "exampleTranslation": "他去典当铺卖掉他的旧手表。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pawn off",
+      "meaning": "欺骗性地转手",
+      "example": "She tried to pawn off the fake jewelry as genuine.",
+      "exampleTranslation": "她试图将假首饰当作真货转手。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "advance pawn",
+      "meaning": "推进棋子",
+      "example": "In chess, it's strategic to advance the pawn early in the game.",
+      "exampleTranslation": "在国际象棋中，早期推进棋子是战略性的。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pawn moved forward two squares on its first turn.",
+      "translation": "这个棋子在第一次行动时向前移动了两格。",
+      "source": "Chess literature",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He had to pawn his guitar to pay the rent.",
+      "translation": "他不得不典当他的吉他来支付房租。",
+      "source": "Modern fiction",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the story, the protagonist was just a pawn in the corporate game.",
+      "translation": "在这个故事中，主人公只是公司游戏中的一个傀儡。",
+      "source": "News article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Don't pawn your responsibilities onto others.",
+      "translation": "不要将你的责任转嫁给别人。",
+      "source": "Informal conversation",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "pignus",
+        "meaning": "pledge or security",
+        "language": "Latin"
+      },
+      {
+        "root": "paon",
+        "meaning": "pledge",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'pignus'，意为抵押或保证，传入古法语成为 'paon'，再演变为中古英语 'pawn'，最初主要用于表示典当行为。到了现代英语，随着国际象棋的流行，该词扩展到棋类语境中，并衍生出比喻意义，如被利用的人。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "pawner",
+      "pawning",
+      "pawnage"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'pawn' 与国际象棋棋子图像关联，以强化语义记忆；对于中文母语学习者，比较 'pawn' 与 '典当' 的文化对应性，以减少混淆；使用间隔重复法复习多义词。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tool",
+        "similarity": "0.7",
+        "context": "在比喻性语境中，表示被利用的人"
+      },
+      {
+        "word": "pledge",
+        "similarity": "0.8",
+        "context": "在典当语境中，表示抵押物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "king",
+        "context": "在国际象棋语境中，表示最高价值的棋子"
+      },
+      {
+        "word": "asset",
+        "context": "在财务语境中，表示非抵押物"
+      }
+    ],
+    "hypernyms": [
+      "piece",
+      "object"
+    ],
+    "hyponyms": [
+      "foot soldier"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun",
+        "examples": [
+          "advance pawn",
+          "pawn item"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "noun + preposition + noun",
+        "examples": [
+          "pawn in the game"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'pawn' 象征弱势或被操纵的地位，常用于比喻社会不公或政治阴谋；在国际象棋中，它代表普通士兵，体现战略牺牲的文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于非正式语境，如 'pawn shop' 在美国流行文化中常见",
+        "usage": "在美国，'pawn' 常与经济困难相关，常在影视中描绘"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更强调历史语境，如与中世纪典当系统相关",
+        "usage": "在英国文学中，常用于比喻个人命运"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的典当系统有关，反映了封建社会的经济结构；在现代，通过国际象棋普及，扩展到智力游戏文化。",
+    "modernUsage": "在社交媒体和在线游戏中，'pawn' 常用于讨论策略或讽刺政治人物，体现全球化语境下的跨文化传播。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个国际象棋棋盘，棋子像士兵在前进，同时旁边有一家典当铺，展示抵押物品。",
+      "keyElements": [
+        "棋子",
+        "典当铺",
+        "士兵形象"
+      ],
+      "emotionalConnection": "联结个人经历，如曾经玩过棋类游戏或见过典当店，触发情感共鸣以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pawn sounds like 'pawn' in a game, like a poor 'wan' (weak one) soldier.",
+        "explanation": "通过声音联想，将 'pawn' 与 'wan' (弱的) 联系，强化弱小棋子的概念"
+      },
+      {
+        "type": "缩略",
+        "content": "P-A-W-N: Poor And Weak Need",
+        "explanation": "使用首字母缩略法，回忆词的比喻意义，帮助中文母语者记忆多义"
+      }
+    ],
+    "wordAssociations": [
+      "chess",
+      "pledge",
+      "tool",
+      "sacrifice"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pawns",
+      "pastTense": "pawned",
+      "pastParticiple": "pawned",
+      "presentParticiple": "pawning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于动词形式",
+        "examples": [
+          "He pawned his watch."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "名词短语结构，常用于名词形式",
+        "examples": [
+          "The pawn advanced."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'pawn' with 'porn'",
+        "correction": "Use 'pawn' for chess or pledge",
+        "explanation": "发音相似可能导致混淆，确保上下文正确"
+      },
+      {
+        "mistake": "Incorrect verb tense",
+        "correction": "Use 'pawned' for past actions",
+        "explanation": "中文母语学习者可能忽略动词时态"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 5000 in COCA corpus",
+    "domains": [
+      "games",
+      "finance",
+      "social"
+    ],
+    "tags": [
+      "chess",
+      "metaphor",
+      "economics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "word": "numerator",
+  "phonetics": {
+    "british": "/ˈnjuː.mə.reɪ.tə/",
+    "american": "/ˈnuː.mə.reɪ.t̬ɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number above the line in a fraction, indicating how many parts of the whole are being considered.",
+      "chineseTranslation": "分子（在分数中，位于分母之上的数字，表示整体的几分之几）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader mathematical sense, the dividend in a division operation or the top part of a ratio.",
+      "chineseTranslation": "分子（在除法运算中，被除数，或在比例中上部部分）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "common numerator",
+      "meaning": "共同分子（指多个分数共享的分子）",
+      "example": "In fractions like 1/2 and 3/2, they share a common numerator of 2 in some contexts, but typically it's about denominators.",
+      "exampleTranslation": "在像1/2和3/2这样的分数中，它们在某些语境下共享一个共同分子2，但通常是关于分母的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "numerator of a fraction",
+      "meaning": "分数的分子（分数中上部的数字）",
+      "example": "The numerator of a fraction must be a positive integer in basic arithmetic.",
+      "exampleTranslation": "在一个分数中，分子必须是一个正整数，在基础算术中。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the fraction 3/4, the numerator is 3, which represents three parts out of a whole.",
+      "translation": "在分数3/4中，分子是3，表示整体的三个部分。",
+      "source": "Educational textbook (e.g., from mathematics curricula)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "When simplifying fractions, always check the numerator and denominator for common factors.",
+      "translation": "在化简分数时，总是检查分子和分母是否有公因子。",
+      "source": "Online learning platform (e.g., Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In advanced algebra, the numerator can include variables, such as in the expression (x + 2)/5.",
+      "translation": "在高级代数中，分子可以包括变量，例如表达式(x + 2)/5。",
+      "source": "Academic paper on mathematics education",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "numer-",
+        "meaning": "number",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'numerator'，是动词 'numerare'（计数）的派生词，早于16世纪在数学语境中演变为现代意义，指分数中的上部数字。随着文艺复兴时期数学的发展，该词逐渐标准化，用于表示分数的组成部分。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "denominator",
+      "numerical",
+      "enumerate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 基于音节简单且常见元音组合，对中文母语者相对容易，但需注意英式/美式差异)",
+    "spellingDifficulty": "3 (1-10, 拼写规则直观，无不规则变化)",
+    "meaningComplexity": "5 (1-10, 语义依赖数学背景，但概念单一)",
+    "usageComplexity": "4 (1-10, 主要限于数学语境，使用模式固定)",
+    "learningTips": [
+      "结合认知科学原理，使用视觉记忆法：想象分数为一个比萨饼，分子代表切下的部分；通过重复练习和关联已有数学知识（如中文中的'分子'概念）增强记忆编码；避免混淆类似词汇，利用间隔重复技术复习。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dividend",
+        "similarity": "0.7",
+        "context": "在除法语境中适用，仅当分子被视为被除数时"
+      },
+      {
+        "word": "antecedent",
+        "similarity": "0.6",
+        "context": "在比例或比值语境中适用，但不常见"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "denominator",
+        "context": "在分数中，分子和分母相对，分子表示部分数量，而分母表示总部分数"
+      }
+    ],
+    "hypernyms": [
+      "fractional component"
+    ],
+    "hyponyms": [
+      "improper numerator",
+      "proper numerator"
+    ],
+    "collocations": [
+      {
+        "pattern": "numerator + of + fraction",
+        "examples": [
+          "the numerator of 5/6"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "reduce the numerator",
+        "examples": [
+          "You must reduce the numerator before simplifying."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球数学教育中象征精确性和逻辑推理，无特定文化隐含语义，但在中国文化中，与传统算术（如珠算）相关联，强调教育公平。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于K-12教育体系",
+        "usage": "在美国英语中，强调在日常教学中的应用，如分数运算"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在历史数学文本中更正式",
+        "usage": "在英式英语中，常与计量单位结合，如在科学上下文中"
+      }
+    ],
+    "historicalContext": "与历史文化关联：在文艺复兴时期的欧洲数学革命中，该词兴起，影响了现代教育系统；在中文文化中，类似于古籍中的'分子'概念，源于西方传入的数学。",
+    "modernUsage": "在现代社交媒体和在线教育中，该词常见于教学视频或App，如Duolingo或Coursera，常用于全球化的数字学习趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个苹果派被切成几块，分子代表你拿走的块数。",
+      "keyElements": [
+        "苹果派",
+        "切块",
+        "拿走部分"
+      ],
+      "emotionalConnection": "联结个人经验，如童年分食零食的回忆，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Numerator sounds like 'new marator' – think of a new marker pointing to the top of the fraction.",
+        "explanation": "通过声音联想将词汇与视觉图像连接，利用认知科学中的双编码效应（视觉和听觉结合）"
+      },
+      {
+        "type": "缩略",
+        "content": "N for Numerator and Top (as in top of the fraction).",
+        "explanation": "使用首字母缩略法，结合空间记忆技巧，帮助中文母语者快速回忆位置关系"
+      }
+    ],
+    "wordAssociations": [
+      "fraction",
+      "divide",
+      "part"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "numerators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with prepositional phrase",
+        "description": "典型句法结构：词汇作为主语或宾语，常与介词短语结合，如'in the fraction'",
+        "examples": [
+          "The numerator represents the parts."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing numerator with denominator",
+        "correction": "Use numerator for the top number and denominator for the bottom.",
+        "explanation": "中文母语者常因翻译直接性而混淆，确保区分上下位置"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural: numerators",
+        "explanation": "英语复数规则简单，但需注意一致性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for educational domains)",
+    "domains": [
+      "education",
+      "mathematics",
+      "science"
+    ],
+    "tags": [
+      "mathematics",
+      "fraction",
+      "arithmetic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

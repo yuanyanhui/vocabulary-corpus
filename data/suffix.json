@@ -1,0 +1,235 @@
+{
+  "word": "suffix",
+  "phonetics": {
+    "british": "/ˈsʌfɪks/",
+    "american": "/ˈsʌfɪks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A morpheme added at the end of a word to modify its meaning or create a new word, such as '-ed' in 'walked'.",
+      "chineseTranslation": "后缀",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To add a suffix to a word, typically in linguistic or computational contexts.",
+      "chineseTranslation": "添加后缀",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "add a suffix",
+      "meaning": "添加后缀以改变单词的含义或形式",
+      "example": "Linguists often add a suffix to base words to derive new forms.",
+      "exampleTranslation": "语言学家经常向基本单词添加后缀以衍生新形式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "inflectional suffix",
+      "meaning": "表示词法变化的后缀，如时态或数",
+      "example": "The inflectional suffix '-s' indicates plural nouns in English.",
+      "exampleTranslation": "屈折后缀 '-s' 表示英语中的复数名词。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In English grammar, the suffix '-ing' is used to form present participles, as in 'running'.",
+      "translation": "在英语语法中，后缀 '-ing' 用于形成现在分词，如 'running'。",
+      "source": "Language textbook (e.g., from Cambridge Grammar)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers must suffix file names with '.txt' for text documents.",
+      "translation": "程序员必须在文件名后添加 '.txt' 后缀以表示文本文档。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The word 'happiness' is formed by adding the suffix '-ness' to the adjective 'happy'.",
+      "translation": "单词 'happiness' 是通过向形容词 'happy' 添加后缀 '-ness' 形成的。",
+      "source": "Educational resource (e.g., BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "suffixus",
+        "meaning": "fastened underneath",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'suffixus'，是 'suffigere' 的过去分词，意为 '固定在下面'。在中世纪拉丁语中演变为表示附加在词尾的元素，在17世纪进入英语，用于语法术语，逐渐发展为现代语言学中的词汇形态概念。",
+    "firstKnownUse": "1778",
+    "relatedWords": [
+      "prefix",
+      "infix",
+      "affix"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用视觉联想将后缀与单词末尾的 '尾巴' 形象联系起来，以增强记忆保留。",
+      "结合认知科学原理，通过重复练习和间隔重复法（spaced repetition）来掌握后缀在不同语境中的应用，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "affix",
+        "similarity": "0.8",
+        "context": "在语法或形态学上下文中，常用于泛指附加元素"
+      },
+      {
+        "word": "ending",
+        "similarity": "0.7",
+        "context": "在诗歌或文学分析中，指单词的结尾部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prefix",
+        "context": "在词法结构中，前缀位于单词开头，与后缀相对"
+      }
+    ],
+    "hypernyms": [
+      "affix"
+    ],
+    "hyponyms": [
+      "diminutive suffix",
+      "plural suffix"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + suffix",
+        "examples": [
+          "add a suffix",
+          "attach a suffix"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + suffix",
+        "examples": [
+          "inflectional suffix",
+          "derivational suffix"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语教育文化中象征语言演变的灵活性，常用于强调词汇形态在跨文化沟通中的作用，例如在英语作为第二语言学习中，帮助理解词根和派生词。",
+    "regionalVariations": [
+      {
+        "region": "British English",
+        "variation": "使用方式与美国英语类似，但可能在学术语境中更强调历史语源",
+        "usage": "在英国教育系统中，常与拉丁语根源结合教学"
+      },
+      {
+        "region": "American English",
+        "variation": "更常见于技术领域，如编程中的文件后缀",
+        "usage": "在美国流行文化中，后缀常用于简化语言学习工具，如应用软件"
+      }
+    ],
+    "historicalContext": "与欧洲语言演变相关，尤其在拉丁语影响下的英语发展中，后缀反映了中世纪语法规则的传承，并与文学作品如莎士比亚时代词汇变化相连。",
+    "modernUsage": "在当代社交媒体和在线教育中，后缀用于标签系统（如hashtags），体现数字时代语言简洁性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个单词如 'run'，在其末尾附加一个小挂钩或标签，表示后缀的添加。",
+      "keyElements": [
+        "末尾挂钩",
+        "添加标签"
+      ],
+      "emotionalConnection": "联想到拼写游戏的成就感，触发个人学习经历的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Suffix 听起来像 'suffocate'（窒息），但意思是 '单词的尾巴'，通过声音联想记住其位置。",
+        "explanation": "利用认知科学中的双编码理论（dual coding），结合声音和视觉元素增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-U-F-F-I-X：Start Under Final Form In eXistence（从末尾开始形成新词）。",
+        "explanation": "通过缩写和故事化方法，基于艾宾浩斯遗忘曲线的间隔重复来强化"
+      }
+    ],
+    "wordAssociations": [
+      "ending",
+      "morpheme",
+      "attach"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "suffixes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in phrase",
+        "description": "作为名词出现在短语中，表示附加元素",
+        "examples": [
+          "The suffix -ed changes the verb tense."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "作为动词使用，后面跟对象词",
+        "examples": [
+          "We suffix new elements to words."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing suffix with prefix",
+        "correction": "Suffix is at the end; prefix is at the beginning",
+        "explanation": "中文学习者常因词序差异而混淆，因此需练习句子结构以区分"
+      },
+      {
+        "mistake": "Incorrectly applying suffixes",
+        "correction": "Ensure the suffix matches the word's root and context",
+        "explanation": "由于英语形态变化复杂，中间水平学习者应通过语料分析避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Linguistics",
+      "Education",
+      "Technology"
+    ],
+    "tags": [
+      "Grammar",
+      "Morphology",
+      "Etymology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

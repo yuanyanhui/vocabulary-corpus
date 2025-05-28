@@ -1,0 +1,245 @@
+{
+  "word": "void",
+  "phonetics": {
+    "british": "/vɔɪd/",
+    "american": "/vɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "not valid or legally enforceable; completely empty or without content",
+      "chineseTranslation": "无效的；空虚的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an empty space or vacuum; a completely empty area",
+      "chineseTranslation": "虚空；空白",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to declare that something is no longer valid or to empty something",
+      "chineseTranslation": "使无效；清空",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "null and void",
+      "meaning": "完全无效的",
+      "example": "The contract was declared null and void due to breach of terms.",
+      "exampleTranslation": "由于违反条款，合同被宣布完全无效。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "void of emotion",
+      "meaning": "缺乏情感的",
+      "example": "His performance was void of emotion, leaving the audience unmoved.",
+      "exampleTranslation": "他的表演缺乏情感，让观众无动于衷。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The warranty on the product is void if it is not registered within 30 days.",
+      "translation": "如果产品未在30天内注册，保修将无效。",
+      "source": "Consumer electronics manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the vast void of space, stars are born and die.",
+      "translation": "在广阔的虚空空间中，恒星诞生和消亡。",
+      "source": "Scientific article",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The judge decided to void the previous ruling based on new evidence.",
+      "translation": "法官基于新证据决定撤销之前的裁决。",
+      "source": "Legal news",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "void",
+        "meaning": "empty",
+        "language": "Old French (from Latin 'vocitus', meaning empty or vacant)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'vacuus'，意为空的，通过古法语演变为 'void'，在中世纪英语中用于表示空虚或无效状态；到现代英语中，扩展到法律和技术语境。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "voidable",
+      "vacuum",
+      "voidness"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉编码法：将 'void' 联想为空荡荡的房间，强化空间记忆路径；对于中文母语学习者，重复练习多义词的语境切换，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "invalid",
+        "similarity": "0.8",
+        "context": "在法律语境中，用于表示文件或协议无效"
+      },
+      {
+        "word": "empty",
+        "similarity": "0.7",
+        "context": "在描述空间或情感的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "valid",
+        "context": "在法律语境中，表示协议有效"
+      },
+      {
+        "word": "full",
+        "context": "在描述空间的语境中，表示充满内容"
+      }
+    ],
+    "hypernyms": [
+      "empty",
+      "invalid state"
+    ],
+    "hyponyms": [
+      "vacuum",
+      "nullity"
+    ],
+    "collocations": [
+      {
+        "pattern": "void of something",
+        "examples": [
+          "a life void of purpose"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "declare void",
+        "examples": [
+          "The court declared the will void."
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方哲学中，该词象征存在主义空虚，常与尼采或卡夫卡的作品相关，隐含对生命无意义性的反思；在东方文化中，类似概念可与中文 '虚空' 关联，但强调更积极的禅宗含义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于法律和技术语境，如 'void check' 表示作废支票",
+        "usage": "在美国英语中，强调实用性和正式性"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向文学和哲学语境，如在诗歌中描述情感空虚",
+        "usage": "在英国英语中，更注重历史和文化隐喻"
+      }
+    ],
+    "historicalContext": "在中世纪欧洲法律中用于表示合同无效，与封建社会背景相关；在现代，扩展到科学领域，如物理学中的真空概念。",
+    "modernUsage": "在社交媒体和科技语境下，常见于编程语言（如 C++ 中的 void 类型），反映数字时代对抽象概念的简化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个漆黑的空荡荡的房间，象征 'void' 的空虚感。",
+      "keyElements": [
+        "空房间",
+        "黑暗空间"
+      ],
+      "emotionalConnection": "联结到个人孤独经历，触发情绪记忆以加强长期保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Void 听起来像 'boy in void'，想象一个男孩站在空虚的空间中。",
+        "explanation": "通过声音和视觉联想，运用认知科学中的双编码理论，提升记忆效率。"
+      },
+      {
+        "type": "缩略",
+        "content": "V-O-I-D：Vacant, Open, Inactive, Dark。",
+        "explanation": "使用首字母缩略法，结合空间想象帮助中级学习者分解词汇。"
+      }
+    ],
+    "wordAssociations": [
+      "empty",
+      "null",
+      "vacuum"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "voided",
+      "pastParticiple": "voided",
+      "presentParticiple": "voiding",
+      "comparative": "null (as it is not typically used in comparative forms for this word)",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "be + void",
+        "description": "用于表示某物无效或空虚的结构",
+        "examples": [
+          "The agreement is void."
+        ]
+      },
+      {
+        "pattern": "void + of + noun",
+        "description": "表示缺乏某种事物的结构",
+        "examples": [
+          "The room was void of furniture."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'void' with 'avoid'",
+        "correction": "Use 'void' for emptiness or invalidation, and 'avoid' for evading something.",
+        "explanation": "中文母语学习者常因发音相似而混淆；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Using 'void' as a noun without context",
+        "correction": "Specify the context, e.g., 'a void in space'.",
+        "explanation": "避免语义模糊，确保句子中包含明确描述。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus for general use)",
+    "domains": [
+      "法律",
+      "科学",
+      "哲学"
+    ],
+    "tags": [
+      "抽象",
+      "技术",
+      "法律术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

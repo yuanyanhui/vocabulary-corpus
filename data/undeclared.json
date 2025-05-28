@@ -1,0 +1,259 @@
+{
+  "word": "undeclared",
+  "phonetics": {
+    "british": "/ʌndɪˈklɛəd/",
+    "american": "/ʌndɪˈklɛrd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not declared or made known publicly; not officially stated or registered.",
+      "chineseTranslation": "未申报的；未公开的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In the context of education, referring to a student who has not yet chosen a specific major or field of study.",
+      "chineseTranslation": "未选专业的（例如大学学生）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not reported or disclosed, often in financial or legal contexts, such as undeclared income.",
+      "chineseTranslation": "未报告的；未申报的（如税务）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "undeclared income",
+      "meaning": "未申报的收入",
+      "example": "The audit revealed undeclared income from freelance work.",
+      "exampleTranslation": "审计揭示了自由职业的未申报收入。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "undeclared major",
+      "meaning": "未选专业的学生",
+      "example": "As an undeclared major, she took general education courses before deciding on a field.",
+      "exampleTranslation": "作为未选专业学生，她先修了通识课程再决定领域。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "undeclared goods",
+      "meaning": "未申报的货物",
+      "example": "Customs officials seized the undeclared goods at the border.",
+      "exampleTranslation": "海关官员在边境查获了未申报的货物。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The politician was accused of having undeclared assets abroad.",
+      "translation": "那位政治家被指控拥有未申报的海外资产。",
+      "source": "News article (e.g., from BBC or The Guardian)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Many freshmen start college as undeclared majors to explore their options.",
+      "translation": "许多新生以未选专业身份开始大学生活，以探索选项。",
+      "source": "Educational context (e.g., from university websites or COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In tax law, undeclared earnings can lead to severe penalties.",
+      "translation": "在税务法中，未申报的收入可能导致严重处罚。",
+      "source": "Legal document (e.g., from Merriam-Webster or legal corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（从拉丁语演变）",
+    "rootWords": [
+      {
+        "root": "un-",
+        "meaning": "not; without",
+        "language": "Old English"
+      },
+      {
+        "root": "declare",
+        "meaning": "to make clear or announce",
+        "language": "Latin (from 'declarare', meaning to clarify)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语的前缀 'un-'（表示否定），结合中古英语 'declaren'，后者源自古法语 'declarer'，最终追溯到拉丁语 'declarare'（de- 表示彻底 + clarare 表示澄清）。该词在17世纪开始用于现代意义，强调未公开或未正式声明的状态，随着现代行政和教育制度的兴起，其使用扩展到税务和学术语境。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "declare",
+      "unannounced",
+      "undisclosed"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过分块学习法（chunking）将 'undeclared' 与常见搭配如 'undeclared income' 关联，以强化语义网络；利用双编码理论，将词汇与个人经历（如申报税务的故事）视觉化，以提升记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "unreported",
+        "similarity": "0.8",
+        "context": "适用于正式语境，如税务报告中"
+      },
+      {
+        "word": "undisclosed",
+        "similarity": "0.9",
+        "context": "常用于商业或法律语境中表示未公开的信息"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "declared",
+        "context": "适用于已公开或正式声明的语境，例如 'declared assets'"
+      },
+      {
+        "word": "announced",
+        "context": "在新闻或事件预告中，表示已公开宣布"
+      }
+    ],
+    "hypernyms": [
+      "unrevealed",
+      "hidden"
+    ],
+    "hyponyms": [
+      "undeclared income",
+      "undeclared major"
+    ],
+    "collocations": [
+      {
+        "pattern": "undeclared + noun (e.g., income, goods)",
+        "examples": [
+          "undeclared income",
+          "undeclared major"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be undeclared in + context",
+        "examples": [
+          "be undeclared in taxes"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与诚信和透明度相关，象征社会规范中的合规性，尤其在税务和教育领域；在中文文化中，可能联想到申报制度的文化差异，如中国强调集体申报与西方个人责任。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于教育语境，如 'undeclared major' 在大学招生中流行",
+        "usage": "在美国高校中，学生可选择 'undeclared' 以灵活探索专业"
+      },
+      {
+        "region": "英国",
+        "variation": "较少用于教育，常用于正式语境如税务",
+        "usage": "在英国，'undeclared' 可能与欧盟法规相关，强调跨境申报"
+      }
+    ],
+    "historicalContext": "与启蒙运动后的行政透明度相关，在19世纪工业革命期间，'undeclared' 开始用于税务以反映新兴资本主义社会的监管需求；文学中，如狄更斯作品中出现类似概念，体现社会不公。",
+    "modernUsage": "在社交媒体和数字时代，'undeclared' 常用于讨论隐私权和数据保护，如未申报的在线收入"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个隐藏的宝箱，里面是未申报的物品，宝箱上贴着 'un-' 的标签，表示否定。",
+      "keyElements": [
+        "隐藏的宝箱",
+        "标签 'un-'",
+        "未申报物品"
+      ],
+      "emotionalConnection": "联结个人税务经历或大学选择的焦虑，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'undeclared' 联想到 'under the radar'（未被发现）",
+        "explanation": "通过视觉联想，强化词汇与隐藏概念的关联，基于认知联想理论"
+      },
+      {
+        "type": "缩略",
+        "content": "U-N-DECLARED: U for unknown, N for not, DECLARED for stated",
+        "explanation": "使用缩略法分解词汇，辅助记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "unreported",
+      "secret",
+      "hidden"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more undeclared",
+      "superlative": "most undeclared"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + undeclared",
+        "description": "用于描述状态，例如 'The income is undeclared.'",
+        "examples": [
+          "The assets were undeclared."
+        ]
+      },
+      {
+        "pattern": "Undeclared + noun",
+        "description": "作为定语修饰名词",
+        "examples": [
+          "Undeclared major students often face uncertainty."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'undeclared' as a verb",
+        "correction": "Use as adjective only",
+        "explanation": "该词仅为形容词，非动词；常见于初级学习者混淆"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for neutral or formal use",
+        "explanation": "在非正式语境中，可能被更口语化的词替换"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "法律",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "财务",
+      "学术",
+      "合规"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

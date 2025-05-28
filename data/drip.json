@@ -1,0 +1,274 @@
+{
+  "word": "drip",
+  "phonetics": {
+    "british": "/drɪp/",
+    "american": "/drɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small drop of liquid that falls or is produced in drops.",
+      "chineseTranslation": "一滴液体",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An apparatus for the intravenous administration of fluids, drugs, or nutrients.",
+      "chineseTranslation": "静脉滴注装置",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fall or cause to fall in drops.",
+      "chineseTranslation": "滴落或使滴落",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In informal contexts, to leak slowly or to have a style that exudes coolness or wealth (slang).",
+      "chineseTranslation": "缓慢漏出或散发时尚感（俚语）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drip coffee",
+      "meaning": "通过滴滤法冲泡的咖啡",
+      "example": "I prefer drip coffee in the morning for its rich flavor.",
+      "exampleTranslation": "我喜欢早上喝滴滤咖啡，因为它的味道浓郁。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "drip with",
+      "meaning": "充满或滴着某种东西，常用于比喻",
+      "example": "The actor's performance dripped with sarcasm.",
+      "exampleTranslation": "演员的表演充满了讽刺。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "IV drip",
+      "meaning": "静脉滴注",
+      "example": "The patient was put on an IV drip to replenish fluids.",
+      "exampleTranslation": "患者被置于静脉滴注以补充体液。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Water began to drip from the leaky faucet.",
+      "translation": "水开始从漏水的龙头滴落。",
+      "source": "Everyday conversation (based on COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The hospital administered a saline drip to the dehydrated hiker.",
+      "translation": "医院给脱水的登山者进行了盐水滴注。",
+      "source": "Medical literature (informed by PubMed data)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern slang, his outfit drips with style and confidence.",
+      "translation": "在现代俚语中，他的穿着散发着时尚和自信。",
+      "source": "Social media and hip-hop culture (from urban dictionaries and COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The ancient cave formations drip with mineral deposits over centuries.",
+      "translation": "古老的洞穴形成物在几个世纪中不断滴下矿物质沉积。",
+      "source": "Scientific articles (e.g., geology texts)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "dryppian",
+        "meaning": "To drop",
+        "language": "Old English"
+      },
+      {
+        "root": "drup-",
+        "meaning": "Drop or fall",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'dryppian'，意为液体滴落，源自原始日耳曼语的 'drup-'，与现代英语 'drop' 相关联。随着时间推移，该词从单纯的物理描述扩展到比喻用法，如俚语中的时尚表达，在中古英语时期已见于文学作品中。",
+    "firstKnownUse": "约1000年",
+    "relatedWords": [
+      "drop",
+      "drizzle",
+      "dripstone"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将 'drip' 的发音与视觉图像（如水滴图片）结合；对于中文母语学习者，强调词的多义性，通过重复曝光于不同语境来加强记忆，避免混淆与类似词如 'drop' 的区别。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "trickle",
+        "similarity": "0.8",
+        "context": "适用于缓慢流动的液体场景，如 '水从裂缝中 trickle'（水从裂缝中 trickle）"
+      },
+      {
+        "word": "leak",
+        "similarity": "0.7",
+        "context": "常用于非正式描述液体渗漏，如 '管道在 drip 或 leak'（管道在滴落或漏水）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pour",
+        "context": "适用于大量流动的场景，如 '水倒出而不是 drip'（水倾倒而不是滴落）"
+      },
+      {
+        "word": "flood",
+        "context": "在描述大规模溢出的语境中，如 '河流 flood 而非 drip'（河流泛滥而非滴落）"
+      }
+    ],
+    "hypernyms": [
+      "flow"
+    ],
+    "hyponyms": [
+      "raindrop",
+      "teardrop"
+    ],
+    "collocations": [
+      {
+        "pattern": "drip + preposition (e.g., from, with)",
+        "examples": [
+          "Water drips from the roof",
+          "The speech drips with emotion"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + drip (e.g., IV drip)",
+        "examples": [
+          "Set up the IV drip"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'drip' 作为俚语常象征时尚或财富，尤其在嘻哈和街头文化中（如美国青年文化），隐含积极的社交地位；然而，在传统语境中，它代表简单物理现象，无特定象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "俚语用法更常见，如指代时尚",
+        "usage": "在社交媒体和非正式对话中流行，反映当代美国青少年的语言演变"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向于中性或技术用法，如 'drip feed' 在工业语境",
+        "usage": "在正式或技术领域使用，较少俚语化"
+      }
+    ],
+    "historicalContext": "与工业革命相关的液体传输技术（如滴注系统）有关，在文学如莎士比亚作品中出现过简单描述；现代社会中，与医疗和环境议题（如水资源）关联。",
+    "modernUsage": "在社交媒体平台如TikTok上，'drip' 常用于时尚视频，体现全球青年文化的传播趋势，需注意跨文化敏感性以避免误解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个水龙头在缓慢滴水，滴落的每一滴都形成涟漪。",
+      "keyElements": [
+        "水滴",
+        "水龙头",
+        "涟漪"
+      ],
+      "emotionalConnection": "联结到个人经历，如雨天漏水的屋顶，触发熟悉感和情绪记忆以增强长期保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'Drip' 听起来像 'drop'，所以想象一个 'drop' 在 'drip' 着水。",
+        "explanation": "通过声音联想和视觉编码，基于认知科学中的多模态学习原理，帮助中文母语学习者快速区分和记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-R-I-P: Drops Regularly In Pattern",
+        "explanation": "使用首字母缩写结合重复模式，强化神经路径以改善回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "drop",
+      "trickle",
+      "leak"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "drips",
+      "pastTense": "dripped",
+      "pastParticiple": "dripped",
+      "presentParticiple": "dripping",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., Water drips down)",
+        "description": "主语+动词+宾语结构，常用于描述动作",
+        "examples": [
+          "The candle drips wax."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with modifier (e.g., a slow drip)",
+        "description": "名词短语加修饰语，用于静态描述",
+        "examples": [
+          "The IV drip continued overnight."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'drip' with 'drop' in usage",
+        "correction": "Use 'drip' for continuous action and 'drop' for a single instance",
+        "explanation": "中文母语学习者常混淆动态和静态含义，建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect verb form in past tense",
+        "correction": "Always use 'dripped' for past actions",
+        "explanation": "由于 'drip' 是规则动词，避免不规则变化的错误，通过重复句型练习强化。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "medicine",
+      "daily life",
+      "slang"
+    ],
+    "tags": [
+      "liquid",
+      "action",
+      "informal",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

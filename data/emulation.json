@@ -1,0 +1,239 @@
+{
+  "word": "emulation",
+  "phonetics": {
+    "british": "/ˌɛmjʊˈleɪʃən/",
+    "american": "/ˌɛmjəˈleɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of imitating the actions, qualities, or achievements of another person or thing, often with the aim of equaling or surpassing them.",
+      "chineseTranslation": "仿效；竞争",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and technology, the process of replicating the behavior of one system using another, such as software mimicking hardware.",
+      "chineseTranslation": "仿真；模拟",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "emulation of behavior",
+      "meaning": "行为的仿效",
+      "example": "The emulation of behavior in young children often stems from observing their parents.",
+      "exampleTranslation": "年轻孩子的行为仿效通常源于观察父母。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hardware emulation",
+      "meaning": "硬件仿真",
+      "example": "Hardware emulation allows developers to test software on virtual devices.",
+      "exampleTranslation": "硬件仿真允许开发者在虚拟设备上测试软件。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Through emulation of successful entrepreneurs, she built her own thriving business.",
+      "translation": "通过对成功企业家的仿效，她建立了自己繁荣的事业。",
+      "source": "Business literature (e.g., biographies)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, emulation is used to run old video games on modern consoles.",
+      "translation": "在计算机科学中，仿真用于在现代控制台上运行旧视频游戏。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The artist's emulation of Renaissance masters is evident in the intricate details of his paintings.",
+      "translation": "这位艺术家对文艺复兴大师的仿效在其画作的复杂细节中显而易见。",
+      "source": "Art criticism (e.g., from literary sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "aemulatio",
+        "meaning": "rivalry or imitation",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 aemulatio，源自 aemulari '竞争或模仿'，其根源是 aemulus '竞争者'。在英语中，该词于15世纪传入，最初指竞争或效仿行为，后来扩展到现代技术语境中的模拟过程。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "emulate",
+      "emulator",
+      "aemulus"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 5,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 6,
+    "usageComplexity": 5,
+    "learningTips": [
+      "使用联想法，将 'emulation' 与中文 '仿效' 联想起来，结合实际生活场景如孩子模仿父母的行为；根据认知科学原理，通过重复暴露和间隔重复（spaced repetition）来强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "imitation",
+        "similarity": 0.8,
+        "context": "在教育或艺术语境中，强调学习和模仿"
+      },
+      {
+        "word": "simulation",
+        "similarity": 0.7,
+        "context": "在技术语境中，用于计算机模拟"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "originality",
+        "context": "强调创新和独创性，与仿效形成对比"
+      },
+      {
+        "word": "innovation",
+        "context": "在商业语境中，指新颖的想法而非抄袭"
+      }
+    ],
+    "hypernyms": [
+      "imitation"
+    ],
+    "hyponyms": [
+      "computer emulation",
+      "behavioral emulation"
+    ],
+    "collocations": [
+      {
+        "pattern": "emulation of",
+        "examples": [
+          "emulation of leaders",
+          "emulation of nature"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "hardware emulation",
+        "examples": [
+          "software for hardware emulation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征学习和进步的手段，例如在古希腊和文艺复兴时期，emulation 被视为追求卓越的积极行为；在东方文化如中国，类似概念可能与 '师法自然' 或 '学习榜样' 相关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如软件开发",
+        "usage": "在日常英语中，强调创新技术，例如 'emulation in gaming'。"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向历史和教育语境",
+        "usage": "在正式语境中，如文学讨论中，使用频率较高。"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期欧洲文化相关联，当时emulation 代表艺术家和学者对古希腊罗马大师的效仿；在现代，关联到工业革命和数字时代的技术模拟。",
+    "modernUsage": "在社交媒体和数字平台上，emulation 常用于讨论AI和虚拟现实的趋势，例如在线教程中教授 'emulation techniques'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个孩子观察父母的行为并尝试模仿，这是一个动态场景。",
+      "keyElements": [
+        "孩子",
+        "父母",
+        "模仿动作"
+      ],
+      "emotionalConnection": "联结到个人童年经历，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Emulation 听起来像 'e-mule-ation'，联想为 '像骡子一样努力追赶他人'。",
+        "explanation": "通过声音和视觉联想，结合认知科学中的双编码理论（dual coding），将听觉和图像结合以提高记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "E-M-U-L-A-T-I-O-N：Each Memory Uses Links And Triggers In Our Nature。",
+        "explanation": "使用首字母缩略法，基于Elaboration Theory，帮助学习者构建关联网络。"
+      }
+    ],
+    "wordAssociations": [
+      "imitate",
+      "copy",
+      "simulate",
+      "rival"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "emulations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with 'of'",
+        "description": "该词常作为名词出现在 'emulation of [object]' 结构中，表示对某事物的仿效。",
+        "examples": [
+          "The emulation of historical figures inspires modern leaders."
+        ]
+      },
+      {
+        "pattern": "In technical contexts",
+        "description": "在技术语境中，常与动词如 'perform' 或 'use' 搭配。",
+        "examples": [
+          "They use emulation to test the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'emulation' with 'stimulation'",
+        "correction": "Use 'emulation' for imitation and 'stimulation' for encouragement",
+        "explanation": "这两个词在拼写和发音上相似，但语义不同，学习者需注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'emulations' for plural",
+        "explanation": "作为可数名词，需正确添加 -s，但初级学习者可能遗漏。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium; ranked approximately 8,500 in the COCA corpus",
+    "domains": [
+      "Education",
+      "Technology",
+      "Business"
+    ],
+    "tags": [
+      "imitation",
+      "simulation",
+      "competition"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

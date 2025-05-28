@@ -1,0 +1,272 @@
+{
+  "word": "event",
+  "phonetics": {
+    "british": "/ɪˈvɛnt/",
+    "american": "/ɪˈvɛnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that happens, especially an important or notable occurrence.",
+      "chineseTranslation": "事件",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A planned public or social occasion, such as a concert or conference.",
+      "chineseTranslation": "活动",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To occur or take place (archaic or literary use).",
+      "chineseTranslation": "发生（较少用）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "current event",
+      "meaning": "当前发生的事件",
+      "example": "Keeping up with current events is essential for informed citizenship.",
+      "exampleTranslation": "跟上当前事件对于成为知情的公民至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "special event",
+      "meaning": "特别的活动或场合",
+      "example": "The museum is hosting a special event for children's day.",
+      "exampleTranslation": "博物馆正在为儿童节举办一个特别活动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "major event",
+      "meaning": "重大事件",
+      "example": "The Olympic Games is a major event that unites the world.",
+      "exampleTranslation": "奥运会是一个将世界团结起来的重大事件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The event drew thousands of attendees from around the globe.",
+      "translation": "这个事件吸引了来自全球的数千名参与者。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Unexpected events can change the course of history.",
+      "translation": "意想不到的事件可以改变历史的进程。",
+      "source": "Historical text (e.g., from academic sources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We're organizing a corporate event next month to launch the new product.",
+      "translation": "我们下个月要组织一个公司活动来推出新产品。",
+      "source": "Business communication (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the novel, the event unfolded dramatically at midnight.",
+      "translation": "在小说中，这个事件在午夜戏剧性地展开。",
+      "source": "Literary work (e.g., from BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "eventus",
+        "meaning": "outcome or result",
+        "language": "Latin"
+      },
+      {
+        "root": "evenire",
+        "meaning": "to come out or happen",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'evenire'（意为'出来'或'发生'），演变为古典拉丁语 'eventus'，表示结果或事件。在中世纪拉丁语中用于指特定发生的事，并在14世纪进入英语，最初用于正式或文学语境，逐渐扩展到现代日常用法中。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "eventual",
+      "eventuality"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的重复间隔法，将 'event' 与个人经历的事件联系起来，例如回忆一个重要活动，以增强长期记忆；结合视觉辅助，如绘图事件流程图，以降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "occurrence",
+        "similarity": "0.8",
+        "context": "适用于中性语境，如描述日常或历史事件"
+      },
+      {
+        "word": "incident",
+        "similarity": "0.7",
+        "context": "适用于较小规模或突发事件"
+      },
+      {
+        "word": "happening",
+        "similarity": "0.9",
+        "context": "适用于非正式语境，如口语描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-event",
+        "context": "适用于描述无趣或未发生的事"
+      },
+      {
+        "word": "inaction",
+        "context": "适用于强调无活动或静止状态"
+      }
+    ],
+    "hypernyms": [
+      "phenomenon",
+      "occurrence"
+    ],
+    "hyponyms": [
+      "festival",
+      "accident",
+      "conference"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + event",
+        "examples": [
+          "organize an event",
+          "attend an event"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + event",
+        "examples": [
+          "major event",
+          "unexpected event"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征社会互动和社会事件，如节日或历史时刻，体现了西方文化对事件驱动型叙事（如在文学和媒体中）的重视。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式场合，如 'public event' 表示公共活动",
+        "usage": "在英国英语中，常与历史或传统事件相关联，例如英国的议会事件"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于娱乐和商业语境，如 'sporting event'",
+        "usage": "在美国英语中，常用于描述大型活动，如超级碗，反映出文化对娱乐事件的强调"
+      }
+    ],
+    "historicalContext": "与历史文化相关联，如在英国文学中，事件常指关键历史转折；在现代社会中，与工业革命和全球化相关，强调事件在社会变革中的作用。",
+    "modernUsage": "在社交媒体和数字时代下，该词的传播趋势增加，例如在Twitter或Instagram上用于推广虚拟事件，体现了全球化和数字文化的融合。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个日历上标记的重要事件场景，如生日派对或新闻头条。",
+      "keyElements": [
+        "日历",
+        "人群",
+        "标志性时刻"
+      ],
+      "emotionalConnection": "联结个人重要事件的回忆，如家庭聚会，以触发积极情绪并加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'event' 联想为 'even + t'，想象一个平衡的 't' 形状的事件发生。",
+        "explanation": "通过视觉联想帮助初级学习者记住拼写和发音，基于认知科学的空间记忆原则。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ɪˈvɛnt/ 像 'i-vent'，联想为 'I went to an event' 的短语。",
+        "explanation": "利用声音和叙事联想增强记忆，符合认知语言学的重复和情境化策略。"
+      }
+    ],
+    "wordAssociations": [
+      "occurrence",
+      "gathering",
+      "milestone"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "events",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + event",
+        "description": "主语 + 动词 + 事件结构，常用于描述发生",
+        "examples": [
+          "The event happened suddenly."
+        ]
+      },
+      {
+        "pattern": "Adjective + event",
+        "description": "形容词 + 事件结构，用于修饰",
+        "examples": [
+          "It was a significant event."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'event' as uncountable",
+        "correction": "Use 'event' as countable with articles (a/an/the)",
+        "explanation": "英语中 'event' 是可数名词，常被中文母语者误用为不可数，因此需添加冠词以符合语法规则。"
+      },
+      {
+        "mistake": "Confusing with 'invent'",
+        "correction": "Distinguish 'event' from 'invent'",
+        "explanation": "发音相似可能导致混淆；通过发音练习避免错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "news",
+      "business",
+      "culture",
+      "sports"
+    ],
+    "tags": [
+      "noun",
+      "event-related",
+      "temporal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

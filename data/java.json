@@ -1,0 +1,252 @@
+{
+  "word": "java",
+  "phonetics": {
+    "british": "/ˈdʒɑːvə/",
+    "american": "/ˈdʒævə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "chineseTranslation": "一种高级的、基于类的、面向对象的编程语言，设计时尽量减少实现依赖。",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of coffee bean or the coffee drink made from it, originally from the island of Java in Indonesia.",
+      "chineseTranslation": "一种咖啡豆或由其制成的咖啡饮品，起源于印度尼西亚的爪哇岛。",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "An island in Indonesia, known for its volcanic activity and as a major source of coffee beans.",
+      "chineseTranslation": "印度尼西亚的一个岛屿，以火山活动闻名，并作为主要咖啡豆产地。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Java programming",
+      "meaning": "Java 编程",
+      "example": "She is learning Java programming to develop mobile applications.",
+      "exampleTranslation": "她在学习 Java 编程来开发移动应用程序。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "A cup of Java",
+      "meaning": "一杯爪哇咖啡",
+      "example": "I need a cup of Java to start my morning.",
+      "exampleTranslation": "我需要一杯爪哇咖啡来开始我的早晨。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Java island",
+      "meaning": "爪哇岛",
+      "example": "Java island is home to several active volcanoes.",
+      "exampleTranslation": "爪哇岛是几个活跃火山的所在地。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software engineer wrote the code in Java for better portability.",
+      "translation": "软件工程师用 Java 编写代码以获得更好的可移植性。",
+      "source": "Technical documentation (e.g., from Oracle's Java tutorials)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After a long meeting, he grabbed a quick Java from the coffee shop.",
+      "translation": "开完漫长的会议后，他从咖啡店拿了一杯快速的爪哇咖啡。",
+      "source": "Informal conversation (e.g., modern American English corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Tourists flock to Java island to explore its rich cultural heritage.",
+      "translation": "游客们蜂拥至爪哇岛探索其丰富的文化遗产。",
+      "source": "Travel literature (e.g., from Lonely Planet guides)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, from Dutch or French via Indonesian",
+    "rootWords": [
+      {
+        "root": "Java",
+        "meaning": "Named after the island of Java",
+        "language": "Indonesian/Malay"
+      }
+    ],
+    "historicalDevelopment": "一開始，這個詞源自印度尼西亚的爪哇岛，作為咖啡的產地。19世紀時，英語中用來指爪哇咖啡。20世紀90年代，Sun Microsystems 開發的编程語言取名為 Java，可能源自創始人對咖啡的喜愛，從爪哇咖啡中借用，以強調其 '活力' 和 '能量'。這個詞從地理和商品轉化為技術術語，反映了全球化對語言的影響。",
+    "firstKnownUse": "约 1700 年，用于指爪哇岛和咖啡；约 1995 年，用于编程语言",
+    "relatedWords": [
+      "Javanese",
+      "coffee"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先将 'java' 与视觉图像（如咖啡杯或代码界面）关联，再通过重複練習強化語境記憶；對於中級學習者，運用雙語轉換避免混淆多重含義。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "C++",
+        "similarity": "0.7",
+        "context": "在技術語境中，作為另一種编程語言的替代選擇"
+      },
+      {
+        "word": "espresso",
+        "similarity": "0.5",
+        "context": "在咖啡相關語境中，指類似咖啡類型"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Python",
+        "context": "在编程語境中，指另一種不同風格的编程語言"
+      },
+      {
+        "word": "decaf",
+        "context": "在咖啡語境中，指無咖啡因的替代品"
+      }
+    ],
+    "hypernyms": [
+      "programming language",
+      "coffee bean"
+    ],
+    "hyponyms": [
+      "Oracle Java",
+      "Arabica Java"
+    ],
+    "collocations": [
+      {
+        "pattern": "Java [noun] development",
+        "examples": [
+          "Java application development"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "a [adjective] Java",
+        "examples": [
+          "a strong Java coffee"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "這個詞在現代文化中象徵科技創新和日常生活必需品；作為编程語言，它代表了全球數字時代的象徵，而作為咖啡，它隱含了殖民歷史和全球化貿易。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境",
+        "usage": "在美国英語中，'Java' 經常與科技產業聯繫，常見於矽谷文化"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向咖啡的含義",
+        "usage": "在英國英語中，可能更強調其作為飲料的歷史根源"
+      }
+    ],
+    "historicalContext": "與歐洲殖民時代的爪哇岛貿易相關，後來延伸到20世紀的科技革命；例如，在文學中，Java 咖啡出現在描述殖民時期的作品中，如Joseph Conrad的小說。",
+    "modernUsage": "在社交媒體和數字平台上，'Java' 常見於程式碼共享或咖啡文化討論中，如Twitter或Reddit上的趨勢。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個程式員手持咖啡杯，電腦螢幕上顯示Java代碼的場景。",
+      "keyElements": [
+        "咖啡杯",
+        "程式碼",
+        "爪哇岛地圖"
+      ],
+      "emotionalConnection": "聯結個人經驗，如喝咖啡時學習編程的感覺，來強化記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Java就像热咖啡：J(热)ava(活力)",
+        "explanation": "通過聯想Java的首字母與熱咖啡的能量，幫助記憶其多重含義"
+      },
+      {
+        "type": "声音联觉",
+        "content": "發音 '/ˈdʒɑːvə/' 聽起來像 'jar of va'，聯想到咖啡罐",
+        "explanation": "利用音似來建立感官聯繫，根據認知科學的聲音-視覺整合原則"
+      }
+    ],
+    "wordAssociations": [
+      "code",
+      "caffeine",
+      "island"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作為名詞使用在短語中",
+        "examples": [
+          "The Java platform is widely used."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "與介詞搭配，如 'in Java'",
+        "examples": [
+          "Programming in Java is straightforward."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing Java with Javascript",
+        "correction": "Distinguish as separate languages",
+        "explanation": "Java和Javascript是不同的；前者是獨立語言，後者是網頁腳本語言"
+      },
+      {
+        "mistake": "Using 'Java' as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "這個詞不是動詞，避免錯誤轉化為動作"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in COCA corpus (top 10,000 words in technical domains)",
+    "domains": [
+      "科技",
+      "食品",
+      "地理"
+    ],
+    "tags": [
+      "编程",
+      "咖啡",
+      "岛屿"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

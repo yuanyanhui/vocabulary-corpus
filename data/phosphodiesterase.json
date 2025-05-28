@@ -1,0 +1,241 @@
+{
+  "word": "phosphodiesterase",
+  "phonetics": {
+    "british": "/ˌfɒsfəʊdaɪˈɛstəreɪz/",
+    "american": "/ˌfɑːsfəʊdaɪˈɛstəreɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An enzyme that catalyzes the hydrolysis of phosphodiester bonds, commonly involved in breaking down cyclic nucleotides such as cAMP and cGMP in cellular signaling pathways.",
+      "chineseTranslation": "磷酸二酯酶",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cyclic nucleotide phosphodiesterase",
+      "meaning": "环核苷酸磷酸二酯酶",
+      "example": "Cyclic nucleotide phosphodiesterase plays a key role in regulating intracellular signaling.",
+      "exampleTranslation": "环核苷酸磷酸二酯酶在调节细胞内信号传导中发挥关键作用。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "phosphodiesterase inhibitor",
+      "meaning": "磷酸二酯酶抑制剂",
+      "example": "Phosphodiesterase inhibitors are often prescribed for pulmonary hypertension.",
+      "exampleTranslation": "磷酸二酯酶抑制剂通常用于治疗肺动脉高压。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Phosphodiesterase is essential for the termination of second messenger signals in cells.",
+      "translation": "磷酸二酯酶对于终止细胞中的第二信使信号至关重要。",
+      "source": "Scientific literature, e.g., from biochemistry textbooks",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In pharmacology, phosphodiesterase inhibitors like sildenafil are used to treat erectile dysfunction.",
+      "translation": "在药理学中，像西地那非这样的磷酸二酯酶抑制剂被用于治疗勃起功能障碍。",
+      "source": "Medical journals, e.g., The New England Journal of Medicine",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers are studying the role of phosphodiesterase in neurodegenerative diseases.",
+      "translation": "研究人员正在研究磷酸二酯酶在神经退行性疾病中的作用。",
+      "source": "Academic papers from COCA corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "phospho-",
+        "meaning": "relating to phosphorus",
+        "language": "Greek (from φῶς, phōs, meaning light)"
+      },
+      {
+        "root": "di-",
+        "meaning": "two or double",
+        "language": "Greek (from δίς, dis)"
+      },
+      {
+        "root": "ester",
+        "meaning": "a compound derived from an acid",
+        "language": "German (from Essigäther, meaning acetic ether)"
+      },
+      {
+        "root": "-ase",
+        "meaning": "enzyme",
+        "language": "From Latin via modern scientific naming conventions"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪末的生物化学发展，'phospho-' 来源于希腊语表示磷元素，'di-' 表示双重结构，'ester' 源自德国化学术语，'-ase' 是酶类的标准后缀。从词源到现代，phosphodiesterase 演变为描述特定酶类的术语，用于解释细胞信号传导的机制。",
+    "firstKnownUse": "Circa 1950, in biochemical literature",
+    "relatedWords": [
+      "phosphatase",
+      "diesterase",
+      "nucleotide"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "8",
+    "spellingDifficulty": "9",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "通过分解词根如 'phospho-' 和 '-ase' 来构建语义网络；结合认知科学，利用重复曝光和关联学习，例如将词汇与实际生物过程的视觉模型联系；对于中文母语学习者，建议使用双语对照表以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "PDE",
+        "similarity": "0.9",
+        "context": "在科学和技术语境中用作缩写，常用于学术论文和药物研究"
+      },
+      {
+        "word": "diesterase",
+        "similarity": "0.8",
+        "context": "泛指类似酶类，但在具体磷酸相关的上下文中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "phosphorylase",
+        "context": "在酶类功能上相反，常用于添加磷酸基团而非水解"
+      }
+    ],
+    "hypernyms": [
+      "enzyme"
+    ],
+    "hyponyms": [
+      "PDE1",
+      "PDE5"
+    ],
+    "collocations": [
+      {
+        "pattern": "phosphodiesterase + inhibitor",
+        "examples": [
+          "Phosphodiesterase inhibitor therapy"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "role of + phosphodiesterase",
+        "examples": [
+          "The role of phosphodiesterase in signal transduction"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征现代生物医学的进步，隐含语义涉及健康和药物开发，但在非西方文化中可能缺乏直接象征，仅作为技术术语。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More frequent in pharmaceutical contexts",
+        "usage": "在美国英语中，常与药物研发相关联，如在FDA法规中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to American usage but with emphasis on academic research",
+        "usage": "在英国英语中，更常出现在大学和科研机构的出版物中"
+      }
+    ],
+    "historicalContext": "与20世纪生物化学革命相关，特别是在二战后DNA结构发现的背景下，体现了科学全球化的影响。",
+    "modernUsage": "在现代社交和数字媒体中，主要出现在专业论坛和健康教育平台上，如Twitter上的医学讨论或在线课程。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个细胞内部的场景，其中磷酸二酯酶像一个切割工具在分解分子链。",
+      "keyElements": [
+        "细胞",
+        "酶",
+        "分子链"
+      ],
+      "emotionalConnection": "联结到个人健康经验，如回想药物治疗的过程，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'phospho' as phosphorus light and 'diesterase' as a double cutter.",
+        "explanation": "通过视觉联想将词根与图像关联，提升认知保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "PDE = Power Down Enzyme (for hydrolysis).",
+        "explanation": "使用简易缩略语结合功能描述，基于认知科学中的重复强化"
+      }
+    ],
+    "wordAssociations": [
+      "enzyme",
+      "hydrolysis",
+      "cAMP",
+      "signaling"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "phosphodiesterases",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + phosphodiesterase",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "Phosphodiesterase regulates cellular functions."
+        ]
+      },
+      {
+        "pattern": "Phosphodiesterase + of + noun",
+        "description": "表示所属关系",
+        "examples": [
+          "The inhibition of phosphodiesterase improves outcomes."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'phosphatase'",
+        "correction": "Use 'phosphodiesterase' for specific phosphodiester bond hydrolysis",
+        "explanation": "二者虽均涉及磷酸，但功能不同；母语为中文的学习者可能因音似混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "英文名词复数规则需注意，尤其是技术术语"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low; ranked approximately 150,000 in COCA corpus",
+    "domains": [
+      "science",
+      "medicine",
+      "biochemistry"
+    ],
+    "tags": [
+      "enzyme",
+      "biochemistry",
+      "pharmacology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

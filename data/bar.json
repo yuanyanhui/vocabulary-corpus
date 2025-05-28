@@ -1,0 +1,275 @@
+{
+  "word": "bar",
+  "phonetics": {
+    "british": "/bɑː/",
+    "american": "/bɑr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place where alcoholic drinks and sometimes food are served for consumption on the premises.",
+      "chineseTranslation": "酒吧",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A long, straight piece of metal or other material used for various purposes, such as a barrier or support.",
+      "chineseTranslation": "条、棒",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To prevent or prohibit someone from entering or doing something.",
+      "chineseTranslation": "禁止、阻挡",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of pressure equal to 100,000 pascals, used in meteorology and physics.",
+      "chineseTranslation": "巴（压力单位）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bar code",
+      "meaning": "条形码",
+      "example": "The bar code on the package helps in scanning the product at checkout.",
+      "exampleTranslation": "包装上的条形码有助于在结账时扫描产品。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "raise the bar",
+      "meaning": "提高标准",
+      "example": "The new policy will raise the bar for customer service in the industry.",
+      "exampleTranslation": "新政策将提高行业中客户服务的标准。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "behind bars",
+      "meaning": "在监狱中",
+      "example": "The criminal spent ten years behind bars for his crimes.",
+      "exampleTranslation": "罪犯因他的罪行在监狱中度过了十年。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After work, we decided to meet at the local bar for a drink.",
+      "translation": "下班后，我们决定在当地酒吧见面喝一杯。",
+      "source": "Everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The iron bar was used to reinforce the structure of the bridge.",
+      "translation": "铁棒被用来加固桥梁的结构。",
+      "source": "Technical writing",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The court decided to bar the witness from testifying due to lack of credibility.",
+      "translation": "法院决定禁止证人作证，因为缺乏可信度。",
+      "source": "Legal document",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Atmospheric pressure is measured in bars, with one bar approximately equal to the average pressure at sea level.",
+      "translation": "大气压力以巴为单位测量，一巴大约等于海平面的平均压力。",
+      "source": "Scientific article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (from Latin)",
+    "rootWords": [
+      {
+        "root": "barra",
+        "meaning": "bar or barrier",
+        "language": "Latin"
+      },
+      {
+        "root": "barre",
+        "meaning": "beam or rod",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'barra'，意为障碍物或横梁，通过古法语 'barre' 演变为现代英语，最初用于指物理障碍物，后来扩展到抽象含义如禁止或社交场所。",
+    "firstKnownUse": "Around 12th century in Middle English",
+    "relatedWords": [
+      "barrier",
+      "barricade",
+      "barrister"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法复习 'bar' 的多义性，以强化语义网络；",
+      "通过视觉联想将词与图片配对，例如酒吧图像与障碍物图像，以提升记忆保留率；",
+      "针对母语为中文的学习者，比较 'bar' 与 '吧' 的差异，避免负迁移"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pub",
+        "similarity": "0.8",
+        "context": "在非正式社交语境中，用于指代酒吧"
+      },
+      {
+        "word": "block",
+        "similarity": "0.6",
+        "context": "在动词形式中，用于表示阻挡"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "allow",
+        "context": "在动词语境中，表示禁止的反义词"
+      },
+      {
+        "word": "permit",
+        "context": "在法律或正式语境中，表示允许"
+      }
+    ],
+    "hypernyms": [
+      "establishment",
+      "object"
+    ],
+    "hyponyms": [
+      "tavern",
+      "saloon",
+      "metal rod"
+    ],
+    "collocations": [
+      {
+        "pattern": "bar + noun (e.g., bar of soap)",
+        "examples": [
+          "a bar of chocolate",
+          "a bar of gold"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + bar (e.g., raise the bar)",
+        "examples": [
+          "lower the bar"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'bar' 常象征社交和休闲场所，如美国文化中的酒吧是社区聚会点，但也隐含酒精消费的文化问题；在跨文化语境中，需注意中文文化中类似场所的差异，如茶馆。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly refers to a pub with a traditional atmosphere.",
+        "usage": "在英国，常用于非正式社交，强调历史和社区感"
+      },
+      {
+        "region": "United States",
+        "variation": "Often implies a more casual or sports-oriented venue.",
+        "usage": "在美国，常见于现代都市生活，关联流行文化如体育赛事"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'bar' 作为物理物体象征了早期制造业；作为社交场所，源于19世纪的酒馆文化，出现在文学如狄更斯的作品中。",
+    "modernUsage": "在社交媒体和数字语境下，'bar' 常用于虚拟现实，如在线酒吧应用，反映全球化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个明亮的酒吧里有一根铁棒作为门闩，象征阻挡入口。",
+      "keyElements": [
+        "酒吧灯光",
+        "铁棒障碍"
+      ],
+      "emotionalConnection": "联结个人经历，如初次去酒吧的兴奋感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bar 像 '吧' 在中文中，表示地方，所以联想到 'beer at bar'。",
+        "explanation": "通过声音和视觉联想，结合认知科学中的双编码理论，提升词汇记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "B.A.R. = Block And Relax (阻挡和放松)",
+        "explanation": "使用首字母缩略法，帮助区分多义词，并通过积极情绪强化"
+      }
+    ],
+    "wordAssociations": [
+      "pub",
+      "block",
+      "pressure"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bars",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: 'the bar'",
+        "description": "用作名词时，常在定语结构中",
+        "examples": [
+          "The bar is crowded tonight."
+        ]
+      },
+      {
+        "pattern": "Verb + object: 'bar someone from something'",
+        "description": "用作动词时，需后接宾语和介词短语",
+        "examples": [
+          "They barred him from entering the club."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bar' with 'bear' in pronunciation",
+        "correction": "Use /bɑr/ for 'bar' and /bɛər/ for 'bear'",
+        "explanation": "母语干扰导致发音混淆，通过对比练习避免"
+      },
+      {
+        "mistake": "Using 'bar' incorrectly in formal contexts",
+        "correction": "Replace with more precise terms like 'prohibit' in technical writing",
+        "explanation": "语域不当可能导致正式场合不适配"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "social",
+      "technical",
+      "legal"
+    ],
+    "tags": [
+      "colloquial",
+      "multifunctional",
+      "idiomatic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

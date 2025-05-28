@@ -1,0 +1,299 @@
+{
+  "word": "pip",
+  "phonetics": {
+    "british": "/pɪp/",
+    "american": "/pɪp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small seed inside certain fruits, such as apples or oranges.",
+      "chineseTranslation": "水果的种子（如苹果或橙子的种子）",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small spot or dot on a playing card or die.",
+      "chineseTranslation": "纸牌或骰子上的点数",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In British English, a feeling of annoyance or illness.",
+      "chineseTranslation": "（英国俚语）不适感或烦恼",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make a short, high-pitched sound, as a bird might.",
+      "chineseTranslation": "发出短促、高亢的声音（如鸟叫）",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "A package installer for Python, used to install and manage software packages.",
+      "chineseTranslation": "Python 的包安装程序，用于安装和管理软件包",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "give someone the pip",
+      "meaning": "使某人感到烦恼或不适",
+      "example": "That rainy weather always gives me the pip.",
+      "exampleTranslation": "那种阴雨天气总是让我感到不适。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "pip in a fruit",
+      "meaning": "水果中的种子",
+      "example": "Be careful of the pip in the apple when you eat it.",
+      "exampleTranslation": "吃苹果时要小心里面的种子。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "install via pip",
+      "meaning": "通过 pip 安装",
+      "example": "You can install the library via pip by running 'pip install example'.",
+      "exampleTranslation": "你可以运行 'pip install example' 通过 pip 安装库。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The apple had a small pip inside that I almost swallowed.",
+      "translation": "苹果里面有一个小种子，我差点吞下去。",
+      "source": "Everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In poker, the pip on the card indicates its value.",
+      "translation": "在扑克牌中，牌上的点数表示它的价值。",
+      "source": "Gaming context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "That old joke gives me the pip every time I hear it.",
+      "translation": "那个老笑话每次听到都让我觉得烦。",
+      "source": "British informal dialogue",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The bird began to pip loudly in the early morning.",
+      "translation": "鸟儿在清晨开始发出短促的声音。",
+      "source": "Literature, e.g., nature descriptions",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Developers often use pip to manage dependencies in Python projects.",
+      "translation": "开发人员经常使用 pip 来管理 Python 项目的依赖项。",
+      "source": "Technical documentation, e.g., from Python official site",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English",
+    "rootWords": [
+      {
+        "root": "pip",
+        "meaning": "Seed or spot",
+        "language": "Old French (from Latin 'pippus' meaning a seed)"
+      },
+      {
+        "root": "pippe",
+        "meaning": "Spot on dice",
+        "language": "Middle Dutch"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语，最初指水果种子，可能源于古法语 'pépin'，其根源可追溯到拉丁语 'pippus'，意为种子。在中古荷兰语中，'pippe' 指骰子上的点数。词义逐渐扩展到现代英语中的各种含义，如俚语不适感，反映了语言随文化演变的轨迹。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "pippin (a type of apple)",
+      "pipette (a laboratory tool)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用分层记忆法：先通过视觉联想将 'pip' 与苹果种子图像关联，然后扩展到其他语境，如通过重复曝光于不同例句来强化语义网络；针对中文学习者，建议与类似词 'seed' 进行对比分析，以避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "seed",
+        "similarity": "0.8",
+        "context": "在水果语境中，指内部结构相似物"
+      },
+      {
+        "word": "dot",
+        "similarity": "0.7",
+        "context": "在纸牌或骰子语境中，指小点或标记"
+      },
+      {
+        "word": "installer",
+        "similarity": "0.6",
+        "context": "在技术语境中，指软件安装工具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "peel",
+        "context": "在水果语境中，指外部皮肤，与内部种子相对"
+      },
+      {
+        "word": "blank",
+        "context": "在纸牌语境中，指无点数的表面"
+      }
+    ],
+    "hypernyms": [
+      "object",
+      "sound"
+    ],
+    "hyponyms": [
+      "apple seed",
+      "bird call"
+    ],
+    "collocations": [
+      {
+        "pattern": "pip in [fruit]",
+        "examples": [
+          "pip in an orange"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "give [someone] the pip",
+        "examples": [
+          "give him the pip"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "install via pip",
+        "examples": [
+          "run pip install"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英国文化中，'pip' 作为俚语表示不适，常用于非正式对话中，象征日常琐事带来的小烦恼，体现了英国幽默的自嘲风格；在技术文化中，'pip' 是 Python 社区的核心工具，代表开源软件的实用性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于俚语，如 'give someone the pip'",
+        "usage": "在非正式社交中表达轻微不满"
+      },
+      {
+        "region": "美国",
+        "variation": "主要用于技术语境，如 Python 编程",
+        "usage": "在专业领域中，较少用于俚语"
+      }
+    ],
+    "historicalContext": "该词与中世纪欧洲贸易和游戏文化相关，反映了水果贸易和赌博在社会中的作用；在现代，'pip' 在编程中体现了数字时代的技术演进。",
+    "modernUsage": "在社交媒体上，'pip' 常出现在编程教程或抱怨天气的推文中，显示了其从传统到数字语境的转变。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个苹果被切开，里面有一个小种子（pip），旁边有一张扑克牌和一只吱吱叫的鸟。",
+      "keyElements": [
+        "苹果种子",
+        "扑克点数",
+        "鸟叫声音"
+      ],
+      "emotionalConnection": "联结到童年吃水果的快乐回忆，以增强情感触发点，促进长期记忆保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Pip 像 'pipi' 声音，联想鸟叫和种子掉落的声音。",
+        "explanation": "通过声音联想帮助建立听觉记忆路径，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-I-P: P for plant seed, I for image, P for pip sound.",
+        "explanation": "使用首字母缩略法强化视觉和语义联系，符合工作记忆模型。"
+      }
+    ],
+    "wordAssociations": [
+      "seed",
+      "dot",
+      "tweet"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pips",
+      "pastTense": "pipped (for verb)",
+      "pastParticiple": "pipped (for verb)",
+      "presentParticiple": "pipping",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + pip + [prepositional phrase]",
+        "description": "名词短语结构，常用于描述具体物体",
+        "examples": [
+          "The pip in the fruit"
+        ]
+      },
+      {
+        "pattern": "Verb phrase: Subject + pip + adverb",
+        "description": "动词短语结构，用于表示动作",
+        "examples": [
+          "The bird pips loudly"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'pip' with 'peep'",
+        "correction": "Use 'pip' for seeds or sounds, 'peep' for quick looks",
+        "explanation": "发音相似可能导致混淆；建议通过辨音练习避免。"
+      },
+      {
+        "mistake": "Incorrect usage in technical context",
+        "correction": "Always use 'pip install' for Python packages",
+        "explanation": "初学者常误用为一般安装器；强调语境区分。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Agriculture",
+      "Gaming",
+      "Computing",
+      "Informal conversation"
+    ],
+    "tags": [
+      "Nouns",
+      "Verbs",
+      "Technical terms",
+      "British slang"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

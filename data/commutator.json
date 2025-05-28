@@ -1,0 +1,233 @@
+{
+  "word": "commutator",
+  "phonetics": {
+    "british": "/ˈkɒmjʊteɪtə/",
+    "american": "/ˈkɑːmjəteɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used in electric motors and generators to reverse the direction of the electric current, allowing for the conversion of alternating current to direct current.",
+      "chineseTranslation": "换向器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, a function or operator that changes the order of elements in a set or alters the commutation relations.",
+      "chineseTranslation": "交换子（在数学中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commutator in a motor",
+      "meaning": "电机中的换向器",
+      "example": "The commutator in a motor ensures smooth rotation by switching the current direction.",
+      "exampleTranslation": "电机中的换向器通过切换电流方向确保平滑旋转。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "electric commutator",
+      "meaning": "电动换向器",
+      "example": "An electric commutator is essential for the operation of DC machines.",
+      "exampleTranslation": "电动换向器对直流机器的运行至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the DC motor, the commutator plays a crucial role in maintaining a constant magnetic field.",
+      "translation": "在直流电机中，换向器在维持恒定磁场方面发挥着关键作用。",
+      "source": "Engineering textbook (e.g., from IEEE sources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must inspect the commutator regularly to prevent sparking and wear in high-speed applications.",
+      "translation": "工程师必须定期检查换向器，以防止高速应用中的火花和磨损。",
+      "source": "Technical manual (e.g., from industrial contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The commutator segment was replaced to improve the efficiency of the generator.",
+      "translation": "换向器段被更换以提高发电机的效率。",
+      "source": "News article on renewable energy",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "commutare",
+        "meaning": "to exchange or swap",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'commutare'（意为交换）演变而来，通过法语 'commutateur' 在19世纪传入英语，用于电气工程领域，最初描述机械交换装置，后来扩展到电气和数学上下文。",
+    "firstKnownUse": "1839",
+    "relatedWords": [
+      "commute",
+      "commutation",
+      "commutative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化电机结构来记忆发音和含义；使用间隔重复法复习技术术语；将词汇与个人经验如汽车引擎关联，以增强记忆编码。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "switch",
+        "similarity": "0.7",
+        "context": "在电气工程中，用于简单切换装置的语境"
+      },
+      {
+        "word": "inverter",
+        "similarity": "0.6",
+        "context": "在电源转换的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conductor",
+        "context": "在电气系统中，指传递而非切换电流的语境"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "slip ring commutator"
+    ],
+    "collocations": [
+      {
+        "pattern": "commutator + in + noun (e.g., in a motor)",
+        "examples": [
+          "commutator in a generator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "electric + commutator",
+        "examples": [
+          "electric commutator system"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方工业文化中象征技术创新和电气工程进步，常与发明家如Thomas Edison的贡献相关联，隐含语义为效率和现代化的象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于工程和科技语境中",
+        "usage": "在美国英语中，强调实际应用，如在汽车和能源行业"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，偶尔用于学术讨论",
+        "usage": "在英国英语中，常见于历史性工程文献"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和电气化浪潮相关，特别是在西方社会的发展中，体现了科技进步对日常生活的影响。",
+    "modernUsage": "在现代社交媒体和在线论坛中，经常出现在科技讨论和DIY项目中，反映了全球数字化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个旋转的电机内部，有一个像交通信号灯的装置在切换方向。",
+      "keyElements": [
+        "旋转电机",
+        "切换方向",
+        "信号灯"
+      ],
+      "emotionalConnection": "联结到个人驾驶汽车时的引擎声音，触发对机械运动的兴趣。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Commutator 听起来像 'come mutate'，意思是 '来改变'，联想到它改变电流方向。",
+        "explanation": "通过声音联想帮助记忆词汇的核心功能。"
+      },
+      {
+        "type": "缩略",
+        "content": "C for Change, M for Motor",
+        "explanation": "使用首字母缩写与常见应用关联，增强认知编码。"
+      }
+    ],
+    "wordAssociations": [
+      "motor",
+      "switch",
+      "current"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "commutators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + commutator",
+        "description": "作为主语或宾语出现，常用于描述技术过程",
+        "examples": [
+          "The commutator functions effectively."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with commutator",
+        "description": "与介词词组结合，如 'in a motor'",
+        "examples": [
+          "The device includes a commutator in its design."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'commuter'",
+        "correction": "Use 'commutator' for electrical devices",
+        "explanation": "容易与日常词汇 'commuter' （通勤者）混淆，需要注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "commutators",
+        "explanation": "直接加 -s 形成复数，但学习者可能遗漏。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "engineering",
+      "technology",
+      "science"
+    ],
+    "tags": [
+      "electrical",
+      "mechanical",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

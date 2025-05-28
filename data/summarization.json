@@ -1,0 +1,252 @@
+{
+  "word": "summarization",
+  "phonetics": {
+    "british": "/ˌsʌməraɪˈzeɪʃən/",
+    "american": "/ˌsʌmərəˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or result of creating a summary by condensing information while retaining key points.",
+      "chineseTranslation": "摘要化；总结过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computational contexts, the automatic generation of concise versions of texts or data.",
+      "chineseTranslation": "自动摘要生成",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "text summarization",
+      "meaning": "文本摘要化",
+      "example": "Text summarization is widely used in natural language processing.",
+      "exampleTranslation": "文本摘要化广泛应用于自然语言处理。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "executive summarization",
+      "meaning": "行政摘要",
+      "example": "The report includes an executive summarization for quick reference.",
+      "exampleTranslation": "报告包括一个行政摘要以供快速参考。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "automatic summarization",
+      "meaning": "自动摘要",
+      "example": "Automatic summarization tools can save time in data analysis.",
+      "exampleTranslation": "自动摘要工具可以在数据分析中节省时间。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Effective summarization requires identifying the main ideas and omitting unnecessary details.",
+      "translation": "有效的摘要化需要识别主要观点并省略不必要的细节。",
+      "source": "Academic writing guide (e.g., from educational corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, summarization algorithms help process large datasets efficiently.",
+      "translation": "在机器学习中，摘要化算法有助于高效处理大型数据集。",
+      "source": "Technology article (e.g., from online sources like arXiv)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The professor emphasized the importance of summarization skills for essay writing.",
+      "translation": "教授强调了摘要化技能对于论文写作的重要性。",
+      "source": "Educational context (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "summus",
+        "meaning": "highest or chief",
+        "language": "Latin"
+      },
+      {
+        "root": "summarize",
+        "meaning": "to give a summary",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "该词源自拉丁语'summus'（意为最高或主要），通过古法语演变为中古英语的'summary'，然后在19世纪英语中添加后缀'-ation'形成'summarization'，从表示总结的动词扩展到名词形式，用于描述简化和提取关键信息的进程。",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "summary",
+      "summarize",
+      "summation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用间隔重复法结合认知科学原理，帮助记忆词汇关联；将词汇与个人写作经验联系，增强语境记忆；通过视觉辅助如思维导图，降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "abridgment",
+        "similarity": "0.7",
+        "context": "适用于正式的文学或文件缩减语境"
+      },
+      {
+        "word": "condensation",
+        "similarity": "0.8",
+        "context": "常用于科学或技术领域，表示信息浓缩"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expansion",
+        "context": "在讨论详细阐述或扩展内容时使用"
+      },
+      {
+        "word": "elaboration",
+        "context": "适用于需要深入细节的学术或专业语境"
+      }
+    ],
+    "hypernyms": [
+      "process",
+      "abstraction"
+    ],
+    "hyponyms": [
+      "abstract summarization",
+      "extractive summarization"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + summarization",
+        "examples": [
+          "text summarization",
+          "data summarization"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + summarization",
+        "examples": [
+          "automatic summarization",
+          "effective summarization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征信息高效处理，常与学术和专业环境相关联，体现了西方文化对简洁性和效率的重视。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如AI摘要",
+        "usage": "在美国英语中，强调在商业和科技语境下的实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于学术写作",
+        "usage": "在英国英语中，常出现在教育和正式报告中"
+      }
+    ],
+    "historicalContext": "与工业革命后的信息爆炸相关，19世纪开始流行，反映了社会对知识快速传播的需求，如在维多利亚时代文学中。",
+    "modernUsage": "在社交媒体和数字时代，常见于AI工具和在线内容生成，体现了全球数字文化的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象将一本书浓缩成一页纸的过程，像用魔术缩小物体。",
+      "keyElements": [
+        "浓缩",
+        "关键点",
+        "简化"
+      ],
+      "emotionalConnection": "联结个人阅读经验，例如回忆从长篇小说中提取要点的满足感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'summarization'与'sum up'联想起来，像数学中的求和。",
+        "explanation": "通过声音和意义联想，帮助建立认知连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "用'SUM'代表'Simplify, Understand, Memorize'",
+        "explanation": "创建简易缩写以辅助记忆，运用工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "summary",
+      "condense",
+      "abridge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "summarizations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Summarization",
+        "description": "该结构用于描述过程，例如主语执行摘要动作。",
+        "examples": [
+          "The tool performs summarization quickly."
+        ]
+      },
+      {
+        "pattern": "Summarization + of + Noun",
+        "description": "表示摘要的对象。",
+        "examples": [
+          "Summarization of the report was necessary."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'summary'",
+        "correction": "Use 'summarization' for the process, 'summary' for the result",
+        "explanation": "二者虽相关，但前者强调动态过程，后者指静态结果"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add '-s' for plural",
+        "explanation": "作为可数名词，需要正确处理复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 10,000 in COCA corpus",
+    "domains": [
+      "education",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "academic",
+      "writing",
+      "information processing"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

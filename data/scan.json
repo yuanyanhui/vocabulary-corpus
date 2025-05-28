@@ -1,0 +1,269 @@
+{
+  "word": "scan",
+  "phonetics": {
+    "british": "/skæn/",
+    "american": "/skæn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To look at or examine something carefully, especially to find or identify something.",
+      "chineseTranslation": "仔细查看或检查某物，尤其是为了发现或识别某事",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert an image or document into a digital format using a scanner.",
+      "chineseTranslation": "使用扫描仪将图像或文档转换为数字格式",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In medical contexts, to examine the body using techniques like X-rays or MRI.",
+      "chineseTranslation": "在医疗环境中，使用X射线或MRI等技术检查身体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of scanning or the result of scanning, such as a scanned image.",
+      "chineseTranslation": "扫描行为或扫描结果，例如扫描图像",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scan a document",
+      "meaning": "扫描一份文件",
+      "example": "I need to scan a document and send it via email.",
+      "exampleTranslation": "我需要扫描一份文件并通过电子邮件发送。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "full body scan",
+      "meaning": "全身扫描",
+      "example": "The doctor recommended a full body scan to check for any abnormalities.",
+      "exampleTranslation": "医生建议进行全身扫描以检查任何异常。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "quick scan",
+      "meaning": "快速扫描",
+      "example": "She did a quick scan of the room before leaving.",
+      "exampleTranslation": "她在离开前快速扫视了房间。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The security guard scanned the crowd for any suspicious activity.",
+      "translation": "保安人员扫描人群以寻找任何可疑活动。",
+      "source": "News article (e.g., from BBC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Please scan your passport at the self-service kiosk.",
+      "translation": "请在自助服务亭扫描您的护照。",
+      "source": "Airport instructions (e.g., from travel guides)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The MRI scan revealed a small fracture in the patient's ankle.",
+      "translation": "MRI扫描显示患者脚踝有小裂痕。",
+      "source": "Medical literature (e.g., from PubMed)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In her free time, she likes to scan old photos and share them online.",
+      "translation": "在她空闲时间，她喜欢扫描旧照片并在线分享。",
+      "source": "Informal blog (e.g., from personal narratives)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "scandere",
+        "meaning": "to climb",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'scandere'，意为'爬行'或'攀登'，演变为中古英语中表示仔细查看或检查的含义，可能通过古法语 'escan' 影响；到现代英语中扩展到技术扫描，如数字图像处理。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "ascend",
+      "descend",
+      "escan"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "使用重复曝光策略，根据认知科学，将 'scan' 与视觉图像（如扫描仪设备）关联，以加强记忆；对于中文母语学习者，建议通过双语对照练习避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "examine",
+        "similarity": "0.8",
+        "context": "在正式语境中用于仔细检查，例如医疗或安全检查"
+      },
+      {
+        "word": "survey",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于快速查看，例如环境观察"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在需要注意的语境中，'scan' 的反义为不予关注"
+      },
+      {
+        "word": "overlook",
+        "context": "在详细检查的语境中，意为错过细节"
+      }
+    ],
+    "hypernyms": [
+      "examine",
+      "inspect"
+    ],
+    "hyponyms": [
+      "barcode scan",
+      "CT scan"
+    ],
+    "collocations": [
+      {
+        "pattern": "scan + noun (e.g., scan a document)",
+        "examples": [
+          "scan a photo",
+          "scan the horizon"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + scan (e.g., quickly scan)",
+        "examples": [
+          "rapidly scan",
+          "carefully scan"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代数字文化中，'scan' 象征技术进步和信息快速获取，但也隐含隐私担忧，如扫描个人数据在社交媒体中的使用。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如智能手机扫描二维码",
+        "usage": "在美国日常生活中，'scan' 常与商业应用相关，如超市扫描条码"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或医疗语境",
+        "usage": "在英国，'scan' 在 NHS（国家卫生服务）中常用于医疗扫描"
+      }
+    ],
+    "historicalContext": "与工业革命和科技发展相关，19 世纪开始用于光学设备；在文学中，如狄更斯作品中象征社会观察。",
+    "modernUsage": "在社交媒体和在线平台中流行，用于快速分享内容，如扫描二维码进行支付"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个手持扫描仪的人在快速滑动设备，捕捉图像，就像爬山一样逐步探索。",
+      "keyElements": [
+        "扫描仪",
+        "图像捕捉",
+        "攀登动作"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用手机扫描二维码时的兴奋感，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Scan sounds like 'scan the sky' – think of scanning for stars.",
+        "explanation": "通过声音联想将 'scan' 与天文观察连接，利用视觉和情感触发点改善记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-A-N: See, Capture, Analyze, Note.",
+        "explanation": "使用首字母缩写结合认知科学的分步记忆技巧，帮助分解词汇含义"
+      }
+    ],
+    "wordAssociations": [
+      "examine",
+      "search",
+      "digitalize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "scanned",
+      "pastParticiple": "scanned",
+      "presentParticiple": "scanning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + scan + object",
+        "description": "主语 + 扫描 + 宾语结构，常用于动作描述",
+        "examples": [
+          "I scan the document."
+        ]
+      },
+      {
+        "pattern": "Adverb + scan",
+        "description": "副词 + 扫描结构，用于修饰动作",
+        "examples": [
+          "Quickly scan the page."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'scan' interchangeably with 'read'",
+        "correction": "Use 'scan' for visual or technical examination, not deep reading",
+        "explanation": "中文学习者常混淆 'scan' 和 'read'，因为两者均涉及查看；需区分 'scan' 的快速性"
+      },
+      {
+        "mistake": "Incorrect tense forms",
+        "correction": "Ensure proper use of 'scanned' for past actions",
+        "explanation": "中级学习者可能遗忘规则动词变形，导致语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "medicine",
+      "daily life"
+    ],
+    "tags": [
+      "action verb",
+      "technical term",
+      "observation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

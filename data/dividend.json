@@ -1,0 +1,261 @@
+{
+  "word": "dividend",
+  "phonetics": {
+    "british": "/ˈdɪv.ɪ.dɛnd/",
+    "american": "/ˈdɪv.ə.dɛnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+      "chineseTranslation": "股息",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A number to be divided by another number in mathematics.",
+      "chineseTranslation": "被除数",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A benefit or advantage from something, especially a successful action.",
+      "chineseTranslation": "红利",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pay a dividend",
+      "meaning": "支付股息",
+      "example": "The company decided to pay a dividend to its investors at the end of the fiscal year.",
+      "exampleTranslation": "公司在财年末决定向投资者支付股息。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dividend yield",
+      "meaning": "股息收益率",
+      "example": "Investors often look at the dividend yield before buying stocks.",
+      "exampleTranslation": "投资者在购买股票前通常会查看股息收益率。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "special dividend",
+      "meaning": "特别股息",
+      "example": "The board announced a special dividend due to the record profits.",
+      "exampleTranslation": "董事会因创纪录的利润宣布了一笔特别股息。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The annual dividend from the stock investment provided a steady income for the retiree.",
+      "translation": "股票投资的年度股息为退休者提供了稳定的收入。",
+      "source": "Financial news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In mathematics, the dividend is the number that is being divided by another number.",
+      "translation": "在数学中，被除数是被另一个数除的数字。",
+      "source": "Educational textbook (e.g., from a math corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The new policy changes paid immediate dividends in terms of employee satisfaction.",
+      "translation": "新政策变化在员工满意度方面立即产生了红利。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dividendum",
+        "meaning": "something to be divided",
+        "language": "Latin"
+      },
+      {
+        "root": "dividere",
+        "meaning": "to divide",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'dividendum'，最初用于数学语境表示被除数。14世纪传入英语，通过法语演变，逐渐扩展到金融领域，代表公司利润分配给股东的款项。这一演变反映了中世纪商业实践的发展。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "divide",
+      "division",
+      "divisor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过分块学习法（chunking）将 'dividend' 与相关概念如 'stock' 和 'profit' 关联，建立语义网络；使用重复间隔法（spaced repetition）复习词汇在不同语境中的应用，以强化记忆痕迹；针对母语为中文的学习者，联想 '分红' 等熟悉术语以桥接文化差异。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "return",
+        "similarity": "0.8",
+        "context": "在金融语境中，用于描述投资回报，例如股票收益"
+      },
+      {
+        "word": "profit share",
+        "similarity": "0.7",
+        "context": "在商业语境中，指公司利润的分红"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "loss",
+        "context": "在金融语境中，表示亏损，与股息相反"
+      },
+      {
+        "word": "deficit",
+        "context": "在经济语境中，表示赤字或损失"
+      }
+    ],
+    "hypernyms": [
+      "income",
+      "payment"
+    ],
+    "hyponyms": [
+      "cash dividend",
+      "stock dividend"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + noun (e.g., annual dividend)",
+        "examples": [
+          "annual dividend",
+          "special dividend"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + noun (e.g., pay a dividend)",
+        "examples": [
+          "pay a dividend",
+          "receive a dividend"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在资本主义文化中象征经济回报和股东权益，常隐含财富积累和社会阶层流动的含义；在中文文化中，与 '分红' 类似，但强调集体 vs. 个人利益的差异。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于股票市场语境",
+        "usage": "在美国英语中，'dividend' 常与公司财务报告相关，体现市场驱动的经济文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，强调历史悠久的金融传统",
+        "usage": "在英国英语中，常见于传统公司治理语境，如 FTSE 指数相关讨论"
+      }
+    ],
+    "historicalContext": "与工业革命和现代资本主义相关，起源于欧洲贸易扩展；在文学如狄更斯作品中，象征社会不公；在中国文化中，与改革开放后的市场经济关联。",
+    "modernUsage": "在社交媒体和数字经济中，'dividend' 常用于讨论加密货币或可持续投资趋势，反映全球化影响"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个投资者从一棵金色股票树上摘取果实，每个果实代表股息。",
+      "keyElements": [
+        "投资者",
+        "股票树",
+        "金色果实"
+      ],
+      "emotionalConnection": "联结个人财务目标或成功感，例如回想首次投资的兴奋，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Divide + End = Dividend",
+        "explanation": "将 'dividend' 联想为 'divide'（分割）和 'end'（结束），表示利润在周期结束时分割给股东，这种声音和语义联想有助于认知加工"
+      },
+      {
+        "type": "缩略",
+        "content": "D-I-V: Divide Income Value",
+        "explanation": "使用缩略形式记忆关键含义：Divide（分割）、Income（收入）、Value（价值），结合视觉图像强化"
+      }
+    ],
+    "wordAssociations": [
+      "stock",
+      "profit",
+      "yield",
+      "return"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "dividends",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object (e.g., The company pays dividends)",
+        "description": "典型的名词短语结构，常作为直接宾语",
+        "examples": [
+          "The company pays dividends annually."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., dividend from investments)",
+        "description": "与介词搭配，表示来源",
+        "examples": [
+          "Dividends from investments fund the retirement."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'divident' (a misspelling)",
+        "correction": "dividend",
+        "explanation": "学习者常因拼写错误而混淆；正确形式基于词源，确保正字法"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "'Dividend' 是名词，不能用作动词；母语中文学习者可能受词类转移影响"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for business domain)",
+    "domains": [
+      "finance",
+      "business",
+      "mathematics"
+    ],
+    "tags": [
+      "economics",
+      "investment",
+      "numerical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "word": "nominal",
+  "phonetics": {
+    "british": "/ˈnɒmɪnl/",
+    "american": "/ˈnɑːmɪnl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Existing in name only, not in reality; relating to or consisting of names.",
+      "chineseTranslation": "名义上的；仅在名称上的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to a noun or nouns in a language.",
+      "chineseTranslation": "名词的；与名词相关的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word or phrase functioning as a noun.",
+      "chineseTranslation": "名词短语",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nominal value",
+      "meaning": "名义价值",
+      "example": "The nominal value of the currency has remained stable despite inflation.",
+      "exampleTranslation": "尽管存在通货膨胀，该货币的名义价值保持稳定。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nominal fee",
+      "meaning": "象征性费用",
+      "example": "They charge a nominal fee for the service to cover administrative costs.",
+      "exampleTranslation": "他们收取象征性费用来覆盖行政成本。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "nominal head",
+      "meaning": "名义领袖",
+      "example": "The queen is the nominal head of state, but real power lies with the parliament.",
+      "exampleTranslation": "女王是名义上的国家元首，但实际权力掌握在议会手中。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In economics, the nominal GDP does not account for inflation.",
+      "translation": "在经济学中，名义GDP不考虑通货膨胀。",
+      "source": "Economic texts, such as those from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She holds a nominal position in the company but has no real authority.",
+      "translation": "她在公司担任一个名义上的职位，但没有实际权力。",
+      "source": "Modern business literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Linguistically, 'running' can be a nominal in certain contexts.",
+      "translation": "在语言学中，'running' 在某些语境中可以是名词。",
+      "source": "Academic linguistics sources, like BNC",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Late Latin",
+    "rootWords": [
+      {
+        "root": "nomen",
+        "meaning": "name",
+        "language": "Latin"
+      },
+      {
+        "root": "nominalis",
+        "meaning": "of or belonging to a name",
+        "language": "Late Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'nomen'（意思是 'name'），通过晚期拉丁语 'nominalis' 演变为中世纪英语，最初用于指称与名称相关的概念，后来扩展到表示仅在名义上的含义，尤其在经济和政治语境中。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "nominate",
+      "nominee",
+      "nomenclature"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与个人经验关联，例如联想 'nominal' 与 'name' 的相似性，利用视觉记忆法想象一个 'name tag' 来强化发音和含义；对于中文母语学习者，建议通过对比 '名义' 的中文概念来构建语义网络，避免混淆抽象用法。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "titular",
+        "similarity": "0.8",
+        "context": "适用于正式语境中表示仅在名义上的角色，如政治职位"
+      },
+      {
+        "word": "ostensible",
+        "similarity": "0.7",
+        "context": "在法律或商业语境中，表示表面上的"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "actual",
+        "context": "在经济语境中，表示真实而非名义上的"
+      },
+      {
+        "word": "real",
+        "context": "在日常语境中，表示实际存在的"
+      }
+    ],
+    "hypernyms": [
+      "adjective",
+      "descriptor"
+    ],
+    "hyponyms": [
+      "token",
+      "symbolic"
+    ],
+    "collocations": [
+      {
+        "pattern": "nominal + noun (e.g., nominal value)",
+        "examples": [
+          "nominal agreement",
+          "nominal rate"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + nominal + in",
+        "examples": [
+          "be nominal in power"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常用于强调形式主义，例如在政治中，'nominal leader' 象征民主制度下的象征性角色，隐含了对真实权力的反思。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于经济和技术语境",
+        "usage": "在美国英语中，常见于金融讨论，如 'nominal interest rate'，反映资本主义文化对名义价值的强调"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向历史和正式语境",
+        "usage": "在英国英语中，常与君主制相关，如 'nominal sovereignty'，体现历史传承"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期拉丁语影响相关，在工业革命后经济语境中流行，关联启蒙运动对名义与实际的哲学辩论。",
+    "modernUsage": "在社交媒体和数字时代，'nominal' 常用于在线社区讨论经济趋势或虚拟角色，如游戏中的 'nominal title'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个王冠仅作为装饰品，而非真正拥有权力的场景",
+      "keyElements": [
+        "王冠",
+        "名称标签",
+        "空壳"
+      ],
+      "emotionalConnection": "联结到个人经历中被赋予头衔但无实权的时刻，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'nominal' as 'name-only-mal'",
+        "explanation": "通过将 'nominal' 拆分为 'name' 和 'only' 来联想，仅在名称上存在"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈnɒmɪnl/ 像 'no real' 的声音",
+        "explanation": "利用声音相似性强化 'no real' 的含义，基于认知语言学中的声音象征"
+      }
+    ],
+    "wordAssociations": [
+      "name",
+      "title",
+      "symbolic",
+      "façade"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more nominal",
+      "superlative": "most nominal"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + nominal + in + noun",
+        "description": "用于描述某事在某方面仅为名义上的",
+        "examples": [
+          "The leader is nominal in authority."
+        ]
+      },
+      {
+        "pattern": "Nominal + noun phrase",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A nominal fee applies."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'normal'",
+        "correction": "Use 'nominal' for name-related contexts",
+        "explanation": "中文母语者常因发音相似而混淆；建议通过语境区分"
+      },
+      {
+        "mistake": "Overusing in informal speech",
+        "correction": "Reserve for formal contexts",
+        "explanation": "中级学习者可能错误应用于口语；强调语域敏感性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "economics",
+      "linguistics",
+      "politics"
+    ],
+    "tags": [
+      "adjective",
+      "abstract",
+      "formal language"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "word": "jack",
+  "phonetics": {
+    "british": "/dʒæk/",
+    "american": "/dʒæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mechanical device used for lifting heavy objects, such as a car.",
+      "chineseTranslation": "千斤顶",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A playing card with a rank between ten and queen, often depicted as a young man.",
+      "chineseTranslation": "纸牌中的J（杰克）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A socket in a piece of electrical equipment into which another piece may be plugged.",
+      "chineseTranslation": "插孔（如音频插孔）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To lift something with a jack or similar device.",
+      "chineseTranslation": "用千斤顶抬起",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "A common English male first name.",
+      "chineseTranslation": "杰克（人名）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "jack of all trades",
+      "meaning": "一个在许多领域都有技能的人，但可能没有专精",
+      "example": "She is a jack of all trades, skilled in cooking, fixing cars, and programming.",
+      "exampleTranslation": "她是个样样通的人，擅长烹饪、修车和编程。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "jack up",
+      "meaning": "提高价格或提升某物",
+      "example": "The company decided to jack up the prices due to inflation.",
+      "exampleTranslation": "公司决定由于通货膨胀而提高价格。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "every man jack",
+      "meaning": "每个人",
+      "example": "Every man jack of them was exhausted after the long hike.",
+      "exampleTranslation": "他们每个人都精疲力尽了长途徒步之后。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to use a jack to change the tire on my car.",
+      "translation": "我需要用千斤顶来换汽车轮胎。",
+      "source": "Everyday conversation (based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the card game, the jack is worth ten points.",
+      "translation": "在纸牌游戏中，杰克牌值十点。",
+      "source": "Literature (e.g., modern novels, from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Plug the headphones into the jack on your laptop.",
+      "translation": "把耳机插入笔记本电脑的插孔。",
+      "source": "Technical instructions (from online tech forums)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Jack is a popular name in English-speaking countries.",
+      "translation": "杰克是英语国家常见的名字。",
+      "source": "Cultural discussions (e.g., from OED historical data)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old French 'Jacques', a form of the name James or John",
+    "rootWords": [
+      {
+        "root": "Jacques",
+        "meaning": "Diminutive form of James, meaning 'supplanter' or 'holder of the heel'",
+        "language": "Old French"
+      },
+      {
+        "root": "Jack",
+        "meaning": "A pet form of John, derived from Hebrew 'Yochanan' meaning 'God is gracious'",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "从中世纪英语演变而来，原为Jacques的昵称，用于泛指男性或工具类词汇。起初作为人名使用，后来扩展到机械装置和纸牌中，反映了中世纪欧洲文化中常见名字的泛化现象。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "jacket",
+      "jackknife",
+      "jackscrew"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将不同含义分组，例如先记忆名词形式，再扩展到动词；通过视觉联想将'jack'与千斤顶的图像关联，以增强海马体记忆路径；针对中文学习者，强调音调差异避免与'jacket'混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "hoist",
+        "similarity": "0.7",
+        "context": "在机械上下文中，用于描述抬起重物"
+      },
+      {
+        "word": "knave",
+        "similarity": "0.8",
+        "context": "在纸牌游戏中，作为历史同义词"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lower",
+        "context": "在机械上下文中，表示降低而非抬起"
+      },
+      {
+        "word": "queen",
+        "context": "在纸牌游戏中，表示更高等级的牌"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "card"
+    ],
+    "hyponyms": [
+      "hydraulic jack",
+      "bottle jack"
+    ],
+    "collocations": [
+      {
+        "pattern": "jack + noun (e.g., jack stand)",
+        "examples": [
+          "Use a jack stand for safety."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + jack (e.g., plug into jack)",
+        "examples": [
+          "Plug the cable into the jack."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'jack'常与普通男性或实用工具相关联，象征实用性和多功能性，如在民间故事中Jack（e.g., Jack and the Beanstalk）代表聪明机智的普通人。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如汽车修理",
+        "usage": "在美国英语中，'jack'在日常对话中频率较高，特别是在蓝领行业"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向历史或文学用法，如人名或成语",
+        "usage": "在英国英语中，常出现在传统故事或俚语中"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲姓名文化相关，源自圣经人物，延伸到工业革命时期的机械发明；在文学中，如莎士比亚作品中出现。",
+    "modernUsage": "在社交媒体和科技语境下流行，例如手机插孔的缩写'jack'，反映数字时代的技术依赖"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个叫Jack的男子在使用千斤顶修理汽车，同时手持一张带有J的扑克牌。",
+      "keyElements": [
+        "千斤顶图像",
+        "扑克牌J",
+        "男子形象"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆 childhood stories involving Jack, 以触发积极情绪和长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Jack jumps with a jack (tool)",
+        "explanation": "通过视觉联想将人名和工具连接，强化海马体记忆路径"
+      },
+      {
+        "type": "缩略",
+        "content": "J for Jack, J for Jack-in-the-box",
+        "explanation": "使用首字母缩略法结合儿歌元素，促进重复曝光记忆"
+      }
+    ],
+    "wordAssociations": [
+      "jacket",
+      "jump",
+      "tool"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "jacks",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object (e.g., I jack up the car)",
+        "description": "作为动词时，常用于简单句结构",
+        "examples": [
+          "He jacks the car up carefully."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the jack in the socket)",
+        "description": "作为名词时，可用于定语或介词短语",
+        "examples": [
+          "The jack connects the devices."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'jack' with 'jacket'",
+        "correction": "Use 'jack' for the tool or name, and 'jacket' for clothing",
+        "explanation": "中文学习者常因发音相似而混淆，建议通过对比练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Ensure proper tense usage, e.g., 'jacked up' instead of inventing irregular forms",
+        "explanation": "作为规则动词，避免不必要的不规则变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Daily life",
+      "Games",
+      "Culture"
+    ],
+    "tags": [
+      "Tool",
+      "Name",
+      "Card game",
+      "Idiomatic expression"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

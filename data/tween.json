@@ -1,0 +1,255 @@
+{
+  "word": "tween",
+  "phonetics": {
+    "british": "/twiːn/",
+    "american": "/twin/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A child or young person between the ages of approximately 8 and 12, often characterized by transitional behaviors between childhood and adolescence.",
+      "chineseTranslation": "介于8至12岁之间的儿童或青少年",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computer graphics and animation, to generate intermediate frames between two key frames to create smooth transitions.",
+      "chineseTranslation": "在计算机图形学中，生成两帧关键图像之间的中间帧以实现平滑过渡",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or characteristic of the age group between childhood and adolescence, typically 8 to 12 years old.",
+      "chineseTranslation": "与8至12岁年龄段相关的或特有的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tween market",
+      "meaning": "针对8至12岁儿童的消费市场",
+      "example": "The tween market is booming with products like smartphones and fashion accessories.",
+      "exampleTranslation": "针对8至12岁儿童的消费市场正在蓬勃发展，包括智能手机和时尚配饰。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tween years",
+      "meaning": "8至12岁的过渡期",
+      "example": "During the tween years, children often experience rapid emotional changes.",
+      "exampleTranslation": "在8至12岁的过渡期，儿童通常会经历快速的情绪变化。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "digital tweening",
+      "meaning": "数字图形过渡技术",
+      "example": "Digital tweening is essential for creating fluid animations in video games.",
+      "exampleTranslation": "数字图形过渡技术对于创建视频游戏中的流畅动画至关重要。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My daughter is in her tween phase and is suddenly interested in makeup and social media.",
+      "translation": "我的女儿正处于8至12岁的过渡期，突然对化妆和社交媒体感兴趣。",
+      "source": "Modern parenting blogs (e.g., from sources like The New York Times)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In animation software, you can tween between two poses to make the movement look natural.",
+      "translation": "在动画软件中，您可以生成两帧姿势之间的中间帧，使运动看起来自然。",
+      "source": "Technical tutorials (e.g., from Adobe documentation)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The store targets the tween demographic with colorful clothing and accessories.",
+      "translation": "这家商店针对8至12岁的人群，提供色彩鲜艳的服装和配饰。",
+      "source": "Marketing reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "tween",
+        "meaning": "A blend of 'between' and 'teen'",
+        "language": "Modern English"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪的英语合成词，起初用于描述年龄段的过渡期，逐渐扩展到动画领域的技术术语；从最初的口语化表达演变为标准词汇，反映了社会对青少年发展的关注。",
+    "firstKnownUse": "1980s (as per OED records for age-related use)",
+    "relatedWords": [
+      "between",
+      "teenager",
+      "tweening"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR level, suitable for intermediate learners who can handle everyday topics)",
+    "pronunciationDifficulty": "4 (out of 10; simple vowel and consonant sounds, but the diphthong /wiː/ may require practice for Chinese speakers)",
+    "spellingDifficulty": "3 (out of 10; straightforward spelling, but the blend word nature might confuse learners)",
+    "meaningComplexity": "6 (out of 10; multiple meanings across contexts, requiring contextual inference)",
+    "usageComplexity": "5 (out of 10; common in informal and technical settings, but less frequent in formal writing)",
+    "learningTips": [
+      "使用分块记忆法（chunking）将 'tween' 与 'between' 和 'teen' 关联；结合认知科学，创建个人图像，如想象一个8岁孩子在'between'童年和'teen'青春期；重复暴露于真实语料中以强化语境记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "preteen",
+        "similarity": "0.8",
+        "context": "适用于描述类似年龄段的语境，如家庭或教育讨论"
+      },
+      {
+        "word": "tweenager",
+        "similarity": "0.9",
+        "context": "常用于非正式场合强调过渡期的特征"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "adult",
+        "context": "在年龄段讨论中，表示成熟期的反义"
+      },
+      {
+        "word": "infant",
+        "context": "用于对比早年儿童阶段"
+      }
+    ],
+    "hypernyms": [
+      "child",
+      "youth"
+    ],
+    "hyponyms": [
+      "tween girl",
+      "tween boy"
+    ],
+    "collocations": [
+      {
+        "pattern": "tween + noun (e.g., tween market)",
+        "examples": [
+          "tween fashion",
+          "tween behavior"
+        ],
+        "strength": "medium"
+      },
+      {
+        "pattern": "verb + tween (e.g., to tween frames)",
+        "examples": [
+          "apply tweening"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征青春期前过渡的敏感阶段，常与消费主义和媒体影响相关，如针对tween群体的营销策略反映了现代社会对儿童成长的商业化",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在商业和流行文化中",
+        "usage": "在美国，常见于市场营销和教育语境中，例如描述儿童产品的目标群体"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能更侧重于社会发展语境",
+        "usage": "在英国，常与学校或家庭教育相关联"
+      }
+    ],
+    "historicalContext": "起源于20世纪后期的西方社会变迁，与工业化和媒体兴起有关；在文学和媒体中，如J.K. Rowling的作品中隐含类似主题",
+    "modernUsage": "在社交媒体和数字平台上流行，用于讨论儿童心理健康和消费趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个8至12岁的孩子站在'between'两扇门之间，一扇门是童年（toys），另一扇是青春期（teens），孩子正犹豫地向前迈步",
+      "keyElements": [
+        "between",
+        "teen",
+        "child"
+      ],
+      "emotionalConnection": "联结个人童年回忆或父母经验，触发情感共鸣以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tween = Between + Teen",
+        "explanation": "通过词根联想，将 'tween' 视为 'between' 和 'teen' 的结合，帮助记忆其含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /twiːn/ 像 'twin' 兄弟姐妹，代表年龄段的 'twin' 过渡",
+        "explanation": "利用声音相似性创建图像，帮助认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "preteen",
+      "adolescent",
+      "transition"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "tweens",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + tween + [modifier]",
+        "description": "典型用于描述特定群体，例如 'the tween audience'",
+        "examples": [
+          "The typical tween enjoys adventure stories."
+        ]
+      },
+      {
+        "pattern": "Verb usage: to tween + object",
+        "description": "在技术语境中，用于动作描述",
+        "examples": [
+          "Animators often tween frames for smooth effects."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'tween' with 'between'",
+        "correction": "Use 'tween' only for age-specific or technical contexts",
+        "explanation": "由于词源相似，学习者可能混淆；需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'tweens' for plural",
+        "explanation": "英文名词规则简单，但初级学习者可能遗忘添加 's'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency)",
+    "domains": [
+      "Education",
+      "Marketing",
+      "Technology",
+      "Popular Culture"
+    ],
+    "tags": [
+      "Age group",
+      "Animation",
+      "Youth development"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "word": "bidirectionally",
+  "phonetics": {
+    "british": "/ˌbaɪ.dɪˈrɛk.ʃən.əl.i/",
+    "american": "/ˌbaɪ.dɪˈrɛk.ʃən.əl.i/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adverb",
+      "definition": "In a manner that operates or functions in two directions simultaneously; mutually or reciprocally.",
+      "chineseTranslation": "双向地",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical/neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "communicate bidirectionally",
+      "meaning": "双向通信",
+      "example": "The new system allows devices to communicate bidirectionally for real-time data exchange.",
+      "exampleTranslation": "新系统允许设备双向通信以实现实时数据交换。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "data flows bidirectionally",
+      "meaning": "数据双向流动",
+      "example": "In this network, data flows bidirectionally between the server and clients.",
+      "exampleTranslation": "在这个网络中，数据在服务器和客户端之间双向流动。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The optical fiber transmits signals bidirectionally, enhancing efficiency in telecommunications.",
+      "translation": "光纤双向传输信号，提高了电信效率。",
+      "source": "Technical literature (e.g., IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning models, information is processed bidirectionally to improve accuracy.",
+      "translation": "在机器学习模型中，信息双向处理以提高准确性。",
+      "source": "Academic articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The road is designed to allow traffic to move bidirectionally during peak hours.",
+      "translation": "这条路被设计成在高峰时段允许交通双向流动。",
+      "source": "News articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "bi-",
+        "meaning": "two",
+        "language": "Latin"
+      },
+      {
+        "root": "direction",
+        "meaning": "arrangement or management",
+        "language": "Latin (from directio)"
+      },
+      {
+        "root": "-ally",
+        "meaning": "in the manner of",
+        "language": "Old English via Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'bi-' 表示 '两个'，结合 'direction'（源自拉丁语 directio，意为指导或方向），再加上后缀 '-ally' 表示方式。该词随技术语言的发展在20世纪中期出现，用于描述双向过程，从最初的物理和工程语境扩展到现代计算机和通信领域。",
+    "firstKnownUse": "Mid-20th century (approximately 1950s, as per OED records)",
+    "relatedWords": [
+      "bidirectional",
+      "directionally",
+      "unidirectionally"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'bi-' 联想为 'two'，并通过视觉化双向箭头图来强化记忆；建议初级学习者从简单技术语境开始，逐步增加实际应用以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mutually",
+        "similarity": "0.7",
+        "context": "适用于强调相互作用的语境，如技术或社交互动"
+      },
+      {
+        "word": "reciprocally",
+        "similarity": "0.8",
+        "context": "适用于描述双向交换的正式语境，如科学讨论"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unidirectionally",
+        "context": "适用于单向过程的语境，如数据只从一个方向传输"
+      },
+      {
+        "word": "one-way",
+        "context": "适用于非双向的非正式语境，如交通描述"
+      }
+    ],
+    "hypernyms": [
+      "adverbially"
+    ],
+    "hyponyms": [
+      "synchronously"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + bidirectionally",
+        "examples": [
+          "transmit bidirectionally",
+          "communicate bidirectionally"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb in technical phrases",
+        "examples": [
+          "data flows bidirectionally"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在技术文化中象征高效和互联性，尤其在全球化时代，代表了信息双向流动的现代价值观，但缺乏强烈的文化隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在美国英语中，常见于IT和工程领域，以强调创新和效率"
+      },
+      {
+        "region": "英国",
+        "variation": "略显正式，常与学术语境结合",
+        "usage": "在英国英语中，可能在工程或科学文献中使用，以突出双向性的精确性"
+      }
+    ],
+    "historicalContext": "与工业革命和现代通信技术相关联，如电话和互联网的发明，推动了该词的出现，反映了西方社会从单向到双向互动的转变。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述在线互动趋势，如双向反馈机制。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两条箭头从一个点向两个方向延伸，代表双向流动。",
+      "keyElements": [
+        "箭头",
+        "双向",
+        "流动"
+      ],
+      "emotionalConnection": "联结到个人经历，如使用智能手机的双向聊天，触发熟悉感和积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'bi-' 联想为 'bicycle' 的两个轮子，然后添加 '-directionally' 表示轮子转动方向。",
+        "explanation": "通过视觉联想强化词汇结构，利用认知科学中的双编码理论，将图像与含义结合以提升记忆保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/baɪ/' 听起来像 'buy'，联想为 'buy two directions'。",
+        "explanation": "利用声音相似性创建桥接，基于认知心理学中的听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "bidirectional",
+      "symmetrically",
+      "interactively"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adverb modifying verb",
+        "description": "作为副词修饰动词，强调动作的方向性",
+        "examples": [
+          "The system operates bidirectionally."
+        ]
+      },
+      {
+        "pattern": "In phrases with nouns",
+        "description": "用于短语中描述过程",
+        "examples": [
+          "Data is exchanged bidirectionally."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'bidirection'",
+        "correction": "Use 'bidirectionally' as adverb",
+        "explanation": "学习者常将形容词形式误用；正确区分词性以符合句法规则"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Limit to appropriate registers",
+        "explanation": "在非技术语境中可能显得生硬；建议根据语域选择词汇"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "工程",
+      "通信"
+    ],
+    "tags": [
+      "技术术语",
+      "副词",
+      "双向"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

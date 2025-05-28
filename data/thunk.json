@@ -1,0 +1,234 @@
+{
+  "word": "thunk",
+  "phonetics": {
+    "british": "/θʌŋk/",
+    "american": "/θʌŋk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A programming mechanism that allows for delayed computation or conversion between different function call conventions, often used in compilers and runtime environments.",
+      "chineseTranslation": "一种编程机制，用于延迟计算或在不同函数调用约定之间进行转换，常用于编译器和运行时环境。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (non-standard)",
+      "definition": "A humorous or dialectical past tense of 'think', used informally to mean 'thought'.",
+      "chineseTranslation": "非标准过去式形式，意为“想”的过去式，通常用于幽默或方言中。",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "thunk function",
+      "meaning": "一种用于延迟执行的函数机制",
+      "example": "In functional programming, a thunk function is often used to handle lazy evaluation.",
+      "exampleTranslation": "在函数式编程中，thunk 函数常用于处理惰性求值。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "to thunk about something",
+      "meaning": "非正式地思考某事",
+      "example": "I thunk about it yesterday, but I didn't decide.",
+      "exampleTranslation": "我昨天想了想，但没有决定。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The compiler generates a thunk to bridge the gap between the two calling conventions.",
+      "translation": "编译器生成一个 thunk 来桥接两种调用约定之间的差距。",
+      "source": "Technical documentation, such as from C++ standards (e.g., based on sources like cppreference.com)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He thunk it was a good idea at the time.",
+      "translation": "他当时觉得这是一个好主意。",
+      "source": "Informal literature or dialects, inspired by non-standard English usage in creative writing",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Programmers use thunks to optimize memory in lazy evaluation systems.",
+      "translation": "程序员使用 thunks 来优化惰性求值系统中的内存。",
+      "source": "Computer science texts, such as from 'Structure and Interpretation of Computer Programs'",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from 'think'",
+    "rootWords": [
+      {
+        "root": "think",
+        "meaning": "To reflect or ponder",
+        "language": "Old English (from Proto-Germanic *þankjaną)"
+      }
+    ],
+    "historicalDevelopment": "The term 'thunk' emerged in the mid-20th century in computer science as a playful back-formation from 'think', coined by programmers to describe a specific computational technique. It evolved from informal usage of 'think' in dialects to a technical term in programming languages like C and Lisp, representing delayed evaluation without the original cognitive meaning.",
+    "firstKnownUse": "1961, in computer science contexts, as documented in early programming literature",
+    "relatedWords": [
+      "think",
+      "thought",
+      "function"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (based on CEFR, as it requires specialized knowledge)",
+    "pronunciationDifficulty": "6 (out of 10; the 'th' sound /θ/ can be challenging for Chinese learners due to lack of equivalent phonemes)",
+    "spellingDifficulty": "4 (out of 10; simple spelling but irregular as a derived term)",
+    "meaningComplexity": "8 (out of 10; multiple layers of meaning in technical vs. informal contexts, requiring domain knowledge)",
+    "usageComplexity": "7 (out of 10; context-dependent and not intuitive for second language learners)",
+    "learningTips": [
+      "结合认知科学原理，将词汇与视觉图像关联，例如想象一个'思考泡泡'转化为计算机代码；使用间隔重复法复习技术语境；从个人经验中联结非正式用法，如幽默对话，以增强记忆痕迹。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "closure",
+        "similarity": "0.7",
+        "context": "在编程语境中，用于类似延迟计算的机制"
+      },
+      {
+        "word": "delayed expression",
+        "similarity": "0.6",
+        "context": "技术领域中，表示推迟执行的概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "eager evaluation",
+        "context": "编程中，与惰性求值相对，表示立即计算"
+      }
+    ],
+    "hypernyms": [
+      "mechanism",
+      "function"
+    ],
+    "hyponyms": [
+      "lazy thunk",
+      "full thunk"
+    ],
+    "collocations": [
+      {
+        "pattern": "thunk + noun (e.g., thunk function)",
+        "examples": [
+          "a thunk mechanism"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "to + thunk + about",
+        "examples": [
+          "to thunk about an idea"
+        ],
+        "strength": "weak"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'thunk' 象征编程社区的创新和幽默，常隐含对复杂技术的简化；对中文学习者，这反映了英语在科技领域的专业化演变。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常见于技术术语",
+        "usage": "在美国英语中，主要在计算机科学中流行，如在硅谷文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于非正式方言",
+        "usage": "在英国英语中，可能作为' think' 的俚语变体，但在正式语境较少"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，源自早期编程语言发展，如Lisp和C++，体现了科技与语言的互动；在中文文化中，这词汇突显了全球技术交流的挑战。",
+    "modernUsage": "在社交媒体和在线论坛中流行于程序员社区，如GitHub讨论，但对一般大众较少见，反映数字时代的专业化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个齿轮状的思考泡泡，里面有延迟的代码运行场景。",
+      "keyElements": [
+        "齿轮",
+        "泡泡",
+        "代码"
+      ],
+      "emotionalConnection": "联结到个人编程经历或好奇心，触发对'思考'过程的兴奋感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'thunk'联想为' think + chunk'，表示一个思考的代码块。",
+        "explanation": "通过视觉联想增强记忆，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/θʌŋk/'像敲击声，代表延迟的' thunk' 像敲门等待。",
+        "explanation": "利用声音与动作的联结，提高长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "think",
+      "code",
+      "delay"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a thunk function')",
+        "description": "作为名词用于技术描述",
+        "examples": [
+          "The thunk is essential in this algorithm."
+        ]
+      },
+      {
+        "pattern": "Verb in informal sentences",
+        "description": "非正式地用作动词",
+        "examples": [
+          "I thunk it over quickly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'think'",
+        "correction": "Use 'thunk' only in technical contexts",
+        "explanation": "中文学习者常将之误认为标准过去式，应区分语境以避免语义混淆。"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /tʌŋk/",
+        "correction": "Pronounce as /θʌŋk/",
+        "explanation": "发音错误可能导致听力误解，需练习舌尖音。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Rare; ranked low in corpora like COCA (Corpus of Contemporary American English), with occurrences primarily in technical domains",
+    "domains": [
+      "technology",
+      "computer science",
+      "programming"
+    ],
+    "tags": [
+      "technical term",
+      "computing",
+      "irregular verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED) for etymology",
+      "COCA for frequency",
+      "cppreference.com for technical usage"
+    ]
+  }
+}

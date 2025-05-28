@@ -1,0 +1,227 @@
+{
+  "word": "synteny",
+  "phonetics": {
+    "british": "/ˈsɪn.tə.ni/",
+    "american": "/ˈsɪn.tɛ.ni/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The condition in which two or more genetic loci are found on the same chromosome and are arranged in the same order in different species.",
+      "chineseTranslation": "基因的同源性或染色体上基因的相同顺序",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "syntenic regions",
+      "meaning": "同源区域",
+      "example": "The syntenic regions between human and mouse genomes show evolutionary conservation.",
+      "exampleTranslation": "人类和老鼠基因组之间的同源区域显示了进化上的保守性。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "conserved synteny",
+      "meaning": "保守的同源性",
+      "example": "Conserved synteny helps in identifying homologous genes across species.",
+      "exampleTranslation": "保守的同源性有助于识别不同物种间的同源基因。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Synteny analysis is a key tool in comparative genomics for understanding evolutionary relationships.",
+      "translation": "同源性分析是比较基因组学中理解进化关系的关键工具。",
+      "source": "Scientific paper (e.g., from Nature Genetics)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers discovered synteny between the chromosomes of humans and chimpanzees.",
+      "translation": "研究人员发现了人类和黑猩猩染色体之间的同源性。",
+      "source": "Academic journal (e.g., from PLOS Genetics)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The loss of synteny in certain regions indicates rapid evolutionary changes.",
+      "translation": "某些区域的同源性丧失表明了快速的进化变化。",
+      "source": "Textbook on molecular biology",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "syntenos",
+        "meaning": "having a common band or strip",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语 'syntenos'（意为共同的带或条带），在20世纪早期遗传学中演变为描述染色体上基因顺序的相似性，随着分子生物学的兴起，该词逐渐用于比较基因组学，以突出进化上的基因保守。",
+    "firstKnownUse": "Early 20th century (approximately 1920s in genetic literature)",
+    "relatedWords": [
+      "syntenic",
+      "syntenous",
+      "synteny-based"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用视觉辅助如基因组图谱来记忆词汇，结合认知科学中的双编码理论（将视觉和语言信息关联）；",
+      "通过重复暴露于科学语境中建立语义网络，避免孤立记忆；",
+      "联想个人经验，如家族遗传历史，以增强情感连接和长期保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "conserved synteny",
+        "similarity": "0.9",
+        "context": "在遗传学语境中讨论基因顺序的进化保守"
+      },
+      {
+        "word": "genomic synteny",
+        "similarity": "0.8",
+        "context": "应用于基因组比较时，强调结构相似性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-synteny",
+        "context": "当基因顺序在不同物种中不相同时，通常在进化研究中"
+      },
+      {
+        "word": "genetic rearrangement",
+        "context": "表示基因顺序的改变或不匹配，在分子生物学中"
+      }
+    ],
+    "hypernyms": [
+      "genetic conservation"
+    ],
+    "hyponyms": [
+      "orthology",
+      "paralogy"
+    ],
+    "collocations": [
+      {
+        "pattern": "synteny between species",
+        "examples": [
+          "Synteny between human and mouse"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "analysis of synteny",
+        "examples": [
+          "Comparative analysis of synteny"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学社区中象征遗传学和进化生物学的核心概念，隐含着跨物种联系的隐喻，但缺乏强烈的社会文化象征；在跨文化语境中，它促进了全球科学合作的包容性。",
+    "regionalVariations": [
+      {
+        "region": "Global (e.g., United States and United Kingdom)",
+        "variation": "在科学英语中标准化使用，无显著方言差异",
+        "usage": "在美国和英国的学术出版物中一致，但可能在非英语国家如中国翻译为 '同源性' 时有细微语境调整"
+      }
+    ],
+    "historicalContext": "与20世纪遗传学革命相关，如孟德尔遗传定律和DNA结构的发现，该词反映了科学对进化理论的深化，在现代生物学中与达尔文主义相联结。",
+    "modernUsage": "在社交媒体和在线科学论坛中，常见于基因组学讨论，如Twitter上的科研分享或BioRxiv预印本，常用于专业圈子而非日常对话"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条染色体如彩色带子，上面排列的基因像一排有序的珠子，在不同物种间保持相似顺序。",
+      "keyElements": [
+        "染色体带子",
+        "基因珠子",
+        "进化连接"
+      ],
+      "emotionalConnection": "联结到个人家族历史或祖先故事，以触发情感共鸣增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'syn-' 联想为 'synthesis'（合成），'teny' 联想为 'tenacity'（坚持），整体表示 '基因的持久合成'",
+        "explanation": "通过声音和语义联想，利用认知科学中的间隔重复和语境编码来加深印象"
+      },
+      {
+        "type": "缩略",
+        "content": "S-Y-N-T-E-N-Y: Same Yielding Neighboring Threads in Evolution, Never Yield",
+        "explanation": "创建缩写故事，帮助中级学习者通过叙事结构记忆词汇根源"
+      }
+    ],
+    "wordAssociations": [
+      "synthesis",
+      "genetics",
+      "evolution"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "syntenies",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun in subject position",
+        "description": "作为主语或宾语使用在句子中，强调概念的描述性",
+        "examples": [
+          "Synteny plays a crucial role in genomics."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with synteny",
+        "description": "与介词搭配如 'of synteny' 表示所属关系",
+        "examples": [
+          "The study of synteny revealed new insights."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing synteny with syntax",
+        "correction": "Use synteny for genetics and syntax for language structure",
+        "explanation": "这两个词听起来相似，但前者是生物学术语，后者是语言学术语，常由中级学习者混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'syntenies' for plural",
+        "explanation": "英语名词规则中，添加 '-ies' 于以元音结尾的词，但需注意语境"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low in general corpora (e.g., rank below 50,000 in COCA), high in scientific subsets (e.g., frequent in PubMed)",
+    "domains": [
+      "Biology",
+      "Genetics",
+      "Evolutionary Science"
+    ],
+    "tags": [
+      "Scientific",
+      "Technical",
+      "Biological Terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)",
+      "Specialized sources like Merriam-Webster Medical Dictionary"
+    ]
+  }
+}

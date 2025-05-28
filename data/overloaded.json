@@ -1,0 +1,257 @@
+{
+  "word": "overloaded",
+  "phonetics": {
+    "british": "/ˌəʊvəˈləʊdɪd/",
+    "american": "/ˌoʊvərˈloʊdɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "carrying or supplied with a load greater than normal, proper, or customary; burdened excessively",
+      "chineseTranslation": "超负荷的；负担过重的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (past participle of overload)",
+      "definition": "to load with too great a burden or too much cargo, often leading to strain or failure",
+      "chineseTranslation": "使超负荷；过度加载",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective (in computing)",
+      "definition": "having multiple functions or meanings assigned to the same identifier, as in programming",
+      "chineseTranslation": "（在计算机中）重载的；多功能分配的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "overloaded circuit",
+      "meaning": "超负荷电路",
+      "example": "The overloaded circuit tripped and caused a blackout.",
+      "exampleTranslation": "超负荷电路跳闸导致了停电。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "overloaded schedule",
+      "meaning": "过度安排的日程",
+      "example": "Her overloaded schedule left her with no time for relaxation.",
+      "exampleTranslation": "她过度安排的日程让她没有时间放松。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "overloaded function",
+      "meaning": "重载函数（计算机术语）",
+      "example": "In C++, an overloaded function allows multiple definitions for the same name.",
+      "exampleTranslation": "在 C++ 中，重载函数允许同一个名称有多个定义。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The truck was overloaded with heavy boxes, risking a breakdown on the highway.",
+      "translation": "卡车超负荷装载了重箱子，在高速公路上 risked 发生故障。",
+      "source": "General everyday usage, based on corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the software update, the server became overloaded due to high traffic.",
+      "translation": "在软件更新中，服务器因高流量而变得超负荷。",
+      "source": "Technical context from news articles (e.g., tech blogs)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The teacher felt overloaded with grading papers after the exam period.",
+      "translation": "老师在考试期后感觉 grading 论文负担过重。",
+      "source": "Educational literature, such as from BNC corpus",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "over-",
+        "meaning": "above or beyond",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "load",
+        "meaning": "a burden or cargo",
+        "language": "Old English (hlād, meaning a load or way)"
+      }
+    ],
+    "historicalDevelopment": "源自古英语的 'over-'（表示超过）与 'load'（表示负载），最初用于物理意义上的超负荷（如运输），17 世纪开始扩展到比喻意义，如情感或系统负担过重；在 20 世纪，特别是在计算机科学中，演变为技术术语，如函数重载。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "overload",
+      "underload",
+      "overburden"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'overloaded' 与相关词汇如 'overload' 分离记忆；通过视觉想象一个超负荷的场景来强化语义关联；对于中文母语学习者，强调词根分析以连接英语和汉语的负担概念，促进双语迁移。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "overburdened",
+        "similarity": "0.8",
+        "context": "适用于日常语境中表示负担过重的场景，例如工作压力"
+      },
+      {
+        "word": "saturated",
+        "similarity": "0.7",
+        "context": "在技术或资源语境中，表示完全占满或超负荷"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "underloaded",
+        "context": "适用于资源未充分利用的语境，例如物流中空载运输"
+      },
+      {
+        "word": "unburdened",
+        "context": "在情感或物理语境中，表示没有负担的自由状态"
+      }
+    ],
+    "hypernyms": [
+      "loaded"
+    ],
+    "hyponyms": [
+      "function overloading (in computing)"
+    ],
+    "collocations": [
+      {
+        "pattern": "overloaded + noun (e.g., circuit, schedule)",
+        "examples": [
+          "overloaded circuit",
+          "overloaded schedule"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be overloaded with + noun",
+        "examples": [
+          "be overloaded with work"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征效率与极限的张力，尤其在快节奏社会中代表工作或技术系统的压力；在西方文化中，常与资本主义工作文化关联，隐含对 'burnout'（ burnout ）的警示。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件重载",
+        "usage": "在美国英语中，'overloaded' 在科技领域频率较高，源自创新文化"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向于物理或比喻意义，如交通超载",
+        "usage": "在英国英语中，更侧重于日常和历史语境，如工业革命时期的负担概念"
+      }
+    ],
+    "historicalContext": "与工业革命相关，最初描述机械或人力超负荷；现代与数字时代结合，反映社会对可持续性的关注，如环境超载问题。",
+    "modernUsage": "在社交媒体和在线平台上，常见于讨论工作生活平衡或网络流量问题，体现全球数字文化的普遍性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一辆卡车堆满了超出容量的箱子，车轮下沉，代表负担过重。",
+      "keyElements": [
+        "卡车",
+        "箱子",
+        "下沉"
+      ],
+      "emotionalConnection": "联结个人经历，如曾经有过的工作压力，触发情绪共鸣以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'overloaded' 联想为 'over + loaded'，想象 'over' 的 '超过' 和 'loaded' 的 '装载' 结合成一个超重的背包。",
+        "explanation": "通过视觉联想强化词根记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌoʊvərˈloʊdɪd/ 听起来像 'over low dead'，联想为 '超过低点导致死亡'，表示极限状态。",
+        "explanation": "利用声音与语义的联结，促进听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "overload",
+      "burden",
+      "saturated"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more overloaded",
+      "superlative": "most overloaded"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + overloaded + with + object",
+        "description": "主语 + 系动词 + overloaded + with + 宾语，表示负担过重的结构",
+        "examples": [
+          "The system is overloaded with requests."
+        ]
+      },
+      {
+        "pattern": "Overloaded + noun phrase",
+        "description": "用作定语修饰名词的结构",
+        "examples": [
+          "An overloaded truck."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'overloaded' as a verb without context",
+        "correction": "Use as past participle of 'overload'",
+        "explanation": "学习者常误将它直接用作动词；需注意其作为过去分词的语法角色"
+      },
+      {
+        "mistake": "Confusing with 'overlord'",
+        "correction": "Distinguish based on meaning",
+        "explanation": "中文母语者可能因发音相似而混淆；通过语境区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "business",
+      "transportation"
+    ],
+    "tags": [
+      "technical",
+      "adjective",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

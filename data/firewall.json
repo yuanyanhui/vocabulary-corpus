@@ -1,0 +1,266 @@
+{
+  "word": "firewall",
+  "phonetics": {
+    "british": "/ˈfaɪəwɔːl/",
+    "american": "/ˈfaɪərwɔːl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A security system designed to prevent unauthorized access to or from a private network.",
+      "chineseTranslation": "防火墙（用于保护计算机网络的安全系统）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fireproof barrier used to prevent the spread of fire within a building or vehicle.",
+      "chineseTranslation": "防火墙（建筑或车辆中用于阻挡火势的隔墙）",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To install or use a firewall to protect against unauthorized access.",
+      "chineseTranslation": "设置防火墙（动词形式，用于保护网络）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software firewall",
+      "meaning": "软件防火墙",
+      "example": "A software firewall can protect your computer from online threats.",
+      "exampleTranslation": "软件防火墙可以保护您的计算机免受在线威胁。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "network firewall",
+      "meaning": "网络防火墙",
+      "example": "Companies often implement a network firewall to secure their data.",
+      "exampleTranslation": "公司通常实施网络防火墙来保护他们的数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "firewall protection",
+      "meaning": "防火墙保护",
+      "example": "Firewall protection is essential for online banking.",
+      "exampleTranslation": "防火墙保护对于在线银行至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The IT team set up a firewall to block malicious traffic.",
+      "translation": "IT 团队设置了防火墙来阻挡恶意流量。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In older buildings, a firewall helps contain fires and prevent widespread damage.",
+      "translation": "在老建筑中，防火墙有助于控制火势并防止大范围破坏。",
+      "source": "Architectural literature (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She decided to firewall her personal data after a security breach.",
+      "translation": "在发生安全漏洞后，她决定为她的个人数据设置防火墙。",
+      "source": "Modern news article (e.g., from CNN)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The new firewall software effectively shields the system from hackers.",
+      "translation": "新的防火墙软件有效地保护系统免受黑客攻击。",
+      "source": "Technology blog (e.g., from online corpora)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "fire",
+        "meaning": "A destructive burning of something",
+        "language": "Old English (from Proto-Germanic *fuir)"
+      },
+      {
+        "root": "wall",
+        "meaning": "A vertical structure that encloses or divides an area",
+        "language": "Old English (from Latin 'vallum')"
+      }
+    ],
+    "historicalDevelopment": "起源于17世纪的建筑术语，指用于防止火势蔓延的物理隔墙；19世纪扩展到比喻意义，如在工程中；20世纪后期，随着计算机技术的兴起，转移到信息技术领域，指网络安全系统。该词的演变反映了从物理安全到数字安全的文化转变。",
+    "firstKnownUse": "1666年（在伦敦大火后用于建筑语境，根据OED记录）",
+    "relatedWords": [
+      "fireproof",
+      "barrier",
+      "security wall"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将 'firewall' 的物理含义与数字含义分开记忆；使用重复间隔技术复习不同语境下的使用；建议通过视觉联想（如想象一堵墙阻挡火焰）增强记忆持久性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "security barrier",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述网络保护措施"
+      },
+      {
+        "word": "defensive wall",
+        "similarity": "0.7",
+        "context": "在建筑或军事语境中，强调物理防护"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "open access",
+        "context": "在网络安全语境中，表示无限制访问，可能导致风险"
+      },
+      {
+        "word": "vulnerable entry",
+        "context": "在建筑语境中，表示易受火势影响的薄弱点"
+      }
+    ],
+    "hypernyms": [
+      "barrier",
+      "security system"
+    ],
+    "hyponyms": [
+      "hardware firewall",
+      "software firewall"
+    ],
+    "collocations": [
+      {
+        "pattern": "firewall + noun (e.g., firewall protection)",
+        "examples": [
+          "Install firewall protection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + firewall (e.g., set up a firewall)",
+        "examples": [
+          "Configure a firewall"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征保护与隔离，常用于比喻数字时代的安全需求；在西方社会，'firewall' 反映了对隐私和数据安全的重视，尤其在后9·11时代的技术发展中。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于信息技术语境，如 'firewall in cybersecurity'",
+        "usage": "在美国英语中，强调商业和技术应用，常见于日常科技讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔保留建筑原意，但也广泛用于数字安全",
+        "usage": "在英国英语中，可能更正式，结合历史建筑语境"
+      }
+    ],
+    "historicalContext": "源自1666年伦敦大火后的建筑改革，与工业革命和现代科技的兴起相关；在文学和社会中，常象征抵御外部威胁，如乔治·奥威尔的作品中隐喻政治隔离。",
+    "modernUsage": "在社交媒体和数字平台上，'firewall' 常用于讨论网络隐私，例如Twitter或Reddit上的科技话题，反映全球化语境下的安全意识。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一堵坚固的墙挡住熊熊火焰，同时转化为数字屏障阻挡网络攻击。",
+      "keyElements": [
+        "火焰",
+        "墙壁",
+        "盾牌",
+        "网络图标"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆一次网络攻击的焦虑，触发安全感和保护欲"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Fire (火) + Wall (墙) = A wall against fire, then extend to digital fire (attacks).",
+        "explanation": "通过视觉联想将物理和数字含义连接，增强认知关联性。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈfaɪərwɔːl/' 听起来像 'fire wall'，联想消防员的呼喊声。",
+        "explanation": "利用声音重复强化记忆路径，基于认知心理学中的双编码理论。"
+      }
+    ],
+    "wordAssociations": [
+      "barrier",
+      "shield",
+      "protection",
+      "security"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "firewalls",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a strong firewall')",
+        "description": "用作名词，常在句子中描述保护措施",
+        "examples": [
+          "We need a firewall for our network."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., 'install a firewall')",
+        "description": "当用作动词时，遵循及物动词结构",
+        "examples": [
+          "They firewall their systems regularly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'firewall' with 'fire wall' as two words",
+        "correction": "Always use as one word 'firewall'",
+        "explanation": "在现代英语中，它是一个复合词，避免空格以符合技术术语标准。"
+      },
+      {
+        "mistake": "Using it only in computing contexts",
+        "correction": "Recognize its architectural meaning as well",
+        "explanation": "学习者可能忽略多义性，导致语境误用；建议通过语料库练习扩展理解。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "security",
+      "architecture"
+    ],
+    "tags": [
+      "computing",
+      "safety",
+      "network"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "word": "fell",
+  "phonetics": {
+    "british": "/fɛl/",
+    "american": "/fɛl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "Past tense of 'fall', meaning to move downward suddenly due to gravity or loss of balance.",
+      "chineseTranslation": "落下（fall的过去式）",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of an inhumanly cruel or savage kind; ruthless.",
+      "chineseTranslation": "残酷的；野蛮的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A seam in sewing where fabric edges are folded and stitched flat.",
+      "chineseTranslation": "平缝（缝纫术语）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fell down",
+      "meaning": "摔倒",
+      "example": "The child fell down while playing in the park.",
+      "exampleTranslation": "孩子在公园玩耍时摔倒了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fell asleep",
+      "meaning": "入睡",
+      "example": "After a long day, she fell asleep on the couch.",
+      "exampleTranslation": "漫长的一天后，她在沙发上睡着了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fell in love",
+      "meaning": "坠入爱河",
+      "example": "They fell in love during their trip to Europe.",
+      "exampleTranslation": "他们在欧洲旅行期间坠入爱河。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fell silent",
+      "meaning": "突然安静下来",
+      "example": "The room fell silent after the announcement.",
+      "exampleTranslation": "宣布后，房间突然安静下来。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "He fell from the ladder and broke his arm.",
+      "translation": "他从梯子上摔下来，摔断了胳膊。",
+      "source": "Common everyday scenario, referenced from COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The once peaceful village fell under enemy control during the war.",
+      "translation": "那个曾经平静的村庄在战争中落入敌人控制。",
+      "source": "Historical narrative, inspired by literary works like those in the OED",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her fell expression made everyone in the room uneasy.",
+      "translation": "她那残酷的表情让房间里的每个人都感到不安。",
+      "source": "Literary context, from novels such as those by Dickens",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The tailor used a fell stitch to secure the hem of the dress.",
+      "translation": "裁缝用平缝固定了裙子的下摆。",
+      "source": "Technical domain, from fashion and sewing guides in BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "feallan",
+        "meaning": "to fall",
+        "language": "Old English"
+      },
+      {
+        "root": "fellan",
+        "meaning": "to cause to fall",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "从古英语feallan（意为落下）演变而来，该词源自原始日耳曼语*fallanã，逐渐在中古英语中标准化为现代英语'fall'的过去式'fell'。形容词形式源自古英语fell（意为皮肤或兽皮），后来扩展到表示残酷的含义。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "fall",
+      "fallen",
+      "felling"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10 scale, as the phoneme /fɛl/ is straightforward with common vowel sounds)",
+    "spellingDifficulty": "4 (1-10 scale, simple spelling but potential confusion with homophones like 'fell' vs. 'feel')",
+    "meaningComplexity": "5 (1-10 scale, multiple meanings require context, based on polysemy in cognitive linguistics)",
+    "usageComplexity": "6 (1-10 scale, verb form is irregular, demanding attention to tense in sentences)",
+    "learningTips": [
+      "利用认知科学中的间隔重复法复习'fell'的不同语境；将动词形式与视觉想象相结合，例如想象物体下落的情景，以加强海马体记忆；为中文母语学习者，建议通过对比'fall'和'fell'的时态变化，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dropped",
+        "similarity": "0.8",
+        "context": "在物理下落语境中适用，例如日常对话"
+      },
+      {
+        "word": "savage",
+        "similarity": "0.7",
+        "context": "在形容残酷的正式语境中适用，例如文学描述"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rose",
+        "context": "在动词语境中，表示上升，与下落相反"
+      },
+      {
+        "word": "gentle",
+        "context": "在形容词语境中，表示温和，与残酷相反"
+      }
+    ],
+    "hypernyms": [
+      "descended",
+      "acted"
+    ],
+    "hyponyms": [
+      "tumbled",
+      "collapsed"
+    ],
+    "collocations": [
+      {
+        "pattern": "fell + adverb/preposition",
+        "examples": [
+          "fell down",
+          "fell apart"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "subject + fell + object",
+        "examples": [
+          "He fell ill"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'fell'作为'fall'的过去式常用于文学和民间故事中象征失败或转变，例如莎士比亚作品中代表戏剧性变化；形容词形式可能隐含中世纪骑士文化的野蛮意象。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或文学语境",
+        "usage": "在英国英语中，形容词用法较常见于历史小说"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重动词形式，在日常口语中频繁出现",
+        "usage": "在美国英语中，常用于新闻报道或对话，如体育事件中"
+      }
+    ],
+    "historicalContext": "与盎格鲁-撒克逊时代狩猎和战争文化相关，源自古英语的原始含义；在现代，出现在如《圣经》或诗歌中，象征人类脆弱性。",
+    "modernUsage": "在社交媒体和新闻中，'fell'常用于描述意外事件或情感变化，如#FellInLove在Twitter上的流行标签。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人从高处滑落，周围是秋叶飘零的场景。",
+      "keyElements": [
+        "下落动作",
+        "树叶",
+        "重力"
+      ],
+      "emotionalConnection": "联结到个人经历，如小时候摔倒的回忆，以触发杏仁核相关的感情记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'fell'想象为'fall'加上过去时标志，像是'fall'后加了一个钩子拉回过去。",
+        "explanation": "通过视觉联想强化时态记忆，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/fɛl/听起来像钟声的回响，象征下落。",
+        "explanation": "利用声音与动作的联觉，帮助海马体编码"
+      }
+    ],
+    "wordAssociations": [
+      "fall",
+      "descend",
+      "tumble"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + fell + adverbial phrase",
+        "description": "主语后跟fell和状语短语，表示动作发生",
+        "examples": [
+          "The tree fell heavily."
+        ]
+      },
+      {
+        "pattern": "Subject + fell + adjective complement",
+        "description": "主语后跟fell和形容词补语，用于形容词形式",
+        "examples": [
+          "His fell gaze intimidated the crowd."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'fell' as present tense",
+        "correction": "Use 'fall' for present tense",
+        "explanation": "中文学习者常混淆时态；正确区分以避免语法错误"
+      },
+      {
+        "mistake": "Confusing with 'feel'",
+        "correction": "Use 'fell' for falling action",
+        "explanation": "音似词干扰；通过发音练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "日常对话",
+      "文学",
+      "新闻",
+      "体育"
+    ],
+    "tags": [
+      "动词",
+      "过去时",
+      "形容词",
+      "动作词汇"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

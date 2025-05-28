@@ -1,0 +1,245 @@
+{
+  "word": "containerization",
+  "phonetics": {
+    "british": "/kənˌteɪnəraɪˈzeɪʃən/",
+    "american": "/kənˌteɪnərəˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of packaging software code and its dependencies into standardized units called containers for development, deployment, and management.",
+      "chineseTranslation": "容器化",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A method of transporting goods in standardized containers to improve efficiency in logistics and shipping.",
+      "chineseTranslation": "集装箱化",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "containerization technology",
+      "meaning": "容器化技术",
+      "example": "Containerization technology like Kubernetes enhances scalability.",
+      "exampleTranslation": "像 Kubernetes 这样的容器化技术提升了可扩展性。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "advances in containerization",
+      "meaning": "容器化领域的进展",
+      "example": "Advances in containerization have transformed cloud computing.",
+      "exampleTranslation": "容器化领域的进展改变了云计算。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The adoption of containerization in IT has streamlined application deployment.",
+      "translation": "IT 领域采用容器化简化了应用程序部署。",
+      "source": "Tech industry report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Containerization revolutionized global trade by standardizing shipping methods.",
+      "translation": "容器化通过标准化运输方法革新了全球贸易。",
+      "source": "Historical economic text (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modern software engineering, containerization ensures consistent environments across devices.",
+      "translation": "在现代软件工程中，容器化确保了设备间的环境一致性。",
+      "source": "Academic article (e.g., from OED resources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "container",
+        "meaning": "Something that contains or holds",
+        "language": "Latin (from continere, meaning 'to hold together')"
+      },
+      {
+        "root": "-ization",
+        "meaning": "The process of making or becoming",
+        "language": "Latin/Greek (from -izare, a suffix for processes)"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 continere 演变而来，最初用于 1950s 的物流和运输领域，指集装箱运输以提高效率；随后在 2010s 扩展到信息技术领域，指软件打包过程，受虚拟化影响，形成现代 IT 用法。",
+    "firstKnownUse": "1956 (in shipping context, as per OED)",
+    "relatedWords": [
+      "virtualization",
+      "dockerization",
+      "modularization"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将词汇分解为 'container' 和 '-ization'，并通过重复暴露于真实语境（如技术文章）加强长时记忆；同时，利用双编码理论，将词汇与视觉图像（如集装箱船）关联以提升保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "virtualization",
+        "similarity": "0.7",
+        "context": "在 IT 语境中，适用于软件部署和云计算场景"
+      },
+      {
+        "word": "modularization",
+        "similarity": "0.6",
+        "context": "在工程和软件设计中，强调组件化结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decontainerization",
+        "context": "在物流中，指从容器化系统返回到传统方法，通常在特定效率问题时使用"
+      },
+      {
+        "word": "monolithic architecture",
+        "context": "在 IT 中，指与容器化相反的整体式系统设计"
+      }
+    ],
+    "hypernyms": [
+      "digitization",
+      "automation"
+    ],
+    "hyponyms": [
+      "dockerization",
+      "kubernetes orchestration"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + preposition + containerization",
+        "examples": [
+          "adoption of containerization",
+          "advances in containerization"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Adjective + containerization",
+        "examples": [
+          "modern containerization",
+          "efficient containerization"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征效率和创新，尤其在硅谷和全球 IT 社区，代表了从传统物流到数字转型的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于 IT 语境，如软件开发",
+        "usage": "在美国英语中，强调技术应用，如 'containerization in cloud services'"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于历史物流语境",
+        "usage": "在英国英语中，可能与工业革命历史相关联"
+      }
+    ],
+    "historicalContext": "与 20 世纪中叶的全球贸易革命相关，特别是在二战后物流优化中起作用；在中国文化中，类似概念反映了改革开放后的工业现代化。",
+    "modernUsage": "在社交媒体和数字平台上，如 Twitter 和 LinkedIn，常见于技术讨论，体现跨文化传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的集装箱船上堆满标准化的箱子，每个箱子内是软件代码在运行。",
+      "keyElements": [
+        "集装箱船",
+        "软件代码",
+        "标准化包装"
+      ],
+      "emotionalConnection": "联结个人经验，如搬家时使用箱子打包，触发安全和组织感的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'containerization' 联想到 'container + organization'，即容器组织化",
+        "explanation": "通过语义联想强化记忆，基于认知联想理论帮助中间级学习者建立心理连接"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kənˌteɪnəraɪˈzeɪʃən/ 联想到 'contain a rise in nation'，表示在国家中包含上升",
+        "explanation": "利用声音相似性创建有趣的短语，增强听觉记忆"
+      }
+    ],
+    "wordAssociations": [
+      "container",
+      "virtualization",
+      "shipping"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + containerization",
+        "description": "作为名词用在主语或宾语位置，描述过程或技术",
+        "examples": [
+          "Containerization improves efficiency."
+        ]
+      },
+      {
+        "pattern": "Adjective + containerization",
+        "description": "用形容词修饰以强调特性",
+        "examples": [
+          "Advanced containerization is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'containment'",
+        "correction": "Use 'containerization' for packaging processes",
+        "explanation": "错误源于语义相似性；学习者应注意后缀 '-ization' 表示过程"
+      },
+      {
+        "mistake": "Incorrect pronunciation of syllables",
+        "correction": "Emphasize /aɪˈzeɪʃən/",
+        "explanation": "由于词长，中间级学习者易省略音节；通过反复练习 IPA 改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "technology",
+      "logistics",
+      "business"
+    ],
+    "tags": [
+      "IT terminology",
+      "innovation",
+      "globalization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

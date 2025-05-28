@@ -1,0 +1,246 @@
+{
+  "word": "relational",
+  "phonetics": {
+    "british": "/rɪˈleɪʃənl/",
+    "american": "/rɪˈleɪʃənl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to relations or relationships, often used in contexts like databases, psychology, or social structures.",
+      "chineseTranslation": "关系的；关联的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Characterized by connections or interactions between elements, as in a relational database where data is organized based on predefined relationships.",
+      "chineseTranslation": "相互关联的；关系型的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relational database",
+      "meaning": "关系型数据库",
+      "example": "A relational database stores data in tables that can be linked through common fields.",
+      "exampleTranslation": "关系型数据库通过公共字段将数据存储在表中并进行链接。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "relational psychology",
+      "meaning": "关系心理学",
+      "example": "Relational psychology focuses on how interpersonal relationships influence individual behavior.",
+      "exampleTranslation": "关系心理学关注人际关系如何影响个人行为。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company uses a relational model to manage its customer data efficiently.",
+      "translation": "公司使用关系模型来高效管理其客户数据。",
+      "source": "Business article (e.g., from Harvard Business Review)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In relational terms, family dynamics can significantly impact personal development.",
+      "translation": "在关系方面，家庭动态可以显著影响个人发展。",
+      "source": "Psychology textbook (e.g., based on COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She prefers relational approaches in her teaching to foster student interactions.",
+      "translation": "她在教学中更喜欢关系型方法来促进学生互动。",
+      "source": "Educational journal",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "relatio",
+        "meaning": "a bringing back or reporting",
+        "language": "Latin"
+      },
+      {
+        "root": "relat-",
+        "meaning": "to carry back",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'relatio'，意为 '报告' 或 '关联'，通过古法语演变为英语，最初用于哲学和逻辑语境中表示关系概念，到 20 世纪在计算机科学中发展为 'relational database' 的核心术语。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "relation",
+      "relate",
+      "relationship",
+      "relative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化图表（如关系网络图）记忆词汇，强化语义关联；使用间隔重复法复习常见搭配，以提升长期保留；针对母语为中文的学习者，联结到中文 '关系' 的概念以建立跨语言桥梁。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "interrelational",
+        "similarity": "0.8",
+        "context": "在社会科学中，强调相互连接的语境"
+      },
+      {
+        "word": "connected",
+        "similarity": "0.7",
+        "context": "在一般描述关联时使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-relational",
+        "context": "在数据库技术中，指非关系型数据库，如 NoSQL 系统"
+      },
+      {
+        "word": "isolated",
+        "context": "在心理或社会语境中，表示独立或分离的状态"
+      }
+    ],
+    "hypernyms": [
+      "descriptive",
+      "connective"
+    ],
+    "hyponyms": [
+      "database-related",
+      "interpersonal"
+    ],
+    "collocations": [
+      {
+        "pattern": "relational + noun (e.g., database, model)",
+        "examples": [
+          "relational database",
+          "relational model"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + relational (e.g., highly relational)",
+        "examples": [
+          "highly relational structures"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征技术创新和社会连接，尤其在信息技术领域体现民主化和数据共享的理念；在中文文化中，可能隐含儒家关系的和谐观，但需避免过度泛化。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 Silicon Valley 的商业用语",
+        "usage": "在美国英语中，强调实用性和数据管理"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向学术或哲学语境",
+        "usage": "在英国英语中，常见于教育和理论讨论"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代科学方法相关，19 世纪的逻辑学发展影响了其在 20 世纪计算机领域的应用；例如，Edgar F. Codd 的关系模型在 1970 年代推动了数据库革命。",
+    "modernUsage": "在社交媒体和数字时代，现代传播中常用于描述网络关系，如在 Twitter 或 LinkedIn 的用户互动趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个网络图，其中节点代表实体，线条表示连接，就如关系数据库中的表间链接。",
+      "keyElements": [
+        "网络图",
+        "连接线",
+        "数据节点"
+      ],
+      "emotionalConnection": "联结到个人社交经验，例如朋友圈的互动，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'relational' 联想到 'relation' + 'al'，想象关系链条变成一个 'al' 警报系统。",
+        "explanation": "通过视觉联想加深记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /rɪˈleɪʃənl/ 听起来像 'ri-lay-shun-al'，联想到 'relay station' 的中继站。",
+        "explanation": "利用声音相似性创建联想，帮助母语为中文的学习者通过音译 'ri-lay-shun' 记住"
+      }
+    ],
+    "wordAssociations": [
+      "relation",
+      "database",
+      "connection",
+      "network"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more relational",
+      "superlative": "most relational"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + relational + noun",
+        "description": "用于描述主语与名词的关系",
+        "examples": [
+          "The system is relational."
+        ]
+      },
+      {
+        "pattern": "Adverb + relational + adjective/noun",
+        "description": "添加副词以强调程度",
+        "examples": [
+          "It is highly relational."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'relative'",
+        "correction": "Use 'relational' for relationships, not family members",
+        "explanation": "中文学习者常混淆 'relational' 和 'relative'，后者意为 '亲戚'，需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect collocation",
+        "correction": "Pair with appropriate nouns like 'database'",
+        "explanation": "避免随意搭配，导致语义模糊"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency)",
+    "domains": [
+      "technology",
+      "psychology",
+      "social sciences"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "interpersonal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

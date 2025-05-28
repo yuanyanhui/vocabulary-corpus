@@ -1,0 +1,248 @@
+{
+  "word": "subharmonic",
+  "phonetics": {
+    "british": "/ˌsʌb.hɑːˈmɒn.ɪk/",
+    "american": "/ˌsʌb.hɑrˈmɑː.nɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Pertaining to a frequency that is an integer fraction of a fundamental frequency, often used in mathematics, physics, and music.",
+      "chineseTranslation": "次谐波的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A wave or tone with a frequency that is a submultiple of the fundamental frequency.",
+      "chineseTranslation": "次谐波",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subharmonic function",
+      "meaning": "次谐波函数",
+      "example": "In complex analysis, a subharmonic function satisfies certain inequalities related to the Laplace operator.",
+      "exampleTranslation": "在复分析中，次谐波函数满足与拉普拉斯算子相关的某些不等式。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "subharmonic vibration",
+      "meaning": "次谐波振动",
+      "example": "Subharmonic vibrations can occur in mechanical systems under specific forcing conditions.",
+      "exampleTranslation": "在特定强迫条件下，机械系统中可能出现次谐波振动。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The subharmonic frequencies in the audio signal created a rich, layered sound.",
+      "translation": "音频信号中的次谐波频率创建了丰富、多层次的声音。",
+      "source": "Scientific literature on acoustics",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers must account for subharmonic modes to prevent resonance in bridge designs.",
+      "translation": "工程师必须考虑次谐波模式，以防止桥梁设计中的共振。",
+      "source": "Engineering reports",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In music theory, subharmonics are used to explore dissonant harmonies.",
+      "translation": "在音乐理论中，次谐波用于探索不协和的和声。",
+      "source": "Music composition texts",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English, from Latin and Greek roots",
+    "rootWords": [
+      {
+        "root": "sub-",
+        "meaning": "below or under",
+        "language": "Latin"
+      },
+      {
+        "root": "harmonic",
+        "meaning": "pertaining to harmony or a musical sound",
+        "language": "Greek (from harmonikos)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪早期，源自拉丁语 'sub-'（表示低于）和希腊语 'harmonikos'（和谐的）。最初用于音乐理论中描述低于基本频率的音调，后来扩展到数学和物理学领域，特别是在谐波分析和振动理论中演变。",
+    "firstKnownUse": "Early 20th century",
+    "relatedWords": [
+      "harmonic",
+      "submultiple",
+      "overtone"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法：将 'subharmonic' 与基本概念如 'harmonic' 分块关联，以减少认知负荷；",
+      "通过视觉辅助如图表展示频率关系，帮助建立空间记忆；",
+      "应用间隔重复系统（Spaced Repetition System）来强化专业术语的长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "submultiple harmonic",
+        "similarity": "0.8",
+        "context": "适用于数学和物理语境中描述频率分数的场景"
+      },
+      {
+        "word": "infrasonic harmonic",
+        "similarity": "0.7",
+        "context": "主要在声学和音乐领域，用于低于基本频率的波"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overtone",
+        "context": "适用于描述高于基本频率的谐波，在音乐和物理学中形成对比"
+      },
+      {
+        "word": "fundamental frequency",
+        "context": "在振动分析中，表示基本频率，与次谐波相对"
+      }
+    ],
+    "hypernyms": [
+      "harmonic"
+    ],
+    "hyponyms": [
+      "subharmonic mode",
+      "subharmonic oscillation"
+    ],
+    "collocations": [
+      {
+        "pattern": "subharmonic + noun (e.g., function, vibration)",
+        "examples": [
+          "subharmonic function",
+          "subharmonic vibration"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + subharmonic (e.g., complex subharmonic)",
+        "examples": [
+          "complex subharmonic waves"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征着对自然现象深层分析的追求，尤其在音乐和物理学中隐含对和谐与不和谐的哲学探讨。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和科技语境",
+        "usage": "在美国英语中，经常出现在技术报告和学术论文中，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于理论数学语境",
+        "usage": "在英国英语中，常与历史数学传统关联，如在牛津大学的讲座中使用"
+      }
+    ],
+    "historicalContext": "与19世纪末的振动理论和傅立叶分析相关，反映了工业革命时期对机械和声学研究的兴起。",
+    "modernUsage": "在现代社交媒体和在线教育中，常见于YouTube教程或Reddit讨论，用于解释音乐合成器或信号处理技术"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个波形图，其中基本波下方有更低的波纹，代表次谐波。",
+      "keyElements": [
+        "波形图",
+        "基本频率",
+        "较低波纹"
+      ],
+      "emotionalConnection": "联结到个人听音乐的经验，例如在欣赏电子音乐时感受到的低沉振动，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sub + Harmonic = Something Under Harmonic",
+        "explanation": "通过联想 'sub' 表示低于，将其与 'harmonic' 连接，帮助构建语义网络"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Subharmonic 听起来像 'submarine harmonic'，想象潜艇发出的低频声音。",
+        "explanation": "利用声音联觉将词汇与具体形象关联，增强认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "harmonic",
+      "frequency",
+      "vibration",
+      "wave"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more subharmonic",
+      "superlative": "most subharmonic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，常用于技术描述",
+        "examples": [
+          "The subharmonic component is critical."
+        ]
+      },
+      {
+        "pattern": "Subject + Verb + Object",
+        "description": "作为名词用在句子主语或宾语位置",
+        "examples": [
+          "Subharmonics can cause instability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'supersonic'",
+        "correction": "Use 'subharmonic' for frequency contexts",
+        "explanation": "二者语义不同，前者为频率相关，后者为速度相关，需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Do not pluralize as it is often used as an adjective",
+        "explanation": "作为形容词时无需变复数，避免不必要的形态变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., rank below 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "physics",
+      "music"
+    ],
+    "tags": [
+      "technical",
+      "acoustics",
+      "vibration",
+      "analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

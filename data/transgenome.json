@@ -1,0 +1,239 @@
+{
+  "word": "transgene",
+  "phonetics": {
+    "british": "/trænzˈdʒiːn/",
+    "american": "/trænzˈdʒiːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A gene that has been transferred from one organism to another, typically through genetic engineering, to introduce desirable traits or for research purposes.",
+      "chineseTranslation": "转基因",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a gene that has been transferred between organisms.",
+      "chineseTranslation": "转基因的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "transgenic organism",
+      "meaning": "转基因生物",
+      "example": "Scientists created a transgenic organism by inserting a transgene into its genome.",
+      "exampleTranslation": "科学家通过将转基因插入其基因组中，创建了一个转基因生物。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "insert a transgene",
+      "meaning": "插入转基因",
+      "example": "The researchers decided to insert a transgene to enhance the plant's resistance to pests.",
+      "exampleTranslation": "研究人员决定插入转基因以增强植物对害虫的抵抗力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The development of transgenic crops relies on the stable integration of a transgene into the plant's DNA.",
+      "translation": "转基因作物的开发依赖于转基因在植物DNA中的稳定整合。",
+      "source": "Scientific literature (e.g., from journals like Nature Biotechnology)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In genetic therapy, a transgene can be used to correct defective genes in human cells.",
+      "translation": "在基因疗法中，转基因可用于修正人类细胞中的缺陷基因。",
+      "source": "Medical texts (e.g., from PubMed articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Ethical debates often surround the use of transgenes in agriculture, as seen in public policy discussions.",
+      "translation": "伦理辩论经常围绕农业中使用转基因展开，正如在公共政策讨论中看到的那样。",
+      "source": "News articles (e.g., from BBC or The Guardian)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and Latin",
+    "rootWords": [
+      {
+        "root": "trans-",
+        "meaning": "across or through",
+        "language": "Latin"
+      },
+      {
+        "root": "gene",
+        "meaning": "unit of heredity",
+        "language": "Greek (from 'genos', meaning birth or origin)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的遗传学领域，源自拉丁词根 'trans-' 和希腊词根 'gene'，随着分子生物学的兴起而发展。最初用于描述通过遗传工程转移的基因序列，从简单的实验概念演变为现代生物技术中的关键术语。",
+    "firstKnownUse": "1970s (first documented in scientific literature during the era of recombinant DNA technology)",
+    "relatedWords": [
+      "transgenic",
+      "genome",
+      "genetics"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (advanced intermediate, based on CEFR, as it requires specialized knowledge)",
+    "pronunciationDifficulty": "5 (moderate; the word involves common English phonemes like /trænz/ and /dʒiːn/, but the stress pattern may challenge non-native speakers)",
+    "spellingDifficulty": "6 (moderate; combines prefixes and roots, potential confusion with similar words like 'transgene' vs. 'transgenic')",
+    "meaningComplexity": "8 (high; involves understanding of genetic concepts, which are abstract and context-dependent)",
+    "usageComplexity": "7 (high; primarily used in scientific and technical contexts, requiring precise application)",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象一个基因像行李一样'转移'到另一个生物；使用间隔重复系统来强化记忆；通过真实案例研究建立语义网络，以减少抽象概念的认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "recombinant gene",
+        "similarity": "0.8",
+        "context": "在遗传工程语境中，用于描述类似转基因的结构（在遗传工程语境中）"
+      },
+      {
+        "word": "foreign gene",
+        "similarity": "0.7",
+        "context": "在生物技术应用中，表示从外部来源引入的基因（在生物技术应用中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "endogenous gene",
+        "context": "表示原生或自然存在的基因，与转基因的外部引入形成对比（表示原生或自然存在的基因，与转基因的外部引入形成对比）"
+      }
+    ],
+    "hypernyms": [
+      "gene"
+    ],
+    "hyponyms": [
+      "reporter gene",
+      "selectable marker gene"
+    ],
+    "collocations": [
+      {
+        "pattern": "transgene expression",
+        "examples": [
+          "The transgene expression was monitored in the modified cells."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "insert transgene into",
+        "examples": [
+          "They inserted the transgene into the bacterial genome."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代生物技术和农业中象征着科学进步与伦理冲突，特别是在转基因食品辩论中，代表了全球化的科学影响和对自然干预的担忧。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in regulatory and commercial contexts due to GMO prevalence",
+        "usage": "在美国，术语常与农业政策和消费者权益相关联（在美国，术语常与农业政策和消费者权益相关联）"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Similar to US, but with emphasis on EU regulations",
+        "usage": "在英国，术语在学术和政策讨论中更注重伦理和环境影响（在英国，术语在学术和政策讨论中更注重伦理和环境影响）"
+      }
+    ],
+    "historicalContext": "与20世纪后期的遗传学革命相关联，如孟德尔遗传定律的应用和DNA重组技术的发明，反映了科学与社会变革的交织。",
+    "modernUsage": "在社交媒体和新闻中，术语常用于讨论气候变化解决方案或食品安全，常带有争议性（在社交媒体和新闻中，术语常用于讨论气候变化解决方案或食品安全，常带有争议性）"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个基因像一辆跨越边境的火车，从一个生物'国家'转移到另一个，携带新特性。",
+      "keyElements": [
+        "火车（代表转移）",
+        "基因作为行李",
+        "边境（代表生物界限）"
+      ],
+      "emotionalConnection": "联结到个人对科技进步的兴奋或对转基因食品的担忧，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trans + Gene = Transfer Gene",
+        "explanation": "通过将'rans'联想为'run across'，帮助记住转移的概念（通过将'rans'联想为'run across'，帮助记住转移的概念）"
+      },
+      {
+        "type": "缩略",
+        "content": "T-G-E-N-E for Transported Genetic Element",
+        "explanation": "使用首字母缩写来构建记忆钩子，结合视觉化以提高认知保留（使用首字母缩写来构建记忆钩子，结合视觉化以提高认知保留）"
+      }
+    ],
+    "wordAssociations": [
+      "DNA",
+      "GMO",
+      "biotech"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "transgenes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词使用，通常在科学上下文中描述具体实体（作为名词使用，通常在科学上下文中描述具体实体）",
+        "examples": [
+          "The transgene was successfully integrated."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier",
+        "description": "作为形容词修饰其他名词（作为形容词修饰其他名词）",
+        "examples": [
+          "Transgene technology has advanced rapidly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'transgenic'",
+        "correction": "Use 'transgene' for the gene itself and 'transgenic' for the organism or process",
+        "explanation": "Learners often mix these due to similar roots; clarify through context (学习者常因相似词根而混淆；通过语境澄清)"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'transgenes' for plural",
+        "explanation": "English nouns typically add -s for plurals, but ensure consistency in technical writing (英语名词通常添加-s作为复数，但需在技术写作中保持一致)"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 50,000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "science",
+      "biology",
+      "biotechnology",
+      "agriculture"
+    ],
+    "tags": [
+      "genetics",
+      "molecular biology",
+      "ethical issues"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "automaton",
+  "phonetics": {
+    "british": "/ɔːˈtɒmətən/",
+    "american": "/ɔːˈtɑːmətən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A self-operating machine or mechanism designed to follow a predetermined set of instructions, often used in contexts like robotics, computing, or manufacturing.",
+      "chineseTranslation": "自动机",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, a person or entity that acts in a mechanical or unthinking manner.",
+      "chineseTranslation": "机械人或无意识行动者",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "finite automaton",
+      "meaning": "有限自动机",
+      "example": "In computer science, a finite automaton is a model used to recognize patterns in strings.",
+      "exampleTranslation": "在计算机科学中，有限自动机是一种用于识别字符串模式的模型。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cellular automaton",
+      "meaning": "细胞自动机",
+      "example": "A cellular automaton, like Conway's Game of Life, simulates complex behaviors from simple rules.",
+      "exampleTranslation": "细胞自动机，如康威的生命游戏，从简单规则模拟复杂行为。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ancient Greek myths often depicted automatons as mechanical servants created by gods.",
+      "translation": "古希腊神话经常将自动机描绘为由神明创造的机械仆人。",
+      "source": "Literature (e.g., from classical texts like those of Hephaestus in Homer)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern factories rely on automatons to increase efficiency and reduce human error in assembly lines.",
+      "translation": "现代工厂依赖自动机来提高效率并减少装配线中的人为错误。",
+      "source": "News articles (e.g., from industrial reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In artificial intelligence, an automaton can process data without external intervention.",
+      "translation": "在人工智能中，自动机可以在没有外部干预的情况下处理数据。",
+      "source": "Technical publications (e.g., AI research papers)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "automatos",
+        "meaning": "acting of itself or self-moving",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Greek 'automatos', meaning self-acting, which entered Latin as 'automaton' and was adopted into Middle French before entering English in the 17th century. It evolved from describing mechanical devices in ancient texts to encompassing computational models in the 20th century, reflecting advancements in technology and automation.",
+    "firstKnownUse": "1611",
+    "relatedWords": [
+      "automate",
+      "automatic",
+      "autonomy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个机器人（视觉元素）来记忆 'automaton'，并与个人经验如观看科幻电影关联以增强情绪记忆。",
+      "通过间隔重复系统（spaced repetition）复习该词的不同语境，以改善长期保留。",
+      "将 'automaton' 与其词根 'auto-' 联系，联想到 'automatic'，利用语义网络构建以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "robot",
+        "similarity": "0.8",
+        "context": "在制造业或科幻语境中，常用于描述机械装置"
+      },
+      {
+        "word": "mechanism",
+        "similarity": "0.6",
+        "context": "在工程或技术语境中，指自动操作的系统"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "manual",
+        "context": "在涉及人为干预的语境中，与自动过程相对"
+      },
+      {
+        "word": "human-operated",
+        "context": "在强调人工控制的领域中，与机器自动化相对"
+      }
+    ],
+    "hypernyms": [
+      "machine",
+      "device"
+    ],
+    "hyponyms": [
+      "finite state automaton",
+      "Turing machine"
+    ],
+    "collocations": [
+      {
+        "pattern": "automaton + in + field",
+        "examples": [
+          "automaton in computing",
+          "automaton in robotics"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "type of automaton",
+        "examples": [
+          "finite automaton",
+          "neural automaton"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'automaton' 象征着技术进步和失控的自动化，常在科幻文学中代表人类与机器的冲突，如在玛丽·雪莱的《弗兰肯斯坦》中隐喻创造者的责任。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More commonly used in technical and AI contexts with an emphasis on innovation.",
+        "usage": "在美国英语中，常与硅谷文化关联，突出自动化在日常生活中的应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Tends to retain a more historical or literary connotation, as seen in British literature.",
+        "usage": "在英国英语中，可能与维多利亚时代机械装置的遗产相关联"
+      }
+    ],
+    "historicalContext": "该词与工业革命和启蒙运动相关，体现了从古希腊机械哲学到现代AI的演变，在社会中反映了对自动化潜在危险的担忧，如在20世纪的科幻作品中。",
+    "modernUsage": "在社交媒体和数字平台上，'automaton' 常用于讨论AI伦理，常出现在Twitter讨论或YouTube视频中，体现了当代对自动化劳动的辩论"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "Imagine a self-moving robot in a futuristic factory, symbolizing independence and efficiency.",
+      "keyElements": [
+        "robot",
+        "factory",
+        "self-moving"
+      ],
+      "emotionalConnection": "Link to personal experiences, such as watching sci-fi films like 'I, Robot', to evoke curiosity and wonder about technology"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Break down as 'auto' (self) + 'maton' (like matter or machine), so think of a car (auto) that moves on its own.",
+        "explanation": "This uses semantic association to connect the word to familiar concepts, enhancing recall through cognitive linking as per memory science principles"
+      },
+      {
+        "type": "acronym",
+        "content": "A-U-T-O-M-A-T-O-N: Always Using Technology On Machines Automatically To Operate Neatly.",
+        "explanation": "This acronym mnemonic leverages elaboration to create a narrative, aiding in better retention for intermediate learners"
+      }
+    ],
+    "wordAssociations": [
+      "automatic",
+      "robotics",
+      "mechanism"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "automata",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + automaton",
+        "description": "该结构将 'automaton' 用作主语或宾语，表示动作的执行者",
+        "examples": [
+          "The automaton performs tasks efficiently."
+        ]
+      },
+      {
+        "pattern": "Automaton + in + context",
+        "description": "用于指定 'automaton' 的应用领域",
+        "examples": [
+          "Automaton in AI drives innovation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'automotive'",
+        "correction": "Use 'automaton' for mechanical devices, not vehicles.",
+        "explanation": "Learners often mix roots; clarify by focusing on 'auto-' as self-acting."
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'automata' for plural, not 'automations'.",
+        "explanation": "This is a Latin-derived plural, common in scientific English."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in the COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "technology",
+      "computing",
+      "literature",
+      "engineering"
+    ],
+    "tags": [
+      "AI",
+      "mechanics",
+      "automation",
+      "semantics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

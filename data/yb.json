@@ -1,0 +1,265 @@
+{
+  "word": "by",
+  "phonetics": {
+    "british": "/baɪ/",
+    "american": "/baɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Indicating the means, method, or agent by which something is done or achieved",
+      "chineseTranslation": "通过...方式或手段",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Indicating proximity or nearness in space or time",
+      "chineseTranslation": "在...附近或在...时候",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "So as to go past or beyond",
+      "chineseTranslation": "经过或超过",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Used in naming a person or thing that is out of the ordinary or remarkable",
+      "chineseTranslation": "用于描述非凡或值得注意的人或物",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by the way",
+      "meaning": "顺便说一下",
+      "example": "By the way, I forgot to mention the meeting time.",
+      "exampleTranslation": "顺便说一下，我忘了提到会议时间。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "pass by",
+      "meaning": "经过或路过",
+      "example": "I saw him pass by the window earlier.",
+      "exampleTranslation": "我刚才看到他从窗户边路过。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "by far",
+      "meaning": "远非；大大地",
+      "example": "This is by far the best option we have.",
+      "exampleTranslation": "这是我们拥有的最佳选择，远胜其他。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The house by the river is for sale.",
+      "translation": "河边的房子正在出售。",
+      "source": "Real estate advertisement",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She solved the problem by using a new algorithm.",
+      "translation": "她通过使用一个新算法解决了问题。",
+      "source": "Technical article from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Time flies by when you're having fun.",
+      "translation": "当你玩得开心时，时间飞逝。",
+      "source": "Idiomatic expression in literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He is known by many as a pioneer in his field.",
+      "translation": "他被许多人视为该领域的先驱。",
+      "source": "Biographical text from BNC corpus",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "be-",
+        "meaning": "near or by",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'be-' 或 'bi' 演变而来，原意为 'near' 或 'beside'，在中古英语中扩展到表示手段、方式和代理，逐渐成为现代英语中多功能的介词",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "beside",
+      "beyond",
+      "near"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统来记忆不同语境下的用法；结合视觉联想，如想象 'by' 代表 'beside' 的位置关系，以增强空间记忆；根据认知科学，创建个人故事将 'by' 与日常场景关联，以提高长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "through",
+        "similarity": "0.7",
+        "context": "在表示手段或过程的语境中使用"
+      },
+      {
+        "word": "via",
+        "similarity": "0.6",
+        "context": "在正式或技术语境中表示路径"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "against",
+        "context": "表示对立或相反方向的语境"
+      },
+      {
+        "word": "from",
+        "context": "表示来源或分离的语境"
+      }
+    ],
+    "hypernyms": [
+      "preposition"
+    ],
+    "hyponyms": [
+      "beside",
+      "near"
+    ],
+    "collocations": [
+      {
+        "pattern": "by + noun (e.g., by the door)",
+        "examples": [
+          "He stood by the door."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "by + gerund (e.g., by working hard)",
+        "examples": [
+          "Success comes by working hard."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'by' 常用于强调间接性或代理，象征谦逊或非直接参与，如在英国文化中 'by Jove' 历史性地表示惊讶，但已过时",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式表达",
+        "usage": "在英国英语中，'by' 在历史文学中频繁出现，如莎士比亚作品"
+      },
+      {
+        "region": "United States",
+        "variation": "更口语化使用",
+        "usage": "在美国英语中，常见于日常对话和媒体"
+      }
+    ],
+    "historicalContext": "与英国工业革命相关，常用于描述过程，如 'made by hand'，反映社会变革",
+    "modernUsage": "在社交媒体上，'by the way' 常用于非正式交流，体现当代数字文化的简洁性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人站在门边（by the door），手中拿着地图，代表通过某种方式到达",
+      "keyElements": [
+        "门边位置",
+        "地图象征手段"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年时路过熟悉的地点，触发 nostalgia 和空间记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'by' as 'beside you' – always near.",
+        "explanation": "通过视觉联想强化位置关系，帮助初级学习者建立直观连接"
+      },
+      {
+        "type": "缩略",
+        "content": "B-Y: Beside You",
+        "explanation": "使用首字母缩写创建简单口诀，基于认知科学中的分块编码原理"
+      }
+    ],
+    "wordAssociations": [
+      "beside",
+      "beyond",
+      "buy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + by + Object",
+        "description": "表示代理或手段的结构",
+        "examples": [
+          "The book was written by the author."
+        ]
+      },
+      {
+        "pattern": "By + noun phrase",
+        "description": "表示位置或时间",
+        "examples": [
+          "Meet me by the park."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'by' with 'buy'",
+        "correction": "Use 'by' for location or means, 'buy' for purchasing",
+        "explanation": "源自语音相似性；在中文学习者中，常因音译错误发生"
+      },
+      {
+        "mistake": "Incorrect preposition use",
+        "correction": "Replace with appropriate preposition like 'with'",
+        "explanation": "确保语境匹配，避免泛化使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 10 in general English corpora (e.g., COCA rank: 5)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "文学"
+    ],
+    "tags": [
+      "介词",
+      "位置",
+      "手段"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

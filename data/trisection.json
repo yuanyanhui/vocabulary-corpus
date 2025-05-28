@@ -1,0 +1,237 @@
+{
+  "word": "trisection",
+  "phonetics": {
+    "british": "/traɪˈsɛkʃən/",
+    "american": "/traɪˈsɛkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of dividing something into three equal parts, especially in geometry or mathematics.",
+      "chineseTranslation": "三等分",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "angle trisection",
+      "meaning": "角度的三等分",
+      "example": "Angle trisection is a classic problem in geometry that cannot be solved using only a straightedge and compass.",
+      "exampleTranslation": "角度三等分是几何学中一个经典问题，无法仅用直尺和圆规解决。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "line trisection",
+      "meaning": "直线段的三等分",
+      "example": "The line trisection method is often taught in introductory geometry courses.",
+      "exampleTranslation": "直线段的三等分方法通常在入门几何课程中教授。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In ancient Greek mathematics, the problem of trisection was one of the most challenging puzzles.",
+      "translation": "在古希腊数学中，三等分问题是最具挑战性的谜题之一。",
+      "source": "Historical mathematics texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The engineer used trisection to divide the beam into three equal segments for better stability.",
+      "translation": "工程师使用三等分方法将梁分成三个等长的段，以提高稳定性。",
+      "source": "Engineering manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Modern computational tools have made trisection a straightforward process in design software.",
+      "translation": "现代计算工具使三等分在设计软件中成为一个简单过程。",
+      "source": "Technology article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "tri-",
+        "meaning": "three",
+        "language": "Latin"
+      },
+      {
+        "root": "section",
+        "meaning": "cutting or dividing",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'trisectionem'，由 'tri-'（意为三）和 'sectio'（意为切割）组合而成。该词在17世纪的数学发展中演变为现代意义，最初用于描述几何学中的分区问题，随着科学革命而普及。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "bisect",
+      "section",
+      "trisect"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，使用视觉化工具如几何图形来记忆词根，例如将 'tri-' 与三角形联想，以增强空间记忆；",
+      "采用间隔重复法复习相关数学概念，帮助巩固抽象语义；",
+      "通过个人经验触发点，如回想学校几何课，建立情感连接以提高长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tripartition",
+        "similarity": "0.8",
+        "context": "在数学或几何分区上下文中，主要用于正式学术讨论"
+      },
+      {
+        "word": "triple division",
+        "similarity": "0.7",
+        "context": "在非正式或教育性语境中，用于描述三等分的概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bisection",
+        "context": "在几何学中，用于对比二等分，与三等分相对"
+      },
+      {
+        "word": "quadrisection",
+        "context": "在分区语境中，用于四等分，与三等分形成对比"
+      }
+    ],
+    "hypernyms": [
+      "division"
+    ],
+    "hyponyms": [
+      "angle trisection"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + trisection (e.g., angle trisection)",
+        "examples": [
+          "angle trisection",
+          "line trisection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the trisection of + noun (e.g., the trisection of a segment)",
+        "examples": [
+          "the trisection of a line"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方数学文化中象征着古典几何难题的挑战性，尤其在古希腊哲学中代表了人类对精确性和极限的追求；在中国文化中，类似概念可能与传统几何或分合哲学相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于教育和科技语境",
+        "usage": "在美国英语中，常在STEM教育中出现，以强调实用应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向历史和理论讨论",
+        "usage": "在英国英语中，常与数学历史关联，如欧几里得几何"
+      }
+    ],
+    "historicalContext": "与古希腊几何学和文艺复兴时期的科学革命相关，在现代教育中体现了西方理性主义传统。",
+    "modernUsage": "在社交媒体和在线教育平台上，趋势转向简化解释，常用于科普视频或软件工具中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个等边三角形被精确切割成三等份的场景。",
+      "keyElements": [
+        "三角形",
+        "切割线",
+        "等分部分"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如解决几何难题时的成就感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Tri- reminds of 'triangle' (three sides), and section means 'cut', so trisection is cutting into three.",
+        "explanation": "通过词根联想增强语义记忆，利用视觉和空间认知来避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-I Cut: T for three, R for repeat, I for into, Cut for section.",
+        "explanation": "使用缩略形式结合数字和动作，基于认知负荷理论简化记忆过程"
+      }
+    ],
+    "wordAssociations": [
+      "triangle",
+      "divide",
+      "three",
+      "geometry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "trisections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + trisection",
+        "description": "作为名词用在主语或宾语位置，常与动词如 'perform' 或 'solve' 搭配",
+        "examples": [
+          "We performed the trisection accurately."
+        ]
+      },
+      {
+        "pattern": "The trisection of + noun",
+        "description": "用于描述具体对象的分区过程",
+        "examples": [
+          "The trisection of the angle proved difficult."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing trisection with bisection",
+        "correction": "Use trisection only for three parts",
+        "explanation": "错误源于数字混淆；通过词根分析可避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'trisections' for plural",
+        "explanation": "作为常规名词，需注意标准规则以符合英语语法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Rare (e.g., ranked below 10,000 in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Science",
+      "Education"
+    ],
+    "tags": [
+      "Geometry",
+      "Division",
+      "Technical Term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

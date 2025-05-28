@@ -1,0 +1,252 @@
+{
+  "word": "exec",
+  "phonetics": {
+    "british": "/ɪɡˈzɛk/",
+    "american": "/ɪɡˈzɛk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An abbreviation for 'executive', referring to a high-level manager or leader in a business or organization; in computing, it refers to a system call or command that replaces the current process image with a new one.",
+      "chineseTranslation": "执行者；高管；（计算机中的）执行命令",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To perform or carry out a task, command, or function, often used in computing contexts to mean executing a program.",
+      "chineseTranslation": "执行",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for 'execute' or 'executive', commonly used in professional and technical fields.",
+      "chineseTranslation": "缩写形式，用于表示执行或高管",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exec function",
+      "meaning": "执行函数，指计算机编程中的系统调用",
+      "example": "The exec function in Unix replaces the current process.",
+      "exampleTranslation": "Unix 中的 exec 函数替换当前进程。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "chief exec",
+      "meaning": "首席执行官",
+      "example": "The chief exec announced the new company strategy.",
+      "exampleTranslation": "首席执行官宣布了新的公司战略。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "exec command",
+      "meaning": "执行命令",
+      "example": "Use the exec command to run the script directly.",
+      "exampleTranslation": "使用 exec 命令直接运行脚本。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company hired a new exec to lead the marketing team.",
+      "translation": "公司聘请了一位新高管来领导营销团队。",
+      "source": "Business news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you can use exec to execute external commands.",
+      "translation": "在编程中，你可以使用 exec 来执行外部命令。",
+      "source": "Technical documentation from Stack Overflow",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The exec made the final decision on the merger.",
+      "translation": "执行官做出了关于合并的最终决定。",
+      "source": "Corporate report",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "execut-",
+        "meaning": "To follow out or accomplish",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'exsequi'，意为跟随或完成，演变为中古英语中的 'execute'，逐渐简化为 'exec' 作为缩写形式，尤其在现代英语的商业和计算机领域，以表示简洁和专业性。",
+    "firstKnownUse": "Early 20th century, particularly in business contexts",
+    "relatedWords": [
+      "execute",
+      "executive",
+      "execution"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'exec' 与领导者形象或计算机图标关联，利用重复暴露法在上下文中记忆；对于中文母语学习者，关联 '执行' 一词以增强语义连接，避免混淆类似缩写。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "manager",
+        "similarity": "0.7",
+        "context": "在商业语境中，用于指高层领导角色"
+      },
+      {
+        "word": "administrator",
+        "similarity": "0.6",
+        "context": "在计算机语境中，用于指系统执行功能"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subordinate",
+        "context": "在商业语境中，指低于高管级别的员工"
+      },
+      {
+        "word": "terminate",
+        "context": "在计算机语境中，指结束进程而非执行"
+      }
+    ],
+    "hypernyms": [
+      "leader",
+      "command"
+    ],
+    "hyponyms": [
+      "CEO",
+      "system call"
+    ],
+    "collocations": [
+      {
+        "pattern": "exec + noun (e.g., exec role)",
+        "examples": [
+          "Take on an exec role in the company"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + exec (e.g., run exec)",
+        "examples": [
+          "Run exec in the terminal"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'exec' 象征着商业和科技领域的效率与领导力，常隐含快速决策和专业性的含义，尤其在全球化语境下。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在商业俚语中",
+        "usage": "在美国企业文化中，'exec' 常用于非正式讨论，以突出平等和直接性"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式，使用全称 'executive'",
+        "usage": "在英国，'exec' 较少见于口语，偏向书面和技术语境"
+      }
+    ],
+    "historicalContext": "与工业革命和现代管理理论相关，源自19世纪的商业演变，在20世纪计算机革命中扩展至技术领域。",
+    "modernUsage": "在社交媒体和科技平台上流行，如Twitter或LinkedIn，用户常用 'exec' 讨论职业发展，反映数字时代的信息简洁趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个商务会议室，'exec' 代表一位穿着西装的领导者手持电脑执行命令。",
+      "keyElements": [
+        "领导者形象",
+        "电脑图标"
+      ],
+      "emotionalConnection": "联结个人职业抱负或对科技的兴趣，以增强记忆动机"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'exec' 联想为 '执行专家'。",
+        "explanation": "通过将英文缩写与中文含义关联，利用认知联想增强记忆路径。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ɪɡˈzɛk/' 听起来像 'e-x-e-c'，联想为 'eXecute Expert Command'。",
+        "explanation": "使用声音重复和缩写扩展，帮助建立听觉记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "execute",
+      "leader",
+      "command"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the exec')",
+        "description": "用作名词时，常置于定语或主语位置",
+        "examples": [
+          "The exec leads the team."
+        ]
+      },
+      {
+        "pattern": "Verb in imperative form (e.g., 'exec command')",
+        "description": "用作动词时，常在命令句中",
+        "examples": [
+          "Exec the file now."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'exec' with 'exact'",
+        "correction": "Use 'exec' only for executive or execute contexts",
+        "explanation": "中文学习者常因发音相似而混淆，确保语境区分"
+      },
+      {
+        "mistake": "Overusing in formal writing",
+        "correction": "Prefer full forms in formal contexts",
+        "explanation": "作为缩写，'exec' 适合非正式场合，避免在学术写作中使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in COCA corpus (approximately 500 occurrences per million words)",
+    "domains": [
+      "business",
+      "technology",
+      "computing"
+    ],
+    "tags": [
+      "abbreviation",
+      "professional",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

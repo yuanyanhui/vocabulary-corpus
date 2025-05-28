@@ -1,0 +1,271 @@
+{
+  "word": "salt",
+  "phonetics": {
+    "british": "/sɒlt/",
+    "american": "/sɔlt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A white crystalline substance that is used for seasoning or preserving food, composed mainly of sodium chloride.",
+      "chineseTranslation": "盐",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To add salt to something, especially food, for flavoring or preservation.",
+      "chineseTranslation": "加盐于……",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Containing or tasting of salt; or in computing, a random value added to data for security purposes.",
+      "chineseTranslation": "含盐的；或在计算机中，用于加密的随机值",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "salt and pepper",
+      "meaning": "盐和胡椒粉，通常作为调味品一起使用",
+      "example": "Please pass the salt and pepper.",
+      "exampleTranslation": "请把盐和胡椒粉递给我。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "worth one's salt",
+      "meaning": "值得付薪水，意思是某人值得雇用或称职",
+      "example": "A good manager is worth their salt in any company.",
+      "exampleTranslation": "一个优秀的管理者在任何公司都值得他们的薪水。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "take something with a grain of salt",
+      "meaning": "对某事持怀疑态度，不完全相信",
+      "example": "You should take his advice with a grain of salt.",
+      "exampleTranslation": "你应该对他的建议持怀疑态度。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The chef added a pinch of salt to enhance the flavor of the soup.",
+      "translation": "厨师加了一撮盐来增强汤的味道。",
+      "source": "Culinary literature (e.g., from recipe books)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In ancient times, salt was used as currency and was highly valued.",
+      "translation": "在古代，盐被用作货币并备受珍视。",
+      "source": "Historical texts (e.g., from Roman history)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She salted the roads to prevent ice from forming during the winter.",
+      "translation": "她给道路撒盐以防止冬天结冰。",
+      "source": "Modern news articles (e.g., from environmental reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "sealt",
+        "meaning": "salt",
+        "language": "Old English"
+      },
+      {
+        "root": "*saltą",
+        "meaning": "salt",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "*sal-",
+        "meaning": "salt",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'sealt'，其源于原始日耳曼语 '*saltą'，最终追溯到原始印欧语 '*sal-'，最初指代盐这种矿物质。从历史上看，该词从表示一种基本的调味品演变为象征财富和保存（如在罗马时代盐被用作货币），到现代的比喻用法，如在语言中表示怀疑或风味增强。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "saline",
+      "salinity",
+      "desalt"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，使用重复暴露法来记忆词汇，例如通过每日烹饪练习重复使用 'salt'，以加强神经元连接；",
+      "利用视觉联想，将 'salt' 与海水或盐罐的图像关联，以提升海马体记忆编码；",
+      "针对中文学习者，比较 'salt' 与 '盐' 的文化差异，避免母语干扰，通过双语对照练习提高语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sodium chloride",
+        "similarity": "0.8",
+        "context": "在科学或化学语境中，用于描述盐的化学成分"
+      },
+      {
+        "word": "seasoning",
+        "similarity": "0.6",
+        "context": "在烹饪语境中，作为调味品的同义词"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sugar",
+        "context": "在烹饪中，作为甜味剂的反义词，与盐的咸味相对"
+      },
+      {
+        "word": "freshwater",
+        "context": "在自然科学中，作为不含盐的水源的反义词"
+      }
+    ],
+    "hypernyms": [
+      "mineral",
+      "substance"
+    ],
+    "hyponyms": [
+      "table salt",
+      "sea salt",
+      "rock salt"
+    ],
+    "collocations": [
+      {
+        "pattern": "salt + noun (e.g., salt water)",
+        "examples": [
+          "salt water",
+          "salt mine"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + salt (e.g., add salt)",
+        "examples": [
+          "add salt",
+          "sprinkle salt"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "盐在许多文化中象征纯净、保护和财富，例如在中国古代，盐是重要的贡品；在西方文化中，撒盐用于驱邪或表示好运。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于俚语，如 'salt of the earth' 表示普通而诚实的人",
+        "usage": "在英国英语中，常在文学和日常对话中体现社会阶层平等"
+      },
+      {
+        "region": "United States",
+        "variation": "在美式英语中，常与食品工业相关，如 'iodized salt'，并在俚语中表示沮丧情绪",
+        "usage": "在美国，特别是在西部地区，盐与牛仔文化和生存技能相关联"
+      }
+    ],
+    "historicalContext": "盐与历史文化密切相关，如罗马帝国的 'Salaria' 道路用于盐贸易；在文学中，莎士比亚的作品中出现盐作为比喻；在社会背景中，工业革命促进了盐的商业化。",
+    "modernUsage": "在现代社交媒体上，'salt' 常用于网络俚语表示嫉妒或失败，例如在游戏社区中 'salty' 意思是气愤，在传播媒介如 TikTok 上流行。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个海滩场景，海水溅起白色的盐晶体，一位厨师在厨房里撒盐调味。",
+      "keyElements": [
+        "海滩",
+        "盐晶体",
+        "厨师撒盐"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年做饭时加盐的快乐时刻，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'salt' 联想为 'sea and light taste'，因为盐来自海洋且有轻微的咸味。",
+        "explanation": "通过视觉和味觉联想，帮助中文学习者建立感官记忆，避免混淆类似词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "S-A-L-T: Sea-Associated, Lightly Tasted.",
+        "explanation": "使用首字母缩略法结合故事叙述，基于认知科学的空间记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "seasoning",
+      "ocean",
+      "preserve",
+      "flavor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "salts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the salt)",
+        "description": "作为名词时，常用于主语或宾语位置",
+        "examples": [
+          "The salt is on the table."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., salt the food)",
+        "description": "作为动词时，常与直接宾语搭配",
+        "examples": [
+          "She salts her food carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'salt' as an uncountable noun incorrectly in plural contexts",
+        "correction": "Use 'salts' for specific types, but 'salt' for general reference",
+        "explanation": "中文学习者常受母语影响，错误地将不可数名词视为可数；需注意英语中不可数名词的用法"
+      },
+      {
+        "mistake": "Confusing 'salt' with 'fault' in pronunciation",
+        "correction": "Pronounce as /sɒlt/ or /sɔlt/, not /fɔːlt/",
+        "explanation": "发音差异可能导致混淆，通过听力练习区分元音"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "Culinary",
+      "Science",
+      "History",
+      "Computing"
+    ],
+    "tags": [
+      "Food",
+      "Mineral",
+      "Preservation",
+      "Metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

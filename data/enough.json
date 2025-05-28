@@ -1,0 +1,274 @@
+{
+  "word": "enough",
+  "phonetics": {
+    "british": "/ɪˈnʌf/",
+    "american": "/ɪˈnʌf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "sufficient in quantity or degree to meet a need or satisfy a requirement",
+      "chineseTranslation": "足够的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "to the necessary or required degree",
+      "chineseTranslation": "足够地",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "determiner",
+      "definition": "as much or as many as is needed",
+      "chineseTranslation": "足够的（用作限定词）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "pronoun",
+      "definition": "an adequate amount or quantity",
+      "chineseTranslation": "足够的量",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enough is enough",
+      "meaning": "表示某事已经达到极限，不能再继续",
+      "example": "Enough is enough; we can't tolerate this behavior any longer.",
+      "exampleTranslation": "够了；我们不能再容忍这种行为。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "have had enough",
+      "meaning": "已经受够了某事",
+      "example": "I've had enough of your excuses; it's time to take action.",
+      "exampleTranslation": "我已经受够了你的借口；是时候采取行动了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "just enough",
+      "meaning": "恰好足够的量",
+      "example": "She packed just enough food for the trip.",
+      "exampleTranslation": "她只打包了旅行恰好足够的食物。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I have enough money to buy the book.",
+      "translation": "我有足够的钱买这本书。",
+      "source": "Daily conversation (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He worked hard enough to pass the exam.",
+      "translation": "他努力工作到足以通过考试。",
+      "source": "Educational text (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Enough time has passed for us to reflect on our decisions.",
+      "translation": "足够的时间已经过去，让我们反思我们的决定。",
+      "source": "Literary work (e.g., modern novels)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The evidence is enough to convict him of the crime.",
+      "translation": "证据足以让他因犯罪而定罪。",
+      "source": "Legal context (e.g., from news articles)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "genōg",
+        "meaning": "sufficient",
+        "language": "Old English"
+      },
+      {
+        "root": "ganōgaz",
+        "meaning": "sufficient",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'genōg'，意为 'sufficient' 或 'adequate'，该词进一步追溯到原始日耳曼语 'ganōgaz'，表示 'enough'。在中古英语时期，该词演变为 'inough'，并在现代英语中标准化为 'enough'，其含义从单纯的数量足够扩展到更广泛的满足需求的概念。",
+    "firstKnownUse": "约公元 1000 年",
+    "relatedWords": [
+      "enoughness",
+      "enoughed"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用重复曝光法（spaced repetition）来强化记忆，例如通过间隔重复软件复习 'enough' 在不同语境中的用法；",
+      "创建个人联想，例如将 'enough' 与日常生活中的满足感（如吃饱了）联系起来，以提升语义记忆；",
+      "使用视觉辅助工具，如思维导图，将 'enough' 的不同词性与实际场景（如购物或工作）关联，以促进双语学习者从中文母语向英文过渡"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sufficient",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述数量或程度足够，例如商业或学术讨论"
+      },
+      {
+        "word": "adequate",
+        "similarity": "0.7",
+        "context": "在中性语境中表示基本满足需求，例如日常对话"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insufficient",
+        "context": "在资源不足的语境中，例如 'The funds are insufficient for the project.'（资金不足以支持项目。）"
+      },
+      {
+        "word": "inadequate",
+        "context": "在质量不达标的语境中，例如 'The preparation was inadequate.'（准备工作不充分。）"
+      }
+    ],
+    "hypernyms": [
+      "sufficient"
+    ],
+    "hyponyms": [
+      "plenty",
+      "ample"
+    ],
+    "collocations": [
+      {
+        "pattern": "enough + noun",
+        "examples": [
+          "enough time",
+          "enough money"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adverb + enough",
+        "examples": [
+          "quickly enough",
+          "carefully enough"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词常隐含耐心和界限的概念，例如在英美文化中 'enough is enough' 象征社会抗议或个人忍耐的极限，体现了注重个人权利和平衡的生活哲学。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或文学语境",
+        "usage": "在英国英语中，可能与历史文学（如莎士比亚作品）关联，强调适度"
+      },
+      {
+        "region": "美国",
+        "variation": "更倾向于日常口语化使用",
+        "usage": "在美国英语中，常出现在媒体和政治演讲中，表示公众不满"
+      }
+    ],
+    "historicalContext": "该词与英国工业革命时期的资源分配相关，在文学如狄更斯作品中体现资源'足够'与不公的对比；在美国文化中，与独立宣言的精神相联，强调个人需求的满足。",
+    "modernUsage": "在社交媒体如 Twitter 上，'enough' 常用于表达心理健康话题，如反欺凌运动，反映当代对心理界限的重视"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个水杯装满水的场景，水刚好到边缘，表示 'enough' 的状态",
+      "keyElements": [
+        "水杯",
+        "边缘",
+        "满盈"
+      ],
+      "emotionalConnection": "联结到个人经验，如吃饱后的满足感，帮助学习者从中文 '足够' 过渡到英文"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'enough' 联想为 'en-ough'，其中 'en' 像能量 (energy)，表示有足够的能量",
+        "explanation": "通过声音联想增强记忆，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "E-N-O-U-G-H = Every Need Only Under Good Habits",
+        "explanation": "使用首字母缩写创建故事，帮助 intermediate 水平的中文学习者构建语义网络"
+      }
+    ],
+    "wordAssociations": [
+      "sufficient",
+      "adequate",
+      "plenty"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + enough + to-infinitive",
+        "description": "用于表示能力或可能性，例如 'He is strong enough to lift the box.'（他足够强壮能举起箱子。）",
+        "examples": [
+          "She is old enough to vote."
+        ]
+      },
+      {
+        "pattern": "Enough + noun + for + object",
+        "description": "用于描述数量的充足性",
+        "examples": [
+          "Enough food for everyone."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'enough' before adjectives incorrectly",
+        "correction": "Place 'enough' after the adjective, e.g., 'big enough' not 'enough big'",
+        "explanation": "中文学习者常受母语影响，将 'enough' 置于形容词前；正确用法遵循英语词序规则"
+      },
+      {
+        "mistake": "Confusing with 'too'",
+        "correction": "Use 'enough' for sufficiency and 'too' for excess",
+        "explanation": "例如，'too much' 表示过多，而 'enough' 表示恰好；通过对比练习避免混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 100 in general corpora (e.g., COCA rank: 85)",
+    "domains": [
+      "日常对话",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "数量表达",
+      "程度副词",
+      "中性语域"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

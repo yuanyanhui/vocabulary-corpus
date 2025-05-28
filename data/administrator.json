@@ -1,0 +1,246 @@
+{
+  "word": "administrator",
+  "phonetics": {
+    "british": "/ədˈmɪn.ɪ.streɪ.tər/",
+    "american": "/ædˈmɪn.əˌstreɪ.tɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person responsible for managing or supervising an organization, institution, or system.",
+      "chineseTranslation": "管理员",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a user account with elevated privileges to control system settings and access.",
+      "chineseTranslation": "系统管理员",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "system administrator",
+      "meaning": "系统管理员",
+      "example": "The system administrator monitors network security.",
+      "exampleTranslation": "系统管理员监视网络安全。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "network administrator",
+      "meaning": "网络管理员",
+      "example": "A network administrator configures firewalls and routers.",
+      "exampleTranslation": "网络管理员配置防火墙和路由器。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "school administrator",
+      "meaning": "学校管理员",
+      "example": "The school administrator handles enrollment procedures.",
+      "exampleTranslation": "学校管理员处理入学手续。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The hospital administrator implemented new policies to improve patient care.",
+      "translation": "医院管理员实施了新政策以改善患者护理。",
+      "source": "Medical literature (e.g., from health management texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As the database administrator, she ensured data integrity during the upgrade.",
+      "translation": "作为数据库管理员，她在升级过程中确保了数据完整性。",
+      "source": "Technical documentation (e.g., from IT corpora like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In many companies, the administrator acts as a bridge between employees and management.",
+      "translation": "在许多公司中，管理员充当员工和管理层之间的桥梁。",
+      "source": "Business news (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "administrare",
+        "meaning": "to manage or assist in serving",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'administrare'（意为管理或帮助服务）演变而来，通过古法语 'administrateur' 进入中世纪英语，最终在现代英语中发展为表示监督或管理的含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "admin",
+      "administration",
+      "administrative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过分块学习（chunking）将 'administrator' 与常见短语如 'system administrator' 关联，以增强记忆；使用双编码（dual coding）方法，将词汇与视觉图像（如办公室场景）结合；针对中文母语学习者，强调音节分解以避免英式和美式发音混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "manager",
+        "similarity": "0.8",
+        "context": "在商业或组织管理语境中适用，常用于正式场合"
+      },
+      {
+        "word": "supervisor",
+        "similarity": "0.7",
+        "context": "在监督员工或流程的语境中适用，偏向非正式环境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subordinate",
+        "context": "在层级结构中，适用于表示下属或被管理者的语境"
+      },
+      {
+        "word": "employee",
+        "context": "在就业关系中，适用于非领导角色的语境"
+      }
+    ],
+    "hypernyms": [
+      "leader",
+      "official"
+    ],
+    "hyponyms": [
+      "database administrator",
+      "network administrator"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + administrator (e.g., system administrator)",
+        "examples": [
+          "system administrator",
+          "school administrator"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "The + administrator + verb (e.g., The administrator manages)",
+        "examples": [
+          "The administrator oversees operations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征组织效率和领导力，常隐含官僚主义或专业管理的含义；在跨文化语境中，中国学习者可能将其与 '行政人员' 关联，但需注意英语中强调个人责任而非集体。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术领域，如 IT 管理员",
+        "usage": "在美国英语中，强调个人权限和决策，如在硅谷公司文化中"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于行政或教育机构",
+        "usage": "在英国英语中，常与正式机构相关，如大学管理员"
+      }
+    ],
+    "historicalContext": "与工业革命后的管理文化相关，在文学如狄更斯作品中象征官僚体系；在现代，关联20世纪的组织理论。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线论坛讨论IT安全，或商业博客中描述领导角色"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个办公室场景：一个穿着正式服装的人坐在电脑前，管理多个屏幕，象征控制和监督。",
+      "keyElements": [
+        "办公室",
+        "电脑屏幕",
+        "领导姿势"
+      ],
+      "emotionalConnection": "联结个人经验，如回想自己学校的管理员，帮助触发积极的权威感和责任感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'administrator' 联想为 'admin +strator'，其中 'admin' 像 'administer' 管理，'strator' 像 'demonstrator' 展示控制。",
+        "explanation": "通过声音和语义联想增强记忆，基于认知科学的空间记忆模型"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'Admin Rules' 作为缩写记忆，代表 'Administrator Rules Everything'.",
+        "explanation": "利用重复和简化原则，帮助中间水平学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "manager",
+      "overseer",
+      "controller"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "administrators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + administrator",
+        "description": "作为主语的典型结构，用于描述角色",
+        "examples": [
+          "The administrator leads the team."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with administrator",
+        "description": "用于短语结构，如 'the chief administrator'",
+        "examples": [
+          "She is the chief administrator."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'administration' as a verb",
+        "correction": "Use 'administrator' as a noun only",
+        "explanation": "中文学习者常误将之视为动词；正确时需注意其名词特性"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Reserve for neutral or formal settings",
+        "explanation": "由于语域差异，中间水平学习者可能在非正式对话中滥用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "technology",
+      "education"
+    ],
+    "tags": [
+      "management",
+      "leadership",
+      "IT"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

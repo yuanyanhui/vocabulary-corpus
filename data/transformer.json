@@ -1,0 +1,267 @@
+{
+  "word": "transformer",
+  "phonetics": {
+    "british": "/trænsˈfɔːmə/",
+    "american": "/trænsˈfɔrmər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used in electrical engineering to transfer electrical energy from one circuit to another through electromagnetic induction, typically changing voltage levels.",
+      "chineseTranslation": "变压器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fictional extraterrestrial robot from the Transformers franchise, capable of transforming into everyday objects or vehicles.",
+      "chineseTranslation": "变形金刚（指科幻系列中的机器人）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In machine learning, a type of neural network architecture that uses self-attention mechanisms to process sequential data.",
+      "chineseTranslation": "Transformer模型（指AI中的神经网络架构）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "step-up transformer",
+      "meaning": "一种将电压提高的变压器",
+      "example": "A step-up transformer is used to increase the voltage for long-distance power transmission.",
+      "exampleTranslation": "升压变压器用于提高电压以进行长距离电力传输。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "power transformer",
+      "meaning": "用于电力系统的变压器",
+      "example": "The power transformer in the substation failed, causing a blackout.",
+      "exampleTranslation": "变电站中的电力变压器故障，导致了停电。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Autobot transformer",
+      "meaning": "变形金刚系列中的正义机器人",
+      "example": "Optimus Prime is a famous Autobot transformer in the movies.",
+      "exampleTranslation": "擎天柱是电影中著名的变形金刚Autobot。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer installed a new transformer to stabilize the electrical supply.",
+      "translation": "工程师安装了一个新的变压器来稳定电力供应。",
+      "source": "Technical manual (e.g., from IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the Transformers movie, the hero transformer battles against the Decepticons.",
+      "translation": "在变形金刚电影中，英雄机器人与霸天虎作战。",
+      "source": "Popular culture (e.g., film scripts from Hasbro franchise)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The Transformer model revolutionized natural language processing by handling long-range dependencies.",
+      "translation": "Transformer模型通过处理长距离依赖关系革新了自然语言处理。",
+      "source": "Academic paper (e.g., from Google AI research, 2017)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Due to its efficiency, the transformer is now a standard component in modern power grids.",
+      "translation": "由于其效率，变压器已成为现代电网的标准组件。",
+      "source": "News article (e.g., BBC Technology section)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "transform",
+        "meaning": "to change shape or form",
+        "language": "Latin"
+      },
+      {
+        "root": "form",
+        "meaning": "shape or structure",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'transformare'，意为改变形状或形式，通过法语 'transformer' 传入英语。最初用于一般转换概念，19世纪开始应用于电气工程，指电磁感应设备；20世纪扩展到流行文化和AI领域。",
+    "firstKnownUse": "1882 (for electrical device, as per OED)",
+    "relatedWords": [
+      "transform",
+      "transformation",
+      "transformer-based"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于辅音群和元音变化可能导致非母语者混淆)",
+    "spellingDifficulty": "5 (拼写相对直接，但 'ph' 发音为 /f/ 需注意)",
+    "meaningComplexity": "7 (语义多样，包括技术、流行文化和AI语境，需上下文区分)",
+    "usageComplexity": "6 (取决于领域，使用时需注意语域)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将不同语义分组；例如，通过视觉联想将电气变压器与电路图关联，并使用间隔重复来强化记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "converter",
+        "similarity": "0.8",
+        "context": "在电气工程中，用于类似电压转换的语境"
+      },
+      {
+        "word": "shapeshifter",
+        "similarity": "0.6",
+        "context": "在流行文化中，指能改变形式的实体"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "static device",
+        "context": "在技术语境中，指不进行转换的设备"
+      },
+      {
+        "word": "unchanging form",
+        "context": "在文化语境中，指固定不变的角色"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "step-down transformer",
+      "isolation transformer"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + transformer (e.g., power transformer)",
+        "examples": [
+          "electrical transformer",
+          "AI transformer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + transformer (e.g., use a transformer)",
+        "examples": [
+          "install a transformer",
+          "design a transformer"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，象征技术创新和变形能力，尤其在AI领域代表了机器学习革命；在流行文化中，如变形金刚系列，隐含了善恶对立和适应性主题。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于AI和娱乐语境",
+        "usage": "在日常对话中，经常与科技公司如Google关联"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向电气工程的正式用法",
+        "usage": "在学术和工业语境中，使用更精确的技术术语"
+      }
+    ],
+    "historicalContext": "与工业革命和现代AI发展相关，19世纪的电气发明推动了其使用；20世纪的科幻文学（如变形金刚）使其成为文化符号。",
+    "modernUsage": "在社交媒体和科技新闻中流行，例如Twitter讨论Transformer模型，或电影续集中的变形金刚。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个机器人从汽车变形为巨型战士，同时背景是电路板闪烁的灯光。",
+      "keyElements": [
+        "变形过程",
+        "电路图",
+        "机器人形象"
+      ],
+      "emotionalConnection": "联结个人对科幻电影的兴奋或对科技进步的好奇，以增强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'transform' as changing form, like a 'former' shape to a new one.",
+        "explanation": "通过词根联想帮助记忆语义多样性，基于认知科学的关键字关联"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-A-N-S: Transfer, Robot, AI, New Shape.",
+        "explanation": "使用首字母缩写创建故事，增强视觉和叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "transform",
+      "energy",
+      "robot",
+      "AI model"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "transformers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + transformer",
+        "description": "作为主语或宾语出现",
+        "examples": [
+          "The transformer converts voltage."
+        ]
+      },
+      {
+        "pattern": "Adjective + transformer",
+        "description": "用形容词修饰",
+        "examples": [
+          "A powerful transformer is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'transfer'",
+        "correction": "Use 'transformer' for devices or entities that change form",
+        "explanation": "词形相似易混淆，需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural",
+        "explanation": "作为常规名词，遵循标准规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15,000 in COCA corpus (medium frequency)",
+    "domains": [
+      "technology",
+      "engineering",
+      "entertainment"
+    ],
+    "tags": [
+      "electrical",
+      "AI",
+      "science fiction"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

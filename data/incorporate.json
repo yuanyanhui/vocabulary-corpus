@@ -1,0 +1,254 @@
+{
+  "word": "instantiate",
+  "phonetics": {
+    "british": "/ɪnˈstænʃieɪt/",
+    "american": "/ɪnˈstænʃieɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To create an instance of a class or object in object-oriented programming, making an abstract concept concrete and usable.",
+      "chineseTranslation": "实例化（在面向对象编程中创建类的实例）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide a specific example or realization of a general concept, idea, or theory in a real-world context.",
+      "chineseTranslation": "具体化或实现（为一般概念提供具体示例）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "instantiate an object",
+      "meaning": "创建对象的实例",
+      "example": "In Python, you can instantiate an object by calling the class constructor.",
+      "exampleTranslation": "在Python中，您可以通过调用类构造函数来实例化一个对象。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "instantiate a class",
+      "meaning": "实例化一个类",
+      "example": "The program will instantiate a class to handle user data.",
+      "exampleTranslation": "程序将实例化一个类来处理用户数据。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "instantiate an idea",
+      "meaning": "将想法具体化",
+      "example": "The architect instantiated the idea of sustainability in the building design.",
+      "exampleTranslation": "建筑师在建筑设计中将可持续性想法具体化。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software developer used the new framework to instantiate multiple objects quickly.",
+      "translation": "软件开发者使用新框架快速实例化多个对象。",
+      "source": "Technical documentation (e.g., from Stack Overflow or programming tutorials)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In philosophy, philosophers often instantiate abstract concepts with real-life examples.",
+      "translation": "在哲学中，哲学家经常用现实生活中的例子来具体化抽象概念。",
+      "source": "Academic text (e.g., from a philosophy journal)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "To demonstrate the theory, the teacher asked students to instantiate the principle in a group project.",
+      "translation": "为了演示理论，老师要求学生在小组项目中将原则具体化。",
+      "source": "Educational context (e.g., from a classroom discussion)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "instantia",
+        "meaning": "example or instance",
+        "language": "Latin"
+      },
+      {
+        "root": "instans",
+        "meaning": "standing upon or present",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语instantia（意为例子或实例）演变而来，通过中世纪拉丁语和法语影响，最终在17世纪进入英语，主要用于哲学和逻辑语境中表示提供具体例子。19世纪后，随着计算机科学的兴起，该词在编程中获得现代技术含义。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "instance",
+      "instantaneous",
+      "instigate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于包含辅音簇如/stæn/，可能对中文母语者造成发音挑战)",
+    "spellingDifficulty": "7 (中等偏高难度，因为词汇较长且不常见，容易拼错如'instance'与'instantiate'的混淆)",
+    "meaningComplexity": "8 (较高复杂度，需要理解抽象概念和特定语境，如编程或哲学)",
+    "usageComplexity": "7 (中等偏高，因为多用于正式或技术语境，需注意搭配)",
+    "learningTips": [
+      "结合认知科学，利用分块学习（chunking）将词汇分解为'in-stance-iate'，并通过视觉想象编程场景增强记忆；建议初学者从简单句子练习开始，逐步链接到个人经验以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "exemplify",
+        "similarity": "0.7",
+        "context": "适用于提供例子或说明概念的语境，例如在教育或写作中"
+      },
+      {
+        "word": "realize",
+        "similarity": "0.6",
+        "context": "适用于将抽象想法转化为实际形式的语境，如商业规划"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abstract",
+        "context": "适用于保持概念抽象而不具体化的语境，例如在理论讨论中"
+      },
+      {
+        "word": "generalize",
+        "context": "适用于从具体例子推断一般原则的语境"
+      }
+    ],
+    "hypernyms": [
+      "create",
+      "produce"
+    ],
+    "hyponyms": [
+      "object creation",
+      "class instantiation"
+    ],
+    "collocations": [
+      {
+        "pattern": "instantiate + noun (e.g., object, class)",
+        "examples": [
+          "instantiate an object",
+          "instantiate a template"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + instantiate (e.g., to instantiate)",
+        "examples": [
+          "need to instantiate",
+          "quickly instantiate"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征创新和实际应用，尤其在编程和哲学领域，体现了从抽象到具体的认知模式，但在中文文化中可能较少使用，需结合STEM教育理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术行业，如软件开发",
+        "usage": "在美国英语中，常在科技语境下使用，以强调实用性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于学术语境，如哲学讨论",
+        "usage": "在英国英语中，可能更正式，强调历史演变"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，反映了西方对经验主义和实证科学的强调；在现代，关联计算机科学发展，如Alan Turing的理论。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于讨论AI和编程，但需注意跨文化适应，如在中文环境中可能翻译为'实例化'以融入本地技术讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工厂场景，其中'Instantiate'像一个按钮，点击后从抽象蓝图中产生真实产品。",
+      "keyElements": [
+        "工厂按钮",
+        "蓝图",
+        "产品"
+      ],
+      "emotionalConnection": "联结到个人编程经历的成就感，例如首次运行代码创建对象时的兴奋"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'instantiate' as 'instant' + 'state' – making something happen instantly in a state.",
+        "explanation": "通过词根联想增强语义记忆，利用认知关联将词汇与快速变化的概念连接"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-S-T-A-N-T-I-A-T-E: I Need Something To Actually Notice This Instantly And Test Everything.",
+        "explanation": "使用首字母缩写创建故事，帮助中间级学习者通过叙事强化词汇"
+      }
+    ],
+    "wordAssociations": [
+      "instance",
+      "create",
+      "object",
+      "realize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "instantiated",
+      "pastParticiple": "instantiated",
+      "presentParticiple": "instantiating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We instantiate the class."
+        ]
+      },
+      {
+        "pattern": "To + infinitive",
+        "description": "不定式结构，用于表示目的",
+        "examples": [
+          "To instantiate an object, use the constructor."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'instance'",
+        "correction": "Use 'instantiate' for the action of creating",
+        "explanation": "学习者常将'instantiate'误用为名词'实例'，需区分动词用法"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'instantiated'",
+        "explanation": "中文母语者可能忽略过去式规则，导致时态错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "computing",
+      "philosophy",
+      "education"
+    ],
+    "tags": [
+      "programming",
+      "abstract concepts",
+      "verb"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

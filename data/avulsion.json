@@ -1,0 +1,266 @@
+{
+  "word": "avulsion",
+  "phonetics": {
+    "british": "/əˈvʌlʃən/",
+    "american": "/əˈvʌlʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of forcibly tearing away or separating something, often used in medical contexts to describe the detachment of tissue or bone, or in geological contexts to refer to the sudden removal of land by water.",
+      "chineseTranslation": "撕脱；撕裂",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In medicine, a type of injury where a structure is pulled away from its attachment point, such as an avulsion fracture.",
+      "chineseTranslation": "（医学上）撕脱伤",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In geography, the process by which flowing water erodes and carries away soil or rock from one area.",
+      "chineseTranslation": "（地理学上）冲刷剥蚀",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "avulsion fracture",
+      "meaning": "撕脱骨折",
+      "example": "The X-ray revealed an avulsion fracture in the patient's ankle.",
+      "exampleTranslation": "X光显示患者踝部有撕脱骨折。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tooth avulsion",
+      "meaning": "牙齿撕脱",
+      "example": "Immediate reimplantation is recommended in cases of tooth avulsion to preserve the root.",
+      "exampleTranslation": "在牙齿撕脱的情况下，建议立即重新植入以保留牙根。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "river avulsion",
+      "meaning": "河流冲刷剥蚀",
+      "example": "River avulsion can dramatically alter the landscape of floodplains over time.",
+      "exampleTranslation": "河流冲刷剥蚀会随着时间改变河漫滩的景观。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The surgeon had to repair the avulsion of the ligament during the emergency procedure.",
+      "translation": "外科医生必须在紧急手术中修复韧带的撕脱。",
+      "source": "Medical textbook (e.g., from sources like Gray's Anatomy)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the flood, an avulsion occurred, redirecting the river's course entirely.",
+      "translation": "在洪水中发生了冲刷剥蚀，导致河流完全改变了流向。",
+      "source": "Geographical report (e.g., from academic journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Athletes are at high risk for avulsion injuries due to sudden movements.",
+      "translation": "运动员由于突发动作而高度风险遭受撕脱伤。",
+      "source": "Sports medicine article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The avulsion of the skin flap was a complication from the initial trauma.",
+      "translation": "皮肤瓣的撕脱是最初创伤的并发症。",
+      "source": "News article on health (e.g., from BBC News)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "avellere",
+        "meaning": "to tear away",
+        "language": "Latin"
+      },
+      {
+        "root": "avulsio",
+        "meaning": "act of tearing away",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'avellere' (meaning 'to tear away'), the term entered Middle English in the 17th century through French influence, evolving from a general description of forceful separation to specialized uses in medicine and geology by the 19th century as scientific fields advanced.",
+    "firstKnownUse": "1620s",
+    "relatedWords": [
+      "avulse (verb, meaning to tear away)",
+      "avulsionist (rare, relating to one who studies such phenomena)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一根绳子被强力拉扯，以强化记忆；对于中文母语学习者，建议通过比较相似词汇如 'fracture' 来构建语义网络，避免混淆专业术语；重复暴露于真实语境中，如阅读医学文章，以提升长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "detachment",
+        "similarity": "0.8",
+        "context": "在医学语境中，用于描述组织分离，例如手术中"
+      },
+      {
+        "word": "rupture",
+        "similarity": "0.7",
+        "context": "在一般语境中，表示突然断裂，但不如 avulsion 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "adhesion",
+        "context": "在医学语境中，表示粘附或连接"
+      },
+      {
+        "word": "fusion",
+        "context": "在地质或医学语境中，表示合并或融合"
+      }
+    ],
+    "hypernyms": [
+      "injury",
+      "erosion"
+    ],
+    "hyponyms": [
+      "avulsion fracture",
+      "tooth avulsion"
+    ],
+    "collocations": [
+      {
+        "pattern": "avulsion + noun (e.g., fracture, injury)",
+        "examples": [
+          "an avulsion fracture",
+          "tooth avulsion"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + avulsion (e.g., cause, repair)",
+        "examples": [
+          "cause an avulsion",
+          "repair the avulsion"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要作为技术术语出现，在医学和地质学领域象征紧急情况或自然力量的破坏性，没有显著的隐含象征意义，但在跨文化语境中，体现了西方科学传统的精确性，例如在全球健康教育中用于描述创伤。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于医学语境，如在紧急医疗服务中",
+        "usage": "在美国英语中，avulsion 常与体育伤害相关联，如 NFL 球员的报道"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重地质学用法",
+        "usage": "在英国英语中，可能在环境科学文献中更常见"
+      }
+    ],
+    "historicalContext": "与工业革命和现代医学发展相关，19 世纪的英国和美国科学出版物中首次流行，用于描述战争创伤和自然灾害。",
+    "modernUsage": "在社交媒体和在线论坛中，avulsion 常出现在健康讨论或气候变化话题下，反映了全球化的科学传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个树根被洪水猛烈拉扯出来的场景，根部被完全分离。",
+      "keyElements": [
+        "洪水",
+        "树根",
+        "分离动作"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看自然灾害电影，触发对破坏力的情绪，以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'avulsion' as 'a violent suction' – the 'a' for away, and 'vulsion' sounding like 'suction'.",
+        "explanation": "通过声音联想和视觉想象，帮助中文母语学习者建立英语词汇与母语概念的桥梁"
+      },
+      {
+        "type": "缩略",
+        "content": "A-V-U-L-S-I-O-N: A for Away, V for Violent, U for Uproot, etc.",
+        "explanation": "使用首字母缩写结合故事构建，基于认知科学中的分块技术简化记忆"
+      }
+    ],
+    "wordAssociations": [
+      "tear",
+      "fracture",
+      "erosion"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "avulsions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'an avulsion of the tissue')",
+        "description": "作为名词，通常后接 'of' 介词短语指定对象",
+        "examples": [
+          "The avulsion of the muscle caused severe pain."
+        ]
+      },
+      {
+        "pattern": "Subject in a sentence (e.g., 'Avulsion occurs frequently in floods.')",
+        "description": "用作主语描述事件",
+        "examples": [
+          "Avulsion can lead to long-term complications."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'avulsion' and 'evolution'",
+        "correction": "Use 'avulsion' for tearing away, not 'evolution' which means development.",
+        "explanation": "源自语音相似性；建议通过语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'avulsions' for plural, not 'avulsion's'.",
+        "explanation": "英文名词复数规则简单，但非母语者常遗忘"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 20,000 in COCA corpus (Corpus of Contemporary American English)",
+    "domains": [
+      "medicine",
+      "geology",
+      "sports"
+    ],
+    "tags": [
+      "technical",
+      "medical terminology",
+      "natural processes"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA",
+      "Merriam-Webster Online",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

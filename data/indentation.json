@@ -1,0 +1,262 @@
+{
+  "word": "indentation",
+  "phonetics": {
+    "british": "/ˌɪn.dɛnˈteɪ.ʃən/",
+    "american": "/ˌɪn.dɛnˈteɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action of indenting or the state of being indented, such as creating a space at the beginning of a line of text.",
+      "chineseTranslation": "缩进；凹进",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and programming, the arrangement of code lines with spaces or tabs to improve readability and structure.",
+      "chineseTranslation": "代码缩进",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A notch or cut made in an edge or surface.",
+      "chineseTranslation": "凹口；锯齿",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "code indentation",
+      "meaning": "代码的缩进排列",
+      "example": "Proper code indentation makes the script easier to debug.",
+      "exampleTranslation": "适当的代码缩进使脚本更容易调试。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "paragraph indentation",
+      "meaning": "段落首行的缩进",
+      "example": "In formal writing, paragraph indentation is often used to separate ideas.",
+      "exampleTranslation": "在正式写作中，段落缩进通常用于分隔想法。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "dental indentation",
+      "meaning": "牙齿或牙龈的凹进",
+      "example": "The dentist noted an unusual indentation on the patient's tooth.",
+      "exampleTranslation": "牙医注意到患者牙齿上一个不寻常的凹进。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The poem's indentation helped to emphasize the rhythm and structure.",
+      "translation": "这首诗的缩进有助于强调节奏和结构。",
+      "source": "Literary analysis (e.g., from poetry collections)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Python programming, indentation is crucial for defining code blocks.",
+      "translation": "在Python编程中，缩进对于定义代码块至关重要。",
+      "source": "Technical documentation (e.g., from programming tutorials)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The map showed an indentation in the coastline where the bay formed.",
+      "translation": "地图显示了海岸线上一个形成海湾的凹进。",
+      "source": "Geographical texts (e.g., from travel guides)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "in or into",
+        "language": "Latin"
+      },
+      {
+        "root": "dent",
+        "meaning": "tooth",
+        "language": "Latin (from 'dens')"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'indentare', meaning to notch or make a tooth-like mark. It evolved through Middle English 'indenten' in the 14th century, initially referring to physical notching, and later expanded in the 19th century to include typographical and computational contexts as writing and technology advanced.",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "indent",
+      "dent",
+      "indention"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用视觉联想将 'indentation' 与牙齿凹槽的图像联系起来，利用认知锚点增强记忆；",
+      "通过重复练习编程代码的缩进场景，结合工作记忆训练以提高实际应用；",
+      "根据斯金纳的强化理论，在学习中奖励正确使用该词的句子，以巩固长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "indent",
+        "similarity": "0.8",
+        "context": "在编程或排版语境中，用于描述类似缩进的操作"
+      },
+      {
+        "word": "notch",
+        "similarity": "0.6",
+        "context": "在物理或地理语境中，指凹进或切口"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "outdent",
+        "context": "在排版中，指向外凸出的操作，与缩进相反"
+      },
+      {
+        "word": "flush",
+        "context": "在设计中，指齐边或无缩进的排列"
+      }
+    ],
+    "hypernyms": [
+      "arrangement",
+      "structure"
+    ],
+    "hyponyms": [
+      "code formatting",
+      "paragraph spacing"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + indentation",
+        "examples": [
+          "code indentation",
+          "text indentation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + indentation",
+        "examples": [
+          "apply indentation",
+          "adjust indentation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征着组织和清晰，尤其在文学和科技领域，体现了对结构化的重视，如在英语写作传统中用于提升可读性；在编程文化中，它反映了开源社区的规范性。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件开发",
+        "usage": "在美国英语中，'indentation' 在编程讨论中频繁出现，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向于传统排版含义",
+        "usage": "在英国英语中，常见于出版和学术写作，以维护正式性"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的印刷技术和20世纪的计算机发展相关联，例如在莎士比亚时代的手稿中已见缩进用法，并在现代数字时代成为编码标准的一部分。",
+    "modernUsage": "在社交媒体和在线论坛中，'indentation' 常用于代码分享平台如GitHub，推动全球数字交流"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个齿轮上的凹槽（像牙齿的缩进），代表单词的结构。",
+      "keyElements": [
+        "齿轮",
+        "凹槽",
+        "代码行"
+      ],
+      "emotionalConnection": "联结到个人编程经历的挫败感，以激发纠正错误的动机"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Indentation 像牙齿的 'dent'，想象缩进代码如排列牙齿。",
+        "explanation": "通过视觉联想加强词根记忆，基于Paivio的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-D for Inward Notch Design",
+        "explanation": "使用首字母缩写帮助快速回忆，结合Elaborative Rehearsal"
+      }
+    ],
+    "wordAssociations": [
+      "dentist",
+      "code",
+      "space"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "indentations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject-Verb-Object with prepositional phrase",
+        "description": "该词常作为名词出现在句子中，伴随介词短语如 'with indentation'",
+        "examples": [
+          "The document uses indentation for clarity."
+        ]
+      },
+      {
+        "pattern": "In compound structures",
+        "description": "用于复杂句中表示结构关系",
+        "examples": [
+          "Indentation in the code prevents errors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'intention'",
+        "correction": "Use 'indentation' for physical or structural spacing",
+        "explanation": "二者发音相似，但语义不同；注意拼写差异以避免混淆"
+      },
+      {
+        "mistake": "Incorrect usage in programming",
+        "correction": "Ensure consistent spaces or tabs",
+        "explanation": "在代码中，不当缩进可能导致语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "writing",
+      "design"
+    ],
+    "tags": [
+      "computing",
+      "typography",
+      "structure"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

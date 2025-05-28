@@ -1,0 +1,262 @@
+{
+  "word": "maker",
+  "phonetics": {
+    "british": "/ˈmeɪkə/",
+    "american": "/ˈmeɪkər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or company that makes, manufactures, or produces something.",
+      "chineseTranslation": "制造者；生产者",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Someone who creates or invents, often in a creative or innovative context, such as in the Maker Movement.",
+      "chineseTranslation": "创造者；发明者（如创客文化中的参与者）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A compound term in phrases like 'decision maker' or 'kingmaker', referring to someone with influence or authority.",
+      "chineseTranslation": "决策者；影响力人物",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decision maker",
+      "meaning": "决策者",
+      "example": "The board of directors acts as the key decision maker in corporate strategy.",
+      "exampleTranslation": "董事会作为公司战略的关键决策者。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "car maker",
+      "meaning": "汽车制造商",
+      "example": "Toyota is one of the largest car makers in the world.",
+      "exampleTranslation": "丰田是世界上最大的汽车制造商之一。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "film maker",
+      "meaning": "电影制作人",
+      "example": "Steven Spielberg is a renowned film maker known for his blockbuster hits.",
+      "exampleTranslation": "史蒂文·斯皮尔伯格是一位著名的电影制作人，以他的大片闻名。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "As a skilled maker of artisanal furniture, she turned raw wood into beautiful pieces.",
+      "translation": "作为一名熟练的手工家具制造者，她将原木变成美丽的家具。",
+      "source": "Literature (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the tech industry, a maker is someone who prototypes new gadgets in their garage.",
+      "translation": "在科技行业，一名制造者是在车库里制作新 gadget 原型的人。",
+      "source": "News articles (e.g., technology blogs)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company, as a leading maker of electronic devices, announced a new line of smartphones.",
+      "translation": "作为电子设备的主要制造商，该公司宣布推出新款智能手机。",
+      "source": "Business reports (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "macian",
+        "meaning": "to make",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'macere'，由 'macian'（意为“制作”）演变而来，经过中古英语时期的发展，最终在现代英语中成为表示生产者或创造者的名词。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "make",
+      "manufacturer",
+      "creator"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 4,
+    "usageComplexity": 5,
+    "learningTips": [
+      "通过视觉联想将词汇与制造过程的图像结合，利用认知科学中的双编码理论；建议初级学习者将 'maker' 与个人经验（如日常产品制作）关联，以增强记忆持久性；使用间隔重复法复习，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "manufacturer",
+        "similarity": 0.85,
+        "context": "在商业或工业语境中"
+      },
+      {
+        "word": "creator",
+        "similarity": 0.75,
+        "context": "在创新或艺术语境中"
+      },
+      {
+        "word": "producer",
+        "similarity": 0.7,
+        "context": "在媒体或农业语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "user",
+        "context": "在产品消费或生命周期语境中"
+      },
+      {
+        "word": "consumer",
+        "context": "在经济或市场语境中"
+      }
+    ],
+    "hypernyms": [
+      "creator",
+      "producer"
+    ],
+    "hyponyms": [
+      "car maker",
+      "film maker",
+      "decision maker"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + maker",
+        "examples": [
+          "car maker",
+          "policy maker"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the + maker + of + noun",
+        "examples": [
+          "the maker of smartphones"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词与创客运动（Maker Movement）相关，象征创新、DIY精神和个人创造力，尤其在美国硅谷文化中被视为推动技术进步的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于非正式语境，如科技社区",
+        "usage": "例如，在 Maker Faire 活动中，指代业余发明家"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或工业含义",
+        "usage": "在制造业语境中，如汽车制造商，常用于商业报告"
+      }
+    ],
+    "historicalContext": "与工业革命相关，强调从手工制造到大规模生产的演变；在文学和社会背景中，如莎士比亚作品中出现类似概念，反映社会阶层和创新。",
+    "modernUsage": "在社交媒体和数字时代，'maker' 常用于 YouTube 或 TikTok 内容创建者，体现跨文化创新趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个忙碌的工厂场景，其中一个人正在组装产品。",
+      "keyElements": [
+        "工厂",
+        "工具",
+        "成品"
+      ],
+      "emotionalConnection": "联结到个人DIY经历，如手工制作礼物，以触发积极情绪和记忆强化"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'maker' 联想为 'make her'，想象某人制作礼物给 'her'。",
+        "explanation": "通过声音联想和故事构建，利用认知科学中的阐述性编码增强词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-K-E-R：M for make, A for action, K for create, E for effort, R for result。",
+        "explanation": "使用首字母缩略法结合视觉图表，促进空间记忆"
+      }
+    ],
+    "wordAssociations": [
+      "create",
+      "build",
+      "invent",
+      "craft"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "makers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + maker",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "The maker designed the prototype."
+        ]
+      },
+      {
+        "pattern": "The + maker + of + noun",
+        "description": "表示所属或来源的结构",
+        "examples": [
+          "The maker of this device is innovative."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'maker' with the verb 'make'",
+        "correction": "Use 'maker' only as a noun",
+        "explanation": "学习者常将之误用为动词形式；建议通过语境练习区分词性"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'makers' for plural",
+        "explanation": "由于简单规则，错误较少，但需注意在复合词中使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Business",
+      "Technology",
+      "Manufacturing",
+      "Culture"
+    ],
+    "tags": [
+      "Noun",
+      "Production",
+      "Innovation"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

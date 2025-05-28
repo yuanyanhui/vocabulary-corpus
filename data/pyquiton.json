@@ -1,0 +1,269 @@
+{
+  "word": "python",
+  "phonetics": {
+    "british": "/ˈpaɪθɒn/",
+    "american": "/ˈpaɪθɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large non-venomous snake that kills its prey by constriction.",
+      "chineseTranslation": "一种大型无毒蛇，通过缠绕杀死猎物",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A high-level, interpreted programming language known for its readability and versatility.",
+      "chineseTranslation": "一种高级解释型编程语言，以可读性和多功能性著称",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "A reference to the Monty Python comedy group or their works.",
+      "chineseTranslation": "指蒙蒂·派森喜剧团体及其作品",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To squeeze or constrict something tightly, similar to the action of a python snake.",
+      "chineseTranslation": "像蟒蛇一样紧紧缠绕或挤压某物",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Python programming",
+      "meaning": "Python 编程",
+      "example": "She is learning Python programming to build web applications.",
+      "exampleTranslation": "她在学习 Python 编程来构建网络应用。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Constrictor python",
+      "meaning": "缠绕型蟒蛇",
+      "example": "The constrictor python is one of the most powerful predators in the rainforest.",
+      "exampleTranslation": "缠绕型蟒蛇是雨林中最强大的捕食者之一。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Monty Python sketch",
+      "meaning": "蒙蒂·派森的喜剧短剧",
+      "example": "The Monty Python sketch is famous for its absurd humor.",
+      "exampleTranslation": "蒙蒂·派森的喜剧短剧以其荒谬幽默而闻名。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The python slithered silently through the underbrush, hunting for its next meal.",
+      "translation": "蟒蛇悄无声息地爬过灌木丛，寻找下一个猎物。",
+      "source": "Wildlife documentary",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Python, you can write a simple script to automate tasks with just a few lines of code.",
+      "translation": "在 Python 中，你可以用几行代码编写一个简单的脚本来自动化任务。",
+      "source": "Programming tutorial",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "We watched a classic Monty Python film last night and laughed all evening.",
+      "translation": "昨晚我们看了一部经典的蒙蒂·派森电影，整个晚上都笑个不停。",
+      "source": "Informal conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The wrestler tried to python his opponent to the ground during the match.",
+      "translation": " wrestler 试图在比赛中像蟒蛇一样将对手压倒在地。",
+      "source": "Sports commentary",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "python",
+        "meaning": "A mythical serpent or dragon",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "从古希腊神话中的巨蛇演变而来，最初指代一个被阿波罗杀死的巨蟒。在中世纪英语中，词义扩展到实际的蛇类。17 世纪开始用于描述特定蛇种，而在 20 世纪后期，扩展到编程语言，源自喜剧团体 Monty Python 的幽默命名。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "serpent",
+      "constrictor",
+      "anaconda"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用分块学习法（chunking）将 'python' 的不同含义分组，例如将蛇类含义与视觉图像关联，将编程含义与代码示例联系，以增强长时记忆；重复间隔法（spaced repetition）可用于强化多义词的区分。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "serpent",
+        "similarity": "0.8",
+        "context": "在动物学语境中，用于描述类似爬行动物"
+      },
+      {
+        "word": "scripting language",
+        "similarity": "0.7",
+        "context": "在技术语境中，用于指代类似编程工具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "venomous snake",
+        "context": "在动物学中，对比无毒蛇"
+      },
+      {
+        "word": "low-level language",
+        "context": "在编程中，对比高级语言"
+      }
+    ],
+    "hypernyms": [
+      "snake",
+      "programming language"
+    ],
+    "hyponyms": [
+      "ball python",
+      "burmese python",
+      "CPython"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + python (e.g., constrictor python)",
+        "examples": [
+          "The reticulated python is native to Southeast Asia."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + python (e.g., code in Python)",
+        "examples": [
+          "Developers often code in Python for data analysis."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'python' 象征力量和神秘，常出现在神话和现代媒体中；在科技文化中，它代表创新和效率。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于编程语境",
+        "usage": "在美国英语中，强调技术应用，如 'Python for AI'"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能联想到 Monty Python 喜剧",
+        "usage": "在英国英语中，常在娱乐语境中使用"
+      }
+    ],
+    "historicalContext": "源自希腊神话的 Python 与阿波罗神话相关联；在20世纪，Monty Python 团体影响了流行文化；编程语言的兴起反映了数字时代的语言演变。",
+    "modernUsage": "在社交媒体和在线社区中，'python' 常用于技术讨论或 meme文化，体现跨文化交流。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条巨大的蛇缠绕在一棵树上，同时旁边有一台电脑屏幕显示 Python 代码。",
+      "keyElements": [
+        "蛇的缠绕动作",
+        "代码屏幕",
+        "神话元素"
+      ],
+      "emotionalConnection": "联结个人对冒险的兴奋（如看蛇）或成就感（如编写代码），以触发积极情绪记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'Python' as 'Pie-thon' – a pie wrapped like a snake, and for programming, it's a 'pie' of code pieces.",
+        "explanation": "通过视觉联想将蛇的缠绕与代码的模块化连接，基于认知科学的多模态记忆原则。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈpaɪθɒn/ 像 'pie thrown'，想象扔出一个派去缠绕东西。",
+        "explanation": "利用声音与动作的联觉增强发音记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "snake",
+      "code",
+      "Monty",
+      "programming"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "pythons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Python",
+        "description": "作为主语或宾语使用，例如在陈述句中",
+        "examples": [
+          "The python hunts at night."
+        ]
+      },
+      {
+        "pattern": "In + Python",
+        "description": "在编程语境中，表示使用语言",
+        "examples": [
+          "We write scripts in Python."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'Python' with 'pythonic'",
+        "correction": "Use 'Python' for the language and 'pythonic' as an adjective",
+        "explanation": "学习者常混淆专有名词和形容词形式，导致语义错误。"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Capitalize 'Python' when referring to the programming language",
+        "explanation": "在技术语境中，大小写区分重要，以避免歧义。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1,000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "biology",
+      "entertainment"
+    ],
+    "tags": [
+      "animal",
+      "programming",
+      "comedy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

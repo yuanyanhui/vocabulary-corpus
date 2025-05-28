@@ -1,0 +1,233 @@
+{
+  "word": "spectrogram",
+  "phonetics": {
+    "british": "/ˈspɛktrəɡræm/",
+    "american": "/ˈspɛktrəˌɡræm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A visual representation of the spectrum of frequencies of a signal as it varies with time, often used in acoustics, linguistics, and signal processing to analyze sound waves.",
+      "chineseTranslation": "频谱图",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "audio spectrogram",
+      "meaning": "音频频谱图",
+      "example": "The audio spectrogram revealed the harmonic structure of the bird's song.",
+      "exampleTranslation": "音频频谱图揭示了鸟鸣的和声结构。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "speech spectrogram",
+      "meaning": "语音频谱图",
+      "example": "Linguists use a speech spectrogram to study phonetic variations in dialects.",
+      "exampleTranslation": "语言学家使用语音频谱图来研究方言中的语音变化。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In phonetics, a spectrogram is essential for visualizing the formants of vowels.",
+      "translation": "在语音学中，频谱图对于可视化元音的共振峰至关重要。",
+      "source": "Academic linguistics texts, such as from the Journal of the Acoustical Society of America",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The engineer analyzed the spectrogram to identify noise frequencies in the recording.",
+      "translation": "工程师分析频谱图以识别录音中的噪声频率。",
+      "source": "Technical reports from engineering corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "During the music production session, the spectrogram helped adjust the equalizer settings.",
+      "translation": "在音乐制作会议中，频谱图帮助调整均衡器设置。",
+      "source": "Modern media and entertainment contexts",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Greek",
+    "rootWords": [
+      {
+        "root": "spectrum",
+        "meaning": "appearance or image",
+        "language": "Latin"
+      },
+      {
+        "root": "gram",
+        "meaning": "something written or recorded",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪的科学术语演变，'spectrum' 最初指光谱或频谱，由牛顿用于光学，而'gram' 表示记录或图表形式。20世纪，随着声学和信号处理的发展，'spectrogram' 成为标准术语，用于表示时间变化的频率谱，从早期的光学仪器扩展到电子和数字分析。",
+    "firstKnownUse": "约1940s",
+    "relatedWords": [
+      "spectrometer",
+      "spectroscopy",
+      "spectrograph"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将词汇分解为'spectro-'（光谱）和'-gram'（图表），并通过视觉辅助如实际频谱图软件练习，以增强记忆痕迹和迁移效果；建议初学者从简单音频示例入手，逐步增加语境复杂度，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sonogram",
+        "similarity": "0.8",
+        "context": "主要用于医学或声学语境中，表示类似视觉表示，但侧重于超声波图像"
+      },
+      {
+        "word": "frequency plot",
+        "similarity": "0.7",
+        "context": "在数据分析语境中，用于表示频率分布图，但不如spectrogram精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "waveform",
+        "context": "waveform 关注时间域信号，而spectrogram 关注频率域，因此在信号处理语境中互为对比"
+      }
+    ],
+    "hypernyms": [
+      "graph",
+      "visualization"
+    ],
+    "hyponyms": [
+      "mel-spectrogram"
+    ],
+    "collocations": [
+      {
+        "pattern": "spectrogram of [noun]",
+        "examples": [
+          "spectrogram of a voice signal"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "analyze using a spectrogram",
+        "examples": [
+          "analyze the sound using a spectrogram"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学和技术文化中象征现代分析工具的进步，常隐含对声音和信号的客观解读，在西方教育体系中强调实证主义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在数字媒体和AI语境中",
+        "usage": "在美国英语中，常与机器学习结合，如语音识别应用"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向学术和传统声学领域",
+        "usage": "在英国英语中，可能更正式地用于语音学研究"
+      }
+    ],
+    "historicalContext": "与20世纪的科技革命相关，如雷达和声学发展，在二战期间用于军事通信分析；文学中，如乔伊斯的作品中隐喻为认知的视觉化。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于YouTube教程或TikTok科学短视频，反映数字时代的普及趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个彩色波浪图表，显示音乐或语音的频率变化，就像一幅动态的声波画作。",
+      "keyElements": [
+        "波浪",
+        "颜色渐变",
+        "时间轴"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时听音乐时想象的声音画面，以触发积极情绪并加强长期记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Spectrogram 像 'spectacle' (奇观) + 'diagram' (图表)，所以是 '声音的奇观图表'。",
+        "explanation": "通过词根联想帮助构建语义网络，减少遗忘率"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音时想象 'spec' 如光谱的闪光，'trogram' 如记录的回响。",
+        "explanation": "利用多感官整合原理，提升词汇保留"
+      }
+    ],
+    "wordAssociations": [
+      "spectrum",
+      "graph",
+      "audio",
+      "analysis"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "spectrograms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为主语的典型结构，常用于描述工具或过程",
+        "examples": [
+          "The spectrogram shows clear frequency bands."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词短语结合，表示对象或方法",
+        "examples": [
+          "We examined the spectrogram of the signal."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'spectrometer'",
+        "correction": "Use 'spectrogram' for visual graphs and 'spectrometer' for measurement devices.",
+        "explanation": "这可能是由于词根相似导致的语义混淆，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "spectrograms (not spectrogramms)",
+        "explanation": "英语名词复数规则需注意，直接加-s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "linguistics",
+      "engineering"
+    ],
+    "tags": [
+      "acoustics",
+      "signal processing",
+      "visualization",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

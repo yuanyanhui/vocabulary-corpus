@@ -1,0 +1,235 @@
+{
+  "word": "comparator",
+  "phonetics": {
+    "british": "/kəmˈparətə/",
+    "american": "/kəmˈpærətɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or circuit that compares two or more inputs and produces an output based on their relative magnitudes, commonly used in electronics and computing.",
+      "chineseTranslation": "比较器",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and programming, a function or operator that defines a comparison between two elements, often used for sorting or ordering data.",
+      "chineseTranslation": "比较函数",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "voltage comparator",
+      "meaning": "电压比较器",
+      "example": "The voltage comparator in the circuit ensures that the output switches when the input exceeds a certain threshold.",
+      "exampleTranslation": "电路中的电压比较器确保当输入超过某个阈值时输出切换。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "function comparator",
+      "meaning": "函数比较器",
+      "example": "In this sorting algorithm, a custom function comparator is used to compare objects based on multiple attributes.",
+      "exampleTranslation": "在这个排序算法中，使用自定义函数比较器基于多个属性比较对象。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers designed a new comparator to improve the accuracy of signal processing in digital systems.",
+      "translation": "工程师设计了一个新的比较器来提高数字系统中的信号处理准确性。",
+      "source": "Technical literature, such as IEEE journals",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The comparator function in the software allows users to sort the data array efficiently.",
+      "translation": "软件中的比较函数允许用户高效地排序数据数组。",
+      "source": "Programming tutorials, e.g., from Stack Overflow",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In analog electronics, a simple comparator can be built using an operational amplifier.",
+      "translation": "在模拟电子学中，可以使用运算放大器构建一个简单的比较器。",
+      "source": "Educational resources, e.g., Khan Academy",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "comparare",
+        "meaning": "to compare",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'comparare'，意为比较或配对。该词在17世纪进入英语，主要用于科学和技术语境中，从一般比较概念演变为特定电子和计算设备。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "compare",
+      "comparison",
+      "comparatorily"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'comparator' 与电子设备或编程概念的视觉图像关联；例如，想象一个天平秤来代表比较过程，以增强记忆编码；定期复习以防止遗忘曲线效应。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "comparer",
+        "similarity": "0.8",
+        "context": "在计算语境中，用于类似功能，但不如 'comparator' 常见"
+      },
+      {
+        "word": "judge",
+        "similarity": "0.6",
+        "context": "在非技术语境中，表示评估或比较，但语义较宽泛"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "equator",
+        "context": "不直接反义，但在某些语境中表示不进行比较的平衡状态"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "function"
+    ],
+    "hyponyms": [
+      "voltage comparator",
+      "operational comparator"
+    ],
+    "collocations": [
+      {
+        "pattern": "comparator + noun (e.g., comparator circuit)",
+        "examples": [
+          "a high-speed comparator circuit"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + comparator (e.g., use a comparator)",
+        "examples": [
+          "implement a comparator function"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方技术文化中象征创新和精确性，尤其在电子工程领域，但缺乏广泛的隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算和编程语境",
+        "usage": "在美国英语中，常与软件开发相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于电子硬件语境",
+        "usage": "在英国英语中，可能更正式地用于工程文献"
+      }
+    ],
+    "historicalContext": "与工业革命和电子技术发展相关，反映了西方社会对科学进步的强调。",
+    "modernUsage": "在现代社交媒体和在线论坛中，常见于技术讨论，如Reddit或Stack Overflow，用户分享比较器在AI和物联网中的应用趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中一侧是输入信号，另一侧是参考值，'comparator' 像裁判一样决定哪边更重。",
+      "keyElements": [
+        "天平秤",
+        "输入信号",
+        "裁判角色"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年玩电子游戏时的得分比较，触发积极回忆以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'comparator' 联想为 'compare + or'，想象一个 'or' 门在比较两个选项。",
+        "explanation": "通过视觉联想帮助建立语义网络，基于认知联想原理增强长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/kəmˈpærətɚ/' 听起来像 'come pair or tear'，联想成比较一对东西是否破裂。",
+        "explanation": "利用声音相似性创建多模态记忆路径，提高回忆效率"
+      }
+    ],
+    "wordAssociations": [
+      "compare",
+      "circuit",
+      "function",
+      "judge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "comparators",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the comparator in the system)",
+        "description": "作为主语或宾语出现在技术描述中",
+        "examples": [
+          "The comparator detects differences."
+        ]
+      },
+      {
+        "pattern": "In + noun (e.g., in a comparator circuit)",
+        "description": "表示位置或组成部分",
+        "examples": [
+          "Errors occur in comparator operations."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'computer'",
+        "correction": "Use 'comparator' for comparison devices",
+        "explanation": "源自语音相似性；建议通过语境区分以避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "comparators",
+        "explanation": "虽然规则化，但初学者可能遗漏 's'；强调标准英语形态"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "engineering",
+      "computing"
+    ],
+    "tags": [
+      "electronics",
+      "programming",
+      "comparison"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

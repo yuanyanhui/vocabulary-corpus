@@ -1,0 +1,245 @@
+{
+  "word": "classification",
+  "phonetics": {
+    "british": "/ˌklæsɪfɪˈkeɪʃən/",
+    "american": "/ˌklæsəfəˈkeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of arranging people or things into classes or categories based on shared characteristics or features.",
+      "chineseTranslation": "分类",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A category into which something is placed, often in a systematic way, such as in biology or library systems.",
+      "chineseTranslation": "分类类别",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "job classification",
+      "meaning": "工作分类",
+      "example": "The company uses a job classification system to determine salary levels.",
+      "exampleTranslation": "公司使用工作分类系统来确定薪资水平。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "classification system",
+      "meaning": "分类系统",
+      "example": "The Dewey Decimal Classification system is widely used in libraries.",
+      "exampleTranslation": "杜威十进制分类系统在图书馆中广泛使用。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Biological classification helps scientists organize species into kingdoms, phyla, and classes.",
+      "translation": "生物分类有助于科学家将物种组织成界、门和类。",
+      "source": "Scientific literature (e.g., based on sources like Britannica)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, classification algorithms are used to predict categories based on data input.",
+      "translation": "在机器学习中，分类算法用于根据数据输入预测类别。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The library's classification of books makes it easier for users to find resources on history.",
+      "translation": "图书馆对书籍的分类使用户更容易找到历史资源。",
+      "source": "General education texts (e.g., BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "classis",
+        "meaning": "class or division",
+        "language": "Latin"
+      },
+      {
+        "root": "ficare",
+        "meaning": "to make or do",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'classis'（表示等级或类别）和 'ficare'（表示制作）演变而来，形成中世纪拉丁语 'classificationem'，17世纪进入英语，主要用于系统组织知识的语境中，从科学分类扩展到一般用途。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "classify",
+      "class",
+      "categorize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用分块编码策略，将 'classification' 与日常生活分类任务（如整理物品）关联，以增强记忆保留；通过重复暴露于真实语境中，运用斯宾塞定律逐步增加复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "categorization",
+        "similarity": "0.8",
+        "context": "适用于科学或数据处理的语境中，用于描述相似组织过程"
+      },
+      {
+        "word": "sorting",
+        "similarity": "0.7",
+        "context": "常用于非正式的日常语境，如整理物品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disorganization",
+        "context": "在管理或系统语境中，表示缺乏结构或混乱状态"
+      },
+      {
+        "word": "randomization",
+        "context": "在统计或实验语境中，表示无序分配"
+      }
+    ],
+    "hypernyms": [
+      "organization",
+      "arrangement"
+    ],
+    "hyponyms": [
+      "taxonomy",
+      "binomial nomenclature"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + classification (e.g., biological classification)",
+        "examples": [
+          "data classification",
+          "racial classification"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "classification + of + noun (e.g., classification of data)",
+        "examples": [
+          "classification of animals"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征系统化和理性思维，尤其在科学革命后（如林奈的生物分类系统）体现知识组织的价值；在中文文化中，类似概念见于传统分类学，如中医的证型分类，但强调整体观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如数据分类",
+        "usage": "在美国英语中，常与AI和商业相关，语域偏正式"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重学术语境，如图书馆分类",
+        "usage": "在英国英语中，强调历史和教育应用"
+      }
+    ],
+    "historicalContext": "与启蒙运动相关，源于18世纪科学分类系统的发展，如林奈的《系统自然史》，反映了欧洲理性主义；在现代，关联到数字时代的数据隐私法规，如GDPR中的数据分类。",
+    "modernUsage": "在社交媒体和数字平台上，常见于内容分类算法，体现了全球化语境下对信息管理的需求"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个图书馆的书架，书籍被按主题分类放置在架子上。",
+      "keyElements": [
+        "书架",
+        "标签",
+        "分类标签"
+      ],
+      "emotionalConnection": "联结到个人经验，如整理书桌时的满足感，以触发积极情绪强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'class' in school and 'ification' as making it official.",
+        "explanation": "通过视觉联想，将 'classification' 连接到学校课堂的分类活动，运用认知关联原理增强长期记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "C-L-A-S-S-I-F-Y → Class It For You",
+        "explanation": "使用首字母缩略法，结合故事构建，基于艾宾浩斯遗忘曲线的间隔重复"
+      }
+    ],
+    "wordAssociations": [
+      "categorize",
+      "organize",
+      "sort"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "classifications",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + classification",
+        "description": "主语+动词+分类结构，常用于描述过程",
+        "examples": [
+          "The system performs classification accurately."
+        ]
+      },
+      {
+        "pattern": "Classification of + noun",
+        "description": "分类+介词+名词结构，用于指定对象",
+        "examples": [
+          "Classification of data is essential in AI."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'classify' as a verb",
+        "correction": "Use 'classification' as a noun only",
+        "explanation": "学习者常错误地将之用作动词；正确区分词性以避免语义混淆"
+      },
+      {
+        "mistake": "Overgeneralizing in context",
+        "correction": "Specify the type of classification",
+        "explanation": "在中文影响下，可能会忽略语境细节；建议通过语料分析练习精确使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "education",
+      "business"
+    ],
+    "tags": [
+      "categorization",
+      "organization",
+      "systematic"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

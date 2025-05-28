@@ -1,0 +1,257 @@
+{
+  "word": "scroll",
+  "phonetics": {
+    "british": "/skrəʊl/",
+    "american": "/skroʊl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A roll of parchment, paper, or other material, especially one with writing or images on it.",
+      "chineseTranslation": "卷轴；滚动条",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A means of moving through text or images on a screen, such as a scroll bar.",
+      "chineseTranslation": "滚动视图；屏幕滚动",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To move text, images, or a cursor up, down, or sideways on a display screen.",
+      "chineseTranslation": "滚动；卷动",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scroll bar",
+      "meaning": "屏幕上的滚动条，用于移动内容",
+      "example": "Use the scroll bar to navigate through the long document.",
+      "exampleTranslation": "使用滚动条来浏览长文档。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "scroll through",
+      "meaning": "快速浏览或卷动内容",
+      "example": "I like to scroll through social media before bed.",
+      "exampleTranslation": "我喜欢在睡觉前快速浏览社交媒体。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "ancient scroll",
+      "meaning": "古代的卷轴，通常指历史文物",
+      "example": "The museum displayed an ancient scroll from the Han Dynasty.",
+      "exampleTranslation": "博物馆展出了汉朝的古代卷轴。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The historian carefully unrolled the fragile scroll to reveal ancient texts.",
+      "translation": "历史学家小心地展开脆弱的卷轴，揭示古代文字。",
+      "source": "Historical literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern apps, users can easily scroll down to see more options.",
+      "translation": "在现代应用程序中，用户可以轻松向下滚动查看更多选项。",
+      "source": "Technology articles, e.g., from COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "During the ceremony, the leader read from a sacred scroll.",
+      "translation": "在仪式中，领导者从神圣的卷轴中朗读。",
+      "source": "Cultural narratives",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "scrotulum",
+        "meaning": "A small leather bag or case",
+        "language": "Latin"
+      },
+      {
+        "root": "escroe",
+        "meaning": "A strip or roll",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'scrotulum'，意为小皮囊，逐渐演变为指卷起的纸张或羊皮纸。在中世纪英语中发展为 'scrol'，到现代英语扩展为数字屏幕上的滚动动作，反映了从物理物体到虚拟交互的转变。",
+    "firstKnownUse": "约 13 世纪",
+    "relatedWords": [
+      "enroll",
+      "scrollwork"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块记忆法将 'scroll' 的物理含义和数字含义分开编码；通过重复曝光在不同语境中增强词汇保留；建议初级学习者使用视觉辅助工具，如图片联想卷轴与鼠标滚轮。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "roll",
+        "similarity": "0.8",
+        "context": "在历史语境中，指卷起的手稿或文件"
+      },
+      {
+        "word": "browse",
+        "similarity": "0.7",
+        "context": "在数字语境中，指快速查看内容"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pause",
+        "context": "在数字使用中，指停止滚动或互动"
+      },
+      {
+        "word": "fold",
+        "context": "在物理语境中，指折叠而非卷起"
+      }
+    ],
+    "hypernyms": [
+      "document",
+      "interface element"
+    ],
+    "hyponyms": [
+      "parchment scroll",
+      "digital scroll"
+    ],
+    "collocations": [
+      {
+        "pattern": "scroll + direction (e.g., up, down)",
+        "examples": [
+          "Scroll up to the top of the page."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "ancient + scroll",
+        "examples": [
+          "An ancient scroll was discovered in the cave."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'scroll' 象征知识传承和历史记录，如古埃及纸莎草纸卷轴在中国文化中类似竹简，隐含着智慧与神秘的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史语境",
+        "usage": "在英国英语中，常与文学或考古相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重数字含义",
+        "usage": "在美国英语中，经常与科技设备相关，如 'scroll wheel' on a mouse"
+      }
+    ],
+    "historicalContext": "与中世纪手稿和文艺复兴时期的文献关联，在现代则与互联网时代的信息流动相关联。",
+    "modernUsage": "在社交媒体和移动设备上广泛使用，反映了数字时代的快速消费文化。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古代图书馆场景，卷轴像一个卷起的地图在架子上，旁边是现代电脑鼠标在滚动屏幕。",
+      "keyElements": [
+        "卷轴图像",
+        "鼠标滚轮",
+        "屏幕滚动"
+      ],
+      "emotionalConnection": "联结个人阅读书籍的兴奋感，将 'scroll' 与探索未知的冒险情绪相连"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'scroll' 联想为 'school roll'，因为两者都涉及滚动或列出内容。",
+        "explanation": "通过声音相似性增强记忆，适合认知加工模型中的编码阶段。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-C-R-O-L-L: See Content Roll Over Long Lists.",
+        "explanation": "使用首字母缩写创建故事，帮助强化长期记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "roll",
+      "browse",
+      "navigate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "scrolls",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "scrolling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + preposition + object",
+        "description": "动词后跟介词和宾语结构，常用于指示方向",
+        "examples": [
+          "Scroll through the menu."
+        ]
+      },
+      {
+        "pattern": "Noun as object",
+        "description": "名词用作宾语，常描述物理物体",
+        "examples": [
+          "He held the scroll carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'scroll' with 'scrawl'",
+        "correction": "Use 'scroll' for rolling and 'scrawl' for messy writing.",
+        "explanation": "二者发音相似，但语义不同；学习者应注意拼写差异以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'scrolling' as the present participle.",
+        "explanation": "在进行时态中，确保使用正确形式，如 'I am scrolling now'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 words in COCA corpus",
+    "domains": [
+      "technology",
+      "history",
+      "literature"
+    ],
+    "tags": [
+      "computing",
+      "archaeology",
+      "navigation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

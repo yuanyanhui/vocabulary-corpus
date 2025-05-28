@@ -1,0 +1,250 @@
+{
+  "word": "email",
+  "phonetics": {
+    "british": "/ˈiːmeɪl/",
+    "american": "/ˈiːmeɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A message sent electronically from one person to another via a computer network, typically consisting of text and possibly attachments.",
+      "chineseTranslation": "电子邮件",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send a message to someone using electronic mail.",
+      "chineseTranslation": "发送电子邮件",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "check email",
+      "meaning": "检查电子邮件",
+      "example": "I need to check email before the meeting.",
+      "exampleTranslation": "我需要在会议前检查电子邮件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "send an email",
+      "meaning": "发送一封电子邮件",
+      "example": "Please send an email to confirm your attendance.",
+      "exampleTranslation": "请发送电子邮件确认您的出席。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "reply to an email",
+      "meaning": "回复电子邮件",
+      "example": "Remember to reply to an email from the client.",
+      "exampleTranslation": "记得回复来自客户的电子邮件。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I received an important email from my boss this morning.",
+      "translation": "今天早上我收到了老板的重要电子邮件。",
+      "source": "Modern business communication (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She decided to email her resignation letter instead of handing it in person.",
+      "translation": "她决定通过电子邮件提交辞职信，而不是亲自递交。",
+      "source": "Contemporary literature (e.g., based on BNC data)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a formal setting, it's better to email the report rather than texting it.",
+      "translation": "在正式场合，最好通过电子邮件发送报告，而不是发短信。",
+      "source": "Educational contexts (e.g., from news articles)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "英语（从电子和邮件组合而来）",
+    "rootWords": [
+      {
+        "root": "e-",
+        "meaning": "电子的，源自 electronic",
+        "language": "英语（现代派生）"
+      },
+      {
+        "root": "mail",
+        "meaning": "邮件或邮袋，源自古法语 male（意为袋子）",
+        "language": "古法语"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪80年代的计算机通信时代，由'electronic'和'mail'组合而成。最初用于描述通过网络传输的数字消息，从早期的ARPANET发展到现代互联网应用，逐渐从技术术语演变为日常词汇。",
+    "firstKnownUse": "1982年（根据OED记录）",
+    "relatedWords": [
+      "e-mail",
+      "electronic mail"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR等级，根据语言学习理论，该词适用于中级学习者，常用于实际沟通）",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学原理，将词汇与个人电子设备使用场景关联，利用重复暴露法（如每日检查电子邮件）强化记忆；通过视觉图像如邮箱图标联想词汇形式。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "message",
+        "similarity": "0.7",
+        "context": "在非正式语境中，用于泛指电子通信（例如，在社交媒体上）"
+      },
+      {
+        "word": "correspondence",
+        "similarity": "0.6",
+        "context": "在正式语境中，用于指书面或电子交流（例如，商业场合）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "letter",
+        "context": "传统纸质通信与电子邮件相对，在历史语境中强调数字化转变"
+      },
+      {
+        "word": "call",
+        "context": "口头沟通方式，与书面电子邮件形成对比"
+      }
+    ],
+    "hypernyms": [
+      "communication"
+    ],
+    "hyponyms": [
+      "spam email",
+      "newsletter email"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + email (e.g., send, receive)",
+        "examples": [
+          "send an email",
+          "receive an email"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "email + noun (e.g., address, attachment)",
+        "examples": [
+          "email address",
+          "email attachment"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "电子邮件象征现代数字化通信的便利性，在西方文化中代表工作效率和全球连接，但在某些文化中可能隐含隐私担忧或正式性的缺失。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用缩写形式如 'email' 在日常对话",
+        "usage": "在美国英语中，常用于商业和个人通信，以强调快速响应"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔使用 'e-mail' 以分隔书写，语调更正式",
+        "usage": "在英国英语中，可能与传统邮政系统对比，强调历史演变"
+      }
+    ],
+    "historicalContext": "电子邮件与互联网革命相关，源于20世纪冷战时期的ARPANET，在文学和社会中象征信息时代的变革，如在赛伯朋克小说中。",
+    "modernUsage": "在社交媒体和远程工作时代，电子邮件的趋势转向移动设备使用，特别是在疫情后全球化的语境下。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个信封图标在手机屏幕上闪烁，代表收到的电子邮件。",
+      "keyElements": [
+        "信封图标",
+        "手机屏幕",
+        "通知声音"
+      ],
+      "emotionalConnection": "联结个人经验，如收到朋友消息的兴奋感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "E-mail 像 'E' 代表电子 (Electronic)，和 'mail' 像传统邮件袋。",
+        "explanation": "通过视觉联想词根，帮助中级学习者建立长期记忆路径"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈiːmeɪl/ 听起来像 'easy mail'，强调其便利性。",
+        "explanation": "利用声音相似性强化认知连接，基于认知科学的多感官学习"
+      }
+    ],
+    "wordAssociations": [
+      "inbox",
+      "outbox",
+      "message"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "emails",
+      "pastTense": "emailed",
+      "pastParticiple": "emailed",
+      "presentParticiple": "emailing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + email",
+        "description": "主语 + 动词 + 电子邮件结构，常用于动作描述",
+        "examples": [
+          "I email my colleagues daily."
+        ]
+      },
+      {
+        "pattern": "Email as object",
+        "description": "电子邮件作为宾语，常用于接收或发送语境",
+        "examples": [
+          "She checks her email every morning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'email' without article (e.g., 'I send email')",
+        "correction": "I send an email",
+        "explanation": "英语中，第一次提及时需用不定冠词 'an'，尤其针对中级学习者"
+      },
+      {
+        "mistake": "Confusing with 'e-mail' spelling",
+        "correction": "Use 'email' as one word",
+        "explanation": "现代英语中，首选单字形式，避免不必要的分隔"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "日常生活"
+    ],
+    "tags": [
+      "数字通信",
+      "互联网词汇",
+      "现代英语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

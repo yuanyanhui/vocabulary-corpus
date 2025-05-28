@@ -1,0 +1,243 @@
+{
+  "word": "aperiodic",
+  "phonetics": {
+    "british": "/eɪpɪəˈrɒdɪk/",
+    "american": "/ˌeɪpɪrˈɑdɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "not occurring at regular intervals or lacking a periodic pattern",
+      "chineseTranslation": "不定期发生的或缺乏周期模式的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "in physics or mathematics, referring to a function, wave, or signal that does not repeat after a fixed interval",
+      "chineseTranslation": "在物理或数学中，指函数、波或信号不重复的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aperiodic function",
+      "meaning": "非周期函数",
+      "example": "An aperiodic function does not repeat its values at regular intervals.",
+      "exampleTranslation": "一个非周期函数不会在固定间隔重复其值。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "aperiodic motion",
+      "meaning": "非周期运动",
+      "example": "The aperiodic motion of the pendulum was influenced by external forces.",
+      "exampleTranslation": "摆的非周期运动受到了外部力的影响。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist studied the aperiodic signals to understand chaotic systems.",
+      "translation": "科学家研究了非周期信号以理解混沌系统。",
+      "source": "Scientific literature (e.g., physics journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In music, an aperiodic rhythm can create a sense of unpredictability.",
+      "translation": "在音乐中，非周期节奏可以制造出一种不可预测感。",
+      "source": "Arts and humanities texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The aperiodic nature of earthquakes makes them difficult to predict accurately.",
+      "translation": "地震的非周期特性使得它们难以准确预测。",
+      "source": "News articles (e.g., from BBC or CNN)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "a-",
+        "meaning": "not, without",
+        "language": "Greek"
+      },
+      {
+        "root": "periodic",
+        "meaning": "recurring at regular intervals",
+        "language": "Greek (from periodos, meaning 'circuit' or 'way around')"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语的a-（表示否定）和periodos（表示周期或循环），在19世纪进入英语，主要用于科学语境中描述非重复现象。从拉丁语影响下演变为现代英语词汇，用于数学和物理领域，以强调非重复性。",
+    "firstKnownUse": "19th century (approximately 1840, as per Oxford English Dictionary records)",
+    "relatedWords": [
+      "periodic",
+      "aperiodicity"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it involves specialized vocabulary in scientific contexts)",
+    "pronunciationDifficulty": "7 (1-10 scale; challenges include the diphthong /eɪ/ and the stress on the third syllable, which may confuse intermediate learners from Chinese backgrounds due to differences in syllable timing)",
+    "spellingDifficulty": "6 (1-10 scale; the combination of vowels and the prefix 'a-' can lead to misspellings, as Chinese learners often struggle with Latin roots)",
+    "meaningComplexity": "8 (1-10 scale; semantic layers require understanding of abstract concepts like periodicity, drawing from cognitive linguistics principles)",
+    "usageComplexity": "7 (1-10 scale; primarily used in technical contexts, requiring contextual adaptation)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉化图表（如波形图）关联，以增强空间记忆；建议通过间隔重复系统（Spaced Repetition System）复习，结合母语对比以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "irregular",
+        "similarity": "0.8",
+        "context": "适用于描述非规则或不重复的模式，例如在科学或日常语境中"
+      },
+      {
+        "word": "non-periodic",
+        "similarity": "0.9",
+        "context": "主要在技术语境中，与周期性概念相对"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "periodic",
+        "context": "适用于描述有规律重复的模式，例如在数学或物理学中"
+      },
+      {
+        "word": "regular",
+        "context": "在更广泛的语境中，表示有规律的发生"
+      }
+    ],
+    "hypernyms": [
+      "irregular"
+    ],
+    "hyponyms": [
+      "chaotic",
+      "random"
+    ],
+    "collocations": [
+      {
+        "pattern": "aperiodic + noun (e.g., function, signal)",
+        "examples": [
+          "aperiodic function",
+          "aperiodic wave"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + aperiodic (e.g., truly aperiodic)",
+        "examples": [
+          "truly aperiodic motion"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征不确定性和复杂性，特别是在混沌理论中，常用于强调自然现象的不可预测性，无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和工程语境",
+        "usage": "在学术和专业讨论中频繁出现，如NASA报告"
+      },
+      {
+        "region": "英国",
+        "variation": "语调更正式，常见于数学文献",
+        "usage": "在教育和研究环境中使用，以突出科学精确性"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和科学发展相关，特别是在物理学和数学的演进中，反映了西方对自然规律的探索。",
+    "modernUsage": "在现代社交媒体和在线教育中，常见于科普文章或YouTube视频，体现跨文化科学传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个不规则的波浪在海面上波动，没有重复的模式。",
+      "keyElements": [
+        "波浪",
+        "不重复",
+        "混沌"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看天气变化的不可预测性，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Aperiodic像'a period'的反面，想象一个闹钟（period）坏了，不再定时响。",
+        "explanation": "通过视觉联想加强词汇记忆，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/eɪpɪəˈrɒdɪk/听起来像'eight periodic'，但表示'not periodic'。",
+        "explanation": "利用声音相似性创建记忆钩子，促进听觉和语义整合。"
+      }
+    ],
+    "wordAssociations": [
+      "irregular",
+      "chaotic",
+      "random"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more aperiodic",
+      "superlative": "most aperiodic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + aperiodic",
+        "description": "描述主语的特性",
+        "examples": [
+          "The signal is aperiodic."
+        ]
+      },
+      {
+        "pattern": "Aperiodic + noun",
+        "description": "修饰名词",
+        "examples": [
+          "An aperiodic function requires advanced analysis."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'periodic'",
+        "correction": "Use 'aperiodic' for non-repeating patterns",
+        "explanation": "学习者常混淆正反义词，需通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect stress in pronunciation",
+        "correction": "Stress on the third syllable: /eɪpɪəˈrɒdɪk/",
+        "explanation": "中文学习者可能错误强调第一音节，影响流利度"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (ranked approximately 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "mathematics",
+      "physics",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "adjective",
+      "scientific terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

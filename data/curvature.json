@@ -1,0 +1,259 @@
+{
+  "word": "curvature",
+  "phonetics": {
+    "british": "/ˈkɜː.və.tʃər/",
+    "american": "/ˈkɝː.və.tʃɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality, state, or degree of being curved; a measure of how much a curve deviates from a straight line.",
+      "chineseTranslation": "弯曲度",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics and physics, a numerical value that quantifies the amount of bending or curvature of a geometric object, such as a surface or a path.",
+      "chineseTranslation": "曲率",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical/academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Gaussian curvature",
+      "meaning": "高斯曲率，指曲面上每个点的高斯曲率值，用于描述曲面的局部几何性质",
+      "example": "The Gaussian curvature of a sphere is positive everywhere.",
+      "exampleTranslation": "球体的曲率处处为正值。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mean curvature",
+      "meaning": "平均曲率，指曲面平均弯曲程度的度量，常用于微分几何",
+      "example": "The mean curvature of the soap bubble helps maintain its shape.",
+      "exampleTranslation": "肥皂泡的平均曲率有助于维持其形状。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "curvature of spacetime",
+      "meaning": "时空曲率，指根据广义相对论，物质和能量导致的时空弯曲",
+      "example": "Einstein's theory explains gravity as the curvature of spacetime.",
+      "exampleTranslation": "爱因斯坦的理论将重力解释为时空的曲率。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The curvature of the road made driving challenging in the fog.",
+      "translation": "道路的弯曲度使得在雾中驾驶变得具有挑战性。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In differential geometry, curvature is a key concept for understanding surface properties.",
+      "translation": "在微分几何中，曲率是理解曲面性质的关键概念。",
+      "source": "Academic texts (e.g., mathematics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The artist captured the subtle curvature of the vase in her sketch.",
+      "translation": "艺术家在她的素描中捕捉了花瓶的细微弯曲度。",
+      "source": "News articles on art and design",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers must calculate the curvature to ensure the bridge's structural integrity.",
+      "translation": "工程师必须计算曲率以确保桥梁的结构完整性。",
+      "source": "Technical reports (e.g., engineering documents)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "curvatura",
+        "meaning": "A bending or curving",
+        "language": "Latin"
+      },
+      {
+        "root": "curvus",
+        "meaning": "Bent or curved",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 curvatura（弯曲），派生自 curvare（弯曲），该词传入中世纪拉丁语后，进入古法语 curvature，再到中古英语，逐渐演变为现代英语的 'curvature'，从最初的物理弯曲含义扩展到数学和几何学中的精确度量。",
+    "firstKnownUse": "Circa 17th century",
+    "relatedWords": [
+      "curve",
+      "curved",
+      "curvilinear"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法：将 'curvature' 与视觉图像（如弯曲的道路）关联，以增强空间记忆；对于母语为中文的学习者，建议通过对比中文 '弯曲' 的概念建立双语网络，避免语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "bend",
+        "similarity": "0.7",
+        "context": "适用于日常语境中描述物理弯曲，例如道路或物体"
+      },
+      {
+        "word": "curve",
+        "similarity": "0.8",
+        "context": "常用于数学或几何语境中，表示弯曲的线条或形状"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "straightness",
+        "context": "适用于对比语境中，表示直线或无弯曲的状态"
+      },
+      {
+        "word": "linearity",
+        "context": "在技术语境中，用于描述直线运动或几何形状"
+      }
+    ],
+    "hypernyms": [
+      "shape",
+      "form"
+    ],
+    "hyponyms": [
+      "Gaussian curvature",
+      "mean curvature"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + curvature",
+        "examples": [
+          "high curvature",
+          "negative curvature"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "curvature of + noun",
+        "examples": [
+          "curvature of the spine",
+          "curvature of spacetime"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与科学革命（如牛顿和爱因斯坦的理论）相关联，象征人类对自然规律的探索；在跨文化语境中，中国文化可能通过类似概念如 '曲率' 在中医或建筑中体现弯曲的美学价值。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如工程和物理学",
+        "usage": "在美国英语中，'curvature' 在学术和专业讨论中频率较高，强调量化测量"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英国英语中，可能更侧重于数学理论的讨论",
+        "usage": "英国语境下，常与历史科学遗产（如牛顿的贡献）相关联"
+      }
+    ],
+    "historicalContext": "该词与17世纪科学革命相关，特别是在牛顿的微积分和爱因斯坦的广义相对论中出现，反映了欧洲科学发展的历史背景。",
+    "modernUsage": "在现代社交媒体和数字平台上，常用于科普视频或在线课程中讨论宇宙学或AI算法，例如TikTok上的物理科普。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一条弯曲的山路，车辆在曲率较高的路段减速。",
+      "keyElements": [
+        "弯曲道路",
+        "车辆减速",
+        "数学曲线图"
+      ],
+      "emotionalConnection": "联结个人驾驶经验或观看科幻电影（如《星际迷航》中的时空曲率）的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'curvature' as 'curve' + 'nature' – a natural bend in the world.",
+        "explanation": "通过词根联想，将 'curvature' 与自然弯曲场景连接，利用认知联想原理强化长期记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈkɝː.və.tʃɚ/ 听起来像 'curve a tour'，想象一次弯曲的旅行。",
+        "explanation": "利用声音与视觉联觉，帮助母语为中文的学习者通过发音模拟场景，提高记忆保留率"
+      }
+    ],
+    "wordAssociations": [
+      "curve",
+      "bend",
+      "spacetime",
+      "geometry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "curvatures",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + curvature",
+        "description": "主语 + 动词 + 曲率结构，常用于描述物体或概念的属性",
+        "examples": [
+          "The curvature affects the light path."
+        ]
+      },
+      {
+        "pattern": "The curvature of + noun",
+        "description": "表示特定物体的弯曲度",
+        "examples": [
+          "The curvature of the lens focuses the light."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'curvature' with 'curve'",
+        "correction": "Use 'curvature' for the measure or degree, and 'curve' for the actual shape.",
+        "explanation": "母语为中文的学习者常混淆 '弯曲' 和 '弯曲度'，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'curvatures' for multiple instances, but it's often uncountable.",
+        "explanation": "英语中不可数名词的使用需注意，避免直接添加复数"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering"
+    ],
+    "tags": [
+      "geometry",
+      "physics",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

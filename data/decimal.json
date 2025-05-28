@@ -1,0 +1,237 @@
+{
+  "word": "decimal",
+  "phonetics": {
+    "british": "/ˈdɛsɪm(ə)l/",
+    "american": "/ˈdɛsəməl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a system of numbers based on the number ten.",
+      "chineseTranslation": "与基于十进制的数字系统相关的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A number expressed in the decimal system, typically including a decimal point.",
+      "chineseTranslation": "十进制数字",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decimal point",
+      "meaning": "小数点",
+      "example": "In the number 3.14, the decimal point separates the integer from the fractional part.",
+      "exampleTranslation": "在数字 3.14 中，小数点将整数部分与小数部分分开。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "decimal system",
+      "meaning": "十进制系统",
+      "example": "The decimal system is widely used in everyday mathematics.",
+      "exampleTranslation": "十进制系统在日常数学中被广泛使用。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The price of the item is $5.99, which uses a decimal to represent cents.",
+      "translation": "该物品的价格是 5.99 美元，使用小数表示分。",
+      "source": "Commercial context, e.g., from retail websites",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In scientific calculations, decimal places are crucial for accuracy.",
+      "translation": "在科学计算中，小数位对于准确性至关重要。",
+      "source": "Academic text, e.g., from a physics textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She converted the fraction to a decimal for easier comparison.",
+      "translation": "她将分数转换为小数以便更容易比较。",
+      "source": "Educational context, e.g., from math lessons",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "dec-",
+        "meaning": "ten",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'decimus'，意为第十。从古罗马时代用于计数演变为现代十进制系统，在中世纪经由阿拉伯数字传入欧洲，并于16世纪标准化为现代形式。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "decade",
+      "decimate",
+      "decimalize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象十个手指代表十进制；通过重复练习强化记忆路径，以避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "base-ten",
+        "similarity": "0.8",
+        "context": "在数学语境中，用于描述数字系统"
+      },
+      {
+        "word": "denary",
+        "similarity": "0.7",
+        "context": "在正式或历史语境中，用于技术讨论"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "binary",
+        "context": "在计算机科学语境中，表示基于二进制的系统"
+      },
+      {
+        "word": "hexadecimal",
+        "context": "在编程语境中，表示基于十六进制的系统"
+      }
+    ],
+    "hypernyms": [
+      "numerical system"
+    ],
+    "hyponyms": [
+      "decimal fraction"
+    ],
+    "collocations": [
+      {
+        "pattern": "decimal + noun (e.g., decimal point)",
+        "examples": [
+          "The decimal point in 2.5 is essential."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + decimal (e.g., convert to decimal)",
+        "examples": [
+          "Convert the binary to decimal."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征现代数学和科学体系的普适性，在全球教育中代表理性与精确，但某些文化（如欧洲部分地区）使用逗号而非句号作为小数点，体现了语言多样性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "使用句号作为小数点",
+        "usage": "在日常和正式文件中标准使用"
+      },
+      {
+        "region": "英国",
+        "variation": "也使用句号，但历史上有过逗号的使用",
+        "usage": "在国际语境中趋向统一"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期数学革命相关，阿拉伯数字传入欧洲后，十进制成为主流，推动了科学发展。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线购物和数据可视化中，反映全球化的技术趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个十指的手在数钱，每个手指代表一个十进制单位。",
+      "keyElements": [
+        "手指",
+        "数字",
+        "货币"
+      ],
+      "emotionalConnection": "联结个人经验，如购物时的价格计算，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Decimal sounds like 'desk and mail' – think of a desk with ten items mailed.",
+        "explanation": "通过声音联想将词汇与日常物体关联，提高认知保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "D for Decimal and Digits of Ten.",
+        "explanation": "使用首字母缩写结合数字概念，基于认知心理学中的分块记忆技术"
+      }
+    ],
+    "wordAssociations": [
+      "ten",
+      "fraction",
+      "point"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，例如在 'decimal system' 中",
+        "examples": [
+          "The decimal equivalent is 10."
+        ]
+      },
+      {
+        "pattern": "Noun Phrase",
+        "description": "作为名词用于句子主语或宾语",
+        "examples": [
+          "Decimals are used in calculations."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing decimal with binary",
+        "correction": "Use decimal for base-10 systems",
+        "explanation": "错误源于相似语境，避免通过上下文练习区分"
+      },
+      {
+        "mistake": "Misplacing the decimal point",
+        "correction": "Ensure correct placement in numbers",
+        "explanation": "常见于初级学习者，建议通过实际运算强化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., top 5000 in COCA corpus)",
+    "domains": [
+      "数学",
+      "科学",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "数学词汇",
+      "数字系统",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

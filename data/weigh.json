@@ -1,0 +1,271 @@
+{
+  "word": "weigh",
+  "phonetics": {
+    "british": "/weɪ/",
+    "american": "/weɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to measure the weight of something using scales or a balance",
+      "chineseTranslation": "称重",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to have a particular weight",
+      "chineseTranslation": "重达",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to consider something carefully, especially before making a decision",
+      "chineseTranslation": "权衡",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a measure of weight (archaic or dialectal usage)",
+      "chineseTranslation": "重量单位（古语或方言）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "weigh up",
+      "meaning": "评估或权衡某事",
+      "example": "You need to weigh up the pros and cons before deciding.",
+      "exampleTranslation": "你需要在决定之前权衡利弊。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "weigh in",
+      "meaning": "称重（如在体育比赛中）或表达意见",
+      "example": "The boxer weighed in at 75 kilograms before the fight.",
+      "exampleTranslation": "拳击手在比赛前称重为75公斤。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "weigh anchor",
+      "meaning": "起锚准备启航",
+      "example": "The ship weighed anchor and set sail at dawn.",
+      "exampleTranslation": "船只起锚并在黎明时启航。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She weighed the package on the kitchen scale.",
+      "translation": "她在厨房秤上称了包裹的重量。",
+      "source": " everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The decision to move abroad requires weighing the opportunities against the risks.",
+      "translation": "搬到国外的决定需要权衡机会与风险。",
+      "source": "business article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The ancient artifact weighed exactly 2 kilograms, as per the museum's records.",
+      "translation": "根据博物馆记录，这件古文物正好重达2公斤。",
+      "source": "historical text",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the debate, experts weighed in with differing opinions on climate change.",
+      "translation": "在辩论中，专家们表达了关于气候变化的不同意见。",
+      "source": "news media",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "wegan",
+        "meaning": "to carry or lift",
+        "language": "Old English"
+      },
+      {
+        "root": "*weganą",
+        "meaning": "to move or carry",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'wegan'，意为携带或抬起，演变为现代英语中表示称重或权衡的意思，这反映了从物理移动到抽象考虑的语义扩展，在中世纪英语中开始出现比喻用法。",
+    "firstKnownUse": "约公元800年",
+    "relatedWords": [
+      "weight",
+      "weighage"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将 'weigh' 与视觉图像联想，如想象天平秤来强化记忆；对于中文母语学习者，结合母语 '称重' 的相似性创建双语映射，以减少干扰效应；重复练习不同语境以加强语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "measure",
+        "similarity": "0.8",
+        "context": "在测量重量或评估情境中使用"
+      },
+      {
+        "word": "consider",
+        "similarity": "0.7",
+        "context": "在抽象权衡决定时使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lighten",
+        "context": "在减少重量或负担的语境中"
+      },
+      {
+        "word": "ignore",
+        "context": "在不考虑或忽略决定的语境中"
+      }
+    ],
+    "hypernyms": [
+      "assess",
+      "evaluate"
+    ],
+    "hyponyms": [
+      "balance",
+      "scale"
+    ],
+    "collocations": [
+      {
+        "pattern": "weigh + object + against",
+        "examples": [
+          "Weigh the benefits against the costs."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "weigh in at",
+        "examples": [
+          "The fighter weighed in at 70 kg."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征公正和平衡，常用于比喻决策过程，体现西方文化中理性思考的价值观，如在法律或商业语境中。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于航海术语如 'weigh anchor'",
+        "usage": "在英国英语中，强调历史航海传统"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于体育和日常对话，如 'weigh in'",
+        "usage": "在美国英语中，与现代生活方式相关联"
+      }
+    ],
+    "historicalContext": "与工业革命时期的称重技术相关联，在文学如莎士比亚作品中出现比喻用法，反映社会对精确性和道德权衡的强调。",
+    "modernUsage": "在社交媒体和科技语境下，常见于健康应用或在线讨论中，体现当代对身体健康和决策的关注。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤上放置物体，一边是重量，一边是决定因素。",
+      "keyElements": [
+        "天平",
+        "秤",
+        "平衡"
+      ],
+      "emotionalConnection": "联结个人购物经验，如称重水果时权衡价格和质量，触发实际决策的情绪。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'weigh' 联想为 'way' 的声音，想象称重物品找到最佳方式。",
+        "explanation": "通过声音联觉增强记忆，结合视觉图像以提高保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "W-E-I-G-H: Weigh Everything In Good Harmony.",
+        "explanation": "使用首字母缩略词创建故事，帮助构建认知框架。"
+      }
+    ],
+    "wordAssociations": [
+      "scale",
+      "balance",
+      "decide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "weighed",
+      "pastParticiple": "weighed",
+      "presentParticiple": "weighing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + weigh + object",
+        "description": "主语直接称重对象。",
+        "examples": [
+          "I weigh the fruit."
+        ]
+      },
+      {
+        "pattern": "Weigh + object + against + object",
+        "description": "权衡两个事物之间的比较。",
+        "examples": [
+          "Weigh pros against cons."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'weight' as a verb",
+        "correction": "Use 'weigh' for the action",
+        "explanation": "中文学习者常混淆 'weigh' 和 'weight'，需注意 'weight' 是名词。"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'weighed'",
+        "explanation": "由于英语动词规则性，初级学习者可能遗忘添加 '-ed'。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 1500 in COCA corpus)",
+    "domains": [
+      "science",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "measurement",
+      "decision-making",
+      "physics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

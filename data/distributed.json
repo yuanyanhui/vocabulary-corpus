@@ -1,0 +1,254 @@
+{
+  "word": "distributed",
+  "phonetics": {
+    "british": "/dɪˈstrɪbjʊtɪd/",
+    "american": "/dɪˈstrɪbjətɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "spread out over a wide area or among a number of people or things",
+      "chineseTranslation": "分布的；散布的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "given out or supplied to various recipients",
+      "chineseTranslation": "分配的；发放的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "past participle of distribute",
+      "definition": "having been divided or dispersed",
+      "chineseTranslation": "已分配的；已散布的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "distributed computing",
+      "meaning": "分布计算",
+      "example": "Distributed computing allows multiple computers to work on a task simultaneously.",
+      "exampleTranslation": "分布计算允许多台计算机同时处理一个任务。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "evenly distributed",
+      "meaning": "均匀分布的",
+      "example": "The resources are evenly distributed among the team members.",
+      "exampleTranslation": "资源在团队成员中均匀分布。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "distributed network",
+      "meaning": "分布网络",
+      "example": "A distributed network enhances data security and reliability.",
+      "exampleTranslation": "分布网络提高了数据安全性和可靠性。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The distributed population in rural areas makes service delivery challenging.",
+      "translation": "农村地区分布散乱的人口使得服务提供面临挑战。",
+      "source": "Academic paper",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a distributed system, data is stored across multiple servers to prevent loss.",
+      "translation": "在分布系统中，数据存储在多个服务器上以防止丢失。",
+      "source": "Technology article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The aid was distributed fairly to all affected families after the disaster.",
+      "translation": "灾后援助被公平分配给所有受影响的家庭。",
+      "source": "News report",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "distribuere",
+        "meaning": "to divide up or apportion",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'distribuere'（意为分配或分发）演变而来，通过古法语 'distribuer' 进入中古英语，最终在现代英语中发展为表示散布或分配的含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "distribute",
+      "distribution",
+      "redistributed"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象物品被分发到不同地点，以强化记忆；对于初级学习者，重复上下文练习以建立语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "dispersed",
+        "similarity": "0.8",
+        "context": "在物理或地理分布的语境中"
+      },
+      {
+        "word": "scattered",
+        "similarity": "0.7",
+        "context": "表示不规则散布的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "concentrated",
+        "context": "当事物聚集或集中时"
+      },
+      {
+        "word": "centralized",
+        "context": "在组织或系统结构集中的语境中"
+      }
+    ],
+    "hypernyms": [
+      "spread",
+      "allocated"
+    ],
+    "hyponyms": [
+      "evenly distributed",
+      "randomly distributed"
+    ],
+    "collocations": [
+      {
+        "pattern": "evenly distributed",
+        "examples": [
+          "The wealth is evenly distributed."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "widely distributed",
+        "examples": [
+          "The species is widely distributed across the continent."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代社会中常与资源公平分配、全球化或技术创新相关，常隐含平等与效率的象征意义，例如在讨论经济不平等或数字化转型时。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如分布式计算",
+        "usage": "在美国英语中，在商业和科技语境下频率较高，强调效率和可扩展性。"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于地理或社会分布",
+        "usage": "在英国英语中，常用于学术或政策讨论中，体现历史上的殖民和全球化影响。"
+      }
+    ],
+    "historicalContext": "与工业革命时期的资源分配和殖民扩张相关，在文学如狄更斯作品中象征社会不公。",
+    "modernUsage": "在社交媒体和数字平台上，频繁用于讨论全球供应链或在线教育趋势，体现跨文化包容性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一群人将礼物分发到不同房间。",
+      "keyElements": [
+        "礼物",
+        "分发",
+        "房间"
+      ],
+      "emotionalConnection": "联想到节日聚会的分享喜悦，以触发个人经验回忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Dis-trib-uted 像 'dis'（分开）+ 'tribute'（贡品），想象贡品被分开分发。",
+        "explanation": "通过词根分解和视觉联想，利用认知科学中的重复曝光原理增强记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/dɪˈstrɪbjʊtɪd/' 听起来像 'dis-tribute-it'，想象在派对中分发物品。",
+        "explanation": "结合声音与动作的联觉，帮助初级学习者建立感官记忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "spread",
+      "allocated",
+      "scattered"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more distributed",
+      "superlative": "most distributed"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + distributed",
+        "description": "用于描述事物的分布状态",
+        "examples": [
+          "The files are distributed across the servers."
+        ]
+      },
+      {
+        "pattern": "Distributed + noun phrase",
+        "description": "作为定语修饰名词",
+        "examples": [
+          "A distributed network ensures reliability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with the verb form without context",
+        "correction": "Use as an adjective or past participle correctly",
+        "explanation": "学习者常错误地将 'distributed' 用作动词；需注意其形容词功能以避免语义混淆。"
+      },
+      {
+        "mistake": "Incorrectly forming comparatives",
+        "correction": "Use 'more distributed' instead of '*distributeder'",
+        "explanation": "作为多音节形容词，不使用 -er 形式；结合规则记忆可减少错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (COCA rank: approximately 4500)",
+    "domains": [
+      "Technology",
+      "Economics",
+      "Geography"
+    ],
+    "tags": [
+      "Adjective",
+      "Distribution",
+      "Technical"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster",
+      "BNC"
+    ]
+  }
+}

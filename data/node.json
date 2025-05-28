@@ -1,0 +1,272 @@
+{
+  "word": "node",
+  "phonetics": {
+    "british": "/nəʊd/",
+    "american": "/noʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A point at which lines or pathways intersect, especially in a network or structure.",
+      "chineseTranslation": "节点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a device or point in a network where data is processed or routed.",
+      "chineseTranslation": "网络节点",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, a swelling or knob-like structure, such as on a plant stem or in anatomy.",
+      "chineseTranslation": "结节或肿块",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To develop or form into nodes.",
+      "chineseTranslation": "形成节点",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "network node",
+      "meaning": "网络中的连接点",
+      "example": "The network node handles data traffic efficiently.",
+      "exampleTranslation": "网络节点高效处理数据流量。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "lymph node",
+      "meaning": "淋巴结",
+      "example": "The doctor examined the lymph node for signs of infection.",
+      "exampleTranslation": "医生检查淋巴结以寻找感染迹象。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "node point",
+      "meaning": "节点点",
+      "example": "In graph theory, a node point connects multiple edges.",
+      "exampleTranslation": "在图论中，节点点连接多个边。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a computer network, each node must be securely connected.",
+      "translation": "在计算机网络中，每个节点必须安全连接。",
+      "source": "Technical documentation, such as from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The plant's stem has a visible node where new leaves emerge.",
+      "translation": "植物的茎上有一个明显的节点，新叶子从中长出。",
+      "source": "Scientific literature, e.g., biology texts",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She configured the node in the software to optimize performance.",
+      "translation": "她配置了软件中的节点以优化性能。",
+      "source": "Modern tech articles, e.g., from BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The graph's central node influences the entire system.",
+      "translation": "图形的中心节点影响整个系统。",
+      "source": "Academic papers on mathematics",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "nodus",
+        "meaning": "knot or joint",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'nodus'，意为结或关节，最初用于描述物理连接点，如绳结。在中世纪英语中演变为 'node'，扩展到抽象概念，如网络结构或生物学上的肿块；17世纪起在科学和技术语境中广泛使用。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "nodule",
+      "nodular",
+      "nodose"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，使用视觉联想将 'node' 想象为网络中的交叉点，以加强空间记忆；对于中文母语学习者，关联到 '节点' 的概念，并通过重复练习上下文以提升语义整合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "junction",
+        "similarity": "0.8",
+        "context": "适用于交通或网络连接语境，例如道路交叉口"
+      },
+      {
+        "word": "vertex",
+        "similarity": "0.7",
+        "context": "适用于数学或图论语境，例如图形理论中的顶点"
+      },
+      {
+        "word": "hub",
+        "similarity": "0.6",
+        "context": "适用于商业或技术语境，例如信息中心"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "edge",
+        "context": "适用于图论语境，其中 'edge' 表示连接而非连接点"
+      },
+      {
+        "word": "periphery",
+        "context": "适用于网络或结构语境，表示边缘而非中心"
+      }
+    ],
+    "hypernyms": [
+      "point",
+      "connection"
+    ],
+    "hyponyms": [
+      "router node",
+      "leaf node"
+    ],
+    "collocations": [
+      {
+        "pattern": "node + in + network",
+        "examples": [
+          "The node in the network crashed."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "central node",
+        "examples": [
+          "The central node controls the flow."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在现代科技文化中，'node' 象征连接与网络化，体现全球化时代的信息流动；在中国文化中，可隐含关联到传统网络概念，如丝绸之路上的节点城市。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如互联网节点",
+        "usage": "在日常科技讨论中频繁出现，强调实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或学术语境，如生物学中的节点",
+        "usage": "在教育和科学出版物中常见，保持中性语域"
+      }
+    ],
+    "historicalContext": "与工业革命和数字时代相关，源自拉丁语但在英语中发展出科技含义；例如，在文学如狄更斯作品中象征社会连接点。",
+    "modernUsage": "在社交媒体和数字平台上流行，如区块链中的节点，反映当代全球互联趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个网络中的交叉点，如地铁站台。",
+      "keyElements": [
+        "交叉点",
+        "连接线",
+        "数据流"
+      ],
+      "emotionalConnection": "联结到个人经历，如城市旅行中的转乘点，触发熟悉感和成就感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Node 像 'knot' 的变形，想象一个结成的网。",
+        "explanation": "通过词根联想强化记忆，基于认知科学的空间想象原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Node 听起来像 'no door'，但代表 'a door to connections'。",
+        "explanation": "利用声音相似性创建情感桥接，促进长期记忆保留。"
+      }
+    ],
+    "wordAssociations": [
+      "network",
+      "hub",
+      "junction"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "nodes",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + node",
+        "description": "主语 + 动词 + 节点结构，常用于描述位置或功能。",
+        "examples": [
+          "The server is a critical node."
+        ]
+      },
+      {
+        "pattern": "Node + in + prepositional phrase",
+        "description": "节点 + 在 + 介词短语结构，用于指定语境。",
+        "examples": [
+          "The node in the system failed."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'node' with 'nude'",
+        "correction": "Use 'node' for connections and 'nude' for unclothed.",
+        "explanation": "发音相似可能导致混淆；建议通过发音练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'nodes' for plural.",
+        "explanation": "作为常规名词，需遵循标准规则。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical domains (e.g., rank 5000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "biology",
+      "mathematics"
+    ],
+    "tags": [
+      "computing",
+      "networking",
+      "anatomy"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

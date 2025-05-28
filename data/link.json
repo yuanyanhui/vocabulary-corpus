@@ -1,0 +1,267 @@
+{
+  "word": "link",
+  "phonetics": {
+    "british": "/lɪŋk/",
+    "american": "/lɪŋk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A connection between two or more things, people, or ideas, often implying a relationship or association.",
+      "chineseTranslation": "连接；环节；关联",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To connect or join two or more things together, either physically or conceptually.",
+      "chineseTranslation": "连接；链接；关联",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A ring or loop in a chain, or a unit in a series of connected elements.",
+      "chineseTranslation": "链环；链节",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "link up",
+      "meaning": "连接起来或联合",
+      "example": "The two companies decided to link up for a joint project.",
+      "exampleTranslation": "两家公司决定联手进行一个联合项目。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hyper link",
+      "meaning": "超链接，在数字环境中指向其他网页的链接",
+      "example": "Click on the hyperlink to access the full article.",
+      "exampleTranslation": "点击超链接以访问完整文章。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "missing link",
+      "meaning": "缺失的环节或关键连接",
+      "example": "The scientist discovered the missing link in the evolutionary chain.",
+      "exampleTranslation": "科学家发现了进化链中的缺失环节。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bridge serves as a vital link between the two cities.",
+      "translation": "这座桥作为两座城市之间的关键连接。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She linked her laptop to the projector for the presentation.",
+      "translation": "她将她的笔记本电脑连接到投影仪用于演示。",
+      "source": "Educational context (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the digital age, social media links people across continents.",
+      "translation": "在数字时代，社交媒体将人们连接到大陆之间。",
+      "source": "Modern literature (e.g., from a contemporary essay)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The detective found a crucial link between the suspects.",
+      "translation": "侦探发现嫌疑人之间有一个关键关联。",
+      "source": "Fiction (e.g., from a mystery novel)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English and Proto-Germanic, with influences from Latin",
+    "rootWords": [
+      {
+        "root": "hlinc",
+        "meaning": "A ridge or bank (in Old English, relating to physical connections)",
+        "language": "Old English"
+      },
+      {
+        "root": "ligare",
+        "meaning": "To bind or tie",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "起源于古英语 'hlinc'，最初指物理上的隆起或链条部分；随后在中古英语中演变为更广泛的连接概念，受拉丁语 'ligare'（意为绑定）影响，最终在现代英语中扩展到抽象关联，如数字链接。",
+    "firstKnownUse": "约公元1000年，在古英语文献中出现",
+    "relatedWords": [
+      "unlink",
+      "chain",
+      "connect"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10 scale; straightforward with simple vowel and consonant sounds, easy for Chinese learners as it lacks tones)",
+    "spellingDifficulty": "2 (1-10 scale; short and phonetic, with no irregular spellings that challenge intermediate learners)",
+    "meaningComplexity": "5 (1-10 scale; multiple meanings require context differentiation, which may confuse learners from Chinese backgrounds due to polysemy similar to Chinese characters)",
+    "usageComplexity": "4 (1-10 scale; common in everyday and technical contexts, but verb forms need practice for collocations)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象链条连接物体来强化记忆；通过间隔重复法复习不同语境下的用法，以提升长期保留；结合母语对比，避免将 'link' 与中文 '链接' 的固定搭配混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "connect",
+        "similarity": "0.8",
+        "context": "适用于物理或数字连接的语境，例如在科技或日常对话中"
+      },
+      {
+        "word": "associate",
+        "similarity": "0.7",
+        "context": "适用于抽象关联，如社会或概念性联系"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disconnect",
+        "context": "在技术或关系中断的语境中，例如 'The power link was disconnected.'"
+      },
+      {
+        "word": "separate",
+        "context": "在物理分开的语境中，例如 'They decided to separate the linked files.'"
+      }
+    ],
+    "hypernyms": [
+      "connection",
+      "relationship"
+    ],
+    "hyponyms": [
+      "hyperlink",
+      "chain link"
+    ],
+    "collocations": [
+      {
+        "pattern": "link + noun (e.g., link to something)",
+        "examples": [
+          "link to a website",
+          "link between ideas"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + link (e.g., establish a link)",
+        "examples": [
+          "create a link",
+          "break a link"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征连接与网络化，常用于表示全球化和数字时代的相互依赖；隐含语义包括社会纽带，在文学中代表命运的关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于数字和技术语境，如 'link in an email'",
+        "usage": "在美国英语中，强调即时性和实用性，例如在商业或社交媒体中"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重于历史或物理连接，如 'railway link'",
+        "usage": "在英国英语中，常与传统基础设施相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关的链条发明，以及现代互联网发展有关；在文学如狄更斯作品中，代表社会阶级的连接。",
+    "modernUsage": "在社交媒体和在线平台中流行，例如 Twitter 中的 'link sharing'，反映了当代数字文化中的分享与互动趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个链条将两个物体连接起来，如一艘船上的锚链。",
+      "keyElements": [
+        "链条",
+        "连接",
+        "物体"
+      ],
+      "emotionalConnection": "联结到个人经历，如回忆童年玩的链条玩具，以触发积极情绪和记忆强化。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'link' as a 'link' in a chain that 'inks' things together.",
+        "explanation": "通过声音联想将 'link' 与 'ink' 联系，创建视觉图像，帮助认知加工和记忆。"
+      },
+      {
+        "type": "缩略",
+        "content": "L-I-N-K: Linked Items Need Knowledge.",
+        "explanation": "使用首字母缩写结合语义，基于认知科学中的分块技术提升记忆效率。"
+      }
+    ],
+    "wordAssociations": [
+      "chain",
+      "connect",
+      "bridge",
+      "network"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "links",
+      "pastTense": "linked",
+      "pastParticiple": "linked",
+      "presentParticiple": "linking",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., She links A and B)",
+        "description": "主语 + 动词 + 宾语结构，常用于表示直接连接。",
+        "examples": [
+          "He links the ideas in his essay."
+        ]
+      },
+      {
+        "pattern": "Noun phrase + as + link (e.g., The road as a link)",
+        "description": "名词短语用作连接的比喻表达。",
+        "examples": [
+          "The internet acts as a global link."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'link' without proper preposition (e.g., 'link to' vs. 'link with')",
+        "correction": "Use 'link to' for direct connections and 'link with' for associations.",
+        "explanation": "中文学习者常混淆前置词搭配，导致语义模糊；需通过语境练习区分。"
+      },
+      {
+        "mistake": "Confusing noun and verb forms",
+        "correction": "Ensure context clarifies part of speech.",
+        "explanation": "由于 'link' 的多功能性，初级学习者可能错误使用时态。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "business",
+      "social sciences"
+    ],
+    "tags": [
+      "connection",
+      "digital",
+      "relationship"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

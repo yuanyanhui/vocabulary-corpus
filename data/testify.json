@@ -1,0 +1,277 @@
+{
+  "word": "testify",
+  "phonetics": {
+    "british": "/ˈtɛstɪfaɪ/",
+    "american": "/ˈtɛstəˌfaɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To give evidence as a witness, typically in a court of law.",
+      "chineseTranslation": "作证；证明",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To serve as proof or evidence of something.",
+      "chineseTranslation": "证实；见证",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "intransitive verb",
+      "definition": "To make a solemn declaration or statement under oath.",
+      "chineseTranslation": "宣誓作证",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun (archaic or rare)",
+      "definition": "An act of testifying or evidence given.",
+      "chineseTranslation": "证词",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "testify against",
+      "meaning": "对某人作不利证词",
+      "example": "The witness will testify against the defendant in court.",
+      "exampleTranslation": "证人将在法庭上对被告作证。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "testify to",
+      "meaning": "证明或证实某事",
+      "example": "Her success testifies to her hard work and dedication.",
+      "exampleTranslation": "她的成功证明了她的努力和奉献。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "testify in court",
+      "meaning": "在法庭上作证",
+      "example": "Several experts will testify in court about the environmental impact.",
+      "exampleTranslation": "几位专家将在法庭上就环境影响作证。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The eyewitness was called to testify about the accident.",
+      "translation": "目击证人被要求就事故作证。",
+      "source": "Legal proceedings (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Historical documents testify to the ancient trade routes.",
+      "translation": "历史文件证实了古代贸易路线的存在。",
+      "source": "Academic literature (e.g., from historical texts)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In her memoir, she testifies to the challenges of immigrant life.",
+      "translation": "在她的回忆录中，她见证了移民生活的艰辛。",
+      "source": "Literary works (e.g., modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The data testifies to the effectiveness of the new policy.",
+      "translation": "数据证明了新政策的有效性。",
+      "source": "News articles (e.g., from BBC News)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "testificare",
+        "meaning": "to bear witness",
+        "language": "Latin"
+      },
+      {
+        "root": "testis",
+        "meaning": "witness",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 testificare（意为“证明或作证”），该词由 testis（见证人）和 facere（做）组合而成。在中世纪拉丁语中演变为 testificare，最终在15世纪进入英语，主要用于法律语境，后来扩展到一般证明含义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "testimony",
+      "testify",
+      "attest"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 testify 与法律语境关联；通过视觉图像如法庭场景强化记忆；针对中文母语学习者，注意避免与类似汉字词汇混淆，并通过重复性练习提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "attest",
+        "similarity": "0.8",
+        "context": "适用于正式证明语境，例如法律或正式声明中"
+      },
+      {
+        "word": "witness",
+        "similarity": "0.7",
+        "context": "常用于目击事件或提供证据的场合"
+      },
+      {
+        "word": "affirm",
+        "similarity": "0.6",
+        "context": "在非正式或一般确认语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deny",
+        "context": "适用于否认或反驳证据的语境"
+      },
+      {
+        "word": "refute",
+        "context": "在辩论或学术讨论中，用于反驳证词"
+      }
+    ],
+    "hypernyms": [
+      "declare",
+      "state"
+    ],
+    "hyponyms": [
+      "swear",
+      "depose"
+    ],
+    "collocations": [
+      {
+        "pattern": "testify + in + location",
+        "examples": [
+          "testify in court"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "testify + to + something",
+        "examples": [
+          "testify to the truth"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中常与司法系统和诚信相关，象征着真相与责任，例如在美国文化中，testify 是陪审团审判的核心部分，隐含着民主与法治的价值观。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重于正式法律程序",
+        "usage": "在英国英语中，常与历史性法庭传统相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于日常媒体和政治语境",
+        "usage": "在美国英语中，常用于证人保护程序或公众听证会"
+      }
+    ],
+    "historicalContext": "与西方法律历史相关，如罗马法和英国普通法的发展，文学作品如莎士比亚的戏剧中常出现，反映社会对证词的重视。",
+    "modernUsage": "在现代社交媒体和新闻中，testify 常用于政治辩论或个人故事分享，体现跨文化传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个法庭场景，证人手持圣经宣誓，周围有法官和律师。",
+      "keyElements": [
+        "法庭",
+        "证人",
+        "宣誓"
+      ],
+      "emotionalConnection": "联结个人经历，如观看法庭剧的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Testify 听起来像 '测试文件'（test file），想象在法庭上测试证据文件。",
+        "explanation": "通过声音联想帮助中文母语学习者快速回忆词汇"
+      },
+      {
+        "type": "缩略",
+        "content": "T-E-S-T-I-F-Y：Truth-Evidence-Sworn-Test-In-Form-You",
+        "explanation": "使用首字母缩略法结合认知科学中的重复强化"
+      }
+    ],
+    "wordAssociations": [
+      "witness",
+      "evidence",
+      "court"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "testified",
+      "pastParticiple": "testified",
+      "presentParticiple": "testifying",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + testify + in + location",
+        "description": "主语 + testify + 在特定地点作证的结构",
+        "examples": [
+          "She testified in court."
+        ]
+      },
+      {
+        "pattern": "Subject + testify + to + noun",
+        "description": "主语 + testify + 到某事物的证明结构",
+        "examples": [
+          "The results testify to his success."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'testify' without proper context",
+        "correction": "Ensure it is used in formal or evidential contexts",
+        "explanation": "中文学习者常误用为一般 '说'，需强调其法律含义"
+      },
+      {
+        "mistake": "Confusing with 'test'",
+        "correction": "Distinguish as 'testify' means to give evidence, not to examine",
+        "explanation": "基于语音相似，避免认知干扰"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "法律",
+      "学术",
+      "新闻"
+    ],
+    "tags": [
+      "法律术语",
+      "证据",
+      "声明"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

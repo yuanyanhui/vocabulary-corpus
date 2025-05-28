@@ -1,0 +1,236 @@
+{
+  "word": "lowercase",
+  "phonetics": {
+    "british": "/ˈləʊəkeɪs/",
+    "american": "/ˈloʊərkeɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Denoting letters that are not capitalized; the form of letters used in ordinary writing, as opposed to capitals.",
+      "chineseTranslation": "小写的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A letter or character that is not capitalized.",
+      "chineseTranslation": "小写字母",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lowercase letter",
+      "meaning": "小写字母",
+      "example": "Please use a lowercase letter for the first character of your username.",
+      "exampleTranslation": "请在用户名开头使用小写字母。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "convert to lowercase",
+      "meaning": "转换为小写",
+      "example": "In programming, you can convert a string to lowercase using the toLowerCase() function.",
+      "exampleTranslation": "在编程中，您可以使用 toLowerCase() 函数将字符串转换为小写。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Make sure to type your password in lowercase to avoid errors.",
+      "translation": "确保以小写字母输入您的密码，以避免错误。",
+      "source": "Technical documentation (e.g., software user guides)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In English, common nouns are written in lowercase unless they begin a sentence.",
+      "translation": "在英语中，普通名词使用小写，除非它们位于句首。",
+      "source": "Grammar textbooks (e.g., based on Cambridge English Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The artist chose to paint the title in all lowercase for a modern aesthetic.",
+      "translation": "这位艺术家选择用全小写字母书写标题，以营造现代美感。",
+      "source": "Literary and artistic discussions (e.g., from BNC corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "lower",
+        "meaning": "Not upper or capital; positioned below",
+        "language": "English"
+      },
+      {
+        "root": "case",
+        "meaning": "A box or compartment, historically referring to typesetting trays",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term originated in the 19th century from the printing industry, where lowercase letters were stored in the lower case of a printer's type case, as opposed to uppercase letters in the upper case. This physical arrangement evolved into a linguistic convention for distinguishing letter forms.",
+    "firstKnownUse": "Early 19th century",
+    "relatedWords": [
+      "uppercase",
+      "capital letter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "2",
+    "usageComplexity": "3",
+    "learningTips": [
+      "结合认知科学，利用视觉对比策略，例如将大写和小写字母并排记忆，以增强模式识别；",
+      "使用间隔重复系统（spaced repetition）来强化对基本书写规则的记忆，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "small letter",
+        "similarity": "0.9",
+        "context": "在书写和打字语境中，用于描述非大写字母"
+      },
+      {
+        "word": "minuscule",
+        "similarity": "0.7",
+        "context": "在正式或排版语境中，强调小写形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uppercase",
+        "context": "在书写规则中，与大写字母相对，用于标题或专有名词"
+      }
+    ],
+    "hypernyms": [
+      "letter case"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "lowercase letters",
+        "examples": [
+          "Always use lowercase letters in email addresses."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in lowercase",
+        "examples": [
+          "Write the word in lowercase for consistency."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方书写系统中，该词象征标准化和非正式性，常用于数字通信中以体现亲切或现代感，但在中文等语言中，小写概念较少文化隐喻，因为中文不区分大小写。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "用法与英国类似，但在美国英语中更常用于数字和编程语境",
+        "usage": "在科技领域如软件开发中，lowercase 强调一致性，以避免错误"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国相似，但可能在正式出版物中更严格遵守传统排版规则",
+        "usage": "在文学和教育中，用于教导语法规则"
+      }
+    ],
+    "historicalContext": "源自19世纪的印刷术，与工业革命相关，反映了西方文化中对标准化文字的强调；在中文文化中，缺乏直接等价，因为汉字不分大小写。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于非正式交流，如Twitter或微信，以营造轻松氛围"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个键盘，上面的小写字母如a、b、c显得更小、更常见，而大写字母如A、B、C在上面部分。",
+      "keyElements": [
+        "键盘",
+        "小写字母",
+        "大小对比"
+      ],
+      "emotionalConnection": "联结到个人经历，如学校学习字母时的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "association",
+        "content": "Lower means smaller, so lowercase is like a smaller version of letters.",
+        "explanation": "通过大小联想增强视觉记忆，基于认知科学的空间认知原理"
+      },
+      {
+        "type": "acronym",
+        "content": "L for Little and Lowercase.",
+        "explanation": "使用首字母缩写创建简单口诀，帮助初级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "capital",
+      "font",
+      "type",
+      "script"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + noun",
+        "description": "用作形容词修饰名词，表示字母形式",
+        "examples": [
+          "The lowercase version of 'A' is 'a'."
+        ]
+      },
+      {
+        "pattern": "Verb phrase",
+        "description": "在短语中用作动词相关表达，如 'convert to lowercase'",
+        "examples": [
+          "You should convert the text to lowercase."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing lowercase with uppercase in sentences",
+        "correction": "Use lowercase for common nouns and uppercase for proper nouns",
+        "explanation": "英语中，专有名词大写，普通名词小写，这是基本语法规则"
+      },
+      {
+        "mistake": "Incorrect pronunciation as two separate words",
+        "correction": "Pronounce as one word: /ˈləʊəkeɪs/",
+        "explanation": "这词是一个合成词，错误分隔会影响流利度"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 in COCA corpus)",
+    "domains": [
+      "Computing",
+      "Education",
+      "Writing"
+    ],
+    "tags": [
+      "Typography",
+      "Grammar",
+      "Digital Communication"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

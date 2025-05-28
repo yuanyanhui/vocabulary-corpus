@@ -1,0 +1,230 @@
+{
+  "word": "electrophile",
+  "phonetics": {
+    "british": "/ɪˈlɛktrəʊfaɪl/",
+    "american": "/ɪˈlɛktrəfaɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chemical species that is attracted to electrons and accepts a pair of electrons to form a new covalent bond, commonly in organic chemistry reactions.",
+      "chineseTranslation": "亲电试剂",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electrophilic addition",
+      "meaning": "亲电加成反应",
+      "example": "Electrophilic addition occurs when an electrophile adds to a double bond in alkenes.",
+      "exampleTranslation": "当亲电试剂添加到烯烃的双键时，会发生亲电加成反应。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "electrophilic aromatic substitution",
+      "meaning": "亲电芳香取代反应",
+      "example": "Electrophilic aromatic substitution is a key reaction in synthesizing benzene derivatives.",
+      "exampleTranslation": "亲电芳香取代反应是合成苯衍生物的关键反应。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the reaction, the electrophile attacks the nucleophile, leading to the formation of a new bond.",
+      "translation": "在反应中，亲电试剂攻击亲核试剂，导致形成新的键。",
+      "source": "Chemistry textbook (e.g., Organic Chemistry by Clayden)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Bromine acts as an electrophile in the addition reaction with ethene.",
+      "translation": "溴在与乙烯的加成反应中充当亲电试剂。",
+      "source": "Scientific article from Journal of the American Chemical Society",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The electrophile in this mechanism is stabilized by resonance effects.",
+      "translation": "在这个机制中，亲电试剂通过共振效应得到稳定。",
+      "source": "Educational resource (e.g., Khan Academy)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "electro-",
+        "meaning": "Related to electricity or electron, from Greek 'ēlektron' meaning amber.",
+        "language": "Greek"
+      },
+      {
+        "root": "-phile",
+        "meaning": "Loving or attracted to, from Greek 'philos' meaning loving.",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "The term 'electrophile' emerged in the early 20th century as part of organic chemistry's development, particularly with the work of chemists like Robinson and Ingold in the 1920s-1930s, evolving from earlier concepts of electron-deficient species to describe reagents that seek electrons in reactions.",
+    "firstKnownUse": "1920s",
+    "relatedWords": [
+      "electrophilic",
+      "nucleophile",
+      "electronegative"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用视觉化记忆法，将词汇与化学反应示意图关联，以强化认知连接；根据双编码理论，将英文词汇与中文翻译（如'亲电试剂'）同时编码，以提升长期记忆；通过间隔重复系统复习，结合实际实验情境以加强语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "electron-deficient species",
+        "similarity": "0.8",
+        "context": "在有机化学反应中，指需要电子的物质，常用于技术语域"
+      },
+      {
+        "word": "Lewis acid",
+        "similarity": "0.7",
+        "context": "在酸碱理论中，指接受电子对的物质，适用于学术语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "nucleophile",
+        "context": "在化学反应中，指亲核试剂，与亲电试剂相反，常在同一反应机制中使用"
+      }
+    ],
+    "hypernyms": [
+      "reagent"
+    ],
+    "hyponyms": [
+      "carbocation",
+      "halogen"
+    ],
+    "collocations": [
+      {
+        "pattern": "electrophile + verb (e.g., attacks)",
+        "examples": [
+          "The electrophile attacks the double bond."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + electrophile (e.g., stable electrophile)",
+        "examples": [
+          "A stable electrophile is less reactive."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征电子理论的应用，体现现代化学对分子互动的理解，无显著隐含语义，但反映了西方科学传统对希腊词根的偏好。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于教育和工业语境中",
+        "usage": "在美国英语中，常在学术讲座和教材中出现，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更注重历史语境",
+        "usage": "在英国英语中，常与经典化学理论关联，如在大学课程中使用"
+      }
+    ],
+    "historicalContext": "与20世纪化学革命相关，特别是在有机合成和反应机制的发展中，体现了工业革命后科学语言的演变。",
+    "modernUsage": "在社交媒体和在线教育平台上（如YouTube化学频道）流行，用于解释复杂反应，反映数字时代科学传播的趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电子饥饿的怪物（electrophile）追逐电子球（electrons）进入一个分子结构。",
+      "keyElements": [
+        "怪物形象",
+        "电子球",
+        "分子结构"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年游戏中追逐物体，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Electro-phile sounds like 'electric file', imagining a file that loves electricity.",
+        "explanation": "通过声音联想将词汇与日常生活对象连接，利用双编码原理增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "E for Electron Lover",
+        "explanation": "使用首字母缩写结合视觉图像，帮助初级学习者快速回忆语义"
+      }
+    ],
+    "wordAssociations": [
+      "nucleus",
+      "electron",
+      "reaction"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "electrophiles",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + electrophile",
+        "description": "作为主语或宾语出现在句子中，常用于描述化学过程",
+        "examples": [
+          "The electrophile reacts quickly."
+        ]
+      },
+      {
+        "pattern": "Electrophile + preposition + object",
+        "description": "常与介词如'in'或'with'搭配",
+        "examples": [
+          "The reaction involves an electrophile in the mechanism."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with nucleophile",
+        "correction": "Use electrophile for electron-seeking species",
+        "explanation": "Learners often mix up due to similar structures; clarify through contrast in chemical contexts"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "electrophiles",
+        "explanation": "Add '-s' for plural, as it follows regular noun rules"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked 15000 in COCA corpus",
+    "domains": [
+      "science",
+      "chemistry",
+      "education"
+    ],
+    "tags": [
+      "technical",
+      "chemical terminology",
+      "organic chemistry"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

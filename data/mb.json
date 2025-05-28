@@ -1,0 +1,238 @@
+{
+  "word": "mb",
+  "phonetics": {
+    "british": "/ɛmˈbiː/",
+    "american": "/ɛmˈbiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "An abbreviation for 'megabyte', a unit of digital information storage equivalent to 1,000,000 bytes or 1,048,576 bytes in binary measurement.",
+      "chineseTranslation": "兆字节",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "In informal contexts, may stand for 'my bad', an expression used to admit a mistake.",
+      "chineseTranslation": "我的错",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "1 MB file",
+      "meaning": "1兆字节的文件",
+      "example": "This document is only a 1 MB file, so it downloads quickly.",
+      "exampleTranslation": "这个文档只有一个1兆字节的文件，所以下载很快。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "MB of RAM",
+      "meaning": "兆字节的随机存取存储器",
+      "example": "The smartphone has 4 MB of RAM for smooth performance.",
+      "exampleTranslation": "这部智能手机有4兆字节的RAM，用于流畅性能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "My bad",
+      "meaning": "我的错",
+      "example": "I forgot to bring the keys—my bad!",
+      "exampleTranslation": "我忘了带钥匙——我的错！",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software update requires at least 500 MB of free space.",
+      "translation": "软件更新需要至少500兆字节的可用空间。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "I accidentally deleted your file—my bad, I'll fix it right away.",
+      "translation": "我意外删除了你的文件——我的错，我会马上修复。",
+      "source": "Informal conversation (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, MB is often used interchangeably with MiB in some contexts.",
+      "translation": "在计算中，MB 在某些语境中与 MiB 互换使用。",
+      "source": "Educational article (e.g., from OED)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (from Greek and German roots)",
+    "rootWords": [
+      {
+        "root": "mega",
+        "meaning": "large or great",
+        "language": "Greek"
+      },
+      {
+        "root": "byte",
+        "meaning": "a sequence of bits",
+        "language": "English (derived from 'bite', influenced by binary digit)"
+      }
+    ],
+    "historicalDevelopment": "从希腊语 'megas'（大的）演变而来，结合20世纪中叶计算机术语 'byte'（源自'bite'，表示二进制位序列），'MB' 作为 'megabyte' 的缩写在1960年代首次用于数据存储单位，以描述大规模数据量。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "kilobyte",
+      "gigabyte",
+      "terabyte"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用分块记忆法（chunking）将 'mb' 与其全称 'megabyte' 关联，结合视觉图像如数据存储图标，以增强长期记忆；",
+      "根据认知科学，创建个人情境联系，例如将 'mb' 想象为手机存储空间的实际应用，避免混淆类似缩写。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "megabyte",
+        "similarity": "0.9",
+        "context": "技术语境中，用于表示数据存储单位"
+      },
+      {
+        "word": "MiB",
+        "similarity": "0.8",
+        "context": "二进制计算语境中，作为精确的替代"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "KB",
+        "context": "表示较小数据单位，如千字节"
+      }
+    ],
+    "hypernyms": [
+      "data unit"
+    ],
+    "hyponyms": [
+      " gibibyte"
+    ],
+    "collocations": [
+      {
+        "pattern": "MB of storage",
+        "examples": [
+          "This drive has 256 MB of storage."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "transfer MB",
+        "examples": [
+          "The network can transfer 10 MB per second."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，'mb' 象征技术进步和数据存储的便利性，常与全球数字化生活相关联，但也隐含对数据隐私和存储限制的隐忧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术产品描述",
+        "usage": "在日常科技语境中，如智能手机规格"
+      },
+      {
+        "region": "英国",
+        "variation": "有时与 'MiB' 区分，以强调二进制 vs. 十进制",
+        "usage": "在教育和专业环境中更精确"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，反映工业革命后的技术演进，在文学如科幻小说中象征信息爆炸。",
+    "modernUsage": "在社交媒体和在线平台上流行，如TikTok或Twitter讨论数据使用，但需注意跨文化差异，如中文用户更倾向于全称 '兆字节'。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的字节符号，如一个大箱子装满数据文件，代表 'mb' 的存储容量。",
+      "keyElements": [
+        "字节符号",
+        "数据箱子",
+        "存储图标"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆手机存储不足的挫败感，以触发情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Mega Big – 'mb' means Mega Byte, like a big byte monster.",
+        "explanation": "通过视觉联想将 'm' 和 'b' 与 'mega' 和 'byte' 连接，增强词汇保留"
+      },
+      {
+        "type": "缩略",
+        "content": "M for Million, B for Bits.",
+        "explanation": "简化记忆 'mb' 为百万位，基于认知简化原则"
+      }
+    ],
+    "wordAssociations": [
+      "memory",
+      "byte",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "MBs (for multiple units)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词缩写，用于量词结构",
+        "examples": [
+          "This file is 2 MB."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing MB with GB",
+        "correction": "Use MB for megabytes and GB for gigabytes",
+        "explanation": "错误源于单位混淆；学习者应记忆单位层级"
+      },
+      {
+        "mistake": "Using 'my bad' in formal contexts",
+        "correction": "Opt for 'I apologize' in formal settings",
+        "explanation": "语域不当；'my bad' 仅限于非正式场合"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10% in COCA for technical terms)",
+    "domains": [
+      "科技",
+      "计算",
+      "日常通信"
+    ],
+    "tags": [
+      "缩写",
+      "技术术语",
+      "数据单位"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

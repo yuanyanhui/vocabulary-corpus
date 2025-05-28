@@ -1,0 +1,252 @@
+{
+  "word": "convolution",
+  "phonetics": {
+    "british": "/ˌkɒnvəˈluːʃən/",
+    "american": "/ˌkɑːnvəˈluːʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A twisting or folding together, especially of a structure or shape, often used in mathematics, biology, or general contexts to describe complexity.",
+      "chineseTranslation": "卷积；曲折；复杂的结构",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, an operation on two functions that produces a third function expressing how the shape of one is modified by the other.",
+      "chineseTranslation": "在数学中，对两个函数进行操作得到第三个函数的操作",
+      "level": "advanced",
+      "frequency": "high (in scientific contexts)",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A complicated or intricate arrangement or situation.",
+      "chineseTranslation": "复杂的安排或情况",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convolutional neural network",
+      "meaning": "卷积神经网络",
+      "example": "The convolutional neural network is widely used in image recognition tasks.",
+      "exampleTranslation": "卷积神经网络广泛用于图像识别任务。",
+      "frequency": "high (in technology and AI fields)"
+    },
+    {
+      "phrase": "convolution of functions",
+      "meaning": "函数的卷积",
+      "example": "The convolution of functions f and g is defined as the integral of their product over a variable.",
+      "exampleTranslation": "函数 f 和 g 的卷积定义为其乘积在变量上的积分。",
+      "frequency": "medium (in mathematical contexts)"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The brain's convolutions allow for greater surface area and more complex cognitive functions.",
+      "translation": "大脑的卷积允许更大的表面面积和更复杂的认知功能。",
+      "source": "Scientific literature (e.g., neuroscience texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In signal processing, convolution is essential for filtering noise from audio signals.",
+      "translation": "在信号处理中，卷积对于从音频信号中过滤噪声至关重要。",
+      "source": "Technical manuals (e.g., from engineering corpora like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The plot of the novel involves a series of convolutions that keep the reader guessing.",
+      "translation": "小说的情节涉及一系列曲折，保持读者的悬念。",
+      "source": "Literary works (e.g., modern fiction)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "convolutio",
+        "meaning": "A rolling together",
+        "language": "Latin"
+      },
+      {
+        "root": "convolvere",
+        "meaning": "To roll together",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'convolvere'（意为卷起或缠绕），在中世纪拉丁语中演变为 'convolutio'，用于描述物理卷曲或折叠。17 世纪传入英语，首先在生物学和数学中用于描述结构复杂性，到 20 世纪扩展至抽象概念，如在计算机科学中的应用。",
+    "firstKnownUse": "约 1541 年",
+    "relatedWords": [
+      "convolve",
+      "convoluted"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (根据 CEFR 框架，适合高级学习者，但对初级者可能挑战性强)",
+    "pronunciationDifficulty": "6 (基于 IPA 标准，包含元音和辅音组合，可能对中文母语者造成音节分隔困难)",
+    "spellingDifficulty": "7 (拼写涉及多个音节和不常见的字母组合，如 'vo' 和 'lu'，易误写为 'convelution')",
+    "meaningComplexity": "8 (语义多层，包括数学、生物和抽象含义，需要上下文理解)",
+    "usageComplexity": "7 (常用于专业领域，需掌握搭配和语境)",
+    "learningTips": [
+      "使用分块记忆法将词汇分解为 'con-volu-tion'，结合视觉想象如螺旋形状；根据认知科学，创建个人关联，如将数学卷积联想为实际卷饼过程，以增强长期记忆；练习重复暴露于不同语境中以强化语义网络。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "complication",
+        "similarity": "0.7",
+        "context": "适用于描述复杂情况的语境，如故事情节（例如，在文学中）"
+      },
+      {
+        "word": "twist",
+        "similarity": "0.6",
+        "context": "适用于表示转折或曲折的非正式语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "simplification",
+        "context": "适用于强调减少复杂性的语境，如技术说明"
+      },
+      {
+        "word": "straightforwardness",
+        "context": "适用于描述直接和简单的过程"
+      }
+    ],
+    "hypernyms": [
+      "operation",
+      "process"
+    ],
+    "hyponyms": [
+      "Fourier convolution",
+      "circular convolution"
+    ],
+    "collocations": [
+      {
+        "pattern": "convolution in [field]",
+        "examples": [
+          "convolution in mathematics",
+          "convolution in neuroscience"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "perform a convolution",
+        "examples": [
+          "We perform a convolution on the data set."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征复杂性和创新，尤其在科学和技术领域，如人工智能的卷积神经网络代表了现代科技进步的隐含语义；在跨文化中，中国学习者可能将其与中医的 '气' 或复杂系统理论关联。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 AI 和数据科学",
+        "usage": "在美国英语中，强调实用应用，如 'convolutional layers in deep learning'"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于学术和历史语境",
+        "usage": "在英国英语中，可能在生物学或文学中出现，如描述脑部结构"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的科学发展有关，体现了西方对自然复杂性的探索；在文学中，如狄更斯作品中用于比喻社会复杂性。",
+    "modernUsage": "在现代社交媒体和在线教育中，常见于科技讨论，如 TikTok 或 Reddit 上对 AI 卷积的解释，反映了全球数字文化的快速传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个螺旋状的卷饼或漩涡河流，代表词汇的卷曲含义。",
+      "keyElements": [
+        "螺旋形状",
+        "折叠结构",
+        "数学图形"
+      ],
+      "emotionalConnection": "联结个人经验，如回想烹饪卷饼的过程，触发积极情绪以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Con-volution 像 'con'（一起）+ 'volution'（滚动），想象一群人一起滚动球。",
+        "explanation": "通过视觉联想增强词汇与动作的连接，根据认知科学原理，促进海马体记忆编码。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌkɒnvəˈluːʃən/ 像 'con-vuh-loo-shun'，联想为 '卷起来冲向胜利'。",
+        "explanation": "利用声音与图像的联觉，帮助中文母语者克服音节差异。"
+      }
+    ],
+    "wordAssociations": [
+      "twist",
+      "fold",
+      "complexity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "convolutions",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与其他词如 'in mathematics' 搭配，形成复杂短语",
+        "examples": [
+          "The convolution of the two signals results in a new waveform."
+        ]
+      },
+      {
+        "pattern": "Subject in sentences",
+        "description": "用作句子的主语，描述过程或结构",
+        "examples": [
+          "Convolution plays a key role in modern computing."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'evolution'",
+        "correction": "Use 'convolution' for twisting or mathematical operations",
+        "explanation": "两者发音相似，但语义不同；建议通过语境练习区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add '-s' as 'convolutions'",
+        "explanation": "英文名词规则化，但中文学习者可能遗漏复数形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in academic texts)",
+    "domains": [
+      "科技",
+      "生物学",
+      "数学",
+      "文学"
+    ],
+    "tags": [
+      "技术术语",
+      "抽象概念",
+      "科学词汇"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "word": "packet",
+  "phonetics": {
+    "british": "/ˈpækɪt/",
+    "american": "/ˈpækɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small container or envelope containing items such as letters, goods, or substances.",
+      "chineseTranslation": "小包；包裹",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and networking, a unit of data sent over a network.",
+      "chineseTranslation": "数据包",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make up or enclose something in a packet.",
+      "chineseTranslation": "将某物打包",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "packet of",
+      "meaning": "一包的；一袋的",
+      "example": "She bought a packet of biscuits from the store.",
+      "exampleTranslation": "她从商店买了一包饼干。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "data packet",
+      "meaning": "数据传输单元",
+      "example": "The router processes each data packet individually.",
+      "exampleTranslation": "路由器单独处理每个数据包。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "mail packet",
+      "meaning": "邮包",
+      "example": "The mail packet arrived late due to bad weather.",
+      "exampleTranslation": "邮包因恶劣天气而延误到达。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I received a packet of seeds in the mail today.",
+      "translation": "我今天收到了邮件中的一包种子。",
+      "source": "Everyday conversation (based on COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In networking, a packet can be lost during transmission, causing errors.",
+      "translation": "在网络中，数据包在传输过程中可能丢失，从而导致错误。",
+      "source": "Technical article (from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "He packeted the documents carefully before sending them overseas.",
+      "translation": "他小心地将文件打包后寄往海外。",
+      "source": "Literature (modeled after general English texts)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle French",
+    "rootWords": [
+      {
+        "root": "paquet",
+        "meaning": "A small pack or bundle",
+        "language": "Middle French"
+      },
+      {
+        "root": "pak",
+        "meaning": "Bundle or pack",
+        "language": "Middle Dutch"
+      }
+    ],
+    "historicalDevelopment": "源自中古法语 'paquet'，其源头可追溯到中古荷兰语 'pak'，意为捆绑或包裹。从16世纪开始，该词在英语中演变为表示小型容器或包裹的含义，并在20世纪扩展到计算机领域的 '数据包'，反映了技术进步对语言的影响。",
+    "firstKnownUse": "约1570年",
+    "relatedWords": [
+      "package",
+      "parcel",
+      "bundle"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (基于简单辅音和元音组合，易于初级学习者掌握)",
+    "spellingDifficulty": "4 (拼写规则常规，无不规则变化)",
+    "meaningComplexity": "5 (多义词，但语境可辅助理解)",
+    "usageComplexity": "6 (在日常和专业语境中均适用，需要上下文区分)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象一个实际的包裹来强化 'packet' 的记忆；通过间隔重复法复习多义词，以提升长期保留效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "package",
+        "similarity": "0.8",
+        "context": "适用于日常物品运输语境，如 'a package of goods' 表示 '一包货物'"
+      },
+      {
+        "word": "parcel",
+        "similarity": "0.7",
+        "context": "常用于邮寄语境，如 'a parcel from abroad' 表示 '来自海外的包裹'"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "context": "在表示部分与整体对比时，如 'packet' 指小型单位，而 'whole' 指完整实体"
+      }
+    ],
+    "hypernyms": [
+      "container"
+    ],
+    "hyponyms": [
+      "data packet",
+      "mail packet"
+    ],
+    "collocations": [
+      {
+        "pattern": "packet of + noun",
+        "examples": [
+          "packet of sugar"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "send a packet",
+        "examples": [
+          "send a packet via email"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中无强烈象征意义，但其在现代数字时代（如互联网数据传输）中体现了科技进步的文化隐含语义，象征效率和信息流动。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在技术语境中更常用 'packet' 表示网络数据",
+        "usage": "在美国英语中，常见于IT行业和日常购物，如 'a packet of snacks'"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏好 'parcel' 在邮寄语境",
+        "usage": "在英国英语中，'packet' 常用于食品或小物件，但整体使用相似"
+      }
+    ],
+    "historicalContext": "与工业革命和现代通信技术相关，源自贸易和邮政系统的演变；在文学如狄更斯的作品中，'packet' 曾出现，象征社会流动性。",
+    "modernUsage": "在社交媒体和在线平台中，'packet' 常用于技术讨论，如视频游戏或网络安全趋势，体现数字化生活。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个信封中装满小物件的场景，如一包糖果被邮寄出去。",
+      "keyElements": [
+        "信封",
+        "糖果",
+        "邮寄"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年收到包裹的喜悦，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'packet' as a 'pack' that is 'it' (small and contained).",
+        "explanation": "通过词根联想 'pack' 来构建视觉记忆路径，符合认知科学中的双编码理论。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈpækɪt/ 像 'pack it'，想象打包东西。",
+        "explanation": "利用声音与动作的联觉，帮助记忆并减少发音错误。"
+      }
+    ],
+    "wordAssociations": [
+      "package",
+      "wrap",
+      "bundle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "packets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + packet + of + noun",
+        "description": "典型结构用于描述内容，如 'a packet of letters'",
+        "examples": [
+          "A packet of letters arrived yesterday."
+        ]
+      },
+      {
+        "pattern": "Verb usage: Subject + packet + object",
+        "description": "作为动词时，表示打包动作",
+        "examples": [
+          "They packeted the goods for shipping."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'packet' and 'pact'",
+        "correction": "Use 'packet' for containers and 'pact' for agreements.",
+        "explanation": "二者发音相似，但语义不同；学习者需注意语境区分。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "packets (regular form)",
+        "explanation": "作为可数名词，需添加 -s，但初级学习者可能遗忘。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 2000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "commerce",
+      "daily life"
+    ],
+    "tags": [
+      "noun",
+      "computing",
+      "packaging"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

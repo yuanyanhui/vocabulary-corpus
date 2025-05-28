@@ -1,0 +1,230 @@
+{
+  "word": "Markdown",
+  "phonetics": {
+    "british": "/ˈmɑːk.daʊn/",
+    "american": "/ˈmɑrk.daʊn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A lightweight markup language used for formatting plain text, allowing users to write using an easy-to-read and easy-to-write syntax that is converted to HTML.",
+      "chineseTranslation": "一种轻量级的标记语言，用于格式化纯文本，使其易读且易写，并转换为HTML。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Write in Markdown",
+      "meaning": "使用Markdown编写内容",
+      "example": "I prefer to write in Markdown for my blog posts because it's simple and efficient.",
+      "exampleTranslation": "我更喜欢用Markdown为我的博客文章编写内容，因为它简单且高效。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "Convert to Markdown",
+      "meaning": "转换为Markdown格式",
+      "example": "You can convert this document to Markdown format using online tools.",
+      "exampleTranslation": "你可以使用在线工具将此文档转换为Markdown格式。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many developers use Markdown to create documentation because it supports headers, lists, and links easily.",
+      "translation": "许多开发者使用Markdown创建文档，因为它轻松支持标题、列表和链接。",
+      "source": "Technical blogs and software documentation (e.g., from GitHub)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In her email, she attached a file written in Markdown for the team to review.",
+      "translation": "在她的电子邮件中，她附上了一个用Markdown编写的文件供团队审阅。",
+      "source": "Business communication (e.g., corporate emails)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The novel's draft was formatted in Markdown to maintain a clean structure before publishing.",
+      "translation": "小说的草稿使用Markdown格式化，以在出版前保持清晰的结构。",
+      "source": "Literary works (e.g., modern writing tools)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Modern English",
+    "rootWords": [
+      {
+        "root": "Mark",
+        "meaning": "To indicate or denote",
+        "language": "Old English (from Proto-Germanic *markō)"
+      },
+      {
+        "root": "Down",
+        "meaning": "A downward direction or simplification",
+        "language": "Old English (from Proto-Germanic *dūnaz)"
+      }
+    ],
+    "historicalDevelopment": "术语'Markdown'是由John Gruber在2004年创造的，结合了'mark'（标记）和'down'（简化），意指一种简化的标记语言。它从早期标记语言演变而来，受电子邮件和文本处理的影响，旨在提供一种易于人类阅读的格式，最终发展为Web开发的标准工具。",
+    "firstKnownUse": "2004",
+    "relatedWords": [
+      "Markup",
+      "HTML",
+      "Textile"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (中等难度，因为包含元音和辅音组合，但不是非常复杂)",
+    "spellingDifficulty": "4 (简单拼写，但可能混淆为其他类似词如'Mark down')",
+    "meaningComplexity": "6 (语义涉及技术概念，需要理解上下文)",
+    "usageComplexity": "7 (使用时需熟悉语法规则和技术环境)",
+    "learningTips": [
+      "使用Spaced Repetition System (SRS)来强化记忆；将词汇与实际编码场景结合，利用视觉辅助如代码编辑器界面；根据认知负载理论，先掌握基本定义再扩展到高级应用。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "Markup language",
+        "similarity": "0.8",
+        "context": "适用于技术写作或文档创建的语境中"
+      },
+      {
+        "word": "Lightweight syntax",
+        "similarity": "0.7",
+        "context": "强调简易格式化的场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "WYSIWYG editor",
+        "context": "在需要即时预览的图形化编辑环境中"
+      }
+    ],
+    "hypernyms": [
+      "Markup language"
+    ],
+    "hyponyms": [
+      "GitHub Flavored Markdown"
+    ],
+    "collocations": [
+      {
+        "pattern": "Write [something] in Markdown",
+        "examples": [
+          "Write code in Markdown",
+          "Write notes in Markdown"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Convert to Markdown format",
+        "examples": [
+          "Convert files to Markdown format"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字时代，该词象征着简化和高效的沟通，尤其在开源社区和技术文化中，代表了对复杂工具的简化需求。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在软件开发和社交媒体中",
+        "usage": "在美国英语中，常与GitHub等平台关联，用于代码协作"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能在学术写作中更强调正式性",
+        "usage": "在英国英语中，常用于教育和出版领域"
+      }
+    ],
+    "historicalContext": "与互联网和开源运动相关，起源于2004年的博客文化和社会对Web 2.0的追求。",
+    "modernUsage": "在社交媒体如Twitter和专业工具如Notion中流行，用于快速内容创建，反映了当代数字交流的简化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个简单的文本编辑器界面，文字被标记成标题和列表，就像是用笔在纸上快速标记笔记。",
+      "keyElements": [
+        "编辑器图标",
+        "代码片段",
+        "列表符号"
+      ],
+      "emotionalConnection": "联结到个人编程经历的兴奋感，或初次学习编码时的成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Mark down as marking down notes quickly",
+        "explanation": "将'Markdown'联想为'快速标记笔记'，帮助记忆其简化功能"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce as 'Mark down' like marking prices down in a sale",
+        "explanation": "通过声音相似联想到促销打折，强化发音和含义记忆"
+      }
+    ],
+    "wordAssociations": [
+      "Code",
+      "Syntax",
+      "Blog"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词使用在句子中，表示工具或格式",
+        "examples": [
+          "Use Markdown for formatting."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词结合，如'in Markdown'",
+        "examples": [
+          "Write in Markdown style."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'markup'",
+        "correction": "Use 'Markdown' specifically for this language",
+        "explanation": "虽然相关，但'Markdown'是特定术语；错误可能源于语义重叠"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always capitalize as 'Markdown'",
+        "explanation": "作为专有名词，需要大写首字母以符合标准用法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (medium frequency in technical domains)",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "技术术语",
+      "网络语言",
+      "文档工具"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "word": "permutation",
+  "phonetics": {
+    "british": "/ˌpɜːmjuːˈteɪʃən/",
+    "american": "/ˌpɝːmjuːˈteɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An arrangement of all the members of a set into a specific order or sequence.",
+      "chineseTranslation": "排列，置换",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A change or transformation, often used in mathematical or computational contexts to denote rearrangement.",
+      "chineseTranslation": "变化，变换",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "permutation of elements",
+      "meaning": "元素的排列组合",
+      "example": "The permutations of elements in a set can be calculated using factorial notation.",
+      "exampleTranslation": "集合中元素的排列组合可以使用阶乘表示。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "circular permutation",
+      "meaning": "循环排列",
+      "example": "Circular permutation is used in problems involving arrangements around a circle.",
+      "exampleTranslation": "循环排列用于涉及圆周排列的问题。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, a permutation is an ordered arrangement of a set of objects.",
+      "translation": "在数学中，置换是一种对象的有序排列。",
+      "source": "Educational textbook (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The permutations of the letters in 'word' result in various possible strings.",
+      "translation": "单词 'word' 中字母的置换会产生各种可能的字符串。",
+      "source": "Computer science literature (e.g., algorithms textbook)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Daily life involves permutations when organizing schedules or playlists.",
+      "translation": "日常生活在安排日程或播放列表时涉及排列。",
+      "source": "General informal writing",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "permutare",
+        "meaning": "to change thoroughly or exchange",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'permutare'，意为彻底改变或交换，演变为中世纪拉丁语 'permutatio'，指交换或排列。在英语中，15世纪传入，最初用于一般意义上的改变，17世纪起在数学语境中发展为现代含义，强调顺序排列。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "combination",
+      "variation",
+      "mutation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 6,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 7,
+    "usageComplexity": 8,
+    "learningTips": [
+      "使用视觉辅助工具如图表展示排列过程，以增强空间记忆；",
+      "将词汇与日常生活经验联系，如手机应用图标的重新排序，促进语义关联；",
+      "根据认知科学原理，通过重复练习和间隔复习来降低抽象概念的记忆负担"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "rearrangement",
+        "similarity": 0.8,
+        "context": "数学或组织语境中，用于描述顺序改变"
+      },
+      {
+        "word": "reshuffling",
+        "similarity": 0.7,
+        "context": "非正式语境中，表示随机重新排列"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "combination",
+        "context": "与排列不同，组合不考虑顺序"
+      }
+    ],
+    "hypernyms": [
+      "arrangement"
+    ],
+    "hyponyms": [
+      "circular permutation",
+      "linear permutation"
+    ],
+    "collocations": [
+      {
+        "pattern": "permutation of [noun]",
+        "examples": [
+          "permutation of numbers",
+          "permutation of items"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] permutation",
+        "examples": [
+          "random permutation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育和科技文化中象征逻辑与有序性，常隐含在数学和计算机科学的教育体系中，体现理性思维的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中，更常用于技术语境，如编程。",
+        "usage": "例如，在硅谷文化中，permutation 频繁出现在算法讨论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中，略微偏向学术语境，使用频率与美式类似，但强调历史数学传统。",
+        "usage": "在英国教育体系中，常与牛顿时代的数学概念关联"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关，源自拉丁语，反映了欧洲数学发展的历史；在现代，关联计算机科学兴起，如二战后的密码学。",
+    "modernUsage": "在社交媒体和科技平台上，permutation 常用于讨论AI算法或数据处理，体现数字时代的信息组织趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一组钥匙在钥匙环上的不同排列方式，每个排列代表一种顺序变化。",
+      "keyElements": [
+        "钥匙",
+        "钥匙环",
+        "顺序"
+      ],
+      "emotionalConnection": "联结到个人经验，如整理桌面时重新排列物品的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Permutation 听起来像 'permanent rotation'，但它实际是短暂的顺序改变。",
+        "explanation": "通过声音联想和对比，帮助建立语义网络，避免混淆"
+      },
+      {
+        "type": "缩略",
+        "content": "P-E-R-M：Permeate Every Rearrangement Method。",
+        "explanation": "使用首字母缩略结合实际应用，促进视觉和重复记忆"
+      }
+    ],
+    "wordAssociations": [
+      "combination",
+      "sequence",
+      "shuffle",
+      "order"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "permutations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with permutation",
+        "description": "作为名词使用在句子中，表示对象或概念",
+        "examples": [
+          "The permutation of the data is essential."
+        ]
+      },
+      {
+        "pattern": "In [context] permutation",
+        "description": "用于指定语境的短语结构",
+        "examples": [
+          "In genetics, permutation plays a key role."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing permutation with combination",
+        "correction": "Use permutation when order matters; use combination when it does not.",
+        "explanation": "源于语义差异：排列强调顺序，而组合不强调"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add -s for plural (permutations).",
+        "explanation": "英文名词规则简单，但初学者常忽略复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (rank approximately 4500 in COCA corpus)",
+    "domains": [
+      "Mathematics",
+      "Computer Science",
+      "Statistics"
+    ],
+    "tags": [
+      "Technical",
+      "Abstract",
+      "Scientific"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "word": "sievert",
+  "phonetics": {
+    "british": "/ˈsiːvərt/",
+    "american": "/ˈsiːvərt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The SI unit of radiation dose equivalent, equal to the dose that produces the same biological effect as one gray of X-rays or gamma rays.",
+      "chineseTranslation": "希沃特（辐射剂量当量单位，等于1戈瑞的X射线或伽马射线产生的相同生物效应）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "millisievert",
+      "meaning": "毫希沃特（辐射剂量单位，表示千分之一的希沃特）",
+      "example": "Exposure to less than 100 millisieverts per year is generally considered safe.",
+      "exampleTranslation": "每年暴露于少于100毫希沃特通常被认为是安全的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sievert per hour",
+      "meaning": "每小时希沃特（辐射剂量速率单位）",
+      "example": "The radiation level was measured at 0.5 sieverts per hour near the reactor.",
+      "exampleTranslation": "在反应器附近，辐射水平被测量为每小时0.5希沃特。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The annual limit for occupational exposure to radiation is typically set at 20 millisieverts.",
+      "translation": "职业辐射暴露的年度限额通常设置为20毫希沃特。",
+      "source": "Scientific literature, such as reports from the International Commission on Radiological Protection",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In nuclear medicine, doses are often measured in sieverts to assess potential health risks.",
+      "translation": "在核医学中，剂量通常用希沃特测量以评估潜在健康风险。",
+      "source": "Health and safety guidelines from the World Health Organization",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A single chest X-ray exposes a patient to about 0.1 millisieverts of radiation.",
+      "translation": "一次胸部X光检查会让患者暴露于约0.1毫希沃特的辐射。",
+      "source": "Medical texts, such as those from radiology associations",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Modern English, named after Rolf Maximilian Sievert (Swedish medical physicist)",
+    "rootWords": [
+      {
+        "root": "Sievert",
+        "meaning": "Derived from the surname of the physicist",
+        "language": "Swedish/English"
+      }
+    ],
+    "historicalDevelopment": "该词源自20世纪70年代，1977年国际计量单位制（SI）引入希沃特作为辐射剂量当量单位，以纪念Rolf Maximilian Sievert对辐射防护的贡献。从词源上看，它是人名词化过程的例子，由个人成就转化为科学术语。",
+    "firstKnownUse": "1977",
+    "relatedWords": [
+      "gray (another radiation unit)",
+      "becquerel",
+      "rem"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法，将'sievert'与其他辐射单位如'gray'和'becquerel'关联，形成语义网络；通过视觉化记忆，将其与辐射符号或X光图像联系，以增强长时记忆；对于母语为中文的学习者，建议与类似科学术语的汉字（如'戈瑞'）进行对比，以减少认知干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "radiation dose equivalent unit",
+        "similarity": "0.8",
+        "context": "在技术语境中用于描述辐射生物效应的测量单位"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-ionizing radiation unit",
+        "context": "与非电离辐射单位相对，通常在安全评估中"
+      }
+    ],
+    "hypernyms": [
+      "unit of measurement"
+    ],
+    "hyponyms": [
+      "millisievert",
+      "microsievert"
+    ],
+    "collocations": [
+      {
+        "pattern": "sievert + per + time unit",
+        "examples": [
+          "sieverts per hour"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "exposure to + sievert",
+        "examples": [
+          "exposure to 50 sieverts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征现代科学与辐射安全的进步，尤其在核能时代，体现了对健康风险的量化管理；在中文文化中，与核事故如切尔诺贝利或福岛事件相关，隐含了对环境和健康的忧虑。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术报告中",
+        "usage": "在美国英语中，常与联邦法规结合讨论职业安全"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术语境中标准化使用",
+        "usage": "英国英语中，常见于放射学教育和国际标准"
+      }
+    ],
+    "historicalContext": "与20世纪核武器发展和和平利用原子能相关，源自二战后辐射研究的兴起；在中文语境中，与中国核工业历史（如大亚湾核电站）关联，反映了全球性科学合作。",
+    "modernUsage": "在社交媒体和新闻中，特别是在COVID-19后与辐射检测相关，常用于讨论环境污染或医疗辐射；现代趋势显示，其使用增加于气候变化和核能辩论中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个戴着防护服的科学家在核反应堆旁，手持计量仪器，显示出'Sievert'单位。",
+      "keyElements": [
+        "辐射符号",
+        "计量仪器",
+        "防护服"
+      ],
+      "emotionalConnection": "联结个人经验，如观看科幻电影中辐射场景，触发对安全的警惕情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sievert 听起来像 'see vert'，想象 'see a green (vert) radiation wave'。",
+        "explanation": "通过声音联想和视觉图像，帮助记忆词形和含义，基于认知心理学的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-I-E-V-E-R-T：S为Science, I为Ionizing, E为Energy, V为Value, E为Equivalent, R为Radiation, T为Total。",
+        "explanation": "使用首字母缩略法创建故事，增强词汇保留。"
+      }
+    ],
+    "wordAssociations": [
+      "radiation",
+      "dose",
+      "gray",
+      "nuclear"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sieverts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为计量单位，通常在名词短语中出现，例如 'a dose of 10 sieverts'",
+        "examples": [
+          "The exposure was limited to 5 sieverts."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing sievert with gray",
+        "correction": "Use sievert for dose equivalent and gray for absorbed dose",
+        "explanation": "Sievert 强调生物效应，而gray 强调吸收量；学习者常混淆二者，因为两者在辐射科学中相关。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "医疗",
+      "环境"
+    ],
+    "tags": [
+      "辐射",
+      "计量单位",
+      "物理学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

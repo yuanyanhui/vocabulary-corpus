@@ -1,0 +1,225 @@
+{
+  "word": "logarithm",
+  "phonetics": {
+    "british": "/ˈlɒɡ.ə.rɪθ.əm/",
+    "american": "/ˈlɔː.ɡə.rɪð.əm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity representing the power to which a fixed number (the base) must be raised to produce a given number.",
+      "chineseTranslation": "对数",
+      "level": "academic",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "common logarithm",
+      "meaning": "常用对数",
+      "example": "The common logarithm of 100 is 2, since 10 raised to the power of 2 equals 100.",
+      "exampleTranslation": "100的常用对数是2，因为10的2次方等于100。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "natural logarithm",
+      "meaning": "自然对数",
+      "example": "The natural logarithm of e is 1, as e is the base of the natural exponential function.",
+      "exampleTranslation": "e的自然对数是1，因为e是自然指数函数的底数。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the logarithm helps simplify complex calculations involving exponents.",
+      "translation": "在数学中，对数有助于简化涉及指数的复杂计算。",
+      "source": "Educational textbook",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers use logarithms to measure the decibel level of sound in audio systems.",
+      "translation": "工程师们使用对数来测量音频系统中的分贝水平。",
+      "source": "Scientific article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The logarithm function is essential for understanding population growth models in biology.",
+      "translation": "对数函数对于理解生物学中的人口增长模型至关重要。",
+      "source": "Academic paper",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "New Latin",
+    "rootWords": [
+      {
+        "root": "logos",
+        "meaning": "word, reason, or ratio",
+        "language": "Greek"
+      },
+      {
+        "root": "arithmos",
+        "meaning": "number",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自17世纪初由苏格兰数学家John Napier创造的New Latin词汇'logarithmus'，意为'比率的数字'。它结合了希腊词根'logos'（表示比率或计算）和'arithmos'（表示数字），反映了从古代希腊数学到近代科学革命的演变过程。随着微积分和对数表的开发，对数从计算工具演变为现代数学和科学中的核心概念。",
+    "firstKnownUse": "1614",
+    "relatedWords": [
+      "logarithmic",
+      "logarithmetically"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，使用视觉化工具如指数函数图表来建立空间记忆；将对数与现实应用（如地震强度或pH值）关联，以增强语境记忆；采用间隔重复法复习，强化神经元连接以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "log",
+        "similarity": "0.8",
+        "context": "在数学语境中，常用于简写对数，但需注意正式场合下使用完整形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exponent",
+        "context": "在某些语境中，对数与指数互为逆运算，但并非严格反义词，仅在函数关系中适用"
+      }
+    ],
+    "hypernyms": [
+      "mathematical function"
+    ],
+    "hyponyms": [
+      "common logarithm",
+      "natural logarithm"
+    ],
+    "collocations": [
+      {
+        "pattern": "take the logarithm of [number]",
+        "examples": [
+          "Take the logarithm of 100 to base 10."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "logarithmic scale",
+        "examples": [
+          "Data is plotted on a logarithmic scale."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征抽象数学推理和创新，体现了启蒙时代对理性与计算的强调；在非西方文化中，如中国，它常与现代教育和科技进步相关联，代表跨文化知识交流。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "使用较正式的发音和语境",
+        "usage": "在英国教育系统中，常在STEM领域强调其历史重要性"
+      },
+      {
+        "region": "United States",
+        "variation": "发音略有差异，更常用于实际应用如工程",
+        "usage": "在美国，常见于科技产业和大学课程中"
+      }
+    ],
+    "historicalContext": "与科学革命相关联，例如John Napier的发明推动了天文学和导航的发展；在文学和社会中，它代表理性主义，如在H.G. Wells的作品中体现科技进步。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于讨论AI、加密货币等领域，反映数字时代的全球传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个阶梯，每一级代表一个指数幂，对数就是到达特定高度的阶梯编号。",
+      "keyElements": [
+        "阶梯",
+        "幂",
+        "高度"
+      ],
+      "emotionalConnection": "联结到个人经历，如攀登山峰时的成就感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Logarithm: 'Log of the arithmetic'",
+        "explanation": "通过将'logarithm'联想为'日志的算术'，帮助记住其希腊词根和计算性质，基于认知联想原理增强词汇保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/ˈlɒɡ.ə.rɪθ.əm/'像'lock a rhythm'，想象锁住一个节奏的数字序列。",
+        "explanation": "利用声音与视觉联觉，创建多感官记忆路径以改善回忆"
+      }
+    ],
+    "wordAssociations": [
+      "exponent",
+      "base",
+      "power",
+      "function"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "logarithms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + logarithm",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "The logarithm simplifies the equation."
+        ]
+      },
+      {
+        "pattern": "Logarithm of [noun]",
+        "description": "与介词短语搭配表示具体计算",
+        "examples": [
+          "Calculate the logarithm of 10."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing logarithm with exponent",
+        "correction": "Remember that logarithm is the inverse of exponentiation",
+        "explanation": "由于两者互为逆运算，初学者常混淆；通过理解函数关系可避免"
+      },
+      {
+        "mistake": "Mispronouncing as 'log-a-rithm'",
+        "correction": "Use correct IPA: /ˈlɒɡ.ə.rɪθ.əm/",
+        "explanation": "发音错误源于不熟悉音节划分；练习口语可改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 in COCA corpus for academic domains)",
+    "domains": [
+      "Science",
+      "Mathematics",
+      "Engineering"
+    ],
+    "tags": [
+      "Technical",
+      "Mathematical",
+      "Abstract"
+    ],
+    "lastUpdated": "2023-05",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

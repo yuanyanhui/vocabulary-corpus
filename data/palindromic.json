@@ -1,0 +1,231 @@
+{
+  "word": "palindromic",
+  "phonetics": {
+    "british": "/ˌpælɪnˈdrɒmɪk/",
+    "american": "/ˌpælɪnˈdrɑːmɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or exhibiting the characteristics of a palindrome, which is a word, phrase, or sequence that reads the same backward as forward.",
+      "chineseTranslation": "回文的；对称的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "palindromic sequence",
+      "meaning": "回文序列",
+      "example": "In genetics, a palindromic sequence is often found in DNA and is crucial for restriction enzyme recognition.",
+      "exampleTranslation": "在遗传学中，回文序列常出现在DNA中，对限制酶的识别至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "palindromic word",
+      "meaning": "回文词",
+      "example": "A classic example of a palindromic word is 'radar', which remains the same when reversed.",
+      "exampleTranslation": "一个经典的回文词例子是'radar'，它倒过来时保持不变。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The word 'level' is a perfect palindromic example in English literature.",
+      "translation": "单词'level'是英语文学中一个完美的回文例子。",
+      "source": "Literature (e.g., from wordplay in novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computer science, programmers often deal with palindromic strings for algorithm testing.",
+      "translation": "在计算机科学中，程序员经常处理回文字符串来进行算法测试。",
+      "source": "Technical articles (e.g., from sources like Stack Overflow)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Children enjoy creating palindromic phrases as a fun linguistic game.",
+      "translation": "孩子们喜欢创建回文短语作为有趣的语言游戏。",
+      "source": "Educational contexts (e.g., from language learning apps)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek via Latin",
+    "rootWords": [
+      {
+        "root": "palindromos",
+        "meaning": "running back again",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词'palindromos'，意为'再次运行'，通过拉丁语传入英语。最初用于描述诗歌或短语的重复结构，17世纪开始在英语中用于词汇对称性，并逐渐扩展到数学和计算机科学领域。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "palindrome",
+      "symmetric",
+      "reversible"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于多音节和元音变体，如英式和美式的差异可能导致混淆)",
+    "spellingDifficulty": "7 (中等偏高难度，因为拼写较长且不直观，容易误写为'palindrommic')",
+    "meaningComplexity": "5 (中等难度，概念抽象但可通过简单例子可视化)",
+    "usageComplexity": "6 (中等难度，常用于特定语境如文学或技术，需要上下文理解)",
+    "learningTips": [
+      "利用认知科学原理，如将词汇与视觉镜像图像关联，例如想象一个词在镜子中反射；结合重复练习以强化记忆路径；对于中文母语者，建议与汉字对称结构（如'上海自来水来自海上’）进行对比联想，以增强跨语言迁移。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "symmetric",
+        "similarity": "0.7",
+        "context": "适用于描述结构对称的语境，如数学或设计领域"
+      },
+      {
+        "word": "reversible",
+        "similarity": "0.6",
+        "context": "适用于可逆序列的语境，如编程或文学"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asymmetric",
+        "context": "适用于非对称结构的语境，如在设计或数学中"
+      },
+      {
+        "word": "irregular",
+        "context": "适用于非重复模式的语境，如语言学分析"
+      }
+    ],
+    "hypernyms": [
+      "symmetric"
+    ],
+    "hyponyms": [
+      "DNA palindromic sequence"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun (e.g., palindromic sequence)",
+        "examples": [
+          "The palindromic sequence in the genome is essential."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in phrases like 'is palindromic'",
+        "examples": [
+          "This word is palindromic in nature."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征语言游戏和智力挑战，常用于文学（如Lewis Carroll的作品）和谜题中，隐含对对称性和平衡的欣赏；在中文文化中，可与回文诗（如唐诗中的对仗结构）关联，促进跨文化理解。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如计算机科学",
+        "usage": "在美国英语中，强调实际应用，如算法设计"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重文学和历史语境",
+        "usage": "在英国英语中，常与诗歌或历史谜题相关联"
+      }
+    ],
+    "historicalContext": "与古希腊修辞学和拉丁诗歌传统有关，现代在20世纪的数学和计算机领域兴起，例如用于DNA研究，反映了科学与语言的交叉影响。",
+    "modernUsage": "在社交媒体和在线社区中流行，用于分享有趣的回文，例如Twitter上的病毒式内容，体现了数字时代对语言创意的追求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个词语在镜子前反射，保持原样，比如'radar'在镜中看起来相同。",
+      "keyElements": [
+        "镜子反射",
+        "对称形状",
+        "重复图案"
+      ],
+      "emotionalConnection": "联结个人经验，如回想儿时玩的文字游戏，触发积极回忆以增强记忆情感锚点"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'palindromic'联想为'palm in drum'，想象手掌在鼓上敲击并镜像反弹。",
+        "explanation": "通过视觉和动作联想强化记忆，利用认知科学中的双编码理论（视觉+语义）"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音时联想回声效果，如单词在山谷中回荡。",
+        "explanation": "利用声音重复的感官体验，帮助母语为中文的学习者建立听觉记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "symmetry",
+      "mirror",
+      "echo",
+      "reversal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more palindromic",
+      "superlative": "most palindromic"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Adjective + Noun",
+        "description": "作为形容词修饰名词，描述对象的对称特性。",
+        "examples": [
+          "A palindromic poem delights readers."
+        ]
+      },
+      {
+        "pattern": "Subject + Be + Adjective",
+        "description": "用于描述主语的属性。",
+        "examples": [
+          "This sequence is palindromic."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'palindrome' and using as a noun",
+        "correction": "Use as an adjective only, e.g., 'This is a palindromic word'",
+        "explanation": "因为'palindromic'是形容词形式，而'palindrome'是名词，常由中文母语者误用导致句子结构错误"
+      },
+      {
+        "mistake": "Mispronouncing the stress",
+        "correction": "Stress on the third syllable: /ˌpælɪnˈdrɒmɪk/",
+        "explanation": "强调错误可能由于音节复杂而发生，建议通过录音练习纠正"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "Linguistics",
+      "Mathematics",
+      "Computer Science",
+      "Literature"
+    ],
+    "tags": [
+      "Adjective",
+      "Technical",
+      "Symmetry",
+      "Language Games"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

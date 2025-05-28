@@ -1,0 +1,244 @@
+{
+  "word": "negation",
+  "phonetics": {
+    "british": "/nɪˈɡeɪʃən/",
+    "american": "/nɛˈɡeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of denying or nullifying something; the contradiction or opposite of a statement or proposition.",
+      "chineseTranslation": "否定",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In logic, a proposition that asserts the falsity of another proposition.",
+      "chineseTranslation": "逻辑否定",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "logical negation",
+      "meaning": "逻辑否定的意思",
+      "example": "In computer science, logical negation is represented by the 'NOT' operator.",
+      "exampleTranslation": "在计算机科学中，逻辑否定由'NOT'运算符表示。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "double negation",
+      "meaning": "双重否定的意思",
+      "example": "Double negation in grammar can sometimes intensify a statement rather than cancel it.",
+      "exampleTranslation": "在语法中，双重否定有时会加强陈述而不是取消它。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The philosopher's essay focused on the concept of negation in dialectical reasoning.",
+      "translation": "这位哲学家的文章聚焦于辩证推理中的否定概念。",
+      "source": "Philosophical literature, such as works by Hegel",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In everyday conversation, negation can be as simple as saying 'no' to a proposal.",
+      "translation": "在日常对话中，否定可以简单到对一个提议说'不'。",
+      "source": "Colloquial speech, from corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The contract included a clause for the negation of any prior agreements.",
+      "translation": "合同中包括了一个取消任何先前协议的条款。",
+      "source": "Legal documents, from BNC",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "negare",
+        "meaning": "to deny or say no",
+        "language": "Latin"
+      },
+      {
+        "root": "negatio",
+        "meaning": "a denying or negation",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语'negare'（意为否认），演变为中世纪拉丁语'negatio'，传入中古英语后用于表示否定行为；在哲学和逻辑领域，17世纪开始广泛使用，以描述命题的相反性。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "deny",
+      "nullify",
+      "contradict"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用分块学习法将'negation'与逻辑概念关联；通过重复暴露于不同语境中增强记忆；建议使用双语对照表以减少语义混淆，并通过个人反思连接到母语中的类似词汇，如'否定'。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "denial",
+        "similarity": "0.8",
+        "context": "适用于正式语境中的拒绝或反驳，例如法律或辩论中"
+      },
+      {
+        "word": "contradiction",
+        "similarity": "0.7",
+        "context": "适用于学术或哲学语境中的对立观点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "affirmation",
+        "context": "适用于强调正面声明的语境，如法律文件或日常肯定"
+      },
+      {
+        "word": "confirmation",
+        "context": "适用于验证或支持观点的语境"
+      }
+    ],
+    "hypernyms": [
+      "opposition"
+    ],
+    "hyponyms": [
+      "logical negation",
+      "grammatical negation"
+    ],
+    "collocations": [
+      {
+        "pattern": "negation of + noun",
+        "examples": [
+          "negation of rights",
+          "negation of truth"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in negation",
+        "examples": [
+          "in logical negation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征辩证思维的核心，如黑格尔辩证法中的否定阶段，代表变革和进步；在东方文化中，可能与道家思想的阴阳对立相呼应。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更倾向于哲学和文学语境中使用",
+        "usage": "在英国英语中，常见于学术讨论，以强调理性辩论"
+      },
+      {
+        "region": "美国",
+        "variation": "在科技和日常语境中更常见",
+        "usage": "在美国英语中，常用于计算机编程或非正式对话，以突出否定功能"
+      }
+    ],
+    "historicalContext": "与启蒙运动和现代哲学相关联，例如康德和黑格尔的著作中，'negation'代表知识批判；在文学中，如莎士比亚作品，体现为人物的内在冲突。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线辩论或AI算法中，用于表示反驳或逻辑运算的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个红色的停止标志上写着'NO'，周围是混乱的辩论场景。",
+      "keyElements": [
+        "停止标志",
+        "辩论",
+        "反转符号"
+      ],
+      "emotionalConnection": "联结到个人经历中曾被拒绝的时刻，以触发负面情绪记忆，帮助强化词汇"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'negation'联想为'negative action'，如一个手势说不。",
+        "explanation": "通过视觉联想增强认知连接，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音'/nɛˈɡeɪʃən/'听起来像'nega-shun'，联想到'negative situation'。",
+        "explanation": "利用声音和语义关联，促进海马体记忆编码"
+      }
+    ],
+    "wordAssociations": [
+      "deny",
+      "opposite",
+      "refute"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "negations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + negation",
+        "description": "主语+动词+否定结构，常用于句子中表示反驳",
+        "examples": [
+          "The theory involves negation of previous assumptions."
+        ]
+      },
+      {
+        "pattern": "In + negation + of + noun",
+        "description": "在+否定+的+名词结构，用于正式表达",
+        "examples": [
+          "In negation of the law, he acted independently."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing negation with negative",
+        "correction": "Use 'negation' for the act, not the adjective form",
+        "explanation": "学习者常混淆'negation'和'negative'，应注意词性差异以避免语义错误"
+      },
+      {
+        "mistake": "Overusing in informal speech",
+        "correction": "Reserve for formal contexts",
+        "explanation": "中级学习者可能在非正式场合误用，建议通过语境练习区分语域"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "philosophy",
+      "logic",
+      "law",
+      "technology"
+    ],
+    "tags": [
+      "abstract",
+      "logical",
+      "philosophical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

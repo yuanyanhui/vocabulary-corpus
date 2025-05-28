@@ -1,0 +1,273 @@
+{
+  "word": "cylinder",
+  "phonetics": {
+    "british": "/ˈsɪlɪndə(r)/",
+    "american": "/ˈsɪlɪndər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A solid or hollow geometrical figure with straight parallel sides and a circular or oval cross-section.",
+      "chineseTranslation": "圆柱体",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A cylindrical container or object, such as a can or tube.",
+      "chineseTranslation": "圆柱形容器或物体",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The chamber in which a piston moves in an engine or pump.",
+      "chineseTranslation": "汽缸或活塞室",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A cylindrical musical instrument, such as a drum.",
+      "chineseTranslation": "圆柱形的乐器，如鼓",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cylinder head",
+      "meaning": "发动机中的汽缸盖",
+      "example": "The mechanic replaced the cylinder head to fix the engine leak.",
+      "exampleTranslation": "机械师更换了汽缸盖来修复引擎泄漏。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hydraulic cylinder",
+      "meaning": "液压系统中的圆柱形装置",
+      "example": "The hydraulic cylinder powers the lift in the construction equipment.",
+      "exampleTranslation": "液压缸为建筑设备中的升降机提供动力。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "gas cylinder",
+      "meaning": "气体储存的圆柱形罐",
+      "example": "Always handle a gas cylinder with care to prevent accidents.",
+      "exampleTranslation": "总是小心处理气体罐以防止事故。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer designed a new cylinder for the prototype engine.",
+      "translation": "工程师为原型引擎设计了一个新的汽缸。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She placed the documents inside a metal cylinder for safekeeping.",
+      "translation": "她将文件放入一个金属圆柱体中以安全保存。",
+      "source": "Modern literature (e.g., from BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In geometry class, we learned about the volume of a cylinder.",
+      "translation": "在几何课上，我们学习了圆柱体的体积。",
+      "source": "Educational context (e.g., from academic corpora)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The ancient artifact was shaped like a decorative cylinder.",
+      "translation": "这个古代文物形状像一个装饰性的圆柱体。",
+      "source": "Historical text (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "cylindrus",
+        "meaning": "A roller or cylinder",
+        "language": "Latin"
+      },
+      {
+        "root": "kylindros",
+        "meaning": "To roll",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词 'kylindros'，意为滚动或滚筒，经由拉丁语 'cylindrus' 传入英语，于14世纪中叶进入英语，用于描述几何形状和机械部件，随着工业革命，该词扩展到工程领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "cylindrical",
+      "cylinder-shaped",
+      "cylindroid"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象一个易滚动的圆柱体罐头，以强化空间记忆；对于中文母语学习者，建议通过比较 '圆柱体' 与 'cylinder' 的相似形状进行联想，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tube",
+        "similarity": "0.7",
+        "context": "在非技术语境中，用于描述类似形状的物体"
+      },
+      {
+        "word": "canister",
+        "similarity": "0.8",
+        "context": "在容器语境中，常用于储存物品"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cube",
+        "context": "在几何语境中，表示非圆柱形的立体"
+      },
+      {
+        "word": "sphere",
+        "context": "在形状对比语境中，表示球形物体"
+      }
+    ],
+    "hypernyms": [
+      "shape",
+      "container"
+    ],
+    "hyponyms": [
+      "piston cylinder",
+      "gas cylinder"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + cylinder (e.g., metal cylinder)",
+        "examples": [
+          "a steel cylinder",
+          "an engine cylinder"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Cylinder + of + noun (e.g., cylinder of gas)",
+        "examples": [
+          "cylinder of oxygen"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征工业化和现代技术，常与蒸汽机时代和汽车发明相关联；在中文文化中，类似概念见于古籍中的 '柱' 或现代工程术语，但无显著隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于机械和日常物体",
+        "usage": "在美式英语中，强调工程应用，如 'cylinder in a car engine'"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更侧重几何学语境",
+        "usage": "在英式英语中，常用于教育和科学讨论，如 'cylinder in mathematics'"
+      }
+    ],
+    "historicalContext": "与工业革命相关，首次在英国用于描述蒸汽机部件；在文学中，如狄更斯作品中出现，反映社会变革。",
+    "modernUsage": "在社交媒体和科技语境下流行，例如在线教程讨论3D打印中的圆柱体。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个滚动中的金属罐头，如易拉罐在平面上滚动。",
+      "keyElements": [
+        "滚动动作",
+        "圆形末端",
+        "直线侧面"
+      ],
+      "emotionalConnection": "联结到个人经验，如喝过汽水罐，触发熟悉感和趣味性以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Cylinder sounds like 'silly under' – imagine something silly hiding under a cylinder shape.",
+        "explanation": "通过幽默联想帮助记忆发音和形状，避免混淆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 'cyl' 联想为 'cycle' 的部分，想象自行车轮胎的圆柱形。",
+        "explanation": "利用声音相似性强化词汇与日常物体的连接，提升认知保留。"
+      }
+    ],
+    "wordAssociations": [
+      "tube",
+      "roll",
+      "engine"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "cylinders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + cylinder",
+        "description": "作为主语或宾语出现",
+        "examples": [
+          "The cylinder rotates quickly."
+        ]
+      },
+      {
+        "pattern": "Adjective + cylinder",
+        "description": "用形容词修饰",
+        "examples": [
+          "A large cylinder stood in the corner."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'cylinder' as a verb",
+        "correction": "Use as a noun only",
+        "explanation": "Cylinder is primarily a noun; avoid using it as a verb in standard English."
+      },
+      {
+        "mistake": "Misspelling as 'sylinder'",
+        "correction": "Correct spelling is 'cylinder'",
+        "explanation": "Common for non-native speakers due to phonetic influence from other languages."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "engineering",
+      "mathematics",
+      "daily life"
+    ],
+    "tags": [
+      "geometry",
+      "mechanics",
+      "objects"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

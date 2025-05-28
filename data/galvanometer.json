@@ -1,0 +1,231 @@
+{
+  "word": "galvanometer",
+  "phonetics": {
+    "british": "/ˌɡælvəˈnɒmɪtə/",
+    "american": "/ˌɡælvəˈnɑːmɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instrument used for detecting and measuring small electric currents.",
+      "chineseTranslation": "检流计",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "moving coil galvanometer",
+      "meaning": "活动线圈检流计",
+      "example": "The moving coil galvanometer is commonly used in physics experiments to measure current.",
+      "exampleTranslation": "活动线圈检流计常用于物理实验中测量电流。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "ballistic galvanometer",
+      "meaning": "弹道检流计",
+      "example": "A ballistic galvanometer is designed to measure the charge of a pulse of current.",
+      "exampleTranslation": "弹道检流计被设计用于测量电流脉冲的电荷。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist used a galvanometer to detect the tiny electric current in the circuit.",
+      "translation": "科学家使用检流计检测电路中的微弱电流。",
+      "source": "Scientific literature, such as physics textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the laboratory, the galvanometer showed a deflection when the wire was connected to the battery.",
+      "translation": "在实验室中，当将导线连接到电池时，检流计显示出偏转。",
+      "source": "Educational contexts, e.g., from BBC educational resources",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers rely on the galvanometer for precise measurements in electronic devices.",
+      "translation": "工程师们依赖检流计在电子设备中进行精确测量。",
+      "source": "Technical articles from IEEE publications",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin and Italian",
+    "rootWords": [
+      {
+        "root": "galvan-",
+        "meaning": "Related to Luigi Galvani, the Italian scientist",
+        "language": "Italian"
+      },
+      {
+        "root": "-meter",
+        "meaning": "Measuring instrument",
+        "language": "Greek (from metron, meaning measure)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于18世纪末的意大利科学家Luigi Galvani的发现，他研究动物电现象；随后在19世纪初，词语演变为galvanometer，用于描述测量电流的仪器，从最初的生物学语境扩展到物理学领域。",
+    "firstKnownUse": "Around 1801, in scientific writings",
+    "relatedWords": [
+      "galvanism",
+      "galvanize"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR level, as it requires specialized knowledge in science)",
+    "pronunciationDifficulty": "6 (1-10 scale; moderate due to the multisyllabic structure and vowel shifts between British and American variants)",
+    "spellingDifficulty": "7 (1-10 scale; challenging because of the less common 'ph' and 'meter' endings, which may confuse second language learners)",
+    "meaningComplexity": "8 (1-10 scale; involves technical concepts in physics, making semantic abstraction difficult for intermediates)",
+    "usageComplexity": "7 (1-10 scale; primarily used in scientific contexts, requiring understanding of domain-specific applications)",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将词分解为'galvan-'和'-meter'，并通过视觉化实验场景（如想象实验室仪器）增强长期记忆；同时，练习关联性学习，将其与日常生活电器联系起来以减少抽象性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ammeter",
+        "similarity": "0.7",
+        "context": "适用于测量电流的科学语境，但ammeter更专注于直流电流"
+      },
+      {
+        "word": "voltmeter",
+        "similarity": "0.6",
+        "context": "在电气测量领域使用，但专注于电压而非电流"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ohmmeter",
+        "context": "在测量电阻的电气语境中，与galvanometer的电流测量功能相对"
+      }
+    ],
+    "hypernyms": [
+      "instrument",
+      "meter"
+    ],
+    "hyponyms": [
+      "moving coil galvanometer",
+      "D'Arsonval galvanometer"
+    ],
+    "collocations": [
+      {
+        "pattern": "galvanometer + in + context",
+        "examples": [
+          "galvanometer in physics experiments"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "use + galvanometer + to + verb",
+        "examples": [
+          "use a galvanometer to measure current"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征着科学革命和电气时代的进步，隐含了启蒙运动的精神，与西方科学文化紧密相关，常用于教育中强调创新。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在工程和技术语境中",
+        "usage": "在美国英语中，galvanometer常与现代电子学结合，使用频率略高于英国"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于历史科学语境",
+        "usage": "在英国英语中，常与物理学历史（如Galvani的贡献）相关联"
+      }
+    ],
+    "historicalContext": "与18世纪的欧洲科学启蒙相关，特别是Luigi Galvani的动物电实验，影响了现代电学发展，并出现在文学如Mary Shelley's 'Frankenstein'中。",
+    "modernUsage": "在社交媒体和在线教育平台如YouTube或Khan Academy中，galvanometer用于讨论STEM教育，体现了全球科学传播趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个实验室场景：一位科学家手持一个指针转动的仪器，检测电路中的电流流动。",
+      "keyElements": [
+        "指针转动",
+        "电路",
+        "科学家"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时玩电子套件，触发好奇心和成就感以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Galvanometer sounds like 'galvanize meter' – think of it as a meter that 'galvanizes' or energizes your measurement of electricity.",
+        "explanation": "通过声音联想将galvan-与'galvanize'（刺激）连接，结合视觉图像帮助认知加工和记忆保留"
+      },
+      {
+        "type": "缩略",
+        "content": "G-Meter: G for Galvani, Meter for measurement.",
+        "explanation": "使用缩略形式简化词汇，基于认知负荷理论减少记忆负担"
+      }
+    ],
+    "wordAssociations": [
+      "electricity",
+      "meter",
+      "galvanize",
+      "current"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "galvanometers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + galvanometer",
+        "description": "典型主谓结构中作为宾语使用",
+        "examples": [
+          "The galvanometer measures the current."
+        ]
+      },
+      {
+        "pattern": "galvanometer + in + prepositional phrase",
+        "description": "用于描述语境的介词短语",
+        "examples": [
+          "The galvanometer in the lab is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'voltmeter'",
+        "correction": "Use 'galvanometer' for current measurement",
+        "explanation": "学习者常混淆类似科学术语；建议通过语义区分练习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "galvanometers (add -s)",
+        "explanation": "作为可数名词，需正确添加复数形式以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "物理学",
+      "工程"
+    ],
+    "tags": [
+      "科学仪器",
+      "电气测量",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "word": "default",
+  "phonetics": {
+    "british": "/dɪˈfɔːlt/",
+    "american": "/dɪˈfɔːlt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A preselected option adopted by a computer program or system when no alternative is specified by the user.",
+      "chineseTranslation": "默认值",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Failure to fulfill an obligation, especially to repay a loan or appear in a court of law.",
+      "chineseTranslation": "违约",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "Fail to fulfill an obligation or pay a debt.",
+      "chineseTranslation": "违约；不履行",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Used or supplied as a default.",
+      "chineseTranslation": "默认的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by default",
+      "meaning": "默认情况下",
+      "example": "The system installs the software by default.",
+      "exampleTranslation": "系统默认安装软件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in default of",
+      "meaning": "由于缺少或没有",
+      "example": "In default of evidence, the case was dismissed.",
+      "exampleTranslation": "由于缺乏证据，案件被驳回。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "default on",
+      "meaning": "违约或未履行",
+      "example": "The company defaulted on its loan payments.",
+      "exampleTranslation": "公司未履行贷款付款义务。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In most applications, the default font is set to Arial.",
+      "translation": "在大多数应用程序中，默认字体设置为Arial。",
+      "source": "Technology documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He was declared in default after failing to appear in court.",
+      "translation": "他因未出庭而被宣布违约。",
+      "source": "Legal texts (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The settings can be changed from the default options.",
+      "translation": "设置可以从默认选项中更改。",
+      "source": "General news articles",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old French 'defaut', from Latin 'defectus' (failure, want)",
+    "rootWords": [
+      {
+        "root": "defect-",
+        "meaning": "Failure or desertion",
+        "language": "Latin"
+      },
+      {
+        "root": "de-",
+        "meaning": "Away from or down from",
+        "language": "Latin"
+      },
+      {
+        "root": "facere",
+        "meaning": "To do or make",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "起源于拉丁语 'deficere'（意为失败或遗弃），在中世纪英语中演变为表示缺失或失败的概念；17世纪后扩展到法律和商业语境；20世纪随着计算机技术的兴起，发展出技术含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "defect",
+      "deficient",
+      "defy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用认知科学中的分块法（chunking）将 'default' 与具体场景关联，如将技术含义与计算机图标联结；",
+      "结合重复暴露（spaced repetition）复习不同语境下的用法，以增强长期记忆；",
+      "通过双编码（dual coding）将词汇与视觉图像配对，例如想象一个'默认'按钮来记忆其技术含义。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "standard",
+        "similarity": "0.7",
+        "context": "在技术语境中，表示预设选项，如软件设置"
+      },
+      {
+        "word": "failure",
+        "similarity": "0.6",
+        "context": "在法律语境中，表示未履行义务"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fulfillment",
+        "context": "在法律语境中，表示成功履行义务"
+      },
+      {
+        "word": "custom",
+        "context": "在技术语境中，表示用户自定义选项"
+      }
+    ],
+    "hypernyms": [
+      "failure",
+      "option"
+    ],
+    "hyponyms": [
+      "system default",
+      "payment default"
+    ],
+    "collocations": [
+      {
+        "pattern": "default + noun (e.g., default settings)",
+        "examples": [
+          "default settings",
+          "default mode"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + default (e.g., set to default)",
+        "examples": [
+          "reset to default"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着可靠性和便利性，尤其在技术领域；但在法律语境中，可能隐含负面含义，如财务失信。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件默认值",
+        "usage": "在美国英语中，强调日常数字生活中的应用"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向正式语境，如法律违约",
+        "usage": "在英国英语中，常与历史法律传统相关联"
+      }
+    ],
+    "historicalContext": "与工业革命和现代法律体系相关联，例如在19世纪英国的债务法中出现；如今，在全球化背景下，常与数字文化（如互联网协议）相联系。",
+    "modernUsage": "在社交媒体和在线平台中流行，例如讨论软件更新或金融危机时使用，反映了当代数字社会的依赖性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个计算机屏幕上带有'默认'按钮的场景，用户点击它来选择预设选项。",
+      "keyElements": [
+        "按钮图标",
+        "预设选项",
+        "失败警示"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆软件安装时的默认设置，以触发熟悉感和挫败感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'default' 联想为 'defeat fault'（失败的错误），帮助记忆其违约含义。",
+        "explanation": "通过声音联想（音联觉）强化词汇与负面结果的关联，提升记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "D-E-F-A-U-L-T 代表 'Do Everything From Automatic User Level Tool'。",
+        "explanation": "使用首字母缩略法结合技术语境，基于认知负载理论减少记忆负担。"
+      }
+    ],
+    "wordAssociations": [
+      "setting",
+      "failure",
+      "automatic"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "defaults",
+      "pastTense": "defaulted",
+      "pastParticiple": "defaulted",
+      "presentParticiple": "defaulting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + default",
+        "description": "主语加动词加 'default' 的结构，常用于表示动作。",
+        "examples": [
+          "The bank defaulted on the loan."
+        ]
+      },
+      {
+        "pattern": "Noun + of + default",
+        "description": "名词加 'of default' 的结构，表示所属关系。",
+        "examples": [
+          "In case of default, penalties apply."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'default' with 'defect'",
+        "correction": "Use 'default' for failure to act or preselected option",
+        "explanation": "二者虽同源，但 'defect' 指缺陷，而 'default' 指未履行；基于语义网络理论，避免混淆语境。"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Ensure proper tense, e.g., 'defaulted' for past",
+        "explanation": "初级学习者常忽略动词变化；通过句法模式练习可纠正。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "law",
+      "finance",
+      "business"
+    ],
+    "tags": [
+      "computing",
+      "legal",
+      "obligation",
+      "preselection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

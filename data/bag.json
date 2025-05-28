@@ -1,0 +1,268 @@
+{
+  "word": "bag",
+  "phonetics": {
+    "british": "/bæɡ/",
+    "american": "/bæɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A flexible container with an opening at one end, used for carrying or storing items.",
+      "chineseTranslation": "袋子；包",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A piece of luggage for carrying clothes and other items when traveling.",
+      "chineseTranslation": "旅行袋；手提包",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put into a bag or bags.",
+      "chineseTranslation": "把…装入袋子",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "Informal: To catch or kill, especially in hunting or slang contexts.",
+      "chineseTranslation": "捕获；杀死（非正式用法）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bag of tricks",
+      "meaning": "技巧或方法的集合",
+      "example": "Every magician has a bag of tricks up their sleeve.",
+      "exampleTranslation": "每个魔术师都袖藏一袋技巧。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "in the bag",
+      "meaning": "已经稳操胜券或确定成功",
+      "example": "Once we signed the contract, the deal was in the bag.",
+      "exampleTranslation": "一旦我们签署了合同，这笔交易就稳操胜券了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "pack one's bags",
+      "meaning": "收拾行李准备离开",
+      "example": "After the argument, he decided to pack his bags and leave.",
+      "exampleTranslation": "争吵后，他决定收拾行李离开。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She carried her books in a small canvas bag.",
+      "translation": "她用一个小帆布袋携带书籍。",
+      "source": "Daily conversation (e.g., from everyday English corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The hunter managed to bag a deer during the early morning hunt.",
+      "translation": "猎人在清晨狩猎中成功捕获了一头鹿。",
+      "source": "Literature (e.g., inspired by works like those in the Oxford English Corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In urban areas, people often use reusable bags to reduce environmental impact.",
+      "translation": "在城市地区，人们经常使用可重复利用的袋子来减少环境影响。",
+      "source": "News articles (e.g., from BBC or environmental reports)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After shopping, he bagged the groceries and headed home.",
+      "translation": "购物后，他把杂货装进袋子然后回家。",
+      "source": "Informal dialogue (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Old Norse",
+    "rootWords": [
+      {
+        "root": "baggi",
+        "meaning": "A bundle or pack",
+        "language": "Old Norse"
+      }
+    ],
+    "historicalDevelopment": "源自古诺尔斯语 'baggi'，意为包裹或包袱。传入中古英语后演变为 'bagge'，逐渐扩展到现代英语中，表示各种柔性容器。从中世纪开始，该词在贸易和旅行语境中广泛使用，并发展出动词形式。",
+    "firstKnownUse": "约 13 世纪",
+    "relatedWords": [
+      "baggage",
+      "baggy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1 (CEFR)",
+    "pronunciationDifficulty": "3 (1-10, 由于简单的元音和辅音组合，对中文母语者易于掌握)",
+    "spellingDifficulty": "2 (1-10, 拼写简单，无复杂字母组合)",
+    "meaningComplexity": "4 (1-10, 基本含义直观，但习语可能增加复杂度)",
+    "usageComplexity": "5 (1-10, 作为名词常见，作为动词需注意语境)",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'bag' 与日常物品如购物袋联系；使用间隔重复法复习多义词；针对中文母语者，强调元音 /æ/ 与汉语中类似音的差异以增强记忆巩固。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sack",
+        "similarity": "0.8",
+        "context": "适用于较大容器的语境，如 'a sack of potatoes'（一袋土豆）"
+      },
+      {
+        "word": "pouch",
+        "similarity": "0.7",
+        "context": "适用于小型或口袋状容器，如 'a pouch for coins'（一个硬币袋）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "empty",
+        "context": "在容器语境中，表示无内容，如 'an empty bag versus a full one'（空袋子与满袋子）"
+      },
+      {
+        "word": "box",
+        "context": "对比刚性容器，如 'a bag versus a rigid box'（柔性袋子与刚性盒子）"
+      }
+    ],
+    "hypernyms": [
+      "container"
+    ],
+    "hyponyms": [
+      "backpack",
+      "handbag",
+      "duffel bag"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + of + Noun (e.g., bag of flour)",
+        "examples": [
+          "a bag of flour",
+          "a bag of tricks"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + bag (e.g., pack a bag)",
+        "examples": [
+          "pack a bag",
+          "carry a bag"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'bag' 象征便携性和实用性，如美国文化中的购物袋强调环保意识，而英国文化中可能与传统手工艺相关。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于非正式语境，如 'paper bag' 在超市常见",
+        "usage": "在日常商业中强调可重复利用"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向 'bag' 的传统形式，如 'carrier bag'",
+        "usage": "在社交语境中用于礼节性表达"
+      }
+    ],
+    "historicalContext": "与工业革命相关的贸易和殖民主义背景中，'bag' 成为运输象征；在文学如狄更斯的作品中，常代表社会阶层。",
+    "modernUsage": "在社交媒体和环保运动中流行，如 #ZeroWasteBag，反映当代可持续性趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个旅行者手持一个彩色背包，里面装满日常物品。",
+      "keyElements": [
+        "旅行者",
+        "彩色背包",
+        "日常物品"
+      ],
+      "emotionalConnection": "联结个人旅行经验，如回忆自己的行李打包过程，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'bag' 联想为 'back and go'，表示背起包就出发。",
+        "explanation": "通过简单联想强化词汇与动作的连接，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /bæɡ/ 听起来像 '跋扈' 的英文音，联想到携带重物行走。",
+        "explanation": "利用声音相似性帮助中文母语者记忆，结合多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "backpack",
+      "luggage",
+      "sack"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bags",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "bagging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object (e.g., She bags the items)",
+        "description": "主语 + 动词 + 宾语结构，常用于动词形式",
+        "examples": [
+          "She bags the groceries."
+        ]
+      },
+      {
+        "pattern": "Noun Phrase (e.g., a leather bag)",
+        "description": "名词短语结构，常用于描述性语境",
+        "examples": [
+          "The red bag on the table."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'bag' with 'beg' in pronunciation",
+        "correction": "Pronounce as /bæɡ/, not /bɛɡ/",
+        "explanation": "中文母语者可能混淆元音，需练习辨音"
+      },
+      {
+        "mistake": "Using 'bag' incorrectly in idioms",
+        "correction": "Ensure context matches, e.g., 'in the bag' means certain success",
+        "explanation": "习语需通过语境学习，避免字面翻译"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "日常用品",
+      "旅行",
+      "商业"
+    ],
+    "tags": [
+      "容器",
+      "实用词汇",
+      "习语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "word": "factorable",
+  "phonetics": {
+    "british": "/ˈfæk.tər.ə.bəl/",
+    "american": "/ˈfæk.tɚ.ə.bəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being factored or decomposed into factors, especially in mathematics, such as a polynomial that can be expressed as a product of simpler polynomials.",
+      "chineseTranslation": "可以分解的；可因式分解的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "factorable polynomial",
+      "meaning": "可以因式分解的多项式",
+      "example": "A factorable polynomial can be broken down into linear factors.",
+      "exampleTranslation": "一个可因式分解的多项式可以分解成线性因子。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "factorable matrix",
+      "meaning": "可以进行因式分解的矩阵",
+      "example": "In linear algebra, a factorable matrix is often used in eigenvalue problems.",
+      "exampleTranslation": "在线性代数中，可因式分解的矩阵常用于特征值问题。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The quadratic equation x² - 4 is factorable into (x - 2)(x + 2).",
+      "translation": "二次方程 x² - 4 可以因式分解为 (x - 2)(x + 2)。",
+      "source": "Mathematical textbook (e.g., from educational resources like Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Not all cubic equations are factorable over the real numbers.",
+      "translation": "并非所有三次方程都在实数范围内可以因式分解。",
+      "source": "Academic paper (e.g., from journals like the American Mathematical Society)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In cryptography, factorable keys can pose security risks.",
+      "translation": "在密码学中，可因式分解的密钥可能带来安全风险。",
+      "source": "Technical article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "fac-",
+        "meaning": "to do or make",
+        "language": "Latin"
+      },
+      {
+        "root": "factor",
+        "meaning": "maker or doer",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The word derives from the Latin 'factor' (from 'facere', meaning 'to do or make'), which entered English in the 15th century. The suffix '-able' (from Old French '-able', ultimately from Latin '-abilis') indicates capability. 'Factorable' emerged in the 19th century in mathematical contexts to describe expressions that can be decomposed, evolving from general usage in algebra to specialized applications in modern mathematics.",
+    "firstKnownUse": "19th century",
+    "relatedWords": [
+      "factor",
+      "factoring",
+      "decomposable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用认知科学中的分块学习法，将词汇与数学概念关联，例如将 'factorable' 想象为一个可以拆分的积木；结合重复间隔复习，以强化对技术术语的记忆；通过视觉映射，将词汇与图形表示（如因式分解图）联系，以提升语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "decomposable",
+        "similarity": "0.8",
+        "context": "在数学语境中，用于描述可以分解成更简单成分的元素"
+      },
+      {
+        "word": "resolvable",
+        "similarity": "0.7",
+        "context": "在技术领域中，表示可以解决或分解的结构"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irreducible",
+        "context": "在代数语境中，用于描述不能进一步分解的表达式"
+      },
+      {
+        "word": "prime",
+        "context": "在数论中，指不能因式分解的数字"
+      }
+    ],
+    "hypernyms": [
+      "decomposable",
+      "analyzable"
+    ],
+    "hyponyms": [
+      "factorable polynomial",
+      "factorable integer"
+    ],
+    "collocations": [
+      {
+        "pattern": "factorable + noun (e.g., polynomial, equation)",
+        "examples": [
+          "factorable equation",
+          "factorable matrix"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + factorable + by/in",
+        "examples": [
+          "is factorable by real numbers"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词主要在学术和科学领域有象征意义，代表数学逻辑和问题解决能力的隐含语义，在西方教育文化中强调分析性思维，但缺乏广泛的文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于教育和科技语境中",
+        "usage": "在美国英语中，常在STEM教育中出现，以强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在历史数学文献中更正式",
+        "usage": "在英国英语中，常与传统数学理论关联"
+      }
+    ],
+    "historicalContext": "与19世纪的数学革命相关，如代数和群论的发展，在工业革命后的西方文化中，体现了对精确性和分解的重视。",
+    "modernUsage": "在现代社交和数字媒体中，主要出现在在线教育平台和科技讨论中，如YouTube教程或Reddit论坛，反映了全球STEM教育的普及趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个积木塔，可以轻松拆分成小块的场景。",
+      "keyElements": [
+        "积木",
+        "分解",
+        "塔状结构"
+      ],
+      "emotionalConnection": "联结到个人经验，如拼图游戏的成就感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Factorable sounds like 'factory able', meaning something a factory can break down into parts.",
+        "explanation": "通过声音联想将词汇与工厂生产过程连接，运用认知科学中的双编码理论（视觉和听觉结合）以增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "F-A-C-T: Factor And Can Be Taken apart.",
+        "explanation": "使用首字母缩略法，结合空间记忆技巧，将其放置在心智宫殿中"
+      }
+    ],
+    "wordAssociations": [
+      "factor",
+      "decompose",
+      "breakdown"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more factorable",
+      "superlative": "most factorable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + factorable + [prepositional phrase]",
+        "description": "形容词修饰主语，常与介词短语结合表示条件",
+        "examples": [
+          "The equation is factorable over the reals."
+        ]
+      },
+      {
+        "pattern": "factorable + noun",
+        "description": "用作定语修饰名词",
+        "examples": [
+          "A factorable polynomial simplifies calculations."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'factored' (verb form)",
+        "correction": "Use 'factorable' as an adjective for capability",
+        "explanation": "学习者常混淆动词和形容词形式；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overgeneralizing to non-mathematical contexts",
+        "correction": "Limit to technical usage",
+        "explanation": "由于语义复杂度，避免在非专业语境中使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked below 50,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "science",
+      "technology"
+    ],
+    "tags": [
+      "mathematical term",
+      "adjective",
+      "technical vocabulary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

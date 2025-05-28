@@ -1,0 +1,257 @@
+{
+  "word": "polymorphism",
+  "phonetics": {
+    "british": "/ˌpɒlɪˈmɔːfɪzəm/",
+    "american": "/ˌpɑːlɪˈmɔːrfɪzəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, the occurrence of two or more clearly different forms (such as morphs) in the phenotype of a species.",
+      "chineseTranslation": "在生物学中，多形性，指一个物种中出现两种或多种明显不同的形态。",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer science, a principle in object-oriented programming where objects of different classes can be treated as objects of a common superclass.",
+      "chineseTranslation": "在计算机科学中，多态性，指面向对象编程中的一种原则，允许不同类的对象被视为同一超类的对象。",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability of a substance to exist in more than one crystal structure.",
+      "chineseTranslation": "在化学中，指物质存在多种晶体结构的能力。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "genetic polymorphism",
+      "meaning": "遗传多形性",
+      "example": "Genetic polymorphism is a key factor in human evolution.",
+      "exampleTranslation": "遗传多形性是人类进化的关键因素。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "runtime polymorphism",
+      "meaning": "运行时多态性",
+      "example": "Runtime polymorphism allows for more flexible code in object-oriented languages.",
+      "exampleTranslation": "运行时多态性使面向对象语言的代码更灵活。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "polymorphism in crystals",
+      "meaning": "晶体多形性",
+      "example": "Polymorphism in crystals can affect the material's properties.",
+      "exampleTranslation": "晶体多形性会影响材料的特性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study of genetic polymorphism has revolutionized medical research.",
+      "translation": "遗传多形性的研究已经彻底改变了医学研究。",
+      "source": "Scientific journal (e.g., Nature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In Java, polymorphism enables methods to be used with different data types.",
+      "translation": "在Java中，多态性允许方法与不同数据类型一起使用。",
+      "source": "Programming tutorial (e.g., online education platforms)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Polymorphism in minerals like carbon results in forms such as diamond and graphite.",
+      "translation": "碳等矿物质的多形性导致了如钻石和石墨等形式。",
+      "source": "Geology textbook",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "poly",
+        "meaning": "many",
+        "language": "Greek"
+      },
+      {
+        "root": "morphe",
+        "meaning": "form or shape",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自希腊语的'poly'（多）和'morphe'（形式），通过拉丁语和法语传入英语。最初用于生物学中描述物种变异，19世纪扩展到化学和计算机科学领域，随着科学术语的标准化而演变。",
+    "firstKnownUse": "1839",
+    "relatedWords": [
+      "polymorph",
+      "isomorphism",
+      "metamorphism"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "8",
+    "usageComplexity": "9",
+    "learningTips": [
+      "根据认知科学原理，利用分块学习法将词汇分解为词根'poly'和'morphe'，并与熟悉的科学概念关联；通过重复暴露于真实语境中增强记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multiformity",
+        "similarity": "0.8",
+        "context": "适用于生物学语境中描述多种形态的变异"
+      },
+      {
+        "word": "pleomorphism",
+        "similarity": "0.9",
+        "context": "常用于微生物学中，与多形性类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "monomorphism",
+        "context": "适用于强调单一形式的语境，如在生物学中对比多形性"
+      }
+    ],
+    "hypernyms": [
+      "variation",
+      "diversity"
+    ],
+    "hyponyms": [
+      "ad-hoc polymorphism",
+      "parametric polymorphism"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + in + field",
+        "examples": [
+          "polymorphism in biology",
+          "polymorphism in programming"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + polymorphism",
+        "examples": [
+          "genetic polymorphism",
+          "runtime polymorphism"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征创新和适应性，尤其在生物学和计算机科学领域，体现了现代科技对多样性的强调，但在中国文化语境中，可能与中医的'变异'概念有隐含关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于计算机科学语境",
+        "usage": "在美国英语中，强调技术应用，如软件开发"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更偏向生物学和化学语境",
+        "usage": "在英国英语中，常见于学术出版物"
+      }
+    ],
+    "historicalContext": "与19世纪的达尔文进化论和20世纪的计算机革命相关，反映了科学范式的转变。",
+    "modernUsage": "在社交媒体和在线教育中，常见于技术讨论和科普文章中，体现了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个形状多变的物体，如一个变色龙在不同环境中变换形态，同时与计算机代码图标结合。",
+      "keyElements": [
+        "变色龙",
+        "代码图标",
+        "多变形状"
+      ],
+      "emotionalConnection": "联结到个人经历，如学习编程时的挫败感，转而激发成就感。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Poly means many, like a polygon with many sides; morphe means form, so polymorphism is like many forms of a shape.",
+        "explanation": "通过视觉联想词根，增强认知加工和记忆编码。"
+      },
+      {
+        "type": "缩略",
+        "content": "P-O-L-Y-M-O-R-P-H: Picture One Lovely Yellow Morphing Object.",
+        "explanation": "使用首字母缩写创建故事，基于认知心理学中的叙事记忆技巧。"
+      }
+    ],
+    "wordAssociations": [
+      "diversity",
+      "adaptation",
+      "flexibility"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "polymorphisms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + polymorphism",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "Polymorphism enhances software design."
+        ]
+      },
+      {
+        "pattern": "Adjective + polymorphism + in + noun",
+        "description": "与形容词和介词短语搭配表示具体领域",
+        "examples": [
+          "Genetic polymorphism in humans is widespread."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'polymorph'",
+        "correction": "Use 'polymorphism' for the concept, 'polymorph' for the entity",
+        "explanation": "前者是抽象概念，后者是具体形式，常見于初学者混淆专业术语。"
+      },
+      {
+        "mistake": "Incorrect usage in non-technical contexts",
+        "correction": "Reserve for technical discussions",
+        "explanation": "避免在非专业语境中使用，以防止语义模糊。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 in COCA corpus",
+    "domains": [
+      "science",
+      "technology",
+      "biology",
+      "computing"
+    ],
+    "tags": [
+      "technical",
+      "scientific",
+      "biological variation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

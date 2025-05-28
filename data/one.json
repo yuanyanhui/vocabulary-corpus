@@ -1,0 +1,288 @@
+{
+  "word": "one",
+  "phonetics": {
+    "british": "/wʌn/",
+    "american": "/wʌn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "number",
+      "definition": "The lowest positive integer; the number equivalent to the quantity of one thing.",
+      "chineseTranslation": "数字一",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Being a single unit or entity; used to indicate singularity or unity.",
+      "chineseTranslation": "单一的；一个的",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "pronoun",
+      "definition": "Referring to a single person or thing previously mentioned or easily identified.",
+      "chineseTranslation": "一个人；一个事物",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single person or thing, often used in phrases to indicate an individual.",
+      "chineseTranslation": "一个人或一物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one of",
+      "meaning": "其中之一",
+      "example": "She is one of the best students in the class.",
+      "exampleTranslation": "她是班上最好的学生之一。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "in one go",
+      "meaning": "一次性；一口气",
+      "example": "He finished the project in one go.",
+      "exampleTranslation": "他一次性完成了这个项目。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "all in one",
+      "meaning": "集于一身；多功能一体",
+      "example": "This device is an all-in-one printer, scanner, and copier.",
+      "exampleTranslation": "这个设备是一个集打印、扫描和复印于一体的多功能设备。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "One apple is enough for me.",
+      "translation": "一个苹果就够我吃了。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "He is the one who solved the problem.",
+      "translation": "他就是解决问题的那个人。",
+      "source": "Literature, e.g., from novels",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company aims to become number one in the market.",
+      "translation": "公司旨在成为市场上的第一。",
+      "source": "Business news, e.g., from The Wall Street Journal",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In one swift move, she changed the direction of the debate.",
+      "translation": "在一次迅捷的动作中，她改变了辩论的方向。",
+      "source": "Formal writing, e.g., from academic texts",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "an",
+        "meaning": "one",
+        "language": "Old English"
+      },
+      {
+        "root": "*ainaz",
+        "meaning": "one, alone",
+        "language": "Proto-Germanic"
+      },
+      {
+        "root": "*h₁óynos",
+        "meaning": "one, single",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'an' 演变而来，该词源自原始日耳曼语 *ainaz，最终追溯到原始印欧语 *h₁óynos。该词在英语中保持了其核心含义，从表示单一数字扩展到形容单一性或独特性，随着英语的发展，它在现代英语中用于各种语境，包括计数和强调。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "alone",
+      "only",
+      "unit"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR)",
+    "pronunciationDifficulty": "2",
+    "spellingDifficulty": "1",
+    "meaningComplexity": "2",
+    "usageComplexity": "3",
+    "learningTips": [
+      "利用认知科学中的重复暴露原则，将 'one' 与日常计数练习结合，例如通过视觉图像如手指计数来强化记忆；",
+      "采用分块学习法，将 'one' 与其短语（如 'one of'）分组记忆，以减少认知负荷；",
+      "通过情感关联，将 'one' 联想到个人经历，如 'one chance' 与人生机遇的联系，以提升长期保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "single",
+        "similarity": "0.8",
+        "context": "在强调独立或唯一性的语境中，例如描述孤立的物体"
+      },
+      {
+        "word": "sole",
+        "similarity": "0.7",
+        "context": "在正式语境中表示唯一的或排他的含义"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "many",
+        "context": "在表示多个或众多事物的语境中"
+      },
+      {
+        "word": "none",
+        "context": "在表示零或不存在的语境中"
+      }
+    ],
+    "hypernyms": [
+      "number",
+      "quantity"
+    ],
+    "hyponyms": [
+      "first",
+      "unit"
+    ],
+    "collocations": [
+      {
+        "pattern": "one + noun",
+        "examples": [
+          "one day",
+          "one person"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "one of + plural noun",
+        "examples": [
+          "one of the reasons"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in one + adjective",
+        "examples": [
+          "in one piece"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征单一性和统一性，常用于强调个人主义或独特性，例如在口号 'One for all, all for one' 中，体现团队精神，但无强烈隐含语义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中，常用于俚语如 'one-up' 表示超过他人",
+        "usage": "在非正式对话中，用于竞争语境"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美式英语类似，但更常在正式语境中使用，如历史文献",
+        "usage": "在文学和教育中强调精确性"
+      }
+    ],
+    "historicalContext": "与英语历史文化相关，该词出现在中世纪文学中，如莎士比亚的作品，用于表示单一存在，与工业革命后的量化社会背景相呼应。",
+    "modernUsage": "在现代社交媒体和数字时代，该词常用于标签如 '#numberone'，表示顶级地位，在商业和娱乐中流行"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个单一的苹果放在桌子上，代表数字一。",
+      "keyElements": [
+        "苹果",
+        "桌子",
+        "单一物体"
+      ],
+      "emotionalConnection": "联想到童年学习计数时的喜悦感，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'one' 联想成 'won'，如赢得比赛，强调单一胜利。",
+        "explanation": "通过声音相似性帮助记忆，并结合视觉想象比赛场景"
+      },
+      {
+        "type": "缩略",
+        "content": "O-N-E 代表 'Only Number Exists'",
+        "explanation": "使用首字母缩写创建短语，以强化语义连接"
+      }
+    ],
+    "wordAssociations": [
+      "first",
+      "alone",
+      "unity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ones",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + one + of + noun phrase",
+        "description": "用于表示所属或部分关系",
+        "examples": [
+          "One of my friends is coming."
+        ]
+      },
+      {
+        "pattern": "One + adjective + noun",
+        "description": "用于强调特定单一实体",
+        "examples": [
+          "One big problem remains."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'one' with 'won' in writing",
+        "correction": "Use 'one' for the number and 'won' for the past tense of win",
+        "explanation": "由于发音相似，学习者可能拼写错误；建议通过语境区分"
+      },
+      {
+        "mistake": "Overusing in non-count contexts",
+        "correction": "Use with countable nouns only",
+        "explanation": "中文母语学习者可能错误地将 'one' 用于不可数名词；强调英语中计数规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 10 in general corpora (e.g., COCA rank: 1)",
+    "domains": [
+      "Education",
+      "Daily communication",
+      "Science",
+      "Business"
+    ],
+    "tags": [
+      "Basic vocabulary",
+      "Numerals",
+      "Quantifiers"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

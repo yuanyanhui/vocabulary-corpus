@@ -1,0 +1,261 @@
+{
+  "word": "valve",
+  "phonetics": {
+    "british": "/vælv/",
+    "american": "/vælv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mechanical device by which the flow of liquid, gas, or loose material in bulk may be started, stopped, or regulated by a movable part that opens, shuts, or partially obstructs one or more ports or passageways.",
+      "chineseTranslation": "阀门",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A structure in the body, such as in the heart or veins, that maintains the direction of blood flow.",
+      "chineseTranslation": "瓣膜（如心脏瓣膜）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device on a brass musical instrument, such as a trumpet, that changes the length of the tube to alter the pitch.",
+      "chineseTranslation": "阀键（如铜管乐器的阀门）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical/colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "safety valve",
+      "meaning": "安全阀门，用于释放多余压力以防止爆炸",
+      "example": "The safety valve on the boiler released steam to prevent an explosion.",
+      "exampleTranslation": "锅炉上的安全阀释放蒸汽以防止爆炸。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "heart valve",
+      "meaning": "心脏瓣膜，控制血液流动的方向",
+      "example": "The surgeon replaced the damaged heart valve during the operation.",
+      "exampleTranslation": "外科医生在手术中更换了受损的心脏瓣膜。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "valve stem",
+      "meaning": "阀杆，通常用于轮胎或管道",
+      "example": "Make sure the valve stem is not bent before inflating the tire.",
+      "exampleTranslation": "在给轮胎充气前，确保阀杆没有弯曲。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer adjusted the valve to control the water flow in the pipeline.",
+      "translation": "工程师调整了阀门来控制管道中的水流。",
+      "source": "Technical manual (e.g., from engineering corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the human body, valves ensure that blood doesn't flow backward in the veins.",
+      "translation": "在人体中，瓣膜确保血液不会在静脉中倒流。",
+      "source": "Medical literature (e.g., from PubMed or general corpora)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The trumpeter pressed the valve to hit the high note during the concert.",
+      "translation": "小号手按下阀键来演奏高音在音乐会上。",
+      "source": "Arts and music contexts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "A faulty valve in the car's engine caused the breakdown on the highway.",
+      "translation": "汽车引擎中的故障阀门导致了高速公路上的故障。",
+      "source": "News article (e.g., from CNN or automotive reports)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "valva",
+        "meaning": "A leaf of a door or folding door",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 valva，最初指门或折叠门的叶片，扩展到指任何可开启或关闭的结构，如在罗马时代用于建筑；17世纪传入英语，用于机械装置，指控制流动的部件；19世纪开始用于解剖学和音乐领域。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "valvular",
+      "valvate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，因为只有一音节，且辅音组合常见；基于语音学习理论，如 Cummins 的认知负荷模型)",
+    "spellingDifficulty": "4 (拼写直观，但可能与同音词混淆；参考 Krashen 的输入假设)",
+    "meaningComplexity": "6 (语义多样，涉及多个领域，需要上下文理解；结合 Lev Vygotsky 的社会文化理论)",
+    "usageComplexity": "5 (常见于技术语境，但需注意搭配；参考 Anderson 的认知理论)",
+    "learningTips": [
+      "使用间隔重复系统复习词汇；将词与实际设备图片关联以增强视觉记忆；通过角色扮演模拟工程场景以应用认知建构主义原则"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "regulator",
+        "similarity": "0.7",
+        "context": "适用于机械控制语境，如管道系统"
+      },
+      {
+        "word": "gate",
+        "similarity": "0.6",
+        "context": "在水利或工业语境中，指阻挡流动的装置"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "blockage",
+        "context": "在技术语境中，指完全阻挡流动，与阀门的功能相反"
+      },
+      {
+        "word": "obstruction",
+        "context": "在解剖学语境中，指阻碍流动的结构"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "mechanism"
+    ],
+    "hyponyms": [
+      "solenoid valve",
+      "ball valve"
+    ],
+    "collocations": [
+      {
+        "pattern": "valve + noun (e.g., valve control)",
+        "examples": [
+          "valve control system",
+          "valve replacement surgery"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + valve (e.g., open the valve)",
+        "examples": [
+          "adjust the valve",
+          "repair the valve"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在工业化和现代社会中象征技术进步和安全机制，常隐含语义为控制与平衡；在西方文化中，与蒸汽时代发明相关，代表了19世纪的工程革命。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于汽车和工程语境",
+        "usage": "在美国英语中，常见于日常技术讨论，如 'valve job' 表示引擎维修"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向正式或历史语境",
+        "usage": "在英国英语中，与蒸汽机历史相关，常用于文学描述中"
+      }
+    ],
+    "historicalContext": "与工业革命关联，如James Watt的蒸汽机发明；在中国文化中，类似概念在古代水利工程中出现，如都江堰的闸门，但现代用法受西方影响。",
+    "modernUsage": "在社交媒体和科技语境下，常见于讨论环保设备或医疗创新，如Twitter上的#heartvalve话题"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个水龙头在控制水流，就如阀门在管道中工作。",
+      "keyElements": [
+        "水龙头",
+        "管道",
+        "流动箭头"
+      ],
+      "emotionalConnection": "联结到日常生活经验，如修理家里的水管，触发问题解决的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Valve sounds like 'valve' in a door, which opens and closes, just like a device controlling flow.",
+        "explanation": "通过声音联想和视觉想象增强记忆，基于Paivio的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "V-A-L-V-E: Very Accurate Liquid Valve Equipment",
+        "explanation": "创建缩写以分组记忆元素，参考Baddeley的工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "pipe",
+      "flow",
+      "control",
+      "heart"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "valves",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the valve is broken)",
+        "description": "作为主语或宾语使用在句子中",
+        "examples": [
+          "The valve controls the pressure."
+        ]
+      },
+      {
+        "pattern": "Verb + valve (e.g., open the valve)",
+        "description": "与动作动词搭配表示操作",
+        "examples": [
+          "They installed a new valve yesterday."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'valve' with 'valve' in different contexts (e.g., mixing mechanical and anatomical uses)",
+        "correction": "Use context to distinguish, e.g., 'heart valve' vs. 'pipe valve'",
+        "explanation": "学习者常因语义重叠而混淆，建议通过语境练习避免"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'valves' but mispronouncing it",
+        "correction": "Pronounce as /vælvz/",
+        "explanation": "基于英语复数规则，确保辅音发音正确"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus, with 1500 occurrences per million)",
+    "domains": [
+      "engineering",
+      "medicine",
+      "music"
+    ],
+    "tags": [
+      "technical",
+      "mechanical",
+      "anatomical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "word": "trees",
+  "phonetics": {
+    "british": "/triːz/",
+    "american": "/triːz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Tall, perennial, woody plants having a single main stem or trunk and numerous branches, typically with leaves or needles.",
+      "chineseTranslation": "树木",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A diagrammatic representation of a hierarchical structure, such as in computing (e.g., binary trees) or genealogy (e.g., family trees).",
+      "chineseTranslation": "树状结构",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "family trees",
+      "meaning": "家族谱系图",
+      "example": "She traced her family trees back to the 18th century.",
+      "exampleTranslation": "她追溯了家族谱系图到18世纪。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "decision trees",
+      "meaning": "决策树，用于分析决策过程的工具",
+      "example": "In machine learning, decision trees are used to model decisions and their possible consequences.",
+      "exampleTranslation": "在机器学习中，决策树用于建模决策及其可能后果。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bark up the wrong trees",
+      "meaning": "追查错误的方向或对象",
+      "example": "If you're accusing him, you're barking up the wrong trees.",
+      "exampleTranslation": "如果你指责他，你就是在追查错误的方向。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ancient trees in the forest provide habitat for various wildlife.",
+      "translation": "森林中的古老树木为各种野生动物提供栖息地。",
+      "source": "Environmental literature, e.g., from National Geographic",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In urban planning, planting more trees can help mitigate climate change.",
+      "translation": "在城市规划中，种植更多树木有助于缓解气候变化。",
+      "source": "News articles, e.g., from The Guardian",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The programmer used binary trees to optimize the search algorithm.",
+      "translation": "程序员使用二叉树来优化搜索算法。",
+      "source": "Technical documentation, e.g., from COCA corpus",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "treow",
+        "meaning": "wood, tree",
+        "language": "Old English"
+      },
+      {
+        "root": "*trewan",
+        "meaning": "firm, strong",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "The word 'trees' derives from Old English 'treow', which evolved from Proto-Germanic '*trewan', originally meaning something firm or strong. Over time, it specifically referred to woody plants in Middle English, expanding in modern English to include metaphorical and technical uses like data structures by the 20th century.",
+    "firstKnownUse": "Before 12th century (as recorded in Old English texts)",
+    "relatedWords": [
+      "tree (singular form)",
+      "treelike",
+      "forested"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉联想将 'trees' 与实际树木图像关联，以增强海马体记忆；结合间隔重复系统复习不同语境下的使用；针对中文母语学习者，强调元音 /iː/ 的发音以避免与类似词混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "woodlands",
+        "similarity": "0.7",
+        "context": "指代森林或树木密集区域，常用于自然或环境语境"
+      },
+      {
+        "word": "flora",
+        "similarity": "0.6",
+        "context": "泛指植物群落，尤其在生物学或生态语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deserts",
+        "context": "表示无树木或植被稀少的区域，常用于对比自然环境"
+      },
+      {
+        "word": "barren lands",
+        "context": "描述不毛之地，与树木的生命力和茂盛形成对比"
+      }
+    ],
+    "hypernyms": [
+      "plants"
+    ],
+    "hyponyms": [
+      "oaks",
+      "pines",
+      "maples"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + trees",
+        "examples": [
+          "plant trees",
+          "chop trees"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + trees",
+        "examples": [
+          "ancient trees",
+          "deciduous trees"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在许多文化中，trees 象征生命、成长和韧性，例如在中文文化中，树木常代表家族传承或和谐（如中国古诗中的松树象征长寿）；在西方文化中，圣诞树体现了节日和社区精神。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More emphasis on native species like oaks in literature.",
+        "usage": "常用于诗歌和历史语境中，强化自然遗产的概念"
+      },
+      {
+        "region": "United States",
+        "variation": "Includes terms like 'redwoods' in everyday speech, linked to national parks.",
+        "usage": "在现代语境中，常与环境保护运动相关，如 Earth Day discussions"
+      }
+    ],
+    "historicalContext": "Trees have been central in literature (e.g., Shakespeare's forests) and social movements (e.g., the environmentalism of the 20th century, influenced by figures like John Muir), reflecting themes of renewal and destruction.",
+    "modernUsage": "在社交媒体和数字语境下，trees 常用于气候变化讨论，如 #PlantATree 活动，体现全球可持续发展的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个茂密的森林，树木高大挺拔，枝叶婆娑。",
+      "keyElements": [
+        "绿叶",
+        "树干",
+        "鸟巢"
+      ],
+      "emotionalConnection": "联想到童年公园散步的宁静感，以触发正面情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'trees' as 'three ease' – three tall structures that bring ease to the environment.",
+        "explanation": "通过声音联想和视觉化，增强词汇与积极概念的连接，基于认知心理学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-E-E-S: Tall, Rooted, Evergreen, Essential, Strong.",
+        "explanation": "使用首字母缩略词帮助记忆多重含义，运用工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "forest",
+      "leaves",
+      "roots"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null (regular plural of 'tree')",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "null",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Object",
+        "description": "树木作为主语或宾语的典型结构",
+        "examples": [
+          "Trees grow tall in the summer."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "使用介词短语描述位置或关系",
+        "examples": [
+          "The birds live in the trees."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'trees' with 'tree's (possessive)",
+        "correction": "Use 'trees' for plural and 'tree's for possession",
+        "explanation": "中文学习者常混淆复数和所有格，需注意撇号的使用"
+      },
+      {
+        "mistake": "Incorrect verb agreement",
+        "correction": "Ensure singular/plural verb agreement, e.g., 'The tree is tall' vs. 'The trees are tall'",
+        "explanation": "基于英语主谓一致规则，避免母语干扰"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "nature",
+      "environment",
+      "technology",
+      "literature"
+    ],
+    "tags": [
+      "botany",
+      "ecology",
+      "data structures"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "word": "fight",
+  "phonetics": {
+    "british": "/faɪt/",
+    "american": "/faɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to engage in a physical or verbal struggle or conflict",
+      "chineseTranslation": "打架；斗争；对抗",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to attempt to overcome a difficulty or disease",
+      "chineseTranslation": "抵抗；对抗（困难或疾病）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a violent confrontation or battle",
+      "chineseTranslation": "战斗；争斗；打架",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a determined effort to deal with something difficult",
+      "chineseTranslation": "努力；抗争",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fight back",
+      "meaning": "反击；抵抗",
+      "example": "She decided to fight back against the injustice.",
+      "exampleTranslation": "她决定反抗这种不公。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fight for",
+      "meaning": "为…而战；争取",
+      "example": "Soldiers fight for their country's freedom.",
+      "exampleTranslation": "士兵们为国家的自由而战。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "fight against",
+      "meaning": "对抗；抵抗",
+      "example": "The community is fighting against pollution.",
+      "exampleTranslation": "社区正在对抗污染。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The two rivals decided to fight in the ring.",
+      "translation": "两个对手决定在擂台上打斗。",
+      "source": "Sports commentary (e.g., from boxing events in ESPN)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She had to fight hard to overcome her illness.",
+      "translation": "她必须努力对抗她的疾病。",
+      "source": "Modern literature (e.g., from novels like those in The New York Times bestsellers)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the meeting, they fought over the budget allocation.",
+      "translation": "在会议中，他们为预算分配而争论。",
+      "source": "Business news (e.g., from BBC News articles)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The activists are fighting for environmental rights.",
+      "translation": "活动家们正在为环境权益而斗争。",
+      "source": "Social media and activism discourse (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "fehtan",
+        "meaning": "to fight or strive",
+        "language": "Old English"
+      },
+      {
+        "root": "*fehtaną",
+        "meaning": "to strive or contend",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'fehtan'，其根源可追溯到原始日耳曼语 '*fehtaną'，最初指物理性的战斗或努力；随着时间演变，在中古英语时期扩展到比喻意义，如对抗疾病或社会不公；在现代英语中，它涵盖了从身体冲突到抽象斗争的多层含义",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "fighter",
+      "firefight",
+      "infight"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议通过重复联想练习将 'fight' 与个人经历（如体育活动）关联，以增强海马体记忆；使用间隔重复系统 (SRS) 来复习其多重含义，避免混淆；对于中文母语学习者，注意区分其比喻用法，通过视觉化场景（如想象战场）来降低语义复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "battle",
+        "similarity": "0.8",
+        "context": "适用于军事或激烈竞争语境，如 'battle for survival' 表示生存斗争"
+      },
+      {
+        "word": "combat",
+        "similarity": "0.7",
+        "context": "常用于正式或军事语境，如 'combat terrorism' 表示对抗恐怖主义"
+      },
+      {
+        "word": "struggle",
+        "similarity": "0.6",
+        "context": "适用于抽象或日常语境，如 'struggle with poverty' 表示与贫困的抗争"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "surrender",
+        "context": "在冲突语境中，如 'instead of fighting, they chose to surrender' 表示在对抗中选择屈服"
+      },
+      {
+        "word": "yield",
+        "context": "在竞争或努力语境中，如 'refusing to yield in a fight' 表示拒绝在斗争中让步"
+      }
+    ],
+    "hypernyms": [
+      "conflict"
+    ],
+    "hyponyms": [
+      "boxing",
+      "wrestling",
+      "duel"
+    ],
+    "collocations": [
+      {
+        "pattern": "fight for/against",
+        "examples": [
+          "fight for justice",
+          "fight against inequality"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "fight back",
+        "examples": [
+          "fight back tears"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着勇气和抵抗，如在好莱坞电影中常用于英雄主义叙事；在中国文化中，类似概念可能与 '斗争' 相关联，体现儒家或革命精神，但需避免负面联想",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于体育和政治语境",
+        "usage": "在美国英语中，常在选举中说 'fight for votes'，强调竞争性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "语调更正式，常用于历史或文学语境",
+        "usage": "在英国英语中，如在莎士比亚作品中，'fight' 常指骑士精神"
+      }
+    ],
+    "historicalContext": "与历史事件如中世纪战争或现代民权运动相关联，例如美国独立战争中 'fight for freedom' 的使用，反映了社会变革的主题",
+    "modernUsage": "在社交媒体和数字平台上，如 Twitter，用户常使用 'fight' 来讨论全球议题，如气候变化抗争，体现了全球化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个拳击手在擂台上奋力出拳，周围是嘈杂的观众",
+      "keyElements": [
+        "拳击手",
+        "擂台",
+        "嘈杂声音"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年打架或观看体育比赛的兴奋感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'fight' 联想为 'fire fight'，想象火焰中的战斗",
+        "explanation": "通过视觉联想强化记忆，基于认知科学中的双编码理论，将词汇与图像结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/faɪt/' 听起来像 'fly tight'，想象鸟儿紧握翅膀飞行以示斗争",
+        "explanation": "利用声音相似性创建联想，帮助母语为中文的学习者通过音形关联改善回忆"
+      }
+    ],
+    "wordAssociations": [
+      "battle",
+      "resist",
+      "struggle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "fought",
+      "pastParticiple": "fought",
+      "presentParticiple": "fighting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + fight + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述直接行动",
+        "examples": [
+          "They fight enemies."
+        ]
+      },
+      {
+        "pattern": "fight + for/against + noun",
+        "description": "fight 后接介词短语，表示目的或对象",
+        "examples": [
+          "We fight for peace."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'fight' as a regular verb (e.g., fighted)",
+        "correction": "fought",
+        "explanation": "作为不规则动词，过去式为 'fought'，非 'fighted'；母语为中文的学习者常受规则动词影响"
+      },
+      {
+        "mistake": "Confusing with 'flight'",
+        "correction": "Distinguish based on context",
+        "explanation": "词形相似，但 'fight' 意为战斗，'flight' 意为飞行；通过语境练习避免混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 500 words in COCA corpus)",
+    "domains": [
+      "sports",
+      "politics",
+      "health",
+      "daily life"
+    ],
+    "tags": [
+      "action",
+      "conflict",
+      "resistance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

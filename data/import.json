@@ -1,0 +1,256 @@
+{
+  "word": "import",
+  "phonetics": {
+    "british": "/ɪmˈpɔːt/ (as verb), /ˈɪmpɔːt/ (as noun)",
+    "american": "/ɪmˈpɔrt/ (as verb), /ˈɪmpɔrt/ (as noun)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to bring (goods or services) into a country from abroad for sale or use",
+      "chineseTranslation": "进口；引进",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the action of bringing in goods or services from another country, or the goods themselves",
+      "chineseTranslation": "进口；进口品",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "to include or load a module or data from another source in programming",
+      "chineseTranslation": "导入（如在编程中）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "import duty",
+      "meaning": "进口关税",
+      "example": "The government imposed a new import duty on foreign cars.",
+      "exampleTranslation": "政府对进口汽车征收新的进口关税。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "import from",
+      "meaning": "从某地进口",
+      "example": "We import coffee beans from South America.",
+      "exampleTranslation": "我们从南美洲进口咖啡豆。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "balance of imports",
+      "meaning": "进口平衡",
+      "example": "The country's balance of imports and exports is improving.",
+      "exampleTranslation": "该国的进口和出口平衡正在改善。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company decided to import raw materials from China to reduce costs.",
+      "translation": "公司决定从中国进口原材料以降低成本。",
+      "source": "Business news article (e.g., from The Economist)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you can import libraries to extend functionality.",
+      "translation": "在编程中，您可以导入库来扩展功能。",
+      "source": "Technical documentation (e.g., from Python official docs)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "High import taxes have affected the availability of luxury goods in the market.",
+      "translation": "高进口税影响了市场上奢侈品的可用性。",
+      "source": "Economic report (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "importare",
+        "meaning": "to bring in",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'importare'，意为 '携带或带入'，由 'in-' (进入) 和 'portare' (携带) 组成。14 世纪传入英语，首先用于商业语境，指引进货物。17 世纪开始扩展到抽象意义，如引入思想或数据。在现代英语中，尤其在计算机领域，演变为 'import' 的技术术语。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "export",
+      "transport",
+      "importation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (1-10, 由于重音变化可能导致混淆，但元音相对简单)",
+    "spellingDifficulty": "3 (1-10, 拼写规则常规，无不寻常字母)",
+    "meaningComplexity": "6 (1-10, 多重含义需根据语境区分)",
+    "usageComplexity": "5 (1-10, 常用于商业或技术语境，但句法模式较直观)",
+    "learningTips": [
+      "结合认知科学，利用分层记忆法：先记忆基本动词含义，然后通过语境联想扩展到名词或技术用例；使用间隔重复系统强化重音差异，以避免混淆同音词；将词汇与个人经验关联，如想象进口商品的场景，以提升长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "introduce",
+        "similarity": "0.7",
+        "context": "适用于非商业语境，如引入新想法 (例如，在讨论中引入概念)"
+      },
+      {
+        "word": "bring in",
+        "similarity": "0.8",
+        "context": "在非正式语境中用作替代，例如贸易讨论"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "export",
+        "context": "在贸易语境中，对立于进口商品出口"
+      },
+      {
+        "word": "export",
+        "context": "在技术语境中，对立于导出数据"
+      }
+    ],
+    "hypernyms": [
+      "trade",
+      "transfer"
+    ],
+    "hyponyms": [
+      "food import",
+      "data import"
+    ],
+    "collocations": [
+      {
+        "pattern": "import + noun (e.g., import goods)",
+        "examples": [
+          "import goods",
+          "import restrictions"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + import (e.g., to import from)",
+        "examples": [
+          "to import from abroad"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在全球贸易文化中象征全球化与经济互赖，常隐含环境保护或贸易壁垒的讨论；在西方文化中，与殖民主义历史相关，反映资源流动的权力动态。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更强调历史贸易语境",
+        "usage": "在英国英语中，常与 Brexit 相关联，讨论进口政策变化"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重于经济和技术语境",
+        "usage": "在美国英语中，经常用于讨论关税战或软件导入"
+      }
+    ],
+    "historicalContext": "与工业革命和殖民时代贸易相关，在文学如狄更斯作品中象征经济不平等；在现代，关联全球化运动，如 WTO 协议。",
+    "modernUsage": "在社交媒体和数字平台上，常见于电商讨论，如 Amazon 进口商品；在中文学习者语境中，需注意中美贸易摩擦的影响，以促进跨文化理解。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个船只载满货物从海外驶入港口的场景",
+      "keyElements": [
+        "船只",
+        "货物",
+        "港口"
+      ],
+      "emotionalConnection": "联结个人购物经验，如从国外购买商品的兴奋，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'import' 联想为 'in-port'，意思是 '进入港口'",
+        "explanation": "通过视觉联想加深记忆，结合认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "I-M-P-O-R-T: In-My-Port-Overseas-Things",
+        "explanation": "使用首字母缩写创建故事，增强叙事记忆效果"
+      }
+    ],
+    "wordAssociations": [
+      "export",
+      "trade",
+      "importation",
+      "globalization"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "imports (for noun)",
+      "pastTense": "imported (regular verb)",
+      "pastParticiple": "imported",
+      "presentParticiple": "importing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., We import goods)",
+        "description": "主语 + 动词 + 宾语 结构，常用于陈述进口行为",
+        "examples": [
+          "We import electronics from Asia."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., The import of cars)",
+        "description": "名词短语结构，用于描述进口过程或物品",
+        "examples": [
+          "The import of raw materials is essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'export'",
+        "correction": "Use 'import' for bringing in and 'export' for sending out",
+        "explanation": "语义混淆常见于初级学习者，需通过语境区分"
+      },
+      {
+        "mistake": "Incorrect stress in pronunciation",
+        "correction": "Stress on first syllable for noun, second for verb",
+        "explanation": "重音错误可能导致歧义，建议练习口语录音"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "economics",
+      "technology",
+      "trade"
+    ],
+    "tags": [
+      "commerce",
+      "globalization",
+      "data processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

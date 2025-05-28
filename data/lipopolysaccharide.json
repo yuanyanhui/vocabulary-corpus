@@ -1,0 +1,231 @@
+{
+  "word": "lipopolysaccharide",
+  "phonetics": {
+    "british": "/ˌlɪpəʊpɒlɪˈsækəraɪd/",
+    "american": "/ˌlɪpoʊpɑːlɪˈsækəraɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large molecule consisting of lipids and polysaccharides, typically found in the outer membrane of Gram-negative bacteria, playing a key role in bacterial structure and immune response.",
+      "chineseTranslation": "脂多糖",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lipopolysaccharide layer",
+      "meaning": "脂多糖层",
+      "example": "The lipopolysaccharide layer provides a protective barrier for Gram-negative bacteria.",
+      "exampleTranslation": "脂多糖层为革兰氏阴性细菌提供保护屏障。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "endotoxic lipopolysaccharide",
+      "meaning": "内毒性脂多糖",
+      "example": "Endotoxic lipopolysaccharide can trigger severe inflammatory responses in the human body.",
+      "exampleTranslation": "内毒性脂多糖可在人体中引发严重的炎症反应。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Lipopolysaccharide is a major component of the cell wall in Gram-negative bacteria.",
+      "translation": "脂多糖是革兰氏阴性细菌细胞壁的主要成分。",
+      "source": "Scientific literature (e.g., microbiology textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Researchers are studying how lipopolysaccharide affects the immune system.",
+      "translation": "研究人员正在研究脂多糖如何影响免疫系统。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In medical contexts, lipopolysaccharide can lead to sepsis if not managed properly.",
+      "translation": "在医疗语境中，如果未得到适当管理，脂多糖可能导致败血症。",
+      "source": "News article on health (e.g., from BBC News)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek and English",
+    "rootWords": [
+      {
+        "root": "lipos",
+        "meaning": "fat",
+        "language": "Greek"
+      },
+      {
+        "root": "polysaccharide",
+        "meaning": "many sugars",
+        "language": "Greek (poly- meaning many) and English (saccharide from Greek sakcharon, meaning sugar)"
+      }
+    ],
+    "historicalDevelopment": "该词源自19世纪的生物化学发展，'lipos' 来自古希腊语意为'脂肪'，而'polysaccharide' 则是由'poly-' (许多) 和'saccharide' (糖类) 组合而成。20世纪初，随着细菌学和免疫学的兴起，该词演变为现代意义，用于描述细菌外膜的特定分子结构。",
+    "firstKnownUse": "Early 20th century (circa 1920s)",
+    "relatedWords": [
+      "lipid",
+      "polysaccharide",
+      "endotoxin"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1 (CEFR)",
+    "pronunciationDifficulty": "7",
+    "spellingDifficulty": "8",
+    "meaningComplexity": "9",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合認知科学，建议使用分块记忆法，将词汇分解为'lipo-' 和'polysaccharide'，并与视觉图像（如细菌模型）关联；通过重复暴露于专业语料中增强记忆痕迹；针对中级学习者，推荐从简单句子入手，逐步增加语境复杂度，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "LPS",
+        "similarity": "0.9",
+        "context": "在科学和技术语境中，常用于缩写形式，尤其在生物医学研究中"
+      },
+      {
+        "word": "endotoxin",
+        "similarity": "0.7",
+        "context": "当指代细菌来源的毒素时，在医疗和免疫学语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exotoxin",
+        "context": "在细菌毒素分类中，用于对比脂多糖的细菌外毒素，常在微生物学讨论中"
+      }
+    ],
+    "hypernyms": [
+      "molecule",
+      "biomolecule"
+    ],
+    "hyponyms": [
+      "Gram-negative bacterial LPS"
+    ],
+    "collocations": [
+      {
+        "pattern": "lipopolysaccharide + noun (e.g., layer, response)",
+        "examples": [
+          "lipopolysaccharide response",
+          "lipopolysaccharide structure"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + lipopolysaccharide (e.g., triggers, contains)",
+        "examples": [
+          "Bacteria contain lipopolysaccharide."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征现代医学和生物学的进步，尤其在抗生素研究和免疫疗法中隐含全球健康挑战的语义；在中文语境中，与传染病防控相关联，反映跨文化医学合作。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于临床和制药语境",
+        "usage": "在美国英语中，强调其在药物开发中的作用，如疫苗研究"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在学术出版中更正式",
+        "usage": "英国英语倾向于在教育和研究机构中使用，结合历史生物学传统"
+      }
+    ],
+    "historicalContext": "与20世纪的细菌学革命相关联，例如Alexander Fleming的青霉素发现，脂多糖在二战后成为抗生素研究的焦点；在中文文化中，与SARS和COVID-19等疫情响应相连，体现了全球科学合作的跨文化影响。",
+    "modernUsage": "在社交媒体和在线论坛中，常见于科普内容，如Twitter上的科学推文或微信公众号的健康文章中，趋势显示其在疫情后教育中的普及"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个细菌细胞的外膜像一层油性糖果外壳，'lipo' 代表油脂部分，'polysaccharide' 代表糖链条。",
+      "keyElements": [
+        "细菌模型",
+        "油脂图像",
+        "糖分子链"
+      ],
+      "emotionalConnection": "联结个人经验，如回想一次生病经历，触发对免疫反应的情绪记忆，以增强长期保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Lipo = Lip (嘴唇)，Polysaccharide = Poly (多) + Sack (袋子里的糖)",
+        "explanation": "通过视觉联想，将嘴唇（代表脂肪）与一个装满糖的袋子连接，代表分子结构；这基于认知科学中的双编码理论，结合图像和语义。"
+      },
+      {
+        "type": "缩略",
+        "content": "LPS = Lipstick on a Sugar Plate",
+        "explanation": "使用幽默缩略形式，LPS 联想为口红（lip）在糖盘（sugar plate）上，帮助中级学习者通过积极情绪强化记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "bacteria",
+      "immune",
+      "toxin"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "lipopolysaccharides",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + lipopolysaccharide",
+        "description": "作为主语或宾语出现在句子中，常用于描述科学现象",
+        "examples": [
+          "Lipopolysaccharide triggers an immune response."
+        ]
+      },
+      {
+        "pattern": "lipopolysaccharide + of + noun",
+        "description": "表示所属关系，如细菌的组成部分",
+        "examples": [
+          "The lipopolysaccharide of Gram-negative bacteria is highly immunogenic."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'lipoprotein'",
+        "correction": "Use 'lipopolysaccharide' for the specific bacterial molecule",
+        "explanation": "学习者常混淆类似词汇；建议通过语境区分，基于认知语言学的语义网络。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "lipopolysaccharides",
+        "explanation": "英文名词复数规则需注意后缀-s；针对中文母语者，强调形态变化的系统性。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "医学",
+      "生物学"
+    ],
+    "tags": [
+      "科学术语",
+      "微生物",
+      "免疫学"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

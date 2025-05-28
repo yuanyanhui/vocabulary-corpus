@@ -1,0 +1,260 @@
+{
+  "word": "slider",
+  "phonetics": {
+    "british": "/ˈslaɪdə/",
+    "american": "/ˈslaɪdər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A control element in a user interface that allows users to select a value from a range by moving a bar or knob along a line, often used in software applications.",
+      "chineseTranslation": "滑块（例如界面中的滑动条）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In baseball, a type of pitch that breaks or slides laterally just before reaching the batter, making it difficult to hit.",
+      "chineseTranslation": "滑球（棒球术语，指一种侧向滑动的球）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that slides, such as a device or mechanism that moves smoothly along a surface.",
+      "chineseTranslation": "滑动者或滑动物",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "volume slider",
+      "meaning": "音量滑块",
+      "example": "Adjust the volume slider to increase the sound level.",
+      "exampleTranslation": "调整音量滑块来增加音量。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "slider control",
+      "meaning": "滑块控件",
+      "example": "The slider control on the app allows precise adjustments.",
+      "exampleTranslation": "应用程序上的滑块控件允许精确调整。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "throw a slider",
+      "meaning": "投出滑球",
+      "example": "The pitcher decided to throw a slider to confuse the batter.",
+      "exampleTranslation": "投手决定投出一个滑球来迷惑击球手。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the music app, the slider lets you fine-tune the equalizer settings.",
+      "translation": "在音乐应用程序中，滑块允许你微调均衡器设置。",
+      "source": "Technology article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The baseball player mastered the slider, making him unbeatable in games.",
+      "translation": "这位棒球运动员掌握了滑球，使他在比赛中无人能敌。",
+      "source": "Sports news (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She used the slider on the website to select her preferred font size.",
+      "translation": "她在网站上使用滑块选择她偏好的字体大小。",
+      "source": "General web content",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "slide",
+        "meaning": "To move smoothly along a surface",
+        "language": "Old English (from Proto-Germanic *slīdan-)"
+      },
+      {
+        "root": "-er",
+        "meaning": "Suffix indicating a person or thing that performs an action",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "从古英语 'slīdan' 演变而来，表示滑动动作，添加后缀 '-er' 形成名词，最初用于描述滑动的人或物；17 世纪开始在机械和体育语境中扩展，到 20 世纪在技术领域如界面设计中广泛使用。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "slide",
+      "glider",
+      "skidder"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word has a simple syllable structure but includes the diphthong /aɪ/ which may challenge intermediate learners)",
+    "spellingDifficulty": "3 (out of 10, straightforward spelling with common patterns)",
+    "meaningComplexity": "6 (out of 10, multiple contexts require contextual understanding)",
+    "usageComplexity": "5 (out of 10, common in digital and sports contexts but needs practice for nuance)",
+    "learningTips": [
+      "使用间隔重复系统来记忆不同语境下的含义，例如 Anki 卡片结合图像；",
+      "通过认知关联将 'slider' 与日常生活中的滑动动作（如手机音量条）联系，增强视觉记忆；",
+      "练习发音时，使用镜像反馈来纠正 /aɪ/ 音"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "fader",
+        "similarity": "0.8",
+        "context": "在音频设备语境中，用于表示类似滑块的控件"
+      },
+      {
+        "word": "knob",
+        "similarity": "0.6",
+        "context": "在界面设计中，作为替代性调整工具"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "button",
+        "context": "在用户界面中，表示点击式而非滑动式的控件"
+      },
+      {
+        "word": "fastball",
+        "context": "在棒球中，表示直线投球，与滑球相对"
+      }
+    ],
+    "hypernyms": [
+      "control",
+      "pitch"
+    ],
+    "hyponyms": [
+      "volume slider",
+      "pitch type"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + slider (e.g., volume slider)",
+        "examples": [
+          "Adjust the volume slider"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + slider (e.g., throw a slider)",
+        "examples": [
+          "Throw a slider in baseball"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'slider' 在美国棒球文化中象征技巧和策略，常用于体育比喻；在数字时代，它代表用户交互的便利性，体现科技对日常生活的渗透。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More common in baseball terminology",
+        "usage": "在美国，'slider' 经常与体育赛事相关联，如 MLB 比赛"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Primarily used in technical contexts like software",
+        "usage": "在英国，更侧重于界面设计，而非体育"
+      }
+    ],
+    "historicalContext": "起源于工业革命时期的机械滑动装置，并与 19 世纪的棒球运动演化相关；现代在互联网文化中普及，如智能手机应用。",
+    "modernUsage": "在社交媒体和数字平台上流行，用于描述交互元素，如 TikTok 或 Instagram 的设置滑块"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个手指在手机屏幕上滑动音量条的场景",
+      "keyElements": [
+        "手指滑动",
+        "音量图标",
+        "棒球投手投球"
+      ],
+      "emotionalConnection": "联结个人经验，如调整音乐音量时的满足感，或观看体育比赛的兴奋"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Slider 像滑梯 (slide) 加一个 'r' 音，代表滑动动作",
+        "explanation": "通过视觉联想滑梯的滑动，帮助记忆词根和发音"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈslaɪdər/ 听起来像 'slide her'，想象一个女孩在滑梯上",
+        "explanation": "利用声音相似性增强听觉记忆，基于认知科学的多感官学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "slide",
+      "glide",
+      "fader"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sliders",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + slider",
+        "description": "主语 + 动词 + 滑块，常用于描述动作",
+        "examples": [
+          "He adjusted the slider."
+        ]
+      },
+      {
+        "pattern": "Modifier + slider",
+        "description": "修饰语 + 滑块，用于指定类型",
+        "examples": [
+          "The volume slider works smoothly."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'slider' with 'slipper' (a type of shoe)",
+        "correction": "Use 'slider' for UI or sports contexts",
+        "explanation": "语义混淆可能由于发音相似；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization as 'slideres'",
+        "correction": "Correct to 'sliders'",
+        "explanation": "英语名词规则简单，但非母语者常添加不必要字母"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for technical domains)",
+    "domains": [
+      "Technology",
+      "Sports",
+      "Daily life"
+    ],
+    "tags": [
+      "UI elements",
+      "Baseball terminology",
+      "Mechanics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

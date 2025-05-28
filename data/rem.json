@@ -1,0 +1,242 @@
+{
+  "word": "rem",
+  "phonetics": {
+    "british": "/rɛm/",
+    "american": "/rɛm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A stage of sleep characterized by rapid eye movements, increased brain activity, and vivid dreaming, often associated with memory consolidation.",
+      "chineseTranslation": "快速眼动睡眠",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "An acronym for 'Rapid Eye Movement', used in psychology and sleep studies to denote a specific phase of the sleep cycle.",
+      "chineseTranslation": "快速眼动（REM）的缩写",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun (in computing)",
+      "definition": "A unit of measurement in web design, representing the font size of the root element, used for responsive typography.",
+      "chineseTranslation": "根元素字体大小单位（在网页设计中）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "REM sleep",
+      "meaning": "快速眼动睡眠阶段",
+      "example": "During REM sleep, the body is paralyzed to prevent acting out dreams.",
+      "exampleTranslation": "在快速眼动睡眠期间，身体处于瘫痪状态以防止在梦中行动。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Enter REM",
+      "meaning": "进入快速眼动阶段",
+      "example": "It typically takes about 90 minutes to enter REM after falling asleep.",
+      "exampleTranslation": "入睡后大约需要90分钟才能进入快速眼动阶段。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "1 rem unit",
+      "meaning": "一个根元素字体单位",
+      "example": "Set the font size to 1 rem for better scalability on different devices.",
+      "exampleTranslation": "将字体大小设置为1 rem，以在不同设备上实现更好的可伸缩性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists study REM to understand the role of dreams in memory processing.",
+      "translation": "科学家们研究快速眼动睡眠，以了解梦境在记忆处理中的作用。",
+      "source": "Scientific literature, e.g., from psychology journals",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In web development, using rem allows for more flexible layouts compared to pixels.",
+      "translation": "在网页开发中，使用 rem 单位比使用像素更灵活。",
+      "source": "Technical documentation, e.g., from MDN Web Docs",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Lack of REM can lead to cognitive impairments and mood disorders.",
+      "translation": "缺乏快速眼动睡眠可能导致认知障碍和情绪紊乱。",
+      "source": "Health articles, e.g., from the American Psychological Association",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Modern English (acronym)",
+    "rootWords": [
+      {
+        "root": "Rapid Eye Movement",
+        "meaning": "快速眼动",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "源自20世纪50年代的睡眠研究，首次由Nathaniel Kleitman和Eugene Aserinsky在1953年观察到眼动现象，并逐渐演变为描述睡眠阶段的标准术语；在计算领域，'rem' 作为单位于1990年代兴起，随着CSS规范的发展。",
+    "firstKnownUse": "1953 (in sleep studies)",
+    "relatedWords": [
+      "dream",
+      "sleep cycle",
+      "NREM (Non-Rapid Eye Movement)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (相对简单，辅音和元音组合易于掌握，但需注意/r/音对中文母语学习者的影响)",
+    "spellingDifficulty": "2 (拼写简短且直接，无复杂规则)",
+    "meaningComplexity": "6 (语义依赖上下文，如睡眠或计算领域，需理解专业背景)",
+    "usageComplexity": "5 (使用时需结合特定领域，初级学习者可能混淆多义性)",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法复习'REM'的多种语境；通过视觉化睡眠周期图表建立心智模型；针对中文母语者，强调英语缩写的记忆策略，如将'REM'联想为'快速眼动'的首字母，以增强双语关联。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "paradoxical sleep",
+        "similarity": "0.8",
+        "context": "在睡眠科学中，指代类似快速眼动阶段的特征"
+      },
+      {
+        "word": "root em",
+        "similarity": "0.9",
+        "context": "在计算设计中，作为等效单位"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "NREM",
+        "context": "在睡眠科学中，表示非快速眼动睡眠阶段，与REM相对"
+      }
+    ],
+    "hypernyms": [
+      "sleep stage"
+    ],
+    "hyponyms": [
+      "dream sleep"
+    ],
+    "collocations": [
+      {
+        "pattern": "REM + noun (e.g., REM sleep)",
+        "examples": [
+          "REM phase",
+          "REM cycle"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + REM (e.g., enter REM)",
+        "examples": [
+          "experience REM"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，REM 常与梦境分析和心理健康相关联，如弗洛伊德理论中梦的象征意义；在东方文化中，可能与中医睡眠观结合，但较少直接使用。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于流行科学和健康讨论",
+        "usage": "在日常对话中，如健康播客中提及"
+      },
+      {
+        "region": "英国",
+        "variation": "倾向于学术语境，使用更正式",
+        "usage": "在BBC纪录片中解释睡眠科学"
+      }
+    ],
+    "historicalContext": "与20世纪睡眠研究的兴起相关，如二战后对创伤后应激障碍的探讨；在文学中，REM 影响了如Stephen King小说的梦境主题。",
+    "modernUsage": "在社交媒体如TikTok上，REM 常用于睡眠技巧分享；在跨文化交流中，中国学习者可能将其与传统中医睡眠概念对比。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个眼睛快速移动的睡眠场景，如一个人躺在床上，眼睛像雷达扫描般转动，同时脑中浮现生动画面。",
+      "keyElements": [
+        "快速眼动",
+        "梦境画面",
+        "床铺场景"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆自己做梦的时刻，以触发情感记忆增强保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "REM 像 'Rapid Eye Movie'，将之视为一部快速播放的电影。",
+        "explanation": "通过视觉联想将抽象概念转化为生动图像，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "R for Rapid, E for Eye, M for Movement – 快速眼动。",
+        "explanation": "分解缩写以构建分层记忆，减少认知负荷"
+      }
+    ],
+    "wordAssociations": [
+      "dream",
+      "sleep",
+      "cycle"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., in REM sleep)",
+        "description": "作为名词短语使用，常与介词或描述性词语结合",
+        "examples": [
+          "The patient entered REM during the night."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing REM with NREM",
+        "correction": "Distinguish based on eye movement characteristics",
+        "explanation": "中文母语学习者可能混淆相似缩写，需通过语境区分"
+      },
+      {
+        "mistake": "Using rem as a verb",
+        "correction": "Use as a noun only in standard contexts",
+        "explanation": "避免误用为动词形式，强调其缩写性质"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus for sleep-related terms",
+    "domains": [
+      "science",
+      "health",
+      "technology"
+    ],
+    "tags": [
+      "sleep",
+      "psychology",
+      "computing",
+      "abbreviation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

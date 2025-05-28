@@ -1,0 +1,272 @@
+{
+  "word": "cite",
+  "phonetics": {
+    "british": "/saɪt/",
+    "american": "/saɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To quote or refer to (a book, author, or passage) as evidence or authority for a statement or argument.",
+      "chineseTranslation": "引用；引证",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mention or commend someone for outstanding service or achievement, especially in a military context.",
+      "chineseTranslation": "表彰；嘉奖",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To summon someone to appear in court.",
+      "chineseTranslation": "传唤；传讯",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A citation or reference in a legal or academic document.",
+      "chineseTranslation": "引文；引用条目",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cite a source",
+      "meaning": "引用来源",
+      "example": "In academic writing, you must always cite a source to avoid plagiarism.",
+      "exampleTranslation": "在学术写作中，必须始终引用来源以避免剽窃。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cite evidence",
+      "meaning": "引证证据",
+      "example": "The lawyer cited evidence from the witness to support the case.",
+      "exampleTranslation": "律师引证了证人的证据来支持该案。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "cite an example",
+      "meaning": "举例说明",
+      "example": "To illustrate his point, the professor cited an example from history.",
+      "exampleTranslation": "为了说明他的观点，教授举了一个历史例子。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The researcher cited several studies in her paper to back up her claims.",
+      "translation": "研究者在她的论文中引用了几个研究来支持她的主张。",
+      "source": "Academic journal (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In his speech, the politician cited economic data to argue for tax reforms.",
+      "translation": "在演讲中，这位政治家引用了经济数据来论证税收改革。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The judge cited the defendant for contempt of court.",
+      "translation": "法官传唤被告藐视法庭。",
+      "source": "Legal document (e.g., from OED examples)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She was cited for bravery during the rescue operation.",
+      "translation": "她在救援行动中因勇敢而受到表彰。",
+      "source": "Literature (e.g., from a novel in BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "citare",
+        "meaning": "to call or summon",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 citare（意为呼叫或召唤），经由古法语 citer 演变为中古英语，最终在现代英语中发展为引证或引用之意。该词在14世纪传入英语，主要用于法律语境，17世纪后扩展到学术引用。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "recite",
+      "excite",
+      "incite"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (out of 10, as the IPA /saɪt/ is straightforward with common diphthong sounds familiar to intermediate learners)",
+    "spellingDifficulty": "4 (out of 10, spelling is simple but learners may confuse with 'site' or 'cite' homophones)",
+    "meaningComplexity": "6 (out of 10, multiple meanings require context differentiation, challenging for intermediate learners)",
+    "usageComplexity": "5 (out of 10, formal contexts like academic writing demand precise application)",
+    "learningTips": [
+      "结合认知科学的学习建议：使用间隔重复法复习 'cite' 的不同语境；创建心智图，将 'cite' 与个人经历（如引用书籍）关联，以增强记忆编码；练习通过真实语料库例句进行主动回忆，避免混淆同音词。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "quote",
+        "similarity": "0.8",
+        "context": "适用于学术或正式写作中引用文本的语境"
+      },
+      {
+        "word": "reference",
+        "similarity": "0.7",
+        "context": "常用于文献引用或间接提及的语境"
+      },
+      {
+        "word": "mention",
+        "similarity": "0.6",
+        "context": "在非正式讨论中提及某事物的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "context": "在学术语境中，忽略证据或来源"
+      },
+      {
+        "word": "omit",
+        "context": "在写作中省略引用"
+      }
+    ],
+    "hypernyms": [
+      "refer"
+    ],
+    "hyponyms": [
+      "footnote",
+      "bibliography"
+    ],
+    "collocations": [
+      {
+        "pattern": "cite + noun (e.g., source, evidence)",
+        "examples": [
+          "cite a source",
+          "cite evidence"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be cited for + reason",
+        "examples": [
+          "be cited for bravery"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征学术诚信和法律程序的严谨性，尤其在西方教育体系中，'cite' 隐含了对知识产权和证据-based 推理的尊重。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于学术和法律语境，如 APA 或 MLA 引用风格",
+        "usage": "在美国英语中，'cite' 在大学教育中非常常见，强调反剽窃"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似于美国，但更偏向于 Harvard 或 Oxford 风格",
+        "usage": "在英国英语中，常与历史或文学引用相关联"
+      }
+    ],
+    "historicalContext": "与历史文化关联，该词在文艺复兴时期与印刷术兴起相关，强调知识传承；在现代，与数字时代的信息引用（如在线来源）紧密相连。",
+    "modernUsage": "在社交媒体和在线平台上，'cite' 用于事实检查和 meme 文化中，但需注意跨文化敏感性，如中文学习者可能将其与本土引用习惯对比。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个法庭场景，其中一位律师手持书籍召唤证人，同时在论文中标记引用。",
+      "keyElements": [
+        "法庭",
+        "书籍",
+        "标记"
+      ],
+      "emotionalConnection": "联结个人经验或情绪的触发点，如回想自己写论文时的紧张感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'cite' as 'site' a citation – like visiting a website to reference it.",
+        "explanation": "通过声音联想避免混淆同音词，利用认知科学中的双编码效应，将视觉和听觉结合"
+      },
+      {
+        "type": "缩略",
+        "content": "C-I-T-E: Call It To Evidence.",
+        "explanation": "使用首字母缩略法创建短语，帮助记忆主要含义，基于工作记忆模型"
+      }
+    ],
+    "wordAssociations": [
+      "quote",
+      "source",
+      "reference"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "cited",
+      "pastParticiple": "cited",
+      "presentParticiple": "citing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + cite + object + for + reason",
+        "description": "主语 + 引用 + 宾语 + 为 + 原因的结构，常用于正式语境",
+        "examples": [
+          "She cited the book for her argument."
+        ]
+      },
+      {
+        "pattern": "cite + in + context",
+        "description": "在特定语境中引用的结构",
+        "examples": [
+          "The study was cited in the report."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'cite' interchangeably with 'site' or 'sight'",
+        "correction": "Use 'cite' only for quoting or referencing",
+        "explanation": "这些是同音异义词；'cite' 专指引用，避免混淆以保持语义准确"
+      },
+      {
+        "mistake": "Forgetting to include the source when citing",
+        "correction": "Always follow with the source details",
+        "explanation": "在学术写作中，这是剽窃风险；结合语境练习可改善"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 words in COCA corpus",
+    "domains": [
+      "academia",
+      "law",
+      "publishing"
+    ],
+    "tags": [
+      "academic",
+      "formal",
+      "legal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

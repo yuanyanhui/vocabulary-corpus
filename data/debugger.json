@@ -1,0 +1,244 @@
+{
+  "word": "debugger",
+  "phonetics": {
+    "british": "/ˈdiːbʌɡər/",
+    "american": "/ˈdiːbʌɡər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A computer program used to test and debug other programs by identifying and correcting errors in the code.",
+      "chineseTranslation": "调试器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or tool that identifies and fixes problems in a system, often metaphorically in non-technical contexts.",
+      "chineseTranslation": "故障排查者",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software debugger",
+      "meaning": "软件调试器",
+      "example": "The software debugger helped identify the memory leak in the application.",
+      "exampleTranslation": "软件调试器帮助识别了应用程序中的内存泄漏。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "interactive debugger",
+      "meaning": "交互式调试器",
+      "example": "An interactive debugger allows developers to step through code line by line.",
+      "exampleTranslation": "交互式调试器允许开发人员逐行执行代码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer used a debugger to pinpoint the error in the algorithm.",
+      "translation": "开发人员使用调试器定位算法中的错误。",
+      "source": "Technical documentation from software engineering texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern programming, a debugger is an essential tool for troubleshooting complex systems.",
+      "translation": "在现代编程中，调试器是排查复杂系统问题的重要工具。",
+      "source": "Articles from COCA (Corpus of Contemporary American English)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She acted as a debugger for the team's project, fixing issues before the deadline.",
+      "translation": "她充当团队项目的故障排查者，在截止期限前修复问题。",
+      "source": "Informal usage in business blogs",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "debug",
+        "meaning": "To remove errors or faults, originally from removing insects (bugs) from early computing machinery",
+        "language": "English"
+      },
+      {
+        "root": "-er",
+        "meaning": "A suffix indicating a person or thing that performs an action",
+        "language": "Old English (from Proto-Germanic)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪40年代的航空和早期计算机领域，原意为从机械中清除昆虫（bugs），后来 metaphorically 扩展到编程中表示清除代码错误。从航空术语演变为技术术语，体现了工业革命到数字时代的语言演变。",
+    "firstKnownUse": "1940s",
+    "relatedWords": [
+      "debug",
+      "bug",
+      "troubleshooter"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，将词汇与个人编程经验关联，利用视觉想象法（如想象捕捉昆虫的场景）以增强记忆；对于中文母语学习者，建议通过重复性练习和语境暴露来降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "troubleshooter",
+        "similarity": "0.8",
+        "context": "在技术或问题解决语境中适用，常用于系统维护或日常故障排除"
+      },
+      {
+        "word": "diagnostic tool",
+        "similarity": "0.7",
+        "context": "主要在医疗或技术领域，用于诊断问题"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "crasher",
+        "context": "表示导致系统崩溃的元素，与调试器的修复作用相反，常在非正式讨论中"
+      },
+      {
+        "word": "error generator",
+        "context": "在编程语境中，表示制造错误的东西，与调试器的目的相对"
+      }
+    ],
+    "hypernyms": [
+      "tool",
+      "program"
+    ],
+    "hyponyms": [
+      "IDE debugger",
+      "remote debugger"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + debugger (e.g., use a debugger)",
+        "examples": [
+          "We use a debugger to fix bugs."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "debugger + noun (e.g., debugger tool)",
+        "examples": [
+          "The debugger tool is essential for developers."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征问题解决和创新精神，隐含语义强调效率和精确性，尤其在硅谷文化中代表编程社区的集体智慧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在日常技术对话中",
+        "usage": "在美国英语中，常在软件开发语境下使用，体现出创新驱动的文化"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更正式化",
+        "usage": "在英国英语中，偏向于学术或专业场合使用，反映出传统的工程教育背景"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，源自二战时期的航空技术，并在冷战时期通过编程语言发展；文学作品如科幻小说中常用于象征人类与技术的互动。",
+    "modernUsage": "在社交媒体和在线社区（如GitHub）中流行，用于讨论代码优化，反映数字时代的信息共享趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个程序员在电脑前用网子捕捉虚拟的昆虫（bugs），代表调试过程。",
+      "keyElements": [
+        "昆虫（bugs）",
+        "网子（debugger tool）",
+        "电脑屏幕"
+      ],
+      "emotionalConnection": "联结个人编程挫败经历的挫折感，转为成就感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Debugger 像 'debug hunter'，将 'debug' 联想为 '除虫'。",
+        "explanation": "通过视觉联想bug为昆虫，利用认知科学中的图像记忆原理，帮助中文母语者快速回想"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˈdiːbʌɡər/' 听起来像 'dee-bug-er'，联想为 'deal with bugs'。",
+        "explanation": "结合声音和含义的联觉技巧，基于神经语言编程，提升长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "bug",
+      "fix",
+      "code",
+      "error"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "debuggers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + debugger",
+        "description": "主语 + 动词 + 调试器结构，常用于描述工具的使用",
+        "examples": [
+          "The team uses a debugger."
+        ]
+      },
+      {
+        "pattern": "Debugger + verb phrase",
+        "description": "调试器 + 动词短语结构，表示工具的动作",
+        "examples": [
+          "The debugger identifies errors."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'debugger' with 'debug'",
+        "correction": "Use 'debugger' for the tool and 'debug' for the action",
+        "explanation": "中文学习者常混淆名词和动词形式，导致语义错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural",
+        "explanation": "由于英语复数规则的多样性，初级学习者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 in COCA corpus for technical domains",
+    "domains": [
+      "科技",
+      "编程",
+      "工程"
+    ],
+    "tags": [
+      "计算机科学",
+      "工具",
+      "问题解决"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

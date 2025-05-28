@@ -1,0 +1,232 @@
+{
+  "word": "epsilon",
+  "phonetics": {
+    "british": "/ˈɛpsɪlɒn/",
+    "american": "/ˈɛpsɪlɑn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The fifth letter of the Greek alphabet (Ε, ε), used as a symbol in various contexts such as mathematics to represent a very small quantity.",
+      "chineseTranslation": "希腊字母的第五个字母（Ε，ε），在数学中常表示一个非常小的量。",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics and engineering, a symbol denoting permittivity or other small values.",
+      "chineseTranslation": "在物理和工程中，表示介电常数或其他微小值的符号。",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "machine epsilon",
+      "meaning": "计算机中表示浮点数精度的最小值",
+      "example": "In computing, machine epsilon is the smallest number that, when added to 1, produces a result different from 1.",
+      "exampleTranslation": "在计算机中，机器 epsilon 是最小的数字，当加到 1 上时，会产生一个与 1 不同的结果。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "epsilon neighborhood",
+      "meaning": "数学中表示一个中心点周围的微小区域",
+      "example": "In topology, an epsilon neighborhood consists of all points within a distance epsilon of a given point.",
+      "exampleTranslation": "在拓扑学中，epsilon 邻域包括给定点周围距离 epsilon 以内的所有点。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The Greek letter epsilon is often used in mathematics to denote an arbitrarily small positive quantity.",
+      "translation": "希腊字母 epsilon 常在数学中用来表示一个任意小的正量。",
+      "source": "Mathematical texts, such as calculus textbooks",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the word 'epsilon', the pronunciation can vary slightly between British and American English.",
+      "translation": "在单词 'epsilon' 中，发音在英式和美式英语之间可能略有不同。",
+      "source": "Linguistic resources like Oxford English Dictionary",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Epsilon represents the fifth position in the Greek alphabet, following delta.",
+      "translation": "Epsilon 在希腊字母中代表第五个位置，紧随 delta 之后。",
+      "source": "Educational materials on ancient languages",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "έψιλον",
+        "meaning": "Bare e or simple e",
+        "language": "Ancient Greek"
+      },
+      {
+        "root": "he",
+        "meaning": "To sound",
+        "language": "Phoenician"
+      }
+    ],
+    "historicalDevelopment": "源自古腓尼基字母的 'he'，演变为古希腊字母 'έψιλον'，最初表示元音 'e' 的声音。在中世纪希腊语中，'έψιλον' 被用来区分其他 'e' 音，并逐渐进入英语作为借词，主要用于科学和技术语境。",
+    "firstKnownUse": "Circa 5th century BC in Ancient Greek texts",
+    "relatedWords": [
+      "delta",
+      "gamma",
+      "alpha"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 epsilon 与希腊字母表的位置可视化，例如想象一个阶梯，epsilon 在第五级；使用间隔重复法记忆其在数学中的应用，以加强长时记忆；对于中国学习者，关注 'ps' 音的发音，通过对比母语辅音来减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "small quantity",
+        "similarity": "0.7",
+        "context": "在数学语境中，表示微小值时可用作同义表达"
+      },
+      {
+        "word": "infinitesimal",
+        "similarity": "0.8",
+        "context": "强调极小值在极限理论中的应用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "infinity",
+        "context": "在数学中，表示无限大的概念，与 epsilon 的微小值相对"
+      }
+    ],
+    "hypernyms": [
+      "Greek letter"
+    ],
+    "hyponyms": [
+      "machine epsilon",
+      "dielectric constant"
+    ],
+    "collocations": [
+      {
+        "pattern": "epsilon + noun (e.g., epsilon value)",
+        "examples": [
+          "The epsilon value in this equation is crucial."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "in + epsilon",
+        "examples": [
+          "Errors within epsilon are acceptable."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，epsilon 象征精确性和微妙变化，常在科学和哲学中代表极限或 infinitesimal 的概念；在希腊文化中，它是字母表的组成部分，隐含字母学和知识传承的象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术术语，如计算机科学",
+        "usage": "在美国英语中，epsilon 常在学术和专业语境下使用，强调其数学属性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "发音略有差异，更接近古典希腊发音",
+        "usage": "在英国英语中，可能在历史和语言学语境中出现，强调其古典根源"
+      }
+    ],
+    "historicalContext": "与古希腊哲学和科学相关，如欧几里得几何学；在中国文化中，通过翻译引入，体现了中西文化交流，如在现代数学教育中。",
+    "modernUsage": "在社交媒体和在线教育中，epsilon 常用于科技讨论或 meme，表示微小差异或精确度"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个希腊神庙的阶梯，第五级台阶上刻着 epsilon 符号，周围是微小的沙粒代表其数学含义。",
+      "keyElements": [
+        "阶梯",
+        "沙粒",
+        "希腊符号"
+      ],
+      "emotionalConnection": "联结到个人学习经历，如回忆数学课上的兴奋感，以增强记忆情感触发"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Epsilon 像 'E' 的变形，加上 'psi' 声音联想为 'Every Precise Small Item'",
+        "explanation": "通过词语联想将 epsilon 与 '精确的小东西' 联系，助于认知加工和记忆保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "将 /ɛps/ 音联想为轻柔的耳语声",
+        "explanation": "利用听觉想象强化发音记忆，基于认知科学的多模态学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "alpha",
+      "beta",
+      "limit",
+      "small"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "epsilons",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the epsilon in the equation)",
+        "description": "作为名词使用在句子中，描述特定语境",
+        "examples": [
+          "The epsilon used here is very small."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing epsilon with other Greek letters like eta",
+        "correction": "Use epsilon specifically for the fifth letter",
+        "explanation": "中国学习者可能混淆字母顺序，通过记忆字母表顺序避免"
+      },
+      {
+        "mistake": "Mispronouncing as 'ep-sigh-lon'",
+        "correction": "Pronounce as /ˈɛpsɪlɒn/",
+        "explanation": "注意音节划分，结合IPA练习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked approximately 15,000 in COCA corpus",
+    "domains": [
+      "science",
+      "mathematics",
+      "linguistics"
+    ],
+    "tags": [
+      "Greek alphabet",
+      "symbol",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

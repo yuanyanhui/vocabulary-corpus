@@ -1,0 +1,259 @@
+{
+  "word": "sniffer",
+  "phonetics": {
+    "british": "/ˈsnɪfər/",
+    "american": "/ˈsnɪfɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or software used to capture and analyze data, especially in network security to monitor traffic.",
+      "chineseTranslation": "嗅探器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An animal, especially a dog, trained to detect scents, such as drugs or explosives.",
+      "chineseTranslation": "嗅探犬",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To investigate or search for something by sniffing, often informally.",
+      "chineseTranslation": "嗅探；搜寻",
+      "level": "basic",
+      "frequency": "low",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "network sniffer",
+      "meaning": "网络嗅探器，用于捕获和分析网络数据流量",
+      "example": "The network sniffer detected unusual activity on the server.",
+      "exampleTranslation": "网络嗅探器检测到服务器上异常活动。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "sniffer dog",
+      "meaning": "训练有素的嗅探犬，用于检测毒品、炸药等",
+      "example": "The sniffer dog was deployed at the airport to check for contraband.",
+      "exampleTranslation": "嗅探犬被部署在机场检查违禁品。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "packet sniffer",
+      "meaning": "数据包嗅探器，用于网络监控",
+      "example": "A packet sniffer is essential for troubleshooting network issues.",
+      "exampleTranslation": "数据包嗅探器对于解决网络问题至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "IT professionals often use a sniffer to identify potential security threats in corporate networks.",
+      "translation": "IT 专业人士经常使用嗅探器来识别公司网络中的潜在安全威胁。",
+      "source": "Technical documentation from cybersecurity sources like Cisco",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The police brought in a sniffer dog to search for hidden explosives at the event.",
+      "translation": "警察带来了一条嗅探犬来搜寻活动现场的隐藏爆炸物。",
+      "source": "News articles from BBC",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In software development, a sniffer can help developers debug communication protocols.",
+      "translation": "在软件开发中，嗅探器可以帮助开发人员调试通信协议。",
+      "source": "Academic texts from computer science literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She acted as a sniffer, trying to catch the scent of the rare flower in the garden.",
+      "translation": "她像个嗅探者一样，试图在花园里捕捉稀有花朵的香味。",
+      "source": "Literary fiction",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "sniff",
+        "meaning": "To draw in air audibly through the nose",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语 'sniffen'，模仿鼻息声的拟声词。17 世纪开始用于描述嗅探行为，19 世纪扩展到技术领域，如用于检测气味或数据；20 世纪在计算机科学中演变为网络嗅探器的现代含义。",
+    "firstKnownUse": "约 1600 年",
+    "relatedWords": [
+      "sniff",
+      "snuffle",
+      "snort"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，利用视觉联想将 'sniffer' 与狗的图像或网络图标关联，以增强记忆；通过重复练习技术语境下的句子，促进海马体记忆巩固；建议初级学习者从基本语义入手，逐步扩展到专业应用，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "detector",
+        "similarity": "0.8",
+        "context": "在技术或安全语境中，用于检测设备"
+      },
+      {
+        "word": "scanner",
+        "similarity": "0.7",
+        "context": "在扫描和监控语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "blocker",
+        "context": "在网络安全中，对抗嗅探器的工具"
+      },
+      {
+        "word": "ignorer",
+        "context": "忽略或不检测的语境"
+      }
+    ],
+    "hypernyms": [
+      "device",
+      "tool"
+    ],
+    "hyponyms": [
+      "network analyzer",
+      "explosive detector"
+    ],
+    "collocations": [
+      {
+        "pattern": "sniffer + noun (e.g., sniffer dog)",
+        "examples": [
+          "The sniffer dog worked tirelessly."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + sniffer (e.g., use a sniffer)",
+        "examples": [
+          "Deploy a sniffer for monitoring."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'sniffer' 常象征侦测和安全，体现出对隐私和威胁的关注；在西方社会，尤其在执法和科技领域，代表了对风险管理的重视。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如 cybersecurity",
+        "usage": "在美国英语中，强调其在 IT 行业的应用"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于动物相关用法，如 sniffer dogs in law enforcement",
+        "usage": "在英国英语中，常与公共安全相关联"
+      }
+    ],
+    "historicalContext": "该词与工业革命后的技术进步和20世纪的网络发展相关；在文学中，如侦探小说中，代表调查和发现的主题。",
+    "modernUsage": "在社交媒体和数字时代，'sniffer' 常用于讨论网络隐私和AI监控，反映出当代对数据安全的担忧。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一只警犬在网络世界中嗅探数据包，就如在现实中搜寻气味。",
+      "keyElements": [
+        "警犬",
+        "网络图标",
+        "数据流"
+      ],
+      "emotionalConnection": "联结个人对宠物或科技好奇的情绪，以增强记忆保留"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Sniffer 听起来像 'sniff her'，想象一个鼻子在嗅探东西。",
+        "explanation": "通过声音联想帮助建立听觉记忆，基于认知联想理论"
+      },
+      {
+        "type": "缩略",
+        "content": "S-N-I-F-F-E-R: Sniffing Network Information For Fast Evidence Retrieval",
+        "explanation": "使用首字母缩写创建故事，刺激海马体以改善长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "sniff",
+      "detect",
+      "monitor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sniffers",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "sniffing",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + sniffer",
+        "description": "主语 + 动词 + 嗅探器，例如在描述使用场景",
+        "examples": [
+          "We use a sniffer."
+        ]
+      },
+      {
+        "pattern": "Sniffer + of + noun",
+        "description": "嗅探器 + of + 名词，表示类型",
+        "examples": [
+          "A sniffer of networks."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'sniffer' with 'sniffer' as a verb without context",
+        "correction": "Use as noun in technical contexts",
+        "explanation": "学习者常混淆其词性；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Misspelling as 'sniffer'",
+        "correction": "Correct spelling: 'sniffer'",
+        "explanation": "由于双重辅音的常见错误；通过发音练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "security",
+      "law enforcement"
+    ],
+    "tags": [
+      "computing",
+      "detection",
+      "tools"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

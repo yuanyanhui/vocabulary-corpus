@@ -1,0 +1,259 @@
+{
+  "word": "documentation",
+  "phonetics": {
+    "british": "/ˌdɒkjʊmenˈteɪʃən/",
+    "american": "/ˌdɑːkjʊmenˈteɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Written or printed information that accompanies a product, software, or system, providing instructions, descriptions, or explanations for its use.",
+      "chineseTranslation": "文档",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of creating, compiling, and maintaining records or evidence, often in legal or official contexts.",
+      "chineseTranslation": "文件编制",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of documents or materials that serve as proof or support for a claim, historical event, or scientific study.",
+      "chineseTranslation": "证明文件",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "user documentation",
+      "meaning": "用户文档",
+      "example": "The user documentation for this app includes step-by-step tutorials.",
+      "exampleTranslation": "这个应用的文档包括分步教程。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "technical documentation",
+      "meaning": "技术文档",
+      "example": "Engineers must update the technical documentation after each software release.",
+      "exampleTranslation": "工程师必须在每次软件发布后更新技术文档。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "legal documentation",
+      "meaning": "法律文件",
+      "example": "Proper legal documentation is essential for property transactions.",
+      "exampleTranslation": "适当的法律文件对于财产交易至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software comes with comprehensive documentation to help users get started.",
+      "translation": "该软件附带全面的文档来帮助用户入门。",
+      "source": "Technical manual (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Historians rely on ancient documentation to reconstruct past events.",
+      "translation": "历史学家依赖古代文件来重建过去的事件。",
+      "source": "Academic text (e.g., from BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In a business meeting, she presented the project's documentation for review.",
+      "translation": "在商务会议中，她展示了项目的文档以供审查。",
+      "source": "News article (e.g., from news corpora)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "documentum",
+        "meaning": "Lesson or proof",
+        "language": "Latin"
+      },
+      {
+        "root": "docere",
+        "meaning": "To teach",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'documentum'（意为教训或证据）演变为中世纪拉丁语中用于指书面记录的词汇，随后在17世纪进入英语，扩展到现代意义，包括技术说明和官方文件。",
+    "firstKnownUse": "1656",
+    "relatedWords": [
+      "document",
+      "documentary",
+      "documentation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用间隔重复系统来记忆词汇的多重含义；结合视觉辅助如流程图来理解语境；通过实际编写文档练习来强化认知连接，根据双编码理论将视觉和语言信息整合。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "manual",
+        "similarity": "0.8",
+        "context": "适用于技术或用户指南语境"
+      },
+      {
+        "word": "records",
+        "similarity": "0.7",
+        "context": "适用于官方或历史记录语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destruction",
+        "context": "在保存与销毁证据的语境中"
+      },
+      {
+        "word": "ignorance",
+        "context": "在知识获取与缺乏的语境中"
+      }
+    ],
+    "hypernyms": [
+      "information",
+      "records"
+    ],
+    "hyponyms": [
+      "user guide",
+      "technical manual"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + documentation",
+        "examples": [
+          "product documentation",
+          "project documentation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Documentation + for",
+        "examples": [
+          "documentation for software"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征着透明度和责任，尤其在技术与法律领域，体现了证据导向的社会规范。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更侧重于技术与商业语境",
+        "usage": "在美国，常用于软件行业，强调用户友好的文档设计"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更正式，常见于学术和历史语境",
+        "usage": "在英国，常与官方记录相关，反映官僚文化"
+      }
+    ],
+    "historicalContext": "该词与启蒙运动相关，强调记录和证据在科学革命中的作用，如牛顿的著作。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于在线平台，如GitHub的文档，反映全球化的知识共享趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件柜里堆满的文件夹，每一个文件夹代表不同的文档类型，如软件指南或法律文件。",
+      "keyElements": [
+        "文件柜",
+        "文件夹",
+        "指南图标"
+      ],
+      "emotionalConnection": "联结到个人经历，如编写报告时的挫败感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Docu-men-tation: 'Docu' 像医生 (doctor)，'men' 像男人 (men)，'tation' 像站立 (station)，所以想象医生指导男人站立阅读文件。",
+        "explanation": "通过视觉联想建立词汇与日常场景的连接，提升认知保留"
+      },
+      {
+        "type": "缩略",
+        "content": "D-O-C: Documentation Offers Clarity",
+        "explanation": "使用首字母缩略词强化含义记忆，根据Elaborative Rehearsal原则"
+      }
+    ],
+    "wordAssociations": [
+      "document",
+      "manual",
+      "guide"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "documentations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + Documentation",
+        "description": "作为主语或宾语出现，常用于描述过程或内容",
+        "examples": [
+          "Documentation is essential for compliance."
+        ]
+      },
+      {
+        "pattern": "Adjective + Documentation",
+        "description": "使用形容词修饰以指定类型",
+        "examples": [
+          "Comprehensive documentation was provided."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'document'",
+        "correction": "Use 'documentation' for the collection or process, not the single item",
+        "explanation": "学员常混淆单数和复数语境，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'documentations' only if needed, but often uncountable",
+        "explanation": "由于英语中不可数名词的使用，中文母语者可能错误添加复数"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "business",
+      "legal"
+    ],
+    "tags": [
+      "technical",
+      "information",
+      "records"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

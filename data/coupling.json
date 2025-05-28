@@ -1,0 +1,262 @@
+{
+  "word": "coupling",
+  "phonetics": {
+    "british": "/ˈkʌplɪŋ/",
+    "american": "/ˈkʌplɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The action or process of linking or connecting two things together, often in a mechanical or abstract sense.",
+      "chineseTranslation": "连接或联结的行为",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used to connect two shafts or other parts in machinery.",
+      "chineseTranslation": "用于连接机器部件的装置",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund or present participle)",
+      "definition": "The act of joining or pairing things together, as in forming a couple.",
+      "chineseTranslation": "使结合或配对的过程",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "loose coupling",
+      "meaning": "松散的连接方式，通常指系统或组件之间的弱依赖关系",
+      "example": "In software engineering, loose coupling allows for greater flexibility and easier maintenance.",
+      "exampleTranslation": "在软件工程中，松散耦合允许更大的灵活性和更容易的维护。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "magnetic coupling",
+      "meaning": "通过磁力实现的连接",
+      "example": "Magnetic coupling is used in some industrial pumps to prevent fluid leakage.",
+      "exampleTranslation": "磁力耦合用于某些工业泵中以防止流体泄漏。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tight coupling",
+      "meaning": "紧密的连接方式，通常指系统组件之间的强依赖",
+      "example": "Tight coupling in code can lead to difficulties in updating individual modules.",
+      "exampleTranslation": "代码中的紧密耦合可能导致更新单个模块的困难。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer installed a new coupling to connect the engine to the transmission.",
+      "translation": "工程师安装了一个新的耦合装置来连接发动机和变速箱。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In physics, coupling refers to the interaction between two systems, such as particles.",
+      "translation": "在物理学中，耦合指的是两个系统之间的相互作用，如粒子。",
+      "source": "Scientific literature",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The coupling of economic policies between the two countries led to a stronger alliance.",
+      "translation": "两国之间经济政策的耦合导致了更牢固的联盟。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "couple",
+        "meaning": "a pair or bond",
+        "language": "Old French"
+      },
+      {
+        "root": "copula",
+        "meaning": "a link or bond",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'copula'，意为'联结或纽带'，通过古法语 'couple' 演变为现代英语，最初用于表示一对事物或配对行为，14 世纪开始扩展到机械和抽象连接的含义。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "couple",
+      "copulate",
+      "coupling agent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 4,
+    "spellingDifficulty": 3,
+    "meaningComplexity": 6,
+    "usageComplexity": 5,
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象两个齿轮连接的场景，以强化空间记忆；对于初级学习者，建议通过重复练习上下文句子来构建语义网络，避免混淆与类似词汇如 'linking' 的差异。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "linking",
+        "similarity": 0.8,
+        "context": "适用于机械或抽象连接的语境中，例如软件设计"
+      },
+      {
+        "word": "connection",
+        "similarity": 0.7,
+        "context": "在一般性联结或网络语境中使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decoupling",
+        "context": "表示分离或断开连接的语境，例如在工程或经济政策中"
+      },
+      {
+        "word": "separation",
+        "context": "用于强调独立或隔离的状态"
+      }
+    ],
+    "hypernyms": [
+      "connection",
+      "linkage"
+    ],
+    "hyponyms": [
+      "mechanical coupling",
+      "electrical coupling"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + coupling (e.g., loose/tight)",
+        "examples": [
+          "loose coupling",
+          "magnetic coupling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + coupling (e.g., perform coupling)",
+        "examples": [
+          "achieve coupling",
+          "install coupling"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中主要作为技术术语象征效率和整合，常隐含在工业革命后的西方文化中代表机械化和系统化思维，并非特定文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和技术语境",
+        "usage": "在美国英语中，强调实际应用，如汽车或软件行业"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式化，使用于学术或历史语境",
+        "usage": "在英国英语中，常与传统机械工程相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关的英国文化背景中，该词反映了机械连接的创新，如19世纪的铁路发展；在现代，关联文学如狄更斯的作品中隐喻社会联结。",
+    "modernUsage": "在社交媒体和数字时代，常见于科技讨论，如软件开发论坛，体现全球化的技术传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两个齿轮相互啮合的场景，代表连接和协同作用",
+      "keyElements": [
+        "齿轮",
+        "链条",
+        "连接点"
+      ],
+      "emotionalConnection": "联结个人经验，如回想组装玩具时的成就感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'coupling' 联想为 'couple' + 'ling'，想象一对 (couple) 事物通过细线 (ling) 连接",
+        "explanation": "通过视觉联想强化词汇记忆，利用认知科学中的双编码理论，将听觉和视觉结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈkʌplɪŋ/ 听起来像 'cup linking'，想象用杯子连接物体",
+        "explanation": "利用声音相似性创建记忆锚点，促进长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "link",
+      "join",
+      "bond"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "couplings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "coupling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a mechanical coupling')",
+        "description": "用作名词时，通常置于句子主语或宾语位置，表示具体或抽象连接",
+        "examples": [
+          "The coupling failed during the test."
+        ]
+      },
+      {
+        "pattern": "Gerund in sentence (e.g., 'Coupling the devices requires precision.')",
+        "description": "作为动名词时，用于描述过程",
+        "examples": [
+          "Coupling ideas from different fields can lead to innovation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'couple' as a verb without context",
+        "correction": "Use 'coupling' specifically for the noun form",
+        "explanation": "学习者常混淆其词性，导致句法错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Overusing in non-technical contexts",
+        "correction": "Replace with simpler synonyms like 'linking' in everyday speech",
+        "explanation": "中级学习者可能错误应用技术术语；结合语域分析选择合适词汇"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "engineering",
+      "technology",
+      "science",
+      "business"
+    ],
+    "tags": [
+      "technical",
+      "mechanical",
+      "abstract",
+      "connection"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

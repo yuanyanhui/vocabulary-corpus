@@ -1,0 +1,281 @@
+{
+  "word": "floor",
+  "phonetics": {
+    "british": "/flɔː/",
+    "american": "/flɔr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The lower surface of a room on which one may walk.",
+      "chineseTranslation": "地板",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A level surface or area, especially one in a building, such as a story or storey.",
+      "chineseTranslation": "楼层",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The right to speak in a legislative assembly.",
+      "chineseTranslation": "发言权（尤指议会）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To knock someone down, especially in a fight.",
+      "chineseTranslation": "击倒",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To overwhelm or astonish someone.",
+      "chineseTranslation": "使震惊或压倒",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "first floor",
+      "meaning": "一楼（在英国英语中指一楼，在美国英语中指二楼）",
+      "example": "The apartment is on the first floor.",
+      "exampleTranslation": "公寓在一楼。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "dance floor",
+      "meaning": "舞池",
+      "example": "They met on the dance floor at the party.",
+      "exampleTranslation": "他们在派对的舞池上相遇。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "floor plan",
+      "meaning": "楼层平面图",
+      "example": "The architect drew a detailed floor plan for the house.",
+      "exampleTranslation": "建筑师为房子绘制了详细的楼层平面图。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The wooden floor in the living room needs polishing.",
+      "translation": "客厅的木地板需要抛光。",
+      "source": "Daily conversation (e.g., from everyday English corpora like COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She lives on the fifth floor of the apartment building.",
+      "translation": "她住在那座公寓楼的五楼。",
+      "source": "Modern literature (e.g., contemporary novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The senator yielded the floor to her colleague during the debate.",
+      "translation": "那位参议员在辩论中让出了发言权给她的同事。",
+      "source": "News articles (e.g., from BBC or The New York Times)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The boxer floored his opponent with a single punch.",
+      "translation": "那个拳击手用一拳击倒了对手。",
+      "source": "Sports commentary (e.g., from ESPN)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "flōr",
+        "meaning": "a flat surface",
+        "language": "Old English"
+      },
+      {
+        "root": "*plō-",
+        "meaning": "to flow or spread out",
+        "language": "Proto-Indo-European"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'flōr'，意为 'floor, pavement'，源自原始日耳曼语 *flōraz，可能源自原始印欧语 *plō-，最初指 'to flow' 或 'broad flat surface'。在中世纪英语中，扩展到建筑层面的含义，如楼层。在现代英语中，发展出比喻意义，如在议会中的发言权或击倒的动作。",
+    "firstKnownUse": "约公元1000年，在古英语文献中",
+    "relatedWords": [
+      "flower (from the same root, originally meaning 'that which flows')",
+      "flora (referring to plant life)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (基于音标简单，/flɔː/ 或 /flɔr/ 容易被中文母语者掌握，但元音差异可能造成混淆)",
+    "spellingDifficulty": "2 (拼写规则直观，无不规则变化)",
+    "meaningComplexity": "6 (多义词，需区分具体语境；对于中间级学习者，基础含义易懂，但抽象含义如发言权需额外练习)",
+    "usageComplexity": "5 (常见搭配多样，但语境依赖性强；结合认知语言学，建议通过语境记忆以减少歧义)",
+    "learningTips": [
+      "使用间隔重复系统（Spaced Repetition Systems, SRS）结合视觉图像，如想象房间地板来强化多义记忆；根据认知科学，创建个人关联，如将 'floor' 与日常生活场景链接，以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ground",
+        "similarity": "0.7",
+        "context": "适用于指地面或地板的物理含义，例如在建筑语境中"
+      },
+      {
+        "word": "level",
+        "similarity": "0.6",
+        "context": "适用于楼层的含义，例如在描述建筑结构时"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ceiling",
+        "context": "适用于建筑语境中，指天花板与地板相对"
+      },
+      {
+        "word": "rise",
+        "context": "适用于动词形式，指击倒的反面，如站起来"
+      }
+    ],
+    "hypernyms": [
+      "surface"
+    ],
+    "hyponyms": [
+      "basement floor",
+      "upper floor"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + floor (e.g., wooden floor)",
+        "examples": [
+          "a wooden floor",
+          "the fifth floor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + floor (e.g., sweep the floor)",
+        "examples": [
+          "clean the floor",
+          "floor the opponent"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，'floor' 象征稳定性和基础，常用于比喻，如 'take the floor' 表示在公共场合发言，体现民主讨论的传统。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "First floor 指一楼（地面以上第一层）",
+        "usage": "在英国英语中，这种用法源于历史建筑习惯，可能导致跨文化误解"
+      },
+      {
+        "region": "美国",
+        "variation": "First floor 指一楼（地面层）",
+        "usage": "在美国英语中，强调实用性，与英国不同，反映了区域建筑规范差异"
+      }
+    ],
+    "historicalContext": "在工业革命期间，'floor' 与工厂和建筑相关，常出现在维多利亚时代文学中，如狄更斯的小说，象征社会阶层。",
+    "modernUsage": "在社交媒体和数字语境中，'floor' 用于比喻，如在线讨论中的 'floor' 表示发言机会，体现当代民主化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个房间，地板上铺着木板，人们在上面行走，象征基础和稳定。",
+      "keyElements": [
+        "木板",
+        "房间",
+        "行走"
+      ],
+      "emotionalConnection": "联结到个人经验，如童年家中的地板，触发温暖和熟悉的情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'floor' 联想成 'flow' + 'or'，想象河流（flow）铺成的表面（or as floor）。",
+        "explanation": "基于认知科学的关键字联想法，帮助中间级学习者通过词源视觉化记忆多义。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /flɔː/ 像 'flower' 的开头，想象花朵铺满地板。",
+        "explanation": "利用多感官学习原理，结合听觉和视觉以提高保留率。"
+      }
+    ],
+    "wordAssociations": [
+      "ground",
+      "level",
+      "surface"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "floors",
+      "pastTense": "floored",
+      "pastParticiple": "floored",
+      "presentParticiple": "flooring",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + floor (e.g., He floored the enemy)",
+        "description": "动词用法，通常在动作句中",
+        "examples": [
+          "She swept the floor."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase with floor (e.g., on the floor)",
+        "description": "名词用法，常与介词搭配表示位置",
+        "examples": [
+          "The book is on the floor."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'floor' with 'flour'",
+        "correction": "Use 'floor' for surface and 'flour' for baking ingredient",
+        "explanation": "由于发音相似，中文母语者易混淆；建议通过语境区分，如厨房 vs. 建筑。"
+      },
+      {
+        "mistake": "Misusing in regional contexts (e.g., saying 'first floor' for ground floor in US English)",
+        "correction": "Adapt to regional variations",
+        "explanation": "基于跨文化语言学习，强调语境适应以避免沟通错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in corpora like COCA and BNC)",
+    "domains": [
+      "Architecture",
+      "Daily life",
+      "Politics",
+      "Sports"
+    ],
+    "tags": [
+      "Physical space",
+      "Action verb",
+      "Building terminology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

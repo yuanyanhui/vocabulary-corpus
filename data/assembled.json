@@ -1,0 +1,257 @@
+{
+  "word": "assembled",
+  "phonetics": {
+    "british": "/əˈsɛmbld/",
+    "american": "/əˈsɛmbld/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "Past tense and past participle of 'assemble', meaning to fit together the parts or pieces of something to form a complete object, or to gather people or things together in one place.",
+      "chineseTranslation": "组装；集合；聚集",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Put together or gathered into a single unit or group.",
+      "chineseTranslation": "装配好的；集合起来的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pre-assembled",
+      "meaning": "预先组装好的",
+      "example": "The pre-assembled furniture arrived ready for immediate use.",
+      "exampleTranslation": "预先组装好的家具一到就能立即使用。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "self-assembled",
+      "meaning": "自我组装的",
+      "example": "The self-assembled nanoparticles form a stable structure in the solution.",
+      "exampleTranslation": "这些自我组装的纳米粒子在溶液中形成了一个稳定的结构。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "assembled team",
+      "meaning": "集合起来的团队",
+      "example": "The assembled team worked efficiently to meet the deadline.",
+      "exampleTranslation": "这个集合起来的团队高效地工作以赶上截止期限。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The workers assembled the parts of the machine in the factory.",
+      "translation": "工人们在工厂里组装机器的零件。",
+      "source": "Technical manual (e.g., from engineering contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The family assembled in the living room for dinner.",
+      "translation": "家人聚集在客厅吃晚饭。",
+      "source": "Daily conversation (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the conference, experts from various fields were assembled to discuss climate change.",
+      "translation": "在会议上，来自各个领域的专家被集合起来讨论气候变化。",
+      "source": "News article (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The pre-assembled kit made it easy for beginners to build the model.",
+      "translation": "预组装的套件让初学者更容易构建模型。",
+      "source": "Educational material",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (from Latin)",
+    "rootWords": [
+      {
+        "root": "ad-",
+        "meaning": "to, towards",
+        "language": "Latin"
+      },
+      {
+        "root": "simulare",
+        "meaning": "to make like, to imitate",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'ad-' (表示 '到' 或 '向') 和 'simulare' (表示 '使类似' 或 '模仿')，演变为古法语 'assembler'，意为 '聚集' 或 '组装'。14 世纪传入英语，最初用于表示物理组装或集合，逐渐扩展到抽象意义，如组织会议或团队。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "assemble",
+      "assembly",
+      "assembler"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (中等难度，由于元音和辅音集群，如 /sɛmbld/ 需要注意流畅发音)",
+    "spellingDifficulty": "4 (拼写相对简单，但容易误写为 'asembled' 缺少第二个 's')",
+    "meaningComplexity": "6 (语义可能涉及多种上下文，如物理组装或社会聚集，需要理解细微差别)",
+    "usageComplexity": "5 (常用于不同句法结构，但作为过去分词时需注意时态一致性)",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法：先将 'assembled' 与 'assemble' 的基本形式关联，然后通过视觉想象如组装玩具场景强化记忆；对于中文母语学习者，联想 '组装' 一词以建立双语连接，避免混淆相似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "gathered",
+        "similarity": "0.8",
+        "context": "适用于社交或会议场合，如 'The crowd gathered quickly.' (人群迅速聚集起来。)"
+      },
+      {
+        "word": "constructed",
+        "similarity": "0.7",
+        "context": "适用于物理构建语境，如 'The model was constructed from parts.' (模型由零件构建而成。)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dispersed",
+        "context": "适用于人群或物体散开的情形，如在会议结束时 (会议结束后，人们散开回家。)"
+      },
+      {
+        "word": "disassembled",
+        "context": "适用于拆卸或分解物体时 (机器被拆卸成零件。)"
+      }
+    ],
+    "hypernyms": [
+      "gathered",
+      "built"
+    ],
+    "hyponyms": [
+      "pre-assembled",
+      "self-assembled"
+    ],
+    "collocations": [
+      {
+        "pattern": "assembled + noun (e.g., assembled team, assembled parts)",
+        "examples": [
+          "The assembled team collaborated effectively."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "be + assembled + in/by (e.g., assembled in a factory)",
+        "examples": [
+          "The product was assembled in China."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在工业和科技文化中象征效率和组织，通常隐含现代生产线的隐喻；在西方文化中，与团队合作或社区聚集相关，体现集体主义价值观。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术或商业语境",
+        "usage": "在美国英语中，常在制造业描述中出现，如 'assembled in the USA' 表示产品本地生产，以强调经济本土化。"
+      },
+      {
+        "region": "英国",
+        "variation": "语调更正式，常用于正式报告",
+        "usage": "在英国英语中，可能在历史或文学语境中使用，如描述议会聚集。"
+      }
+    ],
+    "historicalContext": "与工业革命相关，词源反映了从中世纪欧洲的聚集概念到现代制造过程的演变；在文学中，如莎士比亚作品中出现类似概念，象征社会组织。",
+    "modernUsage": "在社交媒体和在线平台上，常见于产品描述或虚拟会议，如 'assembled online for a webinar' (在线集合参加网络研讨会)，反映数字时代的适应性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工人将各种零件像拼图一样组装成一辆汽车的场景。",
+      "keyElements": [
+        "零件",
+        "工人",
+        "完成的汽车"
+      ],
+      "emotionalConnection": "联结个人经验，如童年时玩拼装玩具，触发成就感和熟悉感以加深记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'assembled' 联想为 'a + assembled'，如 'a + symbol' 代表 'a group symbol' (一个组装符号)",
+        "explanation": "通过视觉联想将词汇与符号或图像连接，基于认知科学中的双编码理论，提升长期记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /əˈsɛmbld/ 听起来像 'a simple build' (一个简单的构建)",
+        "explanation": "利用声音相似性创建记忆钩子，帮助中文母语者通过音译 '阿森布尔' 建立直观关联。"
+      }
+    ],
+    "wordAssociations": [
+      "assemble",
+      "build",
+      "gather",
+      "team"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "assembled (regular verb form)",
+      "pastParticiple": "assembled",
+      "presentParticiple": "assembling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + assembled + object",
+        "description": "主语 + 组装 + 宾语结构，常用于描述动作",
+        "examples": [
+          "They assembled the furniture."
+        ]
+      },
+      {
+        "pattern": "Be + assembled + in/by",
+        "description": "系动词 + 组装 + 地点/方式结构，用于被动语态",
+        "examples": [
+          "The parts were assembled in the workshop."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'assembled' incorrectly as a present tense",
+        "correction": "Use 'assemble' for present tense",
+        "explanation": "中文学习者可能混淆时态，因此需注意 'assembled' 仅用于过去或完成时。"
+      },
+      {
+        "mistake": "Confusing with 'assembled' and 'dismantled'",
+        "correction": "Distinguish based on context",
+        "explanation": "通过语境区分 'assembled' (组装) 与 'dismantled' (拆卸)，避免语义错误。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "tags": [
+      "制造",
+      "组织",
+      "过去分词"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

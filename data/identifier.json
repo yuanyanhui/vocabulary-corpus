@@ -1,0 +1,235 @@
+{
+  "word": "identifier",
+  "phonetics": {
+    "british": "/aɪˈdɛntɪfaɪə/",
+    "american": "/aɪˈdɛntəfaɪɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word or symbol that names or refers to a specific entity, such as a variable or function in programming.",
+      "chineseTranslation": "标识符",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that serves to identify or distinguish, such as a document or mark.",
+      "chineseTranslation": "识别标记",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unique identifier",
+      "meaning": "独一无二的识别标记",
+      "example": "Each user has a unique identifier in the database.",
+      "exampleTranslation": "每个用户在数据库中都有一个独一无二的标识符。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "global identifier",
+      "meaning": "全球唯一的标识符",
+      "example": "The global identifier ensures that the resource can be accessed worldwide.",
+      "exampleTranslation": "全球标识符确保资源可以全球访问。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In programming, an identifier like 'username' helps to reference user data.",
+      "translation": "在编程中，像 'username' 这样的标识符有助于引用用户数据。",
+      "source": "Technical documentation, e.g., from Python official guide",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The passport number serves as a reliable identifier for international travel.",
+      "translation": "护照号码作为国际旅行的可靠识别标记。",
+      "source": "News articles, e.g., BBC reports on travel regulations",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "She used a fingerprint as an identifier to unlock her phone.",
+      "translation": "她使用指纹作为标识符来解锁手机。",
+      "source": "Modern literature, e.g., tech novels",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "identificare",
+        "meaning": "to make identical",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'identificare'，意思是使相同或识别，17世纪传入英语，通过法语演变。在现代，特别是在20世纪，随着计算机科学的兴起，该词扩展到技术领域，指代用于区分实体的符号。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "identity",
+      "identification",
+      "identify"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用分块记忆法，将 'identifier' 与 'identify' 关联，结合个人经验如登录系统；根据认知科学，重复在上下文中使用以强化神经路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ID",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于简短的标识，如数据库记录"
+      },
+      {
+        "word": "tag",
+        "similarity": "0.6",
+        "context": "在非正式语境中，用于标记或标签对象"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "anonymizer",
+        "context": "在隐私保护语境中，用于隐藏身份"
+      }
+    ],
+    "hypernyms": [
+      "symbol",
+      "name"
+    ],
+    "hyponyms": [
+      "variable name",
+      "function identifier"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + identifier",
+        "examples": [
+          "user identifier",
+          "system identifier"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "identifier + in + context",
+        "examples": [
+          "identifier in programming"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和个人隐私保护，尤其在数字时代，代表了身份识别的标准化。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术行业，如软件开发",
+        "usage": "在日常对话中可能简化成 'ID'，反映出美国英语的实用性"
+      },
+      {
+        "region": "英国",
+        "variation": "在正式语境中保留完整形式",
+        "usage": "常与法律或行政语境相关，如 'national identifier'"
+      }
+    ],
+    "historicalContext": "与工业革命和现代计算机发展相关，在19世纪的英国文学中开始出现，用于社会身份的讨论。",
+    "modernUsage": "在社交媒体和数字平台上流行，如Twitter上的用户标识符，反映全球化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个钥匙标签，上面写着 'identifier'，打开一扇门，门后是各种对象。",
+      "keyElements": [
+        "钥匙",
+        "标签",
+        "门"
+      ],
+      "emotionalConnection": "联结到个人登录手机的经历，触发安全感和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'identifier' 联想成 'I dent if I err'，意思是我识别错误。",
+        "explanation": "通过声音联想加强记忆，基于认知科学中的声音-意义关联"
+      },
+      {
+        "type": "缩略",
+        "content": "ID = Identifier for Data",
+        "explanation": "使用缩写帮助快速回忆，结合视觉图像"
+      }
+    ],
+    "wordAssociations": [
+      "identify",
+      "label",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "identifiers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + identifier",
+        "description": "作为主语或宾语出现",
+        "examples": [
+          "The identifier matches the record."
+        ]
+      },
+      {
+        "pattern": "Identifier + in + noun phrase",
+        "description": "用于指定语境",
+        "examples": [
+          "Identifier in the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'identity'",
+        "correction": "Use 'identifier' for the symbol, not the concept",
+        "explanation": "学员常混淆二者含义，需通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Do not capitalize unless at the start of a sentence",
+        "explanation": "在编程中，标识符大小写敏感，但英语中非首字母不需大写"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "technology",
+      "computing",
+      "legal"
+    ],
+    "tags": [
+      "technical",
+      "nomenclature",
+      "data management"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "Merriam-Webster"
+    ]
+  }
+}

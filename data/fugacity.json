@@ -1,0 +1,236 @@
+{
+  "word": "fugacity",
+  "phonetics": {
+    "british": "/fjuːˈɡæsɪti/",
+    "american": "/fjuːˈɡæsəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In thermodynamics, a measure of the effective partial pressure of a substance in a mixture, which accounts for deviations from ideal gas behavior.",
+      "chineseTranslation": "逸度",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The tendency of a substance, especially a gas, to escape or flee from a system.",
+      "chineseTranslation": "逃逸倾向",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fugacity coefficient",
+      "meaning": "逸度系数",
+      "example": "The fugacity coefficient is used to correct for non-ideal behavior in gas mixtures.",
+      "exampleTranslation": "逸度系数用于修正气体混合物中的非理想行为。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "fugacity ratio",
+      "meaning": "逸度比率",
+      "example": "Engineers calculate the fugacity ratio to predict phase equilibria.",
+      "exampleTranslation": "工程师计算逸度比率来预测相平衡。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In chemical engineering, fugacity is a key parameter for understanding vapor-liquid equilibrium.",
+      "translation": "在化学工程中，逸度是理解蒸气-液体平衡的关键参数。",
+      "source": "Scientific literature (e.g., from thermodynamics textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The concept of fugacity helps explain why certain gases behave differently under high pressure.",
+      "translation": "逸度的概念有助于解释某些气体在高压下行为不同的原因。",
+      "source": "Academic articles (e.g., from journals like the Journal of Physical Chemistry)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Researchers measured the fugacity of carbon dioxide in the experiment to model climate change effects.",
+      "translation": "研究人员在实验中测量了二氧化碳的逸度，以模拟气候变化的影响。",
+      "source": "News and scientific reports (e.g., environmental science contexts)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "fug-",
+        "meaning": "to flee or escape",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'fugere'（逃跑），演变为中世纪拉丁语 'fugacitas'，表示逃逸性。在19世纪，物理学家如吉布斯（Gibbs）将其引入热力学中，作为一种修正理想气体定律的概念，以描述真实气体行为。",
+    "firstKnownUse": "约19世纪中期（1860s）",
+    "relatedWords": [
+      "fugitive",
+      "fugacious"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块编码法（chunking）将fugacity与理想气体概念关联；通过视觉化工具如图表展示逸度在热力学中的位置，以加强长时记忆；建议初级学习者从简单比喻开始，例如将fugacity想象为气体'逃跑'的意愿，并与母语中文'逸散'概念对比以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "effective partial pressure",
+        "similarity": "0.8",
+        "context": "适用于热力学计算中，非理想气体系统的语境"
+      },
+      {
+        "word": "escaping tendency",
+        "similarity": "0.7",
+        "context": "在化学工程中描述物质逃逸性的语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inactivity",
+        "context": "在科学语境中，表示缺乏逃逸倾向的相反状态"
+      },
+      {
+        "word": "stability",
+        "context": "用于描述系统稳定性时，与fugacity的动态变化相对"
+      }
+    ],
+    "hypernyms": [
+      "thermodynamic property"
+    ],
+    "hyponyms": [
+      "fugacity coefficient"
+    ],
+    "collocations": [
+      {
+        "pattern": "fugacity of [substance]",
+        "examples": [
+          "fugacity of water vapor"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "calculate [verb] fugacity",
+        "examples": [
+          "calculate the fugacity using equations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在科学文化中象征现代热力学的精确性和复杂性，隐含语义反映了工业革命后对气体行为的深入理解，并非特定文化象征。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于工程和环境科学语境",
+        "usage": "例如，在美国学术界，fugacity常与气候模型相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中可能更强调其物理学基础",
+        "usage": "在英国教育体系中，常作为高级物理课程的一部分"
+      }
+    ],
+    "historicalContext": "与19世纪的工业革命和热力学发展相关，例如Josiah Willard Gibbs的贡献，体现了科学进步如何影响语言。",
+    "modernUsage": "在社交媒体和在线教育中，fugacity常出现在科学普及视频或论坛讨论中，反映了全球科学交流的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个气体分子试图从容器中'逃跑'的场景，就像小鸟从笼子里飞出。",
+      "keyElements": [
+        "气体分子",
+        "逃跑动作",
+        "容器"
+      ],
+      "emotionalConnection": "联结到个人经验，如回忆儿时放风筝的自由感，以触发积极情绪并强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Fugacity sounds like 'fugue' (a musical term for flight), so picture a gas 'fleeing' like notes in a symphony.",
+        "explanation": "通过声音联觉和视觉联想，帮助学习者将抽象概念转化为生动图像，提升记忆保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "F-U-G-A-C-I-T-Y: Flee Under Gas And Chemical Intense Tendency Yearly.",
+        "explanation": "使用首字母缩写结合故事法，基于认知负荷理论减少信息处理压力"
+      }
+    ],
+    "wordAssociations": [
+      "fugitive",
+      "flee",
+      "gas",
+      "escape"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "fugacities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] of [substance]",
+        "description": "名词短语结构，用于描述特定物质的属性",
+        "examples": [
+          "The fugacity of oxygen in the mixture"
+        ]
+      },
+      {
+        "pattern": "[Verb] the fugacity",
+        "description": "动词+名词结构，常用于计算或测量语境",
+        "examples": [
+          "Calculate the fugacity accurately"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing fugacity with fugacious",
+        "correction": "Use fugacity for thermodynamic contexts and fugacious for temporary states",
+        "explanation": "fugacious意为短暂的，常被误用；通过语境区分可避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'fugacities' for plural forms",
+        "explanation": "作为可数名词，需正确添加-s，但初学者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Low (e.g., ranked around 50,000 in COCA corpus)",
+    "domains": [
+      "science",
+      "engineering",
+      "chemistry"
+    ],
+    "tags": [
+      "thermodynamics",
+      "physical chemistry",
+      "gas laws"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "word": "reproduce",
+  "phonetics": {
+    "british": "/ˌriːprəˈdjuːs/",
+    "american": "/ˌriːprəˈduːs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to produce a copy of something, such as an image, sound, or document",
+      "chineseTranslation": "复制",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to produce young or offspring through biological processes",
+      "chineseTranslation": "繁殖",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to recreate or imitate something, such as an experiment or a condition",
+      "chineseTranslation": "再现",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reproduce a sound",
+      "meaning": "复制声音",
+      "example": "The new speakers can reproduce a sound with high fidelity.",
+      "exampleTranslation": "新音箱可以高保真地复制声音。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "reproduce faithfully",
+      "meaning": "忠实地再现",
+      "example": "The artist tried to reproduce faithfully the colors of the original painting.",
+      "exampleTranslation": "艺术家试图忠实地再现原画的颜色。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "reproduce offspring",
+      "meaning": "繁殖后代",
+      "example": "Many animals reproduce offspring during the spring season.",
+      "exampleTranslation": "许多动物在春季繁殖后代。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists were able to reproduce the experiment with consistent results.",
+      "translation": "科学家们能够再现实验并获得一致的结果。",
+      "source": "Scientific literature (e.g., from journals like Nature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The printer can reproduce high-quality images from digital files.",
+      "translation": "打印机可以从数字文件复制出高质量图像。",
+      "source": "Technology articles (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In biology, organisms reproduce to ensure the survival of their species.",
+      "translation": "在生物学中，生物繁殖以确保物种的生存。",
+      "source": "Educational texts (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The documentary aims to reproduce the atmosphere of the 1960s civil rights movement.",
+      "translation": "这部纪录片旨在再现1960年代民权运动的氛围。",
+      "source": "Historical narratives (e.g., from OED examples)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "re-",
+        "meaning": "again or back",
+        "language": "Latin"
+      },
+      {
+        "root": "producere",
+        "meaning": "to lead forth or produce",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'reproducere'，意为再次生产或延伸。在中世纪拉丁语中演变为 'reproducere'，用于描述农业和生物过程。17世纪传入英语，最初用于生物学和艺术复制领域，逐渐扩展到现代科学和技术语境中，以反映重复或再造的概念。",
+    "firstKnownUse": "约1600年",
+    "relatedWords": [
+      "produce",
+      "reproduction",
+      "reproductive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'reproduce' 的不同含义（如复制 vs. 繁殖）分组记忆，以减少认知负荷；",
+      "使用双编码理论，通过视觉图像（如画一棵树繁殖种子）与词汇关联，提升对多义词的记忆保留；",
+      "根据斯韦林学习模型，通过重复暴露于真实语境中（如阅读科学文章），逐步强化词汇的语用理解"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "replicate",
+        "similarity": "0.8",
+        "context": "适用于科学实验语境中，例如再现研究结果"
+      },
+      {
+        "word": "duplicate",
+        "similarity": "0.7",
+        "context": "适用于复制文件或对象的非生物语境"
+      },
+      {
+        "word": "breed",
+        "similarity": "0.6",
+        "context": "适用于生物繁殖的特定语境，如动物育种"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destroy",
+        "context": "在复制语境中，表示破坏而非再现"
+      },
+      {
+        "word": "extinguish",
+        "context": "在繁殖语境中，表示结束或灭绝物种"
+      }
+    ],
+    "hypernyms": [
+      "produce"
+    ],
+    "hyponyms": [
+      "clone",
+      "multiply"
+    ],
+    "collocations": [
+      {
+        "pattern": "reproduce + noun (e.g., reproduce data)",
+        "examples": [
+          "reproduce data accurately"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "reproduce + adverb (e.g., reproduce perfectly)",
+        "examples": [
+          "reproduce perfectly in a lab"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与科学和技术创新相关联，象征进步和再造能力；在东方文化如中国中，可能隐含生态和可持续发展主题，例如在环境保护语境下强调生物繁殖的必要性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更侧重正式和科学语境，使用较强调历史延续",
+        "usage": "在英国英语中，常用于学术讨论，如 'reproduce historical events'，反映文化对传统的重视"
+      },
+      {
+        "region": "美国",
+        "variation": "更常见于技术性和日常语境，使用更灵活",
+        "usage": "在美国英语中，常用于媒体和科技，如 'reproduce a viral video'，体现快速传播的文化"
+      }
+    ],
+    "historicalContext": "与工业革命和现代生物学发展相关，例如达尔文的进化论中使用 'reproduce' 来讨论物种适应；在中国文化中，类似于传统农业概念，如 '生生不息'。",
+    "modernUsage": "在社交媒体和数字时代，该词常用于描述内容分享和AI生成，如TikTok视频的再现，反映全球化传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个科学家在实验室中复制一个DNA链，同时一棵树在生长繁殖种子。",
+      "keyElements": [
+        "实验室",
+        "DNA链",
+        "树木种子"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年种植树苗的喜悦，以触发积极情绪增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Reproduce sounds like 're-do produce'，意思是再次生产。",
+        "explanation": "通过声音联想，将词汇分解为 're-' 和 'produce'，帮助初级学习者建立语义连接"
+      },
+      {
+        "type": "缩略",
+        "content": "RP for Reproduce Plants（繁殖植物）",
+        "explanation": "使用首字母缩写结合视觉图像，基于认知负荷理论减少记忆压力"
+      }
+    ],
+    "wordAssociations": [
+      "copy",
+      "breed",
+      "replicate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "reproduced",
+      "pastParticiple": "reproduced",
+      "presentParticiple": "reproducing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + reproduce + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "Animals reproduce offspring."
+        ]
+      },
+      {
+        "pattern": "reproduce + adverbially",
+        "description": "动词 + 副词结构，用于强调方式",
+        "examples": [
+          "The machine can reproduce accurately."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'produce' without 're-' prefix",
+        "correction": "Use 'reproduce' for repetition",
+        "explanation": "学习者常忽略前缀 're-' 的再造含义，导致语义混淆；建议通过对比练习避免"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'reproduct' instead of 'reproduced'",
+        "correction": "Use 'reproduced' for past tense",
+        "explanation": "中文母语者可能受时态影响出错；使用时间线图辅助学习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "biology",
+      "art"
+    ],
+    "tags": [
+      "verb",
+      "action",
+      "repetition",
+      "biological process"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

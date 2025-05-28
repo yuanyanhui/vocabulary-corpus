@@ -1,0 +1,231 @@
+{
+  "word": "bisector",
+  "phonetics": {
+    "british": "/baɪˈsɛktə/",
+    "american": "/baɪˈsɛktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A line or point that divides a geometric figure into two equal parts.",
+      "chineseTranslation": "分线；分点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "angle bisector",
+      "meaning": "角的分线",
+      "example": "The angle bisector divides the angle into two equal angles.",
+      "exampleTranslation": "角的分线将角分成两个相等的角度。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "perpendicular bisector",
+      "meaning": "垂直分线",
+      "example": "The perpendicular bisector of a line segment cuts it at a right angle and in half.",
+      "exampleTranslation": "线段的垂直分线以直角切断它并将其一分为二。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In geometry, the bisector of an angle is a line that splits it into two equal parts.",
+      "translation": "在几何学中，角的分线是将角分成两个相等部分的线。",
+      "source": "Educational textbook (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers use the bisector to ensure symmetry in bridge designs.",
+      "translation": "工程师使用分线来确保桥梁设计中的对称性。",
+      "source": "Technical article (e.g., from engineering journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The bisector in this diagram helps visualize the midpoint of the shape.",
+      "translation": "这个图中的分线有助于可视化形状的中点。",
+      "source": "Mathematics software tutorial (e.g., GeoGebra)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "bi-",
+        "meaning": "two",
+        "language": "Latin"
+      },
+      {
+        "root": "secare",
+        "meaning": "to cut",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'bi-' (意为 'two' 或 'twice') 和 'secare' (意为 'to cut')，组合形成 'bisector'，最初用于描述切割成两等份的几何概念。17世纪在英语中出现，随着几何学的发展，从单纯的切割含义演变为现代数学术语。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "bisect",
+      "section",
+      "divide"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (发音难度中等，主要挑战在于 /baɪ/ 的双元音和重音位置，对中文母语者可能需要练习区分 'bi' 与类似音)",
+    "spellingDifficulty": "4 (拼写相对简单，但 'bisector' 的后缀 '-or' 需注意与其他词区分)",
+    "meaningComplexity": "6 (语义涉及几何概念，可能需要背景知识)",
+    "usageComplexity": "7 (主要在技术语境中使用，需理解搭配和上下文)",
+    "learningTips": [
+      "使用认知科学原理，如将词汇与视觉图像关联，例如想象一把刀切分一个三角形；结合间隔重复法复习以强化记忆；针对中文学习者，比较 'bisector' 与中文 '分线' 的异同以建立双语连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "divider",
+        "similarity": "0.7",
+        "context": "适用于一般分割语境，如 'The divider splits the room evenly' (这个分隔物均匀地分割了房间)"
+      },
+      {
+        "word": "splitter",
+        "similarity": "0.6",
+        "context": "在非正式或工程语境中使用，如设备或工具 (在非正式或工程语境中使用，如设备或工具)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unifier",
+        "context": "在强调整合或合并的语境中，如 'The unifier combines elements instead of dividing them' (整合者将元素结合而不是分割它们)"
+      }
+    ],
+    "hypernyms": [
+      "line",
+      "point"
+    ],
+    "hyponyms": [
+      "angle bisector",
+      "perpendicular bisector"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + bisector (e.g., angle bisector)",
+        "examples": [
+          "The angle bisector is crucial in triangle geometry."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Bisector + of + noun (e.g., bisector of a segment)",
+        "examples": [
+          "The bisector of the segment meets at the midpoint."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为数学术语，在西方教育文化中象征精确性和逻辑推理，与古希腊几何学传统相关，但在全球范围内无显著文化象征。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "使用更常见于STEM教育",
+        "usage": "在美国英语中，常在学校和专业语境中使用，以强调实用应用"
+      },
+      {
+        "region": "英国",
+        "variation": "与国际标准一致，但可能在历史数学文本中更强调古典起源",
+        "usage": "在英国英语中，常与历史几何学关联，如欧几里得作品"
+      }
+    ],
+    "historicalContext": "与古希腊数学家如欧几里得的著作相关，反映了西方科学传统的演进；在现代，出现在教育和工程领域，体现工业革命后的技术发展。",
+    "modernUsage": "在社交媒体和在线教育平台（如YouTube教程）中流行，用于STEM学习，但在中国语境中可能通过翻译词 '分线' 融入本地教育系统。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个三角形被一把刀垂直切成两半，刀刃代表 bisector。",
+      "keyElements": [
+        "三角形",
+        "刀刃",
+        "对称分割"
+      ],
+      "emotionalConnection": "联结到个人经验，如切蛋糕的场景，以触发积极情绪和实际联想"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Bisector 听起来像 'buy sector'，想象购买一个被切成两半的扇区。",
+        "explanation": "通过声音联想帮助记忆词根 'bi-' 意为 'two'，结合视觉想象强化认知"
+      },
+      {
+        "type": "缩略",
+        "content": "B-I-S-E-C-T-O-R: B for 'two' (bi-), I for 'imagine cutting'.",
+        "explanation": "使用首字母缩略法结合故事构建，基于认知科学中的叙事记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "bisect",
+      "divide",
+      "symmetry"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bisectors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + bisector",
+        "description": "作为主语或宾语出现，常用于描述几何结构",
+        "examples": [
+          "The bisector divides the angle."
+        ]
+      },
+      {
+        "pattern": "The [type] bisector of [object]",
+        "description": "用于指定类型和对象",
+        "examples": [
+          "The angle bisector of the triangle."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing bisector with bisect",
+        "correction": "Use bisector as a noun for the line, and bisect as a verb",
+        "explanation": "中文学习者常混淆名词和动词形式，导致句法错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural: bisectors",
+        "explanation": "由于英语复数规则的细微差异，可能遗忘添加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 20,000 in COCA corpus for technical domains)",
+    "domains": [
+      "科技",
+      "教育",
+      "工程"
+    ],
+    "tags": [
+      "数学",
+      "几何",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

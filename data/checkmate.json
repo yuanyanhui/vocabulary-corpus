@@ -1,0 +1,260 @@
+{
+  "word": "checkmate",
+  "phonetics": {
+    "british": "/ˈtʃɛkmeɪt/",
+    "american": "/ˈtʃɛkˌmeɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The position in chess where a player's king is in check and there is no legal move to remove the threat, resulting in the end of the game.",
+      "chineseTranslation": "将死（国际象棋中，王棋被将军且无法化解的局面）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put the opponent's king in checkmate, thereby winning the game.",
+      "chineseTranslation": "将死对手（在国际象棋中使对手王棋无法逃脱）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun (figurative)",
+      "definition": "A situation in which someone or something is defeated or put in an inescapable position.",
+      "chineseTranslation": "绝境或彻底失败（比喻意义）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deliver checkmate",
+      "meaning": "实现将死",
+      "example": "The grandmaster delivered checkmate in just ten moves.",
+      "exampleTranslation": "这位国际象棋大师在短短十步内实现了将死。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "checkmate position",
+      "meaning": "将死局面",
+      "example": "The checkmate position was unavoidable after the pawn advance.",
+      "exampleTranslation": "兵推进后，将死局面不可避免。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "metaphorical checkmate",
+      "meaning": "比喻中的绝境",
+      "example": "In business, a checkmate can mean the end of a company's dominance.",
+      "exampleTranslation": "在商业中，将死可以指一家公司主导地位的结束。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After a series of brilliant moves, the player achieved checkmate and won the tournament.",
+      "translation": "经过一系列精彩的走棋，选手实现了将死并赢得了锦标赛。",
+      "source": "Chess literature (e.g., from a modern chess manual)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the debate, his argument put his opponent in a checkmate, leaving no room for rebuttal.",
+      "translation": "在辩论中，他的论点将对手置于绝境，无法反驳。",
+      "source": "News article (e.g., from The Guardian)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The detective's investigation led to a checkmate of the criminal network.",
+      "translation": "侦探的调查导致犯罪网络的彻底瓦解。",
+      "source": "Fiction (e.g., detective novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English from Old French 'eschec mat', derived from Persian 'shāh māt', meaning 'the king is helpless'.",
+    "rootWords": [
+      {
+        "root": "shāh",
+        "meaning": "king",
+        "language": "Persian"
+      },
+      {
+        "root": "māt",
+        "meaning": "dead or helpless",
+        "language": "Persian"
+      }
+    ],
+    "historicalDevelopment": "从波斯语传入阿拉伯语和欧洲语言，通过中世纪的国际象棋传播演变为现代英语，最初用于描述国王无法移动的局面，后来扩展到比喻性用法。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "check",
+      "mate",
+      "stalemate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5 (moderate, due to the 'ch' sound which may confuse Chinese learners with similar Mandarin 'ch' but different aspiration)",
+    "spellingDifficulty": "4 (straightforward but the compound nature might lead to errors in hyphenation for non-native speakers)",
+    "meaningComplexity": "6 (basic literal meaning is simple, but figurative uses add layers, requiring contextual understanding)",
+    "usageComplexity": "7 (common in specific domains like games, but metaphorical use demands advanced context awareness)",
+    "learningTips": [
+      "使用分块记忆法，将词汇与国际象棋图像结合；根据认知科学，创建个人联想，如将 'checkmate' 与失败的个人经历关联，以增强长期记忆；练习通过重复曝光于不同语境中以减少干扰效应。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mate",
+        "similarity": "0.8",
+        "context": "在国际象棋语境中，用于简短描述将死情况"
+      },
+      {
+        "word": "defeat",
+        "similarity": "0.6",
+        "context": "比喻性语境中，表示彻底失败"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stalemate",
+        "context": "国际象棋中，表示僵局而非失败"
+      },
+      {
+        "word": "victory",
+        "context": "比喻中，表示成功而非失败"
+      }
+    ],
+    "hypernyms": [
+      "victory",
+      "endgame"
+    ],
+    "hyponyms": [
+      "fool's mate",
+      "scholar's mate"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + checkmate (e.g., achieve/deliver checkmate)",
+        "examples": [
+          "He achieved checkmate quickly."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "checkmate + noun (e.g., checkmate position)",
+        "examples": [
+          "The checkmate position was critical."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征战略胜利或无可避免的失败，常用于比喻人生决策，源自国际象棋的战略游戏，体现理性思考和竞争精神。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式或休闲语境中",
+        "usage": "在英国英语中，常与历史悠久的国际象棋传统关联"
+      },
+      {
+        "region": "United States",
+        "variation": "在比喻用法中更常见，如商业或政治语境",
+        "usage": "在美国英语中，可能更口语化，用于描述竞争性场景"
+      }
+    ],
+    "historicalContext": "起源于中世纪欧洲的国际象棋游戏，与骑士文化和战略战术相关，在文学如莎士比亚作品中出现，象征命运的不可逆转。",
+    "modernUsage": "在社交媒体和流行文化中，常用于描述政治辩论或体育赛事的决定性时刻，如Twitter上的政治评论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个国际象棋棋盘，国王被敌方棋子包围，无法移动的场景。",
+      "keyElements": [
+        "国王棋子",
+        "将军的威胁",
+        "棋盘布局"
+      ],
+      "emotionalConnection": "联结到个人失败经历，如输掉游戏，触发挫败感以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'checkmate' 联想为 'check my fate'，意思是检查我的命运。",
+        "explanation": "通过声音联想和个人反思，增强词汇与概念的认知连接"
+      },
+      {
+        "type": "缩略",
+        "content": "C-M为'Caught-Mate'，表示被捕获的局面。",
+        "explanation": "利用首字母缩写结合视觉图像，减少记忆负荷"
+      }
+    ],
+    "wordAssociations": [
+      "chess",
+      "king",
+      "defeat",
+      "strategy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "checkmates",
+      "pastTense": "checkmated",
+      "pastParticiple": "checkmated",
+      "presentParticiple": "checkmating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., He checkmated the king)",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "She checkmated her opponent."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., a quick checkmate)",
+        "description": "作为名词短语，用于描述局面",
+        "examples": [
+          "The game ended in checkmate."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'check' alone",
+        "correction": "Use 'checkmate' for the final position",
+        "explanation": "学习者常将 'check' 和 'checkmate' 混淆，因为前者仅表示将军，而后者表示结束"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'checkmated' for past tense",
+        "explanation": "中文母语者可能错误使用 'checked mate' 而非 'checkmated'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "Sports",
+      "Games",
+      "Business",
+      "Literature"
+    ],
+    "tags": [
+      "Chess terminology",
+      "Strategy",
+      "Metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

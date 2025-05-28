@@ -1,0 +1,231 @@
+{
+  "word": "gmt",
+  "phonetics": {
+    "british": "/dʒiː em tiː/",
+    "american": "/dʒiː em tiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A time standard that is not affected by daylight saving time and is based on Earth's rotation, originally calculated from the mean solar time at the Greenwich Meridian.",
+      "chineseTranslation": "格林威治标准时间",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "GMT time",
+      "meaning": "格林威治标准时间的简称，常用于表示全球协调时间基准",
+      "example": "Please convert the event time to GMT time for international participants.",
+      "exampleTranslation": "请将活动时间转换为格林威治标准时间，以便国际参与者使用。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "UTC vs. GMT",
+      "meaning": "比较协调世界时（UTC）和格林威治标准时间（GMT）的差异",
+      "example": "While UTC and GMT are often used interchangeably, UTC is based on atomic time.",
+      "exampleTranslation": "虽然UTC和GMT经常互换使用，但UTC基于原子时。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The stock market opens at 9:00 AM GMT every weekday.",
+      "translation": "股票市场每周工作日早晨9:00格林威治标准时间开盘。",
+      "source": "Financial news articles",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Astronauts on the International Space Station use GMT to coordinate with ground control.",
+      "translation": "国际空间站上的宇航员使用格林威治标准时间与地面控制中心协调。",
+      "source": "Scientific literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In online gaming, servers are often set to GMT to accommodate players from different time zones.",
+      "translation": "在在线游戏中，服务器通常设置为格林威治标准时间，以适应不同时区的玩家。",
+      "source": "Technology blogs",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (acronym)",
+    "rootWords": [
+      {
+        "root": "Greenwich",
+        "meaning": "A district in London, England",
+        "language": "English"
+      },
+      {
+        "root": "Mean",
+        "meaning": "Average or midway",
+        "language": "Old English (from Germanic roots)"
+      },
+      {
+        "root": "Time",
+        "meaning": "Measurement of duration",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "GMT起源于19世纪，作为皇家格林威治天文台的标准时间系统演变而来。它最初基于太阳时，但随着原子钟的发明，逐渐被UTC取代；从航海和天文学的实际需求演变为现代全球通信的标准。",
+    "firstKnownUse": "1884 (adopted at the International Meridian Conference)",
+    "relatedWords": [
+      "UTC",
+      "timezone",
+      "standard time"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议使用视觉联想法：想象伦敦的格林威治天文台时钟，将GMT与日常生活时间表关联，以增强记忆路径；通过重复暴露于国际新闻语境中，强化语义理解，避免混淆类似缩写。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "UTC",
+        "similarity": "0.9",
+        "context": "在科学和技术语境中，常互换使用，尤其在全球协调系统中"
+      },
+      {
+        "word": "Zulu Time",
+        "similarity": "0.8",
+        "context": "在军事和航空领域，作为同义词使用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Local Time",
+        "context": "与本地时间相对，在日常对话中强调全球 vs. 区域差异"
+      }
+    ],
+    "hypernyms": [
+      "time standard"
+    ],
+    "hyponyms": [
+      "solar time",
+      "atomic time"
+    ],
+    "collocations": [
+      {
+        "pattern": "GMT + offset",
+        "examples": [
+          "The time in New York is GMT -5."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "set to GMT",
+        "examples": [
+          "Servers are set to GMT for accuracy."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "GMT象征着全球化的时间统一标准，源于英国的殖民历史和航海传统，在国际贸易和通信中隐含西方主导的全球规范。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "常作为本地时间基准",
+        "usage": "在英国，GMT用于冬季时间系统，强调历史遗产"
+      },
+      {
+        "region": "United States",
+        "variation": "更多使用Eastern Standard Time等，与GMT转换",
+        "usage": "在美国，GMT常在科技和金融领域使用，以适应国际协作"
+      }
+    ],
+    "historicalContext": "GMT与19世纪的帝国主义扩张相关，1884年国际子午线会议确立了其作为全球标准的地位，影响了文学如儒勒·凡尔纳的作品和现代全球化。",
+    "modernUsage": "在社交媒体和数字平台上，GMT用于跨时区沟通，例如Twitter上的事件时间标签，反映了当代全球连接趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古老的伦敦钟塔，指针指向零时区，周围是航海家和现代飞行员。",
+      "keyElements": [
+        "钟塔",
+        "全球地图",
+        "时间线"
+      ],
+      "emotionalConnection": "联结个人旅行经验，例如计算时差时的兴奋感，以触发长期记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "G for Greenwich, M for Mean, T for Time – 想象G吃苹果（Greenwich），M在中间（Mean），T是终点（Time）。",
+        "explanation": "通过视觉联想建立词根连接，减少记忆负担。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "GMT听起来像'jeet em tee'，联想到'jet'飞行跨越时区。",
+        "explanation": "利用声音相似性强化认知路径。"
+      }
+    ],
+    "wordAssociations": [
+      "time",
+      "zone",
+      "meridian",
+      "clock"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词使用，常与时间偏移或描述性短语搭配",
+        "examples": [
+          "The event starts at 10:00 GMT."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing GMT with UTC",
+        "correction": "Use GMT for solar-based time and UTC for atomic-based",
+        "explanation": "学员常混淆两者，需通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect capitalization",
+        "correction": "Always capitalize as GMT",
+        "explanation": "作为首字母缩写，必须大写以保持正式性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1% in COCA corpus for technical terms)",
+    "domains": [
+      "technology",
+      "science",
+      "business",
+      "travel"
+    ],
+    "tags": [
+      "time",
+      "standard",
+      "acronym",
+      "global"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "word": "hamburgers",
+  "phonetics": {
+    "british": "/ˈhæm.bɜː.ɡəz/",
+    "american": "/ˈhæm.bɝː.ɡɚz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sandwich consisting of a patty of ground beef, grilled and placed inside a sliced bun, often with various toppings such as cheese, lettuce, and tomato.",
+      "chineseTranslation": "汉堡包",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Informally, any similar patty made from other meats or plant-based ingredients, served in a bun.",
+      "chineseTranslation": "类似汉堡的食物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cheeseburgers",
+      "meaning": "加了奶酪的汉堡包",
+      "example": "I ordered two cheeseburgers with extra fries.",
+      "exampleTranslation": "我点了两个加了奶酪的汉堡包，外加薯条。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "hamburger menu",
+      "meaning": "在界面设计中，表示菜单的图标，通常是三个水平的线条",
+      "example": "Tap the hamburger menu to access more options.",
+      "exampleTranslation": "点击汉堡菜单图标来访问更多选项。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hamburger helper",
+      "meaning": "一种方便食品配料，用于制作汉堡相关菜肴",
+      "example": "We used hamburger helper to make a quick dinner.",
+      "exampleTranslation": "我们用汉堡助手快速做了一顿晚餐。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She enjoys eating hamburgers at fast-food restaurants on weekends.",
+      "translation": "她喜欢在周末去快餐店吃汉堡包。",
+      "source": "Contemporary spoken English corpus (e.g., COCA)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In American culture, hamburgers symbolize convenience and casual dining.",
+      "translation": "在美国文化中，汉堡包象征着便利和休闲用餐。",
+      "source": "News articles and cultural essays",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The chef experimented with gourmet hamburgers, using Wagyu beef and truffle oil.",
+      "translation": "厨师尝试制作高档汉堡包，使用和牛肉和松露油。",
+      "source": "Culinary literature",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Germanic, via English from Hamburg, Germany",
+    "rootWords": [
+      {
+        "root": "Hamburg",
+        "meaning": "A city in Germany",
+        "language": "German"
+      },
+      {
+        "root": "burger",
+        "meaning": "From 'bourger' meaning citizen or inhabitant",
+        "language": "Middle Low German"
+      }
+    ],
+    "historicalDevelopment": "The term originated in the 19th century from Hamburg-style chopped steak, brought by German immigrants to the U.S. It evolved from 'Hamburg steak' to the modern sandwich form in the late 1800s, with the bun added for convenience.",
+    "firstKnownUse": "1834 (as 'Hamburg steak')",
+    "relatedWords": [
+      "burger",
+      "cheeseburger",
+      "Hamburg steak"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2-B1 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "2",
+    "usageComplexity": "4",
+    "learningTips": [
+      "使用认知科学原理，如将单词与视觉图像关联，例如想象一个汉堡包的图片来强化记忆；通过重复练习发音以克服母语干扰，例如汉语中没有的卷舌音；结合情节记忆法，将单词置于日常用餐场景中以提升长期保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "burgers",
+        "similarity": "0.9",
+        "context": "在非正式语境中用于指代相同事物，如快餐"
+      },
+      {
+        "word": "sandwiches",
+        "similarity": "0.6",
+        "context": "在更广泛的食物类别中，但不精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "salads",
+        "context": "健康饮食或素食语境中，作为对快餐的反义"
+      },
+      {
+        "word": "vegetables",
+        "context": "推广均衡饮食的语境中"
+      }
+    ],
+    "hypernyms": [
+      "fast food",
+      "sandwiches"
+    ],
+    "hyponyms": [
+      "cheeseburgers",
+      "veggie burgers"
+    ],
+    "collocations": [
+      {
+        "pattern": "with toppings",
+        "examples": [
+          "hamburgers with cheese and onions"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "eat hamburgers",
+        "examples": [
+          "people eat hamburgers at picnics"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，汉堡包代表了美国快餐文化的象征，体现了便利性、资本主义和全球化，常与自由和现代生活方式相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更倾向于使用各种配料，如芝士和生菜",
+        "usage": "在美国日常用语中，汉堡包常与休闲活动相关"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更简单，强调肉饼本身",
+        "usage": "在英国，汉堡包常出现在街头小吃摊，但不如在美国普及"
+      }
+    ],
+    "historicalContext": "汉堡包起源于19世纪的德国移民到美国，与工业革命和城市化相关联，后来通过好莱坞和全球连锁店传播。",
+    "modernUsage": "在社交媒体和数字平台上，汉堡包常用于美食博主的内容，或在健康讨论中作为高热量食物的代表。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个生动的快餐场景：一个热气腾腾的汉堡包放在盘子里，配有薯条和饮料。",
+      "keyElements": [
+        "热气腾腾的汉堡",
+        "鲜艳的配料",
+        "快餐店环境"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时吃汉堡的快乐时刻，以触发积极情绪并加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'hamburgers' 联想成 'Ham-burg-ers'，想象德国汉堡市（Hamburg）与火腿（Ham）结合成的食物。",
+        "explanation": "通过空间联想和视觉化，帮助学习者将抽象词汇与具体图像连接，提升认知保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "聆听 'hamburgers' 的发音时，联想到咀嚼食物的声音和味道。",
+        "explanation": "利用多感官刺激，根据认知科学原理强化神经路径"
+      }
+    ],
+    "wordAssociations": [
+      "burger",
+      "fast food",
+      "meal",
+      "American culture"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "hamburgers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + hamburgers",
+        "description": "作为可数名词在句中作宾语",
+        "examples": [
+          "I like hamburgers."
+        ]
+      },
+      {
+        "pattern": "Hamburgers + with + modifiers",
+        "description": "用于描述汉堡的配料",
+        "examples": [
+          "Hamburgers with cheese are delicious."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'hamburger' as uncountable",
+        "correction": "Use 'hamburgers' for plural or specify with articles",
+        "explanation": "汉语学习者常忽略可数名词的复数形式，导致语义模糊"
+      },
+      {
+        "mistake": "Mispronouncing as 'ham-bur-jers'",
+        "correction": "Pronounce as /ˈhæm.bɝː.ɡɚz/",
+        "explanation": "由于母语音系差异，卷舌音可能被忽略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "food",
+      "culture",
+      "daily life"
+    ],
+    "tags": [
+      "culinary",
+      "Americanism",
+      "informal"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

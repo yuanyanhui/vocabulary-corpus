@@ -1,0 +1,224 @@
+{
+  "word": "maintainer",
+  "phonetics": {
+    "british": "/meɪnˈteɪnə(r)/",
+    "american": "/meɪnˈteɪnər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or entity responsible for keeping something in proper condition, such as maintaining systems, software, or equipment.",
+      "chineseTranslation": "维护者",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software maintainer",
+      "meaning": "软件维护者",
+      "example": "The software maintainer regularly updates the code to fix bugs.",
+      "exampleTranslation": "软件维护者定期更新代码以修复漏洞。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "system maintainer",
+      "meaning": "系统维护者",
+      "example": "As a system maintainer, she ensures the network runs smoothly.",
+      "exampleTranslation": "作为系统维护者，她确保网络运行顺畅。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The building's maintainer identified and repaired the faulty wiring before it caused any accidents.",
+      "translation": "建筑物的维护者及时识别并修复了 faulty 线路，以防止事故发生。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In open-source projects, a dedicated maintainer coordinates contributions from developers worldwide.",
+      "translation": "在开源项目中，一位专职维护者协调全球开发者的贡献。",
+      "source": "Online tech article (e.g., from GitHub documentation)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Every aircraft requires a skilled maintainer to perform routine checks and maintenance.",
+      "translation": "每架飞机都需要熟练的维护者进行例行检查和维护。",
+      "source": "Aviation industry report",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "manu tenere",
+        "meaning": "to hold in the hand",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'manu tenere'，意思是“用手握持”，演变为古法语 'maintenir'，意为“支撑或保持”，再到中古英语 'maintainen'，逐渐扩展到保持事物状态的含义，最终在15世纪发展出 'maintainer' 作为名词，指负责保持或修复的人或事物。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "maintain",
+      "maintenance"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "3",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学原理，使用分块记忆法：将 'maintainer' 与日常修理场景关联，如想象一名工人修理机器，以增强视觉和情境记忆；重复暴露法：通过阅读技术文章逐步增加词汇曝光频率，以强化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "upkeeper",
+        "similarity": "0.8",
+        "context": "在设备或系统维护的语境中使用"
+      },
+      {
+        "word": "sustainer",
+        "similarity": "0.7",
+        "context": "强调持续支持的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destroyer",
+        "context": "在破坏或拆除事物的语境中"
+      }
+    ],
+    "hypernyms": [
+      "person"
+    ],
+    "hyponyms": [
+      "system administrator"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + maintainer",
+        "examples": [
+          "software maintainer",
+          "network maintainer"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the + maintainer + verb",
+        "examples": [
+          "the maintainer fixes issues"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征技术维护和可持续性的重要性，尤其在工业化和数字化时代，代表了可靠性和责任感。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "常用于技术领域，如软件开发",
+        "usage": "在美国英语中，特别是在IT行业，'maintainer' 常指开源社区的贡献者，强调协作和持续更新"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于工程和维护服务",
+        "usage": "在英国英语中，可能与传统制造业相关，使用时更正式"
+      }
+    ],
+    "historicalContext": "与工业革命相关的，体现了从手工劳动到现代技术维护的演变，在文学如狄更斯的作品中，隐含了对劳动者角色的社会隐喻。",
+    "modernUsage": "在社交媒体和在线社区中，常见于GitHub等平台，指开源项目的维护者，反映了数字时代协作趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一名穿着工作服的工人在修理一台复杂的机器。",
+      "keyElements": [
+        "工人",
+        "机器",
+        "工具"
+      ],
+      "emotionalConnection": "联想到个人经历中修理家用电器的情景，以触发情感共鸣并加强记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'maintainer' 联想为 'main trainer'，仿佛是主要训练者或守护者。",
+        "explanation": "通过声音相似性创建联想，帮助初级学习者快速回忆词汇。"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'M-A-I-N' 代表 'Maintain And Improve Now'。",
+        "explanation": "利用首字母缩写结合实际行动描述，基于认知心理学中的编码策略。"
+      }
+    ],
+    "wordAssociations": [
+      "fixer",
+      "keeper",
+      "sustainer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "maintainers",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "作为主语的典型结构，常用于描述责任。",
+        "examples": [
+          "The maintainer checks the system daily."
+        ]
+      },
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "使用修饰语来指定类型。",
+        "examples": [
+          "A dedicated software maintainer is essential for project success."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'maintainer' with 'maintenance'",
+        "correction": "Use 'maintainer' for a person and 'maintenance' for the process or act.",
+        "explanation": "学习者常混淆名词和相关派生词；建议通过语境区分以避免错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural: 'maintainers'.",
+        "explanation": "由于英语名词规则简单，但非规则词可能干扰；通过练习句型强化正确形式。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 10,000 in COCA corpus",
+    "domains": [
+      "Technology",
+      "Engineering",
+      "Business"
+    ],
+    "tags": [
+      "profession",
+      "technical",
+      "maintenance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

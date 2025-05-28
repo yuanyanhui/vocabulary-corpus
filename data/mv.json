@@ -1,0 +1,205 @@
+{
+  "word": "mv",
+  "phonetics": {
+    "british": "/ɛmˈviː/",
+    "american": "/ɛmˈviː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to move a file or directory from one location to another, often used as a command in Unix-like operating systems.",
+      "chineseTranslation": "在计算机中，用于移动文件或目录，常作为类Unix操作系统的命令",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mv source destination",
+      "meaning": "移动源文件或目录到目标位置",
+      "example": "mv file1.txt /home/user/",
+      "exampleTranslation": "将 file1.txt 移动到 /home/user/ 目录",
+      "frequency": "high"
+    },
+    {
+      "phrase": "mv -i source destination",
+      "meaning": "交互式移动源文件到目标位置（提示覆盖确认）",
+      "example": "mv -i oldfile.txt newfile.txt",
+      "exampleTranslation": "交互式地将 oldfile.txt 重命名为 newfile.txt，并提示是否覆盖",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the terminal, you can use mv to relocate files quickly.",
+      "translation": "在终端中，您可以使用 mv 快速移动文件。",
+      "source": "Computing tutorial (e.g., from Linux documentation)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "For safety, always add the -i flag with mv when overwriting files.",
+      "translation": "为了安全，在覆盖文件时总是添加 -i 标志与 mv 一起使用。",
+      "source": "Online programming forum",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "System administrators often rely on mv for file management in scripts.",
+      "translation": "系统管理员经常在脚本中使用 mv 进行文件管理。",
+      "source": "Technical literature (e.g., from O'Reilly books)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "move",
+        "meaning": "to change the position of something",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term 'mv' is an abbreviation derived from the English verb 'move', originating in the development of the Unix operating system in the 1970s. It evolved as a shorthand command for file relocation, reflecting the need for efficiency in command-line interfaces, and has been standardized in POSIX systems.",
+    "firstKnownUse": "1971, in the early versions of Unix at Bell Labs",
+    "relatedWords": [
+      "cp (copy)",
+      "rm (remove)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as it is an abbreviation pronounced as separate letters, which may confuse learners with letter-sound mappings)",
+    "spellingDifficulty": "2 (out of 10, simple two-letter abbreviation, but context-dependent)",
+    "meaningComplexity": "6 (out of 10, requires understanding of computing contexts and specific usage rules)",
+    "usageComplexity": "7 (out of 10, involves command-line syntax and potential errors like overwriting files)",
+    "learningTips": [
+      "使用认知科学中的分块法（chunking）将 'mv' 与其功能关联，如想象 'm' 为 'move' 和 'v' 为 'via'，帮助记忆；结合重复练习和实际操作以强化语境记忆；对于中文母语者，关联到类似命令如 Windows 的 'move'，以桥接文化认知差异。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "move",
+        "similarity": "0.8",
+        "context": "在文件管理语境中，用于表示位置改变（例如，在 Windows 系统中）"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cp",
+        "context": "在文件操作中，表示复制而非移动，因此不改变源位置"
+      }
+    ],
+    "hypernyms": [
+      "file command"
+    ],
+    "hyponyms": [
+      "mv -f (force move)",
+      "mv -i (interactive move)"
+    ],
+    "collocations": [
+      {
+        "pattern": "mv [options] source destination",
+        "examples": [
+          "mv file.txt newdir/",
+          "mv -v source dest"
+        ],
+        "strength": "strong"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，'mv' 象征效率和简洁，体现出开源社区的实用主义精神，常在编程文化中作为基础工具出现，隐含对命令行操作的崇拜。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "标准 Unix/Linux 使用",
+        "usage": "在美国科技教育中，'mv' 是入门级命令，常在编程课程中教授"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能在学术语境中强调历史演变",
+        "usage": "在英国的计算机科学中，用于教学 POSIX 标准"
+      }
+    ],
+    "historicalContext": "与 1970s 的 Unix 革命相关，反映计算机科学发展的里程碑，特别是在贝尔实验室的创新浪潮中。",
+    "modernUsage": "在社交媒体和在线社区（如 GitHub、Stack Overflow）中，'mv' 频繁出现于代码分享和问题解决讨论，体现数字时代的快速迭代。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件像行李箱被从一个房间移动到另一个房间的场景",
+      "keyElements": [
+        "文件作为行李",
+        "移动路径作为路线"
+      ],
+      "emotionalConnection": "联结到个人搬家的经历，触发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "'M' for 'Move', 'V' for 'Via' a new path",
+        "explanation": "通过视觉联想将 'mv' 与实际移动物体联系，运用认知科学中的双编码理论（dual coding）增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "Movers Van",
+        "explanation": "将 'mv' 想象为 'Movers Van'，一个搬运卡车，帮助通过故事化记忆固定词汇"
+      }
+    ],
+    "wordAssociations": [
+      "move",
+      "file",
+      "command"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "mv [options] source destination",
+        "description": "命令结构，包括可选参数、源和目标",
+        "examples": [
+          "mv file1 file2"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Forgetting the -i flag and overwriting files accidentally",
+        "correction": "Always use mv -i for interactive mode",
+        "explanation": "这可能导致数据丢失，建议通过实践避免"
+      },
+      {
+        "mistake": "Misusing mv for copying",
+        "correction": "Use cp for copying instead",
+        "explanation": "mv 仅移动而非复制，混淆会改变文件位置"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High in technical corpora (e.g., ranked in top 100 in COCA computing subset)",
+    "domains": [
+      "technology",
+      "computing",
+      "programming"
+    ],
+    "tags": [
+      "command",
+      "file management",
+      "Unix"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED for etymology",
+      "COCA for frequency",
+      "BNC for usage patterns"
+    ]
+  }
+}

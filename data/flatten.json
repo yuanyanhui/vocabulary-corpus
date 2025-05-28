@@ -1,0 +1,264 @@
+{
+  "word": "flatten",
+  "phonetics": {
+    "british": "/ˈflæt(ə)n/",
+    "american": "/ˈflætən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make something flat or flatter, often by pressing or smoothing",
+      "chineseTranslation": "使变平；压平",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to level or raze something, such as a structure",
+      "chineseTranslation": "夷平；摧毁",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to convert a multi-dimensional structure into a one-dimensional one",
+      "chineseTranslation": "扁平化（例如数组）",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "flatten out",
+      "meaning": "使变平或展开",
+      "example": "The road will flatten out after the hill.",
+      "exampleTranslation": "道路在爬过山丘后会变平。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "flatten against",
+      "meaning": "紧贴或压在某物上",
+      "example": "The cat flattened against the wall to hide.",
+      "exampleTranslation": "猫紧贴墙壁以躲藏。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "flatten the curve",
+      "meaning": "减缓增长速度以避免高峰",
+      "example": "Public health measures helped flatten the curve of the pandemic.",
+      "exampleTranslation": "公共卫生措施帮助减缓了疫情的增长曲线。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She used a roller to flatten the dough for the pie.",
+      "translation": "她用压路机将派馅饼面团压平。",
+      "source": "Daily cooking context",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The earthquake flattened several buildings in the city center.",
+      "translation": "地震夷平了市中心的几座建筑。",
+      "source": "News reports",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, we can flatten this array to simplify the data structure.",
+      "translation": "在编程中，我们可以扁平化这个数组以简化数据结构。",
+      "source": "Technical documentation",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "flat",
+        "meaning": "level or even surface",
+        "language": "Old English (from Proto-Germanic *flatjaz)"
+      },
+      {
+        "root": "-en",
+        "meaning": "suffix to form verbs",
+        "language": "Middle English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'flættian'，意为使变平或扩展；该词从古英语演变为中古英语，再到现代英语，逐渐扩展到比喻意义，如在社会或经济语境中表示减少差异",
+    "firstKnownUse": "约 14 世纪",
+    "relatedWords": [
+      "flat",
+      "flattenable",
+      "flattener"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (相对简单，辅音和元音组合易掌握，但 schwa 音可能对初学者有挑战)",
+    "spellingDifficulty": "3 (拼写直观，无不规则变化)",
+    "meaningComplexity": "6 (语义多样，包括字面和比喻用法，需要上下文理解)",
+    "usageComplexity": "5 (句法灵活，但需注意搭配)",
+    "learningTips": [
+      "结合认知科学原理，使用分块学习法将 'flatten' 的不同语境分组记忆；例如，将字面意义与视觉图像（如压平面团）关联，以增强海马体记忆；建议通过间隔重复系统复习相关例句，以优化长时记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "level",
+        "similarity": "0.8",
+        "context": "适用于建筑或地形语境中，表示使表面平坦"
+      },
+      {
+        "word": "smooth",
+        "similarity": "0.7",
+        "context": "适用于表面处理语境中，表示去除不平整"
+      },
+      {
+        "word": "raze",
+        "similarity": "0.6",
+        "context": "适用于破坏性语境中，表示彻底摧毁"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "raise",
+        "context": "适用于建筑语境中，表示抬高或提升"
+      },
+      {
+        "word": "bulge",
+        "context": "适用于形状语境中，表示凸起或膨胀"
+      }
+    ],
+    "hypernyms": [
+      "alter",
+      "change"
+    ],
+    "hyponyms": [
+      "press",
+      "crush"
+    ],
+    "collocations": [
+      {
+        "pattern": "flatten + noun (e.g., flatten the land)",
+        "examples": [
+          "Flatten the mixture before baking."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "flatten + out (e.g., flatten out the curve)",
+        "examples": [
+          "The path will flatten out soon."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征效率和简化，常用于比喻社会问题，如 'flatten the curve' 在COVID-19疫情中代表公共健康策略，体现了西方文化对数据和科学管理的强调",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术或商业语境，如数据处理",
+        "usage": "在美国英语中，'flatten' 在科技领域频率较高，反映出创新文化"
+      },
+      {
+        "region": "英国",
+        "variation": "更偏向传统字面意义，如建筑或日常用语",
+        "usage": "在英国英语中，常与历史建筑语境相关联"
+      }
+    ],
+    "historicalContext": "与工业革命相关，词源反映了早期英国社会对土地和材料的改造；现代使用与全球化媒体传播有关，如在新闻中描述自然灾害",
+    "modernUsage": "在社交媒体和数字平台上流行，例如TikTok视频中使用 'flatten' 来描述编辑效果，体现了当代青年文化的视觉简化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个铁锤将一个凸起的物体压成平坦的表面",
+      "keyElements": [
+        "铁锤",
+        "凸起物体",
+        "平坦表面"
+      ],
+      "emotionalConnection": "联结个人经验，如童年玩压面团的乐趣，以触发积极情绪并加强记忆编码"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'flatten' 联想为 'flat ten'，想象十个平坦的物体",
+        "explanation": "通过视觉联想增强词汇与数字的关联，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈflætən/ 听起来像 'flat and then'，想象从不平到平的转变",
+        "explanation": "利用声音与动作的联结，促进听觉和运动记忆的整合"
+      }
+    ],
+    "wordAssociations": [
+      "flat",
+      "level",
+      "smooth"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "flattened",
+      "pastParticiple": "flattened",
+      "presentParticiple": "flattening",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "We flatten the soil."
+        ]
+      },
+      {
+        "pattern": "Verb + adverbial phrase",
+        "description": "动词 + 副词短语结构，用于添加细节",
+        "examples": [
+          "Flatten it out carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'flatten' and 'flat'",
+        "correction": "Use 'flatten' as a verb and 'flat' as an adjective",
+        "explanation": "学习者常混淆词性，导致句子不完整；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense 'flattened'",
+        "explanation": "由于规则动词模式简单，但初学者可能遗忘添加-ed"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等，根据COCA语料库排名约5000（每百万词出现50次）",
+    "domains": [
+      "工程",
+      "烹饪",
+      "科技",
+      "新闻"
+    ],
+    "tags": [
+      "动词",
+      "变化",
+      "简化"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

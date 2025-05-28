@@ -1,0 +1,281 @@
+{
+  "word": "arm",
+  "phonetics": {
+    "british": "/ɑːm/",
+    "american": "/ɑrm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The upper limb of the human body extending from the shoulder to the hand.",
+      "chineseTranslation": "手臂",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A weapon, especially a firearm, or any means of offense or defense.",
+      "chineseTranslation": "武器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To supply or equip with weapons for war or protection.",
+      "chineseTranslation": "武装",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A branch or division of an organization, such as a government department.",
+      "chineseTranslation": "部门或分支",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arm in arm",
+      "meaning": "手臂挽着手",
+      "example": "They walked arm in arm through the park.",
+      "exampleTranslation": "他们手挽手走过公园。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "take up arms",
+      "meaning": "拿起武器进行战斗",
+      "example": "The rebels decided to take up arms against the government.",
+      "exampleTranslation": "叛军决定拿起武器反抗政府。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "arm wrestle",
+      "meaning": "手臂较量游戏",
+      "example": "The friends gathered to arm wrestle at the picnic.",
+      "exampleTranslation": "朋友们聚在一起在野餐时进行手臂较量。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She injured her arm while playing tennis.",
+      "translation": "她在打网球时伤到了手臂。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The government is planning to arm its troops with the latest technology.",
+      "translation": "政府计划用最新技术武装其军队。",
+      "source": "News article (e.g., BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In medieval times, knights would arm themselves before battle.",
+      "translation": "在中世纪，骑士们会在战斗前武装自己。",
+      "source": "Historical literature (e.g., from Chaucer's works)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The marketing arm of the company handles all promotional activities.",
+      "translation": "公司营销部门负责所有促销活动。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English (from Proto-Germanic *armaz)",
+    "rootWords": [
+      {
+        "root": "earm",
+        "meaning": "upper limb or branch",
+        "language": "Old English"
+      },
+      {
+        "root": "arma",
+        "meaning": "tools or equipment for war",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'earm'，意为身体上肢，可能与拉丁语 'arma'（武器）相关联。在中世纪英语中，该词扩展到表示武器或装备，反映了从身体部位到军事用语的演变过程，随着战争历史的发展而演化。",
+    "firstKnownUse": "Before 12th century (as recorded in Old English texts)",
+    "relatedWords": [
+      "armament",
+      "armor",
+      "armory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 5,
+    "usageComplexity": 4,
+    "learningTips": [
+      "结合认知科学原理，利用分层记忆法：先从基本含义（如身体部位）开始记忆，然后逐步关联到抽象用法（如武器），以避免混淆；",
+      "使用图像联想：将 'arm' 与人体图片或武器图像配对，增强视觉记忆；",
+      "针对中文母语学习者，强调语境区分：通过重复暴露于不同语境的例句，减少词汇歧义的认知负担。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "limb",
+        "similarity": 0.8,
+        "context": "适用于身体部位语境，例如在医学或日常描述中"
+      },
+      {
+        "word": "weapon",
+        "similarity": 0.7,
+        "context": "适用于军事或防御语境，例如在新闻报道中"
+      },
+      {
+        "word": "equip",
+        "similarity": 0.6,
+        "context": "适用于动词形式，强调准备或供应语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disarm",
+        "context": "适用于军事语境，表示去除武器或解除武装"
+      },
+      {
+        "word": "unarm",
+        "context": "适用于比喻性语境，表示去除保护或装备"
+      }
+    ],
+    "hypernyms": [
+      "body part",
+      "tool"
+    ],
+    "hyponyms": [
+      "upper arm",
+      "firearm"
+    ],
+    "collocations": [
+      {
+        "pattern": "arm + noun (e.g., arm of the law)",
+        "examples": [
+          "The long arm of the law will catch the criminals."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + arm (e.g., to arm oneself)",
+        "examples": [
+          "Soldiers arm themselves before deployment."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与军事和防御象征相关联，例如在好莱坞电影中代表勇气或冲突；在中国文化中，可能与传统武术或历史战争叙述相关，隐含社会稳定的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于正式或历史语境",
+        "usage": "在英国英语中，'arm' 常出现在文学作品中，强调传统和历史延续性"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重现代军事或政治语境",
+        "usage": "在美国英语中，'arm' 常与第二修正案（拥枪权）相关，在社交媒体上频繁使用"
+      }
+    ],
+    "historicalContext": "与欧洲中世纪骑士文化和工业革命的武器发展相关，在文学如莎士比亚作品中出现，反映社会变革；在中国历史中，类似于 '武装' 的概念与朝代更迭相关。",
+    "modernUsage": "在现代社交媒体和新闻中，该词常用于政治辩论或全球冲突报道，趋势显示在Twitter和新闻语料中频率上升。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个人举起手臂拿着武器，场景中包括一个士兵在战场上。",
+      "keyElements": [
+        "手臂形状",
+        "武器图像",
+        "战场背景"
+      ],
+      "emotionalConnection": "联结个人经验，如观看战争电影时的紧张感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'arm' 联想为 'a real muscle'，代表手臂的肌肉力量。",
+        "explanation": "通过视觉联想强化记忆，基于认知科学中的双编码理论，将词汇与图像结合"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ɑrm/' 听起来像 'alarm'，提醒想到警报和武器。",
+        "explanation": "利用声音相似性创建记忆钩子，减少遗忘率"
+      }
+    ],
+    "wordAssociations": [
+      "limb",
+      "weapon",
+      "equip",
+      "strength"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "arms",
+      "pastTense": "armed",
+      "pastParticiple": "armed",
+      "presentParticiple": "arming",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., They arm the soldiers)",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "The government arms its allies."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the arm of the chair)",
+        "description": "名词短语结构，用于比喻性表达",
+        "examples": [
+          "He rested on the arm of the sofa."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'arm' with 'alarm' in spelling",
+        "correction": "Use 'arm' for limb or weapon",
+        "explanation": "中文母语学习者可能因发音相似而混淆，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form (e.g., 'arms' instead of 'armed')",
+        "correction": "Use 'armed' for past tense",
+        "explanation": "注意动词时态变化，以避免语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "military",
+      "health",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "body parts",
+      "weapons",
+      "organization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

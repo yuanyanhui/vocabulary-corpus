@@ -1,0 +1,249 @@
+{
+  "word": "language",
+  "phonetics": {
+    "british": "/ˈlæŋɡwɪdʒ/",
+    "american": "/ˈlæŋɡwɪdʒ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system of communication consisting of sounds, words, and grammar used by a particular group of people.",
+      "chineseTranslation": "语言",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+      "chineseTranslation": "言语或表达方式",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system of symbols and rules used for communication in computing, such as programming languages.",
+      "chineseTranslation": "编程语言或代码系统",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "body language",
+      "meaning": "身体语言",
+      "example": "Her body language indicated that she was nervous during the interview.",
+      "exampleTranslation": "她的身体语言表明她在面试中很紧张。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "foreign language",
+      "meaning": "外语",
+      "example": "Learning a foreign language can enhance cognitive skills.",
+      "exampleTranslation": "学习外语可以提升认知技能。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sign language",
+      "meaning": "手语",
+      "example": "Sign language is essential for communication in the deaf community.",
+      "exampleTranslation": "手语对于聋人社区的交流至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "English is a global language spoken by millions worldwide.",
+      "translation": "英语是一种全球语言，被全世界数以百万计的人使用。",
+      "source": "Educational texts, such as from the British National Corpus (BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The evolution of language reflects cultural and historical changes.",
+      "translation": "语言的演变反映了文化和历史变迁。",
+      "source": "Academic articles, e.g., from Corpus of Contemporary American English (COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, Python is a versatile language for data analysis.",
+      "translation": "在编程中，Python 是一种多功能的用于数据分析的语言。",
+      "source": "Technical documentation, e.g., from online tech corpora",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "lingua",
+        "meaning": "tongue",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'lingua'，意为 '舌头' 或 '语言'，经由古法语 'langage' 演变为中古英语 'language'，逐渐扩展到现代意义，包括抽象的沟通系统。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "lingual",
+      "linguistic"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学中的间隔重复法来记忆词汇的多重含义；将词汇与个人经历关联，例如回想学习一门外语的经历，以增强海马体记忆；通过视觉映射将 'language' 与全球地图联系，以促进空间记忆巩固。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tongue",
+        "similarity": "0.8",
+        "context": "在非正式语境中用于指代特定语言，例如 'mother tongue'（母语）"
+      },
+      {
+        "word": "dialect",
+        "similarity": "0.7",
+        "context": "适用于区域变体语境，如地方方言"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "silence",
+        "context": "在强调沟通缺失的语境中，例如 'The absence of language led to misunderstandings.'（语言的缺失导致了误解。）"
+      }
+    ],
+    "hypernyms": [
+      "communication system"
+    ],
+    "hyponyms": [
+      "English",
+      "Mandarin",
+      "Spanish"
+    ],
+    "collocations": [
+      {
+        "pattern": "language + barrier",
+        "examples": [
+          "Language barriers can hinder international business."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "learn + language",
+        "examples": [
+          "She decided to learn a new language."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在文化中象征着身份认同和文化多样性，例如在全球化时代，语言被视为文化遗产的载体。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更强调历史演变，如 'the Queen's English'",
+        "usage": "在英国，常用于正式教育语境中突出标准英语"
+      },
+      {
+        "region": "United States",
+        "variation": "更注重实用性和多样性，如 'American English'",
+        "usage": "在美国，常见于多元文化语境中，强调包容性"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的语言标准化运动相关，例如莎士比亚的作品促进了英语作为文学语言的发展。",
+    "modernUsage": "在社交媒体和数字平台上，语言用于表达身份和推动社会运动，如 #LanguageRights 在Twitter上的使用趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个地球仪，上面有各种语言的旗帜在飘扬。",
+      "keyElements": [
+        "地球仪",
+        "旗帜",
+        "人群交流"
+      ],
+      "emotionalConnection": "联结到个人第一次学习外语的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'language' 联想为 'long bridge'，因为语言像桥梁连接人们。",
+        "explanation": "通过视觉联想加强海马体记忆路径，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "L-A-N-G：Links All Nations Globally",
+        "explanation": "使用首字母缩略词创建故事性记忆，以提升长期保留"
+      }
+    ],
+    "wordAssociations": [
+      "speech",
+      "dialect",
+      "communication"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "languages",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + language",
+        "description": "主语 + 动词 + 语言结构，常用于描述使用或学习语言。",
+        "examples": [
+          "I speak three languages."
+        ]
+      },
+      {
+        "pattern": "Language + of + noun",
+        "description": "语言 + of + 名词结构，用于表示所属或类型。",
+        "examples": [
+          "The language of poetry is expressive."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'language' with 'dialect'",
+        "correction": "Use 'language' for broader systems and 'dialect' for variants.",
+        "explanation": "语言学习者常混淆二者；正确区分可通过语境分析避免"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural.",
+        "explanation": "由于英语复数规则简单，但非英语母语者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 100 in general corpora like COCA and BNC",
+    "domains": [
+      "education",
+      "culture",
+      "technology",
+      "communication"
+    ],
+    "tags": [
+      "linguistics",
+      "communication",
+      "cognition"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "word": "rom",
+  "phonetics": {
+    "british": "/rɒm/",
+    "american": "/rɑːm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An acronym for Read-Only Memory, a type of non-volatile memory in computing that stores data permanently and cannot be modified by normal computer operations.",
+      "chineseTranslation": "只读存储器",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for Read-Only Memory, used in technology and computing contexts to refer to hardware components.",
+      "chineseTranslation": "只读存储器的缩写",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ROM chip",
+      "meaning": "只读存储器芯片",
+      "example": "The ROM chip in the device contains the firmware.",
+      "exampleTranslation": "该设备中的只读存储器芯片包含固件。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "flash ROM",
+      "meaning": "闪存只读存储器",
+      "example": "Flash ROM allows for limited reprogramming of data.",
+      "exampleTranslation": "闪存只读存储器允许有限的数据重新编程。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The computer's ROM stores the basic input/output system (BIOS).",
+      "translation": "计算机的只读存储器存储基本输入/输出系统（BIOS）。",
+      "source": "Technical documentation, such as from computer science texts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern smartphones, ROM is often used for system software that doesn't change.",
+      "translation": "在现代智能手机中，只读存储器通常用于不会改变的系统软件。",
+      "source": "Technology articles, e.g., from COCA corpus",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers upgraded the ROM to fix the software bugs.",
+      "translation": "工程师升级了只读存储器以修复软件错误。",
+      "source": "News articles on tech innovations",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English (as an acronym)",
+    "rootWords": [
+      {
+        "root": "Read-Only Memory",
+        "meaning": "A memory that can be read but not written to",
+        "language": "English"
+      }
+    ],
+    "historicalDevelopment": "The term 'ROM' emerged in the mid-20th century with the advent of computing technology. It derives from the full phrase 'Read-Only Memory', first used in the 1950s during the development of early electronic computers. Over time, it evolved to encompass various types of non-volatile storage as technology advanced, from simple magnetic cores to modern semiconductor-based systems.",
+    "firstKnownUse": "1950s",
+    "relatedWords": [
+      "RAM (Random Access Memory)",
+      "EEPROM (Electrically Erasable Programmable Read-Only Memory)",
+      "Flash memory"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用认知科学中的分块策略（chunking）将 'ROM' 与其全称 'Read-Only Memory' 分解记忆；结合视觉图像，如想象一个锁定的内存盒子，以强化语义关联；对于中文母语学习者，关联到类似概念如 'ROM' 在中文中的对应术语，以减少认知负载。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "non-volatile memory",
+        "similarity": "0.8",
+        "context": "在技术语境中，用于描述持久存储数据的技术"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "RAM",
+        "context": "在计算语境中，RAM 是易失性内存，可以读写，而 ROM 是只读的"
+      }
+    ],
+    "hypernyms": [
+      "memory",
+      "storage device"
+    ],
+    "hyponyms": [
+      "PROM",
+      "EPROM",
+      "EEPROM"
+    ],
+    "collocations": [
+      {
+        "pattern": "ROM + noun (e.g., ROM drive)",
+        "examples": [
+          "a ROM drive in older computers"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + ROM (e.g., access ROM)",
+        "examples": [
+          "developers access ROM for system checks"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'ROM' 象征技术进步和数字时代的基础，但隐含语义涉及数据安全和不变性，常在科技文化中体现为可靠性的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于日常技术讨论中",
+        "usage": "在美国英语中，'ROM' 在科技教育和行业中更频繁，可能与硅谷文化相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "类似使用，但可能更正式",
+        "usage": "在英国英语中，强调在学术和技术写作中的精确性"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关联，'ROM' 出现在冷战时期的科技发展中，体现信息存储的军事和科学重要性，如在早期计算机如ENIAC中。",
+    "modernUsage": "在社交媒体和在线论坛中，'ROM' 常用于讨论智能手机自定义固件，反映数字文化的快速演变"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁住的宝箱，里面存放着永久的数字数据，无法改变。",
+      "keyElements": [
+        "锁定的宝箱",
+        "数字数据",
+        "永久存储"
+      ],
+      "emotionalConnection": "联想到个人经验，如保存珍贵回忆的相册，触发安全和不变的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "ROM 像 'Room' 但只读：一个房间（room）你只能看不能改。",
+        "explanation": "通过声音联想将 'ROM' 与 'room' 连接，强化发音记忆，同时强调语义"
+      },
+      {
+        "type": "缩略",
+        "content": "R-O-M: Read (阅读) Only (只) Memory (记忆)",
+        "explanation": "使用首字母缩写分解，帮助认知加工和重复记忆"
+      }
+    ],
+    "wordAssociations": [
+      "memory",
+      "storage",
+      "computer",
+      "data"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "ROMs",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the ROM in the system)",
+        "description": "作为名词使用在短语中，表示具体组件",
+        "examples": [
+          "The ROM in this device is outdated."
+        ]
+      },
+      {
+        "pattern": "Subject in a sentence (e.g., ROM stores data)",
+        "description": "用作句子主语，描述功能",
+        "examples": [
+          "ROM provides permanent storage."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing ROM with RAM",
+        "correction": "Use ROM for read-only and RAM for read-write memory",
+        "explanation": "学习者常混淆两者；通过比较语义区分以避免错误"
+      },
+      {
+        "mistake": "Mispronouncing as a single word",
+        "correction": "Pronounce as separate letters: /ɑːr oʊ ɛm/",
+        "explanation": "作为缩写，应逐字母发音，而非像普通单词"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus for technical domains",
+    "domains": [
+      "technology",
+      "computing",
+      "engineering"
+    ],
+    "tags": [
+      "acronym",
+      "hardware",
+      "digital storage"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

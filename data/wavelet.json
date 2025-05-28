@@ -1,0 +1,244 @@
+{
+  "word": "wavelet",
+  "phonetics": {
+    "british": "/ˈweɪvlət/",
+    "american": "/ˈweɪvlət/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small wave, especially on the surface of water.",
+      "chineseTranslation": "小波浪",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical function used in signal processing to analyze data at different scales, characterized by its wave-like shape.",
+      "chineseTranslation": "小波（数学或信号处理中的函数）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wavelet transform",
+      "meaning": "小波变换",
+      "example": "The wavelet transform is widely used in image compression techniques.",
+      "exampleTranslation": "小波变换广泛用于图像压缩技术。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "wavelet analysis",
+      "meaning": "小波分析",
+      "example": "Wavelet analysis helps in detecting patterns in time-series data.",
+      "exampleTranslation": "小波分析有助于检测时间序列数据中的模式。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The gentle wavelets lapped against the shore, creating a peaceful sound.",
+      "translation": "温柔的小波浪拍打着海岸，发出宁静的声音。",
+      "source": "Literature (e.g., descriptive prose)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern engineering, wavelet techniques are applied to filter noise from audio signals.",
+      "translation": "在现代工程中，小波技术被用于过滤音频信号中的噪声。",
+      "source": "Technical articles (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Children enjoyed playing in the small wavelets at the beach during summer vacation.",
+      "translation": "孩子们在暑假时喜欢在海滩上的小波浪中玩耍。",
+      "source": "Daily conversation",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "wave",
+        "meaning": "A disturbance that propagates through a medium",
+        "language": "Old English (from Proto-Germanic *wabō)"
+      },
+      {
+        "root": "-let",
+        "meaning": "A diminutive suffix indicating something small",
+        "language": "Old French (from Latin -ellus)"
+      }
+    ],
+    "historicalDevelopment": "源自19世纪的英语合成词，由'waver'（波动）和'-let'（小）组合而成。最初用于描述水面上的小波浪，后来在20世纪扩展到数学和信号处理领域，指代特定波形函数的发展体现了从物理现象到抽象概念的演变。",
+    "firstKnownUse": "1840s",
+    "relatedWords": [
+      "wave",
+      "ripple",
+      "oscillation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将'wavelet'与实际波浪图像关联，以增强记忆定型；",
+      "使用间隔重复法复习技术术语的语境，以减少遗忘曲线的影响；",
+      "为初级学习者，创建个人关联，如将'wavelet'与日常生活中的小水波连接，以提升语义处理效率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ripple",
+        "similarity": "0.7",
+        "context": "适用于水面波动的语境，例如描述平静海面的小波动"
+      },
+      {
+        "word": "oscillation",
+        "similarity": "0.6",
+        "context": "适用于技术语境，如信号处理中的周期性变化"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "surge",
+        "context": "适用于描述大规模或剧烈波动的语境，例如海洋风暴中的大浪"
+      },
+      {
+        "word": "stillness",
+        "context": "适用于无波动的语境，例如平静的水面"
+      }
+    ],
+    "hypernyms": [
+      "wave"
+    ],
+    "hyponyms": [
+      "Mexican wavelet"
+    ],
+    "collocations": [
+      {
+        "pattern": "wavelet + noun (e.g., wavelet analysis)",
+        "examples": [
+          "wavelet function",
+          "wavelet decomposition"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + wavelet (e.g., apply wavelet)",
+        "examples": [
+          "use wavelet transform"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征技术创新和数据分析的精确性，并非具隐含社会隐喻，但在数学社区中代表现代计算技术的进步。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术领域，如计算机科学",
+        "usage": "在美国英语中，常在学术和工程语境下使用，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偶尔用于文学描述",
+        "usage": "在英国英语中，可能更侧重于物理现象的描述，以保持中性语域"
+      }
+    ],
+    "historicalContext": "与19世纪工业革命和20世纪数字信号处理的兴起相关，在文学中象征自然宁静，在科学中体现技术演进。",
+    "modernUsage": "在社交媒体和在线教育平台上，常见于技术讨论和科普视频中，反映了数字时代的数据处理趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个海滩场景，其中小波浪轻轻拍打沙滩，代表词汇的动态本质。",
+      "keyElements": [
+        "小波浪",
+        "海滩",
+        "波动"
+      ],
+      "emotionalConnection": "联结个人童年玩水经历，触发积极情绪以加强记忆编码"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Wave + let = a little wave",
+        "explanation": "通过将词汇分解为'wave'（波）和'let'（小），创建简单联想，帮助初级学习者快速回忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音像'way-vlet'，联想到轻柔的波浪声",
+        "explanation": "利用声音模拟实际波浪，结合多感官学习原则提升保留率"
+      }
+    ],
+    "wordAssociations": [
+      "wave",
+      "signal",
+      "transform"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "wavelets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the wavelet analysis)",
+        "description": "作为名词使用，通常在句子中充当主语或宾语",
+        "examples": [
+          "The wavelet is essential for data processing."
+        ]
+      },
+      {
+        "pattern": "In prepositional phrases (e.g., with wavelet techniques)",
+        "description": "与介词结合，表示工具或方法",
+        "examples": [
+          "They work with wavelet methods."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'wavelet' with 'wave'",
+        "correction": "Use 'wavelet' for small or technical contexts",
+        "explanation": "学习者常混淆规模差异，导致语义错误；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "wavelets (not waveletes)",
+        "explanation": "拼写错误常见于非母语者；通过重复练习可改善正字法"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Moderate (e.g., ranked around 20,000 in COCA corpus)",
+    "domains": [
+      "Science",
+      "Technology",
+      "Mathematics"
+    ],
+    "tags": [
+      "Technical term",
+      "Mathematics",
+      "Signal processing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

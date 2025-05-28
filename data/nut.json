@@ -1,0 +1,277 @@
+{
+  "word": "nut",
+  "phonetics": {
+    "british": "/nʌt/",
+    "american": "/nʌt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A dry fruit or seed with a hard shell and an edible kernel, often used as food.",
+      "chineseTranslation": "坚果",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small metal block with a threaded hole, used to secure a bolt or screw.",
+      "chineseTranslation": "螺母",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An eccentric or mad person; someone who behaves in a wildly irrational way.",
+      "chineseTranslation": "疯子或怪人",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gather nuts, especially in the context of foraging or collecting wild nuts.",
+      "chineseTranslation": "收集坚果",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go nuts",
+      "meaning": "变得疯狂或非常兴奋",
+      "example": "When she heard the news, she went nuts with excitement.",
+      "exampleTranslation": "当她听到这个消息时，她兴奋得发狂了。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "nut and bolt",
+      "meaning": "螺母和螺栓（常用于比喻基本组成部分）",
+      "example": "The nut and bolt are essential components in machinery assembly.",
+      "exampleTranslation": "螺母和螺栓是机械组装的基本组成部分。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "tough nut to crack",
+      "meaning": "难以解决的问题或难以对付的人",
+      "example": "Negotiating with that company is a tough nut to crack.",
+      "exampleTranslation": "与那家公司谈判是个难题。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She cracked open the walnut to get to the nut inside.",
+      "translation": "她打开核桃来取出里面的坚果。",
+      "source": "Common everyday language, similar to entries in COCA corpus",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The mechanic tightened the nut on the wheel to ensure safety.",
+      "translation": "机械师拧紧了车轮上的螺母以确保安全。",
+      "source": "Technical manuals, e.g., from engineering texts in BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He's a bit of a nut; you never know what he'll do next.",
+      "translation": "他有点古怪；你永远不知道他接下来会做什么。",
+      "source": "Informal conversation, as seen in spoken corpora like COCA",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the autumn, squirrels nut in the forest to prepare for winter.",
+      "translation": "在秋天，松鼠在森林里收集坚果以备冬日。",
+      "source": "Literary description, e.g., from nature writing in OED examples",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "hnutu",
+        "meaning": "A hard-shelled fruit",
+        "language": "Old English"
+      },
+      {
+        "root": "hnutjoz",
+        "meaning": "Nut or kernel",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "The word evolved from Old English 'hnutu', derived from Proto-Germanic '*hnutjoz', which traces back to Proto-Indo-European roots related to hardness and enclosure. Over time, it expanded metaphorically to include mechanical parts by the 18th century and informal senses of eccentricity in the 19th century, reflecting industrial and social changes.",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "walnut",
+      "peanut",
+      "hazelnut"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "2 (out of 10)",
+    "spellingDifficulty": "3 (out of 10)",
+    "meaningComplexity": "6 (out of 10)",
+    "usageComplexity": "5 (out of 10)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个坚果的外壳来记忆多个含义；",
+      "通过间隔重复系统（Spaced Repetition Systems）复习不同语境下的用法，以强化长期记忆；",
+      "为中国学习者，关联母语词汇如'坚果'或'螺母'，创建双语心智地图以减少语义干扰"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "kernel",
+        "similarity": "0.8",
+        "context": "在食物语境中，用于指代坚果内部的可食用部分"
+      },
+      {
+        "word": "eccentric",
+        "similarity": "0.7",
+        "context": "在非正式语境中，指代行为古怪的人"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sane",
+        "context": "在描述心理状态时，用于反义，例如在非正式对话中"
+      },
+      {
+        "word": "bolt",
+        "context": "在机械语境中，通常与螺母配对，但非直接反义"
+      }
+    ],
+    "hypernyms": [
+      "fruit",
+      "fastener"
+    ],
+    "hyponyms": [
+      "walnut",
+      "peanut",
+      "acorn"
+    ],
+    "collocations": [
+      {
+        "pattern": "nut + adjective (e.g., mixed nuts)",
+        "examples": [
+          "mixed nuts",
+          "peanut nut"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + nut (e.g., crack a nut)",
+        "examples": [
+          "crack a nut",
+          "gather nuts"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'nut' 象征丰收和节日，如在美国感恩节中坚果是传统食物，隐含共享与丰裕的隐喻；在中文文化中，可关联到中秋节的月饼中坚果成分，强调家庭团聚。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于俚语，如'nut' 表示疯狂",
+        "usage": "在日常口语中流行，特别是在娱乐和媒体语境"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调机械含义，语域更正式",
+        "usage": "在工程和技术讨论中更常见"
+      }
+    ],
+    "historicalContext": "历史上，'nut' 与农业社会相关，出现在中世纪英语文学中；工业革命后，扩展到机械领域，反映科技进步；在现代，俚语用法与流行文化（如电影和音乐）相关。",
+    "modernUsage": "在社交媒体上，常用于表情包或 meme 表示兴奋或疯狂，例如在Twitter或TikTok上的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个松鼠拿着一个坚果（代表食物含义），然后将坚果拧到一个螺丝上（代表机械含义），最后松鼠表现出疯狂的样子（代表俚语含义）。",
+      "keyElements": [
+        "松鼠",
+        "坚果外壳",
+        "螺丝工具"
+      ],
+      "emotionalConnection": "联结到童年记忆，如收集秋叶或吃零食，以触发积极情绪和重复回忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Nut = Nature's Useful Treat",
+        "explanation": "通过联想将'nut' 与自然和实用性连接，助于记忆其多重含义"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/nʌt/像'nutty'的味道，想象坚果的口感",
+        "explanation": "利用感官记忆增强词汇保留，基于认知科学的多模态学习原则"
+      }
+    ],
+    "wordAssociations": [
+      "squirrel",
+      "bolt",
+      "crazy"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "nuts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the nut on the wheel)",
+        "description": "用作名词时，常出现在主语或宾语位置，描述具体物体",
+        "examples": [
+          "The nut fell from the tree."
+        ]
+      },
+      {
+        "pattern": "Verb + object (e.g., to nut the seeds)",
+        "description": "用作动词时，遵循及物动词结构",
+        "examples": [
+          "They nut in the woods every fall."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'nut' with 'nutty' in meaning",
+        "correction": "Use 'nut' for the object and 'nutty' as an adjective",
+        "explanation": "中国学习者可能混淆形容词形式，导致语义错误；通过上下文练习避免"
+      },
+      {
+        "mistake": "Overusing in informal contexts",
+        "correction": "Match register to situation, e.g., avoid in formal writing",
+        "explanation": "初级学习者易忽略语域差异；建议通过语料分析学习"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "food",
+      "engineering",
+      "colloquial language"
+    ],
+    "tags": [
+      "nature",
+      "mechanics",
+      "slang"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "word": "futures",
+  "phonetics": {
+    "british": "/ˈfjuːtʃəz/",
+    "american": "/ˈfjuːtʃərz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Financial contracts obligating the buyer to purchase an asset, or the seller to sell an asset, such as a physical commodity or a financial instrument, at a predetermined future date and price.",
+      "chineseTranslation": "期货",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "The prospects or expected outcomes for the future, often in a general sense.",
+      "chineseTranslation": "未来前景",
+      "level": "basic",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "futures market",
+      "meaning": "期货市场，指买卖期货合约的场所",
+      "example": "The futures market is volatile due to global economic uncertainties.",
+      "exampleTranslation": "期货市场因全球经济不确定性而波动不定。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "futures trading",
+      "meaning": "期货交易，指买卖期货合约的活动",
+      "example": "Futures trading requires a deep understanding of market trends.",
+      "exampleTranslation": "期货交易需要对市场趋势有深入了解。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Investors use futures to hedge against potential losses in the stock market.",
+      "translation": "投资者使用期货来对冲股市潜在损失。",
+      "source": "Financial news article (e.g., from The Wall Street Journal)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The company's futures look promising with the new product launch.",
+      "translation": "该公司的发展前景因新产品发布而显得光明。",
+      "source": "Business report (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In the futures market, oil prices surged due to geopolitical tensions.",
+      "translation": "在期货市场，石油价格因地缘政治紧张而飙升。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "futurus",
+        "meaning": "about to be or future",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'futurus', meaning 'about to be', which evolved through Old French 'future' into Middle English as 'future'. In the 19th century, it specifically developed in financial contexts to refer to contracts for future delivery, influenced by the growth of commodity trading in industrial economies.",
+    "firstKnownUse": "1840s (in financial contexts, as per Oxford English Dictionary)",
+    "relatedWords": [
+      "future",
+      "futurology",
+      "futurescape"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (out of 10, as the word involves common diphthongs like /juː/ which are straightforward for intermediate learners)",
+    "spellingDifficulty": "3 (out of 10, simple spelling with no silent letters, but requires awareness of plural form)",
+    "meaningComplexity": "6 (out of 10, due to multiple contexts like financial vs. general future prospects, requiring contextual understanding)",
+    "usageComplexity": "7 (out of 10, as it often appears in technical domains and requires knowledge of economic concepts)",
+    "learningTips": [
+      "利用认知科学中的分块学习法，将词汇与实际金融场景关联；例如，通过重复暴露于真实语料库如COCA中的句子，增强长时记忆；建议结合视觉辅助工具如思维导图，将futures与相关概念如stocks或options链接，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "derivatives",
+        "similarity": "0.8",
+        "context": "适用于金融语境中，表示类似合约类型"
+      },
+      {
+        "word": "forwards",
+        "similarity": "0.7",
+        "context": "在交易语境中，作为期货的近似形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "spot market",
+        "context": "适用于金融领域，指即时交易而非未来交割"
+      },
+      {
+        "word": "past events",
+        "context": "在一般语境中，指已发生的事而非未来前景"
+      }
+    ],
+    "hypernyms": [
+      "financial instruments"
+    ],
+    "hyponyms": [
+      "commodity futures",
+      "financial futures"
+    ],
+    "collocations": [
+      {
+        "pattern": "futures + noun (e.g., futures contract)",
+        "examples": [
+          "futures contract",
+          "futures trading"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + futures (e.g., trade futures)",
+        "examples": [
+          "invest in futures",
+          "speculate on futures"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，futures象征风险管理和经济预测，常与资本主义和全球贸易相关，隐含着对未来的不确定性和机会主义。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在华尔街和芝加哥商品交易所语境中",
+        "usage": "在美国，futures常与日常投资讨论相关联，体现出注重短期获利的文化"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但更强调全球市场整合",
+        "usage": "在英国，futures在伦敦金融城中流行，反映出后殖民时代国际贸易的影响"
+      }
+    ],
+    "historicalContext": "futures起源于19世纪的美国农业经济，用于稳定商品价格，如小麦期货，帮助农民应对市场波动，与工业革命和全球化浪潮相关。",
+    "modernUsage": "在社交媒体和数字平台如Twitter或金融App中，futures常用于讨论加密货币交易，反映当代全球化和科技驱动的经济趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个未来城市景观，其中期货合约如桥梁连接过去和未来，代表风险与回报。",
+      "keyElements": [
+        "桥梁",
+        "城市景观",
+        "合约文件"
+      ],
+      "emotionalConnection": "联结个人财务目标或对未知未来的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Futures sounds like 'future stars', linking to bright future prospects in finance.",
+        "explanation": "通过声音联想，将词汇与积极的未来形象关联，基于认知科学中的双编码理论，提高记忆保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "FUT = Future Under Transaction",
+        "explanation": "使用首字母缩写创建简易口诀，帮助构建语义网络，避免混淆相似词汇。"
+      }
+    ],
+    "wordAssociations": [
+      "stocks",
+      "options",
+      "hedge"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "futures (already plural form)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., the futures market)",
+        "description": "作为名词短语使用，常与定语或动词搭配",
+        "examples": [
+          "The futures in technology are promising."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., in futures)",
+        "description": "用于表示领域或语境",
+        "examples": [
+          "She specializes in futures."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'future' as a singular noun",
+        "correction": "Use 'futures' for plural financial contexts",
+        "explanation": "学习者常忽略复数形式，导致语义偏差；建议通过语料分析练习区分。"
+      },
+      {
+        "mistake": "Incorrect collocation (e.g., 'trade future' instead of 'trade futures')",
+        "correction": "Use 'trade futures'",
+        "explanation": "错误源于对专业语境的 unfamiliarity；通过真实例句强化正确搭配。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus (based on 2023 data)",
+    "domains": [
+      "finance",
+      "economics",
+      "business"
+    ],
+    "tags": [
+      "financial terms",
+      "investment",
+      "market analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

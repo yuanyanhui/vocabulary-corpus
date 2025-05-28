@@ -1,0 +1,271 @@
+{
+  "word": "grain",
+  "phonetics": {
+    "british": "/ɡreɪn/",
+    "american": "/ɡreɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small, hard seed, especially from cereal plants such as wheat, rice, or oats.",
+      "chineseTranslation": "谷物种子",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The smallest unit of weight in some systems, equivalent to 1/7000 of a pound or approximately 0.0648 grams.",
+      "chineseTranslation": "格令（重量单位）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The pattern or texture formed by the arrangement of fibers, particles, or lines in materials like wood or fabric.",
+      "chineseTranslation": "纹理（如木材或织物的纹路）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A very small amount or particle of something.",
+      "chineseTranslation": "微粒或少量",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "against the grain",
+      "meaning": "违背本意或自然倾向",
+      "example": "His decision to move abroad went against the grain of his family's traditions.",
+      "exampleTranslation": "他决定移居国外违背了他家族的传统。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "take something with a grain of salt",
+      "meaning": "对某事持怀疑态度，不完全相信",
+      "example": "You should take his advice with a grain of salt, as he's not always reliable.",
+      "exampleTranslation": "你应该对他的建议持怀疑态度，因为他并不总是可靠的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "grain of truth",
+      "meaning": "一丝真实性或事实基础",
+      "example": "There's a grain of truth in what she said, even if it's exaggerated.",
+      "exampleTranslation": "她的话中有一丝真实性，尽管被夸大了。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The farmers stored the harvested grain in large silos to protect it from moisture.",
+      "translation": "农民们将收获的谷物储存在大型筒仓中以防止受潮。",
+      "source": "Agricultural text (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In woodworking, you must sand along the grain to achieve a smooth finish.",
+      "translation": "在木工中，必须沿着纹理打磨以获得光滑的表面。",
+      "source": "Technical manual (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She added a grain of salt to the recipe, but it still tasted bland.",
+      "translation": "她在菜谱中加了一点盐，但味道仍然淡而无味。",
+      "source": "Daily conversation (e.g., from everyday corpora)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The old photograph had a visible grain due to the film's low quality.",
+      "translation": "那张旧照片由于胶片质量低而有明显的颗粒感。",
+      "source": "Photography article (e.g., from online sources)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "granum",
+        "meaning": "seed",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 granum，意为“种子”。该词通过古法语 grain 传入中古英语 greyn，并在14世纪演变为现代英语 grain，扩展到包括种子、纹理和微粒等含义，随着农业和工业的发展，其语义逐步丰富。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "granule",
+      "granary",
+      "grainy"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 5,
+    "usageComplexity": 4,
+    "learningTips": [
+      "结合认知科学原理，使用分层记忆法：先从基本含义（如谷物种子）入手，建立视觉联想，然后逐步扩展到抽象用法；通过间隔重复系统（如Anki）强化多义词的语境区分，以减少干扰效果。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "seed",
+        "similarity": 0.8,
+        "context": "适用于农业或生物语境中，指谷物种子"
+      },
+      {
+        "word": "particle",
+        "similarity": 0.7,
+        "context": "适用于描述微小物质的科学或技术语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mass",
+        "context": "在描述物质时，grain 表示微粒，而mass 表示大块"
+      },
+      {
+        "word": "smoothness",
+        "context": "在纹理语境中，grain 表示粗糙纹路，而smoothness 表示光滑"
+      }
+    ],
+    "hypernyms": [
+      "seed",
+      "unit"
+    ],
+    "hyponyms": [
+      "wheat grain",
+      "rice grain"
+    ],
+    "collocations": [
+      {
+        "pattern": "grain + of + material",
+        "examples": [
+          "grain of wood",
+          "grain of sand"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + grain",
+        "examples": [
+          "harvest grain",
+          "store grain"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，grain 象征丰收和基本食物来源，常与农业社会和稳定生活相关联；在东方文化如中国，类似概念强调粮食安全和传统文化习俗。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "使用较为正式，常与历史农业相关",
+        "usage": "在英国英语中，grain 可能更常出现在文学或历史语境中，如莎士比亚作品"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重现代农业和商业用法",
+        "usage": "在美国英语中，grain 常用于日常对话或经济报道中，指玉米等作物"
+      }
+    ],
+    "historicalContext": "grain 与人类文明的农业革命紧密关联，如在欧洲中世纪，grain 是经济基础；在文学中，如圣经故事中代表丰饶。",
+    "modernUsage": "在现代社交媒体和科技语境下，grain 常用于摄影App讨论图像质量，或在健康饮食趋势中指全谷物食品。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个金色麦田，微风吹过，露出许多小种子，代表 grain 的核心含义。",
+      "keyElements": [
+        "麦田",
+        "种子",
+        "纹理"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆儿时吃谷物早餐的温暖感觉，以增强情感记忆锚点。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 grain 联想为 'rain' 的变形，想象雨水浇灌种子成长。",
+        "explanation": "通过声音联想（grain 和 rain 发音类似）建立听觉记忆路径，结合视觉化以提升保留率。"
+      },
+      {
+        "type": "缩略",
+        "content": "G-R-A-I-N: Grain Represents Agricultural Items Naturally.",
+        "explanation": "使用首字母缩写结合故事法，帮助初级学习者快速回想多义性。"
+      }
+    ],
+    "wordAssociations": [
+      "seed",
+      "wheat",
+      "texture",
+      "harvest"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "grains",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase with modifiers",
+        "description": "作为名词，常与形容词或定语从句搭配，如 'a fine grain of sand'",
+        "examples": [
+          "The grain in the wood gives it character."
+        ]
+      },
+      {
+        "pattern": "In idiomatic expressions",
+        "description": "用于习语中，如 'against the grain'",
+        "examples": [
+          "It goes against the grain."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'grand' or mispronouncing as /ɡræn/",
+        "correction": "Use /ɡreɪn/ and distinguish from similar words",
+        "explanation": "错误源于语音相似或拼写混淆，通过练习最小对立对来纠正。"
+      },
+      {
+        "mistake": "Overgeneralizing meanings",
+        "correction": "Contextually differentiate between seed and texture",
+        "explanation": "中国学习者可能因母语影响而混淆语义，使用语境分析法避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "agriculture",
+      "science",
+      "daily life",
+      "technology"
+    ],
+    "tags": [
+      "noun",
+      "physical",
+      "metaphorical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

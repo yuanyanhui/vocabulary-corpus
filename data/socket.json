@@ -1,0 +1,262 @@
+{
+  "word": "socket",
+  "phonetics": {
+    "british": "/ˈsɒkɪt/",
+    "american": "/ˈsɑːkɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device on a piece of electrical equipment into which you can put a plug to connect it to a power supply.",
+      "chineseTranslation": "插座",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a point where a connection can be made between a program and a network or another program.",
+      "chineseTranslation": "插槽（如网络插槽）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A hollow part or piece into which something fits, such as in mechanics or anatomy.",
+      "chineseTranslation": "凹槽或套筒",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fit or provide with a socket.",
+      "chineseTranslation": "安装插座或套筒",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "power socket",
+      "meaning": "电源插座",
+      "example": "Make sure the power socket is not overloaded.",
+      "exampleTranslation": "确保电源插座没有超载。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "network socket",
+      "meaning": "网络插槽",
+      "example": "The server uses a network socket for data transmission.",
+      "exampleTranslation": "服务器使用网络插槽进行数据传输。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "eye socket",
+      "meaning": "眼窝",
+      "example": "The eye socket protects the eyeball from injury.",
+      "exampleTranslation": "眼窝保护眼球免受伤害。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to plug the charger into the socket to charge my phone.",
+      "translation": "我需要将充电器插入插座来为手机充电。",
+      "source": "日常对话（based on COCA corpus）",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, a socket enables real-time communication between applications.",
+      "translation": "在软件开发中，插槽使应用程序之间能够进行实时通信。",
+      "source": "技术文档（based on technical literature）",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The mechanic fitted the bolt into the socket wrench.",
+      "translation": "机械师将螺栓安装到套筒扳手上。",
+      "source": "文学作品（e.g., modern novels）",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Always check the voltage before inserting a plug into a foreign socket.",
+      "translation": "在将插头插入外国插座前，始终检查电压。",
+      "source": "旅行指南（based on BNC corpus）",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "soc",
+        "meaning": "plowshare or hollow tool",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'socquet'，最初指犁的尖端或凹槽，14世纪传入英语，指代任何能容纳或固定物品的凹陷部分；17世纪扩展到电气和机械语境中，现代意义逐渐标准化。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "socketed",
+      "unsocket"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过重复性练习结合视觉图像记忆，如想象插座的形状与实际生活场景关联；利用认知科学中的间隔重复法（spaced repetition）来强化词汇保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "outlet",
+        "similarity": "0.8",
+        "context": "适用于电气语境中，指代电源接口"
+      },
+      {
+        "word": "plug-in point",
+        "similarity": "0.7",
+        "context": "在非正式场合用于描述连接点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "plug",
+        "context": "在电气语境中，插头与插座相对"
+      }
+    ],
+    "hypernyms": [
+      "connection point",
+      "fitting"
+    ],
+    "hyponyms": [
+      "electrical socket",
+      "network socket"
+    ],
+    "collocations": [
+      {
+        "pattern": "socket + noun (e.g., socket wrench)",
+        "examples": [
+          "Use a socket wrench for tightening bolts."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + socket (e.g., plug into socket)",
+        "examples": [
+          "Insert the plug into the socket."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征现代生活便利性，如电力供应，但也隐含安全隐患（如过载风险），在跨文化语境中反映技术依赖。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用 'mains socket' 表示主电源插座",
+        "usage": "在英国，强调标准插头类型以避免旅行时不兼容"
+      },
+      {
+        "region": "美国",
+        "variation": "常称 'wall outlet'，电压标准不同",
+        "usage": "在美国，插座设计更注重多功能和安全标准"
+      }
+    ],
+    "historicalContext": "与工业革命相关，19世纪电气化时代兴起；在文学中，如狄更斯的作品中，象征都市化生活。",
+    "modernUsage": "在社交媒体和科技语境中流行，如在线讨论智能家居插座，体现数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个墙上的插座，连接着各种设备，如手机充电器。",
+      "keyElements": [
+        "墙壁",
+        "插头",
+        "电线"
+      ],
+      "emotionalConnection": "联结日常生活经验，如早晨充电的习惯，以触发积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'socket' 联想为 'sock it'，想象把袜子（sock）塞入凹槽。",
+        "explanation": "通过声音联想强化记忆，基于认知科学中的双编码理论。"
+      },
+      {
+        "type": "缩略",
+        "content": "S-O-C-K-E-T: Supply Of Current Keeps Everything Together",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者构建语义网络。"
+      }
+    ],
+    "wordAssociations": [
+      "plug",
+      "outlet",
+      "connection"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "sockets",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + socket + [prepositional phrase]",
+        "description": "典型结构用于描述位置或功能",
+        "examples": [
+          "The socket on the wall is damaged."
+        ]
+      },
+      {
+        "pattern": "Verb + socket",
+        "description": "当用作动词时，表示安装动作",
+        "examples": [
+          "They socketed the pipes securely."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'socket' with 'plug'",
+        "correction": "Use 'socket' for the receiving end and 'plug' for the inserting end.",
+        "explanation": "源自语义混淆，常见于非母语学习者中"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always add '-s' for plural forms.",
+        "explanation": "英语名词规则简单，但初学者可能遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus)",
+    "domains": [
+      "technology",
+      "daily life",
+      "engineering"
+    ],
+    "tags": [
+      "electrical",
+      "computing",
+      "mechanics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

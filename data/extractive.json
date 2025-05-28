@@ -1,0 +1,271 @@
+{
+  "word": "extractive",
+  "phonetics": {
+    "british": "/ɪkˈstræktɪv/",
+    "american": "/ɪkˈstræktɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the process of extracting or obtaining raw materials from the earth, such as mining or drilling.",
+      "chineseTranslation": "提取的；采掘的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Involving the removal or extraction of resources, often with implications for sustainability or environmental impact.",
+      "chineseTranslation": "资源开采的；抽取性的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In linguistics or data processing, pertaining to methods that extract key information from texts or data sets.",
+      "chineseTranslation": "提取式的；抽取性的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical/academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "extractive industries",
+      "meaning": "采掘工业，指涉及从地球中提取资源的行业，如矿业和石油开采",
+      "example": "Extractive industries play a crucial role in the global economy but often lead to environmental degradation.",
+      "exampleTranslation": "采掘工业在全球经济中发挥着关键作用，但往往导致环境退化。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "extractive economy",
+      "meaning": "以资源提取为主的经济模式，通常依赖自然资源的出口",
+      "example": "Many developing countries rely on an extractive economy, which can be vulnerable to commodity price fluctuations.",
+      "exampleTranslation": "许多发展中国家依赖于以资源提取为主的经济模式，这可能容易受到商品价格波动的冲击。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "extractive methods",
+      "meaning": "提取方法，指用于获取数据或资源的特定技术",
+      "example": "In natural language processing, extractive methods are used to pull out key sentences from a document.",
+      "exampleTranslation": "在自然语言处理中，提取方法用于从文档中抽取出关键句子。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The government's policy on extractive activities aims to balance economic growth with environmental protection.",
+      "translation": "政府关于采掘活动的政策旨在平衡经济增长与环境保护。",
+      "source": "News articles (e.g., BBC reports on mining regulations)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Extractive farming practices can deplete soil nutrients over time, leading to long-term land degradation.",
+      "translation": "提取式耕作实践会随着时间推移耗尽土壤养分，导致土地退化。",
+      "source": "Environmental literature (e.g., UN reports on sustainable development)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In data science, extractive summarization involves selecting the most relevant sentences from a text.",
+      "translation": "在数据科学中，提取式摘要涉及从文本中选择最相关的句子。",
+      "source": "Academic texts (e.g., from journals like Nature Machine Intelligence)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "extract-",
+        "meaning": "to draw out",
+        "language": "Latin"
+      },
+      {
+        "root": "extra-",
+        "meaning": "out, beyond",
+        "language": "Latin"
+      },
+      {
+        "root": "trahere",
+        "meaning": "to draw or pull",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'extractus'，是 'extrahere' 的过去分词，意为'抽取或拉出'。在中世纪拉丁语中演变为 'extractivus'，通过古法语传入英语，在16世纪开始用于描述资源提取过程，并逐步扩展到现代技术语境，如数据处理。",
+    "firstKnownUse": "Circa 16th century",
+    "relatedWords": [
+      "extract",
+      "extraction",
+      "tractive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法将 'extractive' 与其词根 'extra-' 和 'trahere' 关联，创建视觉图像如从矿井中拉出资源；建议中级学习者通过重复暴露于真实语境，如新闻报道，以强化语义网络连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mining",
+        "similarity": "0.7",
+        "context": "适用于资源开采语境，如环境讨论中"
+      },
+      {
+        "word": "resource-based",
+        "similarity": "0.8",
+        "context": "在经济或可持续发展语境中使用"
+      },
+      {
+        "word": "extractory",
+        "similarity": "0.9",
+        "context": "在技术或学术语境中，强调抽取过程"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "renewable",
+        "context": "在环境语境中，对比不可再生资源"
+      },
+      {
+        "word": "sustainable",
+        "context": "在经济政策语境中，强调长期可续性"
+      }
+    ],
+    "hypernyms": [
+      "resource-related",
+      "industrial"
+    ],
+    "hyponyms": [
+      "mining",
+      "drilling",
+      "summarization"
+    ],
+    "collocations": [
+      {
+        "pattern": "extractive + noun (e.g., industries, economy)",
+        "examples": [
+          "extractive industries",
+          "extractive methods"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + extractive (e.g., unsustainable extractive)",
+        "examples": [
+          "unsustainable extractive practices"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与殖民主义和环境正义相关联，象征着对自然资源的剥削，并在全球南方国家中隐含不平等的经济发展模式。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于能源和数据技术语境",
+        "usage": "在美国英语中，强调技术创新，如 'extractive AI' 在硅谷讨论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "偏向于正式和环境政策语境",
+        "usage": "在英国英语中，常见于政策文件，如与欧盟法规相关的资源提取"
+      }
+    ],
+    "historicalContext": "该词与工业革命和殖民时代关联，反映了欧洲国家对海外资源的提取历史，如英国在19世纪的采矿扩张。",
+    "modernUsage": "在社交媒体和环保运动中流行，用于讨论气候变化，例如Twitter上的#StopExtractivePractices"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个矿工从地下拉出一块闪亮的矿石，象征着'提取'的过程。",
+      "keyElements": [
+        "矿工",
+        "矿石",
+        "拉出动作"
+      ],
+      "emotionalConnection": "联结到个人经验，如观看纪录片中资源开采的场景，触发对环境保护的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'extractive' 联想为 'extra active'，意思是'额外活跃的提取'",
+        "explanation": "通过声音联想增强记忆，基于认知科学中的双编码理论，将声音与视觉图像结合"
+      },
+      {
+        "type": "缩略",
+        "content": "E-X-T-R-A-C-T-I-V-E = Extract Resources Actively Creating Trouble In Various Environments",
+        "explanation": "使用首字母缩略法创建故事，辅助中级学习者通过叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "mine",
+      "drill",
+      "summarize",
+      "resource"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more extractive",
+      "superlative": "most extractive"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + extractive",
+        "description": "用作表语，描述主语的特性",
+        "examples": [
+          "The industry is extractive."
+        ]
+      },
+      {
+        "pattern": "Extractive + noun",
+        "description": "修饰名词，表示相关类型",
+        "examples": [
+          "Extractive processes require careful regulation."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'extract' as a verb",
+        "correction": "Use 'extractive' only as an adjective",
+        "explanation": "学习者常将它误用为动词形式；建议通过语境练习区分词性"
+      },
+      {
+        "mistake": "Overgeneralizing to non-technical contexts",
+        "correction": "Limit to appropriate domains like industry or data",
+        "explanation": "中级学习者可能在非技术语境中错误使用；强调语域意识"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "technology",
+      "environment",
+      "economics"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "sustainability"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

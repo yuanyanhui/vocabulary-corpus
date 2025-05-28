@@ -1,0 +1,238 @@
+{
+  "word": "corpora",
+  "phonetics": {
+    "british": "/ˈkɔː.pər.ə/",
+    "american": "/ˈkɔːr.pər.ə/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of written or spoken texts, especially in a particular language or on a specific subject, used for linguistic research and analysis.",
+      "chineseTranslation": "语料库（复数形式，指多个文本集合）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "large corpora",
+      "meaning": "大型语料库",
+      "example": "Linguists often use large corpora to analyze language patterns.",
+      "exampleTranslation": "语言学家经常使用大型语料库来分析语言模式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "annotated corpora",
+      "meaning": "带有注解的语料库",
+      "example": "Annotated corpora provide detailed metadata for advanced studies.",
+      "exampleTranslation": "带有注解的语料库为高级研究提供详细的元数据。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "balanced corpora",
+      "meaning": "平衡的语料库（指样本分布均衡）",
+      "example": "A balanced corpora should represent various genres and dialects.",
+      "exampleTranslation": "一个平衡的语料库应该代表各种体裁和方言。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers built corpora from historical texts to study language evolution.",
+      "translation": "研究人员从历史文本中构建语料库，以研究语言演变。",
+      "source": "Academic papers, e.g., from Corpus Linguistics journals",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computational linguistics, corpora are essential for training machine learning models.",
+      "translation": "在计算语言学中，语料库对于训练机器学习模型至关重要。",
+      "source": "Technical articles, e.g., from ACL conferences",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The British National Corpus is one of the most famous corpora available online.",
+      "translation": "英国国家语料库是网上最著名的语料库之一。",
+      "source": "Educational resources, e.g., BNC website",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "corpus",
+        "meaning": "body",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'corpus'，意为'身体'或'主体'，在14世纪进入英语，最初用于生物学和解剖学中表示'身体'，逐渐扩展到抽象概念，如文本集合。17世纪起，在科学语境中演变为表示数据或文本的集合形式，到20世纪在语言学中标准化为复数形式'corpora'。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "corpus",
+      "incorporate",
+      "corporeal"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用分块记忆法，将'corpora'与'corpus'关联，结合认知科学中的间隔重复以强化专业术语；通过视觉化语料库作为'数据身体'的比喻，增强记忆连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "text collections",
+        "similarity": "0.8",
+        "context": "在一般学术语境中，用于描述类似的数据集合"
+      },
+      {
+        "word": "databases of texts",
+        "similarity": "0.7",
+        "context": "在技术或计算语境中，强调结构化存储"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "isolated texts",
+        "context": "在研究语境中，指非集合化的单个文本"
+      },
+      {
+        "word": "monolingual data",
+        "context": "如果语料库涉及多语言，但此词本身无直接反义"
+      }
+    ],
+    "hypernyms": [
+      "data sets"
+    ],
+    "hyponyms": [
+      "BNC (British National Corpus)",
+      "COCA (Corpus of Contemporary American English)"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + corpora",
+        "examples": [
+          "large corpora",
+          "specialized corpora"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "corpora + for + purpose",
+        "examples": [
+          "corpora for linguistic analysis"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征语言学和数据科学领域的核心工具，体现了对历史和当代文本的系统化研究，具有隐含语义为知识积累和跨文化交流。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于正式学术语境，如BNC",
+        "usage": "在英国英语中，强调历史文本和文学分析"
+      },
+      {
+        "region": "United States",
+        "variation": "常与计算语言学结合，如COCA",
+        "usage": "在美国英语中，侧重于当代用法和数字媒体"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关的科学方法论关联，19世纪起在英国和欧洲文学研究中流行。",
+    "modernUsage": "在社交媒体和AI时代，语料库用于大数据分析和机器翻译，体现数字时代的语言动态。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的图书馆，里面有许多书架，每一个书架代表一个'corpora'，如身体的多个部分。",
+      "keyElements": [
+        "图书馆",
+        "书架",
+        "书籍集合"
+      ],
+      "emotionalConnection": "联结到个人阅读经历或对知识探索的兴奋感，以增强长期记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Corpora sounds like 'core body' – think of it as the 'core' of language data.",
+        "explanation": "通过声音联想'corpora'与'core body'，利用认知科学中的双编码效应，将听觉和视觉结合。"
+      },
+      {
+        "type": "缩略",
+        "content": "C for Collection, O for Organized, R for Research – Corpora.",
+        "explanation": "使用首字母缩略法，基于记忆宫殿技巧，帮助构建结构化回忆路径。"
+      }
+    ],
+    "wordAssociations": [
+      "corpus",
+      "data",
+      "analysis",
+      "texts"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "corpora (irregular plural of corpus)",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为主语或宾语出现于句子中",
+        "examples": [
+          "The corpora provide valuable insights."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与介词结合表示用途",
+        "examples": [
+          "Corpora for machine learning are essential."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'corpus' when 'corpora' is needed",
+        "correction": "Use 'corpora' for plural",
+        "explanation": "英语中，'corpus'是单数，'corpora'是复数，常被初级学习者混淆"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /kɔːr'pɔːrə/",
+        "correction": "Correct to /ˈkɔː.pər.ə/",
+        "explanation": "发音错误可能源于母语影响，导致语义误解"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "文化",
+      "学术"
+    ],
+    "tags": [
+      "语言学",
+      "数据分析",
+      "研究工具"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

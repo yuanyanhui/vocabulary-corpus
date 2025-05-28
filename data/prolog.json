@@ -1,0 +1,268 @@
+{
+  "word": "prolog",
+  "phonetics": {
+    "british": "/ˈprəʊlɒɡ/",
+    "american": "/ˈproʊlɔːɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An introductory section at the beginning of a book, play, film, or speech that sets the scene or provides background information.",
+      "chineseTranslation": "序言；开场白",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To introduce a book, play, or speech with a prologue.",
+      "chineseTranslation": "用序言引出",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "A high-level programming language associated with artificial intelligence and logical reasoning.",
+      "chineseTranslation": "Prolog 编程语言",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "write a prologue",
+      "meaning": "撰写一篇序言",
+      "example": "The author decided to write a prologue to explain the historical context.",
+      "exampleTranslation": "作者决定写一个序言来解释历史背景。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "prologue to a story",
+      "meaning": "故事的开场白",
+      "example": "The prologue to a story often hooks the reader's attention.",
+      "exampleTranslation": "故事的序言通常会吸引读者的注意力。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "in Prolog programming",
+      "meaning": "在 Prolog 编程中",
+      "example": "Developers use Prolog programming for expert systems.",
+      "exampleTranslation": "开发人员使用 Prolog 编程来构建专家系统。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The prologue of the novel reveals the protagonist's tragic backstory.",
+      "translation": "小说的序言揭示了主人公的悲惨背景。",
+      "source": "Literature (e.g., from modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In theater, a prologue is often delivered by a narrator to set the scene.",
+      "translation": "在戏剧中，序言通常由叙述者来设定场景。",
+      "source": "Theater and performing arts",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Prolog is widely used in AI for logic-based problem solving.",
+      "translation": "Prolog 在人工智能中广泛用于基于逻辑的问题解决。",
+      "source": "Technical articles (e.g., from computer science corpora like COCA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She prologued her speech with a personal anecdote.",
+      "translation": "她以一个个人轶事作为演讲的开场白。",
+      "source": "Informal speeches",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "希腊语",
+    "rootWords": [
+      {
+        "root": "pro-",
+        "meaning": "之前；前置",
+        "language": "希腊语"
+      },
+      {
+        "root": "logos",
+        "meaning": "话语；逻辑",
+        "language": "希腊语"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语 prologos，意为'前面的演讲'，最初用于戏剧和文学中介绍情节。进入拉丁语后演变为 prologue，并传入英语。在中世纪英语中用于文学作品，17世纪开始扩展到其他领域如编程语言，其中 Prolog 于1970年代由Alain Colmerauer开发，作为逻辑编程语言。",
+    "firstKnownUse": "14世纪",
+    "relatedWords": [
+      "epilogue",
+      "dialogue",
+      "monologue"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与个人经历关联，例如想象一个故事的开头来记忆序言；使用间隔重复法复习多义词以增强长期记忆；通过视觉辅助如思维导图连接文学和编程语境。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "introduction",
+        "similarity": "0.8",
+        "context": "适用于正式写作或演讲的开头部分"
+      },
+      {
+        "word": "preface",
+        "similarity": "0.7",
+        "context": "常用于书籍的引言，与序言类似"
+      },
+      {
+        "word": "preamble",
+        "similarity": "0.6",
+        "context": "在法律或正式文件中的前置说明"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "epilogue",
+        "context": "结尾部分，与序言相对，用于故事结束"
+      },
+      {
+        "word": "conclusion",
+        "context": "总结或结束语"
+      }
+    ],
+    "hypernyms": [
+      "introduction"
+    ],
+    "hyponyms": [
+      "literary prologue",
+      "dramatic prologue"
+    ],
+    "collocations": [
+      {
+        "pattern": "prologue + to + noun",
+        "examples": [
+          "prologue to a play"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + prologue",
+        "examples": [
+          "write a prologue"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文学中，序言象征故事的起点，常隐含预示主题或命运；在现代编程文化中，Prolog 代表逻辑推理和人工智能的创新。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于文学和戏剧语境",
+        "usage": "在英国英语中，序言常与莎士比亚戏剧相关联"
+      },
+      {
+        "region": "美国",
+        "variation": "在技术领域更常见，如编程语言",
+        "usage": "美国英语中可能更侧重于非正式使用，例如电影开场"
+      }
+    ],
+    "historicalContext": "与古希腊戏剧 tradition 相关，如亚里士多德的《诗学》，并在文艺复兴时期通过莎士比亚作品普及；现代中，与计算机科学历史相连。",
+    "modernUsage": "在社交媒体和在线平台上，序言常用于视频或播客的开头，以吸引观众注意力。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个舞台上的人物在帷幕拉开前讲话，介绍故事背景。",
+      "keyElements": [
+        "舞台",
+        "讲话",
+        "故事开头"
+      ],
+      "emotionalConnection": "联结个人阅读经历，例如回想自己读小说的第一页，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Prolog 像 'pro' (专业) + 'log' (逻辑)，代表专业逻辑开头。",
+        "explanation": "通过词根联想帮助记忆多义性"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-L-O-G: 'Prepare Readers for Overall Logic or Game'",
+        "explanation": "使用首字母缩写创建故事，帮助初级学习者"
+      }
+    ],
+    "wordAssociations": [
+      "introduction",
+      "beginning",
+      "AI code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "prologues",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + prologue",
+        "description": "主语 + 动词 + 序言结构，常用于描述添加序言",
+        "examples": [
+          "The author added a prologue."
+        ]
+      },
+      {
+        "pattern": "Prologue + of/to + noun",
+        "description": "序言 + of/to + 名词结构，用于指定所属",
+        "examples": [
+          "The prologue of the book."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'epilogue'",
+        "correction": "Use 'prologue' for the beginning",
+        "explanation": "序言是开头，而尾声是结尾；这常因语义相似性导致"
+      },
+      {
+        "mistake": "Incorrect pronunciation",
+        "correction": "Pronounce as /ˈproʊlɔːɡ/",
+        "explanation": "中国学习者可能误读元音，需练习音标"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "文学",
+      "戏剧",
+      "计算机科学"
+    ],
+    "tags": [
+      "文学术语",
+      "编程语言",
+      "引言"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

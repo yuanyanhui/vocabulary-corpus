@@ -1,0 +1,249 @@
+{
+  "word": "maintainable",
+  "phonetics": {
+    "british": "/meɪnˈteɪnəbl/",
+    "american": "/meɪnˈteɪnəbəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being maintained, preserved, or kept in a certain state with reasonable effort.",
+      "chineseTranslation": "可维护的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral/technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In the context of software or engineering, describing code or systems that are easy to update, repair, or sustain over time.",
+      "chineseTranslation": "易于维护的",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "easily maintainable",
+      "meaning": "容易维护的",
+      "example": "The software is easily maintainable due to its modular design.",
+      "exampleTranslation": "由于其模块化设计，该软件很容易维护。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "maintainable code",
+      "meaning": "可维护的代码",
+      "example": "Writing maintainable code is essential for long-term project success.",
+      "exampleTranslation": "编写可维护的代码对长期项目成功至关重要。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cost-maintainable",
+      "meaning": "成本可维护的",
+      "example": "This vehicle is cost-maintainable, making it ideal for budget-conscious buyers.",
+      "exampleTranslation": "这辆车成本可维护，非常适合注重预算的买家。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The maintainable design of the bridge ensures it can withstand decades of wear and tear.",
+      "translation": "这座桥的可维护设计确保它能经受住数十年的磨损。",
+      "source": "Engineering literature (e.g., from IEEE publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, maintainable code reduces bugs and facilitates team collaboration.",
+      "translation": "在软件开发中，可维护的代码可以减少错误并促进团队协作。",
+      "source": "Tech articles (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Her garden is maintainable with minimal watering, thanks to drought-resistant plants.",
+      "translation": "她的花园通过使用耐旱植物，可以以最少的浇水来维护。",
+      "source": "General news (e.g., from BNC corpus)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "maintain",
+        "meaning": "To hold or keep in a certain state",
+        "language": "Old French (from Latin 'manu tenere')"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 'manu tenere'（意为用手握住）演变而来，通过古法语 'maintenir' 进入英语，最初用于表示保持或支撑某物；到现代英语中，尤其在19世纪工业革命后，扩展到技术语境，如机械和软件的可维护性。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "maintain",
+      "maintenance",
+      "sustainable"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "6 (中等难度，由于长音节和元音组合，如 /eɪ/ 需要练习)",
+    "spellingDifficulty": "5 (中等难度，拼写规则较直观，但易混淆的元音后缀)",
+    "meaningComplexity": "7 (中等偏高复杂度，因为语义依赖语境，尤其在技术领域)",
+    "usageComplexity": "6 (中等难度，需理解搭配和语域)",
+    "learningTips": [
+      "结合认知科学建议：使用间隔重复法记忆词汇；将 'maintainable' 与视觉图像如 '维护工具箱' 关联，以增强海马体记忆；练习语境切换，如从日常对话到技术讨论，以提升执行功能。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "sustainable",
+        "similarity": "0.8",
+        "context": "适用于环境或长期维护语境，例如可持续发展项目"
+      },
+      {
+        "word": "repairable",
+        "similarity": "0.7",
+        "context": "适用于机械或物理对象修复语境"
+      },
+      {
+        "word": "durable",
+        "similarity": "0.6",
+        "context": "适用于强调持久性的语境，如产品设计"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unmaintainable",
+        "context": "适用于技术或工程语境，表示难以维护的系统"
+      },
+      {
+        "word": "fragile",
+        "context": "适用于描述易损或不可持续的物体"
+      }
+    ],
+    "hypernyms": [
+      "adjective describing quality"
+    ],
+    "hyponyms": [
+      "software maintainable",
+      "environmentally maintainable"
+    ],
+    "collocations": [
+      {
+        "pattern": "adverb + maintainable (e.g., easily maintainable)",
+        "examples": [
+          "The system is easily maintainable."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + maintainable (e.g., maintainable code)",
+        "examples": [
+          "Maintainable code saves time."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征技术进步和可持续性，尤其在硅谷文化中代表高效软件开发；隐含语义强调责任感和长远规划。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技行业，如软件工程",
+        "usage": "在美国英语中，常与创新相关联，例如在硅谷的创业语境"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向正式或工程语境",
+        "usage": "在英国英语中，强调维护的传统，如在历史建筑保护中"
+      }
+    ],
+    "historicalContext": "与工业革命相关的，起源于欧洲的机械维护概念；在中国文化中，可与 '可持续' 概念关联，如儒家思想中的长远治理。",
+    "modernUsage": "在社交媒体和数字平台上，常见于编程社区，如GitHub讨论，反映全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个工具箱，里面有螺丝刀和代码脚本，代表 'maintainable' 的易于修复特性。",
+      "keyElements": [
+        "工具箱",
+        "螺丝刀",
+        "代码脚本"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆修复家用电器时的成就感，以触发正面情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'maintainable' 联想到 'main train able'，想象一列火车（train）能被轻松维护（able）。",
+        "explanation": "通过声音联想增强词汇保留，利用海马体路径"
+      },
+      {
+        "type": "缩略",
+        "content": "M-A-I-N: Maintain And Improve Naturally.",
+        "explanation": "使用首字母缩写创建故事，帮助第二语言学习者通过模式识别记忆"
+      }
+    ],
+    "wordAssociations": [
+      "sustain",
+      "repair",
+      "durable"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": "more maintainable",
+      "superlative": "most maintainable"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + be + maintainable",
+        "description": "主语 + 系动词 + maintainable 的结构，用于描述特征",
+        "examples": [
+          "The code is maintainable."
+        ]
+      },
+      {
+        "pattern": "Adverb + maintainable + noun",
+        "description": "副词 + maintainable + 名词 的结构，用于强调程度",
+        "examples": [
+          "Easily maintainable systems are preferred."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using as a verb (e.g., 'I maintainable the system')",
+        "correction": "Use as an adjective (e.g., 'The system is maintainable')",
+        "explanation": "该词是形容词而非动词，常由初级学习者混淆词性导致"
+      },
+      {
+        "mistake": "Confusing with 'maintain' (e.g., incorrect tense usage)",
+        "correction": "Distinguish from the verb 'maintain'",
+        "explanation": "需注意词根动词的影响，确保在形容词语境中使用"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "technology",
+      "engineering",
+      "business"
+    ],
+    "tags": [
+      "adjective",
+      "technical",
+      "sustainability"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

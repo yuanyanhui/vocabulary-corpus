@@ -1,0 +1,240 @@
+{
+  "word": "cluster",
+  "phonetics": {
+    "british": "/ˈklʌstə/",
+    "american": "/ˈklʌstər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A group of similar things or people positioned closely together.",
+      "chineseTranslation": "一群紧密聚集的相似事物或人",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gather or cause to gather into a cluster.",
+      "chineseTranslation": "使聚集或形成一簇",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cluster of",
+      "meaning": "一群的",
+      "example": "A cluster of stars in the night sky.",
+      "exampleTranslation": "夜空中的一群星星。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "cluster together",
+      "meaning": "聚集在一起",
+      "example": "The bees cluster together for warmth.",
+      "exampleTranslation": "蜜蜂们聚集在一起取暖。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists observed a cluster of galaxies in deep space.",
+      "translation": "科学家们观察到深空中一群星系。",
+      "source": "Scientific literature",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The protesters formed a cluster near the city square.",
+      "translation": "抗议者们在城市广场附近聚集成一团。",
+      "source": "News article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, data points often cluster based on similarities.",
+      "translation": "在机器学习中，数据点通常基于相似性而聚集。",
+      "source": "Technical report",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "clyster",
+        "meaning": "a bunch or cluster",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语clyster，意为一堆或簇群，可能源于原始日耳曼语*klut-，逐渐演变为中古英语cluster，主要保持聚集或群体的含义，并扩展到现代科学和技术语境，如数据聚类。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "clump",
+      "bunch",
+      "group"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "使用视觉联想法，将cluster想象为一簇苹果来记忆名词形式；结合认知科学，重复在不同语境中使用以强化记忆回路。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "group",
+        "similarity": "0.8",
+        "context": "适用于日常或正式语境中描述集合，如一群人"
+      },
+      {
+        "word": "bunch",
+        "similarity": "0.7",
+        "context": "常用于非正式语境中描述松散聚集，如一串香蕉"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "context": "适用于描述分散或分布语境，如人群散开"
+      },
+      {
+        "word": "dispense",
+        "context": "常用于技术或正式语境中表示分配或散布"
+      }
+    ],
+    "hypernyms": [
+      "group"
+    ],
+    "hyponyms": [
+      "star cluster",
+      "data cluster"
+    ],
+    "collocations": [
+      {
+        "pattern": "cluster of + noun",
+        "examples": [
+          "cluster of houses",
+          "cluster of ideas"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + cluster",
+        "examples": [
+          "form a cluster",
+          "analyze clusters"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征社会或自然中的聚集现象，常用于隐喻团队合作或社区凝聚力，在美国文化中可能强调创新聚类如硅谷的技术集群。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "更常用于地理或社会语境，如城市集群",
+        "usage": "在英国英语中，常与历史城镇发展相关联"
+      },
+      {
+        "region": "United States",
+        "variation": "强调技术或商业语境，如数据集群",
+        "usage": "在美国英语中，常见于科技和商业讨论中"
+      }
+    ],
+    "historicalContext": "与工业革命时期的城市化进程相关联，如19世纪的工厂工人集群，体现社会变迁和集体行为。",
+    "modernUsage": "在社交媒体和数字时代，cluster常用于描述在线社区或算法聚类，反映全球化和技术驱动的社会趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一簇红苹果挂在树枝上，代表紧密聚集的物体。",
+      "keyElements": [
+        "苹果",
+        "树枝",
+        "聚集"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年采摘水果的快乐，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "visual association",
+        "content": "Cluster 像 'clump' 的变形，想象一团云（cloud）聚集成形。",
+        "explanation": "通过视觉和声音联想法，将词根与云朵形象关联，强化认知路径。"
+      },
+      {
+        "type": "acronym",
+        "content": "C-L-U-S-T-E-R: Close, Linked, Units, Similar, Together, Effectively, Related.",
+        "explanation": "使用首字母缩写来分解词义，结合重复练习以优化记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "group",
+      "bunch",
+      "gather"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "clusters",
+      "pastTense": "clustered",
+      "pastParticiple": "clustered",
+      "presentParticiple": "clustering",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Determiner] + cluster + of + [Noun]",
+        "description": "典型用于描述一组事物的结构",
+        "examples": [
+          "A cluster of stars"
+        ]
+      },
+      {
+        "pattern": "Verb phrase: Subject + cluster + [Adverb/Preposition]",
+        "description": "用于表示动作的聚集行为",
+        "examples": [
+          "They cluster around the leader"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'cluster' as an adjective without modification",
+        "correction": "Use 'clustered' as the adjective form",
+        "explanation": "Cluster 是名词或动词，非形容词；错误可能源于语义混淆"
+      },
+      {
+        "mistake": "Confusing with 'clutter'",
+        "correction": "Use 'cluster' for organized groups",
+        "explanation": "Cluster 强调有序聚集，而clutter 指杂乱；需注意语境差异"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 in COCA corpus)",
+    "domains": [
+      "science",
+      "technology",
+      "social",
+      "business"
+    ],
+    "tags": [
+      "grouping",
+      "collection",
+      "analysis"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

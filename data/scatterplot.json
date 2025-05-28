@@ -1,0 +1,239 @@
+{
+  "word": "scatterplot",
+  "phonetics": {
+    "british": "/ˈskætərplɒt/",
+    "american": "/ˈskætərplɑt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graph that displays values for typically two variables for a set of data using Cartesian coordinates, where each point represents an observation.",
+      "chineseTranslation": "散点图",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "create a scatterplot",
+      "meaning": "创建散点图",
+      "example": "To visualize the data, we need to create a scatterplot of height versus weight.",
+      "exampleTranslation": "为了可视化数据，我们需要创建身高与体重的散点图。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "interpret a scatterplot",
+      "meaning": "解释散点图",
+      "example": "Researchers often interpret a scatterplot to identify correlations between variables.",
+      "exampleTranslation": "研究人员经常解释散点图以识别变量之间的相关性。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics class, the teacher used a scatterplot to show the relationship between study hours and exam scores.",
+      "translation": "在统计课上，老师使用散点图来展示学习小时数与考试分数之间的关系。",
+      "source": "Educational textbook (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scatterplot revealed a strong positive correlation between temperature and ice cream sales.",
+      "translation": "散点图显示了温度与冰淇淋销售额之间强烈的正相关性。",
+      "source": "Business report (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Scientists plotted a scatterplot to analyze the distribution of stars in the galaxy.",
+      "translation": "科学家们绘制了散点图来分析星系中星体的分布。",
+      "source": "Scientific article (e.g., from academic journals)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "scatter",
+        "meaning": "To throw in various directions",
+        "language": "Middle English (from Old Norse 'skatra')"
+      },
+      {
+        "root": "plot",
+        "meaning": "A plan or diagram",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪中叶的统计学领域，结合了'scatter'（散布）和'plot'（图表）的概念。从词源来看，'scatter'源自古挪威语，表示分散，而'plot'源自古英语，表示绘图或方案。随着数据可视化技术的兴起，该词在1960年代开始流行，用于描述二维数据点的图形表示。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "scatter diagram",
+      "dot plot"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，利用视觉化学习策略，例如将词汇与实际数据图表图像关联，以强化记忆；",
+      "使用间隔重复系统（spaced repetition）来复习发音和拼写，避免混淆类似词汇；",
+      "通过实际练习，如在数据软件中创建散点图，来建立语义与实际应用的连接，提升长期记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "scatter diagram",
+        "similarity": "0.9",
+        "context": "适用于统计学和数据分析语境中，表示相同的数据可视化方法"
+      },
+      {
+        "word": "dot plot",
+        "similarity": "0.8",
+        "context": "在简单的数据点展示中适用，但可能更侧重于一维表示"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bar chart",
+        "context": "适用于强调类别频率而非变量相关性的语境"
+      },
+      {
+        "word": "line graph",
+        "context": "适用于显示趋势和连续变化，而非散布点的语境"
+      }
+    ],
+    "hypernyms": [
+      "graph",
+      "chart"
+    ],
+    "hyponyms": [
+      "bivariate scatterplot",
+      "3D scatterplot"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + scatterplot (e.g., create, analyze)",
+        "examples": [
+          "create a scatterplot",
+          "analyze the scatterplot"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "scatterplot + preposition + noun (e.g., of variables)",
+        "examples": [
+          "scatterplot of data points"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方科学文化中象征数据驱动决策和实证分析，常隐含强调客观性和量化方法的文化价值观，但在非西方语境中，可能代表全球化的技术传播。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在教育和商业环境中",
+        "usage": "在美国英语中，常与数据科学工具（如Excel）结合使用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更偏向学术语境",
+        "usage": "在英国英语中，常出现在统计学文献中，与传统科学教育相关"
+      }
+    ],
+    "historicalContext": "与20世纪统计学革命和计算机技术的发展相关，例如在二战后数据可视化的兴起中，该词体现了从手工绘图到数字化转型的文化演变。",
+    "modernUsage": "在社交媒体和在线教育平台上流行，用于数据可视化工具如Tableau或Python库中，反映了当代数字文化的快速传播趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个散乱的点阵图，像是星星在天空中散布，代表数据点",
+      "keyElements": [
+        "星星散布",
+        "点阵图",
+        "数据点"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年看星空的情绪，以增强词汇的亲切感和记忆持久性"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Scatterplot 像 'scatter' 的点在 'plot' 上乱飞",
+        "explanation": "通过视觉联想将词汇分解为'scatter'（散布）和'plot'（图表），利用认知科学中的双编码效应（visual and verbal）来强化记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈskætərplɒt/ 听起来像 'scatter plot'，想象点子在纸上弹跳",
+        "explanation": "运用声音与动作的联结，帮助学习者通过感官体验避免发音错误"
+      }
+    ],
+    "wordAssociations": [
+      "graph",
+      "data",
+      "points",
+      "correlation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "scatterplots",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., a scatterplot of data)",
+        "description": "作为名词使用，通常在句子中描述可视化工具",
+        "examples": [
+          "We analyzed a scatterplot of the results."
+        ]
+      },
+      {
+        "pattern": "Subject in a sentence (e.g., The scatterplot shows...)",
+        "description": "用作主语，表示图形的功能",
+        "examples": [
+          "The scatterplot indicates a trend."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'scatter plot' as separate words",
+        "correction": "Use 'scatterplot' as one word in technical contexts",
+        "explanation": "在正式语境中，该词是一个合成词，避免分隔以保持专业性"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Reserve for data visualization discussions",
+        "explanation": "初级学习者常错误地将该词用于一般描述，需强调其技术特定性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 15,000 in COCA corpus)",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "统计学",
+      "数据可视化",
+      "图形"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "COCA",
+      "BNC",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

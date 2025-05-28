@@ -1,0 +1,234 @@
+{
+  "word": "locale",
+  "phonetics": {
+    "british": "/ləʊˈkɑːl/",
+    "american": "/loʊˈkæl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place or locality, especially with reference to events, characteristics, or atmosphere.",
+      "chineseTranslation": "地点；场所",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the set of parameters that defines the user's language, region, and cultural conventions for software applications.",
+      "chineseTranslation": "本地化设置；区域设置",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "locale settings",
+      "meaning": "本地化设置",
+      "example": "You need to adjust the locale settings to display dates in the correct format.",
+      "exampleTranslation": "你需要调整本地化设置以正确显示日期格式。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "change locale",
+      "meaning": "更改区域设置",
+      "example": "To support international users, the app allows you to change locale easily.",
+      "exampleTranslation": "为了支持国际用户，该应用允许您轻松更改区域设置。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The novel is set in a quaint locale in rural France, capturing the essence of village life.",
+      "translation": "这部小说以法国乡村的一个宁静场所为背景，捕捉了村庄生活的本质。",
+      "source": "Literature (e.g., from modern novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, developers must consider the locale to ensure proper handling of currency symbols.",
+      "translation": "在软件开发中，开发人员必须考虑区域设置以确保正确处理货币符号。",
+      "source": "Technical documentation (e.g., from programming guides)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Tourists often seek out unique locales for photography, such as hidden beaches in Southeast Asia.",
+      "translation": "游客经常寻找独特场所进行摄影，例如东南亚的隐秘海滩。",
+      "source": "Travel writing (e.g., from travel blogs)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "locus",
+        "meaning": "place",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'locus'，意为 '地方'，经由法语 'local' 演变为英语 'locale'，最初用于指代特定地点或场景。从18世纪开始，该词在英语中发展为更广泛的含义，包括计算领域的区域设置。",
+    "firstKnownUse": "1775",
+    "relatedWords": [
+      "local",
+      "location",
+      "locality"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，建议通过视觉联想将 'locale' 与地图或特定地点图像关联，以增强空间记忆；对于中国学习者，可将词与汉语 '地点' 进行双语对比练习，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "location",
+        "similarity": "0.8",
+        "context": "适用于描述地理位置或事件发生地点的语境"
+      },
+      {
+        "word": "setting",
+        "similarity": "0.7",
+        "context": "常用于文学或计算环境中，表示背景或配置"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "global",
+        "context": "适用于强调普遍性而非特定区域的语境"
+      }
+    ],
+    "hypernyms": [
+      "place"
+    ],
+    "hyponyms": [
+      "region",
+      "site"
+    ],
+    "collocations": [
+      {
+        "pattern": "locale + noun (e.g., settings, name)",
+        "examples": [
+          "locale settings",
+          "locale name"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + locale (e.g., change, adapt to)",
+        "examples": [
+          "change locale",
+          "adapt to locale"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征特定环境或区域的独特性，尤其在旅游和计算领域反映了全球化的文化融合；在中国语境中，可能与 '本地化' 概念相关联，强调文化适应性。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术语境，如软件本地化",
+        "usage": "在美国英语中，'locale' 常与数字技术相关，常见于日常科技讨论"
+      },
+      {
+        "region": "英国",
+        "variation": "更侧重于地理或文学含义",
+        "usage": "在英国英语中，'locale' 可能用于描述历史场所，如文学作品中的场景"
+      }
+    ],
+    "historicalContext": "与工业革命后的地理探索和现代全球化为背景，该词体现了从物理地点到数字区域的演变，在19世纪文学中常见于描述社会环境。",
+    "modernUsage": "在社交媒体和数字平台上，该词用于讨论国际化应用，例如在Twitter或微信的全球用户群中。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个世界地图上的特定标记点，代表 'locale' 作为独特地点。",
+      "keyElements": [
+        "地图标记",
+        "特定场景"
+      ],
+      "emotionalConnection": "联结个人旅行经历，如回想中国某个熟悉的 'locale'，以触发情感共鸣并强化记忆。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'locale' 联想为 'local place'，并与汉语 '本地' 结合。",
+        "explanation": "通过空间联想帮助记忆，基于认知科学的空间记忆原理。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /loʊˈkæl/ 听起来像 'low call'，想象一个低声呼唤的本地声音。",
+        "explanation": "利用声音联想增强语音记忆，符合多感官学习原则。"
+      }
+    ],
+    "wordAssociations": [
+      "location",
+      "local",
+      "setting"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "locales",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'the locale of the event')",
+        "description": "作为名词用于描述地点或设置的句法结构",
+        "examples": [
+          "The locale of the festival is breathtaking."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase (e.g., 'in a specific locale')",
+        "description": "与介词结合表示位置关系",
+        "examples": [
+          "They met in a remote locale."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'local'",
+        "correction": "Use 'locale' for specific places or settings, not as an adjective.",
+        "explanation": "学习者常将 'locale' 误用为形容词；正确区分其名词功能以避免语义错误。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Form plural as 'locales'",
+        "explanation": "英语名词规则中，直接添加 -s，但中国学习者可能受汉语影响而忽略。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Geography",
+      "Literature"
+    ],
+    "tags": [
+      "Computing",
+      "Location",
+      "Culture"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

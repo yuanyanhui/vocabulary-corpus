@@ -1,0 +1,255 @@
+{
+  "word": "logging",
+  "phonetics": {
+    "british": "/ˈlɒɡɪŋ/",
+    "american": "/ˈlɑːɡɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of cutting down trees in a forest for timber production.",
+      "chineseTranslation": "伐木或木材采伐",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The practice of recording events or data, especially in computing or information systems.",
+      "chineseTranslation": "日志记录或事件记录",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "gerund (from verb)",
+      "definition": "The act of entering or accessing a system, such as logging into a computer.",
+      "chineseTranslation": "登录或记录入系统",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "illegal logging",
+      "meaning": "非法伐木活动",
+      "example": "Illegal logging has led to significant deforestation in the Amazon.",
+      "exampleTranslation": "非法伐木导致了亚马逊雨林的大量毁林。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "logging in",
+      "meaning": "登录系统或账户",
+      "example": "Please ensure you are logging in with your correct credentials.",
+      "exampleTranslation": "请确保您使用正确的凭证登录。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "system logging",
+      "meaning": "系统事件记录",
+      "example": "System logging helps in debugging errors in software applications.",
+      "exampleTranslation": "系统日志记录有助于调试软件应用程序中的错误。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company was fined for engaging in unsustainable logging practices.",
+      "translation": "该公司因从事不可持续的伐木实践而被罚款。",
+      "source": "Environmental news article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Error logging is essential for maintaining the security of online platforms.",
+      "translation": "错误日志记录对于维护在线平台的安荃至关重要。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "After logging into the website, users can access their personalized dashboard.",
+      "translation": "登录网站后，用户可以访问他们的个性化仪表板。",
+      "source": "Modern web interface guide (e.g., from BNC)",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old English",
+    "rootWords": [
+      {
+        "root": "log",
+        "meaning": "A piece of cut wood",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "該詞源於古英語 'logg'，意指一段木頭，後演變為表示伐木活動的過程。在17世紀，延伸至航海領域用於記錄速度，進而發展為現代計算機科學中的事件記錄，反映了從實物到抽象概念的轉變。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "logger",
+      "logbook",
+      "logistics"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "結合認知科學，建議使用重複間隔法來記憶多義詞；將伐木與計算機日志視覺化為不同場景，以增強語境聯想；避免混淆多義性，通過個人經驗建立情感連接，如回想一次伐木或登錄經歷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "felling",
+        "similarity": "0.8",
+        "context": "適用於森林相關的伐木語境中，常見於環境保護討論"
+      },
+      {
+        "word": "recording",
+        "similarity": "0.7",
+        "context": "適用於計算機或數據記錄的語境中，常見於技術文件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conservation",
+        "context": "在環境議題中，對伐木活動形成對立，常見於可持續發展討論"
+      },
+      {
+        "word": "erasure",
+        "context": "在數據記錄語境中，表示刪除或不記錄事件"
+      }
+    ],
+    "hypernyms": [
+      "recording",
+      "harvesting"
+    ],
+    "hyponyms": [
+      "forest logging",
+      "event logging"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + logging (e.g., illegal logging)",
+        "examples": [
+          "sustainable logging",
+          "network logging"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + logging (e.g., engage in logging)",
+        "examples": [
+          "start logging",
+          "stop logging"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，伐木常象徵環境破壞與經濟發展的衝突；在技術文化中，日志記錄代表資訊時代的監控與安荃。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常與林業經濟相關",
+        "usage": "在美國，常見於西部地區的經濟討論中，強調可持續性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "傾向於使用更正式的表達，如 'timber extraction'",
+        "usage": "在英國，伐木語境常與歷史殖民地相關聯"
+      }
+    ],
+    "historicalContext": "伐木活動與工業革命相關，象徵歐洲殖民擴張；在現代，計算機日志與資訊革命相連，體現了從自然資源到數字資源的轉變。",
+    "modernUsage": "在社交媒體和科技平台中，'logging in' 成為日常用語，反映了數字化生活的普及。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個伐木工人手持斧頭在森林中工作，旁邊有一台電腦螢幕顯示著日志記錄，象徵雙重含義。",
+      "keyElements": [
+        "斧頭代表伐木",
+        "螢幕代表記錄"
+      ],
+      "emotionalConnection": "聯想到個人的一次森林散步或電腦登錄經歷，以喚起熟悉感和情感共鳴"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Logging 像 'log' 加 'ing'，聯想到 '木頭日記' – 伐木是物理日記，計算機日志是數字日記。",
+        "explanation": "通過視覺聯想強化多義記憶，根據認知科學的雙重編碼理論"
+      },
+      {
+        "type": "声音联觉",
+        "content": "發音 /ˈlɒɡɪŋ/ 聽起來像 'locking'，聯想到鎖定系統後的記錄。",
+        "explanation": "利用音似聯想來增強發音和含義的記憶"
+      }
+    ],
+    "wordAssociations": [
+      "tree",
+      "record",
+      "access"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + logging",
+        "description": "作為名詞用於句中，表示活動或過程",
+        "examples": [
+          "The logging industry affects the environment."
+        ]
+      },
+      {
+        "pattern": "Verb + in + logging",
+        "description": "常見於動詞短語，如登錄動作",
+        "examples": [
+          "Users are logging in now."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'logging' with 'lugging'",
+        "correction": "Use 'logging' for records or trees",
+        "explanation": "錯位可能是由於發音相似，建議練習區分語境"
+      },
+      {
+        "mistake": "Incorrect verb form in tech context",
+        "correction": "Always use as gerund for ongoing action",
+        "explanation": "學習者常忘記其作為動名詞的使用，需強調句法角色"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 words in COCA corpus",
+    "domains": [
+      "environment",
+      "technology",
+      "business"
+    ],
+    "tags": [
+      "noun",
+      "gerund",
+      "sustainability",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

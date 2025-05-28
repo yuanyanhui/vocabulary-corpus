@@ -1,0 +1,256 @@
+{
+  "word": "scaling",
+  "phonetics": {
+    "british": "/ˈskeɪlɪŋ/",
+    "american": "/ˈskeɪlɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of climbing up a height or surface, or adjusting the size, scope, or proportion of something, such as in computing or business.",
+      "chineseTranslation": "缩放；攀登",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "Present participle of 'scale', meaning to climb up or to increase or decrease in size, quantity, or extent.",
+      "chineseTranslation": "攀登；扩大或缩小",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Related to the process of scaling, often used in technical contexts like computing to describe methods of handling growth.",
+      "chineseTranslation": "缩放式的；可扩展的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scaling up",
+      "meaning": "扩大规模",
+      "example": "The startup is scaling up its operations to enter new markets.",
+      "exampleTranslation": "这家初创企业正在扩大其运营规模以进入新市场。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "scaling down",
+      "meaning": "缩小规模",
+      "example": "The government is scaling down its military presence in the region.",
+      "exampleTranslation": "政府正在缩小该地区的军事存在。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "vertical scaling",
+      "meaning": "垂直扩展，通常指增强现有系统的容量",
+      "example": "Vertical scaling is often more cost-effective for small applications.",
+      "exampleTranslation": "垂直扩展通常对小型应用更具成本效益。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In cloud computing, scaling resources dynamically helps handle peak traffic.",
+      "translation": "在云计算中，动态缩放资源有助于处理高峰流量。",
+      "source": "Technology article from COCA corpus",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The experienced climber is skilled at scaling steep rock faces.",
+      "translation": "这位经验丰富的登山者擅长攀登陡峭的岩壁。",
+      "source": "Adventure literature from BNC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Businesses must focus on scaling their models for sustainable growth.",
+      "translation": "企业必须专注于扩展其模式以实现可持续增长。",
+      "source": "Business news from OED examples",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "scala",
+        "meaning": "ladder or staircase",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'scala'，意为阶梯或梯子，通过古法语 'escale' 演变为中古英语 'scale'，最初指攀登或测量，逐渐扩展到现代语境中的缩放或扩展含义，如在技术和商业领域。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "scale",
+      "escalate",
+      "descale"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 4,
+    "meaningComplexity": 5,
+    "usageComplexity": 6,
+    "learningTips": [
+      "结合認知科學的間聯法，將 'scaling' 聯想到階梯圖像，幫助記憶其源自拉丁語 'scala' 的含義；",
+      "使用重複曝光策略，在不同語境中練習，以強化語義區分；",
+      "應用分塊學習，將其與相關詞如 'scale' 分組記憶，避免混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "expansion",
+        "similarity": 0.7,
+        "context": "適用於商業或技術語境中表示增長"
+      },
+      {
+        "word": "enlargement",
+        "similarity": 0.6,
+        "context": "適用於縮放大小的語境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "shrinking",
+        "context": "適用於減少規模的商業或技術語境"
+      },
+      {
+        "word": "contraction",
+        "context": "適用於經濟或科學語境中表示縮小"
+      }
+    ],
+    "hypernyms": [
+      "growth",
+      "adjustment"
+    ],
+    "hyponyms": [
+      "vertical scaling",
+      "horizontal scaling"
+    ],
+    "collocations": [
+      {
+        "pattern": "scaling + preposition (e.g., up/down)",
+        "examples": [
+          "scaling up production",
+          "scaling down costs"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + scaling (e.g., rapid scaling)",
+        "examples": [
+          "rapid scaling of operations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在現代科技和商業文化中，'scaling' 象徵著快速增長和適應性，常隱含資本主義的擴張理念，但在東亞文化如中國，可能與可持續發展概念相關聯。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常見於科技領域，如軟件工程",
+        "usage": "在美國英語中，常與創新和創業相關"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更強調傳統意義，如地理攀登",
+        "usage": "在英國英語中，偏向非技術語境"
+      }
+    ],
+    "historicalContext": "與工業革命相關，'scaling' 的擴展意義反映了19世紀歐洲的技術進步和全球化趨勢，在當代中國文化中，則與經濟改革和數字化轉型相聯繫。",
+    "modernUsage": "在社交媒體和商業平台上，'scaling' 常見於討論企業成長，反映了全球數字經濟的趨勢。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想像一個人爬上一個巨大的階梯，每一步都代表擴大規模。",
+      "keyElements": [
+        "階梯",
+        "攀登",
+        "擴大圖像"
+      ],
+      "emotionalConnection": "聯想到個人成就感，如事業成功，來強化記憶"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "將 'scaling' 聯想到 'scale' 和 'climbing'，視為階梯上升。",
+        "explanation": "通過視覺聯想強化詞根記憶，基於認知科學的圖像編碼原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "發音 /ˈskeɪlɪŋ/ 聽起來像 'sky lining'，想像天空中的輪廓線條。",
+        "explanation": "利用音似聯想來加深印象，符合記憶科學的多感官學習"
+      }
+    ],
+    "wordAssociations": [
+      "scale",
+      "expand",
+      "climb"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "scaling",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + is/are + scaling + object",
+        "description": "主語 + 系動詞 + scaling + 受詞，常見於進行式結構",
+        "examples": [
+          "The team is scaling the mountain."
+        ]
+      },
+      {
+        "pattern": "Scaling + noun phrase",
+        "description": "scaling 作為名詞短語的開頭",
+        "examples": [
+          "Scaling operations require careful planning."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'scaling' with 'scalling' (misspelling)",
+        "correction": "Use 'scaling' correctly",
+        "explanation": "拼寫錯誤常因忽略 'e' 而發生，需注意詞根"
+      },
+      {
+        "mistake": "Using 'scaling' without context",
+        "correction": "Specify context, e.g., 'business scaling'",
+        "explanation": "語義模糊可能導致誤用，建議結合語境學習"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 5000 in COCA corpus",
+    "domains": [
+      "technology",
+      "business",
+      "outdoors"
+    ],
+    "tags": [
+      "computing",
+      "growth",
+      "measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

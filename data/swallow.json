@@ -1,0 +1,274 @@
+{
+  "word": "swallow",
+  "phonetics": {
+    "british": "/ˈswɒləʊ/",
+    "american": "/ˈswɑːloʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To cause or allow (food, liquid, etc.) to pass down the throat into the stomach.",
+      "chineseTranslation": "吞咽；咽下",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To accept or believe something without question, often unwillingly.",
+      "chineseTranslation": "接受或相信某事而不质疑",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small migratory bird of the Hirundinidae family, with pointed wings and a forked tail.",
+      "chineseTranslation": "燕子（一种迁徙鸟类）",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of swallowing something.",
+      "chineseTranslation": "吞咽动作",
+      "level": "basic",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "swallow one's pride",
+      "meaning": "强忍自尊心，承认错误或寻求帮助",
+      "example": "He had to swallow his pride and apologize for his mistake.",
+      "exampleTranslation": "他不得不咽下自尊心，为他的错误道歉。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hard to swallow",
+      "meaning": "难以接受或相信的事",
+      "example": "The news of the company's bankruptcy was hard to swallow.",
+      "exampleTranslation": "公司破产的消息很难让人接受。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "swallow up",
+      "meaning": "吞没或吸收某物",
+      "example": "The large corporation swallowed up the smaller company.",
+      "exampleTranslation": "大公司吞并了那家小公司。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She swallowed the medicine quickly to ease her sore throat.",
+      "translation": "她迅速咽下药物以缓解喉咙痛。",
+      "source": "日常对话（from everyday conversation corpora like COCA）",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The audience found the politician's promises hard to swallow.",
+      "translation": "观众发现政客的承诺难以相信。",
+      "source": "新闻报道（from news articles in BNC）",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Swallows return to Capistrano every spring, a tradition celebrated in folklore.",
+      "translation": "燕子每年春天返回卡皮斯特拉诺，这是一种在民间传说中庆祝的传统。",
+      "source": "文学作品（from American literature, e.g., referenced in OED）",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In the story, the character had to swallow his anger and walk away.",
+      "translation": "在故事中，角色不得不咽下怒火走开。",
+      "source": "小说（from fiction corpora like Project Gutenberg）",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "swalwan",
+        "meaning": "to swallow",
+        "language": "Old English"
+      },
+      {
+        "root": "schwalben",
+        "meaning": "to swallow",
+        "language": "Middle High German"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 swalwan，意为吞咽，源自原始日耳曼语 *swalwōną，可能与拉丁语 'gurgulio'（喉咙）相关联。该词在中古英语时期演变为 swallow，并扩展到表示鸟类的含义，可能由于鸟类吞食昆虫的行为。随着时间的推移，它在比喻意义上发展为接受或忍受某事。",
+    "firstKnownUse": "约 1000 年，在盎格鲁-撒克逊文献中首次出现",
+    "relatedWords": [
+      "swallowtail",
+      "swallower"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于音素组合的简单性，对于中文母语者，/w/ 和元音变体可能需练习)",
+    "spellingDifficulty": "3 (拼写规则直观，但双音节可能导致混淆)",
+    "meaningComplexity": "6 (多义词，需要区分字面和比喻意义)",
+    "usageComplexity": "5 (常见搭配多样，但语境依赖性中等)",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像关联，例如想象燕子飞行的场景来记忆鸟类含义；通过重复练习和语境暴露，强化多义词的辨别，以减少干扰记忆；建议使用间隔重复系统，如Anki，结合个人经验如进食动作来建立情感连接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "ingest",
+        "similarity": "0.8",
+        "context": "在正式语境中用于描述吞咽食物，例如科学或医疗讨论"
+      },
+      {
+        "word": "accept",
+        "similarity": "0.7",
+        "context": "在比喻语境中用于表示不情愿地相信某事"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "spit out",
+        "context": "在字面语境中，表示拒绝吞咽"
+      },
+      {
+        "word": "reject",
+        "context": "在比喻语境中，表示不接受某事"
+      }
+    ],
+    "hypernyms": [
+      "consume",
+      "bird"
+    ],
+    "hyponyms": [
+      "gulp",
+      "barn swallow"
+    ],
+    "collocations": [
+      {
+        "pattern": "swallow + object (e.g., food, pride)",
+        "examples": [
+          "She swallowed the pill.",
+          "He swallowed his pride."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "swallow up + noun",
+        "examples": [
+          "The sea swallowed up the ship."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，燕子常象征春天的到来、自由和忠诚，例如在英国民间故事中代表家庭团聚；在中文文化中，燕子类似地被视为吉祥物，但 'swallow' 的比喻用法如咽下自尊可能涉及个人情感抑制，与儒家文化中的谦逊相关。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于鸟类语境，如在诗歌中",
+        "usage": "在文学和民间传统中强调季节性迁徙"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重比喻用法，如在日常对话中",
+        "usage": "在商业或政治语境中表示接受困难事实"
+      }
+    ],
+    "historicalContext": "燕子在古希腊罗马文学中象征和平和回归，如荷马史诗；在工业革命后的英国，'swallow' 比喻用法兴起，反映社会阶层变动和个人忍耐。",
+    "modernUsage": "在社交媒体上，常用于表达情感，如 'hard to swallow' 在Twitter上讨论争议性新闻，体现跨文化传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人在公园里喂食燕子，同时咽下一口水或难以下咽的真相。",
+      "keyElements": [
+        "燕子飞翔",
+        "吞咽动作",
+        "情感冲突"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年喂鸟或面对尴尬时刻，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'swallow' 联想为 'swallow like a bird'，想象燕子快速吞食昆虫。",
+        "explanation": "通过视觉联想强化多义性，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈswɒləʊ/ 听起来像 'swell low'，联想喉咙膨胀。",
+        "explanation": "利用声音相似性帮助发音记忆，符合记忆科学中的语音回路"
+      }
+    ],
+    "wordAssociations": [
+      "bird",
+      "gulp",
+      "accept"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "swallowed",
+      "pastParticiple": "swallowed",
+      "presentParticiple": "swallowing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + swallow + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "The child swallowed the candy."
+        ]
+      },
+      {
+        "pattern": "swallow + one's + noun",
+        "description": "用于比喻表达，如咽下自尊",
+        "examples": [
+          "She swallowed her pride."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing swallow with shallow (as in depth)",
+        "correction": "Use swallow for the verb of ingesting; shallow for not deep.",
+        "explanation": "源于语音相似性，对于中文母语者，注意元音差异以避免混淆"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'swallow' instead of 'swallowed'",
+        "correction": "Use past tense 'swallowed' for completed actions.",
+        "explanation": "规则动词需正确变形，基于英语时态系统"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Top 2000 in general corpora (e.g., COCA rank: 1567)",
+    "domains": [
+      "daily life",
+      "nature",
+      "psychology",
+      "business"
+    ],
+    "tags": [
+      "action verb",
+      "animal",
+      "metaphor",
+      "emotion"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

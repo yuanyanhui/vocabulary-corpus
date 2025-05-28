@@ -1,0 +1,258 @@
+{
+  "word": "apoptosis",
+  "phonetics": {
+    "british": "/ˌæpəpˈtəʊsɪs/",
+    "american": "/ˌæpəpˈtoʊsɪs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A genetically programmed process of cell death that occurs in multicellular organisms as a normal and controlled part of growth and development.",
+      "chineseTranslation": "细胞凋亡",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process by which cells undergo morphological changes, including blebbing, cell shrinkage, and nuclear fragmentation, leading to their orderly removal.",
+      "chineseTranslation": "程序性细胞死亡过程",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "induce apoptosis",
+      "meaning": "诱导细胞凋亡",
+      "example": "Certain drugs can induce apoptosis in cancer cells.",
+      "exampleTranslation": "某些药物可以诱导癌细胞凋亡。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "apoptosis pathway",
+      "meaning": "细胞凋亡途径",
+      "example": "The intrinsic apoptosis pathway is activated by internal signals.",
+      "exampleTranslation": "内在细胞凋亡途径由内部信号激活。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "programmed cell death",
+      "meaning": "程序性细胞死亡",
+      "example": "Apoptosis is a form of programmed cell death essential for development.",
+      "exampleTranslation": "细胞凋亡是一种程序性细胞死亡，对发育至关重要。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Apoptosis plays a crucial role in eliminating damaged cells during embryonic development.",
+      "translation": "细胞凋亡在胚胎发育过程中发挥关键作用，消除受损细胞。",
+      "source": "Scientific literature (e.g., biology textbooks)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In cancer research, scientists study ways to trigger apoptosis in tumor cells.",
+      "translation": "在癌症研究中，科学家们研究如何在肿瘤细胞中触发细胞凋亡。",
+      "source": "Medical journals (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Defects in the apoptosis mechanism can lead to autoimmune diseases.",
+      "translation": "细胞凋亡机制的缺陷可能导致自身免疫疾病。",
+      "source": "Academic papers (e.g., BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The process of apoptosis ensures that unnecessary cells are removed without causing inflammation.",
+      "translation": "细胞凋亡过程确保不必要的细胞被移除，而不会引起炎症。",
+      "source": "Educational resources (e.g., online biology courses)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "apo-",
+        "meaning": "away from or off",
+        "language": "Greek"
+      },
+      {
+        "root": "ptosis",
+        "meaning": "a falling or dropping",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊词汇，最初用于描述树叶的掉落或物体下落。在20世纪70年代，生物学家John Kerr、Andrew Wyllie和Alastair Currie首次在科学语境中使用该词来描述细胞的有序死亡过程，从比喻性含义演变为现代生物学中的技术术语。",
+    "firstKnownUse": "1972",
+    "relatedWords": [
+      "necrosis",
+      "autophagy",
+      "cell death"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "利用认知科学中的图像编码法，将'apoptosis'联想成树叶掉落（apo-像'fall away'），结合个人经验如季节变化来增强记忆；通过间隔重复法（spaced repetition）复习科学语境中的例句，以巩固语义理解。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "programmed cell death",
+        "similarity": "0.9",
+        "context": "适用于生物学和医学语境中描述有序细胞死亡的过程"
+      },
+      {
+        "word": "cell suicide",
+        "similarity": "0.7",
+        "context": "在非正式或科普语境中用于简化解释细胞的自毁机制"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "necrosis",
+        "context": "在生物学语境中，指非程序性、炎症相关的细胞死亡，与apoptosis的控制性形成对比"
+      },
+      {
+        "word": "proliferation",
+        "context": "在细胞生物学中，指细胞增殖，与apoptosis的细胞减少作用相反"
+      }
+    ],
+    "hypernyms": [
+      "cell death"
+    ],
+    "hyponyms": [
+      "intrinsic apoptosis",
+      "extrinsic apoptosis"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + apoptosis",
+        "examples": [
+          "induce apoptosis",
+          "inhibit apoptosis"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "apoptosis + noun",
+        "examples": [
+          "apoptosis pathway",
+          "apoptosis mechanism"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "作为生物学术语，该词本身没有强烈的文化象征意义，但反映了现代科学对生命过程的理性理解，在西方医学文化中强调个体细胞的'牺牲'以维持整体健康。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中更常用于临床和研究语境",
+        "usage": "例如，在美国医学教育中，apoptosis常与癌症治疗相关联"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "英式英语中可能更侧重于基础生物学解释",
+        "usage": "在英国学术出版物中，常与发育生物学结合使用"
+      }
+    ],
+    "historicalContext": "该词与20世纪生物学革命相关，特别是在细胞生物学和遗传学领域的进展，体现了科学术语如何从古希腊根源演变来描述当代现象。",
+    "modernUsage": "在社交媒体和在线教育平台上，apoptosis常用于科普内容，如TED演讲或健康博客，但在中国语境中，可能通过翻译词'细胞凋亡'在医学讨论中传播"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个秋天的树叶从树枝上掉落，代表细胞有序地脱离并消失。",
+      "keyElements": [
+        "树叶掉落",
+        "有序过程",
+        "细胞形象"
+      ],
+      "emotionalConnection": "联结到个人经历，如观看季节变化带来的 melancholic 情绪，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'apoptosis'拆分为'apo'（像'苹果掉落'）和'ptosis'（像'下垂'），联想成苹果从树上掉下。",
+        "explanation": "通过视觉联想增强词汇保留，利用认知科学中的双编码效应（视觉与语义结合）"
+      },
+      {
+        "type": "缩略",
+        "content": "A-P-O: Away-Process-Off（代表细胞离开的过程）。",
+        "explanation": "使用首字母缩略法结合故事构建，帮助初级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "cell",
+      "death",
+      "programmed",
+      "falling"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "apoptoses",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + apoptosis",
+        "description": "主语+动词+apoptosis的结构，常用于描述过程",
+        "examples": [
+          "Apoptosis occurs in response to DNA damage."
+        ]
+      },
+      {
+        "pattern": "Verb + apoptosis + in + noun",
+        "description": "动词+apoptosis+in+名词的结构，表示发生在特定环境",
+        "examples": [
+          "Induce apoptosis in cancer cells."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing apoptosis with necrosis",
+        "correction": "Use apoptosis for programmed death and necrosis for accidental death",
+        "explanation": "Apoptosis是非炎症性，而necrosis是炎症性；这常见于初学者对生物学术语的混淆"
+      },
+      {
+        "mistake": "Incorrect plural form",
+        "correction": "Use 'apoptoses' instead of 'apoptosises'",
+        "explanation": "作为外来词，其复数形式遵循希腊语规则，避免英语化错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 in scientific corpora (e.g., COCA frequency: 0.02 per million words)",
+    "domains": [
+      "biology",
+      "medicine",
+      "science"
+    ],
+    "tags": [
+      "biological process",
+      "cell biology",
+      "genetics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

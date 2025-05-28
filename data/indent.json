@@ -1,0 +1,251 @@
+{
+  "word": "indent",
+  "phonetics": {
+    "british": "/ɪnˈdɛnt/",
+    "american": "/ɪnˈdɛnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To start a line of text further from the margin than the other lines, as in formatting.",
+      "chineseTranslation": "使（文本行）缩进",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A blank or space at the beginning of a line of text, used for formatting.",
+      "chineseTranslation": "缩进空间",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make a dent or notch in something, or to agree to a contract with indented clauses.",
+      "chineseTranslation": "在某物上做凹痕或签订有缩进条款的合同",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "increase the indent",
+      "meaning": "增加缩进量",
+      "example": "In word processing, you can increase the indent to make the paragraph stand out.",
+      "exampleTranslation": "在文字处理软件中，您可以增加缩进量来使段落更突出。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "hanging indent",
+      "meaning": "悬挂缩进，指第一行不缩进而后续行缩进的格式",
+      "example": "A hanging indent is often used in bibliographies to align entries properly.",
+      "exampleTranslation": "悬挂缩进经常用于参考文献中以正确对齐条目。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She decided to indent the first line of each paragraph for better readability.",
+      "translation": "她决定为每段的第一行添加缩进以提高可读性。",
+      "source": "Modern writing guides (e.g., from APA style manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, you must indent your code to improve its structure and legibility.",
+      "translation": "在编程中，您必须对代码进行缩进以改善其结构和可读性。",
+      "source": "Technical documentation (e.g., Python style guide)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The contract was indented with specific clauses for legal clarity.",
+      "translation": "合同通过缩进特定条款来确保法律清晰度。",
+      "source": "Historical legal texts",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "in, into",
+        "language": "Latin"
+      },
+      {
+        "root": "dens",
+        "meaning": "tooth",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'indentare'，意为'切出牙状凹口'，最初用于描述在文件或契约上做锯齿状标记以防伪造。14世纪传入英语后，演变为排版和格式化的含义，逐渐扩展到现代计算机编程中的代码缩进。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "indentation",
+      "indented",
+      "dent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉图像关联，例如想象'缩进'像牙齿的凹口，利用空间记忆技巧；对于中文母语学习者，建议通过比较中英文字处理软件的界面来强化语境记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "tab",
+        "similarity": "0.7",
+        "context": "在排版或编程中，用于表示类似缩进的格式调整"
+      },
+      {
+        "word": "recess",
+        "similarity": "0.5",
+        "context": "在建筑或物理语境中，表示凹进的部分，与缩进的视觉效果相似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "outdent",
+        "context": "在排版中，表示将行向外移动，与缩进相反的格式"
+      },
+      {
+        "word": "flush left",
+        "context": "在文本对齐中，表示左对齐而不缩进"
+      }
+    ],
+    "hypernyms": [
+      "format",
+      "align"
+    ],
+    "hyponyms": [
+      "hanging indent",
+      "first-line indent"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + noun (e.g., indent a line)",
+        "examples": [
+          "Indent a paragraph in your document."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + noun (e.g., proper indent)",
+        "examples": [
+          "Ensure a proper indent for readability."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方排版和写作文化中象征结构化和清晰度，尤其在英语文学和学术传统中，用于提升文本的可读性；在中文文化中，类似概念见于古籍的排版，但现代使用更多受西方影响。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "在美式英语中，更常用于计算机和数字媒体语境",
+        "usage": "例如，在美国教育系统中，indent常在写作指导中强调，以符合APA或MLA格式"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "在英式英语中，历史关联更强，源自中世纪文件缩进",
+        "usage": "常用于正式文件和文学作品中，以保持传统排版风格"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的法律文件和印刷术发展相关，体现了从手稿到数字时代的文本组织演变；在中文背景下，可与古代书籍的布局（如四库全书）进行比较。",
+    "modernUsage": "在社交媒体和在线写作中，indent用于提升专业性，但数字平台如Twitter上常被简化"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个文件页面，左边有凹进的线条，如同牙齿的咬合，代表缩进的效果。",
+      "keyElements": [
+        "凹口",
+        "页面",
+        "牙齿状"
+      ],
+      "emotionalConnection": "联结到个人写作经历，例如回想学校作业中的格式要求，以激发熟悉感和成就感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Indent sounds like 'in dent' – think of a dent going inward.",
+        "explanation": "通过声音联想，将词汇与物理凹痕联系，运用认知科学中的双编码理论（视觉和听觉结合）来增强记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "I-N-D-E-N-T: In New Document, Every New Text.",
+        "explanation": "使用首字母缩略词，结合日常生活场景，帮助中间级学习者构建叙事记忆"
+      }
+    ],
+    "wordAssociations": [
+      "tab",
+      "margin",
+      "format"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "indented",
+      "pastParticiple": "indented",
+      "presentParticiple": "indenting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Verb + object (e.g., indent the text)",
+        "description": "动词后接名词对象，表示对文本进行操作",
+        "examples": [
+          "You should indent the first line."
+        ]
+      },
+      {
+        "pattern": "Noun as subject (e.g., The indent is necessary)",
+        "description": "名词用作主语，表示缩进的空间或状态",
+        "examples": [
+          "The indent improves readability."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing indent with 'intend' (e.g., 'I indent to go' instead of 'I intend to go')",
+        "correction": "Use 'indent' only for formatting, not for plans.",
+        "explanation": "由于发音相似，中文母语学习者易混淆；建议通过语境区分"
+      },
+      {
+        "mistake": "Overusing indent in informal writing",
+        "correction": "Limit to formal contexts.",
+        "explanation": "中间级学习者可能错误应用于非正式文本，影响流畅性"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "writing",
+      "computing",
+      "publishing"
+    ],
+    "tags": [
+      "typography",
+      "formatting",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

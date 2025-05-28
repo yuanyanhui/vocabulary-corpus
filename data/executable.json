@@ -1,0 +1,238 @@
+{
+  "word": "executable",
+  "phonetics": {
+    "british": "/ɪɡˈzɛkjʊtəbl/",
+    "american": "/ɪɡˈzɛkjətəbl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A file or set of files that contains a program in a form that can be run by a computer.",
+      "chineseTranslation": "可执行文件",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being executed or carried out, especially in the context of computer programs.",
+      "chineseTranslation": "可执行的",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "executable file",
+      "meaning": "可执行文件",
+      "example": "Always scan an executable file for viruses before running it.",
+      "exampleTranslation": "在运行可执行文件之前Always 总是扫描病毒。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "executable code",
+      "meaning": "可执行代码",
+      "example": "The developer compiled the source code into executable code.",
+      "exampleTranslation": "开发人员将源代码编译成可执行代码。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software installer includes an executable that launches the setup process.",
+      "translation": "软件安装程序包括一个可执行文件，用于启动安装过程。",
+      "source": "Technical documentation (e.g., from software manuals)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, an executable must be optimized for performance.",
+      "translation": "在编程中，可执行文件必须针对性能进行优化。",
+      "source": "Online tutorials (e.g., from Stack Overflow)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She downloaded the executable from the official website to avoid malware.",
+      "translation": "她从官方网站下载了可执行文件，以避免恶意软件。",
+      "source": "News articles (e.g., cybersecurity reports)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "execute",
+        "meaning": "to carry out or perform",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "Derived from the Latin 'executare', meaning to follow through or accomplish, which stems from 'exsequi' (to execute or pursue). Over time, in English, it evolved in the 17th century to refer to legal and then computational actions, adapting to technological contexts by the mid-20th century with the rise of computing.",
+    "firstKnownUse": "Mid-17th century",
+    "relatedWords": [
+      "execute",
+      "execution",
+      "executive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，使用分块学习法将 'executable' 与其技术背景关联；通过重复曝光于编程环境中增强长期记忆；建议创建个人视觉映射，将词汇与电脑图标联系以促进海马体激活。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "runnable",
+        "similarity": "0.8",
+        "context": "在编程和软件开发语境中"
+      },
+      {
+        "word": "operational",
+        "similarity": "0.7",
+        "context": "在技术或工程语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-executable",
+        "context": "不可执行的文件或代码，在调试或错误处理语境中"
+      }
+    ],
+    "hypernyms": [
+      "file",
+      "program"
+    ],
+    "hyponyms": [
+      "binary file",
+      "script file"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + noun",
+        "examples": [
+          "executable program",
+          "executable script"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + executable",
+        "examples": [
+          "run executable",
+          "compile executable"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在数字文化中，该词象征着技术执行力和创新，特别是在软件开发和网络安全领域，常隐含效率与风险的张力。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技行业俚语",
+        "usage": "在美国如硅谷的语境中，'executable' 经常在非正式讨论中出现，与创新文化相关联"
+      },
+      {
+        "region": "英国",
+        "variation": "偏向正式使用",
+        "usage": "在英国的学术和技术写作中，更强调其正式语域，避免口语化"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机革命相关联，体现了从机械执行到数字执行的演变，在文学如科幻小说中（如艾萨克·阿西莫夫的作品）代表人类与机器的互动。",
+    "modernUsage": "在社交媒体和在线社区中，如Reddit或Twitter，'executable' 常用于讨论软件更新或网络威胁，反映了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个电脑桌面上的图标，点击后立即运行程序。",
+      "keyElements": [
+        "图标",
+        "运行按钮",
+        "代码符号"
+      ],
+      "emotionalConnection": "联想到第一次成功运行程序的成就感，以触发个人学习动机。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Exe-cute-able: 像执行命令一样能运行。",
+        "explanation": "通过声音和语义联想，将词汇与动作关联，运用认知联想原理增强记忆保留。"
+      },
+      {
+        "type": "缩略",
+        "content": "EXE = Execute + Able",
+        "explanation": "使用首字母缩写创建简单口诀，基于工作记忆模型促进快速回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "execute",
+      "run",
+      "program",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "executables",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词，用于描述文件或程序",
+        "examples": [
+          "The executable is secure."
+        ]
+      },
+      {
+        "pattern": "Adjective modifier",
+        "description": "作为形容词，修饰名词如文件或任务",
+        "examples": [
+          "This is an executable task."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'executive'",
+        "correction": "Use 'executable' for computer files and 'executive' for business roles.",
+        "explanation": "这些词虽发音相似，但语义不同；前者为技术术语，后者为管理术语，常因拼写错误导致混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'executables' for plural.",
+        "explanation": "英语名词规则要求添加 '-s'，这对中文母语学习者可能构成挑战。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10% in COCA for computing domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Software Development"
+    ],
+    "tags": [
+      "Computer Science",
+      "Programming",
+      "Digital Security"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

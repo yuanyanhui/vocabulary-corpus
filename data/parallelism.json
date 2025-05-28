@@ -1,0 +1,258 @@
+{
+  "word": "parallelism",
+  "phonetics": {
+    "british": "/ˌpærəˈlɛlɪzəm/",
+    "american": "/ˌpærəˈlɛlɪzəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The use of successive verbal constructions in poetry or prose that correspond in grammatical structure, sound, meter, meaning, or arrangement.",
+      "chineseTranslation": "平行结构；平行主义",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A state or condition of being parallel, especially in geometry or abstract concepts.",
+      "chineseTranslation": "平行状态",
+      "level": "basic",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the processing of multiple tasks simultaneously.",
+      "chineseTranslation": "并行处理",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "structural parallelism",
+      "meaning": "结构平行",
+      "example": "The author employed structural parallelism to enhance the rhythm of the poem.",
+      "exampleTranslation": "作者使用了结构平行来增强诗的节奏。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "syntactic parallelism",
+      "meaning": "句法平行",
+      "example": "Syntactic parallelism is often used in persuasive speeches.",
+      "exampleTranslation": "句法平行经常用于说服性演讲中。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "parallelism in writing",
+      "meaning": "写作中的平行结构",
+      "example": "Parallelism in writing can make arguments more compelling.",
+      "exampleTranslation": "写作中的平行结构可以使论点更具说服力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In his 'I Have a Dream' speech, Martin Luther King Jr. used parallelism to emphasize equality, saying, 'I have a dream that one day this nation will rise up and live out the true meaning of its creed.'",
+      "translation": "在《我有一个梦想》演讲中，马丁·路德·金使用平行结构来强调平等，他说：‘我有一个梦想，有一天这个国家会站起来并实践其信条的真正含义。’",
+      "source": "Historical speech",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The poem's parallelism, with lines like 'The child is father of the man; And I could wish my days to be bound each to each by natural piety,' creates a rhythmic flow.",
+      "translation": "这首诗的平行结构，如‘孩子是男人的父亲；我希望我的日子通过自然的虔诚彼此联系’，创造了节奏感。",
+      "source": "Literature (William Wordsworth)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In modern computing, parallelism allows processors to handle multiple threads at once, improving efficiency.",
+      "translation": "在现代计算中，并行处理允许处理器同时处理多个线程，提高效率。",
+      "source": "Technical article",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek via Late Latin",
+    "rootWords": [
+      {
+        "root": "parallel",
+        "meaning": "Beside one another",
+        "language": "Greek (from παραλληλος, parallēlos)"
+      },
+      {
+        "root": "ismos",
+        "meaning": "State or condition",
+        "language": "Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊语παραλληλος（意思是“彼此相邻”），通过拉丁语parallelismus传入英语，先用于几何学表示平行线状态，16世纪扩展到修辞学和文学中，描述结构上的对应关系；到20世纪，在计算机科学中发展为并行处理的概念。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "parallel",
+      "parallelogram",
+      "symmetry"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，利用视觉联想如平行线图来记忆词义；通过间隔重复法（spaced repetition）练习例句，以强化语境记忆；建议初级学习者从简单修辞例句入手，逐步扩展到技术语境，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "symmetry",
+        "similarity": "0.7",
+        "context": "适用于强调平衡和结构对应，如文学写作中"
+      },
+      {
+        "word": "balance",
+        "similarity": "0.6",
+        "context": "在修辞或设计语境中，用于表示对称性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asymmetry",
+        "context": "在艺术或结构语境中，表示不平衡或不对应"
+      },
+      {
+        "word": "disparity",
+        "context": "用于对比不平等或不平行的情况"
+      }
+    ],
+    "hypernyms": [
+      "rhetorical device"
+    ],
+    "hyponyms": [
+      "anaphora",
+      "epistrophe"
+    ],
+    "collocations": [
+      {
+        "pattern": "use parallelism in",
+        "examples": [
+          "use parallelism in writing",
+          "use parallelism in speeches"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "structural parallelism with",
+        "examples": [
+          "structural parallelism with clauses"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英语文化中，该词象征修辞技巧的平衡和强调，常用于文学和演讲以增强说服力，例如在圣经和莎士比亚作品中；在跨文化语境中，中国学习者可能将之与汉语中的对仗或排比相联系，促进文化包容。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于政治演讲和教育语境",
+        "usage": "在美国英语中，强调在公众演说中的应用，如马丁·路德·金的演讲"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重文学和学术语境",
+        "usage": "在英国英语中，常见于诗歌和散文分析"
+      }
+    ],
+    "historicalContext": "与古希腊修辞学和文艺复兴时期的文学传统相关联，如亚里士多德的《修辞学》；在现代，体现于民权运动和社会变革的演讲中。",
+    "modernUsage": "在社交媒体和在线教育中流行，用于写作指导和AI生成的文本分析。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象两条平行线在镜子中反射，代表词的对应结构。",
+      "keyElements": [
+        "平行线",
+        "镜像对应",
+        "结构平衡"
+      ],
+      "emotionalConnection": "联结到个人经历，如听过鼓舞人心的演讲，触发积极情绪以加深记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'parallelism'与'parallel parking'联想，因为两者都涉及'平行'的概念。",
+        "explanation": "通过视觉和运动联想增强记忆，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "缩略",
+        "content": "P-A-R: Parallel And Rhythm",
+        "explanation": "使用首字母缩写帮助回想词的核心含义，结合重复练习"
+      }
+    ],
+    "wordAssociations": [
+      "parallel",
+      "symmetry",
+      "rhythm"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "parallelisms",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + parallelism",
+        "description": "作为主语或宾语出现，常用于描述结构",
+        "examples": [
+          "Parallelism enhances the speech."
+        ]
+      },
+      {
+        "pattern": "In + parallelism + context",
+        "description": "用于表示语境中的应用",
+        "examples": [
+          "In parallelism, clauses must match."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing it with 'parallel' as an adjective",
+        "correction": "Use 'parallelism' for the noun form",
+        "explanation": "学习者常混淆形容词和名词形式，建议通过例句区分"
+      },
+      {
+        "mistake": "Overusing in informal writing",
+        "correction": "Reserve for formal contexts",
+        "explanation": "在非正式语域中可能显得生硬，影响自然表达"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "文学",
+      "修辞学",
+      "计算机科学"
+    ],
+    "tags": [
+      "修辞",
+      "结构",
+      "技术术语"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "word": "coefficient",
+  "phonetics": {
+    "british": "/kəʊˈɛfɪʃ(ə)nt/",
+    "american": "/koʊˈɛfɪʃənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A numerical factor or constant that multiplies a variable in an algebraic expression, such as the '2' in 2x.",
+      "chineseTranslation": "系数",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In physics or engineering, a value that expresses the relationship between two quantities, such as the coefficient of friction.",
+      "chineseTranslation": "系数（例如摩擦系数）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Acting together or jointly, often used in contexts like 'coefficient partners'.",
+      "chineseTranslation": "合作的；共同作用的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "coefficient of friction",
+      "meaning": "摩擦系数，表示两个表面之间摩擦力的度量",
+      "example": "The coefficient of friction between the tires and the road affects the car's braking distance.",
+      "exampleTranslation": "轮胎与路面之间的摩擦系数影响汽车的制动距离。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "binomial coefficient",
+      "meaning": "二项式系数，在组合数学中用于计算二项式展开中的系数",
+      "example": "In combinatorics, the binomial coefficient is used to determine the number of ways to choose items.",
+      "exampleTranslation": "在组合数学中，二项式系数用于确定选择物品的排列方式。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "correlation coefficient",
+      "meaning": "相关系数，衡量两个变量之间关系的统计量",
+      "example": "The correlation coefficient in this study was 0.85, indicating a strong positive relationship.",
+      "exampleTranslation": "这个研究中的相关系数为0.85，表明强烈的正相关关系。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the equation y = 3x + 2, the number 3 is the coefficient of x.",
+      "translation": "在方程 y = 3x + 2 中，数字 3 是 x 的系数。",
+      "source": "Educational textbook (e.g., from mathematics corpora like COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The drag coefficient of the new aircraft design has been optimized for better fuel efficiency.",
+      "translation": "新飞机设计的阻力系数已优化，以提高燃油效率。",
+      "source": "Scientific article (e.g., from engineering journals in BNC)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Economists often use the elasticity coefficient to measure how demand changes with price.",
+      "translation": "经济学家经常使用弹性系数来衡量需求如何随价格变化。",
+      "source": "News article (e.g., from financial sections in COCA)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "co-",
+        "meaning": "together or jointly",
+        "language": "Latin"
+      },
+      {
+        "root": "efficient-",
+        "meaning": "to accomplish or produce",
+        "language": "Latin (from efficere, meaning 'to accomplish')"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'coefficientem'，是 'efficiens' 的派生词，意为共同作用或合作。从17世纪开始在英语中用于数学和科学语境，最初描述共同起作用的因素，随着科学革命演变为现代数学中的数值乘数。",
+    "firstKnownUse": "1660s",
+    "relatedWords": [
+      "efficient",
+      "coefficiently",
+      "inefficient"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "利用认知科学中的间隔重复法（spaced repetition）来记忆不同语境下的系数含义，例如通过App如Anki将数学和物理例子分开练习；",
+      "构建概念映射（concept mapping），将系数与日常生活中的比例联系，如将系数比作食谱中的比例，以增强语义关联；",
+      "结合双编码理论，使用视觉辅助如图表来记忆发音和拼写，避免混淆类似词汇如'efficient'"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "factor",
+        "similarity": "0.8",
+        "context": "在数学或科学语境中，用于描述乘数或影响因素"
+      },
+      {
+        "word": "multiplier",
+        "similarity": "0.7",
+        "context": "在代数表达式中，表示数值乘法关系"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "constant",
+        "context": "在某些语境中，对比系数（变量相关）与常量（固定值）的区别"
+      }
+    ],
+    "hypernyms": [
+      "factor"
+    ],
+    "hyponyms": [
+      "drag coefficient",
+      "correlation coefficient"
+    ],
+    "collocations": [
+      {
+        "pattern": "noun + of + noun",
+        "examples": [
+          "coefficient of variation",
+          "coefficient of determination"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "the + coefficient + in + expression",
+        "examples": [
+          "the coefficient in the equation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方科学文化中，该词象征精确性和量化分析，常与启蒙运动后的科学方法相关联，代表理性与实证主义；在中国文化中，可能与传统数学（如九章算术）有间接联系，但更多用于现代教育。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和商业语境",
+        "usage": "在日常英语中，如商业报告中强调统计分析"
+      },
+      {
+        "region": "英国",
+        "variation": "在学术语境中更正式",
+        "usage": "常出现在科学论文中，以强调历史数学传统"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲科学革命相关，如牛顿的物理学著作中出现，反映了工业革命对量化的需求；在现代，中国教育体系中，该词用于STEM领域，促进跨文化科学交流。",
+    "modernUsage": "在社交媒体和在线教育中流行，例如YouTube教程或Twitter科学讨论，用于简化复杂概念"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个天平秤，其中 'coefficient' 像一个调节器，控制变量的大小，就如在食谱中调节配料比例。",
+      "keyElements": [
+        "天平秤",
+        "调节器",
+        "比例"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆学校数学课上的方程，帮助触发积极学习情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'coefficient' as 'co- efficient' – two things working together efficiently.",
+        "explanation": "通过联想 'co-' 表示合作，'efficient' 表示有效，增强词汇记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /koʊˈɛfɪʃənt/ 像 'go fish' 的变形，想象在钓鱼时用系数计算鱼的数量。",
+        "explanation": "利用声音相似性创建有趣场景，提高语音记忆"
+      }
+    ],
+    "wordAssociations": [
+      "factor",
+      "multiplier",
+      "equation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "coefficients",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + coefficient + of + noun",
+        "description": "主语 + 动词 + 系数 + of + 名词结构，常用于描述关系",
+        "examples": [
+          "The coefficient of friction determines the slip."
+        ]
+      },
+      {
+        "pattern": "In + expression, the + coefficient + is",
+        "description": "在表达式中，系数是...结构，用于数学解释",
+        "examples": [
+          "In y = mx + b, the coefficient m is the slope."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'coefficient' with 'efficient'",
+        "correction": "Use 'coefficient' for mathematical terms and 'efficient' for effectiveness.",
+        "explanation": "这两个词拼写相似，但语义不同；学习者应注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'coefficients' for plural.",
+        "explanation": "作为可数名词，需正确添加 -s"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 5000 words in COCA corpus, especially in academic domains)",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering",
+      "economics"
+    ],
+    "tags": [
+      "mathematics",
+      "physics",
+      "quantitative",
+      "technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

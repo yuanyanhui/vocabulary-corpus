@@ -1,0 +1,243 @@
+{
+  "word": "bisection",
+  "phonetics": {
+    "british": "/baɪˈsɛkʃən/",
+    "american": "/baɪˈsɛkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of dividing something into two equal parts, especially along a straight line.",
+      "chineseTranslation": "将某物分成两等份的过程，尤其是沿着一条直线",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, the point at which a line or curve is divided into two equal parts.",
+      "chineseTranslation": "在数学中，指将一条线或曲线分成两等份的点",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bisection method",
+      "meaning": "一种数值分析方法，用于求解方程的根",
+      "example": "The bisection method is an efficient algorithm for finding roots of continuous functions.",
+      "exampleTranslation": "二分法是一种高效的算法，用于寻找连续函数的根",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "line of bisection",
+      "meaning": "将某物分成两半的直线",
+      "example": "The line of bisection divides the circle into two semicircles.",
+      "exampleTranslation": "分割线将圆分成两个半圆",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In geometry, the bisection of an angle creates two equal angles.",
+      "translation": "在几何学中，对一个角进行二分会创建两个相等的角",
+      "source": "Educational textbook (e.g., from mathematical literature)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The surgeon performed a bisection of the tumor to remove it safely.",
+      "translation": "外科医生对肿瘤进行了二分手术，以安全移除它",
+      "source": "Medical journal (e.g., based on real-world applications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers use bisection techniques in computer algorithms for problem-solving.",
+      "translation": "工程师们在计算机算法中使用二分技术来解决问题",
+      "source": "Technology news (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "bi-",
+        "meaning": "two",
+        "language": "Latin"
+      },
+      {
+        "root": "sect",
+        "meaning": "to cut",
+        "language": "Latin (from secare)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'bisectio'，是 'bisectus' 的派生词，意为 '被切成两半'，源自 'bisecare'（切成两半）。该词通过法语传入英语，在17世纪发展为现代形式，最初用于几何学和数学领域，后来扩展到一般分割概念。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "bisect",
+      "section",
+      "bisector"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议通过视觉化将 'bi-' 联想为 'two' 的概念，并与 'section' 联系切割动作；使用间隔重复法（spaced repetition）来强化记忆；对于中文母语学习者，比较 'bisection' 与 '二分' 的相似性，以减少语义混淆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "division",
+        "similarity": "0.7",
+        "context": "适用于一般分割语境，如数学或物理领域"
+      },
+      {
+        "word": "halving",
+        "similarity": "0.8",
+        "context": "常用于等分或减少一半的非正式语境"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "union",
+        "context": "适用于合并或整合的语境，与分割相对"
+      },
+      {
+        "word": "combination",
+        "context": "在数学或科学中，表示将部分合成的语境"
+      }
+    ],
+    "hypernyms": [
+      "division"
+    ],
+    "hyponyms": [
+      "angle bisection",
+      "midpoint"
+    ],
+    "collocations": [
+      {
+        "pattern": "bisection of [object]",
+        "examples": [
+          "bisection of a line",
+          "bisection of an angle"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[method] bisection",
+        "examples": [
+          "numerical bisection"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中主要作为技术术语出现，尤其在科学和教育领域，象征精确性和分析思维，并无强烈的隐含语义；在跨文化语境中，与中文 '二分法' 类似，用于强调平衡或对称。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术性和教育语境",
+        "usage": "在美国英语中，常见于计算机科学和工程领域，例如算法描述"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美式类似，但可能更侧重于数学理论",
+        "usage": "在英国英语中，常用于学术出版物中"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期的科学革命相关，源自欧洲数学传统，如Euclid的作品；在现代，关联到工业革命和计算机科学的发展。",
+    "modernUsage": "在社交媒体和在线教育平台上流行，用于讨论算法或问题解决策略，例如在YouTube教程或Reddit讨论中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个苹果被一条直线切成两半的场景，'bi-' 代表两个部分，'section' 代表切割动作",
+      "keyElements": [
+        "苹果",
+        "直线",
+        "两半"
+      ],
+      "emotionalConnection": "联结到个人经验，如切水果时的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'bi' as 'bike' with two wheels, and 'section' as cutting it in half",
+        "explanation": "通过视觉联想加强词汇与日常物体的关联，提升认知保留"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /baɪˈsɛkʃən/ 听起来像 'buy a section'，想象购买并切割一个部分",
+        "explanation": "利用声音相似性创建记忆钩子，基于认知心理学中的双编码理论"
+      }
+    ],
+    "wordAssociations": [
+      "bisect",
+      "divide",
+      "half"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "bisections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The bisection of [noun]",
+        "description": "主语结构，用于描述分割动作",
+        "examples": [
+          "The bisection of the circle was precise."
+        ]
+      },
+      {
+        "pattern": "[Verb] using bisection",
+        "description": "动词短语结构，用于方法描述",
+        "examples": [
+          "We solved the equation using bisection."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'bisect' as a verb without context",
+        "correction": "Use 'bisection' as a noun for the act",
+        "explanation": "学习者常将名词误用为动词；建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect pronunciation as /bi-sek-tion/ without stress",
+        "correction": "Pronounce as /baɪˈsɛkʃən/ with stress on the second syllable",
+        "explanation": "中文母语者可能忽略音节重音；使用镜像练习改进"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus (medium frequency in academic texts)",
+    "domains": [
+      "science",
+      "mathematics",
+      "engineering"
+    ],
+    "tags": [
+      "technical",
+      "mathematical",
+      "division"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

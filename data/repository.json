@@ -1,0 +1,247 @@
+{
+  "word": "repository",
+  "phonetics": {
+    "british": "/rɪˈpɒzɪtɔːri/",
+    "american": "/rɪˈpɑːzətɔːri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place, room, or container where items are stored or deposited for safekeeping, preservation, or reference.",
+      "chineseTranslation": "仓库；贮藏室；知识库",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and technology, a central location for storing and managing data, code, or digital resources.",
+      "chineseTranslation": "存储库（如软件存储库）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "software repository",
+      "meaning": "软件存储库",
+      "example": "Developers often upload their code to a software repository for version control.",
+      "exampleTranslation": "开发人员经常将代码上传到软件存储库以进行版本控制。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "knowledge repository",
+      "meaning": "知识存储库",
+      "example": "The university library serves as a knowledge repository for students and researchers.",
+      "exampleTranslation": "大学图书馆作为知识存储库服务于学生和研究人员。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ancient repository in the museum holds artifacts from the Roman era.",
+      "translation": "博物馆中的古老仓库存放着罗马时代的文物。",
+      "source": "Historical literature (e.g., from museum descriptions in academic texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In modern computing, GitHub acts as a repository for collaborative software projects.",
+      "translation": "在现代计算中，GitHub 充当协作软件项目的存储库。",
+      "source": "Technology news (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She viewed her mind as a repository of forgotten stories from her childhood.",
+      "translation": "她将自己的大脑视为童年遗忘故事的存储库。",
+      "source": "Literary fiction (e.g., from novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "repositōrium",
+        "meaning": "A place of deposit or storage",
+        "language": "Latin"
+      },
+      {
+        "root": "reponere",
+        "meaning": "To put back or restore",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "从拉丁语 repositōrium 演变而来，该词源自 reponere（意为放回或恢复）。在中世纪英语中，通过古法语引入，最初用于指物理存储场所，如宗教文物存放处。到 15 世纪，扩展到抽象含义，如知识存储，并于 20 世纪在技术领域获得新义。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "deposit",
+      "repository",
+      "reposit"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "4",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，使用分块记忆法：将 'repository' 与视觉图像（如一个仓库）关联，以强化语义网络；对于中文母语学习者，比较 'repository' 和 '贮藏' 的相似性，以减少干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "archive",
+        "similarity": "0.8",
+        "context": "在存储历史记录或文件的语境中使用"
+      },
+      {
+        "word": "vault",
+        "similarity": "0.7",
+        "context": "强调安全存储的语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discard",
+        "context": "在丢弃或不保存物品的语境中"
+      },
+      {
+        "word": "dispersal",
+        "context": "在散布或分发的语境中"
+      }
+    ],
+    "hypernyms": [
+      "storage"
+    ],
+    "hyponyms": [
+      "data repository",
+      "gene bank"
+    ],
+    "collocations": [
+      {
+        "pattern": "adjective + repository",
+        "examples": [
+          "central repository",
+          "digital repository"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "repository + of + noun",
+        "examples": [
+          "repository of knowledge"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词象征知识积累和遗产保存，常与图书馆或博物馆关联，体现出对历史的尊重；在中文文化中，可与 '藏书阁' 或 '国宝库' 相对应，隐含文化传承的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More commonly used in formal or academic contexts, such as in British libraries.",
+        "usage": "在英国，偏向于正式语域，常用于历史和文化语境。"
+      },
+      {
+        "region": "United States",
+        "variation": "Frequently used in technological contexts, like software development on platforms such as GitHub.",
+        "usage": "在美国，特别是在科技领域，使用频率较高，并融入日常专业交流。"
+      }
+    ],
+    "historicalContext": "与中世纪欧洲的宗教和学术背景相关，如修道院的文物存储；在文学和社会中，代表文化保存，如莎士比亚时代的知识仓库。",
+    "modernUsage": "在数字时代，特别是在社交媒体和在线平台上，repository 常用于数据管理和共享，反映全球化的技术趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的仓库，里面堆满书籍、文物和数字设备。",
+      "keyElements": [
+        "仓库",
+        "书籍",
+        "数字设备"
+      ],
+      "emotionalConnection": "联结到个人收藏经历，如回忆自己的书架，以触发情感记忆并加强词汇保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'repository' 联想为 'repo'（像 repossess 的缩写），意味着 '拿回并存储' 的地方。",
+        "explanation": "通过声音和语义联想，利用认知科学中的双编码理论，将听觉和视觉元素结合，以提升记忆效率。"
+      },
+      {
+        "type": "缩略",
+        "content": "用 'R-E-P-O' 代表 'Rest Easy, Put Objects'，暗示安全存储。",
+        "explanation": "应用记忆宫殿技术，将缩略词与场景放置，帮助中文母语学习者克服拼写挑战。"
+      }
+    ],
+    "wordAssociations": [
+      "store",
+      "archive",
+      "vault",
+      "database"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "repositories",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "作为句子的主语或宾语使用，常与介词短语结合。",
+        "examples": [
+          "The repository contains valuable data."
+        ]
+      },
+      {
+        "pattern": "Prepositional phrase",
+        "description": "与 'of' 或 'for' 等介词搭配，表示内容或目的。",
+        "examples": [
+          "A repository of ideas."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'repertory' (e.g., using it to mean a theater collection)",
+        "correction": "Use 'repository' for storage and 'repertory' for a collection of works.",
+        "explanation": "两者发音相似，但 'repository' 专指存储，而 'repertory' 指戏剧或表演集，学习者需注意语境区分以避免混淆。"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Always use 'repositories' for plural.",
+        "explanation": "作为规则名词，简单添加 -s，但中文母语学习者可能遗漏尾音发音。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked approximately 5000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Science",
+      "Library Science",
+      "Business"
+    ],
+    "tags": [
+      "Storage",
+      "Collection",
+      "Data Management",
+      "Preservation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

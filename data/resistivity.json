@@ -1,0 +1,241 @@
+{
+  "word": "resistivity",
+  "phonetics": {
+    "british": "/ˌriːzɪsˈtɪvɪti/",
+    "american": "/ˌrɛzɪˈstɪvəti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A measure of the potential electric current in a material per unit of current density, indicating how strongly the material opposes the flow of electric current; often expressed in ohm-meters.",
+      "chineseTranslation": "电阻率",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electrical resistivity",
+      "meaning": "电学电阻率",
+      "example": "The electrical resistivity of copper is very low, making it an excellent conductor.",
+      "exampleTranslation": "铜的电学电阻率非常低，使其成为优秀的导体。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "thermal resistivity",
+      "meaning": "热电阻率",
+      "example": "Thermal resistivity is a key factor in designing insulation materials.",
+      "exampleTranslation": "热电阻率是设计绝缘材料的关键因素。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Scientists measure the resistivity of various metals to determine their suitability for electronic circuits.",
+      "translation": "科学家测量各种金属的电阻率，以确定它们在电子电路中的适用性。",
+      "source": "Scientific journal (e.g., from Physics Today)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday applications, the resistivity of a wire can affect the efficiency of household appliances.",
+      "translation": "在日常应用中，导线的电阻率会影响家用电器的效率。",
+      "source": "Educational text (e.g., from Khan Academy)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "Engineers must account for temperature changes, as resistivity in semiconductors increases with heat.",
+      "translation": "工程师必须考虑温度变化，因为半导体中的电阻率会随着热度而增加。",
+      "source": "Technical report (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "resist",
+        "meaning": "to withstand or oppose",
+        "language": "Latin (from 're-' meaning back + 'sistere' meaning to stand)"
+      },
+      {
+        "root": "-ivity",
+        "meaning": "state or quality of",
+        "language": "Latin/French (derived from '-itas' in Latin, indicating a noun suffix)"
+      }
+    ],
+    "historicalDevelopment": "The term evolved from the Latin 'resistere' (to resist) in the 19th century during the advancement of electromagnetism. It was formalized in English scientific literature to describe material properties in electricity, transitioning from general resistance concepts to a quantifiable measure as physics developed.",
+    "firstKnownUse": "1840s (first recorded in scientific contexts related to Ohm's law)",
+    "relatedWords": [
+      "resistance",
+      "conductivity",
+      "resistor"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将电阻率与视觉图像关联，如想象电流量通过材料时遇到的障碍，以强化空间记忆；",
+      "使用间隔重复法复习科学术语，避免混淆类似词汇；",
+      "通过实际实验（如使用 multimeter）建立感官联系，提升长期记忆保留"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "electrical resistance",
+        "similarity": "0.8",
+        "context": "在物理学和工程语境中讨论材料导电性时使用"
+      },
+      {
+        "word": "impedance",
+        "similarity": "0.6",
+        "context": "在交流电电路分析中作为相关概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conductivity",
+        "context": "表示材料促进电流流动的特性，与电阻率在科学实验中相对"
+      },
+      {
+        "word": "permeability",
+        "context": "在材料科学中讨论流体或热量传输时相对"
+      }
+    ],
+    "hypernyms": [
+      "property",
+      "material characteristic"
+    ],
+    "hyponyms": [
+      "thermal resistivity",
+      "acoustic resistivity"
+    ],
+    "collocations": [
+      {
+        "pattern": "high resistivity",
+        "examples": [
+          "Materials with high resistivity are ideal for insulators."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "measure resistivity",
+        "examples": [
+          "We need to measure resistivity in the lab."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征材料科学与创新的基石，隐含了对自然规律的掌控，如在工业革命后的西方文化中代表电气化进程",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于工程和技术语境中，强调实用应用",
+        "usage": "在美国英语中，常见于教育和工业标准，如NIST指南"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更侧重于理论基础，语调更正式",
+        "usage": "在英国英语中，常与历史科学文献（如牛顿传统）相关联"
+      }
+    ],
+    "historicalContext": "与19世纪的电磁学发展相关联，例如法拉第和欧姆的贡献，反映了工业革命时期欧洲科学文化的进步",
+    "modernUsage": "在当代社交媒体和在线教育中（如YouTube教程或Reddit讨论），用于普及科学知识，体现全球数字化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个河流中布满岩石的障碍物，代表电流试图通过材料时的阻力。",
+      "keyElements": [
+        "河流（电流）",
+        "岩石（阻力）",
+        "材料（导体或绝缘体）"
+      ],
+      "emotionalConnection": "联结个人使用电器时的挫败感，如灯泡不亮，触发情感记忆以加深理解"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Resistivity 听起来像 'resist activity'，意思是'抵抗活动'，联想到电流在材料中被'抵抗'。",
+        "explanation": "通过声音联觉和比喻，帮助初级学习者建立直观连接，减少抽象概念的认知负担"
+      },
+      {
+        "type": "缩略",
+        "content": "R for Resistivity, like R in Ohm's law (R = ρL/A)，直接与公式关联。",
+        "explanation": "利用结构化记忆技巧，结合数学背景增强逻辑记忆"
+      }
+    ],
+    "wordAssociations": [
+      "resist",
+      "electricity",
+      "density",
+      "material"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "resistivities",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [adjective] resistivity of [noun]",
+        "description": "用于描述材料的特性，常在科学句子中",
+        "examples": [
+          "The low resistivity of gold makes it valuable in electronics."
+        ]
+      },
+      {
+        "pattern": "[Subject] has a [adjective] resistivity",
+        "description": "强调属性的句子结构",
+        "examples": [
+          "Silicon has a moderate resistivity under normal conditions."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing resistivity with resistance",
+        "correction": "Use 'resistivity' for material property and 'resistance' for specific object measurement",
+        "explanation": "它们虽相关，但前者是固有属性，后者依赖于尺寸；常见于非母语学习者"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'resistivities' for multiple types",
+        "explanation": "作为可数名词，在科学上下文中需注意复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked medium in scientific corpora (e.g., COCA frequency: 0.02 per million words)",
+    "domains": [
+      "Science",
+      "Engineering",
+      "Physics",
+      "Technology"
+    ],
+    "tags": [
+      "Physics",
+      "Electricity",
+      "Material Science",
+      "Measurement"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "Merriam-Webster",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

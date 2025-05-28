@@ -1,0 +1,272 @@
+{
+  "word": "string",
+  "phonetics": {
+    "british": "/strɪŋ/",
+    "american": "/strɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A thin piece of cord, rope, or wire used for tying, suspending, or connecting things.",
+      "chineseTranslation": "细绳、线或金属丝，用于捆绑、悬挂或连接物品",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sequence of characters, words, or other data treated as a single unit in computing.",
+      "chineseTranslation": "在计算机中，一系列字符、单词或其他数据被视为一个单元",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To fit or provide with strings, or to tie something with string.",
+      "chineseTranslation": "用线或绳子固定或提供线绳，或用线绑缚某物",
+      "level": "basic",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To thread or arrange in a line or series.",
+      "chineseTranslation": "将物体串联或排列成线或系列",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "string of pearls",
+      "meaning": "一串珍珠",
+      "example": "She wore a beautiful string of pearls around her neck.",
+      "exampleTranslation": "她脖子上戴着一串美丽的珍珠。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pull strings",
+      "meaning": "暗中施加影响或利用关系",
+      "example": "He managed to get the job by pulling strings with his uncle.",
+      "exampleTranslation": "他通过他叔叔的关系才得到这份工作。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "string along",
+      "meaning": "欺骗或拖延某人",
+      "example": "Don't string me along; tell me the truth.",
+      "exampleTranslation": "不要骗我；告诉我真相。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to buy a new string for my guitar.",
+      "translation": "我需要为我的吉他买一根新弦。",
+      "source": "Everyday conversation",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "In programming, a string is a data type used to represent text.",
+      "translation": "在编程中，字符串是一种用于表示文本的数据类型。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She decided to string the lights across the garden for the party.",
+      "translation": "她决定把灯串在花园里用于派对。",
+      "source": "Literature (e.g., modern fiction)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The detective followed the string of clues to solve the mystery.",
+      "translation": "侦探追踪线索串来解决谜案。",
+      "source": "News article (e.g., from BNC)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "streng",
+        "meaning": "A cord or rope",
+        "language": "Old English"
+      },
+      {
+        "root": "strangiz",
+        "meaning": "Tight or strong",
+        "language": "Proto-Germanic"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'streng'，意为绳索或线条，源自原始日耳曼语 'strangiz'，最初指紧绷或强壮的东西。随着时间演变，在中古英语中扩展到包括抽象序列，如计算机字符串。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "strength",
+      "strangle",
+      "stringent"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉图像结合，例如想象一根实际的绳子来记忆名词含义；对于技术语境，使用重复曝光法以强化记忆路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "cord",
+        "similarity": "0.8",
+        "context": "在日常物品语境中，用于描述细绳"
+      },
+      {
+        "word": "sequence",
+        "similarity": "0.7",
+        "context": "在计算机或数学语境中，用于描述一系列元素"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "break",
+        "context": "在物理语境中，表示切断或破坏字符串"
+      },
+      {
+        "word": "disconnect",
+        "context": "在数字语境中，表示分离序列"
+      }
+    ],
+    "hypernyms": [
+      "object",
+      "data type"
+    ],
+    "hyponyms": [
+      "bowstring",
+      "guitar string"
+    ],
+    "collocations": [
+      {
+        "pattern": "string + noun (e.g., string of events)",
+        "examples": [
+          "a string of failures"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + string (e.g., pull strings)",
+        "examples": [
+          "to string beads"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常象征连接或序列，例如在音乐中代表吉他弦，在文学中代表线索链，隐含持续性和联系的隐喻。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如编程",
+        "usage": "在美国英语中，'string' 在科技领域频率较高，体现了数字时代的影响"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重传统含义，如绳索",
+        "usage": "在英国英语中，常用于日常和历史语境，关联如航海或手工文化"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机革命相关，在维多利亚时代文学中常出现作为隐喻；在现代，关联社交媒体上的信息串。",
+    "modernUsage": "在社交媒体和数字平台上，'string' 常指文本数据，反映了全球数字化的趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一根长长的绳子连接各种物体，如珠子或灯泡，代表序列或连接。",
+      "keyElements": [
+        "绳子",
+        "序列",
+        "连接"
+      ],
+      "emotionalConnection": "联结到个人经验，如儿时玩耍绳子，触发积极回忆以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "String 像 'string of lights'，想象圣诞灯串",
+        "explanation": "通过视觉联想强化词汇与实际场景的关联，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "String 听起来像 'sting'，想象绳子像蜜蜂刺一样紧绷",
+        "explanation": "利用声音相似性创建情感触发，改善长期记忆保留"
+      }
+    ],
+    "wordAssociations": [
+      "rope",
+      "sequence",
+      "code"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "strings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "stringing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词，用于描述物体或序列",
+        "examples": [
+          "The string broke."
+        ]
+      },
+      {
+        "pattern": "Verb + object",
+        "description": "作为动词，用于动作描述",
+        "examples": [
+          "He strings the beads carefully."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'strong'",
+        "correction": "Use 'string' for cord or sequence",
+        "explanation": "由于发音相似，学习者可能混淆；需注意语境区分"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add 's' for plural",
+        "explanation": "在英语中，常规名词加 's' 变复数，避免遗漏"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Daily life",
+      "Music"
+    ],
+    "tags": [
+      "Computing",
+      "Physical objects",
+      "Abstract sequences"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "word": "input",
+  "phonetics": {
+    "british": "/ˈɪn.pʊt/",
+    "american": "/ˈɪn.pʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Data or information that is entered into a computer, system, or process for processing.",
+      "chineseTranslation": "输入",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To enter data or information into a computer, device, or system.",
+      "chineseTranslation": "输入",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "user input",
+      "meaning": "用户输入",
+      "example": "The application responds to user input in real-time.",
+      "exampleTranslation": "应用程序实时响应用户输入。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "input device",
+      "meaning": "输入设备",
+      "example": "A keyboard is a common input device for computers.",
+      "exampleTranslation": "键盘是计算机常见的输入设备。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The system requires user input to process the query.",
+      "translation": "系统需要用户输入来处理查询。",
+      "source": "Technical documentation",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "She input the data into the spreadsheet before the meeting.",
+      "translation": "她在会议前将数据输入到电子表格中。",
+      "source": "Business communication",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In programming, input validation is essential to prevent errors.",
+      "translation": "在编程中，输入验证是防止错误的关键。",
+      "source": "Educational text",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "in-",
+        "meaning": "In, into, or towards",
+        "language": "Latin"
+      },
+      {
+        "root": "put",
+        "meaning": "To place or position",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自中古英语，将 'in-'（表示进入）与 'put'（表示放置）结合，形成表示将事物置入的含义；17 世纪开始在机械和科学语境中使用，19 世纪扩展到计算机领域。",
+    "firstKnownUse": "circa 1790",
+    "relatedWords": [
+      "output",
+      "throughput",
+      "input-output"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": 3,
+    "spellingDifficulty": 2,
+    "meaningComplexity": 4,
+    "usageComplexity": 5,
+    "learningTips": [
+      "结合认知科学，使用视觉联想将 'input' 与 '放入计算机' 的图像关联，以增强记忆；通过重复练习输入任务，强化神经路径。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "entry",
+        "similarity": 0.7,
+        "context": "在数据处理或表单填写语境中"
+      },
+      {
+        "word": "feed",
+        "similarity": 0.6,
+        "context": "在系统或流程的输入语境中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "output",
+        "context": "在数据处理语境中，表示结果或输出"
+      }
+    ],
+    "hypernyms": [
+      "data",
+      "information"
+    ],
+    "hyponyms": [
+      "keyboard input",
+      "voice input"
+    ],
+    "collocations": [
+      {
+        "pattern": "verb + input",
+        "examples": [
+          "enter input",
+          "provide input"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "input + noun",
+        "examples": [
+          "input data",
+          "input signal"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征信息流动和互动，常隐含数字时代依赖性的含义。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于技术俚语",
+        "usage": "在美国英语中，常在日常科技讨论和商业语境中使用，例如软件开发"
+      },
+      {
+        "region": "英国",
+        "variation": "表达更正式",
+        "usage": "在英国英语中，可能强调在教育或工程领域的精确性"
+      }
+    ],
+    "historicalContext": "与工业革命和计算机革命相关，最初在19世纪的机械工程中出现，后来在20世纪的数字文化中普及。",
+    "modernUsage": "在社交媒体和在线平台中广泛使用，反映了全球数字化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象将数据像钥匙一样插入锁孔中，代表 'input' 的进入过程。",
+      "keyElements": [
+        "钥匙",
+        "锁孔",
+        "数据流"
+      ],
+      "emotionalConnection": "联结到个人上网体验的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Input 像 'in + put'，放入东西。",
+        "explanation": "通过词根分解和视觉联想，帮助记忆词汇结构"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˈɪn.pʊt/ 听起来像 'in-put'，联想到放入盒子。",
+        "explanation": "利用声音与动作的关联，基于认知科学的多感官学习"
+      }
+    ],
+    "wordAssociations": [
+      "data",
+      "enter",
+      "information",
+      "computer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "inputs",
+      "pastTense": "inputted or input",
+      "pastParticiple": "inputted or input",
+      "presentParticiple": "inputting",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "We input the data daily."
+        ]
+      },
+      {
+        "pattern": "Noun phrase",
+        "description": "作为名词的短语结构，用于描述信息来源",
+        "examples": [
+          "The input from users is valuable."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'input' with 'output' in sentences",
+        "correction": "Use 'input' for entering data and 'output' for results",
+        "explanation": "学习者可能混淆相似词汇，导致语义错误"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use 'inputted' or 'input' as past tense",
+        "explanation": "英语动词不规则形式常引起困惑，特别是对于中间水平学习者"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 in COCA corpus)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Business",
+      "Education"
+    ],
+    "tags": [
+      "computing",
+      "data processing",
+      "information technology"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED",
+      "Merriam-Webster",
+      "COCA",
+      "BNC"
+    ]
+  }
+}

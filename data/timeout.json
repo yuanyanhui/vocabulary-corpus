@@ -1,0 +1,259 @@
+{
+  "word": "timeout",
+  "phonetics": {
+    "british": "/ˈtaɪmaʊt/",
+    "american": "/ˈtaɪmaʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A brief period of time during which an activity is stopped, often in sports, computing, or daily life, to allow for rest or recovery.",
+      "chineseTranslation": "暂停；休息时间",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To call for or take a temporary break in an activity, such as in a game or a process.",
+      "chineseTranslation": "要求暂停；使暂停",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun (in computing)",
+      "definition": "A period of time after which a process or operation is automatically terminated if it does not complete, often used in programming and networking.",
+      "chineseTranslation": "超时（在计算机上下文中）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "call a timeout",
+      "meaning": "要求暂停比赛或活动",
+      "example": "The coach decided to call a timeout to strategize with the team.",
+      "exampleTranslation": "教练决定要求暂停来与球队制定策略。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "time out period",
+      "meaning": "指定的暂停或超时期限",
+      "example": "The software has a built-in time out period to prevent crashes.",
+      "exampleTranslation": "该软件内置了超时期限以防止崩溃。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "take a timeout",
+      "meaning": "主动休息或暂停",
+      "example": "Parents sometimes need to take a timeout to manage their stress.",
+      "exampleTranslation": "父母有时需要暂停来管理他们的压力。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In basketball, a timeout can change the momentum of the game.",
+      "translation": "在篮球比赛中，暂停可以改变比赛的势头。",
+      "source": "Sports commentary (e.g., NBA broadcasts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The server experienced a timeout error due to network issues.",
+      "translation": "服务器由于网络问题而出现超时错误。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She called a timeout in the meeting to address the confusion.",
+      "translation": "她在会议中要求暂停来解决混淆。",
+      "source": "Business communication (e.g., from BNC corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "time",
+        "meaning": "A measure of duration",
+        "language": "Old English (from Proto-Germanic)"
+      },
+      {
+        "root": "out",
+        "meaning": "Away from or beyond",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "词源可追溯到19世纪的体育语境中，源自'time'（时间）和'out'（结束）的组合，最初用于棒球等运动表示暂停。20世纪扩展到计算领域，指操作超时。随着现代生活节奏加快，该词演变为更广泛的休息或中断概念。",
+    "firstKnownUse": "Circa 1867 (in sports, as per OED records)",
+    "relatedWords": [
+      "timekeeper",
+      "outage",
+      "intermission"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "通过认知科学，利用分块学习法（chunking）将'timeout'与个人经历关联，例如回想体育比赛中的暂停，以增强记忆；结合重复暴露（spaced repetition）在不同语境中练习，以降低语义复杂度。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "break",
+        "similarity": "0.8",
+        "context": "适用于非正式语境，如日常休息"
+      },
+      {
+        "word": "pause",
+        "similarity": "0.9",
+        "context": "适用于技术或正式语境，如视频播放"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuation",
+        "context": "适用于强调持续进行的活动"
+      },
+      {
+        "word": "proceed",
+        "context": "适用于无需中断的场景"
+      }
+    ],
+    "hypernyms": [
+      "interruption",
+      "suspension"
+    ],
+    "hyponyms": [
+      "game timeout",
+      "session timeout"
+    ],
+    "collocations": [
+      {
+        "pattern": "call + timeout",
+        "examples": [
+          "call a timeout in the game"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "timeout + error",
+        "examples": [
+          "network timeout error"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在美国文化中常与体育赛事（如NFL或NBA）相关联，象征战略调整和休息；在英国文化中，更侧重于正式语境如戏剧表演的间歇；跨文化中，它反映了现代社会对工作生活平衡的追求。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用在体育和商业语境",
+        "usage": "在日常对话中频繁出现，例如会议暂停"
+      },
+      {
+        "region": "英国",
+        "variation": "可能更偏向于'interval'在某些语境",
+        "usage": "在正式场合使用，以强调短暂中断"
+      }
+    ],
+    "historicalContext": "起源于19世纪美国的体育文化，扩展到20世纪的计算领域，与工业革命和数字化浪潮相关；文学中，如在Ernest Hemingway的作品中，隐喻人生中的暂停。",
+    "modernUsage": "在社交媒体和在线平台上流行，用于表示心理健康休息，例如#MentalHealthTimeout"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个时钟（time）从游戏场外（out）走出来，代表暂停的场景。",
+      "keyElements": [
+        "时钟形象",
+        "暂停按钮",
+        "休息区域"
+      ],
+      "emotionalConnection": "联结到个人疲劳时刻，如工作后休息，触发放松情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Time out like a clock timing out of the game.",
+        "explanation": "通过视觉联想将词与图像连接，提升认知保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "T-O: Time Out – 暂停时间。",
+        "explanation": "使用首字母缩写结合解释，帮助中级学习者快速回忆"
+      }
+    ],
+    "wordAssociations": [
+      "pause",
+      "break",
+      "rest"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "timeouts",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Subject] + calls + a + timeout",
+        "description": "典型用于动作描述的句法结构",
+        "examples": [
+          "The team calls a timeout."
+        ]
+      },
+      {
+        "pattern": "Verb usage: [Subject] + timeouts + [object]",
+        "description": "表示主动暂停的结构",
+        "examples": [
+          "She timeouts the session."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'time out' as two words incorrectly",
+        "correction": "Use as one word 'timeout' in most contexts",
+        "explanation": "在现代英语中，通常写作一个词，以避免混淆"
+      },
+      {
+        "mistake": "Confusing with 'time-out' in child discipline",
+        "correction": "Distinguish based on context",
+        "explanation": "在儿童教育中可能写作连字符，但标准英语中为单字"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 5000 words in COCA corpus for sports domain)",
+    "domains": [
+      "sports",
+      "technology",
+      "business",
+      "daily life"
+    ],
+    "tags": [
+      "time management",
+      "interruption",
+      "computing terms"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

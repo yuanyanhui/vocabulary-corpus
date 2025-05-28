@@ -1,0 +1,249 @@
+{
+  "word": "preload",
+  "phonetics": {
+    "british": "/priːˈləʊd/",
+    "american": "/priːˈloʊd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to load (data, software, or resources) in advance of when they are needed, often to improve speed or efficiency",
+      "chineseTranslation": "预加载",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the process or action of loading something in advance, especially in computing or engineering contexts",
+      "chineseTranslation": "预加载过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "preload data",
+      "meaning": "预加载数据",
+      "example": "The application will preload data to ensure seamless user experience.",
+      "exampleTranslation": "应用程序将预加载数据以确保无缝的用户体验。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "preload images",
+      "meaning": "预加载图像",
+      "example": "Web developers often preload images to reduce page loading times.",
+      "exampleTranslation": "网页开发人员经常预加载图像以减少页面加载时间。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "preload content",
+      "meaning": "预加载内容",
+      "example": "Smartphones preload content based on user behavior patterns.",
+      "exampleTranslation": "智能手机根据用户行为模式预加载内容。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In modern web design, developers preload assets like images and scripts to enhance performance.",
+      "translation": "在现代网页设计中，开发人员预加载资产如图像和脚本以提升性能。",
+      "source": "Technical article (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Video games often preload levels to minimize waiting times for players.",
+      "translation": "视频游戏通常预加载关卡以最小化玩家的等待时间。",
+      "source": "Gaming literature (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Engineers decided to preload the software modules during the initial setup phase.",
+      "translation": "工程师决定在初始设置阶段预加载软件模块。",
+      "source": "Engineering report",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "pre-",
+        "meaning": "before or in advance",
+        "language": "Latin"
+      },
+      {
+        "root": "load",
+        "meaning": "to place a burden or charge upon",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语前缀 'pre-'（意为 'before'）与古英语 'load'（意为 '负载'）的结合，早于20世纪中叶在计算和工程领域演变为现代意义，最初用于机械工程的预应力概念，后来扩展到数字技术中以表示提前加载资源。",
+    "firstKnownUse": "1960s",
+    "relatedWords": [
+      "load",
+      "preloadable",
+      "prefetch"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与视觉化技术场景关联，如想象预加载过程为 '提前准备行李'，利用空间记忆技巧；通过重复暴露于真实语境中强化神经路径，以促进长期记忆保留。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "prefetch",
+        "similarity": "0.8",
+        "context": "在数据处理和计算语境中，例如缓存机制"
+      },
+      {
+        "word": "pre-buffer",
+        "similarity": "0.7",
+        "context": "在媒体播放或流媒体语境中，用于流畅传输"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unload",
+        "context": "在移除或释放资源语境中，例如结束加载过程"
+      },
+      {
+        "word": "delay",
+        "context": "在推迟加载或处理语境中，表示相反的效率问题"
+      }
+    ],
+    "hypernyms": [
+      "load"
+    ],
+    "hyponyms": [],
+    "collocations": [
+      {
+        "pattern": "preload + noun (e.g., data, images)",
+        "examples": [
+          "preload data",
+          "preload images"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "to preload + object",
+        "examples": [
+          "to preload the application"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在数字文化中象征效率和优化，体现现代科技社会的快节奏需求，常隐含语义为资源管理的智慧，在跨文化语境中（如中美科技交流）代表创新。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于科技和软件开发领域",
+        "usage": "在硅谷文化中，强调预加载以提升用户体验，如在App设计中"
+      },
+      {
+        "region": "英国",
+        "variation": "偶尔用于工程语境",
+        "usage": "在正式技术文档中，可能更侧重机械预应力含义"
+      }
+    ],
+    "historicalContext": "与20世纪计算机革命相关，起源于工业革命后的机械优化概念，并在文学如科幻小说中象征未来主义，例如Isaac Asimov的作品中隐喻提前准备。",
+    "modernUsage": "在社交媒体和移动应用中流行，如TikTok或Netflix的预加载功能，反映当代数字生活中的即时性需求。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个行李箱在旅行前提前装满必需品的情景",
+      "keyElements": [
+        "行李箱",
+        "必需品",
+        "提前准备"
+      ],
+      "emotionalConnection": "联结个人旅行经历的兴奋感，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Preload 像 pre-cook 食物一样，提前准备以节省时间。",
+        "explanation": "通过类比日常生活烹饪过程，帮助建立语义网络，促进认知编码。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Preload 的 'pre' 听起来像 'prepare'，联想到提前行动。",
+        "explanation": "利用音似联想强化听觉记忆路径，基于认知语言学的声音符号理论。"
+      }
+    ],
+    "wordAssociations": [
+      "load",
+      "prepare",
+      "advance",
+      "buffer"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "preloaded",
+      "pastParticiple": "preloaded",
+      "presentParticiple": "preloading",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "The system preloads the files."
+        ]
+      },
+      {
+        "pattern": "Verb + in advance",
+        "description": "动词 + 介词短语结构，表示时间顺序",
+        "examples": [
+          "They preload content in advance."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'preload' with 'load'",
+        "correction": "Use 'preload' only for advance loading",
+        "explanation": "Learners often overlook the temporal aspect; 'load' is general, while 'preload' specifies preemptive action."
+      },
+      {
+        "mistake": "Incorrect tense usage",
+        "correction": "Ensure proper past tense as 'preloaded'",
+        "explanation": "Intermediate learners may forget to adjust for time, affecting sentence accuracy in technical writing."
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (e.g., ranked in top 10,000 in COCA corpus for technical domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Engineering"
+    ],
+    "tags": [
+      "tech",
+      "efficiency",
+      "digital",
+      "optimization"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

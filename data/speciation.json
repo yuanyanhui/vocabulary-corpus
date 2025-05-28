@@ -1,0 +1,254 @@
+{
+  "word": "speciation",
+  "phonetics": {
+    "british": "/ˌspiːʃiˈeɪʃən/",
+    "american": "/ˌspiːʃiˈeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The evolutionary process by which populations evolve to become distinct species, often due to geographical, genetic, or environmental factors.",
+      "chineseTranslation": "物种形成",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, the formation of new and distinct species in the course of evolution.",
+      "chineseTranslation": "物种分化",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "academic"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "allopatric speciation",
+      "meaning": "地理隔离下的物种形成",
+      "example": "Allopatric speciation occurs when populations are separated by physical barriers like mountains or rivers.",
+      "exampleTranslation": "地理隔离物种形成发生在种群被山脉或河流等物理屏障分离时。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "sympatric speciation",
+      "meaning": "同域物种形成",
+      "example": "Sympatric speciation can happen in the same geographic area due to polyploidy in plants.",
+      "exampleTranslation": "同域物种形成可以在同一地理区域内由于植物的多倍体发生。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "adaptive speciation",
+      "meaning": "适应性物种形成",
+      "example": "Adaptive speciation is driven by natural selection in changing environments.",
+      "exampleTranslation": "适应性物种形成是由自然选择在变化环境中驱动的。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The process of speciation in Darwin's finches on the Galápagos Islands is a classic example of evolution in action.",
+      "translation": "达尔文雀在加拉帕戈斯群岛上的物种形成过程是进化作用的经典例子。",
+      "source": "Scientific literature, such as works by Charles Darwin",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Human activities, like habitat destruction, can accelerate speciation by isolating populations.",
+      "translation": "人类活动，如栖息地破坏，可以通过隔离种群来加速物种形成。",
+      "source": "Environmental science reports, e.g., from IPCC",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Speciation events in the fossil record provide evidence for the diversity of life over millions of years.",
+      "translation": "化石记录中的物种形成事件提供了生命多样性数百万年来演变的证据。",
+      "source": "Paleontology texts, e.g., from academic journals",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "species",
+        "meaning": "kind or type",
+        "language": "Latin"
+      },
+      {
+        "root": "-ation",
+        "meaning": "process or state of",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "The term derives from the Latin 'species' meaning 'kind' or 'appearance' (from 'specere', to look), combined with the suffix '-ation' indicating a process. It evolved in the 19th century with the rise of evolutionary biology, particularly through Charles Darwin's work in 'On the Origin of Species' (1859), where it described the mechanism of species divergence.",
+    "firstKnownUse": "1859",
+    "relatedWords": [
+      "species",
+      "speciate",
+      "specification"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "8",
+    "usageComplexity": "7",
+    "learningTips": [
+      "使用认知科学中的双编码理论，将词汇与视觉图像（如进化树图）结合，以增强记忆；",
+      "通过间隔重复系统复习该词在生物学语境中的应用，以利用遗忘曲线优化长期保留；",
+      "将学习与个人兴趣关联，例如联想达尔文的历史故事，以创建情感锚点促进记忆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "species formation",
+        "similarity": "0.9",
+        "context": "在进化生物学中用于描述新物种的产生过程"
+      },
+      {
+        "word": "divergence",
+        "similarity": "0.7",
+        "context": "在更广泛的科学语境中表示种群分离"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extinction",
+        "context": "与物种消失相对，在环境保护语境中"
+      },
+      {
+        "word": "stasis",
+        "context": "表示进化停滞，在生物学讨论中"
+      }
+    ],
+    "hypernyms": [
+      "evolution"
+    ],
+    "hyponyms": [
+      "allopatric speciation",
+      "sympatric speciation"
+    ],
+    "collocations": [
+      {
+        "pattern": "speciation through [mechanism]",
+        "examples": [
+          "speciation through isolation",
+          "speciation through mutation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] speciation",
+        "examples": [
+          "rapid speciation",
+          "gradual speciation"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词象征着进化论的核心概念，在西方文化中与查尔斯·达尔文和科学理性主义相关，常隐含物种多样性和人类对自然的影响；在中国文化中，它可能与现代生物学教育和环境保护运动相关联。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于教育和政策语境中",
+        "usage": "在美国，speciation 经常出现在高中生物课程和环境保护辩论中"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "强调历史科学语境",
+        "usage": "在英国，speciation 与达尔文遗产相关，常在博物馆展览或学术讨论中使用"
+      }
+    ],
+    "historicalContext": "该词与19世纪的进化论革命相关联，特别是达尔文的理论，在文学和社会中代表了从宗教到科学的世界观转变。",
+    "modernUsage": "在社交媒体和在线教育平台上，speciation 用于讨论气候变化和生物多样性，如TikTok上的科普视频或Twitter上的科学辩论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个岛屿，各种鸟类从一个祖先种群分化成不同物种，每个物种适应不同的环境。",
+      "keyElements": [
+        "岛屿",
+        "鸟类",
+        "进化树"
+      ],
+      "emotionalConnection": "联结到个人对自然探索的兴趣，或观看纪录片的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'speciation' as 'species vacation' where species take a 'separate' journey.",
+        "explanation": "通过声音联想将 'speciation' 与 'separate' 连接，创建有趣的心理图像以便记忆"
+      },
+      {
+        "type": "缩略",
+        "content": "S-P-E-C-I-A-T-I-O-N: Species Progressing into Evolutionary Changes In All Types In Our Nature",
+        "explanation": "使用首字母缩略法结合故事元素，基于认知的叙事记忆技巧"
+      }
+    ],
+    "wordAssociations": [
+      "evolution",
+      "adaptation",
+      "diversity"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "speciations",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [process] of speciation",
+        "description": "用作名词短语，描述过程",
+        "examples": [
+          "The process of speciation is essential for biodiversity."
+        ]
+      },
+      {
+        "pattern": "Speciation occurs when...",
+        "description": "用在句子主语中，表示发生条件",
+        "examples": [
+          "Speciation occurs when populations are isolated."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing speciation with species",
+        "correction": "Use speciation for the process and species for the result",
+        "explanation": "Speciation 是过程，而 species 是结果；这常见于初学者的语义混淆"
+      },
+      {
+        "mistake": "Using as a verb",
+        "correction": "It is a noun; use 'speciate' if needed",
+        "explanation": "Speciation 不是动词形式，避免在句子中误用为动作"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 20,000 in COCA corpus",
+    "domains": [
+      "science",
+      "biology",
+      "education",
+      "environment"
+    ],
+    "tags": [
+      "evolution",
+      "biology",
+      "natural science"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

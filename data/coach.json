@@ -1,0 +1,275 @@
+{
+  "word": "coach",
+  "phonetics": {
+    "british": "/kəʊtʃ/",
+    "american": "/koʊtʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who trains and teaches sports teams or individual athletes, providing guidance and strategy.",
+      "chineseTranslation": "教练",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large, closed carriage with four wheels, pulled by horses, used for transporting passengers.",
+      "chineseTranslation": "马车",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To train or instruct someone in a sport, skill, or activity, often involving motivation and technique improvement.",
+      "chineseTranslation": "指导；训练",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A professional who provides guidance in personal development, such as a life coach.",
+      "chineseTranslation": "指导顾问（如人生教练）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "informal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "life coach",
+      "meaning": "提供人生指导和个人发展建议的专业人士",
+      "example": "She hired a life coach to help her set career goals.",
+      "exampleTranslation": "她聘请了一位人生教练来帮助她设定职业目标。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "head coach",
+      "meaning": "体育团队的主要负责人，负责整体训练和策略",
+      "example": "The head coach led the team to victory in the championship.",
+      "exampleTranslation": "主教练带领团队赢得了冠军。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "coach class",
+      "meaning": "经济舱或普通舱位，通常指飞机或火车的标准座位",
+      "example": "We booked coach class tickets for the flight to save money.",
+      "exampleTranslation": "我们预订了经济舱机票来节省开支。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The basketball coach emphasized teamwork during practice.",
+      "translation": "篮球教练在训练中强调团队合作。",
+      "source": "Sports commentary (e.g., from ESPN corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the 19th century, a coach was the primary mode of long-distance travel.",
+      "translation": "在19世纪，马车是长途旅行的主要方式。",
+      "source": "Historical literature (e.g., from British National Corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "She decided to coach her younger sister in math to improve her grades.",
+      "translation": "她决定指导妹妹学习数学以提高成绩。",
+      "source": "Modern educational contexts (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "As a life coach, he helps clients overcome personal obstacles.",
+      "translation": "作为人生教练，他帮助客户克服个人障碍。",
+      "source": "Self-help books (e.g., from contemporary media)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle French (from Hungarian)",
+    "rootWords": [
+      {
+        "root": "kocsi",
+        "meaning": "A type of carriage",
+        "language": "Hungarian"
+      },
+      {
+        "root": "coache",
+        "meaning": "Carriage or vehicle",
+        "language": "Middle French"
+      }
+    ],
+    "historicalDevelopment": "源自匈牙利村庄Kocs的马车设计，16世纪传入英语，先指代交通工具，后来扩展到指导者角色，可能受启蒙运动和体育现代化的影响，从单纯的交通含义演变为指导和训练的比喻。",
+    "firstKnownUse": "约1550年",
+    "relatedWords": [
+      "couch (同源，但指沙发，受法语影响)",
+      "carriage (相关交通词汇)"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "3",
+    "spellingDifficulty": "2",
+    "meaningComplexity": "5",
+    "usageComplexity": "4",
+    "learningTips": [
+      "结合认知科学，建议使用重复暴露法，如在日常对话中练习'coach'的多重含义，以强化语境记忆；利用双编码理论，将词汇与视觉图像（如体育场景）配对，以提升长期保留；针对中文母语学习者，强调形近词区分，如'coach'与'couch'的发音差异，避免干扰。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mentor",
+        "similarity": "0.8",
+        "context": "在指导和教育语境中适用，例如职业发展领域"
+      },
+      {
+        "word": "trainer",
+        "similarity": "0.7",
+        "context": "主要在体育或技能训练语境中适用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "player",
+        "context": "在体育语境中，指非指导角色，如参与者而非领导者"
+      },
+      {
+        "word": "student",
+        "context": "在教育语境中，指被指导者而非指导者"
+      }
+    ],
+    "hypernyms": [
+      "instructor",
+      "guide"
+    ],
+    "hyponyms": [
+      "football coach",
+      "tennis coach"
+    ],
+    "collocations": [
+      {
+        "pattern": "coach + noun (e.g., coach team)",
+        "examples": [
+          "coach a team",
+          "hire a coach"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + coach (e.g., to coach someone)",
+        "examples": [
+          "train to coach",
+          "decide to coach"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'coach'象征领导力和指导，尤其在体育文化中代表团队精神和成就，如美国橄榄球文化中教练是英雄人物；在商业文化中，体现个人成长和自我提升。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于历史语境，如马车",
+        "usage": "在英国英语中，'coach'可能带有传统贵族元素，在现代则用于体育"
+      },
+      {
+        "region": "美国",
+        "variation": "更侧重体育和商业指导",
+        "usage": "在美国英语中，'coach'常与激励和绩效相关，如企业培训"
+      }
+    ],
+    "historicalContext": "与工业革命和交通发展相关，扩展到教育和社会改革，如19世纪英国的学校系统引入教练概念；文学作品如狄更斯的《荒凉山庄》提及马车，反映社会变迁。",
+    "modernUsage": "在社交媒体和在线平台上流行，如TikTok上的生活教练视频，体现数字化个人发展趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个体育场，教练手持哨子指导球员，背景是马车行驶在历史街道。",
+      "keyElements": [
+        "哨子",
+        "球员",
+        "马车"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆童年体育活动或旅行，触发积极情绪以加强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将'coach'联想为'code + each'，表示指导每个人（code for each），帮助记住其指导含义。",
+        "explanation": "通过视觉和语义联想，基于认知科学的空间记忆原理，提升词汇关联"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音/kəʊtʃ/听起来像'coat'的外套，想象教练穿着外套指挥，创建感官连接。",
+        "explanation": "利用多模态记忆，结合听觉和视觉以避免混淆"
+      }
+    ],
+    "wordAssociations": [
+      "mentor",
+      "guide",
+      "train"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "coaches",
+      "pastTense": "coached",
+      "pastParticiple": "coached",
+      "presentParticiple": "coaching",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., He coaches the team)",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "She coaches athletes every day."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., the head coach)",
+        "description": "名词短语结构，用于角色描述",
+        "examples": [
+          "The life coach provided valuable advice."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'coach' as an adjective incorrectly",
+        "correction": "Use as a noun or verb appropriately",
+        "explanation": "中文母语学习者可能误将'coach'用作形容词；正确时需注意词性"
+      },
+      {
+        "mistake": "Confusing with 'couch'",
+        "correction": "Distinguish spelling and meaning",
+        "explanation": "基于相似发音，建议通过语境练习避免"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "sports",
+      "education",
+      "business",
+      "transportation"
+    ],
+    "tags": [
+      "guidance",
+      "training",
+      "vehicle",
+      "professional"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

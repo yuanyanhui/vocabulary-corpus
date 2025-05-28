@@ -1,0 +1,280 @@
+{
+  "word": "commit",
+  "phonetics": {
+    "british": "/kəˈmɪt/",
+    "american": "/kəˈmɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To carry out or perpetrate (an action, especially a crime or wrongdoing)",
+      "chineseTranslation": "犯下或实施（尤指犯罪或错误行为）",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To pledge or bind oneself to a certain course of action or belief",
+      "chineseTranslation": "承诺或绑定自己于某个行动或信念",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to save changes to a file or database permanently",
+      "chineseTranslation": "在计算机中，永久保存文件或数据库的更改",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of committing, such as a commitment in sports or a legal order",
+      "chineseTranslation": "承诺行为，例如在体育中的投入或法律中的命令",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commit to",
+      "meaning": "承诺或致力于",
+      "example": "She decided to commit to the project fully.",
+      "exampleTranslation": "她决定全力投入这个项目。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "commit a crime",
+      "meaning": "犯下犯罪",
+      "example": "The suspect was accused of committing a crime last night.",
+      "exampleTranslation": "嫌疑人被指控昨晚犯下犯罪。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "commit to memory",
+      "meaning": "记住或背诵",
+      "example": "Students often commit poems to memory for recitation.",
+      "exampleTranslation": "学生们经常将诗歌背诵下来。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company decided to commit resources to the new initiative.",
+      "translation": "公司决定将资源投入到新计划中。",
+      "source": "Business news article",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "He was arrested for committing fraud.",
+      "translation": "他因犯下欺诈罪而被捕。",
+      "source": "Legal document",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In Git, you need to commit your changes before pushing to the repository.",
+      "translation": "在Git中，你需要在推送之前提交更改。",
+      "source": "Technical tutorial",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Athletes must commit fully to their training regimen.",
+      "translation": "运动员必须全力投入到他们的训练计划中。",
+      "source": "Sports commentary",
+      "difficulty": "basic"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "com-",
+        "meaning": "together",
+        "language": "Latin"
+      },
+      {
+        "root": "mittere",
+        "meaning": "to send",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'committere'，意为 'to join or entrust'。在中世纪英语中演变为 'commiten'，逐渐发展为现代英语中的 'commit'，从最初的 '委托或结合' 含义扩展到 '承诺' 和 '犯下' 等当代用法。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "committee",
+      "commitment",
+      "remit"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'commit' 的不同语境分组记忆，例如先学习动词的基本用法，再扩展到技术语境；利用重复间隔法（spaced repetition）强化多义词的区分，以提升长期记忆保留率。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "pledge",
+        "similarity": "0.8",
+        "context": "在正式场合用于表达承诺，例如商业协议中"
+      },
+      {
+        "word": "perpetrate",
+        "similarity": "0.7",
+        "context": "在法律语境中，用于描述犯罪行为"
+      },
+      {
+        "word": "dedicate",
+        "similarity": "0.9",
+        "context": "在个人发展或教育语境中，表示投入精力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withdraw",
+        "context": "在承诺语境中，表示收回或放弃"
+      },
+      {
+        "word": "avoid",
+        "context": "在犯罪语境中，表示逃避或不实施"
+      }
+    ],
+    "hypernyms": [
+      "perform",
+      "engage"
+    ],
+    "hyponyms": [
+      "betray",
+      "abandon"
+    ],
+    "collocations": [
+      {
+        "pattern": "commit + noun (e.g., commit a crime)",
+        "examples": [
+          "commit a mistake",
+          "commit an error"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "commit to + noun (e.g., commit to a plan)",
+        "examples": [
+          "commit to success",
+          "commit to change"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中象征着责任和忠诚，常用于强调个人或组织的道德承诺；在西方文化中，与 'commitment' 相关联，隐含着社会契约和诚信价值。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，更常用于商业和技术语境，如软件开发",
+        "usage": "例如，在硅谷文化中，'commit' 是代码管理的核心术语，反映了创新和效率的文化导向"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，偏向正式和法律语境",
+        "usage": "如在历史文学中，常描述道德或政治承诺"
+      }
+    ],
+    "historicalContext": "与启蒙运动和工业革命相关，强调个人责任；在莎士比亚作品中出现，体现了文艺复兴时期的社会变革。",
+    "modernUsage": "在社交媒体和数字时代，常见于在线社区讨论承诺或代码提交，反映了全球化的工作文化趋势。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个锁链将某人绑在承诺上，象征着 'commit' 的绑定含义。",
+      "keyElements": [
+        "锁链",
+        "承诺文件",
+        "行动场景"
+      ],
+      "emotionalConnection": "联结个人经历，如曾经许下的新年决心，触发责任感和成就感的情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'commit' as 'come it' – coming together to it, like joining forces.",
+        "explanation": "通过视觉联想，将词与 'come together' 联系，增强语义记忆。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /kəˈmɪt/ 听起来像 'come meet'，代表 'meet your commitment'。",
+        "explanation": "利用声音相似性，结合个人生活事件辅助记忆。"
+      }
+    ],
+    "wordAssociations": [
+      "promise",
+      "dedicate",
+      "execute"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "committed",
+      "pastParticiple": "committed",
+      "presentParticiple": "committing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + commit + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述行为",
+        "examples": [
+          "He commits a crime."
+        ]
+      },
+      {
+        "pattern": "commit to + noun/gerund",
+        "description": "表示承诺的结构",
+        "examples": [
+          "She commits to running daily."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'commit' without proper object",
+        "correction": "Always pair with an object or preposition",
+        "explanation": "学习者常遗漏宾语，导致句子不完整；例如，错误说 'I commit' 而非 'I commit to it'。"
+      },
+      {
+        "mistake": "Confusing with 'comment'",
+        "correction": "Distinguish spelling and meaning",
+        "explanation": "由于发音相似，初级学习者可能混淆；通过上下文练习可避免。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "business",
+      "law",
+      "technology",
+      "sports"
+    ],
+    "tags": [
+      "action",
+      "responsibility",
+      "computing"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

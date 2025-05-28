@@ -1,0 +1,247 @@
+{
+  "word": "pruning",
+  "phonetics": {
+    "british": "/ˈpruːnɪŋ/",
+    "american": "/ˈpruːnɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of cutting off the branches of a tree or plant to improve growth, health, or appearance.",
+      "chineseTranslation": "修剪（树木或植物）",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb (gerund form of 'prune')",
+      "definition": "The process of removing unnecessary parts, such as in computing, where it refers to eliminating less important elements in algorithms or data structures to enhance efficiency.",
+      "chineseTranslation": "修剪（去除多余部分，如在计算机科学中）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tree pruning",
+      "meaning": "树木修剪",
+      "example": "Tree pruning is essential for maintaining the shape and health of orchards.",
+      "exampleTranslation": "树木修剪对于保持果园的形状和健康至关重要。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "pruning shears",
+      "meaning": "修枝剪",
+      "example": "Gardeners use pruning shears for precise cuts on small branches.",
+      "exampleTranslation": "园丁使用修枝剪来精确剪切小树枝。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "neural network pruning",
+      "meaning": "神经网络修剪",
+      "example": "Neural network pruning helps reduce model size without losing accuracy.",
+      "exampleTranslation": "神经网络修剪有助于减少模型大小而不损失准确性。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Regular pruning of rose bushes prevents disease and encourages blooming.",
+      "translation": "定期修剪玫瑰丛可以预防疾病并促进开花。",
+      "source": "Gardening literature (e.g., from Royal Horticultural Society publications)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In machine learning, pruning involves removing weak connections to optimize performance.",
+      "translation": "在机器学习中，修剪涉及去除弱连接以优化性能。",
+      "source": "Technical articles (e.g., from IEEE journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The farmer spent the afternoon on pruning the vineyard to improve grape quality.",
+      "translation": "农夫花了一个下午时间修剪葡萄园以提高葡萄质量。",
+      "source": "Modern fiction (e.g., agricultural-themed novels)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Middle English, from Old French",
+    "rootWords": [
+      {
+        "root": "prune",
+        "meaning": "To cut off or trim",
+        "language": "Old French (from Latin 'propugnare', meaning to defend or protect)"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'proignier'，最初指防御或保护行为，演变为中古英语中修剪树木的含义；17世纪开始扩展到比喻性使用，如在计算机科学中去除冗余部分，以提高效率。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "prune",
+      "trim",
+      "lop"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "4 (基于发音规则的简单性，中级学习者可能需练习元音 /uː/ 和辅音组合)",
+    "spellingDifficulty": "5 (拼写相对直接，但容易与 'pruning' 和 'prooning' 混淆)",
+    "meaningComplexity": "6 (语义有字面和比喻层面，需要理解上下文)",
+    "usageComplexity": "7 (在不同领域如园艺和科技的使用，需要句法灵活性)",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'pruning' 与视觉图像如修剪树木联系；使用间隔重复（spaced repetition）强化记忆，避免混淆类似词汇。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "trimming",
+        "similarity": "0.8",
+        "context": "适用于园艺语境中对树木的轻微修剪"
+      },
+      {
+        "word": "cutting back",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于描述去除多余部分"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overgrowth",
+        "context": "在园艺中，指 unchecked expansion 或无节制的生长"
+      },
+      {
+        "word": "expansion",
+        "context": "在技术语境中，指增加而非减少系统组件"
+      }
+    ],
+    "hypernyms": [
+      "editing",
+      "maintenance"
+    ],
+    "hyponyms": [
+      "deadheading",
+      "thinning"
+    ],
+    "collocations": [
+      {
+        "pattern": "pruning + noun (e.g., pruning trees)",
+        "examples": [
+          "pruning roses",
+          "pruning algorithms"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + pruning (e.g., perform pruning)",
+        "examples": [
+          "conduct pruning",
+          "avoid pruning"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'pruning' 象征着精简和成长，如在基督教比喻中代表精神上的净化；在东方文化如中国，可能与园艺传统相关，隐含节制与和谐的理念。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更偏向于园艺语境，使用较为传统",
+        "usage": "在英国乡村语境中常见，强调季节性维护"
+      },
+      {
+        "region": "美国",
+        "variation": "扩展到技术领域，如农业和AI",
+        "usage": "在现代美国英语中，常用于商业和科技讨论"
+      }
+    ],
+    "historicalContext": "与工业革命相关的农业实践有关，19世纪在英国文学中（如Thomas Hardy的作品）出现，象征社会变革；在中国文化中，类似概念见于古诗词中的修剪意象，体现人与自然的互动。",
+    "modernUsage": "在社交媒体和在线论坛中，'pruning' 用于比喻个人生活管理，如 'social media pruning' 表示清理数字足迹。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个园丁在使用剪刀修剪一棵茂密的树木，同时屏幕上显示一个AI模型在去除冗余部分。",
+      "keyElements": [
+        "剪刀",
+        "树木",
+        "AI图标"
+      ],
+      "emotionalConnection": "联结到个人园艺经验或数字清理的满足感，以增强情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Think of 'pruning' as 'pro-uning' – like promoting unity by removing extras.",
+        "explanation": "通过联想将 'pruning' 与 'promoting unity' 连接，利用认知联想增强记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "Pronounce it as 'prune-ing', like eating a prune to 'clean' things up.",
+        "explanation": "利用声音和视觉联觉，结合水果意象帮助中级学习者记住发音和含义"
+      }
+    ],
+    "wordAssociations": [
+      "trim",
+      "cut",
+      "optimize"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "prunings",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": "pruning",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object (e.g., He is pruning the tree)",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "She enjoys pruning her garden."
+        ]
+      },
+      {
+        "pattern": "Noun phrase (e.g., The pruning of the vines)",
+        "description": "名词短语结构，用于正式描述过程",
+        "examples": [
+          "The annual pruning of the orchard is underway."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'pruning' as 'prooning'",
+        "correction": "Use 'pruning' with correct spelling",
+        "explanation": "源自发音相似性，中级学习者需注意拼写规则"
+      },
+      {
+        "mistake": "Using in wrong context (e.g., treating as only garden-related)",
+        "correction": "Apply in technical contexts too",
+        "explanation": "扩展语义理解以避免语境限制"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "agriculture",
+      "technology",
+      "gardening"
+    ],
+    "tags": [
+      "botany",
+      "computing",
+      "maintenance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

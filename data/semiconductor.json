@@ -1,0 +1,258 @@
+{
+  "word": "semiconductor",
+  "phonetics": {
+    "british": "/ˌsɛmɪkɒnˈdʌktə/",
+    "american": "/ˌsɛmɪkənˈdʌktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A solid substance that has electrical conductivity between that of a conductor and an insulator, such as silicon, and is widely used in electronic devices.",
+      "chineseTranslation": "半导体",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or consisting of materials that have conductivity between conductors and insulators.",
+      "chineseTranslation": "半导体的",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "semiconductor industry",
+      "meaning": "半导体工业",
+      "example": "The semiconductor industry drives technological innovation worldwide.",
+      "exampleTranslation": "半导体工业推动全球技术创新。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "semiconductor device",
+      "meaning": "半导体器件",
+      "example": "A transistor is a basic semiconductor device used in circuits.",
+      "exampleTranslation": "晶体管是一种基本的半导体器件，用于电路中。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "semiconductor material",
+      "meaning": "半导体材料",
+      "example": "Silicon is the most common semiconductor material in electronics.",
+      "exampleTranslation": "硅是电子学中最常见的半导体材料。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The development of semiconductor technology has revolutionized computing.",
+      "translation": "半导体技术的开发彻底改变了计算领域。",
+      "source": "Scientific article (e.g., from IEEE publications)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Engineers are researching new semiconductor materials for faster processors.",
+      "translation": "工程师们正在研究新的半导体材料以开发更快的处理器。",
+      "source": "News article (e.g., from BBC Technology section)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In everyday life, semiconductors are found in smartphones and laptops.",
+      "translation": "在日常生活中，半导体存在于智能手机和笔记本电脑中。",
+      "source": "Educational text (e.g., from Khan Academy)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The failure of a semiconductor chip can cause the entire system to crash.",
+      "translation": "半导体芯片的故障可能导致整个系统崩溃。",
+      "source": "Technical report (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "English, derived from Latin",
+    "rootWords": [
+      {
+        "root": "semi-",
+        "meaning": "half",
+        "language": "Latin"
+      },
+      {
+        "root": "conductor",
+        "meaning": "one who leads or conducts",
+        "language": "Latin (from 'conducere', meaning to lead together)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于19世纪晚期，源自拉丁语 'semi-' (意为一半) 与 'conductor' (意为导体)。最初用于描述具有介于导体和绝缘体之间导电性的物质。20世纪，随着电子学的兴起，该词演变为现代技术术语，尤其在晶体管和集成电路的发明后。",
+    "firstKnownUse": "约1838年，在科学文献中首次出现",
+    "relatedWords": [
+      "semiconduction",
+      "conductivity",
+      "insulator"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1 (CEFR等级，根据语言学习理论，该词适合中高级学习者，因为它涉及技术术语)",
+    "pronunciationDifficulty": "6 (1-10，基于音节复杂度和元音变体，如 /ɒ/ 与 /ə/ 的差异，可能对中文母语者造成混淆)",
+    "spellingDifficulty": "7 (1-10，拼写较长且包含前缀 'semi-'，易误写为 'semiconductor' 的变体)",
+    "meaningComplexity": "8 (1-10，语义涉及科学概念，需要理解物理属性，且抽象性高)",
+    "usageComplexity": "7 (1-10，使用时需结合技术语境，认知科学表明，重复暴露于真实语料可提升掌握)",
+    "learningTips": [
+      "利用间隔重复系统复习词汇；将词汇与视觉图像（如电路图）关联以增强记忆；通过认知联想，将 'semi-' 与 '一半' 的中文概念连接，避免混淆类似词汇"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "chip",
+        "similarity": "0.7",
+        "context": "在电子设备语境中，常用于指代集成电路芯片"
+      },
+      {
+        "word": "transistor material",
+        "similarity": "0.8",
+        "context": "在技术讨论中，指代用于晶体管的材料"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insulator",
+        "context": "在物理学语境中，表示完全不导电的物质"
+      },
+      {
+        "word": "conductor",
+        "context": "在电子学语境中，表示高效导电的物质，如金属"
+      }
+    ],
+    "hypernyms": [
+      "material",
+      "substance"
+    ],
+    "hyponyms": [
+      "silicon",
+      "gallium arsenide"
+    ],
+    "collocations": [
+      {
+        "pattern": "semiconductor + noun (e.g., semiconductor technology)",
+        "examples": [
+          "semiconductor manufacturing",
+          "semiconductor innovation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "adjective + semiconductor (e.g., organic semiconductor)",
+        "examples": [
+          "advanced semiconductor",
+          "doped semiconductor"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代科技文化中象征创新和数字革命，尤其在美国硅谷文化中代表经济增长和技术领导力。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于商业和技术讨论中，如 'Silicon Valley semiconductor boom'",
+        "usage": "在美国英语中，强调经济影响，常在新闻中出现"
+      },
+      {
+        "region": "英国",
+        "variation": "使用较正式，强调科学方面，如 'semiconductor physics'",
+        "usage": "在英国英语中，可能与欧洲技术标准相关联"
+      }
+    ],
+    "historicalContext": "与20世纪的工业革命和电子时代相关，特别是在第二次世界大战后的发展中，半导体推动了计算机和通信技术的进步。",
+    "modernUsage": "在社交媒体和数字平台上，该词常用于讨论AI和5G技术趋势，例如在Twitter或科技博客中"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个半透明的晶体管在电路板上闪烁，代表 'semi-' (一半) 的导电性。",
+      "keyElements": [
+        "晶体管",
+        "电路板",
+        "闪烁灯光"
+      ],
+      "emotionalConnection": "联结到个人经验，如使用智能手机时的兴奋，触发对科技进步的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Semi + conductor = 半 + 导体，像半路导体一样不完全导电。",
+        "explanation": "通过视觉联想将 'semi-' 与中文 '半' 连接，增强认知保留"
+      },
+      {
+        "type": "缩略",
+        "content": "SEMI-CON: S-Emi (一半的) C-ON (连接的)",
+        "explanation": "使用首字母缩写结合声音联觉，帮助记忆词汇结构"
+      }
+    ],
+    "wordAssociations": [
+      "silicon",
+      "transistor",
+      "electronics"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "semiconductors",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase (e.g., 'a semiconductor device')",
+        "description": "作为名词使用，常与定语或修饰语结合",
+        "examples": [
+          "The semiconductor in the phone is damaged."
+        ]
+      },
+      {
+        "pattern": "Subject in a sentence (e.g., 'Semiconductors enable modern technology.')",
+        "description": "在句子中作为主语，描述功能或特性",
+        "examples": [
+          "Semiconductors have transformed the world."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'semi-conductor' (hyphenated form)",
+        "correction": "Use 'semiconductor' without hyphen in modern usage",
+        "explanation": "在当代英语中，不再使用连字符，以符合技术标准"
+      },
+      {
+        "mistake": "Misusing as a verb",
+        "correction": "It is a noun, not a verb; use 'conduct' instead if needed",
+        "explanation": "中文母语者可能错误类比为动词形式，导致语法错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (e.g., ranked in top 10,000 words in COCA corpus, with 500+ occurrences per million in technical domains)",
+    "domains": [
+      "科技",
+      "电子学",
+      "工程"
+    ],
+    "tags": [
+      "技术术语",
+      "物理科学",
+      "创新"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

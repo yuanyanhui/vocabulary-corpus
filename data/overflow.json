@@ -1,0 +1,260 @@
+{
+  "word": "overflow",
+  "phonetics": {
+    "british": "/ˌəʊvəˈfləʊ/",
+    "american": "/ˌoʊvərˈfloʊ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An instance of something exceeding its limits, such as liquid spilling over the edge of a container or data exceeding available memory.",
+      "chineseTranslation": "溢出；超限",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To flow over the edges of a container or to exceed capacity.",
+      "chineseTranslation": "溢出；泛滥",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Characterized by an abundance that exceeds normal limits.",
+      "chineseTranslation": "过量的；充溢的",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "overflow with",
+      "meaning": "充满或充溢着某种情感或事物",
+      "example": "The room overflowed with excited guests.",
+      "exampleTranslation": "房间里挤满了兴奋的客人。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "buffer overflow",
+      "meaning": "缓冲区溢出，指计算机内存中数据超过分配空间的情况",
+      "example": "A buffer overflow can lead to system crashes in programming.",
+      "exampleTranslation": "在编程中，缓冲区溢出可能导致系统崩溃。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "emotional overflow",
+      "meaning": "情感的爆发或外露",
+      "example": "She experienced an emotional overflow during the ceremony.",
+      "exampleTranslation": "她在仪式中经历了一次情感爆发。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The river overflowed its banks after the heavy rain.",
+      "translation": "大雨过后，河流溢出了河岸。",
+      "source": "News article (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In computing, an overflow error occurs when a calculation produces a result too large for the system to handle.",
+      "translation": "在计算机中，当计算结果太大而系统无法处理时，会发生溢出错误。",
+      "source": "Technical documentation (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The charity event overflowed with donations from the community.",
+      "translation": "慈善活动充斥着社区的捐款。",
+      "source": "Literary work (e.g., modern fiction)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "ofer",
+        "meaning": "over",
+        "language": "Old English"
+      },
+      {
+        "root": "flōwan",
+        "meaning": "to flow",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'oferflōwan'，意为 'over-flow'，逐渐演变为现代英语中表示超出极限的含义。从中古英语时期开始，该词扩展到比喻性用法，如情感或数据溢出。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "overflowing",
+      "overrun",
+      "flood"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "使用分块记忆法，将 'over' 与 'flow' 分离，然后结合实际场景如河流泛滥来强化语义关联；根据认知科学，重复暴露于不同语境中可提升长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "surplus",
+        "similarity": "0.7",
+        "context": "在商业或资源管理语境中，用于表示多余的部分"
+      },
+      {
+        "word": "spillover",
+        "similarity": "0.8",
+        "context": "在物理或比喻性事件中，表示超出界限的溢出效应"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deficit",
+        "context": "在经济或资源语境中，表示短缺，与溢出相反"
+      },
+      {
+        "word": "shortage",
+        "context": "在供应语境中，表示不足"
+      }
+    ],
+    "hypernyms": [
+      "excess",
+      "abundance"
+    ],
+    "hyponyms": [
+      "buffer overflow",
+      "flood overflow"
+    ],
+    "collocations": [
+      {
+        "pattern": "overflow + preposition (e.g., with, from)",
+        "examples": [
+          "overflow with joy",
+          "overflow from the container"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "noun + overflow",
+        "examples": [
+          "river overflow",
+          "data overflow"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在英语文化中常用于象征自然灾害（如洪水泛滥）或技术问题（如计算机错误），隐含语义反映了人类对控制与失控的焦虑。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术语境，如软件编程",
+        "usage": "在美国英语中，'overflow' 在IT领域高度频繁，强调实际应用"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "更侧重于自然或日常语境",
+        "usage": "在英国英语中，常与环境或历史洪水事件相关联"
+      }
+    ],
+    "historicalContext": "在工业革命时期，该词与英国的河流泛滥事件（如泰晤士河）相关，象征工业化带来的环境挑战；在现代，关联计算机科学发展。",
+    "modernUsage": "在社交媒体和数字时代，'overflow' 常用于描述信息 overload 或情感表达，如 TikTok 上的 viral 内容"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个水杯注水过多，水从边缘溢出的场景",
+      "keyElements": [
+        "水杯",
+        "水流",
+        "边缘"
+      ],
+      "emotionalConnection": "联结个人经历，如童年玩水时的兴奋感，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Over-flow: 'Over' 像过度，'flow' 像流动，联想到河流超出河床。",
+        "explanation": "通过视觉联想强化词汇与实际事件的连接，基于认知科学的空间记忆原理"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /ˌoʊvərˈfloʊ/ 听起来像 'over flow'，想象水流声。",
+        "explanation": "利用听觉线索帮助记忆，符合多模态学习理论"
+      }
+    ],
+    "wordAssociations": [
+      "flood",
+      "excess",
+      "spill"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "overflows",
+      "pastTense": "overflowed",
+      "pastParticiple": "overflowed",
+      "presentParticiple": "overflowing",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述动作",
+        "examples": [
+          "The river overflowed the banks."
+        ]
+      },
+      {
+        "pattern": "Noun phrase as subject",
+        "description": "名词短语作为主语，常用于静态描述",
+        "examples": [
+          "An overflow occurred in the system."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'overflow' as an adjective incorrectly",
+        "correction": "Use 'overflowing' for adjectival forms",
+        "explanation": "学习者常混淆词性，导致句法错误；正确区分动词和形容词用法"
+      },
+      {
+        "mistake": "Confusing with 'overthrow'",
+        "correction": "Use 'overflow' for exceeding limits, not for removing from power",
+        "explanation": "语音相似可能导致混淆；通过语境区分以避免语义错误"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in top 5000 in COCA corpus",
+    "domains": [
+      "Technology",
+      "Environment",
+      "Daily life"
+    ],
+    "tags": [
+      "Computing",
+      "Natural phenomena",
+      "Abundance"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

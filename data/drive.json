@@ -1,0 +1,277 @@
+{
+  "word": "drive",
+  "phonetics": {
+    "british": "/draɪv/",
+    "american": "/draɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To operate and control the mechanism and direction of a vehicle, such as a car.",
+      "chineseTranslation": "驾驶车辆",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To propel or push something forcefully.",
+      "chineseTranslation": "推动或驱使",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A journey in a vehicle, especially for pleasure or to a destination.",
+      "chineseTranslation": "驾车旅行",
+      "level": "basic",
+      "frequency": "high",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An innate, biologically determined urge to attain an objective or satisfy a need.",
+      "chineseTranslation": "驱动力或内在动力",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A private road or driveway leading to a house.",
+      "chineseTranslation": "私人车道",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drive away",
+      "meaning": "使某人或某物离开",
+      "example": "He tried to drive away the birds from the garden.",
+      "exampleTranslation": "他试图把鸟儿从花园里赶走。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "drive a hard bargain",
+      "meaning": "在谈判中坚持己见以获得有利条件",
+      "example": "The salesperson knew how to drive a hard bargain with customers.",
+      "exampleTranslation": "销售员知道如何在与客户谈判时坚持己见。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "drive someone crazy",
+      "meaning": "使某人发疯或非常烦恼",
+      "example": "The constant noise from the construction site drives me crazy.",
+      "exampleTranslation": "建筑工地的持续噪音让我发疯。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I drive to work every morning.",
+      "translation": "我每天早上开车去上班。",
+      "source": "Daily conversation (e.g., from COCA corpus)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The coach's motivational speech helped drive the team to victory.",
+      "translation": "教练的鼓舞性演讲帮助团队赢得了胜利。",
+      "source": "Sports news (e.g., from BBC articles)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In psychology, a drive is an internal stimulus that motivates behavior.",
+      "translation": "在心理学中，驱动力是一种内部刺激，它激发行为。",
+      "source": "Academic text (e.g., from psychological literature)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The long drive through the countryside was refreshing.",
+      "translation": "穿越乡间的长途驾驶令人耳目一新。",
+      "source": "Literature (e.g., from novels in BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Old English",
+    "rootWords": [
+      {
+        "root": "drīfan",
+        "meaning": "to drive, propel, or pursue",
+        "language": "Old English"
+      }
+    ],
+    "historicalDevelopment": "源自古英语 'drīfan'，最初意为推动或追赶动物。随时间演变为现代英语中表示车辆操作或内在动力的含义，受日耳曼语系影响，并在中古英语时期扩展到抽象概念，如心理驱动力。",
+    "firstKnownUse": "Before 12th century",
+    "relatedWords": [
+      "driveway",
+      "driver",
+      "strive"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B1 (CEFR)",
+    "pronunciationDifficulty": "3 (基于简单音节结构，/draɪv/易于发音，但需注意元音 diphthong)",
+    "spellingDifficulty": "2 (拼写规则常规，无不寻常字母组合)",
+    "meaningComplexity": "6 (多义词，需区分具体和抽象语义)",
+    "usageComplexity": "5 (常见于多种语境，但搭配需学习)",
+    "learningTips": [
+      "结合认知科学，利用间隔重复法记忆多义性；将词汇与个人驾驶经验关联以增强语境记忆；使用心智映射工具绘制 'drive' 的语义网络，以减少认知负荷。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "operate",
+        "similarity": "0.8",
+        "context": "适用于车辆操作语境，如 'drive a car' 可以用 'operate a vehicle' 替换"
+      },
+      {
+        "word": "motivate",
+        "similarity": "0.7",
+        "context": "适用于抽象驱动力语境，如 'drive to succeed' 与 'motivate to achieve' 类似"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "halt",
+        "context": "适用于停止运动语境，例如在车辆上下"
+      },
+      {
+        "word": "discourage",
+        "context": "适用于减少动力量境，例如在心理驱动力上下"
+      }
+    ],
+    "hypernyms": [
+      "move",
+      "travel"
+    ],
+    "hyponyms": [
+      "backdrive",
+      "overdrive"
+    ],
+    "collocations": [
+      {
+        "pattern": "drive + noun (e.g., drive a car)",
+        "examples": [
+          "drive a car",
+          "drive a point home"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "drive + adverb (e.g., drive carefully)",
+        "examples": [
+          "drive safely",
+          "drive quickly"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'drive' 象征独立和自由，尤其在美国，驾车代表成年礼和探索精神；在中文文化中，类似概念可能与 '开车' 相关，但强调社会责任。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在日常交通和文化比喻中",
+        "usage": "在美国，'drive' 常与公路文化（如 Route 66）关联，体现个人主义"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式，使用时强调交通规则",
+        "usage": "在英国，'drive' 常与公共交通对比，反映集体主义倾向"
+      }
+    ],
+    "historicalContext": "与工业革命相关，'drive' 从马车时代演变到汽车时代，象征技术进步；在文学中，如美国小说中常用于探索主题。",
+    "modernUsage": "在社交媒体上，'drive' 用于比喻职业动力，如 '#careerdrive'，反映全球化的工作文化趋势"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人坐在汽车里，手握方向盘，驶向远方。",
+      "keyElements": [
+        "汽车",
+        "方向盘",
+        "道路"
+      ],
+      "emotionalConnection": "联结学习者首次驾车的兴奋感，以强化记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'drive' 联想为 'drive a car like a river flows'（河流流动推动向前）",
+        "explanation": "通过视觉和运动联想，帮助记忆其推动含义，基于认知科学中的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "D-R-I-V-E: Direct, Rush, Impel, Venture, Energize",
+        "explanation": "使用首字母缩略词分解词汇含义，促进记忆分块"
+      }
+    ],
+    "wordAssociations": [
+      "car",
+      "motivate",
+      "push"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "drove",
+      "pastParticiple": "driven",
+      "presentParticiple": "driving",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + drive + object",
+        "description": "主语 + 动词 + 宾语结构，常用于动作描述",
+        "examples": [
+          "I drive the car."
+        ]
+      },
+      {
+        "pattern": "Drive + to + infinitive",
+        "description": "表示目的的结构",
+        "examples": [
+          "He drives to succeed in life."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'drive' instead of 'drove' in past tense",
+        "correction": "Use 'drove'",
+        "explanation": "由于 'drive' 有不规则变化，初级学习者易混淆时态"
+      },
+      {
+        "mistake": "Confusing literal and metaphorical meanings",
+        "correction": "Distinguish based on context",
+        "explanation": "在语境中区分，例如 'drive a car' 与 'drive ambition'"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 1000 words in COCA corpus)",
+    "domains": [
+      "transportation",
+      "psychology",
+      "business"
+    ],
+    "tags": [
+      "action",
+      "movement",
+      "motivation"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

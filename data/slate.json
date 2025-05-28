@@ -1,0 +1,249 @@
+{
+  "word": "slate",
+  "phonetics": {
+    "british": "/sleɪt/",
+    "american": "/sleɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fine-grained metamorphic rock that can be split into thin, smooth layers, often used for roofing, writing, or in construction.",
+      "chineseTranslation": "板岩；石板",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To schedule or arrange an event or activity; or to cover a surface with slate material.",
+      "chineseTranslation": "安排；覆盖石板",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    },
+    {
+      "partOfSpeech": "noun (in a different context)",
+      "definition": "A list of candidates for election or nomination.",
+      "chineseTranslation": "候选人名单",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "clean slate",
+      "meaning": "全新的开始或清除过去错误的状态",
+      "example": "After the scandal, the company started with a clean slate.",
+      "exampleTranslation": "丑闻过后，这家公司从一个全新的开始起步。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "on the slate",
+      "meaning": "记账或推迟支付",
+      "example": "He put the drinks on the slate at the pub.",
+      "exampleTranslation": "他在酒吧把饮料记账了。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old schoolhouse had a roof made of slate tiles.",
+      "translation": "那座老校舍的屋顶是用石板瓦覆盖的。",
+      "source": "Literature (e.g., from British novels)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The committee decided to slate the debate for Friday afternoon.",
+      "translation": "委员会决定将辩论安排在周五下午。",
+      "source": "News articles (e.g., political contexts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In the election, her name was on the slate of candidates.",
+      "translation": "在选举中，她的名字出现在候选人名单上。",
+      "source": "Modern media (e.g., from COCA corpus)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French",
+    "rootWords": [
+      {
+        "root": "esclat",
+        "meaning": "A chip or splinter of stone",
+        "language": "Old French"
+      },
+      {
+        "root": "possibly from Latin 'sculptus'",
+        "meaning": "Carved or shaped",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自古法语 'esclat'，意为石头的碎片或碎片化岩石。在中古英语中演变为 'slate'，最初指细薄的岩石片，用于建筑和书写。随着时间推移，扩展到动词含义，如安排或计划，特别是在19世纪的英国工业革命期间与调度相关联。",
+    "firstKnownUse": "约14世纪",
+    "relatedWords": [
+      "slateboard",
+      "slating"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "3 (基于简单辅音和元音组合，易于中间水平学习者掌握)",
+    "spellingDifficulty": "4 (拼写规则常规，无不寻常字母，但需注意元音)",
+    "meaningComplexity": "6 (多义词，需根据语境区分，如名词和动词含义)",
+    "usageComplexity": "5 (常见于正式语境，但语境依赖性强)",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将不同含义分组；通过视觉联想将 'slate' 与石板图像关联，以增强海马体记忆；练习语境切换以提高执行功能。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "schedule",
+        "similarity": "0.7",
+        "context": "在动词语境中，用于安排活动，例如商业或会议场景"
+      },
+      {
+        "word": "rock",
+        "similarity": "0.6",
+        "context": "在名词语境中，指矿物类型，但需指定为板岩"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cancel",
+        "context": "在动词语境中，指取消安排"
+      },
+      {
+        "word": "upheaval",
+        "context": "在名词语境中，指不稳定的地质结构，与板岩的稳定性相反"
+      }
+    ],
+    "hypernyms": [
+      "rock",
+      "material"
+    ],
+    "hyponyms": [
+      "shale"
+    ],
+    "collocations": [
+      {
+        "pattern": "slate + noun (e.g., slate roof)",
+        "examples": [
+          "a slate roof",
+          "slate tiles"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + slate (e.g., to slate an event)",
+        "examples": [
+          "to slate a meeting"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在英国文化中，slate 常象征传统建筑和乡村生活，例如威尔士的石板屋顶代表历史韧性；在选举语境中，美国文化中 slate 隐含民主过程的竞争性。",
+    "regionalVariations": [
+      {
+        "region": "英国",
+        "variation": "更常用于建筑语境",
+        "usage": "在英国乡村，slate 常指历史建筑材料，体现工业革命遗产"
+      },
+      {
+        "region": "美国",
+        "variation": "更常用于政治语境",
+        "usage": "在美国政治中，slate 指政党候选人列表，常见于选举报道"
+      }
+    ],
+    "historicalContext": "与19世纪英国工业革命相关，slate 开采成为经济支柱；在文学中，如狄更斯作品中出现，象征社会阶层。",
+    "modernUsage": "在社交媒体上，slate 常用于推文安排或重置概念，如 'clean slate' 在心理健康讨论中流行。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个古老的英国乡村房屋，屋顶覆盖着灰色的石板，一位工人在安排（slate）下周的会议。",
+      "keyElements": [
+        "石板屋顶",
+        "安排日历"
+      ],
+      "emotionalConnection": "联结个人经历，如童年回忆中的旧学校，或新年开始的兴奋感，以触发杏仁核相关的情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'slate' 联想为 'slate like a plate'（像盘子一样平滑的石头）",
+        "explanation": "通过视觉和触觉联想增强海马体编码，帮助记忆名词含义"
+      },
+      {
+        "type": "缩略",
+        "content": "S-L-A-T-E: Stone, List, Arrange, Thin, Even",
+        "explanation": "使用首字母缩写结合多感官学习，改善工作记忆"
+      }
+    ],
+    "wordAssociations": [
+      "stone",
+      "schedule",
+      "board"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "slates",
+      "pastTense": "slated",
+      "pastParticiple": "slated",
+      "presentParticiple": "slating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Noun phrase: [Article] + slate + [modifier]",
+        "description": "名词作为主语或宾语的典型结构，例如在描述材料时",
+        "examples": [
+          "The slate roof is durable."
+        ]
+      },
+      {
+        "pattern": "Verb phrase: to slate + object",
+        "description": "动词用于安排的结构，需要直接宾语",
+        "examples": [
+          "They slated the event for June."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing slate with similar words like 'slate' vs. 'state'",
+        "correction": "Use 'slate' for rock or scheduling, not 'state' which means condition.",
+        "explanation": "源自语音相似的干扰，建议通过语境练习区分"
+      },
+      {
+        "mistake": "Incorrect verb form in sentences",
+        "correction": "Always use 'slated' for past tense.",
+        "explanation": "由于规则动词形式简单，但语境错误可能导致混淆"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "中等（COCA 语料库中排名约 5000，BNC 中中等频率）",
+    "domains": [
+      "建筑",
+      "政治",
+      "商业"
+    ],
+    "tags": [
+      "地质",
+      "安排",
+      "选举"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

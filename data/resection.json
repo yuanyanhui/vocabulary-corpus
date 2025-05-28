@@ -1,0 +1,254 @@
+{
+  "word": "resection",
+  "phonetics": {
+    "british": "/rɪˈsɛkʃən/",
+    "american": "/rɪˈsɛkʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The surgical removal of part of an organ or tissue, typically to treat disease or injury.",
+      "chineseTranslation": "切除（手术）",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "formal/technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader sense, the act of cutting back or removing something, as in pruning plants.",
+      "chineseTranslation": "切除或修剪",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gastric resection",
+      "meaning": "胃切除手术",
+      "example": "The patient underwent gastric resection to remove the tumor.",
+      "exampleTranslation": "患者接受了胃切除手术以移除肿瘤。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "bone resection",
+      "meaning": "骨切除手术",
+      "example": "Bone resection is often necessary in cases of advanced bone cancer.",
+      "exampleTranslation": "在晚期骨癌病例中，骨切除手术通常是必要的。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "marginal resection",
+      "meaning": "边缘切除",
+      "example": "Marginal resection was performed to ensure clear margins around the tumor.",
+      "exampleTranslation": "进行了边缘切除以确保肿瘤周围的切缘清晰。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The surgeon performed a bowel resection to treat the patient's Crohn's disease.",
+      "translation": "外科医生进行了肠切除手术以治疗患者的克罗恩病。",
+      "source": "Medical literature (e.g., from JAMA)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "In dentistry, a root resection might be required for severe periodontal issues.",
+      "translation": "在牙科中，对于严重的牙周问题，可能需要进行牙根切除。",
+      "source": "Dental health articles (e.g., from WebMD)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After the resection of the infected tissue, the patient's recovery was swift.",
+      "translation": "在感染组织切除后，患者的恢复很快。",
+      "source": "General medical reports (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "resectio",
+        "meaning": "A cutting back or removal",
+        "language": "Latin"
+      },
+      {
+        "root": "resecare",
+        "meaning": "To cut off or cut back",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'resecare'，意为 '切除' 或 '修剪'，该词在16世纪传入英语，用于描述外科手术中的切除过程。随着医学的进步，该词在19世纪开始广泛用于现代手术语境中，从一般性修剪扩展到精确的手术移除。",
+    "firstKnownUse": "16th century",
+    "relatedWords": [
+      "excision",
+      "amputation",
+      "ablation"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2-C1",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "使用认知科学中的双编码原理，将 'resection' 与手术图像结合，例如想象一个外科医生在切除肿瘤的场景，以增强视觉和语义记忆；",
+      "通过间隔重复系统（Spaced Repetition System）复习该词在医疗语境中的用法，以改善长期记忆保留；",
+      "将该词与母语词汇（如 '切除'）进行双语对比联想，降低语义复杂度"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "excision",
+        "similarity": "0.9",
+        "context": "适用于外科手术语境中移除组织的场合，例如肿瘤切除"
+      },
+      {
+        "word": "removal",
+        "similarity": "0.7",
+        "context": "在一般性移除语境中，但不如 'resection' 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "addition",
+        "context": "在外科语境中，指添加或移植组织"
+      },
+      {
+        "word": "implantation",
+        "context": "表示植入组织或装置，与切除相反的医疗程序"
+      }
+    ],
+    "hypernyms": [
+      "surgery",
+      "procedure"
+    ],
+    "hyponyms": [
+      "lumpectomy",
+      "mastectomy"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + resection (e.g., organ + resection)",
+        "examples": [
+          "liver resection",
+          "lung resection"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Resection + of + noun",
+        "examples": [
+          "resection of the tumor"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方医学文化中象征精确性和干预性治疗，体现了现代医疗对疾病控制的重视；在跨文化语境中，中国医学传统（如中医）可能更强调非手术方法，因此 'resection' 的使用反映了西医的影响。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于癌症治疗语境中",
+        "usage": "在美国英语中，常与先进技术如机器人手术结合"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "可能更正式地用于外科报告",
+        "usage": "在英国英语中，强调历史悠久的医疗传统"
+      }
+    ],
+    "historicalContext": "与19世纪西方外科发展的历史相关，如Joseph Lister的无菌技术革命，该词体现了从传统手术到现代微创手术的演变；在文学中，如George Orwell的著作中，可能隐喻社会'切除'不必要部分。",
+    "modernUsage": "在社交媒体和在线健康论坛中，'resection' 常用于患者分享经历，但需注意隐私和专业性"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个外科医生使用手术刀切除一个苹果上的坏部分，象征移除不健康组织。",
+      "keyElements": [
+        "手术刀",
+        "苹果",
+        "切除坏部分"
+      ],
+      "emotionalConnection": "联结个人经历，如回忆一次小手术，触发安全感和恢复的积极情绪"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Re-section 像 're-选择' 坏部分进行切除",
+        "explanation": "通过词根联想 're-' 表示重复或返回，将其与 'section' （部分）结合，强化记忆"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /rɪˈsɛkʃən/ 听起来像 'risk action'，提醒风险性手术",
+        "explanation": "利用声音相似性，结合认知科学中的声音-意义映射，提升记忆效果"
+      }
+    ],
+    "wordAssociations": [
+      "surgery",
+      "cut",
+      "remove",
+      "operate"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "resections",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + resection",
+        "description": "主语+动词+resection 的结构，常用于描述手术过程",
+        "examples": [
+          "The doctor performed a resection."
+        ]
+      },
+      {
+        "pattern": "Resection of + noun",
+        "description": "表示切除特定部分的句法",
+        "examples": [
+          "Resection of the liver was successful."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'recession' (经济衰退)",
+        "correction": "Use 'resection' only in medical contexts",
+        "explanation": "两者发音相似，但语义完全不同，避免混淆以防止语境错误"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Use 'resections' for multiple instances",
+        "explanation": "作为可数名词，需要正确添加 -s 复数形式"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "medicine",
+      "surgery",
+      "health"
+    ],
+    "tags": [
+      "medical terminology",
+      "surgical procedures",
+      "technical vocabulary"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "word": "trojan",
+  "phonetics": {
+    "british": "/ˈtrəʊdʒən/",
+    "american": "/ˈtroʊdʒən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A native or inhabitant of ancient Troy, or something relating to the city of Troy in Greek mythology.",
+      "chineseTranslation": "特洛伊人或与特洛伊城相关的事物",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of malware that disguises itself as legitimate software to gain unauthorized access to a computer system.",
+      "chineseTranslation": "特洛伊木马（一种恶意软件）",
+      "level": "advanced",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or characteristic of ancient Troy or its people.",
+      "chineseTranslation": "特洛伊的或特洛伊风格的",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Trojan horse",
+      "meaning": "特洛伊木马，指一种欺骗性的策略或软件",
+      "example": "The hackers used a Trojan horse to infiltrate the network.",
+      "exampleTranslation": "黑客使用特洛伊木马侵入网络。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "Trojan War",
+      "meaning": "特洛伊战争，指希腊神话中的著名冲突",
+      "example": "The Trojan War is a central theme in Homer's Iliad.",
+      "exampleTranslation": "特洛伊战争是荷马史诗《伊利亚特》中的核心主题。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In Greek mythology, the Trojan warriors defended their city against the Greeks.",
+      "translation": "在希腊神话中，特洛伊战士抵御希腊人的进攻。",
+      "source": "Literature (Homer's Iliad)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "You should scan your computer for any Trojan viruses to prevent data breaches.",
+      "translation": "你应该扫描计算机以查找任何特洛伊病毒，以防止数据泄露。",
+      "source": "News (tech articles from COCA corpus)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The museum displayed ancient artifacts from the Trojan era.",
+      "translation": "博物馆展示了特洛伊时代的历史文物。",
+      "source": "General corpus (BNC)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Greek",
+    "rootWords": [
+      {
+        "root": "Troia",
+        "meaning": "The city of Troy",
+        "language": "Ancient Greek"
+      }
+    ],
+    "historicalDevelopment": "源自古希腊 Τροία (Troia)，指小亚细亚的特洛伊城。该词在14世纪进入英语，主要通过拉丁语和古法语传播。从最初指代神话中的城市和人民，演变为比喻性用法，如在计算机安全领域表示隐藏的威胁。",
+    "firstKnownUse": "14th century",
+    "relatedWords": [
+      "Troy",
+      "Hector",
+      "Achilles"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "根据认知科学原理，建议将词汇与视觉图像结合，例如想象希腊神话中的木马城门，以增强记忆；对于中文母语学习者，使用双语对照法，避免混淆多义词；通过间隔重复系统（如Anki）复习，以优化长期记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "virus",
+        "similarity": "0.7",
+        "context": "在计算机安全语境中，特指恶意软件"
+      },
+      {
+        "word": "inhabitant",
+        "similarity": "0.6",
+        "context": "在历史或神话语境中，指特洛伊居民"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ally",
+        "context": "在军事或神话语境中，指特洛伊人的对立面，如希腊盟友"
+      },
+      {
+        "word": "benign software",
+        "context": "在技术语境中，指无害的程序，与特洛伊木马相对"
+      }
+    ],
+    "hypernyms": [
+      "malware",
+      "warrior"
+    ],
+    "hyponyms": [
+      "backdoor Trojan",
+      "Trojan dropper"
+    ],
+    "collocations": [
+      {
+        "pattern": "Trojan [noun]",
+        "examples": [
+          "Trojan horse",
+          "Trojan virus"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] a Trojan",
+        "examples": [
+          "deploy a Trojan"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词源于希腊神话的特洛伊战争，象征着欺骗和隐藏的危险。在西方文化中，特洛伊木马代表策略性欺诈；在现代数字文化中，它隐含了对网络安全的警示。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用于技术术语，如 cybersecurity",
+        "usage": "在美国英语中，强调在IT领域的应用，常见于新闻和教育语境"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "保留更多古典文学含义",
+        "usage": "在英国英语中，较常与历史或文学相关联，如在学校教育中"
+      }
+    ],
+    "historicalContext": "与古希腊史诗《伊利亚特》相关，反映了古希腊与小亚细亚的冲突；在20世纪，扩展到计算机科学，源于二战后对间谍技术的比喻。",
+    "modernUsage": "在社交媒体和数字平台上，特洛伊木马常用于讨论网络安全趋势，如在Twitter或Reddit上的热门话题。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个巨大的木马隐藏着士兵，潜入城墙的场景。",
+      "keyElements": [
+        "木马",
+        "士兵",
+        "城墙"
+      ],
+      "emotionalConnection": "联结个人经验，如回忆一次被欺骗的经历，以增强情感记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Trojan 像木马一样隐藏危险",
+        "explanation": "通过视觉联想，将词汇与希腊神话的木马图像连接，运用认知科学中的双编码理论，提高记忆保留率"
+      },
+      {
+        "type": "缩略",
+        "content": "T-R-O-J-A-N: Trick, Risk, Outsmart, Jinx, Access, Network",
+        "explanation": "使用首字母缩略词，结合个人相关事件，激发情绪触发点以强化长期记忆"
+      }
+    ],
+    "wordAssociations": [
+      "horse",
+      "virus",
+      "myth"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "Trojans",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [noun] is a Trojan.",
+        "description": "用于描述特定事物的句法结构",
+        "examples": [
+          "The program is a Trojan."
+        ]
+      },
+      {
+        "pattern": "[Adjective] Trojan",
+        "description": "作为形容词修饰名词的结构",
+        "examples": [
+          "Ancient Trojan artifacts"
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing 'Trojan' with 'trojan horse' as a single word",
+        "correction": "Use 'Trojan horse' as a phrase",
+        "explanation": "中文学习者常将短语误认作合成词，导致语义偏差；需注意短语的独立性"
+      },
+      {
+        "mistake": "Misusing in non-technical contexts",
+        "correction": "Specify the context, e.g., 'mythological Trojan' vs. 'computer Trojan'",
+        "explanation": "中间水平学习者易混淆多义性，建议通过语境练习区分"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked around 5000 in COCA corpus for technical usage)",
+    "domains": [
+      "technology",
+      "history",
+      "literature"
+    ],
+    "tags": [
+      "mythology",
+      "cybersecurity",
+      "ancient history"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

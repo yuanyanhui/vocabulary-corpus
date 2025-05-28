@@ -1,0 +1,229 @@
+{
+  "word": "multiplicand",
+  "phonetics": {
+    "british": "/ˌmʌl.tɪ.plɪˈkænd/",
+    "american": "/ˌmʌl.tə.plɪˈkænd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A number or quantity that is multiplied by another in a multiplication operation.",
+      "chineseTranslation": "被乘数",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "multiplicand in multiplication",
+      "meaning": "乘法运算中的被乘数",
+      "example": "In the equation 5 × 3 = 15, 5 is the multiplicand.",
+      "exampleTranslation": "在方程 5 × 3 = 15 中，5 是被乘数。",
+      "frequency": "low"
+    },
+    {
+      "phrase": "identify the multiplicand",
+      "meaning": "识别被乘数",
+      "example": "To solve the problem, you must first identify the multiplicand and the multiplier.",
+      "exampleTranslation": "要解决这个问题，你必须先识别被乘数和乘数。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In basic arithmetic, the multiplicand is the number that gets multiplied.",
+      "translation": "在基础算术中，被乘数是那个被乘以其他数字的数。",
+      "source": "Educational textbook (e.g., from mathematics curricula)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "When programming algorithms, developers often define the multiplicand as a variable in loops.",
+      "translation": "在编程算法时，开发人员经常将被乘数定义为循环中的变量。",
+      "source": "Technical documentation (e.g., from computer science resources)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "The multiplicand in this equation must be a positive integer to ensure accurate results.",
+      "translation": "这个方程中的被乘数必须是正整数，以确保结果准确。",
+      "source": "Mathematical literature (e.g., from academic papers)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "multiplicandus",
+        "meaning": "that which is to be multiplied",
+        "language": "Latin"
+      },
+      {
+        "root": "multiplicare",
+        "meaning": "to multiply",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'multiplicandus'，是 'multiplicare'（意为“使成倍增加”）的动名词形式。在中世纪拉丁语中用于数学语境，逐渐演变为现代英语中的数学术语，用于描述乘法运算中的被乘数角色。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "multiplier",
+      "multiplicatively",
+      "multiply"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "6",
+    "spellingDifficulty": "7",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "利用认知科学原理，将词汇与视觉化数学运算过程关联，例如想象乘法表中的位置，以增强空间记忆；建议通过重复练习和间隔重复法（spaced repetition）来巩固对专业术语的记忆。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "multiplicatum",
+        "similarity": "0.8",
+        "context": "在数学理论语境中，主要用于历史或学术讨论"
+      },
+      {
+        "word": "factor",
+        "similarity": "0.6",
+        "context": "在乘法运算中，但更广泛适用于因数概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "multiplier",
+        "context": "在乘法运算中，表示进行乘法的数字，与被乘数相对"
+      }
+    ],
+    "hypernyms": [
+      "number",
+      "operand"
+    ],
+    "hyponyms": [
+      "base in multiplication"
+    ],
+    "collocations": [
+      {
+        "pattern": "multiplicand + in + [context]",
+        "examples": [
+          "multiplicand in arithmetic"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[verb] + the multiplicand",
+        "examples": [
+          "identify the multiplicand"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学基础知识的精确性，常用于学校和学术环境中，体现理性思维和逻辑推理的价值观。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常见于正式教育和科技领域",
+        "usage": "在美国英语中，常在中小学数学课上使用，以强调计算准确性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "类似使用，但可能在历史数学文本中更强调拉丁语根源",
+        "usage": "在英国英语中，常见于学术出版物中，以保持技术术语的纯正性"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期数学复兴相关，源自欧洲数学传统，在工业革命后成为标准化教育的一部分。",
+    "modernUsage": "现代传播媒介如在线教育平台和社交媒体中，用于解释算法和数据科学，但频率较低，仅限于专业讨论。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个乘法场景，如一个数字被另一个数字“包裹”或“重复”，例如5被重复3次。",
+      "keyElements": [
+        "数字重复",
+        "乘法符号"
+      ],
+      "emotionalConnection": "联结到个人童年学习乘法的经历，以触发积极情绪和熟悉感"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Multiplicand 像 'multiple candidate'，候选者被选中多次。",
+        "explanation": "通过联想 'multiple' 和 'candidate' 来记住其在乘法中的角色，基于认知联想原理增强记忆路径。"
+      },
+      {
+        "type": "缩略",
+        "content": "M for Multiplicand, 被乘的数字。",
+        "explanation": "使用首字母缩略法结合视觉图像，帮助初级学习者快速回忆。"
+      }
+    ],
+    "wordAssociations": [
+      "multiply",
+      "multiplication",
+      "factor"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "multiplicands",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + the multiplicand",
+        "description": "作为主语或宾语出现在句中，描述数学运算",
+        "examples": [
+          "The multiplicand determines the result."
+        ]
+      },
+      {
+        "pattern": "In [context], the multiplicand is [description]",
+        "description": "用于解释语境中的角色",
+        "examples": [
+          "In division, the multiplicand relates to the quotient."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing multiplicand with multiplier",
+        "correction": "Use multiplicand for the number being multiplied",
+        "explanation": "错误源于术语相似性；通过区分角色避免混淆"
+      },
+      {
+        "mistake": "Incorrect pluralization",
+        "correction": "Add -s for plural",
+        "explanation": "英语名词规则简单，但专业术语易忽略"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Rare (e.g., rank below 20,000 in COCA corpus)",
+    "domains": [
+      "mathematics",
+      "education",
+      "science"
+    ],
+    "tags": [
+      "mathematics",
+      "arithmetic",
+      "technical term"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

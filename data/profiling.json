@@ -1,0 +1,262 @@
+{
+  "word": "profiling",
+  "phonetics": {
+    "british": "/ˈprəʊ.faɪ.lɪŋ/",
+    "american": "/ˈproʊ.faɪ.lɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of creating a detailed description or analysis of someone's psychological, behavioral, or demographic characteristics, often for identification or prediction purposes.",
+      "chineseTranslation": "心理画像或行为分析的过程，通常用于识别或预测",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the process of analyzing and measuring the performance of a program or system to identify bottlenecks and optimize efficiency.",
+      "chineseTranslation": "在计算机领域中，分析程序或系统的性能以识别问题并优化效率的过程",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "The ongoing action of engaging in profiling, such as in law enforcement or data analysis.",
+      "chineseTranslation": "进行画像或分析的持续行为",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "formal"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "racial profiling",
+      "meaning": "基于种族特征进行的歧视性画像",
+      "example": "Racial profiling in law enforcement has been a controversial issue for decades.",
+      "exampleTranslation": "执法部门中的种族画像问题已经争论了几十年。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "performance profiling",
+      "meaning": "性能分析的过程",
+      "example": "Performance profiling helps developers identify memory leaks in software.",
+      "exampleTranslation": "性能分析有助于开发者识别软件中的内存泄漏。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "user profiling",
+      "meaning": "用户画像，用于个性化服务",
+      "example": "User profiling is essential for targeted advertising on social media platforms.",
+      "exampleTranslation": "用户画像对于社交媒体平台的定向广告至关重要。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The police used profiling techniques to narrow down the suspect list.",
+      "translation": "警方使用画像技术来缩小嫌疑人名单。",
+      "source": "News articles (e.g., from BBC News)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In software development, profiling can reveal inefficiencies in code execution.",
+      "translation": "在软件开发中，性能分析可以揭示代码执行中的低效问题。",
+      "source": "Technical documentation (e.g., from GitHub repositories)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "Profiling based on online behavior is common in modern marketing strategies.",
+      "translation": "基于在线行为的画像在现代营销策略中很常见。",
+      "source": "Business reports (e.g., from Harvard Business Review)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "profilum",
+        "meaning": "A drawing or outline",
+        "language": "Latin"
+      },
+      {
+        "root": "pro-",
+        "meaning": "Forward or forth",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自意大利语 'profilo'，意为轮廓或侧面图，原指艺术中的描绘方式。17世纪传入英语后，逐渐扩展到心理学和统计分析领域，尤其在19世纪与犯罪学相结合，最终演变为现代意义上的行为或性能分析。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "profile",
+      "silhouette",
+      "analysis"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2 (CEFR)",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，利用分块学习法（chunking）将 'profiling' 与具体情境（如犯罪或计算机）关联，以减少认知负荷；",
+      "使用双编码策略，将词汇与视觉图像（如警方的嫌疑人画像图）结合，以增强记忆持久性；",
+      "针对中文母语学习者，强调语境差异，避免将 'profiling' 与中文 '画像' 的负面含义混淆，通过重复暴露于多样语境中提升语义理解"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "characterization",
+        "similarity": "0.8",
+        "context": "在心理学或文学中，用于描述人物特征"
+      },
+      {
+        "word": "analysis",
+        "similarity": "0.7",
+        "context": "在技术领域，用于数据或性能评估"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "generalization",
+        "context": "泛化描述，与具体画像相对"
+      },
+      {
+        "word": "anonymization",
+        "context": "匿名化处理，与个人信息画像相反"
+      }
+    ],
+    "hypernyms": [
+      "analysis",
+      "assessment"
+    ],
+    "hyponyms": [
+      "racial profiling",
+      "behavioral profiling"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + profiling (e.g., racial profiling)",
+        "examples": [
+          "racial profiling",
+          "criminal profiling"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Profiling + verb (e.g., is used for)",
+        "examples": [
+          "Profiling is used in investigations"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，该词常与隐私权和人权议题相关联，例如美国社会中种族画像被视为潜在歧视行为，象征着社会不平等；在中国文化中，类似概念可能与大数据监控相关联，但隐含语义更注重实用性而非道德争议。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "More emphasis on social justice implications",
+        "usage": "常用于讨论执法和种族议题，如 'racial profiling' 在美国媒体中频繁出现"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "Focus on psychological or forensic applications",
+        "usage": "在英国，更常用于犯罪学语境中，以中性方式描述"
+      }
+    ],
+    "historicalContext": "该词与19世纪的犯罪学发展相关联，如弗洛伊德心理学影响下的个性分析；在美国民权运动中，它成为社会辩论的焦点。",
+    "modernUsage": "在社交媒体和数字时代，'profiling' 常用于算法推荐系统，但也引发隐私担忧，如欧盟GDPR法规下的限制。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个侦探在白板上绘制嫌疑人的轮廓图，同时电脑屏幕显示代码性能图表。",
+      "keyElements": [
+        "侦探",
+        "白板轮廓",
+        "电脑图表"
+      ],
+      "emotionalConnection": "联结个人经验，如观看侦探电影时的兴奋感，以触发情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Profiling 像 'profile' 的扩展版，想象 'profile' 照片在被分析放大。",
+        "explanation": "通过视觉联想将词汇与熟悉的图像连接，基于认知科学的双编码理论"
+      },
+      {
+        "type": "缩略",
+        "content": "P-R-O-F-I-L-E + ING = 画出 (Profile) 图像过程",
+        "explanation": "使用首字母缩写联想，结合重复练习以强化神经通路"
+      }
+    ],
+    "wordAssociations": [
+      "profile",
+      "analysis",
+      "investigation"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "null",
+      "pastTense": "null",
+      "pastParticiple": "null",
+      "presentParticiple": "profiling",
+      "comparative": "null",
+      "superlative": "null"
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + verb + profiling",
+        "description": "作为名词短语的主语或宾语",
+        "examples": [
+          "Profiling is effective in this case."
+        ]
+      },
+      {
+        "pattern": "Adjective + profiling",
+        "description": "用形容词修饰以指定类型",
+        "examples": [
+          "Racial profiling remains a concern."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'profiting'",
+        "correction": "Use 'profiling' for analysis, not 'profiting' which means gaining money.",
+        "explanation": "中文母语学习者可能因发音相似而混淆，需注意拼写和语境差异"
+      },
+      {
+        "mistake": "Incorrect verb form",
+        "correction": "Use as noun; for verb, ensure gerund context.",
+        "explanation": "避免将其当作常规动词使用，而忽略其主要名词功能"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked in the top 10,000 words in COCA corpus",
+    "domains": [
+      "technology",
+      "law enforcement",
+      "psychology",
+      "business"
+    ],
+    "tags": [
+      "data analysis",
+      "surveillance",
+      "ethics"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

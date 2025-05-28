@@ -1,0 +1,263 @@
+{
+  "word": "soup",
+  "phonetics": {
+    "british": "/suːp/",
+    "american": "/sup/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A liquid dish, typically made by boiling meat, fish, vegetables, or other ingredients with stock or water, often served hot or cold.",
+      "chineseTranslation": "汤；羹",
+      "level": "basic",
+      "frequency": "high",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To increase the power or performance of an engine or machine, often informally.",
+      "chineseTranslation": "提升（引擎或机器的性能）",
+      "level": "intermediate",
+      "frequency": "low",
+      "register": "informal"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A foggy or murky atmosphere, as in 'pea soup fog'.",
+      "chineseTranslation": "浓雾；烟雾",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "colloquial"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chicken soup",
+      "meaning": "鸡汤",
+      "example": "I always make chicken soup when someone in the family is sick.",
+      "exampleTranslation": "当家里有人生病时，我总是做鸡汤。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "soup kitchen",
+      "meaning": "施汤厨房或免费餐馆",
+      "example": "The charity runs a soup kitchen to feed the homeless during winter.",
+      "exampleTranslation": "这家慈善机构在冬天运营施汤厨房，为无家可归者提供食物。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "primordial soup",
+      "meaning": "原始汤（指地球早期生命起源的理论）",
+      "example": "Scientists theorize that life began in the primordial soup of ancient oceans.",
+      "exampleTranslation": "科学家们推测生命起源于古老海洋的原始汤。",
+      "frequency": "low"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She heated up a bowl of vegetable soup for lunch.",
+      "translation": "她热了一碗蔬菜汤作为午餐。",
+      "source": "Everyday conversation (e.g., from British National Corpus - BNC)",
+      "difficulty": "basic"
+    },
+    {
+      "sentence": "The mechanic decided to soup up the old car's engine for better performance.",
+      "translation": "机械师决定提升这辆旧车的引擎性能。",
+      "source": "Informal narrative (e.g., from Corpus of Contemporary American English - COCA)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The city was enveloped in a thick soup of pollution and fog.",
+      "translation": "这座城市被厚厚的污染和雾气笼罩。",
+      "source": "Literary work (e.g., modern novels)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Old French (from Late Latin suppa, meaning 'bread soaked in liquid')",
+    "rootWords": [
+      {
+        "root": "suppa",
+        "meaning": "Bread soaked in broth or liquid",
+        "language": "Late Latin"
+      },
+      {
+        "root": "soupe",
+        "meaning": "A type of broth or stew",
+        "language": "Old French"
+      }
+    ],
+    "historicalDevelopment": "The word evolved from Late Latin 'suppa' in the 17th century through Old French 'soupe', initially referring to bread soaked in liquid, and by the 18th century in English, it denoted a liquid dish, expanding metaphorically to contexts like fog or engine enhancement in the 20th century.",
+    "firstKnownUse": "1650s (in English, based on OED records)",
+    "relatedWords": [
+      "broth",
+      "stew",
+      "consommé"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "A2 (CEFR level, suitable for intermediate learners as it involves basic vocabulary with some idiomatic extensions)",
+    "pronunciationDifficulty": "3 (out of 10; simple vowel and consonant sounds, easy for Chinese learners to master with practice)",
+    "spellingDifficulty": "2 (out of 10; short and phonetic, with no complex clusters)",
+    "meaningComplexity": "4 (out of 10; primary meaning is straightforward, but metaphorical uses add slight complexity)",
+    "usageComplexity": "5 (out of 10; common in daily contexts but requires context for verb form)",
+    "learningTips": [
+      "利用认知科学中的双编码理论，将词汇与视觉图像结合，例如想象一个热腾腾的汤碗，以强化记忆；",
+      "通过间隔重复法（spaced repetition）复习词汇在不同语境中的用法；",
+      "针对中文母语者，强调英语中名词的单复数变化，以避免混淆"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "broth",
+        "similarity": "0.8",
+        "context": "适用于汤类菜肴的正式语境中"
+      },
+      {
+        "word": "stew",
+        "similarity": "0.7",
+        "context": "在描述炖菜或类似汤品的非正式场合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "solid",
+        "context": "在对比液体和固体食物的语境中"
+      },
+      {
+        "word": "dessert",
+        "context": "在餐食类别中，突出主菜与甜点的对立"
+      }
+    ],
+    "hypernyms": [
+      "dish",
+      "food"
+    ],
+    "hyponyms": [
+      "tomato soup",
+      "miso soup"
+    ],
+    "collocations": [
+      {
+        "pattern": "Noun + soup (e.g., vegetable soup)",
+        "examples": [
+          "chicken soup",
+          "cream of mushroom soup"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "Verb + soup (e.g., heat the soup)",
+        "examples": [
+          "make soup",
+          "eat soup"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在西方文化中，'soup' 象征温暖和安慰食物，常与家庭护理相关；在中文文化中，类似概念的汤品代表健康和传统中医，如鸡汤用于滋补。",
+    "regionalVariations": [
+      {
+        "region": "United Kingdom",
+        "variation": "More emphasis on traditional recipes like 'Scotch broth'",
+        "usage": "在英国英语中，常用于描述季节性菜肴，语境更正式"
+      },
+      {
+        "region": "United States",
+        "variation": "Informal uses like 'soup up' for engines",
+        "usage": "在美国英语中，词汇更灵活，融入流行文化，如罐头汤"
+      }
+    ],
+    "historicalContext": "汤品在工业革命时期的英国与美国成为工人阶级主食，文学如狄更斯的作品中出现，反映社会不平等；在中国历史中，与中医养生相关。",
+    "modernUsage": "在社交媒体上，'soup' 常用于健康趋势或快速餐食讨论，如TikTok上的食谱分享"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个温暖的厨房场景，一个冒着热气的汤碗放在桌子上，周围是新鲜蔬菜和勺子。",
+      "keyElements": [
+        "热气",
+        "碗",
+        "蔬菜"
+      ],
+      "emotionalConnection": "联结到个人经历，如童年时喝汤的温暖感觉，以触发积极情绪记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Soup sounds like 'super', so think of 'super soup' as a powerful, energizing food.",
+        "explanation": "通过声音联想强化词汇记忆，基于认知联想原理"
+      },
+      {
+        "type": "缩略",
+        "content": "S-O-U-P: Simple, Original, Useful, Powerful.",
+        "explanation": "使用首字母缩略词帮助构建结构化记忆路径"
+      }
+    ],
+    "wordAssociations": [
+      "broth",
+      "warm",
+      "bowl",
+      "meal"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "soups",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + Verb + soup",
+        "description": "作为名词的直接对象，例如在陈述句中",
+        "examples": [
+          "I ate soup for dinner."
+        ]
+      },
+      {
+        "pattern": "Adjective + soup",
+        "description": "用形容词修饰名词",
+        "examples": [
+          "Hot soup is ready."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'soup' as a verb without context",
+        "correction": "Ensure 'soup up' is used for mechanical contexts",
+        "explanation": "中文母语者可能混淆动词用法，需注意语境"
+      },
+      {
+        "mistake": "Confusing plural form",
+        "correction": "Always add 's' for plural",
+        "explanation": "英语名词复数规则不同于中文"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 2000 words in COCA corpus)",
+    "domains": [
+      "culinary",
+      "daily life",
+      "technical (e.g., automotive)"
+    ],
+    "tags": [
+      "food",
+      "liquid",
+      "metaphor"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "Oxford English Dictionary (OED)",
+      "Corpus of Contemporary American English (COCA)",
+      "British National Corpus (BNC)"
+    ]
+  }
+}

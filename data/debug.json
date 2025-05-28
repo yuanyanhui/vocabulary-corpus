@@ -1,0 +1,241 @@
+{
+  "word": "debug",
+  "phonetics": {
+    "british": "/diːˈbʌɡ/",
+    "american": "/diːˈbʌɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To identify and remove errors or bugs from a computer program or system.",
+      "chineseTranslation": "调试，排除故障",
+      "level": "intermediate",
+      "frequency": "high",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of identifying and removing errors from a computer program.",
+      "chineseTranslation": "调试过程",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "debug code",
+      "meaning": "调试代码",
+      "example": "The programmer had to debug code before releasing the software.",
+      "exampleTranslation": "程序员必须在发布软件前调试代码。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "debug a program",
+      "meaning": "调试程序",
+      "example": "It took hours to debug a program with multiple errors.",
+      "exampleTranslation": "调试一个有多个错误的程序花了几个小时。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software engineer used a debugger tool to debug the application.",
+      "translation": "软件工程师使用调试工具来调试应用程序。",
+      "source": "Technical manual",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "After debugging the system, the website ran smoothly without any crashes.",
+      "translation": "在调试系统后，网站顺利运行，没有任何崩溃。",
+      "source": "News article on technology",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "In a team meeting, we discussed how to debug the network issues efficiently.",
+      "translation": "在团队会议中，我们讨论了如何高效地调试网络问题。",
+      "source": "Corporate communication",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "English",
+    "rootWords": [
+      {
+        "root": "de-",
+        "meaning": "Removal or reversal",
+        "language": "Latin (from Latin 'de-' meaning 'from' or 'away')"
+      },
+      {
+        "root": "bug",
+        "meaning": "Insect or error",
+        "language": "English (from Middle English 'bugge' meaning insect, later metaphorical for defects)"
+      }
+    ],
+    "historicalDevelopment": "该词起源于20世纪40年代的计算机领域，早先指从早期计算机硬件中移除实际昆虫（如飞虫导致电路故障），逐渐演变为比喻性含义，即识别和修复软件错误。从字面意义到抽象概念的转变反映了技术语言的演化。",
+    "firstKnownUse": "1940s",
+    "relatedWords": [
+      "debugger",
+      "debugging",
+      "bug"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "3",
+    "meaningComplexity": "5",
+    "usageComplexity": "6",
+    "learningTips": [
+      "结合认知科学，将词汇与实际编程场景关联，使用重复练习和视觉辅助来强化记忆；例如，通过模拟调试过程来建立语境连接。",
+      "建议初级学习者从简单句子开始，逐步增加技术语境，以避免认知 overload。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "troubleshoot",
+        "similarity": "0.8",
+        "context": "适用于技术问题解决语境，例如软件故障排除"
+      },
+      {
+        "word": "fix",
+        "similarity": "0.7",
+        "context": "在非正式语境中用于一般修复，但不如 debug 精确"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "introduce bugs",
+        "context": "表示引入错误，与 debug 的修复方向相反，常用于软件开发讨论"
+      }
+    ],
+    "hypernyms": [
+      "repair"
+    ],
+    "hyponyms": [
+      "code debugging",
+      "software debugging"
+    ],
+    "collocations": [
+      {
+        "pattern": "debug + noun (e.g., code, program)",
+        "examples": [
+          "debug the code",
+          "debug the system"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "verb + debug (e.g., need to debug)",
+        "examples": [
+          "need to debug",
+          "start to debug"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "在科技文化中，该词象征问题解决和创新精神，尤其在软件工程领域，体现了对可靠性的追求。",
+    "regionalVariations": [
+      {
+        "region": "United States",
+        "variation": "更常用在日常科技对话中",
+        "usage": "在美国英语中，debug 常用于编程社区和教育语境，以强调实践性"
+      },
+      {
+        "region": "United Kingdom",
+        "variation": "与美国类似，但可能更偏向正式技术术语",
+        "usage": "在英国英语中，debug 在学术和技术写作中较为常见，强调精确性"
+      }
+    ],
+    "historicalContext": "该词与20世纪计算机革命相关，源自早期计算机的实际问题，如1940年代的硬件故障，与工业革命和数字时代的发展紧密相连。",
+    "modernUsage": "在现代社交媒体和在线社区中，debug 常用于讨论软件更新或故障修复，反映了数字化生活中的普遍性。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个程序员在电脑前捕捉并移除一个虚拟的昆虫，表示错误修复过程。",
+      "keyElements": [
+        "程序员",
+        "电脑",
+        "昆虫（bug）"
+      ],
+      "emotionalConnection": "联结个人经验，如曾经修复过的小故障，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'debug' 联想为 'de-' (去除) + 'bug' (虫子)，如去除代码中的虫子。",
+        "explanation": "通过视觉联想帮助建立长期记忆，避免混淆相似词汇"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 /diːˈbʌɡ/ 听起来像 'dee-bug'，联想为 'deal with bug'。",
+        "explanation": "利用声音相似性结合语义，帮助认知加工"
+      }
+    ],
+    "wordAssociations": [
+      "bug",
+      "code",
+      "fix"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "debugged",
+      "pastParticiple": "debugged",
+      "presentParticiple": "debugging",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + debug + object",
+        "description": "主语 + 调试 + 宾语的结构，常用于描述动作",
+        "examples": [
+          "We debug the software."
+        ]
+      },
+      {
+        "pattern": "debug + in + context",
+        "description": "调试 + 在 + 语境中，表示具体环境",
+        "examples": [
+          "Debug in a testing environment."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using 'debug' in non-technical contexts incorrectly",
+        "correction": "Reserve for computing; use 'fix' for general repairs",
+        "explanation": "学习者常将 debug 与日常修复混淆，导致语境不当"
+      },
+      {
+        "mistake": "Incorrect tense formation",
+        "correction": "Use 'debugged' for past tense",
+        "explanation": "作为规则动词，错误可能源于不熟悉常规变化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "High (ranked in top 10,000 in COCA corpus for technology domains)",
+    "domains": [
+      "Technology",
+      "Computing",
+      "Software Development"
+    ],
+    "tags": [
+      "Programming",
+      "Debugging",
+      "Technical"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}

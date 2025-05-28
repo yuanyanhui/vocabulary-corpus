@@ -1,0 +1,234 @@
+{
+  "word": "misinform",
+  "phonetics": {
+    "british": "/ˌmɪs.ɪnˈfɔːm/",
+    "american": "/ˌmɪs.ɪnˈfɔrm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to give someone wrong or inaccurate information, especially in a way that leads to a mistaken belief or understanding",
+      "chineseTranslation": "提供错误信息",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "misinform someone about something",
+      "meaning": "向某人提供关于某事的错误信息",
+      "example": "The report could misinform voters about the candidate's policies.",
+      "exampleTranslation": "这份报告可能向选民提供关于候选人政策的错误信息。",
+      "frequency": "medium"
+    },
+    {
+      "phrase": "misinform the public",
+      "meaning": "向公众提供错误信息",
+      "example": "Social media often misinform the public during health crises.",
+      "exampleTranslation": "社交媒体在健康危机期间经常向公众提供错误信息。",
+      "frequency": "high"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The outdated website misinformed customers about the product's availability.",
+      "translation": "过时的网站向客户提供了关于产品可用性的错误信息。",
+      "source": "Modern business contexts (e.g., from COCA corpus)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "Journalists must avoid misinforming the audience with unverified facts.",
+      "translation": "记者必须避免用未经证实的事实向观众提供错误信息。",
+      "source": "News articles (e.g., from BNC)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "It is unethical to misinform patients about the side effects of medication.",
+      "translation": "向患者提供药物副作用的错误信息是不道德的。",
+      "source": "Medical literature (e.g., from PubMed)",
+      "difficulty": "advanced"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "mis-",
+        "meaning": "wrong or badly",
+        "language": "Latin (from Old French)"
+      },
+      {
+        "root": "inform",
+        "meaning": "to give form or shape to, or to impart knowledge",
+        "language": "Latin (informare, from in- + formare)"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语的 'mis-'（表示错误或不当）和 'informare'（表示告知或塑造），通过古法语传入中古英语。最初用于表示错误地告知或误导，17世纪后在英语中演变为现代含义，强调信息的不准确性。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "misinformation",
+      "inform",
+      "mislead"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "4",
+    "spellingDifficulty": "5",
+    "meaningComplexity": "6",
+    "usageComplexity": "5",
+    "learningTips": [
+      "结合认知科学，建议使用分块记忆法（chunking）将 'mis-' 视为错误前缀，与 'inform' 关联；通过重复暴露（spaced repetition）练习在不同语境中应用，以增强语义记忆；为初级学习者，创建个人相关联想的视觉图像，如错误信息导致的迷路场景，以提升记忆持久性。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "mislead",
+        "similarity": "0.8",
+        "context": "适用于误导他人的情况，如在商业或政治语境中"
+      },
+      {
+        "word": "deceive",
+        "similarity": "0.7",
+        "context": "强调故意欺骗的语境，如个人关系中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inform",
+        "context": "适用于提供准确信息的正式语境，如教育或新闻中"
+      },
+      {
+        "word": "enlighten",
+        "context": "适用于增进知识的积极语境，如学术讨论中"
+      }
+    ],
+    "hypernyms": [
+      "deceive"
+    ],
+    "hyponyms": [
+      "spread misinformation"
+    ],
+    "collocations": [
+      {
+        "pattern": "misinform + noun (e.g., the public)",
+        "examples": [
+          "misinform the public",
+          "misinform customers"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "misinform someone about something",
+        "examples": [
+          "misinform voters about policies"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在现代文化中象征信息时代的问题，如假新闻和传播错误信息的风险，体现了后真相时代（post-truth era）的社会隐忧。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "更常用于媒体和政治语境中",
+        "usage": "在美国英语中，常与社交媒体相关联，如 'fake news can misinform the electorate'，强调民主进程中的影响"
+      },
+      {
+        "region": "英国",
+        "variation": "语义上更中性，少强调故意性",
+        "usage": "在英国英语中，可能出现在正式报告中，如 'The document may misinform readers on historical facts'，与历史或学术语境相关"
+      }
+    ],
+    "historicalContext": "与启蒙运动和信息传播的历史相关，在19世纪的工业革命期间，词语开始用于批评媒体误导，反映了社会对知识准确性的追求。",
+    "modernUsage": "在当代社交媒体和数字时代中流行，用于讨论假信息问题，如Twitter或Facebook上的争论，体现了跨文化对真相的共同关切。"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个场景：一个人拿着一个扭曲的路标，指向错误的方向，这代表 'misinform' 的错误信息传递。",
+      "keyElements": [
+        "扭曲的路标",
+        "错误的方向",
+        "困惑的人"
+      ],
+      "emotionalConnection": "联结个人经历，如曾经被假新闻误导的挫败感，以触发情绪记忆增强词汇保留。"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "将 'mis-' 联想为 'miss'（错过），加上 'inform'，想象 '错过的信息'。",
+        "explanation": "通过视觉联想帮助记忆，基于认知科学中的双编码理论（dual coding），结合图像和词汇。"
+      },
+      {
+        "type": "声音联觉",
+        "content": "发音 '/ˌmɪs.ɪnˈfɔːm/' 听起来像 'miss in form'，表示信息形式出错。",
+        "explanation": "利用声音相似性创建记忆钩子，促进听觉和语义加工。"
+      }
+    ],
+    "wordAssociations": [
+      "mislead",
+      "falsehood",
+      "deception"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "misinformed",
+      "pastParticiple": "misinformed",
+      "presentParticiple": "misinforming",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + misinform + object + about + noun",
+        "description": "主语 + 动词 + 宾语 + about + 名词结构，常用于指定错误信息的主题。",
+        "examples": [
+          "The article misinformed readers about the facts."
+        ]
+      },
+      {
+        "pattern": "It is + adjective + to misinform + object",
+        "description": "用于表达道德或伦理判断的句法。",
+        "examples": [
+          "It is unethical to misinform patients."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'inform' without the prefix",
+        "correction": "Use 'misinform' for inaccurate information",
+        "explanation": "学习者常忽略前缀 'mis-' 的负面含义，导致语义错误；建议通过对比练习避免。"
+      },
+      {
+        "mistake": "Incorrect tense usage, e.g., 'misinforming' instead of 'misinformed'",
+        "correction": "Match tense to context",
+        "explanation": "在时间语境中选择适当形式，以符合英语时态系统。"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 5000 in COCA corpus",
+    "domains": [
+      "media",
+      "education",
+      "politics"
+    ],
+    "tags": [
+      "communication",
+      "error",
+      "deception"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

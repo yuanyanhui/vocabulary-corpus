@@ -1,0 +1,232 @@
+{
+  "word": "discriminant",
+  "phonetics": {
+    "british": "/dɪˈskrɪmɪnənt/",
+    "american": "/dɪˈskrɪmənənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A value calculated from the coefficients of a polynomial equation, particularly a quadratic equation of the form ax² + bx + c = 0, where it is expressed as b² - 4ac, used to determine the nature of the roots (real, repeated, or complex).",
+      "chineseTranslation": "判别式",
+      "level": "advanced",
+      "frequency": "medium",
+      "register": "technical"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics and discriminant analysis, a function or measure that separates two or more groups based on a set of variables.",
+      "chineseTranslation": "区分函数",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "discriminant of a quadratic equation",
+      "meaning": "二次方程的判别式",
+      "example": "The discriminant of a quadratic equation must be positive for the roots to be real and distinct.",
+      "exampleTranslation": "二次方程的判别式必须为正数，方程的根才是实数且互异。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "linear discriminant analysis",
+      "meaning": "线性判别分析",
+      "example": "Linear discriminant analysis is a method used in machine learning to classify data points.",
+      "exampleTranslation": "线性判别分析是一种用于分类数据点的机器学习方法。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the discriminant helps us understand whether a quadratic equation has two real solutions or none.",
+      "translation": "在数学中，判别式帮助我们了解二次方程是否有两个实数解或无解。",
+      "source": "Educational textbook (e.g., from algebra resources)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The statistician used discriminant analysis to differentiate between the two population groups based on their characteristics.",
+      "translation": "统计学家使用判别分析来根据特征区分两个种群。",
+      "source": "Academic paper (e.g., from statistical journals)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "For the equation x² + 2x + 1 = 0, the discriminant is zero, indicating a repeated root.",
+      "translation": "对于方程 x² + 2x + 1 = 0，判别式为零，表示有一个重根。",
+      "source": "Online math tutorial",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "discrimin-",
+        "meaning": "to distinguish or separate",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'discriminare'，意为区分或辨别。该词通过古法语 'discriminant' 传入中古英语，主要在17世纪的数学语境中演变为现代意义，用于表示方程根的性质。",
+    "firstKnownUse": "17th century",
+    "relatedWords": [
+      "discriminate",
+      "discrimination"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "C1",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "6",
+    "meaningComplexity": "7",
+    "usageComplexity": "8",
+    "learningTips": [
+      "结合认知科学，将判别式与实际问题联系，如用视觉化图表记忆二次方程的根部情况；利用间隔重复法复习数学公式以强化长期记忆；对于中文母语学习者，建议通过类比汉字 '判别' 来建立语义桥接。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "delta",
+        "similarity": "0.8",
+        "context": "在数学中，尤其指二次方程的判别式，常用于代数计算"
+      },
+      {
+        "word": "separator",
+        "similarity": "0.6",
+        "context": "在统计学中，用于描述区分组别的函数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indiscriminant",
+        "context": "表示不加区分的，通常在非技术语境中，如 'indiscriminate actions' 意为不加选择的行动"
+      }
+    ],
+    "hypernyms": [
+      "function",
+      "value"
+    ],
+    "hyponyms": [
+      "quadratic discriminant"
+    ],
+    "collocations": [
+      {
+        "pattern": "discriminant of [equation type]",
+        "examples": [
+          "discriminant of a quadratic equation"
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "[adjective] discriminant",
+        "examples": [
+          "positive discriminant"
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方教育文化中象征数学和科学严谨性，主要用于学术和教育语境中，没有显著的隐含社会隐喻。",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在美式英语中，更常用于统计学和机器学习领域。",
+        "usage": "在美国教育系统中，常在高中及大学数学课程中教授"
+      },
+      {
+        "region": "英国",
+        "variation": "在英式英语中，强调其在纯数学历史中的发展。",
+        "usage": "英国的数学教材中，可能更注重其拉丁语根源和历史演变"
+      }
+    ],
+    "historicalContext": "与17世纪欧洲数学革命相关，如笛卡尔和牛顿的作品，推动了代数分析的发展。",
+    "modernUsage": "在现代社交和数字媒体中，常见于在线教育平台和科技讨论，如YouTube教程或AI算法解释"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个十字路口（discriminant）决定道路（roots）是真实（real）还是虚幻（complex），用图表显示b² - 4ac。",
+      "keyElements": [
+        "十字路口",
+        "道路",
+        "图表"
+      ],
+      "emotionalConnection": "联结到个人经历，如考试中的决策时刻，触发成就感以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Discriminant = Decide Root's Nature",
+        "explanation": "通过联想 'discriminant' 与 'decide'，帮助记忆其区分根部的功能"
+      },
+      {
+        "type": "缩略",
+        "content": "D = B² - 4AC",
+        "explanation": "使用公式缩略形式，结合视觉记忆法以避免混淆"
+      }
+    ],
+    "wordAssociations": [
+      "equation",
+      "roots",
+      "algebra"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": "discriminants",
+      "pastTense": null,
+      "pastParticiple": null,
+      "presentParticiple": null,
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "The [discriminant] of [noun phrase]",
+        "description": "该结构用于描述判别式的具体应用，例如在方程中。",
+        "examples": [
+          "The discriminant of the equation is positive."
+        ]
+      },
+      {
+        "pattern": "[Verb] using [discriminant]",
+        "description": "用于表示通过判别式进行分析。",
+        "examples": [
+          "Analyze using discriminant analysis."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing discriminant with discriminate",
+        "correction": "Use 'discriminant' for the mathematical term",
+        "explanation": "中文学习者常混淆音似词，确保在技术语境中使用正确词汇"
+      },
+      {
+        "mistake": "Incorrect calculation in formulas",
+        "correction": "Always use b² - 4ac for quadratics",
+        "explanation": "由于公式记忆错误，建议通过练习强化"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Ranked around 15,000 in COCA corpus",
+    "domains": [
+      "科技",
+      "教育",
+      "商业"
+    ],
+    "tags": [
+      "数学",
+      "统计学",
+      "分析"
+    ],
+    "lastUpdated": "2023-10",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "BNC (British National Corpus)"
+    ]
+  }
+}

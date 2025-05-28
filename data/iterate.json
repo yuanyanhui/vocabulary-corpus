@@ -1,0 +1,237 @@
+{
+  "word": "iterate",
+  "phonetics": {
+    "british": "/ˈɪtəreɪt/",
+    "american": "/ˈɪtəˌreɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to perform or utter repeatedly; to repeat a process or statement, often in a systematic way, especially in computing or mathematics",
+      "chineseTranslation": "迭代；重复",
+      "level": "intermediate",
+      "frequency": "medium",
+      "register": "neutral"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a repetition of a process or utterance",
+      "chineseTranslation": "迭代过程",
+      "level": "advanced",
+      "frequency": "low",
+      "register": "technical"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "iterate through",
+      "meaning": "遍历或依次处理",
+      "example": "The loop will iterate through the array elements.",
+      "exampleTranslation": "循环将遍历数组元素。",
+      "frequency": "high"
+    },
+    {
+      "phrase": "iterate over",
+      "meaning": "在...上迭代",
+      "example": "You need to iterate over the list to find the maximum value.",
+      "exampleTranslation": "你需要遍历列表来找到最大值。",
+      "frequency": "medium"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In programming, we often iterate a function to achieve optimization.",
+      "translation": "在编程中，我们经常迭代函数来实现优化。",
+      "source": "Technical documentation (e.g., from software engineering texts)",
+      "difficulty": "intermediate"
+    },
+    {
+      "sentence": "The scientist decided to iterate the experiment multiple times for accurate results.",
+      "translation": "科学家决定多次迭代实验以获得准确结果。",
+      "source": "Scientific literature (e.g., academic papers)",
+      "difficulty": "advanced"
+    },
+    {
+      "sentence": "During the meeting, she iterated her points to emphasize their importance.",
+      "translation": "在会议中，她重复她的观点以强调其重要性。",
+      "source": "Business communication (e.g., from corporate reports)",
+      "difficulty": "intermediate"
+    }
+  ],
+  "etymology": {
+    "origin": "Latin",
+    "rootWords": [
+      {
+        "root": "iterare",
+        "meaning": "to repeat",
+        "language": "Latin"
+      }
+    ],
+    "historicalDevelopment": "源自拉丁语 'iterare'，意为重复或再做一次。该词在15世纪传入英语，最初用于一般重复概念，后来在17世纪发展为数学和科学语境中的系统重复过程，尤其在现代计算机科学中演变为表示循环或迭代算法。",
+    "firstKnownUse": "15th century",
+    "relatedWords": [
+      "iteration",
+      "iterative",
+      "reiterate"
+    ]
+  },
+  "difficultyAnalysis": {
+    "overallLevel": "B2",
+    "pronunciationDifficulty": "5",
+    "spellingDifficulty": "4",
+    "meaningComplexity": "6",
+    "usageComplexity": "7",
+    "learningTips": [
+      "结合认知科学，建议使用分块学习法（chunking）将 'iterate' 与循环概念关联；通过视觉图像如齿轮转动来强化记忆，避免混淆相似词汇；定期复习以利用间隔重复效应（spaced repetition）。"
+    ]
+  },
+  "semanticRelations": {
+    "synonyms": [
+      {
+        "word": "repeat",
+        "similarity": "0.8",
+        "context": "在重复动作或过程的语境中，例如日常对话或技术说明"
+      },
+      {
+        "word": "reiterate",
+        "similarity": "0.9",
+        "context": "强调重复强调的语境中，尤见于正式演讲"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cease",
+        "context": "停止或终结过程的语境中"
+      },
+      {
+        "word": "halt",
+        "context": "中断重复的语境中"
+      }
+    ],
+    "hypernyms": [
+      "repeat"
+    ],
+    "hyponyms": [
+      "loop",
+      "recursion"
+    ],
+    "collocations": [
+      {
+        "pattern": "iterate through",
+        "examples": [
+          "Iterate through the data set."
+        ],
+        "strength": "strong"
+      },
+      {
+        "pattern": "iterate over",
+        "examples": [
+          "Iterate over the elements."
+        ],
+        "strength": "medium"
+      }
+    ]
+  },
+  "culturalContext": {
+    "culturalSignificance": "该词在西方文化中象征效率和优化，尤其在科技和创新领域，隐含语义为持续改进，如软件开发中的敏捷方法，体现出现代社会对动态过程的重视",
+    "regionalVariations": [
+      {
+        "region": "美国",
+        "variation": "在科技语境中更常见，常用于编程和商业",
+        "usage": "例如，在硅谷文化中，'iterate' 强调快速原型和迭代设计"
+      },
+      {
+        "region": "英国",
+        "variation": "更倾向于正式或学术用法，较少口语化",
+        "usage": "在英国英语中，可能与数学历史关联更紧密"
+      }
+    ],
+    "historicalContext": "与文艺复兴时期科学革命相关，源自欧洲数学传统，如牛顿的迭代方法，在当代与工业革命和数字时代相连",
+    "modernUsage": "在社交媒体和在线教育中流行，用于描述个人成长或产品开发，如TikTok上的内容创作者迭代视频策略"
+  },
+  "memoryAids": {
+    "visualScene": {
+      "description": "想象一个不断转动的齿轮系统，每转一圈就重复一个动作",
+      "keyElements": [
+        "齿轮",
+        "循环",
+        "重复动作"
+      ],
+      "emotionalConnection": "联结到个人日常习惯，如每天晨跑，触发积极情绪以增强记忆"
+    },
+    "mnemonicDevices": [
+      {
+        "type": "联想",
+        "content": "Iterate 听起来像 'eat a rate'，想象快速吃东西的重复动作",
+        "explanation": "通过声音联觉和视觉联想，帮助建立长时记忆，避免遗忘"
+      },
+      {
+        "type": "缩略",
+        "content": "I-T-E-R-A-T-E：I for 'iterate', T for 'turn' (转动)",
+        "explanation": "使用首字母缩略结合故事法，强化词汇与概念的关联"
+      }
+    ],
+    "wordAssociations": [
+      "loop",
+      "cycle",
+      "repeat"
+    ]
+  },
+  "grammaticalInfo": {
+    "irregularForms": {
+      "plural": null,
+      "pastTense": "iterated",
+      "pastParticiple": "iterated",
+      "presentParticiple": "iterating",
+      "comparative": null,
+      "superlative": null
+    },
+    "syntacticPatterns": [
+      {
+        "pattern": "Subject + iterate + object",
+        "description": "主语 + 动词 + 宾语结构，常用于描述过程",
+        "examples": [
+          "The algorithm iterates the steps."
+        ]
+      },
+      {
+        "pattern": "Iterate + preposition + object",
+        "description": "动词 + 介词 + 宾语结构，如 'through' 或 'over'",
+        "examples": [
+          "Iterate through the files."
+        ]
+      }
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Confusing with 'reiterate' in informal contexts",
+        "correction": "Use 'iterate' for general repetition and 'reiterate' for emphasis",
+        "explanation": "中文学习者常混淆二者，因为两者均译为 '重复'，需注意语境差异"
+      },
+      {
+        "mistake": "Incorrectly using as a noun without article",
+        "correction": "Add appropriate article if used as noun, e.g., 'an iterate'",
+        "explanation": "作为名词时需正确搭配冠词，以符合英语语法规则"
+      }
+    ]
+  },
+  "metadata": {
+    "frequency": "Medium (ranked around 5000 in COCA corpus)",
+    "domains": [
+      "Computing",
+      "Mathematics",
+      "Business"
+    ],
+    "tags": [
+      "Technical",
+      "Process",
+      "Repetition"
+    ],
+    "lastUpdated": "2023-12",
+    "sources": [
+      "OED (Oxford English Dictionary)",
+      "COCA (Corpus of Contemporary American English)",
+      "Merriam-Webster Dictionary"
+    ]
+  }
+}
