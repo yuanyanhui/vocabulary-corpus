@@ -20,38 +20,6 @@
 - **文化语境**: 地域差异、历史背景、现代用法
 - **记忆辅助**: 视觉场景、助记设备、词汇联想
 
-## 🚀 快速开始
-
-### 环境要求
-
-- Node.js 18+
-- TypeScript 支持
-- OpenAI API 密钥 (支持 X.AI Grok 模型)
-
-### 安装依赖
-
-```bash
-pnpm install
-```
-
-### 环境配置
-
-创建 `.env` 文件并配置 API 密钥：
-
-```env
-OPENAI_API_KEY=your_api_key_here
-```
-
-### 词汇列表
-
-`word.txt`
-
-### 运行程序
-
-```bash
-ts-node ./index.ts
-```
-
 ## 📁 项目结构
 
 ```
@@ -131,14 +99,6 @@ ts-node ./index.ts
 - 词汇难度分析
 - 跨文化语言研究
 
-## 🔧 技术栈
-
-- **运行时**: Node.js + TypeScript
-- **AI 模型**: X.AI Grok-3、Grok-3-mini、Grok-3-mini-fast
-- **API 客户端**: OpenAI SDK
-- **配置管理**: dotenv
-- **包管理**: pnpm
-
 ## 📈 数据质量
 
 ### 数据来源
@@ -152,43 +112,6 @@ ts-node ./index.ts
 - 历史准确的词源信息
 - 基于学习理论的难度分析
 
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-### 开发流程
-
-1. Fork 本仓库
-2. 创建功能分支
-3. 提交更改
-4. 发起 Pull Request
-
-### 代码规范
-
-- 使用 TypeScript
-- 遵循 ESLint 规则
-- 添加适当的注释
-- 编写测试用例
-
 ## 📄 许可证
 
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
-
-## 🙏 致谢
-
-- OpenAI 提供的强大 API 支持
-- X.AI 的 Grok 模型
-- 语言学和认知科学研究社区
-- 开源社区的贡献者们
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 提交 GitHub Issue
-- 发送邮件至项目维护者
-- 参与项目讨论
-
----
-
-⭐ 如果这个项目对您有帮助，请给我们一个 Star！
