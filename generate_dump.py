@@ -14,9 +14,9 @@ def get_table_definitions():
 DROP TABLE IF EXISTS examples;
 DROP TABLE IF EXISTS phrases;
 DROP TABLE IF EXISTS definitions;
-DROP TABLE IF EXISTS words;
+DROP TABLE IF EXISTS headwords;
 
-CREATE TABLE words (
+CREATE TABLE headwords (
     id INTEGER PRIMARY KEY,
     word VARCHAR(255) UNIQUE NOT NULL,
     british_phonetics VARCHAR(255),
@@ -32,7 +32,7 @@ CREATE TABLE words (
 
 CREATE TABLE definitions (
     id SERIAL PRIMARY KEY,
-    word_id INTEGER REFERENCES words(id) ON DELETE CASCADE,
+    headword_id INTEGER REFERENCES headwords(id) ON DELETE CASCADE,
     part_of_speech VARCHAR(255),
     definition TEXT,
     chinese_translation TEXT,
@@ -43,7 +43,7 @@ CREATE TABLE definitions (
 
 CREATE TABLE phrases (
     id SERIAL PRIMARY KEY,
-    word_id INTEGER REFERENCES words(id) ON DELETE CASCADE,
+    headword_id INTEGER REFERENCES headwords(id) ON DELETE CASCADE,
     phrase TEXT,
     meaning TEXT,
     example TEXT,
@@ -53,7 +53,7 @@ CREATE TABLE phrases (
 
 CREATE TABLE examples (
     id SERIAL PRIMARY KEY,
-    word_id INTEGER REFERENCES words(id) ON DELETE CASCADE,
+    headword_id INTEGER REFERENCES headwords(id) ON DELETE CASCADE,
     sentence TEXT,
     translation TEXT,
     source VARCHAR(255),
@@ -95,7 +95,7 @@ def main():
     f = open_new_file()
 
     # Process each JSON file
-    for word_id, json_file in enumerate(json_files, 1):
+    for headword_id, json_file in enumerate(json_files, 1):
         with open(json_file, 'r', encoding='utf-8') as jf:
             try:
                 data = json.load(jf)
@@ -104,7 +104,7 @@ def main():
                 continue
 
             lines = []
-            # Insert into words table
+            # Insert into headwords table
             word_data = {
                 'word': escape_sql_string(data.get('word')),
                 'british_phonetics': escape_sql_string(data.get('phonetics', {}).get('british')),
@@ -117,7 +117,7 @@ def main():
                 'grammatical_info': escape_sql_string(json.dumps(data.get('grammaticalInfo'), ensure_ascii=False)),
                 'metadata': escape_sql_string(json.dumps(data.get('metadata'), ensure_ascii=False))
             }
-            lines.append(f"INSERT INTO words (id, word, british_phonetics, american_phonetics, etymology, difficulty_analysis, semantic_relations, cultural_context, memory_aids, grammatical_info, metadata) VALUES ({word_id}, {word_data['word']}, {word_data['british_phonetics']}, {word_data['american_phonetics']}, {word_data['etymology']}, {word_data['difficulty_analysis']}, {word_data['semantic_relations']}, {word_data['cultural_context']}, {word_data['memory_aids']}, {word_data['grammatical_info']}, {word_data['metadata']});\n")
+            lines.append(f"INSERT INTO headwords (id, word, british_phonetics, american_phonetics, etymology, difficulty_analysis, semantic_relations, cultural_context, memory_aids, grammatical_info, metadata) VALUES ({headword_id}, {word_data['word']}, {word_data['british_phonetics']}, {word_data['american_phonetics']}, {word_data['etymology']}, {word_data['difficulty_analysis']}, {word_data['semantic_relations']}, {word_data['cultural_context']}, {word_data['memory_aids']}, {word_data['grammatical_info']}, {word_data['metadata']});\n")
 
             # Insert into definitions table
             if data.get('definitions'):
@@ -130,7 +130,7 @@ def main():
                         'frequency': escape_sql_string(definition.get('frequency')),
                         'register': escape_sql_string(definition.get('register'))
                     }
-                    lines.append(f"INSERT INTO definitions (word_id, part_of_speech, definition, chinese_translation, level, frequency, register) VALUES ({word_id}, {def_data['part_of_speech']}, {def_data['definition']}, {def_data['chinese_translation']}, {def_data['level']}, {def_data['frequency']}, {def_data['register']});\n")
+                    lines.append(f"INSERT INTO definitions (headword_id, part_of_speech, definition, chinese_translation, level, frequency, register) VALUES ({headword_id}, {def_data['part_of_speech']}, {def_data['definition']}, {def_data['chinese_translation']}, {def_data['level']}, {def_data['frequency']}, {def_data['register']});\n")
 
             # Insert into phrases table
             if data.get('phrases'):
@@ -142,7 +142,7 @@ def main():
                         'example_translation': escape_sql_string(phrase.get('exampleTranslation')),
                         'frequency': escape_sql_string(phrase.get('frequency'))
                     }
-                    lines.append(f"INSERT INTO phrases (word_id, phrase, meaning, example, example_translation, frequency) VALUES ({word_id}, {phrase_data['phrase']}, {phrase_data['meaning']}, {phrase_data['example']}, {phrase_data['example_translation']}, {phrase_data['frequency']});\n")
+                    lines.append(f"INSERT INTO phrases (headword_id, phrase, meaning, example, example_translation, frequency) VALUES ({headword_id}, {phrase_data['phrase']}, {phrase_data['meaning']}, {phrase_data['example']}, {phrase_data['example_translation']}, {phrase_data['frequency']});\n")
 
             # Insert into examples table
             if data.get('examples'):
@@ -153,12 +153,12 @@ def main():
                         'source': escape_sql_string(example.get('source')),
                         'difficulty': escape_sql_string(example.get('difficulty'))
                     }
-                    lines.append(f"INSERT INTO examples (word_id, sentence, translation, source, difficulty) VALUES ({word_id}, {example_data['sentence']}, {example_data['translation']}, {example_data['source']}, {example_data['difficulty']});\n")
+                    lines.append(f"INSERT INTO examples (headword_id, sentence, translation, source, difficulty) VALUES ({headword_id}, {example_data['sentence']}, {example_data['translation']}, {example_data['source']}, {example_data['difficulty']});\n")
 
             block = "".join(lines)
             block_size = len(block.encode('utf-8'))
 
-            if current_size + block_size > max_file_size and word_id > 1:
+            if current_size + block_size > max_file_size and headword_id > 1:
                 f = open_new_file()
 
             f.write(block)
