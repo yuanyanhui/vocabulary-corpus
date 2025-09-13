@@ -51,17 +51,9 @@ def main():
                 # Insert into headwords table
                 word_data = {
                     'word': escape_sql_string(data.get('word')),
-                    'british_phonetics': escape_sql_string(data.get('phonetics', {}).get('british')),
                     'american_phonetics': escape_sql_string(data.get('phonetics', {}).get('american')),
-                    'etymology': escape_sql_string(json.dumps(data.get('etymology'), ensure_ascii=False)),
-                    'difficulty_analysis': escape_sql_string(json.dumps(data.get('difficultyAnalysis'), ensure_ascii=False)),
-                    'semantic_relations': escape_sql_string(json.dumps(data.get('semanticRelations'), ensure_ascii=False)),
-                    'cultural_context': escape_sql_string(json.dumps(data.get('culturalContext'), ensure_ascii=False)),
-                    'memory_aids': escape_sql_string(json.dumps(data.get('memoryAids'), ensure_ascii=False)),
-                    'grammatical_info': escape_sql_string(json.dumps(data.get('grammaticalInfo'), ensure_ascii=False)),
-                    'metadata': escape_sql_string(json.dumps(data.get('metadata'), ensure_ascii=False))
                 }
-                f.write(f"INSERT INTO headwords (id, word, british_phonetics, american_phonetics, etymology, difficulty_analysis, semantic_relations, cultural_context, memory_aids, grammatical_info, metadata) VALUES ({headword_id}, {word_data['word']}, {word_data['british_phonetics']}, {word_data['american_phonetics']}, {word_data['etymology']}, {word_data['difficulty_analysis']}, {word_data['semantic_relations']}, {word_data['cultural_context']}, {word_data['memory_aids']}, {word_data['grammatical_info']}, {word_data['metadata']});\n")
+                f.write(f"INSERT INTO headwords (id, word, american_phonetics) VALUES ({headword_id}, {word_data['word']}, {word_data['american_phonetics']});\n")
 
                 # Insert into definitions table
                 if data.get('definitions'):
@@ -70,34 +62,8 @@ def main():
                             'part_of_speech': escape_sql_string(definition.get('partOfSpeech')),
                             'definition': escape_sql_string(definition.get('definition')),
                             'chinese_translation': escape_sql_string(definition.get('chineseTranslation')),
-                            'level': escape_sql_string(definition.get('level')),
-                            'frequency': escape_sql_string(definition.get('frequency')),
-                            'register': escape_sql_string(definition.get('register'))
                         }
-                        f.write(f"INSERT INTO definitions (headword_id, part_of_speech, definition, chinese_translation, level, frequency, register) VALUES ({headword_id}, {def_data['part_of_speech']}, {def_data['definition']}, {def_data['chinese_translation']}, {def_data['level']}, {def_data['frequency']}, {def_data['register']});\n")
-
-                # Insert into phrases table
-                if data.get('phrases'):
-                    for phrase in data['phrases']:
-                        phrase_data = {
-                            'phrase': escape_sql_string(phrase.get('phrase')),
-                            'meaning': escape_sql_string(phrase.get('meaning')),
-                            'example': escape_sql_string(phrase.get('example')),
-                            'example_translation': escape_sql_string(phrase.get('exampleTranslation')),
-                            'frequency': escape_sql_string(phrase.get('frequency'))
-                        }
-                        f.write(f"INSERT INTO phrases (headword_id, phrase, meaning, example, example_translation, frequency) VALUES ({headword_id}, {phrase_data['phrase']}, {phrase_data['meaning']}, {phrase_data['example']}, {phrase_data['example_translation']}, {phrase_data['frequency']});\n")
-
-                # Insert into examples table
-                if data.get('examples'):
-                    for example in data['examples']:
-                        example_data = {
-                            'sentence': escape_sql_string(example.get('sentence')),
-                            'translation': escape_sql_string(example.get('translation')),
-                            'source': escape_sql_string(example.get('source')),
-                            'difficulty': escape_sql_string(example.get('difficulty'))
-                        }
-                        f.write(f"INSERT INTO examples (headword_id, sentence, translation, source, difficulty) VALUES ({headword_id}, {example_data['sentence']}, {example_data['translation']}, {example_data['source']}, {example_data['difficulty']});\n")
+                        f.write(f"INSERT INTO definitions (headword_id, part_of_speech, definition, chinese_translation) VALUES ({headword_id}, {def_data['part_of_speech']}, {def_data['definition']}, {def_data['chinese_translation']});\n")
 
 if __name__ == "__main__":
     main()
