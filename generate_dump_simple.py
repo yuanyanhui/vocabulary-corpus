@@ -17,7 +17,7 @@ DROP TABLE IF EXISTS headwords;
 CREATE TABLE headwords (
     id INTEGER PRIMARY KEY,
     word VARCHAR(255) UNIQUE NOT NULL,
-    american_phonetics VARCHAR(255),
+    american_phonetics VARCHAR(255)
 );
 
 CREATE TABLE definitions (
@@ -25,7 +25,7 @@ CREATE TABLE definitions (
     headword_id INTEGER REFERENCES headwords(id) ON DELETE CASCADE,
     part_of_speech VARCHAR(255),
     definition TEXT,
-    chinese_translation TEXT,
+    chinese_translation TEXT
 );
 \n\n"""
 
