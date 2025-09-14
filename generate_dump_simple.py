@@ -89,7 +89,7 @@ def main():
                     'american_phonetics': escape_sql_string(data.get('phonetics', {}).get('american')),
                     'british_phonetics': escape_sql_string(data.get('phonetics', {}).get('british')),
                 }
-                f.write(f"INSERT INTO headwords (id, word, american_phonetics) VALUES ({headword_id}, {word_data['word']}, {word_data['american_phonetics']}, {word_data['british_phonetics']});\n")
+                f.write(f"INSERT INTO headwords (id, word, american_phonetics, british_phonetics) VALUES ({headword_id}, {word_data['word']}, {word_data['american_phonetics']}, {word_data['british_phonetics']});\n")
 
                 # Insert into definitions table
                 if data.get('definitions'):
