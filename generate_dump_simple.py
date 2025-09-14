@@ -11,14 +11,37 @@ def escape_sql_string(value):
 
 def get_table_definitions():
     return """
+DROP TABLE IF EXISTS vocabularies;
 DROP TABLE IF EXISTS definitions;
 DROP TABLE IF EXISTS headwords;
+DROP TABLE IF EXISTS headword_vocabularies;
+DROP INDEX IF EXISTS idx_headword_vocabularies_headword_id;
+DROP INDEX IF EXISTS idx_headword_vocabularies_vocabulary_id;
+
+CREATE TABLE vocabularies (
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    description VARCHAR(255)
+);
 
 CREATE TABLE headwords (
-    id INTEGER PRIMARY KEY,
+    id SERIAL PRIMARY KEY,
     word VARCHAR(255) UNIQUE NOT NULL,
-    american_phonetics VARCHAR(255)
+    american_phonetics VARCHAR(255),
+    british_phonetics VARCHAR(255)
 );
+
+CREATE TABLE headword_vocabularies (
+    id INTEGER PRIMARY KEY,
+    headword_id INTEGER NOT NULL,
+    vocabulary_id INTEGER NOT NULL,
+    FOREIGN KEY (headword_id) REFERENCES headwords(id) ON DELETE CASCADE,
+    FOREIGN KEY (vocabulary_id) REFERENCES vocabularies(id) ON DELETE CASCADE,
+    UNIQUE(headword_id, vocabulary_id)  -- Prevents duplicate relationships
+);
+
+CREATE INDEX idx_headword_vocabularies_headword_id ON headword_vocabularies(headword_id);
+CREATE INDEX idx_headword_vocabularies_vocabulary_id ON headword_vocabularies(vocabulary_id);
 
 CREATE TABLE definitions (
     id SERIAL PRIMARY KEY,
@@ -39,6 +62,18 @@ def main():
         f.write("--\n-- PostgreSQL database dump\n--\n\n")
         f.write(get_table_definitions())
 
+        # populate vocabularies table
+        f.write('''INSERT INTO vocabularies (id, name, description) VALUES
+                (1, 'high_school', 'high school'),
+                (2, 'cet6', 'CET6'),
+                (3, 'middle_school', 'middle school'),
+                (4, 'toefl', 'TOEFL'),
+                (5, 'grad_entrance', 'graduate entrance exam'),
+                (6, 'sat', 'SAT'),
+                (7, 'cet4', 'CET4'),
+                (8, 'middle_school_1600', 'middle school 1600');\n'''
+        )
+
         # Process each JSON file
         for headword_id, json_file in enumerate(json_files, 1):
             with open(json_file, 'r', encoding='utf-8') as jf:
@@ -52,8 +87,9 @@ def main():
                 word_data = {
                     'word': escape_sql_string(data.get('word')),
                     'american_phonetics': escape_sql_string(data.get('phonetics', {}).get('american')),
+                    'british_phonetics': escape_sql_string(data.get('phonetics', {}).get('british')),
                 }
-                f.write(f"INSERT INTO headwords (id, word, american_phonetics) VALUES ({headword_id}, {word_data['word']}, {word_data['american_phonetics']});\n")
+                f.write(f"INSERT INTO headwords (id, word, american_phonetics) VALUES ({headword_id}, {word_data['word']}, {word_data['american_phonetics']}, {word_data['british_phonetics']});\n")
 
                 # Insert into definitions table
                 if data.get('definitions'):
