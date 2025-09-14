@@ -113,7 +113,8 @@
 - 基于学习理论的难度分析
 
 ## 💾 SQL Dump of json data
-npm run convert-to-sql
+- generate_dump.py: complete data
+- generate_dump_simple.py: only headwords and definitions with selected fields
 
 ## 📄 许可证
 
