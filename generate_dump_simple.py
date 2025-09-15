@@ -32,7 +32,7 @@ CREATE TABLE headwords (
 );
 
 CREATE TABLE headword_vocabularies (
-    id INTEGER PRIMARY KEY,
+    id INTEGER SERIAL KEY,
     headword_id INTEGER NOT NULL,
     vocabulary_id INTEGER NOT NULL,
     FOREIGN KEY (headword_id) REFERENCES headwords(id) ON DELETE CASCADE,
