@@ -7,29 +7,28 @@ type Vocabulary struct {
     ID          int         `gorm:"primaryKey"`
     Name        string      `gorm:"unique;not null"`
     Description string      `gorm:"default:''"`
-    Headwords   []*Headword `gorm:"many2many:headword_vocabs;"`
+    Headwords   []*Headword `gorm:"many2many:headword_vocabularies;"`
 }
 
 // Headword corresponds to the 'headwords' table
 type Headword struct {
-    ID             int             `json:"id" gorm:"primaryKey"`
-    Word           string          `json:"word" gorm:"unique;not null"`
-    SyllablesCount *int            `json:"syllables_count"`
-    SyllablesList  pq.StringArray  `json:"syllables_list" gorm:"type:text[]"`
-    Pronunciation  *string         `json:"pronunciation"`
-    Frequency      *float64        `json:"frequency"`
-    Entries        []Entry         `json:"entries" gorm:"foreignKey:HeadwordID"`
-    Vocabularies   []*Vocabulary   `gorm:"many2many:headword_vocabs;"`
+    ID                 int             `json:"id" gorm:"primaryKey"`
+    Word               string          `json:"word" gorm:"unique;not null"`
+    AmericanPhonetics  *string         `json:"american_phonetics"`
+    BritishPhonetics   *string         `json:"british_phonetics"`
+    Entries            []Definition    `json:"entries" gorm:"foreignKey:HeadwordID"`
+    Vocabularies       []*Vocabulary   `gorm:"many2many:headword_vocabularies;"`
 }
 
-// Entry corresponds to the 'entries' table
-type Entry struct {
+// Definition corresponds to the 'definitions' table
+type Definition struct {
 	ID                 int     `json:"id" gorm:"primaryKey"`
 	HeadwordID         int     `json:"headword_id"`
 	PartOfSpeech       *string `json:"part_of_speech"`
 	Definition         *string `json:"definition"`
 	ChineseTranslation *string `json:"chinese_translation"`
-	Level              *string `json:"level"`
-	Frequency          *string `json:"frequency"`
-	Register           *string `json:"register"`
+}
+
+func (Definition) TableName() string {
+	return "definitions"
 }
