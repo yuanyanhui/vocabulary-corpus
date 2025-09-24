@@ -181,18 +181,14 @@ def main():
         try:
             prompt_text = generate_batch_prompt(word_batch)
 
-            # The new SDK uses client.models.generate_content
+            # Create the generate content request with structured output
             response = client.models.generate_content(
-                model=f'models/{MODEL_NAME}',
-                contents=[
-                    types.Content(
-                        parts=[
-                            types.Part.from_text(SYSTEM_PROMPT),
-                            types.Part.from_text(prompt_text)
-                        ]
-                    )
-                ],
-                generation_config=model_config
+                model=MODEL_NAME,
+                contents=prompt_text,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_PROMPT,
+                    response_mime_type='application/json',
+                )
             )
 
             response_text = response.text.strip()
