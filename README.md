@@ -116,6 +116,39 @@
 - generate_dump.py: complete data
 - generate_dump_simple.py: only headwords and definitions with selected fields
 
+## Automatic Question Generation
+
+This project includes a Python script to automatically generate multiple-choice questions for the words in `words_available.txt` using the Google Gemini API.
+
+### Setup
+
+1.  **Create a `.env` file:**
+    Create a file named `.env` in the root of the project and add your Google Gemini API key to it:
+    ```
+    GEMINI_API_KEY=your_api_key_here
+    ```
+
+2.  **Install dependencies:**
+    Install the necessary Python packages using the `requirements.txt` file:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Usage
+
+To run the script and generate questions for all unprocessed words, execute the following command in your terminal:
+
+```bash
+python generate_questions_auto.py
+```
+
+The script will:
+-   Load the words from `words_available.txt`.
+-   Check `questions.json` to see which words have already been processed.
+-   Generate new questions for the remaining words using the Gemini API.
+-   Append the new questions to `questions.json`.
+-   Display a progress bar while running.
+
 ## 📄 许可证
 
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
