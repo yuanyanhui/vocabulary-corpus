@@ -12,6 +12,7 @@ QUESTIONS_FILE = "questions.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
 MODEL_NAME = "gemini-1.5-flash-latest"
+BATCH_SIZE = 5
 
 def load_api_key():
     """Loads the Gemini API key from an environment file."""
@@ -50,37 +51,84 @@ def save_questions(questions):
     with open(QUESTIONS_FILE, 'a', encoding='utf-8') as f:
         f.write('\n')
 
-def generate_prompt(word):
-    """Creates a detailed prompt for the Gemini API."""
+def generate_batch_prompt(words):
+    """Creates a detailed prompt for the Gemini API for a batch of words."""
+    word_list_str = ", ".join([f'"{word}"' for word in words])
     return f"""
-You are an expert in vocabulary and language assessment. Your task is to create a multiple-choice question to test the user's understanding of the word "{word}".
+You are an expert in vocabulary and language assessment. Your task is to create a list of multiple-choice questions to test the user's understanding of the following words: {word_list_str}.
 
-Follow these instructions precisely:
-1.  Create a single, clear sentence where the word "{word}" is used correctly but is replaced by a "___" blank.
-2.  The word for this question is: **{word}**
-3.  The correct answer is the word itself.
+For each word in the list, you must generate one JSON object. The entire output must be a single, well-formed JSON array `[...]` containing these objects.
+
+Follow these instructions for each word:
+1.  Create a single, clear sentence where the word is used correctly but is replaced by a "___" blank.
+2.  The `word` field in the JSON must be the word you are generating the question for.
+3.  The `answer` field must be the word itself.
 4.  Generate three incorrect "distractor" words.
 5.  The distractors MUST meet the following criteria:
-    - They must be the same part of speech as "{word}".
+    - They must be the same part of speech as the target word.
     - They must make grammatical sense in the sentence.
     - They should be semantically related to the target word or the context of the sentence to be plausible alternatives.
     - They must be clearly incorrect when considering the full meaning and context of the sentence.
 
-Your final output must be a single, well-formed JSON object. Do not include any text, explanations, or markdown formatting like ```json before or after the JSON object.
+Your final output must be a single, well-formed JSON array. Do not include any text, explanations, or markdown formatting like ```json before or after the JSON array.
 
-The JSON object must have the following structure:
-{{
-    "word": "{word}",
-    "question": "The sentence with the blank.",
-    "answer": "{word}",
-    "distractors": [
-        "distractor1",
-        "distractor2",
-        "distractor3"
-    ]
-}}
+Example for the words "abandon", "ability", "able", "abolish", "abortion":
+```json
+[
+    {{
+        "word": "abandon",
+        "question": "When the hurricane approached, the residents were forced to ___ their homes and evacuate to safety.",
+        "answer": "abandon",
+        "distractors": [
+            "fortify",
+            "renovate",
+            "secure"
+        ]
+    }},
+    {{
+        "word": "ability",
+        "question": "The manager's ___ to remain calm under pressure was a key factor in the team's success.",
+        "answer": "ability",
+        "distractors": [
+            "tendency",
+            "opportunity",
+            "ambition"
+        ]
+    }},
+    {{
+        "word": "able",
+        "question": "After weeks of physical therapy, she was finally ___ to walk without crutches.",
+        "answer": "able",
+        "distractors": [
+            "willing",
+            "eager",
+            "ready"
+        ]
+    }},
+    {{
+        "word": "abolish",
+        "question": "The new government voted to ___ the unpopular tax, completely removing it from the legal code.",
+        "answer": "abolish",
+        "distractors": [
+            "reduce",
+            "modify",
+            "postpone"
+        ]
+    }},
+    {{
+        "word": "abortion",
+        "question": "The documentary detailed the medical procedures involved in a safe ___ and the importance of access to healthcare.",
+        "answer": "abortion",
+        "distractors": [
+            "delivery",
+            "conception",
+            "miscarriage"
+        ]
+    }}
+]
+```
 
-Now, generate the JSON for the word: **{word}**
+Now, generate the JSON array for the words: **{word_list_str}**
 """
 
 def main():
@@ -108,43 +156,57 @@ def main():
 
     # --- Generation Loop ---
     new_questions_generated = 0
-    for word in tqdm(words_to_process, desc="Generating Questions"):
+    # Create batches of words
+    word_batches = [words_to_process[i:i + BATCH_SIZE] for i in range(0, len(words_to_process), BATCH_SIZE)]
+
+    for word_batch in tqdm(word_batches, desc="Generating Questions in Batches"):
         try:
-            prompt_text = generate_prompt(word)
+            prompt_text = generate_batch_prompt(word_batch)
             contents = [types.Content(role="user", parts=[types.Part.from_text(text=prompt_text)])]
 
             response = client.models.generate_content(
                 model=MODEL_NAME,
-                contents=contents
+                contents=contents,
+                generation_config={"response_mime_type": "application/json"},
             )
 
-            # Clean up the response text to extract only the JSON
+            # The response is expected to be a JSON array.
             response_text = response.text.strip()
-            # Find the start and end of the JSON object
-            start_index = response_text.find('{')
-            end_index = response_text.rfind('}') + 1
+
+            # Find the start and end of the JSON array
+            start_index = response_text.find('[')
+            end_index = response_text.rfind(']') + 1
             if start_index == -1 or end_index == 0:
-                print(f"\nWarning: Could not find a JSON object in the response for '{word}'. Skipping.")
+                print(f"\nWarning: Could not find a JSON array in the response for batch '{word_batch}'. Skipping.")
                 continue
 
             json_text = response_text[start_index:end_index]
+            questions_data = json.loads(json_text)
 
-            question_data = json.loads(json_text)
+            if len(questions_data) != len(word_batch):
+                print(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
+                print(f"Expected {len(word_batch)}, but got {len(questions_data)}. Skipping batch.")
+                continue
 
-            # Basic validation
-            if 'word' in question_data and 'question' in question_data and 'answer' in question_data and 'distractors' in question_data:
-                questions.append(question_data)
-                new_questions_generated += 1
-            else:
-                print(f"\nWarning: Received malformed JSON data for '{word}'. Skipping.")
+            # Basic validation for each question object
+            valid_questions = []
+            for i, q_data in enumerate(questions_data):
+                if all(k in q_data for k in ['word', 'question', 'answer', 'distractors']):
+                     valid_questions.append(q_data)
+                else:
+                    print(f"\nWarning: Received malformed JSON data for word '{word_batch[i]}'. Skipping.")
+
+            if valid_questions:
+                questions.extend(valid_questions)
+                new_questions_generated += len(valid_questions)
 
         except json.JSONDecodeError:
-            print(f"\nWarning: Failed to decode JSON for word '{word}'. Response was:\n{response.text}")
+            print(f"\nWarning: Failed to decode JSON for batch '{word_batch}'. Response was:\n{response_text}")
         except Exception as e:
-            print(f"\nAn unexpected error occurred for word '{word}': {e}")
+            print(f"\nAn unexpected error occurred for batch '{word_batch}': {e}")
 
         # Rate limiting
-        time.sleep(1) # Sleep for 1 second between API calls to be safe
+        time.sleep(1)  # Sleep for 1 second between API calls to be safe
 
     # --- Save Results ---
     if new_questions_generated > 0:
