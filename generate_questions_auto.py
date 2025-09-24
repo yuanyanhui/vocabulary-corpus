@@ -14,6 +14,26 @@ API_KEY_NAME = "GEMINI_API_KEY"
 MODEL_NAME = "gemini-1.5-flash-latest"
 BATCH_SIZE = 5
 
+SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment. Your task is to create a list of multiple-choice questions based on a list of words provided by the user.
+
+For each word in the list, you must generate one JSON object. The entire output must be a single, well-formed JSON array `[...]` containing these objects.
+
+Follow these instructions for each word:
+1.  Create a single, clear sentence where the word is used correctly but is replaced by a "___" blank.
+2.  The `word` field in the JSON must be the word you are generating the question for.
+3.  The `answer` field must be the word itself.
+4.  Generate three incorrect "distractor" words.
+5.  The distractors MUST meet the following criteria:
+    - They must be the same part of speech as the target word.
+    - They must make grammatical sense in the sentence.
+    - They should be semantically related to the target word or the context of the sentence to be plausible alternatives.
+    - They must be clearly incorrect when considering the full meaning and context of the sentence.
+
+Your final output must be a single, well-formed JSON array. Do not include any text, explanations, or markdown formatting like ```json before or after the JSON array.
+
+The user will provide an example of the expected output format in their prompt.
+"""
+
 def load_api_key():
     """Loads the Gemini API key from an environment file."""
     load_dotenv(dotenv_path=ENV_FILE)
@@ -52,27 +72,12 @@ def save_questions(questions):
         f.write('\n')
 
 def generate_batch_prompt(words):
-    """Creates a detailed prompt for the Gemini API for a batch of words."""
+    """Creates a simplified user prompt for the Gemini API for a batch of words."""
     word_list_str = ", ".join([f'"{word}"' for word in words])
     return f"""
-You are an expert in vocabulary and language assessment. Your task is to create a list of multiple-choice questions to test the user's understanding of the following words: {word_list_str}.
+I need multiple-choice questions for the following words: {word_list_str}.
 
-For each word in the list, you must generate one JSON object. The entire output must be a single, well-formed JSON array `[...]` containing these objects.
-
-Follow these instructions for each word:
-1.  Create a single, clear sentence where the word is used correctly but is replaced by a "___" blank.
-2.  The `word` field in the JSON must be the word you are generating the question for.
-3.  The `answer` field must be the word itself.
-4.  Generate three incorrect "distractor" words.
-5.  The distractors MUST meet the following criteria:
-    - They must be the same part of speech as the target word.
-    - They must make grammatical sense in the sentence.
-    - They should be semantically related to the target word or the context of the sentence to be plausible alternatives.
-    - They must be clearly incorrect when considering the full meaning and context of the sentence.
-
-Your final output must be a single, well-formed JSON array. Do not include any text, explanations, or markdown formatting like ```json before or after the JSON array.
-
-Example for the words "abandon", "ability", "able", "abolish", "abortion":
+Here is an example of the expected JSON output format for the words "abandon", "ability", "able", "abolish", "abortion":
 ```json
 [
     {{
@@ -137,7 +142,12 @@ def main():
 
     # --- Initialization ---
     api_key = load_api_key()
-    client = genai.Client(api_key=api_key)
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(
+        model_name=MODEL_NAME,
+        system_instruction=SYSTEM_PROMPT,
+        generation_config={"response_mime_type": "application/json"},
+    )
 
     all_words = load_words()
     if not all_words:
@@ -162,13 +172,8 @@ def main():
     for word_batch in tqdm(word_batches, desc="Generating Questions in Batches"):
         try:
             prompt_text = generate_batch_prompt(word_batch)
-            contents = [types.Content(role="user", parts=[types.Part.from_text(text=prompt_text)])]
 
-            response = client.models.generate_content(
-                model=MODEL_NAME,
-                contents=contents,
-                generation_config={"response_mime_type": "application/json"},
-            )
+            response = model.generate_content(prompt_text)
 
             # The response is expected to be a JSON array.
             response_text = response.text.strip()
