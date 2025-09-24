@@ -46,6 +46,7 @@ func main() {
 
 	var wordExamples []WordExample
 	var missingWords []string
+	var foundWords []string
 
 	dataDir := "data"
 
@@ -55,6 +56,8 @@ func main() {
 			missingWords = append(missingWords, word)
 			continue
 		}
+
+		foundWords = append(foundWords, word)
 
 		jsonData, err := ioutil.ReadFile(jsonPath)
 		if err != nil {
@@ -111,6 +114,25 @@ func main() {
 		}
 	}
 	writer.Flush()
+
+	// Write words_available.txt
+	availableFile, err := os.Create("words_available.txt")
+	if err != nil {
+		fmt.Printf("Error creating words_available.txt: %v\n", err)
+		return
+	}
+	defer availableFile.Close()
+
+	availableWriter := bufio.NewWriter(availableFile)
+	for _, word := range foundWords {
+		_, err := availableWriter.WriteString(word + "\n")
+		if err != nil {
+			fmt.Printf("Error writing to words_available.txt: %v\n", err)
+			return
+		}
+	}
+	availableWriter.Flush()
+
 
 	fmt.Println("Processing complete.")
 }
