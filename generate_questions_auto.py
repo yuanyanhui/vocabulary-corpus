@@ -11,7 +11,7 @@ WORDS_FILE = "words_available.txt"
 QUESTIONS_FILE = "questions.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-2.5-flash"  # Note: Model names might change, verify in the documentation.
 BATCH_SIZE = 10
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment. Your task is to create a list of multiple-choice questions based on a list of words provided by the user.
@@ -44,6 +44,8 @@ def load_api_key():
         print(f"Error: {API_KEY_NAME} not found in {ENV_FILE} or environment variables.")
         print("Please create a .env file and add your Gemini API key to it.")
         exit(1)
+    # The new SDK automatically picks up the key from the environment variable,
+    # so we just need to ensure it's loaded.
     return api_key
 
 def load_words():
@@ -67,88 +69,92 @@ def load_existing_questions():
 
 def save_questions(questions):
     """Saves the list of questions to the JSON file."""
+    # Sort questions by the original 'word' field before saving
+    sorted_questions = sorted(questions, key=lambda x: x['word'])
     with open(QUESTIONS_FILE, 'w', encoding='utf-8') as f:
-        json.dump(questions, f, indent=4)
+        json.dump(sorted_questions, f, indent=4)
     # Add a trailing newline for POSIX compatibility
     with open(QUESTIONS_FILE, 'a', encoding='utf-8') as f:
         f.write('\n')
 
 def generate_batch_prompt(words):
-    """Creates a simplified user prompt for the Gemini API for a batch of words."""
+    """Creates a user prompt for the Gemini API for a batch of words."""
     word_list_str = ", ".join([f'"{word}"' for word in words])
     return f"""
-I need multiple-choice questions for the following words: {word_list_str}.
+        I need multiple-choice questions for the following words: {word_list_str}.
 
-Here is an example of the expected JSON output format for the words "abandon", "ability", "able", "abolish", "abortion":
-```json
-[
-    {{
-        "word": "abandon",
-        "question": "The old mansion had been ___ for decades, with broken windows and overgrown gardens.",
-        "answer": "abandoned",
-        "distractors": [
-            "renovated",
-            "occupied",
-            "maintained"
+        Here is an example of the expected JSON output format for the words "abandon", "ability", "able", "abolish", "abortion":
+        ```json
+        [
+            {{
+                "word": "abandon",
+                "question": "The old mansion had been ___ for decades, with broken windows and overgrown gardens.",
+                "answer": "abandoned",
+                "distractors": [
+                    "renovated",
+                    "occupied",
+                    "maintained"
+                ]
+            }},
+            {{
+                "word": "ability",
+                "question": "Her remarkable mathematical ___ have impressed professors throughout her academic career.",
+                "answer": "abilities",
+                "distractors": [
+                    "tendencies",
+                    "opportunities",
+                    "ambitions"
+                ]
+            }},
+            {{
+                "word": "able",
+                "question": "After months of practice, she was finally ___ to play the piece flawlessly.",
+                "answer": "able",
+                "distractors": [
+                    "willing",
+                    "eager",
+                    "ready"
+                ]
+            }},
+            {{
+                "word": "abolish",
+                "question": "The new administration ___ the outdated regulation in their first month in office.",
+                "answer": "abolished",
+                "distractors": [
+                    "reinforced",
+                    "modified",
+                    "postponed"
+                ]
+            }},
+            {{
+                "word": "abortion",
+                "question": "The clinic provided counseling services for women considering ___ as well as those choosing to continue their pregnancies.",
+                "answer": "abortion",
+                "distractors": [
+                    "adoption",
+                    "delivery",
+                    "conception"
+                ]
+            }}
         ]
-    }},
-    {{
-        "word": "ability",
-        "question": "Her remarkable mathematical ___ have impressed professors throughout her academic career.",
-        "answer": "abilities",
-        "distractors": [
-            "tendencies",
-            "opportunities",
-            "ambitions"
-        ]
-    }},
-    {{
-        "word": "able",
-        "question": "After months of practice, she was finally ___ to play the piece flawlessly.",
-        "answer": "able",
-        "distractors": [
-            "willing",
-            "eager",
-            "ready"
-        ]
-    }},
-    {{
-        "word": "abolish",
-        "question": "The new administration ___ the outdated regulation in their first month in office.",
-        "answer": "abolished",
-        "distractors": [
-            "reinforced",
-            "modified",
-            "postponed"
-        ]
-    }},
-    {{
-        "word": "abortion",
-        "question": "The clinic provided counseling services for women considering ___ as well as those choosing to continue their pregnancies.",
-        "answer": "abortion",
-        "distractors": [
-            "adoption",
-            "delivery",
-            "conception"
-        ]
-    }}
-]
-```
+        ```
 
-Now, generate the JSON array for the words: **{word_list_str}**
-"""
+        Now, generate the JSON array for the words: **{word_list_str}**
+        """
 
 def main():
     """Main function to generate questions."""
     print("Starting question generation process...")
 
     # --- Initialization ---
-    api_key = load_api_key()
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name=MODEL_NAME,
-        system_instruction=SYSTEM_PROMPT,
-        generation_config={"response_mime_type": "application/json"},
+    load_api_key()
+    # The new SDK uses a client object. It automatically finds the API key
+    # from the environment variable GEMINI_API_KEY.
+    client = genai.Client()
+
+    # Define model configuration, including system prompt and JSON output.
+    model_config = types.GenerationConfig(
+        response_mime_type="application/json"
     )
 
     all_words = load_words()
@@ -175,20 +181,22 @@ def main():
         try:
             prompt_text = generate_batch_prompt(word_batch)
 
-            response = model.generate_content(prompt_text)
+            # The new SDK uses client.models.generate_content
+            response = client.models.generate_content(
+                model=f'models/{MODEL_NAME}',
+                contents=[
+                    types.Content(
+                        parts=[
+                            types.Part.from_text(SYSTEM_PROMPT),
+                            types.Part.from_text(prompt_text)
+                        ]
+                    )
+                ],
+                generation_config=model_config
+            )
 
-            # The response is expected to be a JSON array.
             response_text = response.text.strip()
-
-            # Find the start and end of the JSON array
-            start_index = response_text.find('[')
-            end_index = response_text.rfind(']') + 1
-            if start_index == -1 or end_index == 0:
-                print(f"\nWarning: Could not find a JSON array in the response for batch '{word_batch}'. Skipping.")
-                continue
-
-            json_text = response_text[start_index:end_index]
-            questions_data = json.loads(json_text)
+            questions_data = json.loads(response_text)
 
             if len(questions_data) != len(word_batch):
                 print(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
