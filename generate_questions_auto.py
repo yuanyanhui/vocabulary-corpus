@@ -11,20 +11,21 @@ WORDS_FILE = "words_available.txt"
 QUESTIONS_FILE = "questions.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
-MODEL_NAME = "gemini-1.5-flash-latest"
-BATCH_SIZE = 5
+MODEL_NAME = "gemini-2.5-flash"
+BATCH_SIZE = 10
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment. Your task is to create a list of multiple-choice questions based on a list of words provided by the user.
 
 For each word in the list, you must generate one JSON object. The entire output must be a single, well-formed JSON array `[...]` containing these objects.
 
 Follow these instructions for each word:
-1.  Create a single, clear sentence where the word is used correctly but is replaced by a "___" blank.
-2.  The `word` field in the JSON must be the word you are generating the question for.
-3.  The `answer` field must be the word itself.
-4.  Generate three incorrect "distractor" words.
-5.  The distractors MUST meet the following criteria:
-    - They must be the same part of speech as the target word.
+1.  Create a single, clear sentence where the word OR ONE OF ITS INFLECTED FORMS is used correctly but is replaced by a "___" blank.
+2.  You may use different inflected forms of the word (such as: verb tenses like "abandoned", "abandoning", "abandons"; plural nouns like "abilities"; comparative/superlative adjectives, etc.) in the sentence as long as they are direct morphological variations of the original word.
+3.  The `word` field in the JSON must be the original word from the list you are generating the question for.
+4.  The `answer` field must be the specific inflected form of the word that correctly fills the blank in your sentence.
+5.  Generate three incorrect "distractor" words.
+6.  The distractors MUST meet the following criteria:
+    - They must be the same part of speech as the word that fills the blank (the answer).
     - They must make grammatical sense in the sentence.
     - They should be semantically related to the target word or the context of the sentence to be plausible alternatives.
     - They must be clearly incorrect when considering the full meaning and context of the sentence.
@@ -33,6 +34,7 @@ Your final output must be a single, well-formed JSON array. Do not include any t
 
 The user will provide an example of the expected output format in their prompt.
 """
+
 
 def load_api_key():
     """Loads the Gemini API key from an environment file."""
@@ -82,27 +84,27 @@ Here is an example of the expected JSON output format for the words "abandon", "
 [
     {{
         "word": "abandon",
-        "question": "When the hurricane approached, the residents were forced to ___ their homes and evacuate to safety.",
-        "answer": "abandon",
+        "question": "The old mansion had been ___ for decades, with broken windows and overgrown gardens.",
+        "answer": "abandoned",
         "distractors": [
-            "fortify",
-            "renovate",
-            "secure"
+            "renovated",
+            "occupied",
+            "maintained"
         ]
     }},
     {{
         "word": "ability",
-        "question": "The manager's ___ to remain calm under pressure was a key factor in the team's success.",
-        "answer": "ability",
+        "question": "Her remarkable mathematical ___ have impressed professors throughout her academic career.",
+        "answer": "abilities",
         "distractors": [
-            "tendency",
-            "opportunity",
-            "ambition"
+            "tendencies",
+            "opportunities",
+            "ambitions"
         ]
     }},
     {{
         "word": "able",
-        "question": "After weeks of physical therapy, she was finally ___ to walk without crutches.",
+        "question": "After months of practice, she was finally ___ to play the piece flawlessly.",
         "answer": "able",
         "distractors": [
             "willing",
@@ -112,22 +114,22 @@ Here is an example of the expected JSON output format for the words "abandon", "
     }},
     {{
         "word": "abolish",
-        "question": "The new government voted to ___ the unpopular tax, completely removing it from the legal code.",
-        "answer": "abolish",
+        "question": "The new administration ___ the outdated regulation in their first month in office.",
+        "answer": "abolished",
         "distractors": [
-            "reduce",
-            "modify",
-            "postpone"
+            "reinforced",
+            "modified",
+            "postponed"
         ]
     }},
     {{
         "word": "abortion",
-        "question": "The documentary detailed the medical procedures involved in a safe ___ and the importance of access to healthcare.",
+        "question": "The clinic provided counseling services for women considering ___ as well as those choosing to continue their pregnancies.",
         "answer": "abortion",
         "distractors": [
+            "adoption",
             "delivery",
-            "conception",
-            "miscarriage"
+            "conception"
         ]
     }}
 ]
