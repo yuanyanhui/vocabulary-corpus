@@ -1,7 +1,8 @@
 import os
 import json
 import time
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from dotenv import load_dotenv
 from tqdm import tqdm
 
@@ -10,6 +11,7 @@ WORDS_FILE = "words_available.txt"
 QUESTIONS_FILE = "questions.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
+MODEL_NAME = "gemini-1.5-flash-latest"
 
 def load_api_key():
     """Loads the Gemini API key from an environment file."""
@@ -87,8 +89,7 @@ def main():
 
     # --- Initialization ---
     api_key = load_api_key()
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-pro')
+    client = genai.Client(api_key=api_key)
 
     all_words = load_words()
     if not all_words:
@@ -109,8 +110,13 @@ def main():
     new_questions_generated = 0
     for word in tqdm(words_to_process, desc="Generating Questions"):
         try:
-            prompt = generate_prompt(word)
-            response = model.generate_content(prompt)
+            prompt_text = generate_prompt(word)
+            contents = [types.Content(role="user", parts=[types.Part.from_text(text=prompt_text)])]
+
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=contents
+            )
 
             # Clean up the response text to extract only the JSON
             response_text = response.text.strip()
