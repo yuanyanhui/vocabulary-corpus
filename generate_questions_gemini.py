@@ -5,6 +5,7 @@ from google import genai
 from google.genai import types
 from dotenv import load_dotenv
 from tqdm import tqdm
+import shutil
 
 # --- Configuration ---
 WORDS_FILE = "words_available.txt"
@@ -172,6 +173,13 @@ def main():
     print(f"{len(processed_words)} words already processed.")
     print(f"Starting generation for {len(words_to_process)} new words.")
 
+    if len(processed_words) > 0:
+        # backup existing questions file with timestamp
+        timestamp = time.strftime("%Y%m%d-%H%M%S")
+        backup_file = f"{QUESTIONS_FILE}.{timestamp}.bak"
+        shutil.copy(QUESTIONS_FILE, backup_file)
+        print(f"Backed up existing questions file to {backup_file}")
+
     # --- Generation Loop ---
     new_questions_generated = 0
     # Create batches of words
@@ -195,8 +203,8 @@ def main():
             questions_data = json.loads(response_text)
 
             if len(questions_data) != len(word_batch):
-                print(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
-                print(f"Expected {len(word_batch)}, but got {len(questions_data)}. Skipping batch.")
+                tqdm.write(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
+                tqdm.write(f"Expected {len(word_batch)}, but got {len(questions_data)}. Skipping batch.")
                 continue
 
             # Basic validation for each question object
@@ -205,26 +213,28 @@ def main():
                 if all(k in q_data for k in ['word', 'question', 'answer', 'distractors']):
                      valid_questions.append(q_data)
                 else:
-                    print(f"\nWarning: Received malformed JSON data for word '{word_batch[i]}'. Skipping.")
+                    tqdm.write(f"\nWarning: Received malformed JSON data for word '{word_batch[i]}'. Skipping.")
 
             if valid_questions:
                 questions.extend(valid_questions)
                 new_questions_generated += len(valid_questions)
+                # Save the updated list of questions right after processing the batch
+                save_questions(questions)
+                tqdm.write(f"Saved {len(valid_questions)} new questions from batch.")
 
         except json.JSONDecodeError:
-            print(f"\nWarning: Failed to decode JSON for batch '{word_batch}'. Response was:\n{response_text}")
+            tqdm.write(f"\nWarning: Failed to decode JSON for batch '{word_batch}'. Response was:\n{response_text}")
+            return
         except Exception as e:
-            print(f"\nAn unexpected error occurred for batch '{word_batch}': {e}")
+            tqdm.write(f"\nAn unexpected error occurred for batch '{word_batch}': {e}")
+            return
 
         # Rate limiting
-        time.sleep(1)  # Sleep for 1 second between API calls to be safe
+        time.sleep(5)  # Sleep for 1 second between API calls to be safe
 
-    # --- Save Results ---
+    # --- Final Summary ---
     if new_questions_generated > 0:
-        print(f"\nGenerated {new_questions_generated} new questions.")
-        print("Saving updated questions list...")
-        save_questions(questions)
-        print("Done.")
+        print(f"\nGeneration complete. A total of {new_questions_generated} new questions were generated and saved.")
     else:
         print("\nNo new questions were generated in this run.")
 
