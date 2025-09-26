@@ -1,9 +1,9 @@
 import json
 
 # Input/output file names
-REPLACEMENTS_FILE = "questions_replacements.json"
-TARGET_FILE = "questions_gpt_oss.json"
-OUTPUT_FILE = "questions_gpt_oss_updated.json"
+REPLACEMENTS_FILE = "corrected_questions_qwen.json"
+TARGET_FILE = "questions_qwen.json"
+OUTPUT_FILE = "questions_qwen_final.json"
 
 def main():
     # Load both JSON files
