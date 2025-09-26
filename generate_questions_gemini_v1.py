@@ -3,21 +3,17 @@ import json
 import time
 from google import genai
 from google.genai import types
-from groq import Groq
-from cerebras.cloud.sdk import Cerebras
 from dotenv import load_dotenv
 from tqdm import tqdm
 import shutil
 
 # --- Configuration ---
-WORDS_FILE = "duplicated_words.txt"
-QUESTIONS_FILE = "questions_duplicated.json"
+WORDS_FILE = "words_available.txt"
+QUESTIONS_FILE = "questions_pro.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
-MODEL_NAME = "gemini-2.5-flash"  
+MODEL_NAME = "gemini-2.5-pro"  # Note: Model names might change, verify in the documentation.
 BATCH_SIZE = 10
-GROQ_MODEL_NAME = "openai/gpt-oss-120b"  
-CEREBAS_MODEL_NAME = "gpt-oss-120b"   # "qwen-3-235b-a22b-instruct-2507"  "gpt-oss-120b"
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment. Your task is to create multiple-choice questions based on a provided word list.
 
@@ -50,21 +46,17 @@ The user will provide the word list and expected output format example.
 """
 
 
-load_dotenv(dotenv_path=ENV_FILE)
-
-groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-cerebras_client = Cerebras(api_key=os.environ.get("CEREBRAS_API_KEY"))
-
-def get_response(client, model, prompt):
-    response = client.chat.completions.create(
-                model=model, 
-                messages=[{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": prompt}],
-                response_format={
-                    "type": "json_object"   # json_schema not supported by llama3
-                }
-            )
-
-    return response.choices[0].message.content
+def load_api_key():
+    """Loads the Gemini API key from an environment file."""
+    load_dotenv(dotenv_path=ENV_FILE)
+    api_key = os.getenv(API_KEY_NAME)
+    if not api_key:
+        print(f"Error: {API_KEY_NAME} not found in {ENV_FILE} or environment variables.")
+        print("Please create a .env file and add your Gemini API key to it.")
+        exit(1)
+    # The new SDK automatically picks up the key from the environment variable,
+    # so we just need to ensure it's loaded.
+    return api_key
 
 def load_words():
     """Loads the list of words from the specified file."""
@@ -164,6 +156,17 @@ def main():
     """Main function to generate questions."""
     print("Starting question generation process...")
 
+    # --- Initialization ---
+    load_api_key()
+    # The new SDK uses a client object. It automatically finds the API key
+    # from the environment variable GEMINI_API_KEY.
+    client = genai.Client()
+
+    # Define model configuration, including system prompt and JSON output.
+    model_config = types.GenerationConfig(
+        response_mime_type="application/json"
+    )
+
     all_words = load_words()
     if not all_words:
         return
@@ -192,21 +195,26 @@ def main():
     word_batches = [words_to_process[i:i + BATCH_SIZE] for i in range(0, len(words_to_process), BATCH_SIZE)]
 
     for word_batch in tqdm(word_batches, desc="Generating Questions in Batches"):
-        print(f"\nProcessing batch: {word_batch}")
         try:
             prompt_text = generate_batch_prompt(word_batch)
-            # response_data = get_response(cerebras_client, CEREBAS_MODEL_NAME, prompt_text)
-            response_data = get_response(cerebras_client, CEREBAS_MODEL_NAME, prompt_text)
-            questions_data = json.loads(response_data)
+
+            # Create the generate content request with structured output
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt_text,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_PROMPT,
+                    response_mime_type='application/json',
+                )
+            )
+
+            response_text = response.text.strip()
+            questions_data = json.loads(response_text)
 
             if len(questions_data) != len(word_batch):
-                print(questions_data)
-                if  'data' in questions_data and len(questions_data['data']) == len(word_batch):
-                    questions_data = questions_data['data']
-                else:
-                    tqdm.write(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
-                    tqdm.write(f"Expected {len(word_batch)}, but got {len(questions_data)}. Skipping batch.")
-                    continue
+                tqdm.write(f"\nWarning: Mismatch in expected number of questions for batch '{word_batch}'.")
+                tqdm.write(f"Expected {len(word_batch)}, but got {len(questions_data)}. Skipping batch.")
+                continue
 
             # Basic validation for each question object
             valid_questions = []
@@ -231,7 +239,7 @@ def main():
             return
 
         # Rate limiting
-        time.sleep(10)  # Sleep for 1 second between API calls to be safe
+        time.sleep(5)  # Sleep for 1 second between API calls to be safe
 
     # --- Final Summary ---
     if new_questions_generated > 0:
