@@ -13,7 +13,7 @@ QUESTIONS_FILE = "questions_pro.json"
 ENV_FILE = ".env"
 API_KEY_NAME = "GEMINI_API_KEY"
 MODEL_NAME = "gemini-2.5-pro"  # Note: Model names might change, verify in the documentation.
-BATCH_SIZE = 10
+BATCH_SIZE = 30
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment. Your task is to create multiple-choice questions based on a provided word list.
 
