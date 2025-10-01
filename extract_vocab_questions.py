@@ -61,8 +61,8 @@ def convert_jsonl_to_json(input_file_path, output_file_path):
         print(f"Extracted {len(extracted_data)} questions.")
 
 # Define the input and output file paths
-input_filename = 'CET4_2.jsonl'
-output_filename = 'CET4_2_questions.json'
+input_filename = 'vocabulary/CET6/CET6_3.json'  # Adjust the path as necessary
+output_filename = 'vocabulary/CET6/CET6_3_questions.json'
 
 # Run the conversion function
 convert_jsonl_to_json(input_filename, output_filename)
