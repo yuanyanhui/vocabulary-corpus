@@ -1,9 +1,9 @@
 import json
 
 # Input/output file names
-REPLACEMENTS_FILE = "corrected_questions_qwen.json"
-TARGET_FILE = "questions_qwen.json"
-OUTPUT_FILE = "questions_qwen_final.json"
+REPLACEMENTS_FILE = "gemini-pro-questions-revisions.json"
+TARGET_FILE = "gemini-pro-questions.json"
+OUTPUT_FILE = "gemini-pro-questions-final.json"
 
 def main():
     # Load both JSON files
