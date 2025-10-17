@@ -11,15 +11,15 @@ from cerebras.cloud.sdk import Cerebras
 
 
 # --- Configuration ---
-questions_prefix = "high_school_questions_only"
+questions_prefix = "bad_words_questions"
 CSV_QUESTIONS_FILE = f"{questions_prefix}.csv"
 JSON_QUESTIONS_FILE = f"{questions_prefix}.json"
-BAD_QUESTIONS_FILE = f"{questions_prefix}_bad.json"
-PROCESSED_IDS_FILE = f"{questions_prefix}_processed_count.txt"
+REVISED_QUESTIONS_FILE = f"{questions_prefix}_revised.json"
+PROCESSED_COUNT_FILE = f"{questions_prefix}_revised_processed_count.txt"
 ENV_FILE = ".env"
 CEREBRAS_MODEL_NAME = "qwen-3-235b-a22b-instruct-2507"   # "qwen-3-235b-a22b-instruct-2507"  "gpt-oss-120b"
 GEMINI_MODEL_NAME = "gemini-2.5-pro"
-BATCH_SIZE = 100
+BATCH_SIZE = 25
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment."""
 
@@ -82,7 +82,7 @@ def get_response_gemini(client, prompt_text, model=GEMINI_MODEL_NAME):
 
     return response.text.strip()
 
-def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_count_file=PROCESSED_IDS_FILE, bad_questions_file=BAD_QUESTIONS_FILE):
+def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_count_file=PROCESSED_COUNT_FILE, REVISED_QUESTIONS_FILE=REVISED_QUESTIONS_FILE):
     """Loads questions, processed ids and revisions."""
     processed_words_count = 0
     existing_bad_questions = []
@@ -98,8 +98,8 @@ def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_coun
         questions_to_process = questions[processed_words_count:]
 
         # Load existing revisions if available
-        if os.path.exists(bad_questions_file):
-            with open(bad_questions_file, 'r', encoding='utf-8') as f:
+        if os.path.exists(REVISED_QUESTIONS_FILE):
+            with open(REVISED_QUESTIONS_FILE, 'r', encoding='utf-8') as f:
                 existing_bad_questions = json.load(f)
 
         return questions_to_process, processed_words_count, existing_bad_questions
@@ -113,16 +113,16 @@ def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_coun
         print(f"An unexpected error occurred: {e}")
         exit(1)
 
-def save_batch(bad_questions, processed_words_count, bad_questions_file=BAD_QUESTIONS_FILE, processed_words_count_file=PROCESSED_IDS_FILE):
+def save_batch(bad_questions, processed_words_count, revised_questions_file=REVISED_QUESTIONS_FILE, processed_words_count_file=PROCESSED_COUNT_FILE):
     """Saves the list of questions to the JSON file."""
     if 'id' in bad_questions[0]:
         sorted_questions = sorted(bad_questions, key=lambda x: x['id'])
     else:
         sorted_questions = sorted(bad_questions, key=lambda x: x['word'])
-    with open(bad_questions_file, 'w', encoding='utf-8') as f:
+    with open(revised_questions_file, 'w', encoding='utf-8') as f:
         json.dump(sorted_questions, f, indent=4)
     # Add a trailing newline for POSIX compatibility
-    with open(bad_questions_file, 'a', encoding='utf-8') as f:
+    with open(revised_questions_file, 'a', encoding='utf-8') as f:
         f.write('\n')
 
     # Save processed IDs
@@ -145,10 +145,16 @@ def generate_batch_prompt(questions):
             }}
 
             ## Your task:
-            - Identify questions where the sentence lacks sufficient context to make the correct answer (answer) the only clearly valid choice. These are cases where one or more distractors could also fit grammatically or logically.
+            - Simplify the sentences and distractors by ensuring that all words (except the target word itself) are high-frequency English words, such as those found in lists like the Longman Communication 3000 or Oxford 3000.
+
+            ## Instructions:
+            - Identify if the sentence or any distractor includes low-frequency or uncommon words.
+            - Revise the sentence and/or distractors to use only high-frequency, everyday vocabulary.
+            - Keep the question meaning and grammatical structure intact, so the correct answer (the target word form) still fits naturally and uniquely in the sentence.
+            - If all words in the sentence and distractors are appropriate, do not include that question in your response.
 
             ## Output format:
-            - Return a JSON list of identified questions.
+            - Return a list of modified questions in the same JSON format as the input.
             
             Here are the questions to process: {json.dumps(questions)}
             """
@@ -161,8 +167,8 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="cerebras",
-        help="Specify the model (default: cerebras)",
+        default="gemini",
+        help="Specify the model (default: gemini)",
     )
     args = parser.parse_args()
 
@@ -181,7 +187,7 @@ def main():
             prompt_text = generate_batch_prompt(question_batch)
 
             if model_name.startswith("gemini"):
-                response_text = get_response_gemini(gemini_client, prompt_text, model=model_name)
+                response_text = get_response_gemini(gemini_client, prompt_text)
             else:
                 response_text = get_response_cerebas(cerebras_client, prompt_text)
             response_list = json.loads(response_text)

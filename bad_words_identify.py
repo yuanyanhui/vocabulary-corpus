@@ -14,12 +14,12 @@ from cerebras.cloud.sdk import Cerebras
 questions_prefix = "high_school_questions_only"
 CSV_QUESTIONS_FILE = f"{questions_prefix}.csv"
 JSON_QUESTIONS_FILE = f"{questions_prefix}.json"
-BAD_QUESTIONS_FILE = f"{questions_prefix}_bad.json"
-PROCESSED_IDS_FILE = f"{questions_prefix}_processed_count.txt"
+BAD_QUESTIONS_FILE = f"bad_words_questions.json"
+PROCESSED_COUNT_FILE = "bad_words_processed_count.txt"
 ENV_FILE = ".env"
 CEREBRAS_MODEL_NAME = "qwen-3-235b-a22b-instruct-2507"   # "qwen-3-235b-a22b-instruct-2507"  "gpt-oss-120b"
 GEMINI_MODEL_NAME = "gemini-2.5-pro"
-BATCH_SIZE = 100
+BATCH_SIZE = 50
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment."""
 
@@ -82,7 +82,7 @@ def get_response_gemini(client, prompt_text, model=GEMINI_MODEL_NAME):
 
     return response.text.strip()
 
-def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_count_file=PROCESSED_IDS_FILE, bad_questions_file=BAD_QUESTIONS_FILE):
+def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_count_file=PROCESSED_COUNT_FILE, bad_questions_file=BAD_QUESTIONS_FILE):
     """Loads questions, processed ids and revisions."""
     processed_words_count = 0
     existing_bad_questions = []
@@ -113,7 +113,7 @@ def load_saved_progress(questions_file=JSON_QUESTIONS_FILE, processed_words_coun
         print(f"An unexpected error occurred: {e}")
         exit(1)
 
-def save_batch(bad_questions, processed_words_count, bad_questions_file=BAD_QUESTIONS_FILE, processed_words_count_file=PROCESSED_IDS_FILE):
+def save_batch(bad_questions, processed_words_count, bad_questions_file=BAD_QUESTIONS_FILE, processed_words_count_file=PROCESSED_COUNT_FILE):
     """Saves the list of questions to the JSON file."""
     if 'id' in bad_questions[0]:
         sorted_questions = sorted(bad_questions, key=lambda x: x['id'])
@@ -145,7 +145,9 @@ def generate_batch_prompt(questions):
             }}
 
             ## Your task:
-            - Identify questions where the sentence lacks sufficient context to make the correct answer (answer) the only clearly valid choice. These are cases where one or more distractors could also fit grammatically or logically.
+            - Identify and return any questions that contain words in the sentence or distractors that are not common high-frequency words (i.e., not in the Oxford 3000 or Longman Communication 3000 lists).
+            - If all words in a question are appropriate, do not include that question in your response.
+            - Ensure that the structure of the returned questions matches the input format exactly.
 
             ## Output format:
             - Return a JSON list of identified questions.
@@ -161,14 +163,14 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="cerebras",
-        help="Specify the model (default: cerebras)",
+        default="gemini",
+        help="Specify the model (default: gemini)",
     )
     args = parser.parse_args()
 
     model_name = args.model
 
-    print(f"Revising questions with model: {model_name}")
+    print(f"Reviewing questions with model: {model_name}")
 
     questions_to_process, processed_words_count, bad_questions = load_saved_progress()
    
@@ -181,7 +183,7 @@ def main():
             prompt_text = generate_batch_prompt(question_batch)
 
             if model_name.startswith("gemini"):
-                response_text = get_response_gemini(gemini_client, prompt_text, model=model_name)
+                response_text = get_response_gemini(gemini_client, prompt_text)
             else:
                 response_text = get_response_cerebas(cerebras_client, prompt_text)
             response_list = json.loads(response_text)
@@ -199,7 +201,7 @@ def main():
             return
 
         # Rate limiting
-        time.sleep(5)  # Sleep for 1 second between API calls to be safe
+        time.sleep(1)  # Sleep for 1 second between API calls to be safe
         
 
 if __name__ == "__main__":

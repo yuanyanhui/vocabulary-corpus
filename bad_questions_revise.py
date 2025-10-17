@@ -9,13 +9,14 @@ from google.genai import types
 from cerebras.cloud.sdk import Cerebras
 
 # --- Configuration ---
-QUESTIONS_FILE = "gpt-qwen-gemini-questions-bad-655.json"
-REVISIONS_FILE = "gpt-qwen-gemini-questions-bad-revisions-655.json"
-PROCESSED_IDS_FILE = "bad_questions_revise_count_655.txt"
+questions_prefix = "high_school_questions_only_bad"
+QUESTIONS_FILE = f"{questions_prefix}.json"
+REVISIONS_FILE = f"{questions_prefix}-revisions.json"
+PROCESSED_IDS_FILE = f"{questions_prefix}_revised_count.txt"
 ENV_FILE = ".env"
 CEREBRAS_MODEL_NAME = "qwen-3-235b-a22b-instruct-2507"   # "qwen-3-235b-a22b-instruct-2507"  "gpt-oss-120b"
 GEMINI_MODEL_NAME = "gemini-2.5-pro"
-BATCH_SIZE = 50
+BATCH_SIZE = 100
 
 SYSTEM_PROMPT = """You are an expert in vocabulary and language assessment."""
 
