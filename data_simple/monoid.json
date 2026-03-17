@@ -1,0 +1,28 @@
+{
+  "word": "monoid",
+  "phonetics": {
+    "british": "/ˈmɒnɔɪd/",
+    "american": "/ˈmɑːnɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical structure consisting of a set equipped with an associative binary operation and an identity element.",
+      "chineseTranslation": "幺半群"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The set of integers under addition forms a monoid with zero as the identity element.",
+      "translation": "整数集合在加法运算下形成一个幺半群，以零作为单位元。"
+    },
+    {
+      "sentence": "In computer science, strings can be viewed as elements of a monoid under concatenation.",
+      "translation": "在计算机科学中，字符串可以被视为在连接运算下幺半群的元素。"
+    },
+    {
+      "sentence": "A monoid is a semigroup with an identity, which makes it useful in algebraic structures.",
+      "translation": "幺半群是一个带有单位元的半群，这使其在代数结构中非常有用。"
+    }
+  ]
+}

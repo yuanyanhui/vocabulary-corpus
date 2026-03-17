@@ -1,0 +1,38 @@
+{
+  "word": "except",
+  "phonetics": {
+    "british": "/ɪkˈsɛpt/",
+    "american": "/ɪkˈsɛpt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "preposition",
+      "definition": "Not including; other than",
+      "chineseTranslation": "除…之外；除了"
+    },
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "But for the fact that; used to introduce an exception",
+      "chineseTranslation": "除非；除了…以外"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To exclude or leave out",
+      "chineseTranslation": "除外；排除"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Everyone went to the party except John.",
+      "translation": "除了约翰，大家都去了派对。"
+    },
+    {
+      "sentence": "The store is open every day except Sundays.",
+      "translation": "商店每天都开，除了周日。"
+    },
+    {
+      "sentence": "She accepted the offer except for one condition.",
+      "translation": "她接受了这个提议，除了一个条件。"
+    }
+  ]
+}

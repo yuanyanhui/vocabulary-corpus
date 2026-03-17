@@ -1,0 +1,33 @@
+{
+  "word": "debug",
+  "phonetics": {
+    "british": "/diːˈbʌɡ/",
+    "american": "/diːˈbʌɡ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To identify and remove errors or bugs from a computer program or system.",
+      "chineseTranslation": "调试，排除故障"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of identifying and removing errors from a computer program.",
+      "chineseTranslation": "调试过程"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The software engineer used a debugger tool to debug the application.",
+      "translation": "软件工程师使用调试工具来调试应用程序。"
+    },
+    {
+      "sentence": "After debugging the system, the website ran smoothly without any crashes.",
+      "translation": "在调试系统后，网站顺利运行，没有任何崩溃。"
+    },
+    {
+      "sentence": "In a team meeting, we discussed how to debug the network issues efficiently.",
+      "translation": "在团队会议中，我们讨论了如何高效地调试网络问题。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "word": "greedy",
+  "phonetics": {
+    "british": "/ˈɡriːdi/",
+    "american": "/ˈɡriːdi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having or showing an intense and selfish desire for something, especially wealth, food, or power.",
+      "chineseTranslation": "贪婪的；贪心的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, describing an algorithm that makes the locally optimal choice at each stage with the hope of finding a global optimum.",
+      "chineseTranslation": "（在计算机科学中）贪婪的（如算法）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She accused him of being greedy and only interested in money.",
+      "translation": "她指责他贪婪，只对金钱感兴趣。"
+    },
+    {
+      "sentence": "The company's greedy pursuit of profits led to environmental damage.",
+      "translation": "公司对利润的贪婪追求导致了环境破坏。"
+    },
+    {
+      "sentence": "A greedy approach in this algorithm selects the nearest node first.",
+      "translation": "这种算法的贪婪方法首先选择最近的节点。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "word": "classifier",
+  "phonetics": {
+    "british": "/ˈklæsɪfaɪə/",
+    "american": "/ˈklæsəˌfaɪər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, algorithm, or system that sorts or categorizes items based on specified criteria, commonly used in machine learning and data processing.",
+      "chineseTranslation": "分类器"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In linguistics, a word or morpheme that specifies the type of noun it accompanies, often used in classifier languages like Chinese (e.g., 'a piece of paper').",
+      "chineseTranslation": "量词或分类词"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In artificial intelligence, a classifier is essential for organizing large datasets.",
+      "translation": "在人工智能中，分类器对于组织大型数据集至关重要。"
+    },
+    {
+      "sentence": "Linguists use classifiers to understand how languages like Chinese structure nouns.",
+      "translation": "语言学家使用分类词来理解像中文这样的语言如何构建名词。"
+    },
+    {
+      "sentence": "The new software includes a simple classifier for sorting emails into folders.",
+      "translation": "新软件包括一个简单的分类器，用于将电子邮件分类到文件夹中。"
+    }
+  ]
+}

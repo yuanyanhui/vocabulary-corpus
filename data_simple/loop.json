@@ -1,0 +1,47 @@
+{
+  "word": "loop",
+  "phonetics": {
+    "british": "/luːp/",
+    "american": "/luːp/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A shape produced by a line, especially a curve, that bends round and crosses itself.",
+      "chineseTranslation": "一个由线条形成的形状，尤其是弯曲后交叉的曲线。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sequence of instructions in a computer program that is repeated until a condition is satisfied.",
+      "chineseTranslation": "计算机程序中重复执行的一系列指令，直到条件满足。"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To form (something) into a loop or loops.",
+      "chineseTranslation": "将某物形成环状或环绕。"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To execute a loop in a program.",
+      "chineseTranslation": "在程序中执行循环。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She tied the rope into a loop to secure the package.",
+      "translation": "她将绳子打成一个环来固定包裹。"
+    },
+    {
+      "sentence": "In programming, a for loop is used to iterate over a collection of items.",
+      "translation": "在编程中，for 循环用于迭代一个项目集合。"
+    },
+    {
+      "sentence": "The roller coaster went into a loop, thrilling the riders.",
+      "translation": "过山车进入了一个环形轨道，让乘客们兴奋不已。"
+    },
+    {
+      "sentence": "We need to break out of this negative feedback loop in our team dynamics.",
+      "translation": "我们需要打破团队动态中的这个负面反馈循环。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "static",
+  "phonetics": {
+    "british": "/ˈstæt.ɪk/",
+    "american": "/ˈstæt̬.ɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not moving, changing, or developing; lacking activity or variation.",
+      "chineseTranslation": "静止的、不变的、不活跃的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to static electricity or static conditions in physics.",
+      "chineseTranslation": "与静电或静态相关的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Crackling or hissing noise in radio or electrical devices caused by atmospheric electricity.",
+      "chineseTranslation": "静电干扰声（如收音机中的嘶嘶声）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a variable or memory that persists throughout the program's execution without changing.",
+      "chineseTranslation": "在计算机中，指静态变量或内存"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The static display in the museum shows ancient artifacts without any movement.",
+      "translation": "博物馆中的静态展示展示了古代文物，没有任何移动。"
+    },
+    {
+      "sentence": "In programming, a static method belongs to the class rather than an instance of the class.",
+      "translation": "在编程中，静态方法属于类本身，而不是类的实例。"
+    },
+    {
+      "sentence": "I could hear static on the radio as the storm approached.",
+      "translation": "当风暴逼近时，我能听到收音机中的静电干扰声。"
+    },
+    {
+      "sentence": "The economy has been static for months, with no significant growth.",
+      "translation": "经济已经静止了好几个月，没有显著增长。"
+    }
+  ]
+}

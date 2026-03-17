@@ -1,0 +1,42 @@
+{
+  "word": "reducer",
+  "phonetics": {
+    "british": "/rɪˈdjuːsə/",
+    "american": "/rɪˈduːsər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or mechanism that reduces the speed, size, or intensity of something, such as a gear in machinery.",
+      "chineseTranslation": "减速器或减少装置"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, a function that takes an initial value and a collection of values, reducing them to a single output, as used in frameworks like Redux.",
+      "chineseTranslation": "在编程中，用于将一组值归约成单一值的函数"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A chemical substance that causes reduction in a reaction, such as in metallurgy or chemistry.",
+      "chineseTranslation": "还原剂"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mechanic installed a new reducer to improve the machine's efficiency.",
+      "translation": "机械师安装了一个新的减速器来提高机器的效率。"
+    },
+    {
+      "sentence": "In JavaScript, a reducer function is essential for managing array operations in functional programming.",
+      "translation": "在 JavaScript 中，归约函数对于函数式编程中的数组操作至关重要。"
+    },
+    {
+      "sentence": "The chemist used a reducer to facilitate the reaction in the laboratory.",
+      "translation": "化学家在实验室中使用还原剂来促进反应。"
+    },
+    {
+      "sentence": "After updating the reducer, the application's state management became more streamlined.",
+      "translation": "更新归约器后，应用的狀態管理变得更加流畅。"
+    }
+  ]
+}

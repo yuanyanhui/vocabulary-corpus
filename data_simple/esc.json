@@ -1,0 +1,33 @@
+{
+  "word": "esc",
+  "phonetics": {
+    "british": "/ɛsk/",
+    "american": "/ɛsk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for 'escape', often referring to the Escape key on a keyboard, which is used to cancel or exit an operation.",
+      "chineseTranslation": "缩写形式，常指键盘上的 Esc 键，用于取消或退出操作。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing contexts, an abbreviation for 'escape sequence', a series of characters used to perform special functions.",
+      "chineseTranslation": "在计算机语境中，指转义序列，一系列字符用于执行特殊功能。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Hit the Esc key to stop the process.",
+      "translation": "按 Esc 键停止进程。"
+    },
+    {
+      "sentence": "The escape sequence \\t creates a tab space in the string.",
+      "translation": "转义序列 \\t 在字符串中创建制表符空格。"
+    },
+    {
+      "sentence": "In video games, pressing Esc often brings up the menu.",
+      "translation": "在视频游戏中，按 Esc 键通常会弹出菜单。"
+    }
+  ]
+}

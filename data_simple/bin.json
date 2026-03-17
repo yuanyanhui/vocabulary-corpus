@@ -1,0 +1,38 @@
+{
+  "word": "bin",
+  "phonetics": {
+    "british": "/bɪn/",
+    "american": "/bɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a container for rubbish or waste, often used in households or public places",
+      "chineseTranslation": "垃圾桶"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "in computing, a folder or area where deleted files are stored before permanent removal",
+      "chineseTranslation": "回收站（计算机术语）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to throw something away in a bin or discard it",
+      "chineseTranslation": "扔进垃圾桶；丢弃"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to empty the bin in the kitchen before guests arrive.",
+      "translation": "我需要在客人到来前清空厨房的垃圾桶。"
+    },
+    {
+      "sentence": "In Windows, files go to the bin when you delete them, but you can restore them later.",
+      "translation": "在Windows系统中，删除的文件会进入回收站，但你可以稍后恢复它们。"
+    },
+    {
+      "sentence": "He decided to bin the old documents to free up space in the office.",
+      "translation": "他决定丢弃旧文件，以腾出办公室的空间。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "deadlock",
+  "phonetics": {
+    "british": "/ˈdɛdlɒk/",
+    "american": "/ˈdɛdlɑːk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A situation in which no progress can be made because opposing sides are unwilling or unable to reach an agreement or move forward.",
+      "chineseTranslation": "僵局"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a condition where two or more processes are unable to proceed because each is waiting for the other to release a resource.",
+      "chineseTranslation": "死锁（计算机术语）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To bring or come to a standstill; to cause a deadlock.",
+      "chineseTranslation": "使陷入僵局"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After hours of debate, the committee found itself in a deadlock over the budget proposal.",
+      "translation": "经过数小时辩论，委员会在预算提案上陷入僵局。"
+    },
+    {
+      "sentence": "In software development, a deadlock can crash the entire system if not handled properly.",
+      "translation": "在软件开发中，如果不正确处理，死锁可能会使整个系统崩溃。"
+    },
+    {
+      "sentence": "The labor union and management are in a deadlock, with neither side willing to compromise.",
+      "translation": "工会和管理层处于僵局，谁都不愿意妥协。"
+    }
+  ]
+}

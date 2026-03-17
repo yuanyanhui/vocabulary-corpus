@@ -1,0 +1,38 @@
+{
+  "word": "semaphore",
+  "phonetics": {
+    "british": "/ˈsɛməfɔː/",
+    "american": "/ˈsɛməfɔr/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A system of signaling using two flags or lights held in the hands and moved into different positions to represent letters of the alphabet or numbers.",
+      "chineseTranslation": "一种使用旗帜或灯光的手势信号系统，用于传达字母或数字"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a variable or abstract data type that controls access to a common resource by multiple processes, ensuring that only one process uses it at a time.",
+      "chineseTranslation": "在计算机科学中，用于进程间同步的变量或数据类型，确保资源被单一进程独占"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To send a message using a semaphore system.",
+      "chineseTranslation": "使用信号系统发送消息"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The soldiers practiced semaphore to send messages across the battlefield.",
+      "translation": "士兵们练习信号系统来在战场上传递消息。"
+    },
+    {
+      "sentence": "Programmers use semaphores to prevent race conditions in multithreaded applications.",
+      "translation": "程序员使用信号量来防止多线程应用中的竞争条件。"
+    },
+    {
+      "sentence": "During the naval exercise, the officer semaphored the coordinates to the fleet.",
+      "translation": "在海军演习中，军官使用信号系统向舰队发送坐标。"
+    }
+  ]
+}

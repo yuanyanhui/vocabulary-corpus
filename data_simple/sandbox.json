@@ -1,0 +1,33 @@
+{
+  "word": "sandbox",
+  "phonetics": {
+    "british": "/ˈsændbɒks/",
+    "american": "/ˈsændbɑːks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A container or area filled with sand, typically used for children to play in.",
+      "chineseTranslation": "沙箱，儿童玩耍的沙坑"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a controlled environment where programs or code can be tested without affecting the main system.",
+      "chineseTranslation": "在计算机中，指测试软件的隔离环境"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The children spent the afternoon building castles in the sandbox.",
+      "translation": "孩子们在沙箱里花了整个下午建造城堡。"
+    },
+    {
+      "sentence": "In software development, a sandbox allows for safe experimentation with code.",
+      "translation": "在软件开发中，沙箱允许安全地实验代码。"
+    },
+    {
+      "sentence": "The company implemented a sandbox policy to prevent malware from spreading.",
+      "translation": "公司实施了沙箱政策来防止恶意软件传播。"
+    }
+  ]
+}

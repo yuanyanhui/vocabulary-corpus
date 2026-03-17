@@ -1,0 +1,33 @@
+{
+  "word": "discriminant",
+  "phonetics": {
+    "british": "/dɪˈskrɪmɪnənt/",
+    "american": "/dɪˈskrɪmənənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A value calculated from the coefficients of a polynomial equation, particularly a quadratic equation of the form ax² + bx + c = 0, where it is expressed as b² - 4ac, used to determine the nature of the roots (real, repeated, or complex).",
+      "chineseTranslation": "判别式"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In statistics and discriminant analysis, a function or measure that separates two or more groups based on a set of variables.",
+      "chineseTranslation": "区分函数"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the discriminant helps us understand whether a quadratic equation has two real solutions or none.",
+      "translation": "在数学中，判别式帮助我们了解二次方程是否有两个实数解或无解。"
+    },
+    {
+      "sentence": "The statistician used discriminant analysis to differentiate between the two population groups based on their characteristics.",
+      "translation": "统计学家使用判别分析来根据特征区分两个种群。"
+    },
+    {
+      "sentence": "For the equation x² + 2x + 1 = 0, the discriminant is zero, indicating a repeated root.",
+      "translation": "对于方程 x² + 2x + 1 = 0，判别式为零，表示有一个重根。"
+    }
+  ]
+}

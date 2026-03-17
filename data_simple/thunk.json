@@ -1,0 +1,33 @@
+{
+  "word": "thunk",
+  "phonetics": {
+    "british": "/θʌŋk/",
+    "american": "/θʌŋk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A programming mechanism that allows for delayed computation or conversion between different function call conventions, often used in compilers and runtime environments.",
+      "chineseTranslation": "一种编程机制，用于延迟计算或在不同函数调用约定之间进行转换，常用于编译器和运行时环境。"
+    },
+    {
+      "partOfSpeech": "verb (non-standard)",
+      "definition": "A humorous or dialectical past tense of 'think', used informally to mean 'thought'.",
+      "chineseTranslation": "非标准过去式形式，意为“想”的过去式，通常用于幽默或方言中。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The compiler generates a thunk to bridge the gap between the two calling conventions.",
+      "translation": "编译器生成一个 thunk 来桥接两种调用约定之间的差距。"
+    },
+    {
+      "sentence": "He thunk it was a good idea at the time.",
+      "translation": "他当时觉得这是一个好主意。"
+    },
+    {
+      "sentence": "Programmers use thunks to optimize memory in lazy evaluation systems.",
+      "translation": "程序员使用 thunks 来优化惰性求值系统中的内存。"
+    }
+  ]
+}

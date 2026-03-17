@@ -1,0 +1,38 @@
+{
+  "word": "median",
+  "phonetics": {
+    "british": "/ˈmiːdiən/",
+    "american": "/ˈmiːdiən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The middle value in a list of numbers arranged in order, such that half the numbers are below it and half are above it.",
+      "chineseTranslation": "中值（统计学中排序后中间的值）"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Situated in the middle or relating to the middle of something.",
+      "chineseTranslation": "中间的；正中的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A line segment joining a vertex of a triangle to the midpoint of the opposite side.",
+      "chineseTranslation": "中线（三角形中从顶点到对边中点的线段）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics, the median is often used to represent central tendency in skewed distributions.",
+      "translation": "在统计学中，中值常用于表示偏态分布中的中心趋势。"
+    },
+    {
+      "sentence": "The median strip on the road helps prevent head-on collisions.",
+      "translation": "道路上的中间隔离带有助于防止迎面相撞。"
+    },
+    {
+      "sentence": "For the triangle ABC, the median from vertex A intersects the midpoint of side BC.",
+      "translation": "对于三角形ABC，从顶点A的中线与边BC的中点相交。"
+    }
+  ]
+}

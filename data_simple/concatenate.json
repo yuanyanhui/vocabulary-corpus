@@ -1,0 +1,33 @@
+{
+  "word": "concatenate",
+  "phonetics": {
+    "british": "/kənˈkætɪneɪt/",
+    "american": "/kənˈkætəˌneɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to link together in a chain or series, especially in computing or data processing",
+      "chineseTranslation": "连接在一起"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "linked together in a chain or series",
+      "chineseTranslation": "链状连接的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The database system concatenates user inputs to form a complete query.",
+      "translation": "数据库系统将用户输入连接起来形成完整的查询。"
+    },
+    {
+      "sentence": "In molecular biology, scientists concatenate DNA sequences to study genetic patterns.",
+      "translation": "在分子生物学中，科学家们连接DNA序列来研究遗传模式。"
+    },
+    {
+      "sentence": "She decided to concatenate her notes from the meeting into a cohesive report.",
+      "translation": "她决定将会议笔记连接成一个连贯的报告。"
+    }
+  ]
+}

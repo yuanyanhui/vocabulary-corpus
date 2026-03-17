@@ -1,0 +1,28 @@
+{
+  "word": "covariable",
+  "phonetics": {
+    "british": "/kəʊˈvɛərɪəbl/",
+    "american": "/koʊˈvɛr.i.ə.bəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A variable that is included in a statistical model to account for its potential influence on the dependent variable, often used to control for confounding factors.",
+      "chineseTranslation": "协变量"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers adjusted for covariables such as age and gender in their analysis of the study's data.",
+      "translation": "研究人员在分析研究数据时，对年龄和性别等协变量进行了调整。"
+    },
+    {
+      "sentence": "The covariable of socioeconomic status was found to significantly impact the results of the experiment.",
+      "translation": "社会经济地位这一协变量被发现对实验结果有显著影响。"
+    },
+    {
+      "sentence": "In a simple linear regression, the covariable might be excluded if it shows no correlation.",
+      "translation": "在简单线性回归中，如果协变量显示无相关性，则可能被排除。"
+    }
+  ]
+}

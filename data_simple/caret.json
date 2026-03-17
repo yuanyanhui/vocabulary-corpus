@@ -1,0 +1,33 @@
+{
+  "word": "caret",
+  "phonetics": {
+    "british": "/ˈkærət/",
+    "american": "/ˈkɛrət/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A symbol (^) used in writing or proofreading to indicate the point where something is to be inserted.",
+      "chineseTranslation": "插入标记（^），用于表示插入位置的符号"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the ^ symbol used for operations such as exponentiation, bitwise XOR, or as a cursor in text editors.",
+      "chineseTranslation": "在计算机中，表示指数、位异或或其他操作的符号（^）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The editor used a caret to mark the missing word in the manuscript.",
+      "translation": "编辑使用插入标记来标注手稿中缺失的单词。"
+    },
+    {
+      "sentence": "Programmers often use the caret in code for exponentiation, like 2 ^ 3 equals 8.",
+      "translation": "程序员经常在代码中使用插入符号进行指数运算，比如 2 ^ 3 等于 8。"
+    },
+    {
+      "sentence": "In proofreading, the caret is essential for indicating revisions without altering the original text.",
+      "translation": "在校对中，插入标记是表示修改而不改变原文的必要工具。"
+    }
+  ]
+}

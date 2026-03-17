@@ -1,0 +1,38 @@
+{
+  "word": "id",
+  "phonetics": {
+    "british": "/ɪd/",
+    "american": "/ɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In psychoanalysis, the primitive and instinctual part of the psyche that contains sexual and aggressive drives and hidden memories, as described by Sigmund Freud.",
+      "chineseTranslation": "在精神分析中，指弗洛伊德理论中的本我，即原始的、基于本能的精神部分，包含性欲和攻击性驱力以及隐藏的记忆。"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for 'identification', referring to a document or number used to identify a person, such as an ID card or passport.",
+      "chineseTranslation": "缩写形式，指“身份证明”，如身份证或护照，用于识别个人的文件或号码。"
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "An identifier, such as a unique code or string used in programming, databases, or systems to distinguish one entity from another.",
+      "chineseTranslation": "在计算机领域，指标识符，如用于编程或数据库中的唯一代码或字符串，用来区分不同的实体。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She forgot her ID at home and couldn't board the flight.",
+      "translation": "她把身份证忘在家里了，因此无法登机。"
+    },
+    {
+      "sentence": "In psychology, the id operates on the pleasure principle.",
+      "translation": "在心理学中，本我遵循快乐原则运作。"
+    },
+    {
+      "sentence": "The database uses a unique ID for each record.",
+      "translation": "数据库为每条记录使用一个唯一标识符。"
+    }
+  ]
+}

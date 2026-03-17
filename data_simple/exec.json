@@ -1,0 +1,38 @@
+{
+  "word": "exec",
+  "phonetics": {
+    "british": "/ɪɡˈzɛk/",
+    "american": "/ɪɡˈzɛk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An abbreviation for 'executive', referring to a high-level manager or leader in a business or organization; in computing, it refers to a system call or command that replaces the current process image with a new one.",
+      "chineseTranslation": "执行者；高管；（计算机中的）执行命令"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To perform or carry out a task, command, or function, often used in computing contexts to mean executing a program.",
+      "chineseTranslation": "执行"
+    },
+    {
+      "partOfSpeech": "abbreviation",
+      "definition": "Short for 'execute' or 'executive', commonly used in professional and technical fields.",
+      "chineseTranslation": "缩写形式，用于表示执行或高管"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company hired a new exec to lead the marketing team.",
+      "translation": "公司聘请了一位新高管来领导营销团队。"
+    },
+    {
+      "sentence": "In programming, you can use exec to execute external commands.",
+      "translation": "在编程中，你可以使用 exec 来执行外部命令。"
+    },
+    {
+      "sentence": "The exec made the final decision on the merger.",
+      "translation": "执行官做出了关于合并的最终决定。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "vector",
+  "phonetics": {
+    "british": "/ˈvɛktə/",
+    "american": "/ˈvɛktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity that has both magnitude and direction, often represented by an arrow in mathematics and physics.",
+      "chineseTranslation": "向量（具有大小和方向的量）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An organism, such as an insect, that transmits a pathogen from one host to another.",
+      "chineseTranslation": "媒介或载体（如昆虫传播病原体）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To direct or guide something along a specific path, often in computing or navigation.",
+      "chineseTranslation": "引导或定向"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist explained how velocity is a vector because it includes both speed and direction.",
+      "translation": "物理学家解释了速度为什么是一个向量，因为它包括速度和方向。"
+    },
+    {
+      "sentence": "In computer graphics, vector images maintain quality when resized.",
+      "translation": "在计算机图形学中，向量图像在调整大小时保持质量不变。"
+    },
+    {
+      "sentence": "The mosquito acts as a vector for the Zika virus, spreading it across populations.",
+      "translation": "蚊子作为寨卡病毒的媒介，在人群中传播它。"
+    }
+  ]
+}

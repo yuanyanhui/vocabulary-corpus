@@ -1,0 +1,38 @@
+{
+  "word": "packer",
+  "phonetics": {
+    "british": "/ˈpækər/",
+    "american": "/ˈpækər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or machine that packs items, such as goods for shipping or storage.",
+      "chineseTranslation": "打包者或包装工"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a tool or software used for creating machine images, such as HashiCorp Packer.",
+      "chineseTranslation": "打包工具（如用于创建虚拟机镜像的软件）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports, a player on a football team whose primary role is to block for the ball carrier.",
+      "chineseTranslation": "（橄榄球中的）阻挡队员"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The warehouse hired more packers to handle the holiday rush.",
+      "translation": "仓库雇佣了更多打包者来应对节假日高峰期。"
+    },
+    {
+      "sentence": "In American football, a good packer can make all the difference in a game.",
+      "translation": "在美国橄榄球中，一名优秀的阻挡队员能改变比赛的结局。"
+    },
+    {
+      "sentence": "HashiCorp Packer is an open-source tool that simplifies the process of building machine images.",
+      "translation": "HashiCorp Packer 是一个开源工具，用于简化构建机器镜像的过程。"
+    }
+  ]
+}

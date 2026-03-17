@@ -1,0 +1,33 @@
+{
+  "word": "debit",
+  "phonetics": {
+    "british": "/ˈdɛbɪt/",
+    "american": "/ˈdɛbɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an entry recording a sum owed, listed on the left-hand side or column of an account",
+      "chineseTranslation": "借方；欠款记录"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to record an amount owed in an account; to charge an account with a debt",
+      "chineseTranslation": "记入借方；从账户中扣款"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bank will debit your account for the overdraft fee.",
+      "translation": "银行将从你的账户中扣除透支费用。"
+    },
+    {
+      "sentence": "Every transaction in the ledger must have a debit and a credit entry.",
+      "translation": "账本中的每笔交易都必须有借方和贷方记录。"
+    },
+    {
+      "sentence": "She noticed a debit of $200 on her bank statement.",
+      "translation": "她在银行对账单上注意到一笔200美元的扣款。"
+    }
+  ]
+}

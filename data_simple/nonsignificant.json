@@ -1,0 +1,33 @@
+{
+  "word": "nonsignificant",
+  "phonetics": {
+    "british": "/ˌnɒn.sɪɡˈnɪf.ɪ.kənt/",
+    "american": "/ˌnɑːn.sɪɡˈnɪf.ɪ.kənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not significant; lacking importance or meaning, often in a statistical context where results do not meet the threshold for significance.",
+      "chineseTranslation": "不显著的；不重要的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In scientific or statistical terms, indicating that observed differences or effects are not statistically meaningful and could be due to chance.",
+      "chineseTranslation": "在统计学中，不具有统计显著性的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the study, the p-value was above 0.05, making the findings nonsignificant.",
+      "translation": "在该研究中，p值高于0.05，使发现不显著。"
+    },
+    {
+      "sentence": "Despite initial hopes, the survey data showed nonsignificant correlations between the variables.",
+      "translation": "尽管最初抱有希望，调查数据显示变量之间没有显著相关性。"
+    },
+    {
+      "sentence": "The economist argued that the economic indicators were nonsignificant in predicting market trends.",
+      "translation": "经济学家认为这些经济指标在预测市场趋势时不显著。"
+    }
+  ]
+}

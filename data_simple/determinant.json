@@ -1,0 +1,38 @@
+{
+  "word": "determinant",
+  "phonetics": {
+    "british": "/dɪˈtɜːmɪnənt/",
+    "american": "/dɪˈtɝːmɪnənt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A factor or element that decides or influences the outcome of something; in mathematics, a scalar value computed from the elements of a square matrix.",
+      "chineseTranslation": "决定因素；在数学中，为一个方阵的标量值"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "Something that establishes or fixes the nature, value, or extent of an outcome.",
+      "chineseTranslation": "确立或固定结果性质、价值或范围的事物"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Serving to determine or decide something.",
+      "chineseTranslation": "决定或确定的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The determinant of this matrix is calculated to be zero, indicating it is singular.",
+      "translation": "这个矩阵的行列式计算结果为零，表明它是奇异的。"
+    },
+    {
+      "sentence": "Genetics can be a major determinant in determining one's susceptibility to certain diseases.",
+      "translation": "遗传学可以是决定某人对某些疾病易感性的主要因素。"
+    },
+    {
+      "sentence": "In business, market demand is often the primary determinant of pricing strategies.",
+      "translation": "在商业中，市场需求通常是定价策略的主要决定因素。"
+    }
+  ]
+}

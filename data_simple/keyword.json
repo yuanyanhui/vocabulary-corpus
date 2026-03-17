@@ -1,0 +1,33 @@
+{
+  "word": "keyword",
+  "phonetics": {
+    "british": "/ˈkiːwɜːd/",
+    "american": "/ˈkiːwərd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word or phrase that acts as a key to a concept, topic, or data set, often used in contexts like computing, search engines, or indexing to facilitate retrieval or identification.",
+      "chineseTranslation": "关键词"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, a reserved word in a language that has a specific meaning and cannot be used as an identifier.",
+      "chineseTranslation": "关键字（编程术语）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The keyword 'sustainability' appears frequently in environmental discussions.",
+      "translation": "关键词 'sustainability' 在环境讨论中频繁出现。"
+    },
+    {
+      "sentence": "Programmers must avoid using reserved keywords like 'int' as variable names.",
+      "translation": "程序员必须避免将保留关键字如 'int' 用作变量名。"
+    },
+    {
+      "sentence": "She entered the keyword into the search bar and found numerous related articles.",
+      "translation": "她输入关键词到搜索栏并找到了许多相关文章。"
+    }
+  ]
+}

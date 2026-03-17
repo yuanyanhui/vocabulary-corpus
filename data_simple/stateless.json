@@ -1,0 +1,33 @@
+{
+  "word": "stateless",
+  "phonetics": {
+    "british": "/ˈsteɪtləs/",
+    "american": "/ˈsteɪt.ləs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not recognized as a citizen of any country; lacking a nationality or state affiliation.",
+      "chineseTranslation": "无国籍的；没有国家的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, not storing or maintaining any information about previous interactions; session-independent.",
+      "chineseTranslation": "（在计算机术语中）无状态的；不保存先前交互信息的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Many refugees become stateless due to conflicts that erase their national identities.",
+      "translation": "许多难民由于冲突而变得无国籍。"
+    },
+    {
+      "sentence": "In web development, a stateless application simplifies server management by not retaining user sessions.",
+      "translation": "在网络开发中，无状态应用通过不保留用户会话来简化服务器管理。"
+    },
+    {
+      "sentence": "The novel explores the plight of a stateless family trying to navigate international borders.",
+      "translation": "这部小说探讨了一个无国籍家庭试图穿越国际边界的困境。"
+    }
+  ]
+}

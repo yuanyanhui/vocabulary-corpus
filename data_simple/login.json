@@ -1,0 +1,38 @@
+{
+  "word": "login",
+  "phonetics": {
+    "british": "/ˈlɒɡ.ɪn/",
+    "american": "/ˈlɔːɡ.ɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of gaining access to a computer system by entering a username and password.",
+      "chineseTranslation": "登录过程"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gain access to a computer system by entering a username and password.",
+      "chineseTranslation": "登录"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A combination of a username and password used to access a system.",
+      "chineseTranslation": "登录凭证"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to login to my email account every morning.",
+      "translation": "我每天早上都需要登录我的电子邮件账户。"
+    },
+    {
+      "sentence": "After entering your credentials, click the login button to proceed.",
+      "translation": "输入您的凭证后，点击登录按钮继续。"
+    },
+    {
+      "sentence": "The system failed to login due to an incorrect password.",
+      "translation": "系统因密码错误而无法登录。"
+    }
+  ]
+}

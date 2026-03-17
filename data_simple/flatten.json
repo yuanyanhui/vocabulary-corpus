@@ -1,0 +1,38 @@
+{
+  "word": "flatten",
+  "phonetics": {
+    "british": "/ˈflæt(ə)n/",
+    "american": "/ˈflætən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make something flat or flatter, often by pressing or smoothing",
+      "chineseTranslation": "使变平；压平"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to level or raze something, such as a structure",
+      "chineseTranslation": "夷平；摧毁"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to convert a multi-dimensional structure into a one-dimensional one",
+      "chineseTranslation": "扁平化（例如数组）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She used a roller to flatten the dough for the pie.",
+      "translation": "她用压路机将派馅饼面团压平。"
+    },
+    {
+      "sentence": "The earthquake flattened several buildings in the city center.",
+      "translation": "地震夷平了市中心的几座建筑。"
+    },
+    {
+      "sentence": "In programming, we can flatten this array to simplify the data structure.",
+      "translation": "在编程中，我们可以扁平化这个数组以简化数据结构。"
+    }
+  ]
+}

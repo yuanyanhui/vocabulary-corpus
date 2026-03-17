@@ -1,0 +1,33 @@
+{
+  "word": "byte",
+  "phonetics": {
+    "british": "/baɪt/",
+    "american": "/baɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A unit of digital information that typically consists of eight bits, used as a basic unit of storage in computing and telecommunications.",
+      "chineseTranslation": "字节"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In informal contexts, a small amount or portion, though this is less common and derived from the original meaning of 'bite'.",
+      "chineseTranslation": "一小口或少量（非技术语境中的次要用法）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Each byte in the memory represents a unique character in the ASCII table.",
+      "translation": "内存中的每个字节都代表 ASCII 表中的一个独特字符。"
+    },
+    {
+      "sentence": "The software update is only a few bytes, so it downloads quickly.",
+      "translation": "软件更新只有几个字节，所以下载很快。"
+    },
+    {
+      "sentence": "In computing history, the concept of a byte evolved to standardize data processing.",
+      "translation": "在计算历史中，字节的概念演变为标准化数据处理。"
+    }
+  ]
+}

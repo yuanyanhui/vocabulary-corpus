@@ -1,0 +1,38 @@
+{
+  "word": "subset",
+  "phonetics": {
+    "british": "/ˈsʌbsɛt/",
+    "american": "/ˈsʌbsɛt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A collection of elements that is part of a larger set, where every element of the subset is also an element of the larger set.",
+      "chineseTranslation": "子集"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing or data structures, a subset refers to a derived collection from a larger dataset, often used in algorithms or database queries.",
+      "chineseTranslation": "子集（在计算机或数据结构中）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To form or treat as a subset, often in mathematical or logical contexts.",
+      "chineseTranslation": "形成子集或视为子集"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In set theory, a subset is a set where all elements are contained within another set.",
+      "translation": "在集合论中，子集是一个所有元素都包含在另一个集合中的集合。"
+    },
+    {
+      "sentence": "The marketing team analyzed a subset of the customer data to identify trends.",
+      "translation": "营销团队分析了客户数据的一个子集来识别趋势。"
+    },
+    {
+      "sentence": "Programmers often work with subsets of large datasets to optimize performance.",
+      "translation": "程序员经常处理大型数据集的子集来优化性能。"
+    }
+  ]
+}

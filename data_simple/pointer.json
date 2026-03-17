@@ -1,0 +1,47 @@
+{
+  "word": "pointer",
+  "phonetics": {
+    "british": "/ˈpɔɪntə/",
+    "american": "/ˈpɔɪntər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A long, thin object, such as a rod or stick, used for pointing at things, especially on a map or during a presentation.",
+      "chineseTranslation": "指针；教鞭"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A helpful piece of advice, hint, or information that guides someone.",
+      "chineseTranslation": "提示；建议"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a variable that stores the memory address of another variable.",
+      "chineseTranslation": "指针（计算机术语）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To give advice or indicate something indirectly.",
+      "chineseTranslation": "给出提示；间接指明"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The teacher used a pointer to highlight key points on the map.",
+      "translation": "老师用指针突出地图上的关键点。"
+    },
+    {
+      "sentence": "She gave me a useful pointer on how to negotiate a better deal.",
+      "translation": "她给了我一个关于如何谈判更好交易的有用提示。"
+    },
+    {
+      "sentence": "In programming, a pointer allows direct access to memory locations.",
+      "translation": "在编程中，指针允许直接访问内存位置。"
+    },
+    {
+      "sentence": "His comments served as a pointer to the underlying issues in the company.",
+      "translation": "他的评论作为对公司潜在问题的提示。"
+    }
+  ]
+}

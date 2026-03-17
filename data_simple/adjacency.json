@@ -1,0 +1,33 @@
+{
+  "word": "adjacency",
+  "phonetics": {
+    "british": "/əˈdʒeɪsənsi/",
+    "american": "/əˈdʒeɪsənsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state of being next to or adjoining something; nearness in space or position.",
+      "chineseTranslation": "邻近；毗邻"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics and computer science, a relationship between elements that are directly connected, such as in graphs or matrices.",
+      "chineseTranslation": "（数学或计算机科学中的）相邻关系"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The adjacency of the two buildings made it easy to move between them.",
+      "translation": "两座建筑的邻近使得在它们之间移动变得容易。"
+    },
+    {
+      "sentence": "In urban planning, adjacency to public transport is a key factor for residential development.",
+      "translation": "在城市规划中，与公共交通的毗邻是住宅开发的关键因素。"
+    },
+    {
+      "sentence": "The algorithm analyzes the adjacency of nodes in the network to detect potential vulnerabilities.",
+      "translation": "该算法分析网络中节点的相邻关系以检测潜在漏洞。"
+    }
+  ]
+}

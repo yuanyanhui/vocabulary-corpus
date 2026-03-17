@@ -1,0 +1,33 @@
+{
+  "word": "randomize",
+  "phonetics": {
+    "british": "/ˈrændəmaɪz/",
+    "american": "/ˈrændəmaɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to arrange or select items in a way that each has an equal chance of occurring or being chosen, often to eliminate bias or pattern",
+      "chineseTranslation": "使随机化"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to introduce randomness into a process, system, or data set for purposes such as simulation, testing, or security",
+      "chineseTranslation": "引入随机性"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers often randomize the order of questions in surveys to avoid order bias.",
+      "translation": "研究人员经常对调查问卷的问题顺序进行随机化，以避免顺序偏差。"
+    },
+    {
+      "sentence": "In video games, developers randomize enemy spawns to keep gameplay exciting.",
+      "translation": "在视频游戏中，开发人员随机化敌人的出现位置，以保持游戏的刺激性。"
+    },
+    {
+      "sentence": "To protect user privacy, the app will randomize the data before sending it to the server.",
+      "translation": "为了保护用户隐私，该应用会在将数据发送到服务器前对其进行随机化。"
+    }
+  ]
+}

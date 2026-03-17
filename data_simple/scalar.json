@@ -1,0 +1,33 @@
+{
+  "word": "scalar",
+  "phonetics": {
+    "british": "/ˈskeɪlə/",
+    "american": "/ˈskeɪlər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quantity that has magnitude but no direction, such as mass or temperature, as opposed to a vector.",
+      "chineseTranslation": "标量"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Of or relating to a scalar quantity or value.",
+      "chineseTranslation": "标量的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The physicist explained that temperature is a scalar, not a vector.",
+      "translation": "物理学家解释说温度是一种标量，而不是向量。"
+    },
+    {
+      "sentence": "In programming, a scalar variable holds a single value, like an integer or string.",
+      "translation": "在编程中，标量变量保存单个值，如整数或字符串。"
+    },
+    {
+      "sentence": "She used scalar values to simplify the complex equation in her research.",
+      "translation": "她在研究中使用了标量值来简化复杂的方程。"
+    }
+  ]
+}

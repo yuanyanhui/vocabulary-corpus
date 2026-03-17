@@ -1,0 +1,38 @@
+{
+  "word": "packet",
+  "phonetics": {
+    "british": "/ˈpækɪt/",
+    "american": "/ˈpækɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small container or envelope containing items such as letters, goods, or substances.",
+      "chineseTranslation": "小包；包裹"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and networking, a unit of data sent over a network.",
+      "chineseTranslation": "数据包"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To make up or enclose something in a packet.",
+      "chineseTranslation": "将某物打包"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I received a packet of seeds in the mail today.",
+      "translation": "我今天收到了邮件中的一包种子。"
+    },
+    {
+      "sentence": "In networking, a packet can be lost during transmission, causing errors.",
+      "translation": "在网络中，数据包在传输过程中可能丢失，从而导致错误。"
+    },
+    {
+      "sentence": "He packeted the documents carefully before sending them overseas.",
+      "translation": "他小心地将文件打包后寄往海外。"
+    }
+  ]
+}

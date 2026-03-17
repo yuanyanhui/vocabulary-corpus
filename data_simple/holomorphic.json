@@ -1,0 +1,28 @@
+{
+  "word": "holomorphic",
+  "phonetics": {
+    "british": "/ˌhɒləˈmɒfɪk/",
+    "american": "/ˌhɑːləˈmɑːfɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In complex analysis, a function is holomorphic if it is complex differentiable at every point in its domain, meaning it is analytic and satisfies the Cauchy-Riemann equations.",
+      "chineseTranslation": "全纯的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The exponential function e^z is holomorphic throughout the entire complex plane.",
+      "translation": "指数函数 e^z 在整个复平面上都是全纯的。"
+    },
+    {
+      "sentence": "In advanced calculus, we study whether a given function is holomorphic or not.",
+      "translation": "在高等微积分中，我们研究给定的函数是否是全纯的。"
+    },
+    {
+      "sentence": "Holomorphic functions play a crucial role in solving problems in physics and engineering.",
+      "translation": "全纯函数在物理和工程问题解决中发挥关键作用。"
+    }
+  ]
+}

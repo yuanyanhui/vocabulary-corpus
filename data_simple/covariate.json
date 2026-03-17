@@ -1,0 +1,28 @@
+{
+  "word": "covariate",
+  "phonetics": {
+    "british": "/kəʊˈvɛərɪət/",
+    "american": "/koʊˈvɛriət/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A variable that is possibly predictive of the outcome under study and may influence the relationship between the independent and dependent variables, often used in statistical models to control for confounding factors.",
+      "chineseTranslation": "协变量"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study included age and gender as covariates to account for their potential impact on the results.",
+      "translation": "该研究将年龄和性别作为协变量，以考虑它们对结果的潜在影响。"
+    },
+    {
+      "sentence": "Economists use covariates like inflation rates in their models to predict economic growth.",
+      "translation": "经济学家在模型中使用通胀率等协变量来预测经济增长。"
+    },
+    {
+      "sentence": "In machine learning, covariates help improve the accuracy of predictive algorithms.",
+      "translation": "在机器学习中，协变量有助于提高预测算法的准确性。"
+    }
+  ]
+}

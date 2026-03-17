@@ -1,0 +1,38 @@
+{
+  "word": "define",
+  "phonetics": {
+    "british": "/dɪˈfaɪn/",
+    "american": "/dɪˈfaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to state or describe exactly the nature, scope, or meaning of (something, especially an abstract concept)",
+      "chineseTranslation": "定义"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to make clear the outline or boundaries of (something)",
+      "chineseTranslation": "界定"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a function or statement in programming that specifies the implementation of a subroutine or method",
+      "chineseTranslation": "定义（在编程中）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The dictionary defines the word 'define' as to explain the meaning of something.",
+      "translation": "字典将“define”一词定义为解释某事物的含义。"
+    },
+    {
+      "sentence": "Scientists need to define the parameters of the experiment before starting.",
+      "translation": "科学家需要在开始实验前定义实验参数。"
+    },
+    {
+      "sentence": "In everyday conversation, people often define success differently based on their experiences.",
+      "translation": "在日常对话中，人们经常根据自己的经历来定义成功。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "normalize",
+  "phonetics": {
+    "british": "/ˈnɔːməlaɪz/",
+    "american": "/ˈnɔːrməlaɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To bring or return something to a normal or standard condition or form, often in a systematic way.",
+      "chineseTranslation": "使正常化；标准化"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In statistics or mathematics, to adjust values to a standard scale, such as between 0 and 1.",
+      "chineseTranslation": "（在统计或数学中）将值调整到标准范围"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being made normal or standard.",
+      "chineseTranslation": "可被正常化的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The government implemented policies to normalize the economy after the recession.",
+      "translation": "政府实施政策以在经济衰退后使经济正常化。"
+    },
+    {
+      "sentence": "In machine learning, we normalize the input features to improve model accuracy.",
+      "translation": "在机器学习中，我们标准化输入特征以提高模型准确性。"
+    },
+    {
+      "sentence": "It's important to normalize social interactions in a diverse community.",
+      "translation": "在多元化的社区中，使社会互动正常化很重要。"
+    }
+  ]
+}

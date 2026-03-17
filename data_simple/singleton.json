@@ -1,0 +1,33 @@
+{
+  "word": "singleton",
+  "phonetics": {
+    "british": "/ˈsɪŋɡl̩tən/",
+    "american": "/ˈsɪŋɡl̩tɑːn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A single item or individual, often used in contexts like statistics to refer to a unique observation, or in computing as a design pattern that ensures a class has only one instance.",
+      "chineseTranslation": "单例；单一观察"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In card games such as bridge, a holding of only one card in a suit.",
+      "chineseTranslation": "单张牌"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer implemented a singleton to manage the database connection efficiently.",
+      "translation": "开发人员实现了一个单例来高效管理数据库连接。"
+    },
+    {
+      "sentence": "In this dataset, the singleton represents an outlier that needs further investigation.",
+      "translation": "在这个数据集里，单一观察代表了一个需要进一步调查的异常值。"
+    },
+    {
+      "sentence": "He held a singleton in hearts, which made his bid risky.",
+      "translation": "他手里的红桃只有一张牌，这让他的叫牌变得冒险。"
+    }
+  ]
+}

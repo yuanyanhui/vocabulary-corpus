@@ -1,0 +1,33 @@
+{
+  "word": "atomicity",
+  "phonetics": {
+    "british": "/ˌæt.əˈmɪs.ɪ.ti/",
+    "american": "/ˌæt̬.əˈmɪs.ə.t̬i/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality or state of being composed of indivisible units; in computing, the property that ensures a series of operations is completed as a single, indivisible action, or not at all.",
+      "chineseTranslation": "原子性"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, the number of atoms in a molecule of an element.",
+      "chineseTranslation": "原子度"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The atomicity of the database operation prevents partial updates that could lead to errors.",
+      "translation": "数据库操作的原子性可以防止部分更新导致的错误。"
+    },
+    {
+      "sentence": "In modern computing, atomicity ensures that money transfers are either fully completed or not at all.",
+      "translation": "在现代计算中，原子性确保资金转账要么完全完成，要么完全不发生。"
+    },
+    {
+      "sentence": "Chemists study the atomicity of elements to understand molecular structures.",
+      "translation": "化学家研究元素的原子度来理解分子结构。"
+    }
+  ]
+}

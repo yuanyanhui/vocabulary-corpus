@@ -1,0 +1,33 @@
+{
+  "word": "generator",
+  "phonetics": {
+    "british": "/ˈdʒɛnəreɪtə/",
+    "american": "/ˈdʒɛnəreɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device that converts mechanical energy into electrical energy, or produces something in a systematic way.",
+      "chineseTranslation": "发电机；发生器"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a special routine that can be used to control the iteration behavior of a loop.",
+      "chineseTranslation": "生成器（计算机术语）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The wind turbine's generator converts kinetic energy into electricity.",
+      "translation": "风力涡轮机的发电机将动能转化为电能。"
+    },
+    {
+      "sentence": "In Python, a generator function uses 'yield' to produce a sequence of values.",
+      "translation": "在Python中，生成器函数使用'yield'来产生一系列值。"
+    },
+    {
+      "sentence": "The emergency generator kicked in when the main power failed.",
+      "translation": "当主电源失败时，紧急发电机启动了。"
+    }
+  ]
+}

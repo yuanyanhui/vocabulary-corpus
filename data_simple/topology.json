@@ -1,0 +1,38 @@
+{
+  "word": "topology",
+  "phonetics": {
+    "british": "/təˈpɒlədʒi/",
+    "american": "/təˈpɑːlədʒi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The branch of mathematics that deals with the properties of space that are preserved under continuous transformations, such as stretching or bending, but not tearing or gluing.",
+      "chineseTranslation": "拓扑学"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The arrangement or configuration of elements in a particular system, such as the layout of a network or the structure of a geographical area.",
+      "chineseTranslation": "拓扑结构"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The study of the properties and spatial relations of objects that remain unchanged under certain deformations.",
+      "chineseTranslation": "拓扑性质"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In topology, a doughnut and a coffee cup are considered topologically equivalent because they both have one hole.",
+      "translation": "在拓扑学中，一个甜甜圈和一个咖啡杯被认为是拓扑等价的，因为它们都有一个洞。"
+    },
+    {
+      "sentence": "The topology of the city's road network affects traffic flow during peak hours.",
+      "translation": "城市道路网络的拓扑结构影响高峰时段的交通流量。"
+    },
+    {
+      "sentence": "Modern computer science relies heavily on understanding the topology of data structures.",
+      "translation": "现代计算机科学 heavily 依赖于理解数据结构的拓扑。"
+    }
+  ]
+}

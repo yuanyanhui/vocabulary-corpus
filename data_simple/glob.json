@@ -1,0 +1,33 @@
+{
+  "word": "glob",
+  "phonetics": {
+    "british": "/ɡlɒb/",
+    "american": "/ɡlɑb/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A small drop or lump of a viscous liquid, such as glue or paint.",
+      "chineseTranslation": "一小滴或一小块粘稠液体（如胶水或油漆）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a pattern used for matching file names or strings, often involving wildcards.",
+      "chineseTranslation": "在计算机中，用于匹配文件名或字符串的模式，常涉及通配符"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist observed a glob of oil floating on the water surface.",
+      "translation": "科学家观察到一小滴油浮在水面上。"
+    },
+    {
+      "sentence": "In programming, you can use a glob to select multiple files at once.",
+      "translation": "在编程中，你可以使用 glob 来一次性选择多个文件。"
+    },
+    {
+      "sentence": "She wiped away the glob of ketchup that had spilled on her shirt.",
+      "translation": "她擦掉了溅在她衬衫上的一小块番茄酱。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "word": "dependency",
+  "phonetics": {
+    "british": "/dɪˈpɛndənsi/",
+    "american": "/dɪˈpɛndənsi/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The state of relying on or being controlled by someone or something else; a relationship in which one thing is dependent on another.",
+      "chineseTranslation": "依赖性；从属关系"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and software development, a module or component that another part of the system relies on.",
+      "chineseTranslation": "依赖项；在计算机科学中，指系统或程序所依赖的组件"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Her dependency on caffeine makes it hard for her to start the day without a cup of coffee.",
+      "translation": "她对咖啡因的依赖使她无法在没有一杯咖啡的情况下开始新的一天。"
+    },
+    {
+      "sentence": "In software engineering, managing dependencies is crucial to avoid conflicts in the codebase.",
+      "translation": "在软件工程中，管理依赖项对于避免代码库中的冲突至关重要。"
+    },
+    {
+      "sentence": "The historical dependency of colonies on their mother countries shaped global politics for centuries.",
+      "translation": "殖民地对母国的历史依赖塑造了几个世纪的全球政治。"
+    }
+  ]
+}

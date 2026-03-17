@@ -1,0 +1,33 @@
+{
+  "word": "undefined",
+  "phonetics": {
+    "british": "/ʌn.dɪˈfaɪnd/",
+    "american": "/ˌʌn.dɪˈfaɪnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not having a defined value or meaning; lacking a clear boundary or specification.",
+      "chineseTranslation": "未定义的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, a special value indicating that a variable has not been assigned a value.",
+      "chineseTranslation": "未定义值"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The function returned an undefined value because the input was invalid.",
+      "translation": "函数返回了一个未定义的值，因为输入无效。"
+    },
+    {
+      "sentence": "In everyday language, 'undefined' might describe something vague, like an undefined future.",
+      "translation": "在日常语言中，'undefined' 可能描述一些模糊的东西，比如未定义的未来。"
+    },
+    {
+      "sentence": "Philosophers often debate the concept of undefined entities in existential discussions.",
+      "translation": "哲学家经常在存在主义讨论中辩论未定义实体的概念。"
+    }
+  ]
+}

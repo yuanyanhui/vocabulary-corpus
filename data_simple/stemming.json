@@ -1,0 +1,33 @@
+{
+  "word": "stemming",
+  "phonetics": {
+    "british": "/ˈstɛmɪŋ/",
+    "american": "/ˈstɛmɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of reducing inflected or derived words in a language to their word stem, base, or root form, commonly used in natural language processing and information retrieval.",
+      "chineseTranslation": "词干提取"
+    },
+    {
+      "partOfSpeech": "verb (gerund or present participle)",
+      "definition": "The act of performing word stemming, often as part of computational linguistics tasks.",
+      "chineseTranslation": "进行词干提取"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In natural language processing, stemming converts words like 'running' and 'ran' to their stem 'run'.",
+      "translation": "在自然语言处理中，词干提取将像 'running' 和 'ran' 这样的单词转换为它们的词根 'run'。"
+    },
+    {
+      "sentence": "The software uses stemming to optimize search results by grouping similar words.",
+      "translation": "该软件使用词干提取来优化搜索结果，通过对类似单词进行分组。"
+    },
+    {
+      "sentence": "Stemming can sometimes lead to errors, such as confusing 'organ' with 'organization'.",
+      "translation": "词干提取有时会导致错误，例如将 'organ' 与 'organization' 混淆。"
+    }
+  ]
+}

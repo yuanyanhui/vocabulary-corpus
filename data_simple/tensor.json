@@ -1,0 +1,33 @@
+{
+  "word": "tensor",
+  "phonetics": {
+    "british": "/ˈtɛnsə/",
+    "american": "/ˈtɛnsɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical object that generalizes scalars, vectors, and matrices to higher dimensions, used to describe linear relationships in physics and engineering.",
+      "chineseTranslation": "张量"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a tensor, often in the context of strain or stress in materials.",
+      "chineseTranslation": "张量的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In machine learning, tensors are fundamental for representing data in neural networks.",
+      "translation": "在机器学习中，张量是神经网络中表示数据的基础。"
+    },
+    {
+      "sentence": "The Einstein tensor plays a central role in the equations of general relativity.",
+      "translation": "爱因斯坦张量在广义相对论的方程中扮演核心角色。"
+    },
+    {
+      "sentence": "Engineers use the strain tensor to model how materials respond to external forces.",
+      "translation": "工程师使用应变张量来模拟材料对外部力的反应。"
+    }
+  ]
+}

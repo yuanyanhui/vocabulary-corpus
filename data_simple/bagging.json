@@ -1,0 +1,38 @@
+{
+  "word": "bagging",
+  "phonetics": {
+    "british": "/ˈbæɡɪŋ/",
+    "american": "/ˈbæɡɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of putting items into a bag or bags for carrying or storage",
+      "chineseTranslation": "装袋"
+    },
+    {
+      "partOfSpeech": "verb (gerund)",
+      "definition": "the process of collecting or securing something, often informally, as in capturing or bagging an opportunity",
+      "chineseTranslation": "打包或捕获"
+    },
+    {
+      "partOfSpeech": "noun (technical)",
+      "definition": "a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of statistical models by combining multiple weak learners",
+      "chineseTranslation": "集成学习中的Bagging算法"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She was busy bagging the fruits and vegetables after the market trip.",
+      "translation": "她忙着将水果和蔬菜装入袋子后从市场回来。"
+    },
+    {
+      "sentence": "In machine learning, bagging is a key technique for ensemble methods.",
+      "translation": "在机器学习中，Bagging是集成方法的关键技术。"
+    },
+    {
+      "sentence": "The hunter succeeded in bagging a deer during the early morning expedition.",
+      "translation": "猎人在清晨的探险中成功捕获了一头鹿。"
+    }
+  ]
+}

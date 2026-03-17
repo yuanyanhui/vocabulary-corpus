@@ -1,0 +1,33 @@
+{
+  "word": "delete",
+  "phonetics": {
+    "british": "/dɪˈliːt/",
+    "american": "/dɪˈliːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To remove or erase something, especially data, text, or an item from a list or system.",
+      "chineseTranslation": "删除"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of removing or erasing something, often used in computing contexts.",
+      "chineseTranslation": "删除动作"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need to delete this email before it causes any confusion.",
+      "translation": "我需要删除这封电子邮件，以避免造成任何混淆。"
+    },
+    {
+      "sentence": "The editor decided to delete the controversial paragraph from the article.",
+      "translation": "编辑决定从文章中删除有争议的段落。"
+    },
+    {
+      "sentence": "In programming, you can delete elements from an array using specific commands.",
+      "translation": "在编程中，您可以使用特定命令从数组中删除元素。"
+    }
+  ]
+}

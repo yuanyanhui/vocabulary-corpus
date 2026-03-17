@@ -1,0 +1,33 @@
+{
+  "word": "numerator",
+  "phonetics": {
+    "british": "/ˈnjuː.mə.reɪ.tə/",
+    "american": "/ˈnuː.mə.reɪ.t̬ɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The number above the line in a fraction, indicating how many parts of the whole are being considered.",
+      "chineseTranslation": "分子（在分数中，位于分母之上的数字，表示整体的几分之几）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a broader mathematical sense, the dividend in a division operation or the top part of a ratio.",
+      "chineseTranslation": "分子（在除法运算中，被除数，或在比例中上部部分）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the fraction 3/4, the numerator is 3, which represents three parts out of a whole.",
+      "translation": "在分数3/4中，分子是3，表示整体的三个部分。"
+    },
+    {
+      "sentence": "When simplifying fractions, always check the numerator and denominator for common factors.",
+      "translation": "在化简分数时，总是检查分子和分母是否有公因子。"
+    },
+    {
+      "sentence": "In advanced algebra, the numerator can include variables, such as in the expression (x + 2)/5.",
+      "translation": "在高级代数中，分子可以包括变量，例如表达式(x + 2)/5。"
+    }
+  ]
+}

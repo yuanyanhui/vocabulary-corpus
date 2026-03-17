@@ -1,0 +1,38 @@
+{
+  "word": "tests",
+  "phonetics": {
+    "british": "/tests/",
+    "american": "/tɛsts/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A procedure intended to evaluate the knowledge, skills, abilities, or performance of an individual or system; often used in educational, medical, or scientific contexts.",
+      "chineseTranslation": "测试"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To carry out an examination or trial of something to determine its quality, functionality, or truth.",
+      "chineseTranslation": "测试；检验"
+    },
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "Multiple instances of examinations or trials, as in a series of assessments.",
+      "chineseTranslation": "多次测试"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor ordered several tests to diagnose the patient's condition.",
+      "translation": "医生下令进行几次测试来诊断病人的状况。"
+    },
+    {
+      "sentence": "She tests new recipes every weekend in her kitchen.",
+      "translation": "她每个周末在厨房测试新食谱。"
+    },
+    {
+      "sentence": "In software development, developers often tests code for bugs under various conditions.",
+      "translation": "在软件开发中，开发者经常在各种条件下测试代码中的错误。"
+    }
+  ]
+}

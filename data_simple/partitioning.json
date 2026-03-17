@@ -1,0 +1,38 @@
+{
+  "word": "partitioning",
+  "phonetics": {
+    "british": "/pɑːˈtɪʃənɪŋ/",
+    "american": "/ˈpɑːrt̬ənɪŋ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act or process of dividing something into parts or sections.",
+      "chineseTranslation": "分割的过程"
+    },
+    {
+      "partOfSpeech": "verb (gerund or present participle)",
+      "definition": "Dividing or separating something into distinct parts, often for organization or management.",
+      "chineseTranslation": "将某物分成部分"
+    },
+    {
+      "partOfSpeech": "technical noun (in computing)",
+      "definition": "The process of dividing a storage device, such as a hard drive, into separate sections for data organization.",
+      "chineseTranslation": "（计算机中的）分区"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The partitioning of the land into smaller plots allowed for more efficient farming.",
+      "translation": "将土地分成更小的地块有助于更有效的耕作。"
+    },
+    {
+      "sentence": "In computing, partitioning a hard drive helps in managing files across different operating systems.",
+      "translation": "在计算机中，分区硬盘有助于在不同操作系统之间管理文件。"
+    },
+    {
+      "sentence": "The partitioning of the conference room with temporary walls enhanced privacy during meetings.",
+      "translation": "用临时隔墙对会议室进行分区提高了会议期间的隐私性。"
+    }
+  ]
+}

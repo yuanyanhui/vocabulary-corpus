@@ -1,0 +1,38 @@
+{
+  "word": "polymorph",
+  "phonetics": {
+    "british": "/ˈpɒlɪmɔːf/",
+    "american": "/ˈpɑːlɪmɔːrf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An organism or substance that can exist in more than one form or structure, often due to genetic or environmental factors.",
+      "chineseTranslation": "多形体"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In chemistry, a crystalline form of a compound that can have multiple structures while maintaining the same chemical composition.",
+      "chineseTranslation": "多晶型"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a concept in object-oriented programming where objects of different classes can be treated as objects of a common superclass.",
+      "chineseTranslation": "多态"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In biology, a polymorph is an insect that changes its color to blend with its surroundings.",
+      "translation": "在生物学中，多形体是一种能改变颜色以与周围环境融合的昆虫。"
+    },
+    {
+      "sentence": "The drug's polymorph led to unexpected solubility issues during clinical trials.",
+      "translation": "这种药物的多晶型导致了临床试验中意想不到的溶解问题。"
+    },
+    {
+      "sentence": "Programmers use polymorph to write more flexible and reusable code in object-oriented systems.",
+      "translation": "程序员使用多态来编写更灵活和可重用的面向对象代码。"
+    }
+  ]
+}

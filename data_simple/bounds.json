@@ -1,0 +1,38 @@
+{
+  "word": "bounds",
+  "phonetics": {
+    "british": "/baʊndz/",
+    "american": "/baʊndz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun (plural)",
+      "definition": "The limits or boundaries of something, often referring to the furthest extent or range within which something is confined or operates.",
+      "chineseTranslation": "边界；界限"
+    },
+    {
+      "partOfSpeech": "verb (third person singular)",
+      "definition": "To form the boundary or limit of something; or to leap or spring forward with great energy.",
+      "chineseTranslation": "形成边界；跳跃"
+    },
+    {
+      "partOfSpeech": "noun (in computing or mathematics)",
+      "definition": "In technical contexts, the upper and lower limits of a range, such as in programming for arrays or functions.",
+      "chineseTranslation": "界限（如在计算机或数学中）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The national park has strict bounds to protect wildlife.",
+      "translation": "国家公园有严格的边界来保护野生动物。"
+    },
+    {
+      "sentence": "She bounds across the field with the energy of a young deer.",
+      "translation": "她像一头年轻的小鹿一样跳跃过田野。"
+    },
+    {
+      "sentence": "In programming, array bounds must be checked to avoid errors.",
+      "translation": "在编程中，必须检查数组的界限以避免错误。"
+    }
+  ]
+}

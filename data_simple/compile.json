@@ -1,0 +1,38 @@
+{
+  "word": "compile",
+  "phonetics": {
+    "british": "/kəmˈpaɪl/",
+    "american": "/kəmˈpaɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To gather information and arrange it in a book, report, or list.",
+      "chineseTranslation": "收集并整理信息编成书、报告或列表"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to translate source code written in a programming language into machine code that a computer can execute.",
+      "chineseTranslation": "在计算机中，将源代码翻译成机器代码"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of translating source code into machine code.",
+      "chineseTranslation": "编译过程"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The historian spent years compiling documents for the archive.",
+      "translation": "这位历史学家花了数年时间为档案馆收集文件。"
+    },
+    {
+      "sentence": "In software development, you must compile the source code to check for errors.",
+      "translation": "在软件开发中，你必须编译源代码来检查错误。"
+    },
+    {
+      "sentence": "The team will compile a report on market trends by the end of the month.",
+      "translation": "团队将在月底前编制一份市场趋势报告。"
+    }
+  ]
+}

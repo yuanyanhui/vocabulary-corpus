@@ -1,0 +1,33 @@
+{
+  "word": "pseudograph",
+  "phonetics": {
+    "british": "/ˈsjuːdəɡrɑːf/",
+    "american": "/ˈsuːdəɡræf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graph in mathematics that permits multiple edges between the same pair of vertices and loops at vertices.",
+      "chineseTranslation": "在数学中，允许同一对顶点之间有多重边以及顶点上的环的图"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A falsely written or forged document, though less common in modern usage.",
+      "chineseTranslation": "伪造的文件或书写物"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mathematician illustrated a pseudograph to demonstrate multiple connections between nodes.",
+      "translation": "数学家通过伪图来演示节点之间的多重连接。"
+    },
+    {
+      "sentence": "In some historical contexts, a pseudograph was used to refer to a forged manuscript.",
+      "translation": "在某些历史语境中，伪图用于指代伪造的手稿。"
+    },
+    {
+      "sentence": "Researchers in computer science often work with pseudographs to model complex networks.",
+      "translation": "计算机科学的研究者经常使用伪图来建模复杂的网络。"
+    }
+  ]
+}

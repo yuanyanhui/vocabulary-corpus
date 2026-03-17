@@ -1,0 +1,42 @@
+{
+  "word": "bipartite",
+  "phonetics": {
+    "british": "/baɪˈpɑː.taɪt/",
+    "american": "/baɪˈpɑr.taɪt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Consisting of two parts or divided into two parts, especially in a balanced or symmetrical way.",
+      "chineseTranslation": "由两部分组成的；分成两部分的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In graph theory, describing a graph whose vertices can be divided into two disjoint sets such that no two vertices in the same set are adjacent.",
+      "chineseTranslation": "在图论中，指顶点可以分成两个不相交的集合，使得每条边都连接两个集合中的顶点"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In biology or anatomy, referring to structures that are divided into two lobes or parts.",
+      "chineseTranslation": "在生物学或解剖学中，指分成两个叶或部分的结构"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The contract is bipartite, with clauses benefiting both parties equally.",
+      "translation": "合同是两部分的，每一方都平等受益。"
+    },
+    {
+      "sentence": "In mathematics, a bipartite matching problem can be solved using algorithms like Hopcroft-Karp.",
+      "translation": "在数学中，两部分匹配问题可以使用Hopcroft-Karp算法来解决。"
+    },
+    {
+      "sentence": "The plant's bipartite leaves are adapted to dry environments.",
+      "translation": "这种植物的两部分叶子适应了干燥的环境。"
+    },
+    {
+      "sentence": "Politically, the bipartite system divides voters into two major groups.",
+      "translation": "在政治上，两部分制度将选民分成两大群体。"
+    }
+  ]
+}

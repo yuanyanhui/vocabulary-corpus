@@ -1,0 +1,33 @@
+{
+  "word": "dictionary",
+  "phonetics": {
+    "british": "/ˈdɪkʃənri/",
+    "american": "/ˈdɪkʃəneri/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A book or electronic resource that lists the words of a language (typically in alphabetical order) and provides their meanings, pronunciations, etymologies, and other information; it can also refer to a reference work on a specific subject.",
+      "chineseTranslation": "字典"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data structure that stores data in pairs of keys and values for quick lookup.",
+      "chineseTranslation": "（计算机中的）字典数据结构"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She consulted the dictionary to verify the spelling of the word.",
+      "translation": "她查阅字典来核实这个单词的拼写。"
+    },
+    {
+      "sentence": "In programming, a dictionary allows for efficient data retrieval using keys.",
+      "translation": "在编程中，字典允许使用键进行高效的数据检索。"
+    },
+    {
+      "sentence": "The Oxford English Dictionary is a comprehensive resource for etymological research.",
+      "translation": "《牛津英语字典》是进行词源研究的全面资源。"
+    }
+  ]
+}

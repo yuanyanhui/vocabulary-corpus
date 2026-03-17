@@ -1,0 +1,33 @@
+{
+  "word": "failover",
+  "phonetics": {
+    "british": "/ˈfeɪl.əʊ.vər/",
+    "american": "/ˈfeɪl.oʊ.vɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of automatically switching to a redundant or standby system, server, or component when the primary one fails, ensuring continuity in computing or network operations.",
+      "chineseTranslation": "故障转移"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To switch automatically to a backup system or component in the event of a failure.",
+      "chineseTranslation": "进行故障转移"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The network's failover feature allowed the company to maintain operations during the hardware failure.",
+      "translation": "网络的故障转移功能允许公司在硬件故障期间保持运营。"
+    },
+    {
+      "sentence": "Without a proper failover strategy, the entire application could crash unexpectedly.",
+      "translation": "没有适当的故障转移策略，整个应用程序可能意外崩溃。"
+    },
+    {
+      "sentence": "Engineers tested the failover process to ensure seamless transition in a live environment.",
+      "translation": "工程师测试了故障转移过程，以确保在实时环境中无缝过渡。"
+    }
+  ]
+}

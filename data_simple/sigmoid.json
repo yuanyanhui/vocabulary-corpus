@@ -1,0 +1,38 @@
+{
+  "word": "sigmoid",
+  "phonetics": {
+    "british": "/ˈsɪɡmɔɪd/",
+    "american": "/ˈsɪɡmɔɪd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having a double curve like the letter S, often used in contexts such as mathematics, biology, or geography.",
+      "chineseTranslation": "S 形的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A mathematical function or curve that has an S-shape, commonly used in statistics, machine learning, and neural networks.",
+      "chineseTranslation": "Sigmoid 函数或曲线"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the sigmoid colon in anatomy, which is the S-shaped part of the large intestine.",
+      "chineseTranslation": "乙状结肠的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In neural networks, the sigmoid activation function helps in introducing non-linearity.",
+      "translation": "在神经网络中，Sigmoid 激活函数有助于引入非线性。"
+    },
+    {
+      "sentence": "The river's sigmoid path created fertile land along its banks.",
+      "translation": "河流的 S 形路径在其两岸形成了肥沃的土地。"
+    },
+    {
+      "sentence": "Doctors examined the sigmoid colon during the colonoscopy procedure.",
+      "translation": "医生在结肠镜检查过程中检查了乙状结肠。"
+    }
+  ]
+}

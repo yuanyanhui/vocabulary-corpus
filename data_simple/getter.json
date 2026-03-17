@@ -1,0 +1,33 @@
+{
+  "word": "getter",
+  "phonetics": {
+    "british": "/ˈɡɛtə/",
+    "american": "/ˈɡɛtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A method in object-oriented programming that is used to access and retrieve the value of a private or protected attribute.",
+      "chineseTranslation": "在面向对象编程中，用于访问和获取私有或受保护属性的方法"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that obtains or acquires something, often in a general or informal sense.",
+      "chineseTranslation": "获取或获得某事的人或事物"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer implemented a getter for the user’s profile data to maintain encapsulation.",
+      "translation": "开发人员为用户的配置文件数据实现了一个获取方法，以维护封装性。"
+    },
+    {
+      "sentence": "As a getter of rare antiques, she always knew where to find the best deals.",
+      "translation": "作为一名稀有古董的获取者，她总是知道在哪里能找到最好的交易。"
+    },
+    {
+      "sentence": "In the API design, the getter function is essential for reading configuration settings without altering them.",
+      "translation": "在 API 设计中，获取函数对于读取配置设置而不改变它们至关重要。"
+    }
+  ]
+}

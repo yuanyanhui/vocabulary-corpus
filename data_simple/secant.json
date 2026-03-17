@@ -1,0 +1,33 @@
+{
+  "word": "secant",
+  "phonetics": {
+    "british": "/ˈsiːkənt/",
+    "american": "/ˈsiːkænt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A straight line that intersects a curve, such as a circle, at two or more points.",
+      "chineseTranslation": "割线"
+    },
+    {
+      "partOfSpeech": "noun (mathematics)",
+      "definition": "The trigonometric function that is the reciprocal of the cosine of an angle, denoted as sec(θ) = 1/cos(θ).",
+      "chineseTranslation": "正割（三角函数）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "To find the length of the secant, measure the distance between the two intersection points on the curve.",
+      "translation": "要找出割线的长度，需要测量曲线上的两个交点之间的距离。"
+    },
+    {
+      "sentence": "In trigonometry, the secant of an angle greater than 90 degrees is undefined in the real number system.",
+      "translation": "在三角学中，大于90度的角度的正割在实数系统中是不定义的。"
+    },
+    {
+      "sentence": "Engineers often use the secant method to approximate roots of equations in numerical analysis.",
+      "translation": "工程师们经常在数值分析中使用割线法来近似求解方程的根。"
+    }
+  ]
+}

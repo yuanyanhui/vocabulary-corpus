@@ -1,0 +1,33 @@
+{
+  "word": "deterministic",
+  "phonetics": {
+    "british": "/dɪˌtɜːmɪˈnɪstɪk/",
+    "american": "/dɪˌtɝːmɪˈnɪstɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to the doctrine that all events, including human actions, are determined by preceding causes or natural laws, leaving no room for free will.",
+      "chineseTranslation": "与决定论相关的，指所有事件都由先前原因或自然法则决定，没有自由意志的空间。"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing and mathematics, describing a system, algorithm, or process that produces the same output for a given input every time, without randomness.",
+      "chineseTranslation": "在计算机和数学中，指系统、算法或过程对给定输入总是产生相同输出，没有随机性。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The concept of a deterministic universe has been debated in philosophy for centuries.",
+      "translation": "决定论宇宙的概念在哲学中已经被争论了几个世纪。"
+    },
+    {
+      "sentence": "Programmers often prefer deterministic algorithms to avoid unexpected results in software testing.",
+      "translation": "程序员通常更喜欢决定论算法，以避免软件测试中的意外结果。"
+    },
+    {
+      "sentence": "In a deterministic model, every cause leads to a predictable effect.",
+      "translation": "在一个决定论模型中，每一个原因都会导致可预测的效果。"
+    }
+  ]
+}

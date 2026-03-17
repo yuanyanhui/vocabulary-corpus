@@ -1,0 +1,33 @@
+{
+  "word": "typescript",
+  "phonetics": {
+    "british": "/ˈtaɪp.skript/",
+    "american": "/ˈtaɪp.skript/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A statically typed superset of JavaScript that compiles to plain JavaScript, developed by Microsoft to enhance code scalability and error detection.",
+      "chineseTranslation": "TypeScript 是 JavaScript 的静态类型超集，由 Microsoft 开发，用于提升代码的可扩展性和错误检测。"
+    },
+    {
+      "partOfSpeech": "proper noun",
+      "definition": "A programming language and its associated ecosystem, including tools and libraries for software development.",
+      "chineseTranslation": "TypeScript 作为一个编程语言及其生态系统，包括用于软件开发的工具和库。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "TypeScript introduces static types to prevent runtime errors in applications.",
+      "translation": "TypeScript 通过引入静态类型来防止应用程序中的运行时错误。"
+    },
+    {
+      "sentence": "In modern web development, TypeScript is increasingly used alongside frameworks like Angular.",
+      "translation": "在现代 Web 开发中，TypeScript 越来越多地与 Angular 等框架一起使用。"
+    },
+    {
+      "sentence": "Learning TypeScript can significantly improve your coding efficiency.",
+      "translation": "学习 TypeScript 可以显著提升您的编码效率。"
+    }
+  ]
+}

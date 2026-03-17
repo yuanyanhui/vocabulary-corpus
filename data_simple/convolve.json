@@ -1,0 +1,33 @@
+{
+  "word": "convolve",
+  "phonetics": {
+    "british": "/kənˈvɒlv/",
+    "american": "/kənˈvɑlv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To roll or wind together; to form into a twisted or coiled shape.",
+      "chineseTranslation": "使卷入或卷曲"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In mathematics and signal processing, to perform a convolution operation on two functions, integrating the product of the two functions after one is reversed and shifted.",
+      "chineseTranslation": "卷积（数学或信号处理中的操作）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The mathematician decided to convolve the two waveforms to analyze their interaction.",
+      "translation": "数学家决定对两个波形进行卷积以分析它们的相互作用。"
+    },
+    {
+      "sentence": "In everyday terms, you can think of how fabric convolve when twisted into a rope.",
+      "translation": "在日常术语中，你可以想象织物在被拧成绳索时如何卷曲。"
+    },
+    {
+      "sentence": "Neural networks convolve features in hidden layers to detect patterns in images.",
+      "translation": "神经网络在隐藏层中卷积特征以检测图像中的模式。"
+    }
+  ]
+}

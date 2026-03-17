@@ -1,0 +1,33 @@
+{
+  "word": "factorial",
+  "phonetics": {
+    "british": "/fækˈtɔːrɪəl/",
+    "american": "/fækˈtɔriəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The product of an integer and all the integers below it; for example, factorial of n (denoted as n!) is the product of all positive integers from 1 to n.",
+      "chineseTranslation": "阶乘，例如 n! 表示从 1 到 n 的所有正整数的乘积"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or involving a factorial, often used in mathematical or statistical contexts.",
+      "chineseTranslation": "与阶乘相关的或涉及阶乘的，通常用于数学或统计学语境"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In mathematics, the factorial of a number is used in permutations and combinations.",
+      "translation": "在数学中，阶乘用于排列和组合。"
+    },
+    {
+      "sentence": "She struggled with the concept of factorial during her statistics class.",
+      "translation": "她在统计课上挣扎于阶乘的概念。"
+    },
+    {
+      "sentence": "The algorithm includes a loop to compute the factorial efficiently.",
+      "translation": "该算法包括一个循环来高效计算阶乘。"
+    }
+  ]
+}

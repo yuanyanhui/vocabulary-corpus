@@ -1,0 +1,38 @@
+{
+  "word": "stack",
+  "phonetics": {
+    "british": "/stæk/",
+    "american": "/stæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A pile of objects arranged one on top of another, often neatly.",
+      "chineseTranslation": "一堆叠放的物体，通常整齐排列。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data structure that stores items in a last-in, first-out (LIFO) order.",
+      "chineseTranslation": "在计算机科学中，一种数据结构，按照后进先出（LIFO）的原则存储项目。"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange objects in a stack or pile.",
+      "chineseTranslation": "将物体堆叠或排列成堆。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She carefully stacked the books on the shelf.",
+      "translation": "她仔细地将书堆放在书架上。"
+    },
+    {
+      "sentence": "In programming, a stack is essential for managing memory efficiently.",
+      "translation": "在编程中，堆栈对于高效管理内存至关重要。"
+    },
+    {
+      "sentence": "The waiter asked us to stack our plates before leaving the table.",
+      "translation": "服务员要求我们离开桌子前把盘子堆起来。"
+    }
+  ]
+}

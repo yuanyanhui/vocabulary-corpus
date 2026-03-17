@@ -1,0 +1,33 @@
+{
+  "word": "docker",
+  "phonetics": {
+    "british": "/ˈdɒkər/",
+    "american": "/ˈdɑːkər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person employed in a port to load and unload ships, often handling cargo and working on docks.",
+      "chineseTranslation": "码头工人"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a platform for developing, shipping, and running applications inside containers (referring to the software Docker).",
+      "chineseTranslation": "Docker 软件（容器化平台）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The docker carefully unloaded the crates from the cargo ship.",
+      "translation": "码头工人小心地从货船上卸下板条箱。"
+    },
+    {
+      "sentence": "In software development, a docker image can be easily shared across teams.",
+      "translation": "在软件开发中，Docker 镜像可以轻松地在团队之间共享。"
+    },
+    {
+      "sentence": "Historically, dockers played a key role in labor movements during the Industrial Revolution.",
+      "translation": "历史上，码头工人在工业革命期间发挥了关键作用。"
+    }
+  ]
+}

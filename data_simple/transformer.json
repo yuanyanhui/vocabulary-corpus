@@ -1,0 +1,42 @@
+{
+  "word": "transformer",
+  "phonetics": {
+    "british": "/trænsˈfɔːmə/",
+    "american": "/trænsˈfɔrmər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device used in electrical engineering to transfer electrical energy from one circuit to another through electromagnetic induction, typically changing voltage levels.",
+      "chineseTranslation": "变压器"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A fictional extraterrestrial robot from the Transformers franchise, capable of transforming into everyday objects or vehicles.",
+      "chineseTranslation": "变形金刚（指科幻系列中的机器人）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In machine learning, a type of neural network architecture that uses self-attention mechanisms to process sequential data.",
+      "chineseTranslation": "Transformer模型（指AI中的神经网络架构）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer installed a new transformer to stabilize the electrical supply.",
+      "translation": "工程师安装了一个新的变压器来稳定电力供应。"
+    },
+    {
+      "sentence": "In the Transformers movie, the hero transformer battles against the Decepticons.",
+      "translation": "在变形金刚电影中，英雄机器人与霸天虎作战。"
+    },
+    {
+      "sentence": "The Transformer model revolutionized natural language processing by handling long-range dependencies.",
+      "translation": "Transformer模型通过处理长距离依赖关系革新了自然语言处理。"
+    },
+    {
+      "sentence": "Due to its efficiency, the transformer is now a standard component in modern power grids.",
+      "translation": "由于其效率，变压器已成为现代电网的标准组件。"
+    }
+  ]
+}

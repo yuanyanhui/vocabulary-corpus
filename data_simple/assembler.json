@@ -1,0 +1,38 @@
+{
+  "word": "assembler",
+  "phonetics": {
+    "british": "/əˈsɛmblə/",
+    "american": "/əˈsɛmblər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A program that translates assembly language into machine code, used in computer programming.",
+      "chineseTranslation": "汇编程序"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or machine that assembles parts or components into a finished product.",
+      "chineseTranslation": "组装工或组装机"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To put together or assemble components, often in a mechanical or programming context.",
+      "chineseTranslation": "组装"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In software development, an assembler is essential for converting assembly code to binary.",
+      "translation": "在软件开发中，汇编程序是转换汇编代码为二进制代码的必需工具。"
+    },
+    {
+      "sentence": "The factory hired more assemblers to meet the increased demand for smartphones.",
+      "translation": "工厂雇佣了更多组装工来满足智能手机需求的增加。"
+    },
+    {
+      "sentence": "Programmers often use an assembler to optimize code for embedded systems.",
+      "translation": "程序员经常使用汇编程序来优化嵌入式系统的代码。"
+    }
+  ]
+}

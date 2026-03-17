@@ -1,0 +1,33 @@
+{
+  "word": "ascii",
+  "phonetics": {
+    "british": "/ˈæski/",
+    "american": "/ˈæski/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A character encoding standard consisting of 128 characters for electronic communication, representing letters, digits, punctuation, and control characters.",
+      "chineseTranslation": "美国信息交换标准代码"
+    },
+    {
+      "partOfSpeech": "acronym",
+      "definition": "An abbreviation for American Standard Code for Information Interchange, used in computing to encode text.",
+      "chineseTranslation": "美国标准代码信息交换"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Programmers often use ASCII to ensure compatibility between different systems.",
+      "translation": "程序员经常使用 ASCII 来确保不同系统之间的兼容性。"
+    },
+    {
+      "sentence": "In the early days of computing, ASCII was the dominant encoding standard.",
+      "translation": "在计算机早期，ASCII 是主导的编码标准。"
+    },
+    {
+      "sentence": "Modern applications have largely replaced ASCII with Unicode for broader character support.",
+      "translation": "现代应用已 largely 用 Unicode 取代 ASCII，以支持更广泛的字符。"
+    }
+  ]
+}

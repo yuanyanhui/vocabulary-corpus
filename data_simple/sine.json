@@ -1,0 +1,33 @@
+{
+  "word": "sine",
+  "phonetics": {
+    "british": "/saɪn/",
+    "american": "/saɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In mathematics, the trigonometric function that is equal to the ratio of the length of the side opposite an angle to the length of the hypotenuse in a right-angled triangle.",
+      "chineseTranslation": "正弦"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A function in trigonometry that can be extended to represent periodic phenomena, such as waves or oscillations.",
+      "chineseTranslation": "正弦函数"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In trigonometry, the sine of an angle is calculated as opposite over hypotenuse.",
+      "translation": "在三角学中，正弦角的值是相对边除以斜边。"
+    },
+    {
+      "sentence": "Engineers often use sine waves to analyze electrical signals in circuits.",
+      "translation": "工程师经常使用正弦波来分析电路中的电信号。"
+    },
+    {
+      "sentence": "The mathematician explained that the sine value for π/2 radians is 1.",
+      "translation": "数学家解释说，π/2 弧度的正弦值是 1。"
+    }
+  ]
+}

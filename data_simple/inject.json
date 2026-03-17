@@ -1,0 +1,38 @@
+{
+  "word": "inject",
+  "phonetics": {
+    "british": "/ɪnˈdʒɛkt/",
+    "american": "/ɪnˈdʒɛkt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to introduce a liquid or other substance into the body or a part of it using a syringe or similar device",
+      "chineseTranslation": "注射"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "to introduce or add something into a situation, system, or process, often metaphorically",
+      "chineseTranslation": "注入；引入"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "in computing, to insert malicious code or data into a program or system",
+      "chineseTranslation": "注入（如代码注入）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Doctors inject vaccines to prevent diseases.",
+      "translation": "医生注射疫苗来预防疾病。"
+    },
+    {
+      "sentence": "The government plans to inject funds into the education sector.",
+      "translation": "政府计划向教育部门注入资金。"
+    },
+    {
+      "sentence": "In programming, you should avoid allowing users to inject scripts into your website.",
+      "translation": "在编程中，你应该避免允许用户向你的网站注入脚本。"
+    }
+  ]
+}

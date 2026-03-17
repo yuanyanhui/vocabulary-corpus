@@ -1,0 +1,33 @@
+{
+  "word": "comparator",
+  "phonetics": {
+    "british": "/kəmˈparətə/",
+    "american": "/kəmˈpærətɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device or circuit that compares two or more inputs and produces an output based on their relative magnitudes, commonly used in electronics and computing.",
+      "chineseTranslation": "比较器"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and programming, a function or operator that defines a comparison between two elements, often used for sorting or ordering data.",
+      "chineseTranslation": "比较函数"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers designed a new comparator to improve the accuracy of signal processing in digital systems.",
+      "translation": "工程师设计了一个新的比较器来提高数字系统中的信号处理准确性。"
+    },
+    {
+      "sentence": "The comparator function in the software allows users to sort the data array efficiently.",
+      "translation": "软件中的比较函数允许用户高效地排序数据数组。"
+    },
+    {
+      "sentence": "In analog electronics, a simple comparator can be built using an operational amplifier.",
+      "translation": "在模拟电子学中，可以使用运算放大器构建一个简单的比较器。"
+    }
+  ]
+}

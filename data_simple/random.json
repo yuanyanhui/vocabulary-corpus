@@ -1,0 +1,33 @@
+{
+  "word": "random",
+  "phonetics": {
+    "british": "/ˈrændəm/",
+    "american": "/ˈrændəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "occurring, done, or chosen without method or conscious decision; lacking a specific pattern",
+      "chineseTranslation": "随机的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person or thing that is unknown or unspecified; in statistics, a random variable",
+      "chineseTranslation": "随机变量或未知事物"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In a random sample, each element has an equal chance of being chosen.",
+      "translation": "在随机样本中，每个元素都有平等的机会被选中。"
+    },
+    {
+      "sentence": "She picked a random book from the shelf and started reading.",
+      "translation": "她从书架上随意拿起一本书开始阅读。"
+    },
+    {
+      "sentence": "The algorithm generates random numbers for simulation purposes.",
+      "translation": "该算法为模拟目的生成随机数。"
+    }
+  ]
+}

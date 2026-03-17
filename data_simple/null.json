@@ -1,0 +1,33 @@
+{
+  "word": "null",
+  "phonetics": {
+    "british": "/nʌl/",
+    "american": "/nʌl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A special value or pointer indicating the absence of a value or object, often used in programming to represent no data.",
+      "chineseTranslation": "空值或无值"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Having no legal or binding force; invalid.",
+      "chineseTranslation": "无效的或无法律效力的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In programming, if a variable is set to null, it means it has no assigned value.",
+      "translation": "在编程中，如果一个变量被设置为 null，就表示它没有被赋值。"
+    },
+    {
+      "sentence": "The court ruled that the agreement was null due to lack of signatures.",
+      "translation": "法院裁定该协议因缺少签名而无效。"
+    },
+    {
+      "sentence": "She felt null inside after the loss, as if nothing mattered anymore.",
+      "translation": "她在失去后感到内心空虚，仿佛一切都不再重要。"
+    }
+  ]
+}

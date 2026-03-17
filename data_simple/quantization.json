@@ -1,0 +1,33 @@
+{
+  "word": "quantization",
+  "phonetics": {
+    "british": "/ˌkwɒn.taɪˈzeɪ.ʃən/",
+    "american": "/ˌkwɑːn.təˈzeɪ.ʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of converting a continuous range of values into a discrete set of values, often used in physics, signal processing, and digital technology to approximate or limit data.",
+      "chineseTranslation": "量化"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In quantum mechanics, the concept where physical quantities are restricted to discrete values rather than being continuous.",
+      "chineseTranslation": "量子化"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In quantum physics, quantization explains why electrons occupy specific energy levels.",
+      "translation": "在量子物理中，量化解释了电子为什么占据特定的能量水平。"
+    },
+    {
+      "sentence": "Engineers use quantization to reduce the file size of images without losing much quality.",
+      "translation": "工程师使用量化来减小图像文件大小，同时不损失太多质量。"
+    },
+    {
+      "sentence": "The concept of quantization has revolutionized fields like computing and telecommunications.",
+      "translation": "量化的概念已经彻底改变了计算和电信等领域。"
+    }
+  ]
+}

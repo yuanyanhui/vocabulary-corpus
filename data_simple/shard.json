@@ -1,0 +1,33 @@
+{
+  "word": "shard",
+  "phonetics": {
+    "british": "/ʃɑːd/",
+    "american": "/ʃɑrd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A broken piece or fragment, especially of a brittle substance such as glass, pottery, or metal.",
+      "chineseTranslation": "碎片"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a small piece of data or a partition of a larger database.",
+      "chineseTranslation": "数据分片"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Archaeologists unearthed a shard of pottery that dated back to the Roman era.",
+      "translation": "考古学家出土了一个可追溯到罗马时代的陶器碎片。"
+    },
+    {
+      "sentence": "After the window shattered, sharp shards littered the ground, posing a safety hazard.",
+      "translation": "窗户碎裂后，锋利的碎片散落一地，构成安全隐患。"
+    },
+    {
+      "sentence": "In the database system, each shard contains a subset of user information to optimize queries.",
+      "translation": "在数据库系统中，每个数据分片包含用户信息的子集，以优化查询。"
+    }
+  ]
+}

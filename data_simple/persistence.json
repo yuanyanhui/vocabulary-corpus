@@ -1,0 +1,38 @@
+{
+  "word": "persistence",
+  "phonetics": {
+    "british": "/pəˈsɪstəns/",
+    "american": "/pərˈsɪstəns/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality of continuing steadily despite problems or difficulties.",
+      "chineseTranslation": "坚持；持续性"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The continued or prolonged existence of something.",
+      "chineseTranslation": "持久存在"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the ability of data to remain intact after a process has ended.",
+      "chineseTranslation": "持久性（如在计算机科学中）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Her persistence in learning a new language finally resulted in fluency.",
+      "translation": "她在学习新语言方面的坚持最终让她达到了流利。"
+    },
+    {
+      "sentence": "The persistence of ancient traditions in modern society is remarkable.",
+      "translation": "古代传统在现代社会中的持久存在令人瞩目。"
+    },
+    {
+      "sentence": "In software development, data persistence ensures information is not lost during crashes.",
+      "translation": "在软件开发中，数据持久性确保信息不会在崩溃时丢失。"
+    }
+  ]
+}

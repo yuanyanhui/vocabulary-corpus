@@ -1,0 +1,38 @@
+{
+  "word": "timeout",
+  "phonetics": {
+    "british": "/ˈtaɪmaʊt/",
+    "american": "/ˈtaɪmaʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A brief period of time during which an activity is stopped, often in sports, computing, or daily life, to allow for rest or recovery.",
+      "chineseTranslation": "暂停；休息时间"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To call for or take a temporary break in an activity, such as in a game or a process.",
+      "chineseTranslation": "要求暂停；使暂停"
+    },
+    {
+      "partOfSpeech": "noun (in computing)",
+      "definition": "A period of time after which a process or operation is automatically terminated if it does not complete, often used in programming and networking.",
+      "chineseTranslation": "超时（在计算机上下文中）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In basketball, a timeout can change the momentum of the game.",
+      "translation": "在篮球比赛中，暂停可以改变比赛的势头。"
+    },
+    {
+      "sentence": "The server experienced a timeout error due to network issues.",
+      "translation": "服务器由于网络问题而出现超时错误。"
+    },
+    {
+      "sentence": "She called a timeout in the meeting to address the confusion.",
+      "translation": "她在会议中要求暂停来解决混淆。"
+    }
+  ]
+}

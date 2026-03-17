@@ -1,0 +1,33 @@
+{
+  "word": "visitor",
+  "phonetics": {
+    "british": "/ˈvɪzɪtə/",
+    "american": "/ˈvɪzɪtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who visits a place or meets with someone, often for social, professional, or tourism purposes.",
+      "chineseTranslation": "访客；来访者"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a design pattern that allows for adding new operations to an object structure without modifying the objects themselves.",
+      "chineseTranslation": "访问者模式（计算机术语）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The zoo receives thousands of visitors during the summer holidays.",
+      "translation": "动物园在暑假期间接待数以千计的访客。"
+    },
+    {
+      "sentence": "In software engineering, the visitor pattern is used to perform operations on complex data structures.",
+      "translation": "在软件工程中，访问者模式用于对复杂数据结构执行操作。"
+    },
+    {
+      "sentence": "She acted as a gracious host to the unexpected visitor at her door.",
+      "translation": "她对不速而至的访客表现得像一位和蔼的主人。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "word": "parse",
+  "phonetics": {
+    "british": "/pɑːs/",
+    "american": "/pɑrs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To analyze a string of symbols, either in natural language processing or programming, by breaking it down into its component parts and describing the function of each in relation to the whole, according to a formal grammar.",
+      "chineseTranslation": "解析；分析语法结构"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process or result of analyzing a string of symbols in order to recognize its grammatical structure.",
+      "chineseTranslation": "解析过程"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The linguist used software to parse the complex sentence into its basic components.",
+      "translation": "语言学家使用软件将复杂句子解析成其基本组成部分。"
+    },
+    {
+      "sentence": "Programmers often parse data strings to extract meaningful information.",
+      "translation": "程序员经常解析数据字符串以提取有意义的信息。"
+    },
+    {
+      "sentence": "During the exam, students were required to parse a paragraph and identify its grammatical errors.",
+      "translation": "考试中，学生需要解析一段段落并识别其语法错误。"
+    }
+  ]
+}

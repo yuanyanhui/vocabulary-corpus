@@ -1,0 +1,38 @@
+{
+  "word": "suspect",
+  "phonetics": {
+    "british": "/səˈspɛkt/ (as verb), /ˈsʌspɛkt/ (as noun)",
+    "american": "/səˈspɛkt/ (as verb), /ˈsʌspɛkt/ (as noun)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To have a feeling that someone is guilty of a crime or wrongdoing, or that something is not as it seems.",
+      "chineseTranslation": "怀疑；猜疑"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who is believed to be guilty of a crime or wrongdoing.",
+      "chineseTranslation": "嫌疑人；疑犯"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not trusted or believed because it might be false or dangerous.",
+      "chineseTranslation": "可疑的；令人怀疑的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The detective began to suspect the neighbor of involvement in the crime.",
+      "translation": "侦探开始怀疑邻居参与了犯罪。"
+    },
+    {
+      "sentence": "He is the main suspect in the case, but there's no concrete evidence yet.",
+      "translation": "他是该案的主要嫌疑人，但还没有确凿证据。"
+    },
+    {
+      "sentence": "This data seems suspect; we need to verify it before proceeding.",
+      "translation": "这些数据似乎可疑；我们需要在继续前验证它。"
+    }
+  ]
+}

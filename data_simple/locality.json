@@ -1,0 +1,33 @@
+{
+  "word": "locality",
+  "phonetics": {
+    "british": "/ləʊˈkæləti/",
+    "american": "/loʊˈkæləti/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A particular area or neighborhood, often considered in relation to events, services, or characteristics specific to that place.",
+      "chineseTranslation": "地方；地区；特定区域"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In a more technical sense, the quality or state of being local, such as in computing (locality of reference) or linguistics (local dependencies).",
+      "chineseTranslation": "局部性；本地特性"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new school was built to serve the growing population of the locality.",
+      "translation": "新学校是为了服务该地区不断增长的人口而建造的。"
+    },
+    {
+      "sentence": "In computing, locality of reference improves system efficiency by accessing data from nearby memory locations.",
+      "translation": "在计算机中，局部性引用通过访问附近内存位置的数据来提高系统效率。"
+    },
+    {
+      "sentence": "She explored the cultural heritage of her locality through community events.",
+      "translation": "她通过社区活动探索了她所在地区的文化遗产。"
+    }
+  ]
+}

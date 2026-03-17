@@ -1,0 +1,33 @@
+{
+  "word": "decoder",
+  "phonetics": {
+    "british": "/dɪˈkəʊdə/",
+    "american": "/dɪˈkoʊdər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A device, circuit, or program that converts encoded data or signals into a more understandable or original form, such as decrypting messages or decoding video signals.",
+      "chineseTranslation": "解码器"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing and electronics, a component that interprets and processes input signals to produce output based on predefined rules.",
+      "chineseTranslation": "译码器"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The decoder in the satellite receiver allows us to watch international channels.",
+      "translation": "卫星接收器中的解码器允许我们观看国际频道。"
+    },
+    {
+      "sentence": "In cryptography, a decoder is essential for breaking encrypted codes during wartime.",
+      "translation": "在密码学中，解码器在战时破解加密代码时至关重要。"
+    },
+    {
+      "sentence": "Software developers often use a decoder to process binary data in programming.",
+      "translation": "软件开发者经常使用解码器来处理编程中的二进制数据。"
+    }
+  ]
+}

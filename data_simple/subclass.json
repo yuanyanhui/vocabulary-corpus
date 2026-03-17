@@ -1,0 +1,33 @@
+{
+  "word": "subclass",
+  "phonetics": {
+    "british": "/ˈsʌb.klɑːs/",
+    "american": "/ˈsʌb.klæs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A class that inherits from another class, typically in object-oriented programming, extending or modifying its behavior.",
+      "chineseTranslation": "子类（在面向对象编程中，继承自另一个类的类）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A subdivision or subordinate category within a larger classification, such as in biology or taxonomy.",
+      "chineseTranslation": "子类别（在生物学或分类学中，一个较大类别的下级类别）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In object-oriented programming, a subclass can override methods from its parent class to add specific functionality.",
+      "translation": "在面向对象编程中，子类可以覆盖其父类的方法以添加特定功能。"
+    },
+    {
+      "sentence": "Mammals are a subclass of vertebrates, distinguished by their ability to nurse their young.",
+      "translation": "哺乳动物是脊椎动物的子类，以哺乳幼崽的能力为特征。"
+    },
+    {
+      "sentence": "Developers often use subclasses to implement inheritance and promote code reusability in software design.",
+      "translation": "开发人员经常使用子类来实现继承并促进软件设计中的代码重用。"
+    }
+  ]
+}

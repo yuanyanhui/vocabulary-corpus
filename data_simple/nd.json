@@ -1,0 +1,33 @@
+{
+  "word": "and",
+  "phonetics": {
+    "british": "/ænd/ 或 /ənd/",
+    "american": "/ænd/ 或 /ənd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used to connect words, phrases, clauses, or sentences that are to be taken jointly, indicating addition or sequence.",
+      "chineseTranslation": "用于连接词语、短语、从句或句子，表示添加或顺序"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A Boolean operator that returns true only if both operands are true.",
+      "chineseTranslation": "布尔运算符，仅当两个操作数均为真时返回真"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I enjoy reading books and watching movies in my free time.",
+      "translation": "我喜欢在空闲时间阅读书籍和观看电影。"
+    },
+    {
+      "sentence": "The company reported profits and losses in its annual financial statement.",
+      "translation": "公司在其年度财务报表中报告了利润和损失。"
+    },
+    {
+      "sentence": "In logic, 'p and q' means both propositions must be true for the statement to hold.",
+      "translation": "在逻辑中，'p and q' 表示两个命题必须均为真，该陈述才成立。"
+    }
+  ]
+}

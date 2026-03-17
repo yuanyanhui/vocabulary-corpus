@@ -1,0 +1,38 @@
+{
+  "word": "dropout",
+  "phonetics": {
+    "british": "/ˈdrɒp.aʊt/",
+    "american": "/ˈdrɑːp.aʊt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who leaves school, college, or another educational program before completing it.",
+      "chineseTranslation": "辍学者"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A technique in machine learning and neural networks where certain neurons are randomly ignored during training to prevent overfitting.",
+      "chineseTranslation": "丢弃法（在机器学习中）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person who withdraws from conventional society or a particular activity.",
+      "chineseTranslation": "脱离者"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After becoming a high school dropout, he started his own business and became a millionaire.",
+      "translation": "成为高中辍学者后，他创办了自己的企业并成为百万富翁。"
+    },
+    {
+      "sentence": "In deep learning, dropout is used to reduce the risk of overfitting on the training data.",
+      "translation": "在深度学习中，丢弃法用于减少训练数据过拟合的风险。"
+    },
+    {
+      "sentence": "She's considered a social dropout because she prefers living off the grid.",
+      "translation": "她被视为社会脱离者，因为她更喜欢过离网生活。"
+    }
+  ]
+}

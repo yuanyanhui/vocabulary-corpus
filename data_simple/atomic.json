@@ -1,0 +1,38 @@
+{
+  "word": "atomic",
+  "phonetics": {
+    "british": "/əˈtɒmɪk/",
+    "american": "/əˈtɑːmɪk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to an atom or atoms; of or forming a single indivisible unit.",
+      "chineseTranslation": "与原子相关的；或形成单一不可分割的单位"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to nuclear energy or weapons, as in atomic power or atomic bombs.",
+      "chineseTranslation": "与核能或核武器相关的，例如原子能或原子弹"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, describing an operation that is performed as a single, uninterruptible unit.",
+      "chineseTranslation": "在计算机科学中，指作为一个单一、不可中断的单位执行的操作"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist explained the atomic theory in detail during the lecture.",
+      "translation": "科学家在讲座中详细解释了原子理论。"
+    },
+    {
+      "sentence": "In the era of atomic power, we must consider the risks of radiation.",
+      "translation": "在原子能时代，我们必须考虑辐射的风险。"
+    },
+    {
+      "sentence": "This software update includes atomic operations to ensure data integrity.",
+      "translation": "这个软件更新包括原子操作以确保数据完整性。"
+    }
+  ]
+}

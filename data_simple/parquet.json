@@ -1,0 +1,38 @@
+{
+  "word": "parquet",
+  "phonetics": {
+    "british": "/ˈpɑːkeɪ/",
+    "american": "/pɑrˈkeɪ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of flooring made from wooden blocks or strips arranged in a geometric pattern.",
+      "chineseTranslation": "镶木地板"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In theater, the part of the auditorium on the ground floor, often with tiered seating.",
+      "chineseTranslation": "剧院底层观众席"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A columnar storage file format used in big data processing, such as in Apache Hadoop.",
+      "chineseTranslation": "Parquet数据格式（列式存储文件格式）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old mansion had original parquet flooring that added to its charm.",
+      "translation": "这座老宅子有原装的镶木地板，增添了它的魅力。"
+    },
+    {
+      "sentence": "In modern data engineering, using Parquet can significantly reduce storage costs.",
+      "translation": "在现代数据工程中，使用Parquet可以显著降低存储成本。"
+    },
+    {
+      "sentence": "The theater's parquet level was filled with eager audience members.",
+      "translation": "剧院的底层观众席挤满了热切的观众。"
+    }
+  ]
+}

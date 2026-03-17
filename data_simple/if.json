@@ -1,0 +1,38 @@
+{
+  "word": "if",
+  "phonetics": {
+    "british": "/ɪf/",
+    "american": "/ɪf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "conjunction",
+      "definition": "Used to introduce a conditional clause, indicating a situation or event that must occur for another to happen.",
+      "chineseTranslation": "如果"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A conditional statement in programming or logic, typically used to make decisions based on certain conditions.",
+      "chineseTranslation": "如果语句（用于编程）"
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "In a manner that suggests or supposes something, often used in expressions like 'as if'.",
+      "chineseTranslation": "仿佛；好像"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If it rains tomorrow, we will cancel the picnic.",
+      "translation": "如果明天下雨，我们将取消野餐。"
+    },
+    {
+      "sentence": "In programming, you use an if statement to check if a variable is greater than zero.",
+      "translation": "在编程中，你使用if语句来检查变量是否大于零。"
+    },
+    {
+      "sentence": "She looked at me as if I were a stranger.",
+      "translation": "她看着我，好像我是陌生人一样。"
+    }
+  ]
+}

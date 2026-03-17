@@ -1,0 +1,33 @@
+{
+  "word": "initialization",
+  "phonetics": {
+    "british": "/ɪˌnɪʃəlaɪˈzeɪʃən/",
+    "american": "/ɪˌnɪʃələˈzeɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of preparing a system, device, or variable for use, often by setting it to an initial state or value.",
+      "chineseTranslation": "初始化过程"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, the act of assigning an initial value to a variable or data structure.",
+      "chineseTranslation": "在编程中，为变量或数据结构赋予初始值的行为"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "During the boot process, the computer's initialization routine checks all hardware components.",
+      "translation": "在启动过程中，计算机的初始化例程会检查所有硬件组件。"
+    },
+    {
+      "sentence": "In Java, initialization of an array is done using the new keyword.",
+      "translation": "在Java中，数组的初始化使用new关键字完成。"
+    },
+    {
+      "sentence": "The initialization of the project involved setting up the database and user interfaces.",
+      "translation": "项目的初始化涉及设置数据库和用户界面。"
+    }
+  ]
+}

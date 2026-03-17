@@ -1,0 +1,47 @@
+{
+  "word": "header",
+  "phonetics": {
+    "british": "/ˈhɛd.ər/",
+    "american": "/ˈhɛd.ɚ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The top section of a page or document that contains information such as titles, dates, or page numbers.",
+      "chineseTranslation": "页眉"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a block of data at the beginning of a file, message, or protocol that provides metadata or control information.",
+      "chineseTranslation": "标题（计算机术语）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In sports, such as soccer, the act of hitting the ball with one's head.",
+      "chineseTranslation": "头球"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To strike or play (a ball) with the head, as in soccer.",
+      "chineseTranslation": "用头击球"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The document's header displays the company logo and date.",
+      "translation": "文档的页眉显示公司标志和日期。"
+    },
+    {
+      "sentence": "In the code, the header contains essential metadata for the program.",
+      "translation": "在代码中，标题部分包含程序的基本元数据。"
+    },
+    {
+      "sentence": "He scored a brilliant header in the final minutes of the game.",
+      "translation": "他在比赛最后几分钟打入了一个精彩的头球。"
+    },
+    {
+      "sentence": "Web developers must ensure the HTTP header is properly configured for security.",
+      "translation": "网页开发者必须确保HTTP标题部分正确配置以保障安全。"
+    }
+  ]
+}

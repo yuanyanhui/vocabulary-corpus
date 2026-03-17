@@ -1,0 +1,33 @@
+{
+  "word": "syntax",
+  "phonetics": {
+    "british": "/ˈsɪntæks/",
+    "american": "/ˈsɪntæks/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The set of rules, principles, and processes that govern the structure of sentences in a language, including word order, phrase formation, and grammatical relationships.",
+      "chineseTranslation": "句法"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the arrangement of symbols and commands in a programming language that must be followed to write valid code.",
+      "chineseTranslation": "语法（计算机语境）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The syntax of English allows for flexible word order in questions.",
+      "translation": "英语的句法允许在疑问句中灵活调整词序。"
+    },
+    {
+      "sentence": "A syntax error occurred when I forgot to close the bracket in my code.",
+      "translation": "当我忘记关闭括号时，发生了语法错误。"
+    },
+    {
+      "sentence": "In generative grammar, syntax is studied through rules that generate infinite sentences.",
+      "translation": "在生成语法中，句法通过生成无限句子的规则来研究。"
+    }
+  ]
+}

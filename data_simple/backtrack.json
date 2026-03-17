@@ -1,0 +1,38 @@
+{
+  "word": "backtrack",
+  "phonetics": {
+    "british": "/ˌbækˈtræk/",
+    "american": "/ˌbækˈtræk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To retrace one's steps or path, often literally or figuratively, such as reversing a decision or policy.",
+      "chineseTranslation": "追溯或逆转路径、决定或政策"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to explore possible solutions by going back to a previous point when a path leads to a dead end, as in algorithms.",
+      "chineseTranslation": "在计算机中，回溯到先前点以探索解决方案"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A reversal of a previous action or decision.",
+      "chineseTranslation": "对先前行动或决定的逆转"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the meeting, the company decided to backtrack on the new policy.",
+      "translation": "会议后，公司决定逆转新政策。"
+    },
+    {
+      "sentence": "In programming, backtracking is used in algorithms like depth-first search to solve puzzles.",
+      "translation": "在编程中，回溯用于像深度优先搜索这样的算法来解决谜题。"
+    },
+    {
+      "sentence": "She had to backtrack her steps to find the lost keys.",
+      "translation": "她不得不追溯她的路径来找到丢失的钥匙。"
+    }
+  ]
+}

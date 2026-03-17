@@ -1,0 +1,33 @@
+{
+  "word": "ceil",
+  "phonetics": {
+    "british": "/siːl/",
+    "american": "/siːl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To provide or cover with a ceiling, such as lining the interior roof of a room.",
+      "chineseTranslation": "用天花板覆盖或装饰（如室内屋顶）"
+    },
+    {
+      "partOfSpeech": "noun (in mathematical contexts)",
+      "definition": "A function that rounds a number up to the nearest integer greater than or equal to it.",
+      "chineseTranslation": "向上取整函数（将数字向上舍入到最接近的整数）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The old house needed to be ceiled to improve insulation.",
+      "translation": "这座老房子需要安装天花板来改善隔热效果。"
+    },
+    {
+      "sentence": "Programmers often use the ceil function to handle floating-point numbers in calculations.",
+      "translation": "程序员经常使用向上取整函数来处理浮点数计算。"
+    },
+    {
+      "sentence": "After ceil the attic, the space became more usable for storage.",
+      "translation": "安装天花板后，阁楼空间变得更适合用于存储。"
+    }
+  ]
+}

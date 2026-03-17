@@ -1,0 +1,28 @@
+{
+  "word": "mv",
+  "phonetics": {
+    "british": "/ɛmˈviː/",
+    "american": "/ɛmˈviː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to move a file or directory from one location to another, often used as a command in Unix-like operating systems.",
+      "chineseTranslation": "在计算机中，用于移动文件或目录，常作为类Unix操作系统的命令"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the terminal, you can use mv to relocate files quickly.",
+      "translation": "在终端中，您可以使用 mv 快速移动文件。"
+    },
+    {
+      "sentence": "For safety, always add the -i flag with mv when overwriting files.",
+      "translation": "为了安全，在覆盖文件时总是添加 -i 标志与 mv 一起使用。"
+    },
+    {
+      "sentence": "System administrators often rely on mv for file management in scripts.",
+      "translation": "系统管理员经常在脚本中使用 mv 进行文件管理。"
+    }
+  ]
+}

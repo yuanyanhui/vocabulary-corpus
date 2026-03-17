@@ -1,0 +1,33 @@
+{
+  "word": "encapsulation",
+  "phonetics": {
+    "british": "/ɪnˌkæpsjʊˈleɪʃən/",
+    "american": "/ɪnˌkæpsəˈleɪʃən/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In object-oriented programming, the bundling of data with the methods that operate on that data, while restricting direct access to some of the object's components.",
+      "chineseTranslation": "在面向对象编程中，将数据与操作这些数据的函数捆绑在一起，并限制对某些组件的直接访问。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of enclosing something in a capsule or protective covering.",
+      "chineseTranslation": "将某物封装在胶囊或保护层中的过程。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Encapsulation in software design ensures that internal details are hidden from external users.",
+      "translation": "在软件设计中，封装确保内部细节对外部用户隐藏。"
+    },
+    {
+      "sentence": "The encapsulation of vitamins in gel capsules improves their stability and absorption.",
+      "translation": "将维生素封装在凝胶胶囊中提高了它们的稳定性和吸收率。"
+    },
+    {
+      "sentence": "Modern networking relies on encapsulation to manage data packets efficiently.",
+      "translation": "现代网络依赖封装来高效管理数据包。"
+    }
+  ]
+}

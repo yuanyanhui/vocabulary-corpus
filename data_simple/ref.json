@@ -1,0 +1,33 @@
+{
+  "word": "ref",
+  "phonetics": {
+    "british": "/rɛf/",
+    "american": "/rɛf/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "abbreviation (noun)",
+      "definition": "An informal abbreviation for 'reference', meaning a source of information cited in support of a fact, or a mention of something; in other contexts, it can mean 'referee' as in sports officiating.",
+      "chineseTranslation": "参考；裁判"
+    },
+    {
+      "partOfSpeech": "noun (as standalone term)",
+      "definition": "Short for 'reference' in computing or documentation, referring to a pointer or link to data.",
+      "chineseTranslation": "引用；指针"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The article includes several refs to historical documents.",
+      "translation": "这篇文章包括了几个对历史文件的参考。"
+    },
+    {
+      "sentence": "In football, the ref made a controversial call.",
+      "translation": "在足球比赛中，裁判做了一个有争议的判罚。"
+    },
+    {
+      "sentence": "This code uses a ref to point to the memory address.",
+      "translation": "这个代码使用一个引用来指向内存地址。"
+    }
+  ]
+}

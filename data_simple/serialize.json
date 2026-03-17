@@ -1,0 +1,33 @@
+{
+  "word": "serialize",
+  "phonetics": {
+    "british": "/ˈsɪrɪəlaɪz/",
+    "american": "/ˈsɛrəlaɪz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To convert an object or data structure into a format that can be easily stored or transmitted, often as a sequence of bytes.",
+      "chineseTranslation": "序列化"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To arrange or publish in a series, such as episodes or installments.",
+      "chineseTranslation": "使成为系列"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The developer decided to serialize the user profiles to ensure compatibility across different systems.",
+      "translation": "开发人员决定序列化用户配置文件，以确保在不同系统间的兼容性。"
+    },
+    {
+      "sentence": "In the novel, the author chose to serialize the story in a monthly magazine.",
+      "translation": "在小说中，作者选择在月刊上连载故事。"
+    },
+    {
+      "sentence": "To optimize performance, we must serialize the array before processing it in the algorithm.",
+      "translation": "为了优化性能，我们必须在算法中处理数组之前对其进行序列化。"
+    }
+  ]
+}

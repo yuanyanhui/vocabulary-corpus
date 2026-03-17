@@ -1,0 +1,38 @@
+{
+  "word": "heterodyne",
+  "phonetics": {
+    "british": "/ˈhɛtərəʊdaɪn/",
+    "american": "/ˈhɛtəroʊdaɪn/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mix two electrical waves of different frequencies, producing new frequencies that are the sums and differences of the original frequencies, commonly used in radio and signal processing.",
+      "chineseTranslation": "混频；使异频"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or producing new frequencies by combining two different frequencies.",
+      "chineseTranslation": "异频的；混频的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The frequency produced by mixing two other frequencies.",
+      "chineseTranslation": "混频信号"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Engineers use heterodyne techniques to demodulate signals in wireless communications.",
+      "translation": "工程师们使用混频技术来解调无线通信中的信号。"
+    },
+    {
+      "sentence": "In a heterodyne system, the mixer combines the local oscillator frequency with the incoming signal.",
+      "translation": "在异频系统中，混频器将本地振荡器频率与传入信号结合。"
+    },
+    {
+      "sentence": "The invention of the heterodyne method revolutionized early radio broadcasting.",
+      "translation": "异频方法的发明彻底改变了早期的无线电广播。"
+    }
+  ]
+}

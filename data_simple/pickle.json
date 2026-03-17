@@ -1,0 +1,47 @@
+{
+  "word": "pickle",
+  "phonetics": {
+    "british": "/ˈpɪkəl/",
+    "american": "/ˈpɪkəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A food, especially vegetables or fruit, preserved in vinegar or brine.",
+      "chineseTranslation": "腌制食品（如蔬菜或水果）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A difficult or awkward situation.",
+      "chineseTranslation": "困境或尴尬的处境"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To preserve (food) in vinegar, brine, or a similar solution.",
+      "chineseTranslation": "腌制（食物）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to serialize an object into a byte stream (e.g., in Python programming).",
+      "chineseTranslation": "在计算机编程中，将对象序列化为字节流（如Python中的pickle模块）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She made a jar of homemade pickles for the picnic.",
+      "translation": "她为野餐做了一罐自制腌菜。"
+    },
+    {
+      "sentence": "After the argument, he found himself in a real pickle at work.",
+      "translation": "争论后，他在工作中发现自己陷入了真正的困境。"
+    },
+    {
+      "sentence": "You need to pickle the cucumbers before they go bad.",
+      "translation": "你需要在黄瓜变坏之前腌制它们。"
+    },
+    {
+      "sentence": "The program uses pickle to save data objects to a file.",
+      "translation": "该程序使用pickle将数据对象保存到文件中。"
+    }
+  ]
+}

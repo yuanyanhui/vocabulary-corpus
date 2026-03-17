@@ -1,0 +1,33 @@
+{
+  "word": "sanitizer",
+  "phonetics": {
+    "british": "/ˈsænɪtaɪzə/",
+    "american": "/ˈsænətaɪzər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A substance or agent used to clean and disinfect surfaces or skin, often by killing germs and bacteria.",
+      "chineseTranslation": "消毒剂；清洁剂"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a tool or program that removes or neutralizes malicious code or data.",
+      "chineseTranslation": "净化器（如计算机中的病毒清除工具）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "During the pandemic, people started carrying sanitizer everywhere.",
+      "translation": "在疫情期间，人们开始随身携带消毒剂。"
+    },
+    {
+      "sentence": "The new sanitizer formula is alcohol-free and gentle on the skin.",
+      "translation": "这种新型消毒剂配方不含酒精，对皮肤温和。"
+    },
+    {
+      "sentence": "In software development, a sanitizer can prevent SQL injection attacks.",
+      "translation": "在软件开发中，净化器可以防止SQL注入攻击。"
+    }
+  ]
+}

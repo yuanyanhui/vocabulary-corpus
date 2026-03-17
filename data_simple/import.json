@@ -1,0 +1,38 @@
+{
+  "word": "import",
+  "phonetics": {
+    "british": "/ɪmˈpɔːt/ (as verb), /ˈɪmpɔːt/ (as noun)",
+    "american": "/ɪmˈpɔrt/ (as verb), /ˈɪmpɔrt/ (as noun)"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "to bring (goods or services) into a country from abroad for sale or use",
+      "chineseTranslation": "进口；引进"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the action of bringing in goods or services from another country, or the goods themselves",
+      "chineseTranslation": "进口；进口品"
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "to include or load a module or data from another source in programming",
+      "chineseTranslation": "导入（如在编程中）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company decided to import raw materials from China to reduce costs.",
+      "translation": "公司决定从中国进口原材料以降低成本。"
+    },
+    {
+      "sentence": "In programming, you can import libraries to extend functionality.",
+      "translation": "在编程中，您可以导入库来扩展功能。"
+    },
+    {
+      "sentence": "High import taxes have affected the availability of luxury goods in the market.",
+      "translation": "高进口税影响了市场上奢侈品的可用性。"
+    }
+  ]
+}

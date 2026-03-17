@@ -1,0 +1,33 @@
+{
+  "word": "applicative",
+  "phonetics": {
+    "british": "/əˈplɪkətɪv/",
+    "american": "/əˈplɪkətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or denoting a computational style or function that applies operations to values in a structured way, often used in functional programming to sequence effects.",
+      "chineseTranslation": "应用的；应用式的"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A type of functor or structure in category theory that allows for the application of functions within a context.",
+      "chineseTranslation": "应用函子或结构"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The applicative style in programming allows for more modular code by applying functions to wrapped values.",
+      "translation": "编程中的应用式风格通过将函数应用到包装的值中来实现更模块化的代码。"
+    },
+    {
+      "sentence": "Researchers are exploring applicative approaches to handle concurrent operations in software development.",
+      "translation": "研究人员正在探索应用式方法来处理软件开发中的并发操作。"
+    },
+    {
+      "sentence": "Using an applicative functor can simplify error handling in functional languages.",
+      "translation": "使用应用函子可以简化函数式语言中的错误处理。"
+    }
+  ]
+}

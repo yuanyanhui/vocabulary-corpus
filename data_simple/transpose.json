@@ -1,0 +1,38 @@
+{
+  "word": "transpose",
+  "phonetics": {
+    "british": "/trænsˈpəʊz/",
+    "american": "/trænsˈpoʊz/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To change the positions of two or more things with each other; to transfer something to a different place, context, or form.",
+      "chineseTranslation": "移位；转置；变换位置"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In music, to rewrite or perform a piece in a different key.",
+      "chineseTranslation": "移调"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The act of transposing, especially a matrix in mathematics or a shift in music.",
+      "chineseTranslation": "转置；移调"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pianist had to transpose the piece into a higher key to match the orchestra.",
+      "translation": "钢琴家必须将这首曲子移调到更高的调门，以匹配管弦乐队。"
+    },
+    {
+      "sentence": "In programming, we often transpose arrays to reorganize the data structure.",
+      "translation": "在编程中，我们经常转置数组来重新组织数据结构。"
+    },
+    {
+      "sentence": "The editor suggested transposing the chapters to improve the narrative flow.",
+      "translation": "编辑建议交换章节顺序以改善叙述流畅度。"
+    }
+  ]
+}

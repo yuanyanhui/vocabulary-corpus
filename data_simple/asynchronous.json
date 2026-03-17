@@ -1,0 +1,33 @@
+{
+  "word": "asynchronous",
+  "phonetics": {
+    "british": "/eɪˈsɪŋkrənəs/",
+    "american": "/eɪˈsɪŋkrənəs/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not occurring at the same time; lacking synchronization.",
+      "chineseTranslation": "异步的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, referring to processes that do not happen simultaneously and may proceed independently.",
+      "chineseTranslation": "在计算机中，指不同时发生的进程"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In asynchronous programming, tasks can run in the background without blocking the main thread.",
+      "translation": "在异步编程中，任务可以在后台运行而不阻塞主线程。"
+    },
+    {
+      "sentence": "The asynchronous nature of email means you don't have to reply immediately.",
+      "translation": "电子邮件的异步特性意味着你不必立即回复。"
+    },
+    {
+      "sentence": "Asynchronous events in history, like the Industrial Revolution, influenced global development at varying paces.",
+      "translation": "历史上异步事件，如工业革命，以不同的速度影响了全球发展。"
+    }
+  ]
+}

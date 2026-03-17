@@ -1,0 +1,38 @@
+{
+  "word": "polymorphism",
+  "phonetics": {
+    "british": "/ˌpɒlɪˈmɔːfɪzəm/",
+    "american": "/ˌpɑːlɪˈmɔːrfɪzəm/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In biology, the occurrence of two or more clearly different forms (such as morphs) in the phenotype of a species.",
+      "chineseTranslation": "在生物学中，多形性，指一个物种中出现两种或多种明显不同的形态。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer science, a principle in object-oriented programming where objects of different classes can be treated as objects of a common superclass.",
+      "chineseTranslation": "在计算机科学中，多态性，指面向对象编程中的一种原则，允许不同类的对象被视为同一超类的对象。"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "The ability of a substance to exist in more than one crystal structure.",
+      "chineseTranslation": "在化学中，指物质存在多种晶体结构的能力。"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The study of genetic polymorphism has revolutionized medical research.",
+      "translation": "遗传多形性的研究已经彻底改变了医学研究。"
+    },
+    {
+      "sentence": "In Java, polymorphism enables methods to be used with different data types.",
+      "translation": "在Java中，多态性允许方法与不同数据类型一起使用。"
+    },
+    {
+      "sentence": "Polymorphism in minerals like carbon results in forms such as diamond and graphite.",
+      "translation": "碳等矿物质的多形性导致了如钻石和石墨等形式。"
+    }
+  ]
+}

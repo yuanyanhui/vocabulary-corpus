@@ -1,0 +1,33 @@
+{
+  "word": "destructor",
+  "phonetics": {
+    "british": "/dɪˈstrʌktə/",
+    "american": "/dɪˈstrʌktər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A special member function in object-oriented programming that is automatically called when an object is destroyed or goes out of scope, used to release resources such as memory.",
+      "chineseTranslation": "析构函数"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person or thing that destroys or causes destruction.",
+      "chineseTranslation": "破坏者"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The destructor in this C++ program frees the allocated memory to prevent leaks.",
+      "translation": "这个 C++ 程序中的析构函数释放了分配的内存以防止泄漏。"
+    },
+    {
+      "sentence": "As a destructor of ancient artifacts, the archaeologist's rival sought to erase history.",
+      "translation": "作为古迹破坏者，该考古学家的对手试图抹去历史。"
+    },
+    {
+      "sentence": "In software engineering, ignoring the destructor can lead to critical errors in resource management.",
+      "translation": "在软件工程中，忽略析构函数会导致资源管理中的关键错误。"
+    }
+  ]
+}

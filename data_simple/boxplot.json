@@ -1,0 +1,28 @@
+{
+  "word": "boxplot",
+  "phonetics": {
+    "british": "/ˈbɒks.plɒt/",
+    "american": "/ˈbɑːks.plɑːt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A graphical representation of a dataset's distribution, typically showing the median, quartiles, and outliers to summarize data spread and identify potential anomalies.",
+      "chineseTranslation": "箱形图"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In statistics class, the teacher used a boxplot to illustrate the range of test scores.",
+      "translation": "在统计课上，老师使用箱形图来说明考试成绩的范围。"
+    },
+    {
+      "sentence": "Data scientists often rely on boxplots to detect outliers in large datasets during machine learning projects.",
+      "translation": "数据科学家在机器学习项目中经常依赖箱形图来检测大型数据集中的异常值。"
+    },
+    {
+      "sentence": "The boxplot in the research paper clearly showed the median salary differences across regions.",
+      "translation": "研究论文中的箱形图清楚地显示了不同地区的中位数薪资差异。"
+    }
+  ]
+}

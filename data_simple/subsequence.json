@@ -1,0 +1,28 @@
+{
+  "word": "subsequence",
+  "phonetics": {
+    "british": "/ˈsʌb.sɪ.kwəns/",
+    "american": "/ˈsʌb.sɪ.kwens/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements.",
+      "chineseTranslation": "子序列"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the string 'abcde', 'ace' is a subsequence because it maintains the original order.",
+      "translation": "在字符串 'abcde' 中，'ace' 是一个子序列，因为它保持了原有的顺序。"
+    },
+    {
+      "sentence": "The algorithm efficiently computes the longest subsequence of a given sequence.",
+      "translation": "该算法高效地计算给定序列的最长子序列。"
+    },
+    {
+      "sentence": "Subsequences are not necessarily contiguous, unlike substrings.",
+      "translation": "子序列不一定连续，这与子字符串不同。"
+    }
+  ]
+}

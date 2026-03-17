@@ -1,0 +1,28 @@
+{
+  "word": "callee",
+  "phonetics": {
+    "british": "/kəˈliː/",
+    "american": "/kæˈliː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "In programming, the function or routine that is invoked or called by another function.",
+      "chineseTranslation": "被调用方（如函数或程序）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "When the caller function invokes the callee, it passes the necessary arguments.",
+      "translation": "当调用方函数调用被调用方时，它传递必要的参数。"
+    },
+    {
+      "sentence": "In telephony systems, the callee is the party who receives the call.",
+      "translation": "在电话系统中，被调用方是接收电话的一方。"
+    },
+    {
+      "sentence": "Debugging the callee in this recursive algorithm revealed the efficiency issues.",
+      "translation": "调试这个递归算法中的被调用方揭示了效率问题。"
+    }
+  ]
+}

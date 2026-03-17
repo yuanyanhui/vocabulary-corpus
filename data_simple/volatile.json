@@ -1,0 +1,42 @@
+{
+  "word": "volatile",
+  "phonetics": {
+    "british": "/ˈvɒlətaɪl/",
+    "american": "/ˈvɑːlətaɪl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Liable to change rapidly and unpredictably, especially in reference to substances that evaporate quickly.",
+      "chineseTranslation": "易挥发的；不稳定的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, describing memory that loses its contents when power is turned off.",
+      "chineseTranslation": "易失的（尤指计算机内存）"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Figuratively, tending to erupt into violence or exhibit unpredictable behavior.",
+      "chineseTranslation": "易爆发的；多变的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The volatile nature of the chemical made it dangerous to handle without proper ventilation.",
+      "translation": "这种化学物质的易挥发特性使其在没有适当通风的情况下处理起来很危险。"
+    },
+    {
+      "sentence": "In today's volatile economy, stock prices can fluctuate wildly based on global events.",
+      "translation": "在当今不稳定的经济环境中，股票价格可能会根据全球事件剧烈波动。"
+    },
+    {
+      "sentence": "The programmer ensured that the data was saved to non-volatile storage to prevent loss.",
+      "translation": "程序员确保数据保存到非易失存储中以防止丢失。"
+    },
+    {
+      "sentence": "Her volatile temper often led to arguments with colleagues.",
+      "translation": "她易爆发的脾气经常导致与同事发生争执。"
+    }
+  ]
+}

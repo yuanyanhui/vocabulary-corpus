@@ -1,0 +1,38 @@
+{
+  "word": "porter",
+  "phonetics": {
+    "british": "/ˈpɔːtə(r)/",
+    "american": "/ˈpɔrtər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A person employed to carry luggage and other loads, especially in hotels, railway stations, or airports.",
+      "chineseTranslation": "门房；搬运工"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A dark brown beer brewed from malted barley, often with a strong, malty flavor.",
+      "chineseTranslation": "波特酒（一种深色啤酒）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a term related to stemming algorithms, such as the Porter stemmer, which reduces words to their root form.",
+      "chineseTranslation": "波特算法（用于词干提取）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The porter at the station helped load the heavy suitcases onto the train.",
+      "translation": "车站的搬运工帮忙把沉重的行李装上火车。"
+    },
+    {
+      "sentence": "In Victorian England, porter was a popular drink among the working class.",
+      "translation": "在维多利亚时代的英国，波特酒是工人阶级的流行饮品。"
+    },
+    {
+      "sentence": "The Porter stemmer algorithm is widely used in natural language processing to normalize words.",
+      "translation": "波特算法在自然语言处理中广泛用于词干规范化。"
+    }
+  ]
+}

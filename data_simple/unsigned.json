@@ -1,0 +1,33 @@
+{
+  "word": "unsigned",
+  "phonetics": {
+    "british": "/ʌnˈsaɪnd/",
+    "american": "/ʌnˈsaɪnd/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Not bearing a signature or mark of authentication.",
+      "chineseTranslation": "未签名的"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "In computing, representing numbers that are positive or zero without a sign bit, allowing for larger positive values.",
+      "chineseTranslation": "无符号的（计算机术语，指不区分正负的数值表示）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The artist refused to sell the unsigned painting.",
+      "translation": "那位艺术家拒绝出售那幅未签名的画作。"
+    },
+    {
+      "sentence": "Programmers often use unsigned variables to avoid negative values in calculations.",
+      "translation": "程序员经常使用无符号变量来避免计算中的负值。"
+    },
+    {
+      "sentence": "She left the room with an unsigned letter on the table.",
+      "translation": "她离开了房间，桌子上留着一封未签名的信。"
+    }
+  ]
+}

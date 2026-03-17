@@ -1,0 +1,33 @@
+{
+  "word": "remount",
+  "phonetics": {
+    "british": "/riːˈmaʊnt/",
+    "american": "/riːˈmaʊnt/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "verb",
+      "definition": "To mount or get on something, such as a horse or a vehicle, again after dismounting.",
+      "chineseTranslation": "重新骑上或登上（如马或车辆）"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "In computing, to make a filesystem or storage device accessible again after it has been unmounted.",
+      "chineseTranslation": "在计算机中，重新挂载文件系统或存储设备"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The jockey remounted his horse after a brief rest during the race.",
+      "translation": "骑师在比赛中短暂休息后重新骑上他的马。"
+    },
+    {
+      "sentence": "In Linux, you can remount a partition using the command 'mount -o remount,rw /dev/sda1'.",
+      "translation": "在Linux中，您可以使用命令 'mount -o remount,rw /dev/sda1' 重新挂载分区。"
+    },
+    {
+      "sentence": "After the storm, the explorers had to remount their expedition with new supplies.",
+      "translation": "风暴过后，探险者们必须用新补给重新开始他们的探险。"
+    }
+  ]
+}

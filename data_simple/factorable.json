@@ -1,0 +1,28 @@
+{
+  "word": "factorable",
+  "phonetics": {
+    "british": "/ˈfæk.tər.ə.bəl/",
+    "american": "/ˈfæk.tɚ.ə.bəl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Capable of being factored or decomposed into factors, especially in mathematics, such as a polynomial that can be expressed as a product of simpler polynomials.",
+      "chineseTranslation": "可以分解的；可因式分解的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The quadratic equation x² - 4 is factorable into (x - 2)(x + 2).",
+      "translation": "二次方程 x² - 4 可以因式分解为 (x - 2)(x + 2)。"
+    },
+    {
+      "sentence": "Not all cubic equations are factorable over the real numbers.",
+      "translation": "并非所有三次方程都在实数范围内可以因式分解。"
+    },
+    {
+      "sentence": "In cryptography, factorable keys can pose security risks.",
+      "translation": "在密码学中，可因式分解的密钥可能带来安全风险。"
+    }
+  ]
+}

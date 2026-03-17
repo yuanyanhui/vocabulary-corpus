@@ -1,0 +1,28 @@
+{
+  "word": "msb",
+  "phonetics": {
+    "british": "/ˌɛm ɛs ˈbiː/",
+    "american": "/ˌɛm ɛs ˈbiː/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An abbreviation for 'Most Significant Bit', referring to the bit in a binary number that represents the highest value position.",
+      "chineseTranslation": "最显著位，指在二进制数中具有最高权值的位"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In the binary number 1010, the MSB is 1, which represents the highest power of 2.",
+      "translation": "在二进制数1010中，最显著位是1，它代表最高的2的幂。"
+    },
+    {
+      "sentence": "Programmers often check the MSB to determine the sign of a number in two's complement.",
+      "translation": "程序员经常检查最显著位来确定补码中的数字符号。"
+    },
+    {
+      "sentence": "The MSB in this data packet is used for error checking.",
+      "translation": "这个数据包中的最显著位用于错误检查。"
+    }
+  ]
+}

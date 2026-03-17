@@ -1,0 +1,33 @@
+{
+  "word": "knapsack",
+  "phonetics": {
+    "british": "/ˈnæpsæk/",
+    "american": "/ˈnæpˌsæk/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A bag with shoulder straps that is carried on the back, typically used for carrying personal belongings, equipment, or supplies, especially during outdoor activities like hiking or military operations.",
+      "chineseTranslation": "背包"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computer science, a problem in combinatorial optimization where one must select items of different weights and values to maximize value while not exceeding a given capacity.",
+      "chineseTranslation": "背包问题（计算机科学术语）"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The soldier carried his knapsack filled with rations and ammunition through the rugged terrain.",
+      "translation": "士兵带着装满口粮和弹药的背包穿越崎岖地形。"
+    },
+    {
+      "sentence": "During the camping trip, we realized our knapsack was too heavy for the long hike.",
+      "translation": "在露营旅行中，我们意识到我们的背包太重，不适合长途徒步。"
+    },
+    {
+      "sentence": "In programming, solving the knapsack problem efficiently requires dynamic programming techniques.",
+      "translation": "在编程中，高效解决背包问题需要动态规划技术。"
+    }
+  ]
+}

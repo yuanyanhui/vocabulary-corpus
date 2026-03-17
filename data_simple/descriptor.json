@@ -1,0 +1,33 @@
+{
+  "word": "descriptor",
+  "phonetics": {
+    "british": "/dɪˈskrɪptə/",
+    "american": "/dɪˈskrɪptər/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A word, phrase, or symbol that identifies or describes a particular person, object, or concept.",
+      "chineseTranslation": "描述符"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a data value or identifier that provides information about another data element, such as a file or memory address.",
+      "chineseTranslation": "在计算机中，指提供关于其他数据元素信息的标识符"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The descriptor 'vibrant' perfectly captures the energy of the city streets.",
+      "translation": "描述符 'vibrant' 完美捕捉了城市街道的活力。"
+    },
+    {
+      "sentence": "Programmers use a file descriptor to manage input and output operations efficiently.",
+      "translation": "程序员使用文件描述符来高效管理输入和输出操作。"
+    },
+    {
+      "sentence": "In linguistics, a descriptor can be a key term that defines the core attributes of a language feature.",
+      "translation": "在语言学中，描述符可以是定义语言特征核心属性的关键术语。"
+    }
+  ]
+}

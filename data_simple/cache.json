@@ -1,0 +1,38 @@
+{
+  "word": "cache",
+  "phonetics": {
+    "british": "/kæʃ/",
+    "american": "/kæʃ/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A hidden store of provisions, weapons, or other supplies, often in a secret place.",
+      "chineseTranslation": "隐藏的贮藏物或供应品（如食物、武器等）"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, a hardware or software component that stores data so that future requests for that data can be served faster.",
+      "chineseTranslation": "在计算机中，用于存储频繁访问数据的快速内存组件"
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "To store data in a cache memory for quick retrieval.",
+      "chineseTranslation": "将数据存储在缓存中以加快后续访问"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The hikers found a cache of supplies in the cave.",
+      "translation": "徒步旅行者们在洞穴中发现了一个供应品贮藏。"
+    },
+    {
+      "sentence": "Modern browsers automatically cache images to improve page load times.",
+      "translation": "现代浏览器自动缓存图像以提高页面加载速度。"
+    },
+    {
+      "sentence": "During the war, soldiers would cache weapons in safe locations.",
+      "translation": "在战争期间，士兵们会将武器隐藏在安全地点。"
+    }
+  ]
+}

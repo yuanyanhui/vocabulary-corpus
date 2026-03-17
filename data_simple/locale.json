@@ -1,0 +1,33 @@
+{
+  "word": "locale",
+  "phonetics": {
+    "british": "/ləʊˈkɑːl/",
+    "american": "/loʊˈkæl/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A place or locality, especially with reference to events, characteristics, or atmosphere.",
+      "chineseTranslation": "地点；场所"
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "In computing, the set of parameters that defines the user's language, region, and cultural conventions for software applications.",
+      "chineseTranslation": "本地化设置；区域设置"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The novel is set in a quaint locale in rural France, capturing the essence of village life.",
+      "translation": "这部小说以法国乡村的一个宁静场所为背景，捕捉了村庄生活的本质。"
+    },
+    {
+      "sentence": "In software development, developers must consider the locale to ensure proper handling of currency symbols.",
+      "translation": "在软件开发中，开发人员必须考虑区域设置以确保正确处理货币符号。"
+    },
+    {
+      "sentence": "Tourists often seek out unique locales for photography, such as hidden beaches in Southeast Asia.",
+      "translation": "游客经常寻找独特场所进行摄影，例如东南亚的隐秘海滩。"
+    }
+  ]
+}

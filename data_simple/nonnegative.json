@@ -1,0 +1,28 @@
+{
+  "word": "nonnegative",
+  "phonetics": {
+    "british": "/ˌnɒnˈnɛɡətɪv/",
+    "american": "/ˌnɑːnˈnɛɡətɪv/"
+  },
+  "definitions": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Greater than or equal to zero; not negative.",
+      "chineseTranslation": "非负的"
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist ensured that all values in the dataset were nonnegative.",
+      "translation": "科学家确保数据集中的所有值都是非负的。"
+    },
+    {
+      "sentence": "In linear algebra, matrices with nonnegative entries are common in optimization problems.",
+      "translation": "在线性代数中，具有非负条目的矩阵在优化问题中很常见。"
+    },
+    {
+      "sentence": "The function will return a nonnegative result if the input is valid.",
+      "translation": "如果输入有效，该函数将返回一个非负结果。"
+    }
+  ]
+}
