@@ -15,11 +15,15 @@ UPDATED_DIR = "updated_nim"
 
 NVIDIA_NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
 NVIDIA_NIM_MODEL = "moonshotai/kimi-k2.5" # "minimaxai/minimax-m2.5" "nvidia/nemotron-3-super-120b-a12b" "qwen/qwen3.5-397b-a17b" "z-ai/glm5"  "moonshotai/kimi-k2.5"
-nvidia_client = OpenAI(base_url=NVIDIA_NIM_BASE_URL, api_key=os.environ.get("NVIDIA_API_KEY"))
+# nvidia_client = OpenAI(base_url=NVIDIA_NIM_BASE_URL, api_key=os.environ.get("NVIDIA_API_KEY"))
 
 CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
 CEREBRAS_MODEL = "qwen-3-235b-a22b-instruct-2507" # "zai-glm-4.7" 
-cerebras_client = OpenAI(base_url=CEREBRAS_BASE_URL, api_key=os.environ.get("CEREBRAS_API_KEY"))
+# cerebras_client = OpenAI(base_url=CEREBRAS_BASE_URL, api_key=os.environ.get("CEREBRAS_API_KEY"))
+
+GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+GROQ_MODEL = "openai/gpt-oss-120b" 
+groq_client = OpenAI(base_url=GROQ_BASE_URL, api_key=os.environ.get("GROQ_API_KEY"))
 
 
 def generate_batch_prompt(words: list[dict]) -> str:
@@ -186,7 +190,7 @@ def openai_generate(client: OpenAI, model: str, user_message: str, system_prompt
         stream=False,
         # Force the model to output a valid JSON object
         response_format={"type": "json_object"},
-        extra_body={"chat_template_kwargs": {"enable_thinking": True, "clear_thinking": False}},
+        # extra_body={"chat_template_kwargs": {"enable_thinking": True, "clear_thinking": False}},
     )
 
     reasoning = getattr(response.choices[0].message, 'reasoning_content', None) 
@@ -241,7 +245,8 @@ def main():
                 words = json.load(f)
             
             prompt = generate_batch_prompt(words)
-            updated_words = openai_generate(nvidia_client, NVIDIA_NIM_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
+            # updated_words = openai_generate(nvidia_client, NVIDIA_NIM_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
+            updated_words = openai_generate(groq_client, GROQ_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
             
             # save the updated words to the "updated" directory with the same filename
             with open(updated_path, "w", encoding='utf-8') as f:
