@@ -14,8 +14,8 @@ SOURCE_DIR = "source"
 UPDATED_DIR = "updated_nim"
 
 NVIDIA_NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
-NVIDIA_NIM_MODEL = "moonshotai/kimi-k2.5" # "minimaxai/minimax-m2.5" "nvidia/nemotron-3-super-120b-a12b" "qwen/qwen3.5-397b-a17b" "z-ai/glm5"  "moonshotai/kimi-k2.5"
-# nvidia_client = OpenAI(base_url=NVIDIA_NIM_BASE_URL, api_key=os.environ.get("NVIDIA_API_KEY"))
+NVIDIA_NIM_MODEL = "qwen/qwen3.5-397b-a17b" # "minimaxai/minimax-m2.5" "nvidia/nemotron-3-super-120b-a12b" "qwen/qwen3.5-397b-a17b" "z-ai/glm5"  "moonshotai/kimi-k2.5"
+nvidia_client = OpenAI(base_url=NVIDIA_NIM_BASE_URL, api_key=os.environ.get("NVIDIA_API_KEY"))
 
 CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
 CEREBRAS_MODEL = "qwen-3-235b-a22b-instruct-2507" # "zai-glm-4.7" 
@@ -23,7 +23,7 @@ CEREBRAS_MODEL = "qwen-3-235b-a22b-instruct-2507" # "zai-glm-4.7"
 
 GROQ_BASE_URL = "https://api.groq.com/openai/v1"
 GROQ_MODEL = "openai/gpt-oss-120b" 
-groq_client = OpenAI(base_url=GROQ_BASE_URL, api_key=os.environ.get("GROQ_API_KEY"))
+# groq_client = OpenAI(base_url=GROQ_BASE_URL, api_key=os.environ.get("GROQ_API_KEY"))
 
 
 def generate_batch_prompt(words: list[dict]) -> str:
@@ -44,7 +44,9 @@ def generate_batch_prompt(words: list[dict]) -> str:
        * *Clue:* If a word like "battle" is used as a verb in the example sentence, it MUST be mapped to a definition where the `partOfSpeech` is "verb", not "noun".
     2. **Move, Do Not Copy:** Remove the "examples" array from the root level and nest the examples inside the corresponding "definitions" object. If a definition has no matching examples, assign it an empty array: `"examples": []`.
     3. **Preserve Content:** Do NOT alter, add, or remove any original text, definitions, or translations. Only change the JSON structure.
-    4. **Valid JSON Only:** Your output MUST be a single, valid JSON array. Do not include introductory text, conversational filler, or markdown formatting outside of the JSON block.
+    4. **Complete Mapping:** ALL words and their definitions in the json array must be properly mapped.
+    5. **Valid JSON Only:** Your output MUST be a single, valid JSON array including all entries. Do not include introductory text, conversational filler, or markdown formatting outside of the JSON block.
+   
 
     ### Example
 
@@ -245,8 +247,8 @@ def main():
                 words = json.load(f)
             
             prompt = generate_batch_prompt(words)
-            # updated_words = openai_generate(nvidia_client, NVIDIA_NIM_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
-            updated_words = openai_generate(groq_client, GROQ_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
+            updated_words = openai_generate(nvidia_client, NVIDIA_NIM_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
+            # updated_words = openai_generate(groq_client, GROQ_MODEL, prompt, system_prompt=SYSTEM_PROMPT)
             
             # save the updated words to the "updated" directory with the same filename
             with open(updated_path, "w", encoding='utf-8') as f:
